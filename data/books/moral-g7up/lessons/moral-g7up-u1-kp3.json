@@ -1,0 +1,47 @@
+{
+  "id": "moral-g7up-u1-kp3",
+  "title": "友谊与师生交往",
+  "bookId": "moral-g7up",
+  "unitNumber": 1,
+  "unitTitle": "成长的节拍",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "友谊与师生交往",
+      "question": "友谊是平等的、双向的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "友谊的特质。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "友谊与师生交往",
+      "question": "对待老师的批评，正确态度是（　）",
+      "options": [
+        "顶撞老师",
+        "理解老师的良苦用心并改正",
+        "置之不理",
+        "背后抱怨"
+      ],
+      "answer": "理解老师的良苦用心并改正",
+      "explanation": "正确对待批评。"
+    }
+  ],
+  "knowledge": {
+    "point": "友谊与师生交往",
+    "core_concept": "友谊是平等的、双向的，需要用心呵护；友谊不能没有原则。师生交往要主动沟通、尊重老师，正确对待老师的表扬和批评。",
+    "key_formula": "平等、双向、有原则",
+    "common_mistakes": [
+      "认为友谊就是无条件支持。"
+    ],
+    "tips": "友谊需要原则。"
+  }
+}

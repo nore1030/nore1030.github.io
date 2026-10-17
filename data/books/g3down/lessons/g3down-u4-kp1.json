@@ -1,0 +1,161 @@
+{
+  "id": "g3down-u4-kp1",
+  "title": "口算乘法",
+  "bookId": "g3down",
+  "unitNumber": 4,
+  "unitTitle": "两位数乘两位数",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "因为 $2 \times 3 = 6$，所以 $20 \times 30 = 60$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$20 \times 30 = 600$。计算 $20 \times 30$ 时，先算 $2 \times 3 = 6$，再在积的末尾添上两个 0，结果是 600。验算：$600 \times 10 \times 10 = 6 \times 100 = 600$ ✓。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "计算 $40 \times 50$ 时，积的末尾有两个 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$4 \times 5 = 20$，再添两个 0 得到 2000，积的末尾有三个 0。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$30 \times 80$ 的积是：",
+      "options": [
+        "240",
+        "2400",
+        "24",
+        "24000"
+      ],
+      "answer": "2400",
+      "explanation": "$3 \times 8 = 24$，两个数末尾共有两个 0，所以积是 2400。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$14 \times 20$ 的积是：",
+      "options": [
+        "28",
+        "280",
+        "140",
+        "2800"
+      ],
+      "answer": "280",
+      "explanation": "$14 \times 2 = 28$，末尾补一个 0，结果为 280。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$50 \times 60$ 的积的末尾有几个 0？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "3 个",
+      "explanation": "$5 \times 6 = 30$，补两个 0，得 3000，共有 3 个 0。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "一个数乘 10，得到的积是 540，这个数是：",
+      "options": [
+        "54",
+        "540",
+        "5",
+        "5400"
+      ],
+      "answer": "54",
+      "explanation": "$540 \times \text{÷} 10 = 54$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "最大的一位数与最小的两位数的乘积是：",
+      "options": [
+        "90",
+        "10",
+        "99",
+        "100"
+      ],
+      "answer": "90",
+      "explanation": "$9 \times 10 = 90$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$15 \times 40$ 的积是：",
+      "options": [
+        "60",
+        "600",
+        "150",
+        "400"
+      ],
+      "answer": "600",
+      "explanation": "$15 \times 4 = 60$，补一个 0 是 600。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "20 乘 50 的积是 ___。",
+      "options": [],
+      "answer": "1000",
+      "explanation": "$20 \times 50 = 1000$。验算：$2 \times 5 = 10$，末尾加两个 0 是 1000 ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$12 \times 300 = ?$",
+      "options": [],
+      "answer": "3600",
+      "explanation": "$12 \times 3 = 36$，末尾补两个 0 得到 3600。验算：$3600 \times \text{÷} 300 = 12$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "口算乘法",
+    "core_concept": "掌握两位数、几百几十数乘一位数（进位）以及两位数乘整十、整百数的口算方法。口算时，先用因数中 0 前面的数相乘，然后看因数末尾共有几个 0，就在积的末尾添上几个 0。",
+    "key_formula": "$a0 \times b0 = (a \times b) \times 100$",
+    "common_mistakes": [
+      "少算积末尾的 0（如 $40 \times 50$ 算成 200）",
+      "进位时计算错误（如 $14 \times 3$ 算成 32）"
+    ],
+    "tips": "先乘非零数，末尾加 0 法。进位要记牢，细心不失分。"
+  }
+}

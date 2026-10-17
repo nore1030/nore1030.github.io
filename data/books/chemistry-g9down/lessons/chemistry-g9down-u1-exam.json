@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 1,
+  "unitTitle": "金属和金属材料",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "金属的化学性质与活动性顺序",
+      "question": "下列金属活动性由强到弱排列正确的是（　）",
+      "options": [
+        "镁>锌>铁>铜",
+        "铜>铁>锌>镁",
+        "铁>镁>铜>锌",
+        "锌>镁>铁>铜"
+      ],
+      "answer": "镁>锌>铁>铜",
+      "explanation": "金属活动性顺序。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "金属资源的利用与保护",
+      "question": "56 g 铁与足量稀盐酸反应，生成氢气多少 g？[$\\text{Fe}+2\\text{HCl}=\\text{FeCl}_2+\\text{H}_2\\uparrow$，Fe 为 56，$\\text{H}_2$ 为 2]",
+      "options": [],
+      "answer": "2",
+      "explanation": "$\\frac{56}{56}=\\frac{x}{2}$，$x=2$ g。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "金属的化学性质与活动性顺序",
+      "question": "铝制品耐腐蚀是因为表面生成致密的氧化铝薄膜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "氧化膜保护作用。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "金属资源的利用与保护",
+      "question": "工业炼铁的主要还原剂是（　）",
+      "options": [
+        "碳",
+        "一氧化碳",
+        "氢气",
+        "氧气"
+      ],
+      "answer": "一氧化碳",
+      "explanation": "CO 作还原剂。"
+    }
+  ],
+  "knowledge": null
+}

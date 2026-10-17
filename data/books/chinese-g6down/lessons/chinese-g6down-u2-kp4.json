@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u2-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 3,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，加点字“处”读音不同于其他三项的是：",
+      "options": [
+        "处境",
+        "处理",
+        "处事",
+        "到处"
+      ],
+      "answer": "到处",
+      "explanation": "“到处”读 chù，其他三项均读 chǔ。"
+    }
+  ],
+  "knowledge": null
+}

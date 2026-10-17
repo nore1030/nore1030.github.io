@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u1-kp2",
+  "title": "现在进行时 be + doing",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Food and table manners 饮食与餐具",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "现在进行时 be + doing",
+      "question": "— What are you eating? — ___",
+      "options": [
+        "I'm eating hamburgers and chips.",
+        "I eat hamburgers.",
+        "I'm eat hamburgers.",
+        "Yes, I am."
+      ],
+      "answer": "I'm eating hamburgers and chips.",
+      "explanation": "进行时 be + doing。"
+    }
+  ],
+  "knowledge": {
+    "point": "现在进行时 be + doing",
+    "core_concept": "表示此时此刻正在进行的动作用 be + 动词 -ing。问句 What are you eating? 答 I'm eating…",
+    "key_formula": "What are you eating? — I'm eating hamburgers and chips.",
+    "common_mistakes": [
+      "漏掉 be 动词：I eating（×）。"
+    ],
+    "tips": "be + doing 缺一不可。"
+  }
+}

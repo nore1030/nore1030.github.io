@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5down-u2-kp1",
+  "title": "维护社会公德",
+  "bookId": "moral-g5down",
+  "unitNumber": 2,
+  "unitTitle": "公德与法治意识",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护社会公德",
+      "question": "在地铁上占用残疾人专用座位是（　）",
+      "options": [
+        "不尊重他人的不道德行为",
+        "个人自由",
+        "正常行为",
+        "聪明行为"
+      ],
+      "answer": "不尊重他人的不道德行为",
+      "explanation": "应给有需要的人让座。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护社会公德",
+      "question": "遵守社会公德是文明社会的基本要求。",
+      "options": [],
+      "answer": "对",
+      "explanation": "公德是文明标志。"
+    }
+  ],
+  "knowledge": {
+    "point": "维护社会公德",
+    "core_concept": "社会公德是文明社会的基本准则。在公共场所要爱护环境、遵守秩序、不损害他人利益。",
+    "key_formula": "公德意识人人有",
+    "common_mistakes": [
+      "在公共场所大声喧哗。"
+    ],
+    "tips": "公德体现在细节。"
+  }
+}

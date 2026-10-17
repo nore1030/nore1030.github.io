@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp21",
+  "title": "反义词",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词",
+      "question": "与“诚实”意思相反的词语是：",
+      "options": [],
+      "answer": "虚伪",
+      "explanation": "诚实对虚伪，或说谎。"
+    }
+  ],
+  "knowledge": null
+}

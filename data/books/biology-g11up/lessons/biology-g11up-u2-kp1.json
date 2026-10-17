@@ -1,0 +1,47 @@
+{
+  "id": "biology-g11up-u2-kp1",
+  "title": "种群与群落",
+  "bookId": "biology-g11up",
+  "unitNumber": 2,
+  "unitTitle": "生态与可持续发展",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "种群与群落",
+      "question": "种群最基本的数量特征是（　）",
+      "options": [
+        "种群密度",
+        "年龄组成",
+        "性别比例",
+        "迁入迁出率"
+      ],
+      "answer": "种群密度",
+      "explanation": "种群密度是最基本特征。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "种群与群落",
+      "question": "在理想条件下种群呈 $J$ 型增长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "J 型增长。"
+    }
+  ],
+  "knowledge": {
+    "point": "种群与群落",
+    "core_concept": "种群具有数量、性别、年龄、出生率死亡率、迁入迁出率等特征。$J$ 型增长在理想条件下呈指数增长，$S$ 型增长受环境阻力限制。群落有垂直与水平结构。",
+    "key_formula": "$\\dfrac{N_t}{N_0} = \\lambda^t$",
+    "common_mistakes": [
+      "认为种间都是竞争关系。"
+    ],
+    "tips": "还有捕食、寄生、共生。"
+  }
+}

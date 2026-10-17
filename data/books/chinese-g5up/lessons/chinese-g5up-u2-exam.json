@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g5up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 9,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "快速阅读时，大脑可以直接捕捉词组或短语，从而整体理解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“视幅”大有助于提高速度。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "对于科普性文章，我们只需要读每段的第一句话就能理解全部内容。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然中心句很重要，但细节论证也是理解的关键。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "长文章的缩写与概括",
+      "question": "缩写文章时，人称可以根据需要由第一人称改为第三人称。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了叙述简洁，常进行人称转换。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "提高阅读速度",
+      "question": "阅读速度快的人一定比阅读速度慢的人理解得深刻。",
+      "options": [],
+      "answer": "错",
+      "explanation": "速度与理解深度没有必然的绝对正相关关系。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "《什么比猎豹的速度更快》一文中，作者列举猎豹、鸵鸟、游隼等是为了：",
+      "options": [
+        "说明猎豹的速度快",
+        "比较不同事物的速度",
+        "描写大自然的美丽",
+        "呼吁保护动物"
+      ],
+      "answer": "比较不同事物的速度",
+      "explanation": "通过对比体现“什么比猎豹的速度更快”的主题。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘地道里不仅有通风口，还有防毒、防烟的设施。’这句话：",
+      "options": [
+        "是比喻句",
+        "是排比句",
+        "是递进关系的句子",
+        "是拟人句"
+      ],
+      "answer": "是递进关系的句子",
+      "explanation": "“不仅……还……”是典型的递进关系。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "‘渑池之会’中‘会’字的意思是：",
+      "options": [
+        "理解",
+        "聚合",
+        "会盟、宴请",
+        "能力"
+      ],
+      "answer": "会盟、宴请",
+      "explanation": "指古代国君之间的正式会谈。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "提高阅读速度",
+      "question": "当我们面对一篇很长的说明文，只想知道具体的数字信息时，应采用：",
+      "options": [
+        "精读法",
+        "扫读法",
+        "朗读法",
+        "背诵法"
+      ],
+      "answer": "扫读法",
+      "explanation": "扫读用于快速定位特定信息。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "在阅读中，如果想快速了解《冀中的地道战》中地道如何‘防毒’，应找哪些词？",
+      "options": [
+        "枯井、出口",
+        "关口、地堡",
+        "孑口、活道",
+        "吊板、火隔"
+      ],
+      "answer": "吊板、火隔",
+      "explanation": "这些是地道内针对烟熏火燎设计的设施。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "提高阅读速度",
+      "question": "下列哪个是导致阅读速度变慢的‘坏习惯’？",
+      "options": [
+        "眼睛平视书本",
+        "逐字阅读",
+        "记笔记",
+        "复述大意"
+      ],
+      "answer": "逐字阅读",
+      "explanation": "逐字读会限制视域，降低效率。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "提高阅读速度",
+      "question": "不回读指的是阅读时不反复看（___）读过的内容。",
+      "options": [],
+      "answer": "已经",
+      "explanation": "克服目光回跳是提速的关键。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "通过关键词筛选，我们可以知道蔺相如是一个机智、勇敢和（___）的人。",
+      "options": [],
+      "answer": "爱国",
+      "explanation": "蔺相如所做一切皆是为了赵国利益。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词",
+      "question": "请将下列词语与它们的近义词进行正确连线。",
+      "options": [
+        "商议",
+        "诚意",
+        "推辞",
+        "抵御",
+        "拒绝",
+        "探讨",
+        "抵抗",
+        "真心"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考察对词汇语义的理解。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "请将下列快速阅读的技巧与对应的行为连线。",
+      "options": [
+        "不发声",
+        "不指读",
+        "不回读",
+        "扫读",
+        "不用手指字",
+        "寻找关键词",
+        "眼球不动",
+        "嘴唇不动"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "针对提高阅读速度的方法进行归类。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "请将词语排列成一个能体现快速阅读目的的句子。",
+      "options": [
+        "能够",
+        "我们",
+        "捕捉",
+        "重要信息",
+        "快速"
+      ],
+      "answer": "我们,能够,快速,捕捉,重要信息",
+      "explanation": "句子逻辑：主语+能+状语+谓语+宾语。"
+    }
+  ],
+  "knowledge": null
+}

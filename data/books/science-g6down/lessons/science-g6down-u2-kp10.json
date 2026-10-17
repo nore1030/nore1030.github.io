@@ -1,0 +1,82 @@
+{
+  "id": "science-g6down-u2-kp10",
+  "title": "古代生物化石",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 4,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古代生物化石",
+      "question": "化石只能在沉积岩中找到，在火山岩中不可能存在化石。",
+      "options": [],
+      "answer": "对",
+      "explanation": "由于岩浆的高温，化石通常保存在沉积岩中。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古代生物化石",
+      "question": "通过观察恐龙化石，科学家可以推断出恐龙的（ ）。",
+      "options": [
+        "叫声高低",
+        "运动方式",
+        "具体的体色",
+        "瞬时情绪"
+      ],
+      "answer": "运动方式",
+      "explanation": "骨骼化石的结构可以反映其四肢发育和运动方式。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古代生物化石",
+      "question": "被称为“活化石”的植物是（ ）。",
+      "options": [
+        "绿梦",
+        "银杏",
+        "仙人掌",
+        "凤仙花"
+      ],
+      "answer": "银杏",
+      "explanation": "银杏出现在几亿年前，形态至今变化不大，被称为活化石。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古代生物化石",
+      "question": "猛犸象的化石在冰原中被发现，说明猛犸象（ ）。",
+      "options": [
+        "不能适应寒冷环境",
+        "具有耐寒的身体结构",
+        "曾生活在赤道地区",
+        "是由恐龙演化而来"
+      ],
+      "answer": "具有耐寒的身体结构",
+      "explanation": "猛犸象披满长毛，是典型的寒带动物。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古代生物化石",
+      "question": "（ ）是存留在岩石中的古生物遗体、遗物或遗迹。",
+      "options": [],
+      "answer": "化石",
+      "explanation": "化石是研究生物进化的重要依据。"
+    }
+  ],
+  "knowledge": null
+}

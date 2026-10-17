@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 My life — Making friends 交朋友",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交朋友表达",
+      "question": "想认识新同学，应主动说（　）",
+      "options": [
+        "Hello! I'm Li Ming. Nice to meet you.",
+        "How old are you?",
+        "Where do you live?",
+        "What's your name?"
+      ],
+      "answer": "Hello! I'm Li Ming. Nice to meet you.",
+      "explanation": "主动问候并自我介绍。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "自我介绍与来源",
+      "question": "「你来自哪里？」的英文是（　）",
+      "options": [
+        "Where are you from?",
+        "Where do you come?",
+        "Where are you?",
+        "What are you from?"
+      ],
+      "answer": "Where are you from?",
+      "explanation": "be from 疑问式。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "交朋友表达",
+      "question": "be friendly to others 表示「对他人友好」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "友好相处。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "自我介绍与来源",
+      "question": "「我们是好朋友。」的英文是（　）",
+      "options": [
+        "We are good friends.",
+        "We are good friend.",
+        "We is good friends.",
+        "We are goods friends."
+      ],
+      "answer": "We are good friends.",
+      "explanation": "复数用 are + friends。"
+    }
+  ],
+  "knowledge": null
+}

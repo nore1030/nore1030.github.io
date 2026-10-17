@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp9",
+  "title": "句式转换",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式转换",
+      "question": "把“裁缝说：‘我和别的裁缝不一样。’”改为转述句，正确的是：",
+      "options": [
+        "裁缝说，他和别的裁缝不一样。",
+        "裁缝说，我和别的裁缝不一样。",
+        "裁缝说，他和我别的裁缝不一样。",
+        "裁缝说，别的裁缝和他不一样。"
+      ],
+      "answer": "裁缝说，他和别的裁缝不一样。",
+      "explanation": "直接引语改间接引语时，第一人称“我”要改为第三人称“他”，并去掉引号和冒号。"
+    }
+  ],
+  "knowledge": null
+}

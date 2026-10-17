@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u8-kp20",
+  "title": "动宾搭配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动宾搭配",
+      "question": "请将动词与合适的物体连起来。",
+      "options": [
+        "劈开",
+        "穿上",
+        "修建",
+        "举行",
+        "婚礼",
+        "波浪",
+        "围墙",
+        "新衣"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "劈开波浪，穿上新衣，修建围墙，举行婚礼。"
+    }
+  ],
+  "knowledge": null
+}

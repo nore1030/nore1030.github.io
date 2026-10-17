@@ -1,0 +1,52 @@
+{
+  "id": "english-g5up-u3-kp19",
+  "title": "核心词汇匹配",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 14,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心词汇匹配",
+      "question": "将下列英文单词与对应的中文意思连线。",
+      "options": [
+        "healthy",
+        "delicious",
+        "fresh",
+        "thirsty",
+        "美味的",
+        "渴的",
+        "新鲜的",
+        "健康的"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "healthy-健康, delicious-美味, fresh-新鲜, thirsty-渴。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心词汇匹配",
+      "question": "将对应的食物单词与其意思连线。",
+      "options": [
+        "chicken",
+        "onions",
+        "grapes",
+        "beef",
+        "牛肉",
+        "葡萄",
+        "洋葱",
+        "鸡肉"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "准确对应名词释义。"
+    }
+  ],
+  "knowledge": null
+}

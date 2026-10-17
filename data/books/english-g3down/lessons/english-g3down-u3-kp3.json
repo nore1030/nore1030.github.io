@@ -1,0 +1,50 @@
+{
+  "id": "english-g3down-u3-kp3",
+  "title": "元音字母i在闭音节中的发音",
+  "bookId": "english-g3down",
+  "unitNumber": 3,
+  "unitTitle": "At the zoo",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "元音字母i在闭音节中的发音",
+      "question": "在单词 'big' 和 'pig' 中，字母 'i' 的发音是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这两个单词中的i都位于闭音节中，发短元音/ɪ/。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "元音字母i在闭音节中的发音",
+      "question": "下列哪个单词中 'i' 的发音与 'six' 相同？",
+      "options": [
+        "ice",
+        "milk",
+        "kite",
+        "rice"
+      ],
+      "answer": "milk",
+      "explanation": "six和milk中的i都发短音/ɪ/，其他三项发长音/aɪ/。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "元音字母i在闭音节中的发音",
+      "question": "I'd like some ___. (牛奶)",
+      "options": [],
+      "answer": "milk",
+      "explanation": "考察单词书写，milk中i发短音。"
+    }
+  ],
+  "knowledge": null
+}

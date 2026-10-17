@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp10",
+  "title": "句式转换",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句式转换",
+      "question": "“彩虹不是天上的桥吗？”这句话的意思是：",
+      "options": [
+        "彩虹不是桥。",
+        "彩虹是天上的桥。",
+        "彩虹像一座桥。",
+        "彩虹在哪里？"
+      ],
+      "answer": "彩虹是天上的桥。",
+      "explanation": "反问句表达肯定的语气。"
+    }
+  ],
+  "knowledge": null
+}

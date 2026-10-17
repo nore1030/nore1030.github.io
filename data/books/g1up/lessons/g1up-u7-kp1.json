@@ -1,0 +1,102 @@
+{
+  "id": "g1up-u7-kp1",
+  "title": "钟面结构的认识",
+  "bookId": "g1up",
+  "unitNumber": 7,
+  "unitTitle": "认识钟表",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "钟面上又短又粗的针是分针。",
+      "options": [],
+      "answer": "错",
+      "explanation": "钟面上短而粗的是时针，长而细的是分针。验算：概念核对一致。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "钟面上一共有12个数，它们按从小到大的顺序排成一圈。",
+      "options": [],
+      "answer": "对",
+      "explanation": "钟面刻度从1到12依次排列。验算：1,2,3,4,5,6,7,8,9,10,11,12共12个数。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "钟面上最长的针叫什么名字？",
+      "options": [
+        "时针",
+        "分针",
+        "秒针",
+        "长针"
+      ],
+      "answer": "分针",
+      "explanation": "一年级标准教材定义：长针是分针，短针是时针。秒针暂不涉及。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "数字12在钟面的哪个位置？",
+      "options": [
+        "最顶上",
+        "最底下",
+        "最左边",
+        "最右边"
+      ],
+      "answer": "最顶上",
+      "explanation": "钟面数字排列中，12位于正上方。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "针尖走得慢，个子矮又胖。猜一物：",
+      "options": [
+        "分针",
+        "秒针",
+        "时针",
+        "数字"
+      ],
+      "answer": "时针",
+      "explanation": "谜语描述了时针“短”和“慢”的特征。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "钟面上一共有 ___ 个大格。",
+      "options": [],
+      "answer": "12",
+      "explanation": "钟面数字从1到12，每两个相邻数字间是一个大格。公式：$12 - 0 = 12$。验算：数一数共有12格。"
+    }
+  ],
+  "knowledge": {
+    "point": "钟面结构的认识",
+    "core_concept": "钟面是一个圆盘，上面均匀分布着12个数。长且细的针叫分针，短且粗的针叫时针。它们按照顺时针方向不停地转动。",
+    "key_formula": "钟面 = 12个数字 + 时针(短) + 分针(长)",
+    "common_mistakes": [
+      "混淆时针和分针，把长针当成时针",
+      "数刻度时数错，分不清数字对应的位置"
+    ],
+    "tips": "记住顺口溜：长长细细是分针，短短胖胖是时针。"
+  }
+}

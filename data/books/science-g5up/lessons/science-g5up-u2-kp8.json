@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp8",
+  "title": "岩层运动",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "岩层运动",
+      "question": "板块的运动是极其缓慢的，人感觉不到，但时刻在发生。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地球板块一直在缓慢漂移，通常每年仅移动几厘米。"
+    }
+  ],
+  "knowledge": null
+}

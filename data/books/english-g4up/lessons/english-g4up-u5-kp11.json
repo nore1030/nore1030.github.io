@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp11",
+  "title": "词义理解",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 7,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "Dinner is ___! Let's eat.",
+      "options": [
+        "red",
+        "rice",
+        "ready",
+        "really"
+      ],
+      "answer": "ready",
+      "explanation": "Dinner is ready意思是晚餐准备好了。"
+    }
+  ],
+  "knowledge": null
+}

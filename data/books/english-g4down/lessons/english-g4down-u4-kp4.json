@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u4-kp4",
+  "title": "字母组合ar和al的发音规律",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母组合ar和al的发音规律",
+      "question": "单词 'arm' 和 'car' 中 'ar' 的发音是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "ar在这两个单词中都发/ɑː/。"
+    }
+  ],
+  "knowledge": null
+}

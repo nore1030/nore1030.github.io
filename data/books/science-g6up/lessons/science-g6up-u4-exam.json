@@ -1,0 +1,217 @@
+{
+  "id": "science-g6up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "所有的用电器都是将电能转化为动能。",
+      "options": [],
+      "answer": "错",
+      "explanation": "不同电器转化形式不同，如电铃转化为声能，电饭煲转化为热能。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "电磁铁没有南北极。",
+      "options": [],
+      "answer": "错",
+      "explanation": "电磁铁和永磁铁一样，都具有南北极。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "太阳能作为地球能量的源头",
+      "question": "能量在转化过程中，总量保持不变，但往往会散发热量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是能量守恒定律的体现，转化中常伴随热能损失。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "节约用电不仅是省钱，更是为了减少化石能源消耗和环境污染。",
+      "options": [],
+      "answer": "对",
+      "explanation": "目前我国主要发电方式仍为火力发电，节电即是减碳。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电动机的结构与工作原理",
+      "question": "电动机工作的本质是（）。",
+      "options": [
+        "磁的相互作用",
+        "电转化为热",
+        "水流带动转化",
+        "齿轮咬合转动"
+      ],
+      "answer": "磁的相互作用",
+      "explanation": "电动机利用外部磁铁与内部电磁铁（转子）的同极相斥、异极相吸原理运转。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影响电磁铁磁性强弱的因素",
+      "question": "同时增加电池数量和线圈匝数，电磁铁的磁力（）。",
+      "options": [
+        "不变",
+        "减小",
+        "变大",
+        "消失"
+      ],
+      "answer": "变大",
+      "explanation": "两个增强因素叠加，磁力必然显著增强。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "影响电磁铁磁性强弱的因素",
+      "question": "小明用相同的电池和导线绕制了两个电磁铁。甲吸引了12个大头针，乙吸引了5个。可以推断（）。",
+      "options": [
+        "甲的线圈匝数多",
+        "乙的线圈匝数多",
+        "甲乙极性相同",
+        "甲乙极性不同"
+      ],
+      "answer": "甲的线圈匝数多",
+      "explanation": "在电流相同的情况下，磁力大说明线圈匝数多。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "激光切割机工作时，主要将电能转化为（）。",
+      "options": [
+        "机械能",
+        "光能",
+        "原子能",
+        "化学能"
+      ],
+      "answer": "光能",
+      "explanation": "激光切割利用的是高能量的光束。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "太阳能作为地球能量的源头",
+      "question": "森林被埋在地下，经过漫长时间的变化形成了煤。这个过程是（）。",
+      "options": [
+        "物理变化",
+        "能量的消亡",
+        "能量的储存",
+        "水的循环"
+      ],
+      "answer": "能量的储存",
+      "explanation": "植物固定的太阳能被转化为化学能长期储存在煤中。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "如果想让电磁铁的南北极发生改变，最简便的方法是（）。",
+      "options": [
+        "关掉电源",
+        "把电池正负极对调",
+        "增加一节电池",
+        "把铁芯换大一点"
+      ],
+      "answer": "把电池正负极对调",
+      "explanation": "对调电池两极即改变了电流方向，从而改变电磁铁极性。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "关于能量转换，下列说法正确的是（）。",
+      "options": [
+        "能量只能从一种形式转化为另一种形式",
+        "能量转化时总量会变多",
+        "能量转化是单向不可逆的",
+        "能量无法通过物体转移"
+      ],
+      "answer": "能量只能从一种形式转化为另一种形式",
+      "explanation": "能量守恒定律明确能量可以转化和转移，但总量不变。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳能作为地球能量的源头",
+      "question": "草原上“草→兔→狐狸”这条食物链中，能量的源头是（）。",
+      "options": [
+        "草",
+        "兔子",
+        "狐狸",
+        "太阳"
+      ],
+      "answer": "太阳",
+      "explanation": "所有生物链的起始能量几乎都源自绿色植物固定的太阳能。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "一只 20 瓦的节能灯与一只 100 瓦的白炽灯亮度相当。100 瓦白炽灯消耗 1 度电的时间，节能灯可以工作（）小时。",
+      "options": [],
+      "answer": "50",
+      "explanation": "1000/20 = 50。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电动机的结构与工作原理",
+      "question": "小电动机内通常有（）块固定的永久磁铁。",
+      "options": [],
+      "answer": "2",
+      "explanation": "常见的小电动机外壳内侧有两块弧形永磁铁。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "电磁铁是利用（）产生磁性的装置。",
+      "options": [],
+      "answer": "电流",
+      "explanation": "电流流动产生磁场。"
+    }
+  ],
+  "knowledge": null
+}

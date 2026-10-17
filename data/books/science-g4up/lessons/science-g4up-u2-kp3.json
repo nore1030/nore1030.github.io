@@ -1,0 +1,39 @@
+{
+  "id": "science-g4up-u2-kp3",
+  "title": "食物的分类与统计",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 2,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物的分类与统计",
+      "question": "面条属于（）。",
+      "options": [
+        "动物类食物",
+        "植物类食物",
+        "矿物类食物",
+        "合成类食物"
+      ],
+      "answer": "植物类食物",
+      "explanation": "面条由小麦加工而成，来源是植物。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物的分类与统计",
+      "question": "如果我们一餐吃了蛋炒饭，其中包含米饭、鸡蛋、葱，我们认为这一顿饭包含了（）种食物。",
+      "options": [],
+      "answer": "3",
+      "explanation": "按食材统计，米饭、鸡蛋、葱各为一种。"
+    }
+  ],
+  "knowledge": null
+}

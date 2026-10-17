@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g2up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 10,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“淘气”和“顽皮”是一对词义相近的词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个词都形容孩子不老实、爱玩。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "“无论...还是...”复杂句式",
+      "question": "“无论”后面通常接不同的条件，“还是”连接并列的事物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "无论...还是...表示条件普适性。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "不同地理环境词汇积累",
+      "question": "“椰树”是在“沙漠”里非常常见的植物。",
+      "options": [],
+      "answer": "错",
+      "explanation": "椰树常见于海滩而非沙漠。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "句子中添加的修饰词越多，句子的意思就越混乱。",
+      "options": [],
+      "answer": "错",
+      "explanation": "合理的修饰语能使描写对象更具体、形象。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“雾把大海藏起来了。”这句话运用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "“藏”赋予了雾人的动作。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文本阅读",
+      "question": "“天苍苍，野茫茫，风吹草低见牛羊”描写的是：",
+      "options": [
+        "高原风光",
+        "草原风光",
+        "沙漠风光",
+        "大海风光"
+      ],
+      "answer": "草原风光",
+      "explanation": "出自《敕勒歌》，描写大草原。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "“无论...还是...”复杂句式",
+      "question": "下面哪组词填入句中正确？（ ）是晴天，（ ）是雨天，我也要坚持跳绳。",
+      "options": [
+        "因为...所以...",
+        "无论...还是...",
+        "只要...就...",
+        "如果...就..."
+      ],
+      "answer": "无论...还是...",
+      "explanation": "通过条件排除表达坚持的态度。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "“天空中飘着云。”扩句最恰当的是：",
+      "options": [
+        "天空中飘着白云。",
+        "蓝蓝的天空中飘着几朵雪白的云。",
+        "云在天空中飘。",
+        "那是天上的云。"
+      ],
+      "answer": "蓝蓝的天空中飘着几朵雪白的云。",
+      "explanation": "使用了多项感官（色彩）和量词修饰。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不同地理环境词汇积累",
+      "question": "“高原”上最常见的鸟类被称为“高原之舟”的动物通常指：",
+      "options": [
+        "骆驼",
+        "牦牛",
+        "羚羊",
+        "鹰"
+      ],
+      "answer": "牦牛",
+      "explanation": "由于特殊的抗寒能力，牦牛被称为高原之舟。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近义词正误判断",
+      "question": "词语“悠闲”的近义词最贴切的是：",
+      "options": [
+        "紧张",
+        "忙碌",
+        "自在",
+        "快乐"
+      ],
+      "answer": "自在",
+      "explanation": "悠闲强调的是闲暇、无拘无束。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "（___）的草地上开满了鲜花。",
+      "options": [],
+      "answer": "绿油油",
+      "explanation": "常用的ABB式颜色修饰词。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不同地理环境词汇积累",
+      "question": "骆驼被人们称为“（___）之舟”。",
+      "options": [],
+      "answer": "沙漠",
+      "explanation": "骆驼是沙漠里的主要运输工具。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不同地理环境词汇积累",
+      "question": "搭配相应的量词。",
+      "options": [
+        "一幅",
+        "一朵",
+        "一个",
+        "一棵",
+        "孩子",
+        "白云",
+        "画卷",
+        "大树"
+      ],
+      "answer": "A-3,B-2,C-1,D-4",
+      "explanation": "考察量词的正确使用。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词连线",
+      "question": "把意思相反的词连起来。",
+      "options": [
+        "寒冷",
+        "宽阔",
+        "消失",
+        "淘气",
+        "乖巧",
+        "炎热",
+        "出现",
+        "狭窄"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "考察形容词和动词的反义词。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "把短句通过修饰词排成生动句：",
+      "options": [
+        "雪孩子",
+        "飞到了",
+        "变成了一朵",
+        "美丽的白云",
+        "空中"
+      ],
+      "answer": "雪孩子,飞到了,空中,变成了一朵,美丽的白云",
+      "explanation": "按照事情发展的先后顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "science-g6up-u2-kp3",
+  "title": "人类认识地球运动的历史学说",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人类认识地球运动的历史学说",
+      "question": "“地心说”是由波兰天文学家哥白尼提出来的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地心说是古希腊天文学家托勒密提出来的，哥白尼提出的是日心说。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人类认识地球运动的历史学说",
+      "question": "关于“日心说”，下列说法正确的是（    ）。",
+      "options": [
+        "太阳是宇宙的中心并静止不动",
+        "地球是宇宙的中心",
+        "所有天体都绕着地球旋转",
+        "地球是静止不动的"
+      ],
+      "answer": "太阳是宇宙的中心并静止不动",
+      "explanation": "哥白尼的“日心说”认为太阳是宇宙的中心且静止不动。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人类认识地球运动的历史学说",
+      "question": "哥白尼提出的（    ）学说，推翻了传统的地球是宇宙中心的观点。",
+      "options": [],
+      "answer": "日心说",
+      "explanation": "哥白尼通过《天体运行论》系统阐述了日心说。"
+    }
+  ],
+  "knowledge": null
+}

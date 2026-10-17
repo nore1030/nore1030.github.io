@@ -1,0 +1,52 @@
+{
+  "id": "english-waiyan-g3up-u6-kp2",
+  "title": "衣物词汇 shorts / shoes / shirt / trousers",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 6 I've got new shorts and new shoes 衣物与拥有",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+      "question": "「短裤」的英文是（　）",
+      "options": [
+        "shorts",
+        "short",
+        "shirts",
+        "shortes"
+      ],
+      "answer": "shorts",
+      "explanation": "常用复数。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+      "question": "「衬衫」的英文是（　）",
+      "options": [
+        "shirt",
+        "shorts",
+        "skirt",
+        "short"
+      ],
+      "answer": "shirt",
+      "explanation": "shirt = 衬衫。"
+    }
+  ],
+  "knowledge": {
+    "point": "衣物词汇 shorts / shoes / shirt / trousers",
+    "core_concept": "shorts 短裤、shoes 鞋、shirt 衬衫、trousers 裤子。这些词常用复数（成对/两条裤腿）。",
+    "key_formula": "new shorts and new shoes",
+    "common_mistakes": [
+      "trousers 当单数。"
+    ],
+    "tips": "裤子短裤成对，常用复数。"
+  }
+}

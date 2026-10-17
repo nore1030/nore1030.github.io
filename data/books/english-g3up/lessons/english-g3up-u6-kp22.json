@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp22",
+  "title": "指示代词",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "指示代词",
+      "question": "Let's eat ___ cake.",
+      "options": [],
+      "answer": "the",
+      "explanation": "吃那个蛋糕，特指生日蛋糕用the。"
+    }
+  ],
+  "knowledge": null
+}

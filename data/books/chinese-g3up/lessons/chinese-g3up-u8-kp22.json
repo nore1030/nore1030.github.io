@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u8-kp22",
+  "title": "人物与特点",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物与特点",
+      "question": "请将人物与其对应的品质连线。",
+      "options": [
+        "司马光",
+        "列宁",
+        "白求恩",
+        "男孩",
+        "关爱后辈",
+        "沉着机智",
+        "知错就改",
+        "忘我工作"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "司马光机智，列宁慈爱关怀，白求恩负责忘我，男孩诚实认错。"
+    }
+  ],
+  "knowledge": null
+}

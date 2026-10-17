@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp15",
+  "title": "序数词缩写规则",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词缩写规则",
+      "question": "Which of the following is correct?",
+      "options": [
+        "21th",
+        "21st",
+        "21rd",
+        "21nd"
+      ],
+      "answer": "21st",
+      "explanation": "21st读作twenty-first，缩写取last two letters即st。"
+    }
+  ],
+  "knowledge": null
+}

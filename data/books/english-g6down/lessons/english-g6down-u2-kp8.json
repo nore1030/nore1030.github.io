@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp8",
+  "title": "疑问句结构",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "疑问句结构",
+      "question": "在句子 'Did you washed your clothes?' 中，washed 的使用是正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "助动词did后面必须跟动词原形，应为wash。"
+    }
+  ],
+  "knowledge": null
+}

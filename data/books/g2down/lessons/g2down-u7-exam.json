@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "一万里面有 100 个一百。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$100 \\times 100 = 10000$，所以 100 个一百是一万。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "3008 读作三千八。",
+      "options": [],
+      "answer": "错",
+      "explanation": "中间的 0 必须读出来，应读作三千零八。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "近似数与估算",
+      "question": "一个数的近似数一定比这个数大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "近似数可能大也可能小。如 302 的近似数是 300，300 < 302。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$1500 + 800$ 的结果超过了 2000。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$1500 + 800 = 2300$，$2300 > 2000$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "下面各数中，只读一个零的数是（ ）。",
+      "options": [
+        "2800",
+        "2008",
+        "2000",
+        "2850"
+      ],
+      "answer": "2008",
+      "explanation": "2800不读零，2008读作二千零八，2000不读零，2850不读零。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "与 3999 相邻的两个数是（ ）。",
+      "options": [
+        "3998 和 4000",
+        "3900 和 4000",
+        "3997 和 3998",
+        "4000 和 4001"
+      ],
+      "answer": "3998 和 4000",
+      "explanation": "$3999-1=3998$，$3999+1=4000$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$6000 - 2000 = ?$",
+      "options": [
+        "400",
+        "4000",
+        "8000",
+        "40"
+      ],
+      "answer": "4000",
+      "explanation": "6个千减2个千等于4个千。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "最大三位数和最小四位数相比，（ ）。",
+      "options": [
+        "最大三位数大",
+        "最小四位数大",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "最小四位数大",
+      "explanation": "最大三位数是999，最小四位数是1000，$1000 > 999$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "8050 中的“5”表示（ ）。",
+      "options": [
+        "5个千",
+        "5个百",
+        "5个十",
+        "5个一"
+      ],
+      "answer": "5个十",
+      "explanation": "5在十位上，所以表示5个十。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "一万写作（ ）。",
+      "options": [
+        "100",
+        "1000",
+        "10000",
+        "100000"
+      ],
+      "answer": "10000",
+      "explanation": "万位是1，后面跟四个0。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "由 8、2、0、0 组成且一个零也不读的四位数是（ ）。",
+      "options": [
+        "8002",
+        "8020",
+        "8200",
+        "2008"
+      ],
+      "answer": "8200",
+      "explanation": "末尾的零不读，中间的零要读。8200读作八千二百。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "一个数的最高位是百位，它是（ ）位数。",
+      "options": [
+        "二",
+        "三",
+        "四",
+        "一"
+      ],
+      "answer": "三",
+      "explanation": "个、十、百，百位在第三位。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "用 0、2、5 三个数字组成的最大三位数是 ___。",
+      "options": [],
+      "answer": "520",
+      "explanation": "高位选最大的5，十位选2，个位选0。结果为520。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近似数与估算",
+      "question": "小明家到学校 503 米，约是 ___ 米。",
+      "options": [],
+      "answer": "500",
+      "explanation": "503 离 500 最近，近似数取 500。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$1400 - 900 = ?$",
+      "options": [],
+      "answer": "500",
+      "explanation": "$14 - 9 = 5$，14个百减9个百是5个百。验算：$500 + 900 = 1400$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

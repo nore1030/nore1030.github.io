@@ -1,0 +1,52 @@
+{
+  "id": "english-renjiao-g7up-u1-kp1",
+  "title": "名词与冠词",
+  "bookId": "english-renjiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "词法基础",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词与冠词",
+      "question": "There is ___ apple on the table.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": "an",
+      "explanation": "apple 以元音音素开头。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名词与冠词",
+      "question": "I have three ___.",
+      "options": [
+        "box",
+        "boxs",
+        "boxes",
+        "boxies"
+      ],
+      "answer": "boxes",
+      "explanation": "以 x 结尾加 -es。"
+    }
+  ],
+  "knowledge": {
+    "point": "名词与冠词",
+    "core_concept": "可数名词有单复数形式，一般加 -s/-es。a/an 表示泛指，an 用于元音音素开头的词前；the 表示特指。",
+    "key_formula": "an + 元音音素开头",
+    "common_mistakes": [
+      "a useful book（u 发 /j/，用 a）。"
+    ],
+    "tips": "看读音不看字母。"
+  }
+}

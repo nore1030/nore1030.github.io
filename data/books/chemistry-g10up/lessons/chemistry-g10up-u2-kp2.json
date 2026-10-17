@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g10up-u2-kp2",
+  "title": "氯及其化合物",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 2,
+  "unitTitle": "钠、氯及其化合物",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "氯及其化合物",
+      "question": "氯水具有漂白性，起漂白作用的物质是（　）",
+      "options": [
+        "$\\text{Cl}_2$",
+        "$\\text{HCl}$",
+        "$\\text{HClO}$",
+        "$\\text{H}_2\\text{O}$"
+      ],
+      "answer": "$\\text{HClO}$",
+      "explanation": "次氯酸有漂白性。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "氯及其化合物",
+      "question": "氯气有毒，闻氯气气味时应扇动气体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正确闻气味方法。"
+    }
+  ],
+  "knowledge": {
+    "point": "氯及其化合物",
+    "core_concept": "氯气是黄绿色有刺激性气味的有毒气体，与水反应生成盐酸和次氯酸，次氯酸具有强氧化性和漂白性。",
+    "key_formula": "$\\text{Cl}_2+\\text{H}_2\\text{O}=\\text{HCl}+\\text{HClO}$",
+    "common_mistakes": [
+      "把漂白性归给氯气本身。"
+    ],
+    "tips": "漂白靠 HClO。"
+  }
+}

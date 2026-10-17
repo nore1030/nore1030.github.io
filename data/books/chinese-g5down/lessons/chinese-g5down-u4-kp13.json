@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp13",
+  "title": "背景理解",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 9,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "背景理解",
+      "question": "《从军行》作者是唐代的王昌龄，这首诗主要描写了：",
+      "options": [
+        "宫廷生活",
+        "田园风光",
+        "边塞战争情景",
+        "送别朋友"
+      ],
+      "answer": "边塞战争情景",
+      "explanation": "从“黄沙百战穿金甲”可知是描写边塞战争。"
+    }
+  ],
+  "knowledge": null
+}

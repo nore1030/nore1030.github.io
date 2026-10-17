@@ -1,0 +1,66 @@
+{
+  "id": "science-g2up-u1-kp4",
+  "title": "月相的变化观察",
+  "bookId": "science-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的地球家园",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "月相的变化观察",
+      "question": "我们每天看到的月亮形状都是圆圆的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "月相是不断变化的，只有在农历十五左右才是圆的。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月相的变化观察",
+      "question": "下列哪种形状可能是我们在天空中看到的月亮？",
+      "options": [
+        "长方形",
+        "五角星形",
+        "镰刀形",
+        "心形"
+      ],
+      "answer": "镰刀形",
+      "explanation": "月相变化过程中会出现类似镰刀或眉毛的形状。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "月相的变化观察",
+      "question": "两次圆月之间大约相隔多长时间？",
+      "options": [
+        "一天",
+        "一星期",
+        "一个月",
+        "一年"
+      ],
+      "answer": "一个月",
+      "explanation": "月相的变化周期大约是一个农历月。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月相的变化观察",
+      "question": "我们观察到的月球明亮部分的各种形状叫做（___）。",
+      "options": [],
+      "answer": "月相",
+      "explanation": "月相是地球上看到的月球被太阳照亮的部分。"
+    }
+  ],
+  "knowledge": null
+}

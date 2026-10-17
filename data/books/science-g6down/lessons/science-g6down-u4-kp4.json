@@ -1,0 +1,66 @@
+{
+  "id": "science-g6down-u4-kp4",
+  "title": "化学变化与环境治理",
+  "bookId": "science-g6down",
+  "unitNumber": 4,
+  "unitTitle": "物质的变化",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "化学变化与环境治理",
+      "question": "二氧化碳的大量排放是导致温室效应的主要原因。",
+      "options": [],
+      "answer": "对",
+      "explanation": "二氧化碳是主要的温室气体，过量排放会导致全球变暖。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化与环境治理",
+      "question": "为了减少白色污染，下列做法错误的是（）。",
+      "options": [
+        "使用布袋购物",
+        "回收废弃塑料",
+        "研发生物分解塑料",
+        "随地焚烧塑料袋"
+      ],
+      "answer": "随地焚烧塑料袋",
+      "explanation": "焚烧塑料产生有毒气体污染空气，不符合环保要求。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学变化与环境治理",
+      "question": "目前我们使用最广泛的清洁能源不包括（）。",
+      "options": [
+        "太阳能",
+        "风能",
+        "煤炭",
+        "水能"
+      ],
+      "answer": "煤炭",
+      "explanation": "煤炭属于传统化石能源，燃烧产生污染。其余为清洁能源。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学变化与环境治理",
+      "question": "我国力争在2030年前实现碳达峰，在（___）年前实现碳中和。",
+      "options": [],
+      "answer": "2060",
+      "explanation": "这是我国向世界做出的关于应对气候变化的庄严承诺。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp15",
+  "title": "句意理解",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 11,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句意理解",
+      "question": "I am hungry. I'd like some ___.",
+      "options": [
+        "water",
+        "milk",
+        "juice",
+        "bread"
+      ],
+      "answer": "bread",
+      "explanation": "饿了(hungry)通常选择固体食物如面包(bread)。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "g4down-u5-kp4",
+  "title": "三角形的内角和",
+  "bookId": "g4down",
+  "unitNumber": 5,
+  "unitTitle": "三角形",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "把一个三角形剪成两个小三角形，每个小三角形的内角和是90度。",
+      "options": [],
+      "answer": "错",
+      "explanation": "无论三角形的大小如何，其内角和恒为180度。验算：$180 \\div 2$ 不等于 90 是错误逻辑。 ✓"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的内角和",
+      "question": "在直角三角形中，两个锐角的和是多少度？",
+      "options": [
+        "60",
+        "90",
+        "180",
+        "45"
+      ],
+      "answer": "90",
+      "explanation": "$180 - 90 = 90$ 度。验算：三个角和为 $90+90=180$。 ✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "等腰直角三角形的一个底角是多少度？",
+      "options": [
+        "90",
+        "45",
+        "30",
+        "60"
+      ],
+      "answer": "45",
+      "explanation": "$(180 - 90) \\div 2 = 45$ 度。验算：$45 + 45 + 90 = 180$。 ✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "三角形三个内角的和与大三角形和小三角形的大小有关吗？",
+      "options": [
+        "有关，大的角度大",
+        "有关，小的角度小",
+        "无关，都是180度",
+        "无法判断"
+      ],
+      "answer": "无关，都是180度",
+      "explanation": "三角形内角和定理适用于所有平面三角形。 ✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "已知三角形的两个角分别是30度和60度，第三个角是 ___ 度。",
+      "options": [],
+      "answer": "90",
+      "explanation": "$180 - 30 - 60 = 90$。验算：$90 + 60 + 30 = 180$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "$180 - 45 - 45 = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$180 - 45 = 135$，$135 - 45 = 90$。验算：$90 + 45 + 45 = 180$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "三角形的内角和",
+    "core_concept": "任意一个三角形的三个内角之和都是180度。利用这个结论可以计算三角形中未知角的度数。",
+    "key_formula": "三角形内角和 = 180^\\circ",
+    "common_mistakes": [
+      "认为大的三角形内角和大，小的三角形内角和小。",
+      "等腰三角形计算角度时，忘记有两个底角相等。"
+    ],
+    "tips": "等腰三角形求角：已知顶角求底角用 $(180 - 顶角) \\div 2$；已知底角求顶角用 $180 - 底角 \\times 2$。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp5",
+  "title": "景物描写顺序",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "景物描写顺序",
+      "question": "按照游览路线来描写景物叫做“移步换景”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "移步换景就是随着观察位置的移动，描写不同位置看到的景物。"
+    }
+  ],
+  "knowledge": null
+}

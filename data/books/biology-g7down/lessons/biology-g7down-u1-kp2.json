@@ -1,0 +1,63 @@
+{
+  "id": "biology-g7down-u1-kp2",
+  "title": "消化系统与营养",
+  "bookId": "biology-g7down",
+  "unitNumber": 1,
+  "unitTitle": "人的由来与营养",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "消化系统与营养",
+      "question": "消化和吸收的主要场所是（　）",
+      "options": [
+        "口腔",
+        "胃",
+        "小肠",
+        "大肠"
+      ],
+      "answer": "小肠",
+      "explanation": "小肠是主要场所。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "消化系统与营养",
+      "question": "小肠长且有皱襞和绒毛，利于消化吸收。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结构适应功能。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "消化系统与营养",
+      "question": "人体最主要的供能物质是（　）",
+      "options": [
+        "糖类",
+        "脂肪",
+        "蛋白质",
+        "维生素"
+      ],
+      "answer": "糖类",
+      "explanation": "糖类是主要供能物质。"
+    }
+  ],
+  "knowledge": {
+    "point": "消化系统与营养",
+    "core_concept": "消化系统由消化道和消化腺组成。食物在消化道内被分解为可吸收的小分子物质。小肠是消化和吸收的主要场所（长、皱襞和小肠绒毛增大表面积）。",
+    "key_formula": "三大供能物质：糖类、脂肪、蛋白质",
+    "common_mistakes": [
+      "认为胃是吸收的主要场所。"
+    ],
+    "tips": "吸收主要在小肠。"
+  }
+}

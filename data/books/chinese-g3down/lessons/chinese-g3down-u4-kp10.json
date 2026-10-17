@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u4-kp10",
+  "title": "词语填写",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 9,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语填写",
+      "question": "蜜蜂靠的不是超常的记忆力，而是一种我无法解释的（___）。",
+      "options": [],
+      "answer": "本能",
+      "explanation": "填入课文原词，体现科学探究的严谨。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "science-g1up-u1-kp5",
+  "title": "植物的生长与变化记录",
+  "bookId": "science-g1up",
+  "unitNumber": 1,
+  "unitTitle": "植物",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "我们可以通过画图的方法来记录植物的生长变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "画图描绘、拍照、测量都是记录植物生长的科学记录方法。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "植物生长不需要的是（）。",
+      "options": [
+        "空气",
+        "水分",
+        "阳光",
+        "书本"
+      ],
+      "answer": "书本",
+      "explanation": "空气、水、阳光是植物生存的基本条件。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "大蒜种子种在水里，最先长出来的是（）。",
+      "options": [
+        "花",
+        "果实",
+        "根",
+        "没变化"
+      ],
+      "answer": "根",
+      "explanation": "种子萌发通常是先发根，以便吸收水分。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "在记录植物生长时，发现它长高了，我们可以（）。",
+      "options": [
+        "把植物剪掉",
+        "测量高度并记下来",
+        "假装没看见",
+        "画一个圆圈"
+      ],
+      "answer": "测量高度并记下来",
+      "explanation": "测量是科学记录生长变化的重要数据来源。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "如果每天给大蒜浇水，大约过（）天它就会长出绿芽。",
+      "options": [],
+      "answer": "3",
+      "explanation": "在适宜条件下，大蒜萌发周期大约为3-5天。"
+    }
+  ],
+  "knowledge": null
+}

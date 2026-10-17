@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g2down-u6-kp3",
+  "title": "地质化石与地理变迁的科普认知",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 2,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地质化石与地理变迁的科普认知",
+      "question": "岩石上的“雨痕”是由于古代下雨时在泥土上留下的痕迹干涸后形成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "雨痕是雨点降落在岩层表面留下的凹穴。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地质化石与地理变迁的科普认知",
+      "question": "《要是你在野外迷了路》一文中没有提到的指南针是：",
+      "options": [
+        "正午的太阳",
+        "黑夜的北极星",
+        "阴雨天的大树",
+        "地上的小石头"
+      ],
+      "answer": "地上的小石头",
+      "explanation": "文中只提到了太阳、北极星、大树和积雪。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地质化石与地理变迁的科普认知",
+      "question": "在岩石中发现鱼的印记，说明这里曾经是（_____）。",
+      "options": [],
+      "answer": "大海",
+      "explanation": "鱼生活在水中，证明了地壳运动导致的陆海变迁。"
+    }
+  ],
+  "knowledge": {
+    "point": "地质化石与地理变迁的科普认知",
+    "core_concept": "岩石是大自然的“百科全书”。通过观察其中的化石（如鱼印记、树叶印记）以及雨痕、波痕，可以推断出现在的陆地在很久以前可能是海洋或丛林。这种现象被称为“地壳运动”。",
+    "key_formula": "岩石化石遗迹 = 环境历史缩影。",
+    "common_mistakes": [
+      "不理解鱼化石为什么会出现在高山上",
+      "分不清什么是“印记”和“实物”"
+    ],
+    "tips": "把岩石想象成一本厚厚的日记，上面的花纹就是大自然写下的文字。"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "english-renjiao-g10up-u5-kp1",
+  "title": "语言词汇 dialect / character",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Languages Around the World 世界语言",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "语言词汇 dialect / character",
+      "question": "「方言」的英文是（　）",
+      "options": [
+        "dialect",
+        "dialekt",
+        "dilect",
+        "dialectt"
+      ],
+      "answer": "dialect",
+      "explanation": "dialect 方言。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "语言词汇 dialect / character",
+      "question": "「书写系统」的英文是（　）",
+      "options": [
+        "writing system",
+        "write system",
+        "writing systems",
+        "writting system"
+      ],
+      "answer": "writing system",
+      "explanation": "writing system。"
+    }
+  ],
+  "knowledge": {
+    "point": "语言词汇 dialect / character",
+    "core_concept": "dialect 方言、character 汉字、system 系统、plural 复数、native language 母语。",
+    "key_formula": "Chinese characters 汉字",
+    "common_mistakes": [
+      "character 拼写错误。"
+    ],
+    "tips": "char-ac-ter。"
+  }
+}

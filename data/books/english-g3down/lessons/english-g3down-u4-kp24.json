@@ -1,0 +1,29 @@
+{
+  "id": "english-g3down-u4-kp24",
+  "title": "特殊疑问句",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 20,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊疑问句",
+      "question": "连词成句：",
+      "options": [
+        "Where",
+        "my",
+        "is",
+        "car",
+        "?"
+      ],
+      "answer": "Where,is,my,car,?",
+      "explanation": "特殊疑问句结构：Where + is + 物体?"
+    }
+  ],
+  "knowledge": null
+}

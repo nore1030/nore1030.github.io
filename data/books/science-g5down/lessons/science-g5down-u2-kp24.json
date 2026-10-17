@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp24",
+  "title": "载重量测量",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 18,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "载重量测量",
+      "question": "我们在测试铝箔船的载重量时，如果此时放入（___）个垫圈正好使船沉没，则该船的载重量应记录为上一个垫圈数。",
+      "options": [],
+      "answer": "10",
+      "explanation": "载重量记录为船能承载而不沉没的最大数值，通常通过逐个增加垫圈测试。"
+    }
+  ],
+  "knowledge": null
+}

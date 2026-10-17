@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u6-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 6,
+  "unitTitle": "成长的足迹",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“蓝蓝的天空，电线杆之间连着几痕细线，多么像五线谱啊！”这是什么修辞？",
+      "options": [
+        "拟人",
+        "反问",
+        "排比",
+        "比喻"
+      ],
+      "answer": "比喻",
+      "explanation": "将电线比作五线谱，是典型的比喻手法。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp19",
+  "title": "基础职业词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 15,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "基础职业词汇",
+      "question": "He can drive a car. He is a ______.",
+      "options": [],
+      "answer": "driver",
+      "explanation": "开车的人是司机 driver。"
+    }
+  ],
+  "knowledge": null
+}

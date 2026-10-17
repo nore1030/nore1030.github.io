@@ -1,0 +1,66 @@
+{
+  "id": "moral-g6down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小学毕业与中学衔接",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "珍惜小学时光",
+      "question": "对老师的教诲，正确态度是（　）",
+      "options": [
+        "虚心接受并改进",
+        "置之不理",
+        "顶撞老师",
+        "背后抱怨"
+      ],
+      "answer": "虚心接受并改进",
+      "explanation": "尊重师言。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中学生活的准备",
+      "question": "进入中学要主动适应新集体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "适应新集体。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中学生活的准备",
+      "question": "学习计划的制定应该（　）",
+      "options": [
+        "既切实可行又有弹性",
+        "写满却做不到",
+        "完全照抄别人",
+        "从不制定"
+      ],
+      "answer": "既切实可行又有弹性",
+      "explanation": "计划要可行。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "珍惜小学时光",
+      "question": "和同学发生矛盾要妥善处理，不做伤害友谊的事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "珍视友谊。"
+    }
+  ],
+  "knowledge": null
+}

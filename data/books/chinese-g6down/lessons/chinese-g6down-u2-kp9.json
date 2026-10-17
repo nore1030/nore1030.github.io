@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u2-kp9",
+  "title": "作品与作者对应",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 8,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作品与作者对应",
+      "question": "请将下列作家与其代表作进行连线：",
+      "options": [
+        "丹尼尔·笛福",
+        "塞尔玛·拉格洛芙",
+        "马克·吐温",
+        "夏洛蒂·勃朗特",
+        "《汤姆·索亚历险记》",
+        "《简·爱》",
+        "《鲁滨逊漂流记》",
+        "《尼尔斯骑鹅旅行记》"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "考察课文涉及的相关文学常识。"
+    }
+  ],
+  "knowledge": null
+}

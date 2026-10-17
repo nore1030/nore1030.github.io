@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "词法基础",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词与冠词",
+      "question": "He is ___ honest boy.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": "an",
+      "explanation": "honest 中 h 不发音，以元音音素开头。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词与数词",
+      "question": "Give ___ the book, please. (我)",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "作宾语用宾格。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "名词与冠词",
+      "question": "不可数名词没有复数形式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如 water。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "代词与数词",
+      "question": "There are ___ students in the room.",
+      "options": [
+        "twelve",
+        "twelveth",
+        "the twelve",
+        "twelfth"
+      ],
+      "answer": "twelve",
+      "explanation": "基数词表示数量。"
+    }
+  ],
+  "knowledge": null
+}

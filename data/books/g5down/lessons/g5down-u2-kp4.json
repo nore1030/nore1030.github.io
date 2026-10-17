@@ -1,0 +1,75 @@
+{
+  "id": "g5down-u2-kp4",
+  "title": "数的奇偶性运算规律",
+  "bookId": "g5down",
+  "unitNumber": 2,
+  "unitTitle": "因数与倍数",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数的奇偶性运算规律",
+      "question": "两个奇数的和一定是偶数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "奇数+奇数=偶数。例如 $3 + 5 = 8$ 是偶数。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数的奇偶性运算规律",
+      "question": "奇数与偶数的积是：",
+      "options": [
+        "奇数",
+        "偶数",
+        "质数",
+        "不确定"
+      ],
+      "answer": "偶数",
+      "explanation": "奇数 $\times$ 偶数 = 偶数。例如 $3 \times 2 = 6$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数的奇偶性运算规律",
+      "question": "有 101 个连读自然数相加，和是：",
+      "options": [
+        "奇数",
+        "偶数",
+        "取决于第一个数",
+        "无法确定"
+      ],
+      "answer": "取决于第一个数",
+      "explanation": "奇数个自然数连加，奇数的个数若为偶数则和为偶数，反之则奇。若首项为偶，则有50个奇数（和为偶）；若首项为奇，则有51个奇数（和为奇）。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数的奇偶性运算规律",
+      "question": "3 个连续奇数的和是 21，这三个数中最大的一个是 ___。",
+      "options": [],
+      "answer": "9",
+      "explanation": "中间的数是 $21 \times 3 = 7$。三个数是5, 7, 9。最大是9。验算：$5+7+9=21$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数的奇偶性运算规律",
+    "core_concept": "研究奇数与偶数通过加减乘运算后的结果性质。规律包括：奇数 + 奇数 = 偶数，偶数 + 偶数 = 偶数，奇数 + 偶数 = 奇数；奇数 $\times$ 奇数 = 奇数，奇数 $\times$ 偶数 = 偶数，偶数 $\times$ 偶数 = 偶数。",
+    "key_formula": "\\text{奇}+\\text{奇}=\\text{偶}, \\text{奇}+\\text{偶}=\\text{奇}, \\text{偶}+\\text{偶}=\\text{偶}",
+    "common_mistakes": [
+      "记混加法和乘法的规律",
+      "在处理多个数连加时，没看奇数出现的次数"
+    ],
+    "tips": "不确定规律时，可以用最简单的数字（如 1 和 2）代入验算。"
+  }
+}

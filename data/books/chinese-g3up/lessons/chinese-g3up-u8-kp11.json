@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp11",
+  "title": "文言文字义",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文字义",
+      "question": "“光持石击瓮破之”中，“之”字指代的是：",
+      "options": [
+        "司马光",
+        "石头",
+        "大水缸",
+        "落水的小孩"
+      ],
+      "answer": "大水缸",
+      "explanation": "“之”在这里作为代词，指代前面提到的“瓮”（大缸）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "english-g4up-u6-kp7",
+  "title": "语法搭配",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 3,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语法搭配",
+      "question": "当询问人数时，'How many' 后面接的是单数名词。",
+      "options": [],
+      "answer": "错",
+      "explanation": "How many 后必须跟复数名词，例如 How many people。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语法搭配",
+      "question": "How many sisters ______ you have?",
+      "options": [
+        "do",
+        "does",
+        "are",
+        "is"
+      ],
+      "answer": "do",
+      "explanation": "主语是 you，助动词使用 do。"
+    }
+  ],
+  "knowledge": null
+}

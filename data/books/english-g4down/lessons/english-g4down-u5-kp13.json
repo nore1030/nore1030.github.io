@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp13",
+  "title": "情景交际",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情景交际",
+      "question": "Where is my skirt? ______",
+      "options": [
+        "It's on the bed.",
+        "It's red.",
+        "They are mine.",
+        "Yes, it is."
+      ],
+      "answer": "It's on the bed.",
+      "explanation": "询问地点用Where，回答应指向方位。"
+    }
+  ],
+  "knowledge": null
+}

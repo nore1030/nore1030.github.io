@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp17",
+  "title": "交际用语",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交际用语",
+      "question": "-Let's be friends! -______",
+      "options": [
+        "Goodbye.",
+        "OK.",
+        "I'm sorry.",
+        "Thank you."
+      ],
+      "answer": "OK.",
+      "explanation": "对方提议做朋友，表示同意用OK。"
+    }
+  ],
+  "knowledge": null
+}

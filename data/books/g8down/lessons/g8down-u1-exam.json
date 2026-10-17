@@ -1,0 +1,56 @@
+{
+  "id": "g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g8down",
+  "unitNumber": 1,
+  "unitTitle": "二次根式",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "二次根式的概念与性质",
+      "question": "$\\sqrt{a^2}=a$ 对任意实数 $a$ 都成立。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应为 $\\sqrt{a^2}=|a|$。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "二次根式的乘除",
+      "question": "计算：$\\sqrt{2}\\times\\sqrt{8}=$ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$\\sqrt{16}=4$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "二次根式的加减",
+      "question": "计算：$3\\sqrt2-\\sqrt2=$ ？",
+      "options": [],
+      "answer": "2\\sqrt2",
+      "explanation": "同类二次根式系数相减。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二次根式的概念与性质",
+      "question": "当 $x$ ___ 时，$\\sqrt{x-3}$ 有意义。",
+      "options": [],
+      "answer": "≥3",
+      "explanation": "被开方数非负：$x-3\\ge0$。"
+    }
+  ],
+  "knowledge": null
+}

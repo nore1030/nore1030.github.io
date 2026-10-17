@@ -1,0 +1,66 @@
+{
+  "id": "science-g3down-u2-kp3",
+  "title": "昆虫的身体结构特征",
+  "bookId": "science-g3down",
+  "unitNumber": 2,
+  "unitTitle": "动物的一生",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "昆虫的身体结构特征",
+      "question": "蚕蛾虽然有翅膀，但是不能在空中飞行。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蚕蛾的翅膀已经退化，只能振动翅膀并缓慢爬行。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "昆虫的身体结构特征",
+      "question": "蚕蛾身体分为哪三个部分（）。",
+      "options": [
+        "头、胸、腹",
+        "头、颈、腹",
+        "头、胸、尾",
+        "胸、腹、尾"
+      ],
+      "answer": "头、胸、腹",
+      "explanation": "昆虫的共同特征是身体分为头、胸、腹。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "昆虫的身体结构特征",
+      "question": "下列属于昆虫的是（）。",
+      "options": [
+        "蜘蛛",
+        "蜈蚣",
+        "蜜蜂",
+        "螃蟹"
+      ],
+      "answer": "蜜蜂",
+      "explanation": "蜜蜂具备头胸腹和三对足的特征。蜘蛛有4对足，不属于昆虫。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "昆虫的身体结构特征",
+      "question": "成虫期（蚕蛾）的蚕有（___）对足。",
+      "options": [],
+      "answer": "3",
+      "explanation": "昆虫成虫都有三对足。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": "biology-g7up-u2-kp2",
+  "title": "细胞的分裂与分化",
+  "bookId": "biology-g7up",
+  "unitNumber": 2,
+  "unitTitle": "细胞与生物体的结构层次",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "细胞的分裂与分化",
+      "question": "一个细胞连续分裂 3 次，可得到多少个细胞？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$2^3=8$ 个。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "细胞的分裂与分化",
+      "question": "细胞分裂前后染色体的数目（　）",
+      "options": [
+        "加倍",
+        "减半",
+        "不变",
+        "随机变化"
+      ],
+      "answer": "不变",
+      "explanation": "染色体先复制再均分。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "细胞的分裂与分化",
+      "question": "细胞分化形成了不同的组织。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分化形成组织。"
+    }
+  ],
+  "knowledge": {
+    "point": "细胞的分裂与分化",
+    "core_concept": "细胞分裂使细胞数目增多，染色体先复制再均分；细胞分化形成不同组织。分裂前后遗传物质不变。",
+    "key_formula": "$n$ 次分裂细胞数为 $2^n$",
+    "common_mistakes": [
+      "认为分化改变遗传物质。"
+    ],
+    "tips": "分化是基因选择性表达。"
+  }
+}

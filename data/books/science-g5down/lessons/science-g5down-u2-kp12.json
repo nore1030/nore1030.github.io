@@ -1,0 +1,37 @@
+{
+  "id": "science-g5down-u2-kp12",
+  "title": "沉的材料造船",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 6,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "沉的材料造船",
+      "question": "钢铁制造的轮船能浮在水面上，是因为它排开的水量怎么变化？",
+      "options": [
+        "排开的水量变大了",
+        "排开的水量变小了",
+        "排开的水量不变",
+        "钢铁本身密度变小了"
+      ],
+      "answer": "排开的水量变大了",
+      "explanation": "做成船型后排开水的体积大大增加，获得的浮力大于重力。"
+    }
+  ],
+  "knowledge": {
+    "point": "沉的材料造船",
+    "core_concept": "铝箔、钢铁等沉的材料制成船型后，因排开水量增加而获得浮力。",
+    "key_formula": "物体沉浮状态取决于重力与浮力的关系。",
+    "common_mistakes": [
+      "混淆体积与排开水的体积",
+      "认为浮力只与物体重量有关"
+    ],
+    "tips": "把下沉材料做成中空形状，它是变浮的关键手段。"
+  }
+}

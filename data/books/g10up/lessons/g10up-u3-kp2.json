@@ -1,0 +1,63 @@
+{
+  "id": "g10up-u3-kp2",
+  "title": "函数的单调性与奇偶性",
+  "bookId": "g10up",
+  "unitNumber": 3,
+  "unitTitle": "函数的概念与性质",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "函数的单调性与奇偶性",
+      "question": "$f(x)=x^3$ 是（　）",
+      "options": [
+        "奇函数",
+        "偶函数",
+        "非奇非偶",
+        "既奇又偶"
+      ],
+      "answer": "奇函数",
+      "explanation": "$f(-x)=-x^3=-f(x)$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "函数的单调性与奇偶性",
+      "question": "$f(x)=x^2$ 在 $(0,+\\infty)$ 上单调递增。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对称轴为 $x=0$。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "函数的单调性与奇偶性",
+      "question": "$f(x)=|x|$ 是（　）",
+      "options": [
+        "奇函数",
+        "偶函数",
+        "非奇非偶",
+        "周期函数"
+      ],
+      "answer": "偶函数",
+      "explanation": "$|-x|=|x|$。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数的单调性与奇偶性",
+    "core_concept": "增函数：$x_1<x_2\\Rightarrow f(x_1)<f(x_2)$。奇函数满足 $f(-x)=-f(x)$（图象关于原点对称）；偶函数满足 $f(-x)=f(x)$（图象关于 $y$ 轴对称）。",
+    "key_formula": "$f(-x)=-f(x)$ / $f(-x)=f(x)$",
+    "common_mistakes": [
+      "忘记判断定义域是否关于原点对称。"
+    ],
+    "tips": "先看定义域再判奇偶性。"
+  }
+}

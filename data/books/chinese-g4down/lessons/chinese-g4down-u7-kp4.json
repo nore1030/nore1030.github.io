@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp4",
+  "title": "字音字形鉴别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音字形鉴别",
+      "question": "“芙蓉楼送辛渐”中的“渐”字读音是 jiàn。",
+      "options": [],
+      "answer": "对",
+      "explanation": "‘渐’在文中读 jiàn，指辛渐，人名。"
+    }
+  ],
+  "knowledge": null
+}

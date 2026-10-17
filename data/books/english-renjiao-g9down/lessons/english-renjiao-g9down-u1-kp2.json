@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9down-u1-kp2",
+  "title": "被动语态综合",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时与被动语态",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "The song ___ by many singers.",
+      "options": [
+        "sings",
+        "sing",
+        "is sung",
+        "sang"
+      ],
+      "answer": "is sung",
+      "explanation": "主语 song 是承受者。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "被动语态中 by 引出动作的发出者。",
+      "options": [],
+      "answer": "对",
+      "explanation": "by 引出发出者。"
+    }
+  ],
+  "knowledge": {
+    "point": "被动语态综合",
+    "core_concept": "被动语态强调动作承受者。常与 by 短语搭配说明动作发出者，或不出现 by 说明不必/无从说明。",
+    "key_formula": "be + 过去分词 (+ by …)",
+    "common_mistakes": [
+      "主动句直接套用被动结构。"
+    ],
+    "tips": "先判断主语是不是承受者。"
+  }
+}

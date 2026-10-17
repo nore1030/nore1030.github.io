@@ -1,0 +1,66 @@
+{
+  "id": "biology-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g7up",
+  "unitNumber": 1,
+  "unitTitle": "生物和生物圈",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生物与环境的关系",
+      "question": "仙人掌叶退化为刺，说明（　）",
+      "options": [
+        "生物影响环境",
+        "生物适应环境",
+        "环境不受影响",
+        "生物改变环境"
+      ],
+      "answer": "生物适应环境",
+      "explanation": "减少水分散失是适应干旱。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生态系统与生物圈",
+      "question": "地球上最大的生态系统是（　）",
+      "options": [
+        "森林生态系统",
+        "海洋生态系统",
+        "生物圈",
+        "草原生态系统"
+      ],
+      "answer": "生物圈",
+      "explanation": "生物圈是最大的生态系统。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "生物的特征与调查",
+      "question": "除病毒外，生物都是由细胞构成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "细胞是生命活动的基本单位。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "生态系统与生物圈",
+      "question": "生态系统具有一定的自动调节能力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "但调节能力有限。"
+    }
+  ],
+  "knowledge": null
+}

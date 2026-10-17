@@ -1,0 +1,32 @@
+{
+  "id": "english-g4up-u2-kp21",
+  "title": "情景交流连线",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情景交流连线",
+      "question": "将左侧问句与右侧正确答语连线。",
+      "options": [
+        "Thank you so much.",
+        "What's in it?",
+        "What color is it?",
+        "Excuse me.",
+        "Yes?",
+        "It's blue and white.",
+        "Many books.",
+        "You're welcome."
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "感谢对应不客气，问内容对应物品，问颜色对应蓝白，打扰了对应回应。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "science-g5down-u2-kp10",
+  "title": "工程设计流程",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 4,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "工程设计流程",
+      "question": "在制作小船时，应先进行制作，如果发现问题再进行设计修改。",
+      "options": [],
+      "answer": "错",
+      "explanation": "工程流程应先设计，后制作，测试后再优化。"
+    }
+  ],
+  "knowledge": {
+    "point": "工程设计流程",
+    "core_concept": "设计-制作-测试-评价-完善是完整的工程实践过程。",
+    "key_formula": "性能与成本的平衡是评价工程好坏的关键。",
+    "common_mistakes": [
+      "不做方案直接动手制作",
+      "忽略材料成本约束"
+    ],
+    "tips": "画好设计稿再动手，标注主要材料和关键尺寸。"
+  }
+}

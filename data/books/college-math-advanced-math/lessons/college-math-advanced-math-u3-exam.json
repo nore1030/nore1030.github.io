@@ -1,0 +1,61 @@
+{
+  "id": "college-math-advanced-math-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "college-math-advanced-math",
+  "unitNumber": 3,
+  "unitTitle": "积分",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "不定积分与定积分",
+      "question": "计算定积分 $\\int_0^{2} x^2\\,dx=$ ？",
+      "options": [],
+      "answer": "2.666667",
+      "explanation": "$\\int_0^{2}x^2\\,dx=\\frac{x^3}{3}\\Big|_0^{2}=\\frac{8}{3}=2.666667$。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "不定积分与定积分",
+      "question": "$\\int_0^{\\pi}\\sin x\\,dx=$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$-\\cos x\\Big|_0^{\\pi}=1+1=2$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "定积分的应用",
+      "question": "计算面积时若被积函数在区间内为负，应取其绝对值。",
+      "options": [],
+      "answer": "对",
+      "explanation": "面积非负。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "不定积分与定积分",
+      "question": "$\\int 2x\\,dx=$（　）",
+      "options": [
+        "$x^2+C$",
+        "$2x^2+C$",
+        "$2+C$",
+        "$x^2$"
+      ],
+      "answer": "$x^2+C$",
+      "explanation": "$\\int2xdx=x^2+C$。"
+    }
+  ],
+  "knowledge": null
+}

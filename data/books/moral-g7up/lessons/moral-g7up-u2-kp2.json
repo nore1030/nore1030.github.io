@@ -1,0 +1,47 @@
+{
+  "id": "moral-g7up-u2-kp2",
+  "title": "集体与团队意识",
+  "bookId": "moral-g7up",
+  "unitNumber": 2,
+  "unitTitle": "青春与情绪",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "集体与团队意识",
+      "question": "建设良好集体需要（　）",
+      "options": [
+        "共同目标与团结协作",
+        "各自为政",
+        "只讲个人利益",
+        "互相攀比"
+      ],
+      "answer": "共同目标与团结协作",
+      "explanation": "良好集体需要协作。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "集体与团队意识",
+      "question": "个人与集体相互依存。",
+      "options": [],
+      "answer": "对",
+      "explanation": "个人与集体关系。"
+    }
+  ],
+  "knowledge": {
+    "point": "集体与团队意识",
+    "core_concept": "集体是人们联合起来的有组织的整体。良好的集体需要共同目标、团结协作与各尽其能。个人与集体相互依存。",
+    "key_formula": "个人与集体相互依存",
+    "common_mistakes": [
+      "认为个人在集体中无关紧要。"
+    ],
+    "tips": "集体力量源于团结。"
+  }
+}

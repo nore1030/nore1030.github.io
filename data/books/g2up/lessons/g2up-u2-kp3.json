@@ -1,0 +1,80 @@
+{
+  "id": "g2up-u2-kp3",
+  "title": "连加、连减与加减混合运算",
+  "bookId": "g2up",
+  "unitNumber": 2,
+  "unitTitle": "100以内的加法和减法（二）",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "计算 $24 + 16 + 30$ 的结果是（ ）。",
+      "options": [
+        "40",
+        "60",
+        "70",
+        "80"
+      ],
+      "answer": "70",
+      "explanation": "$24 + 16 = 40$，$40 + 30 = 70$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "在算式 $90 - 36 - 24$ 中，可以先算（ ）会比较简便。",
+      "options": [
+        "90 - 36",
+        "36 - 24",
+        "36 + 24",
+        "90 - 24"
+      ],
+      "answer": "36 + 24",
+      "explanation": "$90 - (36 + 24)$ 可以湊成整十数，$36+24=60$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "一根绳子长 100 米，第一次剪去 36 米，第二次剪去 44 米，绳子短了（ ）米。",
+      "options": [
+        "20",
+        "80",
+        "64",
+        "56"
+      ],
+      "answer": "80",
+      "explanation": "求短了多少即求一共剪去多少：$36 + 44 = 80$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "三个朋友跳绳，小红跳了 32 下，小军跳了 28 下，小刚跳了 35 下，他们一共跳了 ___ 下。",
+      "options": [],
+      "answer": "95",
+      "explanation": "$32 + 28 + 35 = 60 + 35 = 95$。"
+    }
+  ],
+  "knowledge": {
+    "point": "连加、连减与加减混合运算",
+    "core_concept": "连加、连减和加减混合运算，一般按照从左到右的顺序依次计算。为了书写简便，可以把两个竖式合并成一个竖式。",
+    "key_formula": "从左往右看，谁在前面先算谁。",
+    "common_mistakes": [
+      "看错运算符号，把加法当成减法或反之",
+      "两步计算中第一步算错导致最后结果错误"
+    ],
+    "tips": "在计算连加时，寻找凑成整十的数（如4+6, 2+8）先加，可以提高速度。"
+  }
+}

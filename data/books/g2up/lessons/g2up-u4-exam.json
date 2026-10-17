@@ -1,0 +1,217 @@
+{
+  "id": "g2up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g2up",
+  "unitNumber": 4,
+  "unitTitle": "表内乘法（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "1 乘任何数都得 1。",
+      "options": [],
+      "answer": "错",
+      "explanation": "1 乘任何数都得原数。例如 $1 \\times 5 = 5$。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘法的初步认识",
+      "question": "$2 + 2$ 可以写成 $2 \\times 2$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "2 个 2 相加是 $2+2=4$，乘法表示为 $2 \\times 2=4$。结果相同。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "$5 \\times 3 - 5$ 与 $5 \\times 2$ 的结果相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$5 \\times 3 - 5 = 15 - 5 = 10$；$5 \\times 2 = 10$。两者相等。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "两个乘数都是 1，积是 2。",
+      "options": [],
+      "answer": "错",
+      "explanation": "积应该是 $1 \\times 1 = 1$。2 是 $1+1$ 的和。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "5 的乘法口诀中，每一句的积都比前一句多：",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "不确定"
+      ],
+      "answer": "5",
+      "explanation": "相邻两句 5 的口诀，积相差 5。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法的初步认识",
+      "question": "一个乘数是 4，另一个乘数是 6，积是多少？",
+      "options": [
+        "10",
+        "2",
+        "24",
+        "30"
+      ],
+      "answer": "24",
+      "explanation": "$4 \\times 6 = 24$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "口诀“三六十八”可以用来计算下列哪个算式？",
+      "options": [
+        "3 + 6",
+        "18 - 6",
+        "6 \\times 3",
+        "6 + 6 + 6 + 6"
+      ],
+      "answer": "6 \\times 3",
+      "explanation": "口诀对应乘法算式 $3 \\times 6$ 或 $6 \\times 3$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "小红有 2 套邮票，每套 6 张。小明有 3 套邮票，每套 4 张。谁的邮票多？",
+      "options": [
+        "小红多",
+        "小明多",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "一样多",
+      "explanation": "小红：$2 \\times 6 = 12$；小明：$3 \\times 4 = 12$。两人一样多。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "在算式 $2 \\times 5$ 中，5 叫做：",
+      "options": [
+        "加数",
+        "乘数",
+        "积",
+        "和"
+      ],
+      "answer": "乘数",
+      "explanation": "乘号两边的数都叫乘数。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "有一堆小棒，如果 4 根 4 根地数，数了 5 次还剩 2 根。这堆小棒共有多少根？",
+      "options": [
+        "18",
+        "22",
+        "20",
+        "11"
+      ],
+      "answer": "22",
+      "explanation": "$4 \\times 5 + 2 = 22$（根）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "手工课上，小红做了 6 朵花，小云做的朵数是小红的 2 倍。小云做了多少朵？",
+      "options": [
+        "8",
+        "12",
+        "4",
+        "10"
+      ],
+      "answer": "12",
+      "explanation": "2 倍即 2 个 6，$6 \\times 2 = 12$（朵）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法的初步认识",
+      "question": "下列哪个加法算式不能改成乘法算式？",
+      "options": [
+        "2 + 2 + 2",
+        "4 + 4 + 4 + 4",
+        "3 + 3 + 2",
+        "5 + 5"
+      ],
+      "answer": "3 + 3 + 2",
+      "explanation": "只有相同加数连加才能改写成乘法。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "小明有 6 盒巧克力，每盒 4 块，他一共有 ___ 块巧克力。",
+      "options": [],
+      "answer": "24",
+      "explanation": "$6 \\times 4 = 24$。验算：$4+4+4+4+4+4=24$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "二年级一班参加兴趣小组，每组 6 人，分成了 5 组，其中有 1 个小组只去了 3 人，一共去了 ___ 人。",
+      "options": [],
+      "answer": "27",
+      "explanation": "先算满员的小组：$6 \\times 4 = 24$，加上不满意的小组：$24 + 3 = 27$。或者 $6 \\times 5 - 3 = 27$。验算：$6+6+6+6+3=27$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "2~6的乘法口诀编制与记忆",
+      "question": "计算：$4 \\times 4 = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$4 \\times 4 = 16$。验算：$4+4+4+4=16$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

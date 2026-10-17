@@ -1,0 +1,217 @@
+{
+  "id": "g5down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "分子比分母大的分数一定是假分数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "假分数的定义是分子大于或等于分母的分数。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "约分与最大公因数",
+      "question": "最简分数的分子和分母没有公因数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "任何自然数的分子和分母都有公因数 1。最简分数的公因数只有 1。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数的基本性质",
+      "question": "一个分数的分子扩大 2 倍，分母缩小 2 倍，分数的大小不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据分数的基本性质，分子分母应同时扩大或缩小相同倍数。此题操作会使分数扩大 4 倍。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "两个质数的最小公倍数就是它们的乘积。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个质数只有公因数 1，它们是互质数，互质数的最小公倍数是它们的积。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数与除法的关系",
+      "question": "一个袋子装有 5 千克大米，平均分成 8 份，每份大米重：",
+      "options": [
+        "1/8 千克",
+        "5/8 千克",
+        "1/5 千克",
+        "8/5 千克"
+      ],
+      "answer": "5/8 千克",
+      "explanation": "$5 \\div 8 = 5/8$（千克）。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "要使 n/5 是假分数，n/6 是真分数，n 应是：",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "n/5 是假分数则 $n \\ge 5$；n/6 是真分数则 $n < 6$。满足条件的整数 n 只有 5。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "约分与最大公因数",
+      "question": "下列分数中，最简分数是：",
+      "options": [
+        "13/39",
+        "11/121",
+        "7/15",
+        "15/25"
+      ],
+      "answer": "7/15",
+      "explanation": "13/39 可约分为 1/3；11/121 可约分为 1/11；15/25 可约分为 3/5；7/15 的公因数只有 1。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "一根绳子，第一段剪去 3/10 米，第二段剪去全长的 3/10，哪一段剪去的长？",
+      "options": [
+        "第一段长",
+        "第二段长",
+        "一样长",
+        "无法确定"
+      ],
+      "answer": "无法确定",
+      "explanation": "第一段是具体长度 3/10 米，第二段是分率。因为不知道绳子的全长是多少，所以无法比较。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数与除法的关系",
+      "question": "把 2 块月饼平均分给 5 个人，每人分得：",
+      "options": [
+        "2/5 块",
+        "1/5 块",
+        "2/5",
+        "1/2 块"
+      ],
+      "answer": "2/5 块",
+      "explanation": "$2 \\div 5 = 2/5$（块）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "比 1/4 大而比 1/2 小的分数有：",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "无数个"
+      ],
+      "answer": "无数个",
+      "explanation": "虽然分母固定的分数有限，但分母可以无限扩大（如 100, 1000...），因此中间的分数有无数个。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "约分与最大公因数",
+      "question": "一个最简分数，若分子加上 1，约分后是 1/2；若分子减去 1，约分后是 1/4。这个分数是：",
+      "options": [
+        "3/8",
+        "5/12",
+        "2/7",
+        "1/3"
+      ],
+      "answer": "3/8",
+      "explanation": "代入法：3/8 分子加 1 得 4/8=1/2；分子减 1 得 2/8=1/4。符合题意。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "分母是 6 的最简真分数的和是：",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5/6"
+      ],
+      "answer": "1",
+      "explanation": "分母是 6 的最简真分数有 1/6 和 5/6。$1/6 + 5/6 = 6/6 = 1$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数与除法的关系",
+      "question": "小红 3 小时做了 12 个手工，平均做一个手工需要 ___ 分钟。",
+      "options": [],
+      "answer": "15",
+      "explanation": "3 小时 = 180 分钟。$180 \\div 12 = 15$（分钟）。验算：$15 \\times 12 = 180$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "有一袋糖，无论分给 8 人还是分给 10 人，都正好剩 3 块。这袋糖至少有 ___ 块。",
+      "options": [],
+      "answer": "43",
+      "explanation": "求 8 和 10 的最小公倍数，再加上 3。8 和 10 的最小公倍数是 40。$40 + 3 = 43$。验算：$43 \\div 8=5...3$，$43 \\div 10=4...3$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "计算 12 和 15 的最小公倍数是多少？",
+      "options": [],
+      "answer": "60",
+      "explanation": "$12 = 2 \\times 2 \\times 3$, $15 = 3 \\times 5$。最小公倍数 = $2 \\times 2 \\times 3 \\times 5 = 60$。验算：$60 \\div 12 = 5$, $60 \\div 15 = 4$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

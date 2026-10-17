@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g6down-u1-kp2",
+  "title": "按时间顺序记叙的方法",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "《北京的春节》是按时间先后顺序来写的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文从腊八开始，一直写到正月十九，条理清晰。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "‘过了二十三，大家更忙了’，这里的“二十三”是指：",
+      "options": [
+        "农历腊月二十三",
+        "农历正月二十三",
+        "公历1月23日",
+        "公历12月23日"
+      ],
+      "answer": "农历腊月二十三",
+      "explanation": "民俗中腊月二十三是过小年，意味着春节序幕拉开。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "《北京的春节》作者是现代著名作家（___）。",
+      "options": [],
+      "answer": "老舍",
+      "explanation": "老舍，原名舒庆春，代表作有《骆驼祥子》等。"
+    }
+  ],
+  "knowledge": {
+    "point": "按时间顺序记叙的方法",
+    "core_concept": "以时间的推移为线索，串联起生活中的点滴。优点是条理清晰，符合逻辑。在《北京的春节》中，作者使用了表示时间的词（腊八、腊月二十三、除夕、初一）作为每一阶段开头的信号，让读者一眼就能看清民俗的发展过程。",
+    "key_formula": "时间词语（信号点）+ 当日典型活动 = 清晰脉络。",
+    "common_mistakes": [
+      "时间衔接词缺失，导致内容跳跃断片",
+      "时间概念模糊，逻辑倒置"
+    ],
+    "tips": "可以先画一个时间轴，标注出关键时间点，再往里面填充具体的内容。"
+  }
+}

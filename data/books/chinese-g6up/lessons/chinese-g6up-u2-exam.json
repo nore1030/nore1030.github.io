@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g6up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 18,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉字书写辨析",
+      "question": "“爆发布”的“爆”字是火字旁，表示能量的剧烈释放。",
+      "options": [],
+      "answer": "对",
+      "explanation": "爆发的爆字部首为火，含义与爆炸、剧烈冲击相关。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法辨析",
+      "question": "“红军不怕远征难，万水千山只等闲”运用了夸张的修辞手法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“万水千山”概括了长征的艰难，是一种扩大夸张的处理方式。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文章主旨理解",
+      "question": "《灯光》一文表达了对革命先烈不惜牺牲自己为后代换来幸福生活的歌颂。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文通过灯光这一线索，展现了郝副营长等先烈对光明的向往和牺牲精神。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "标点符号功能",
+      "question": "破折号可以表示声音的延长，也可以表示解释说明。",
+      "options": [],
+      "answer": "对",
+      "explanation": "破折号在文中根据语境有解释、转折或声音延长的作用。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "点面结合的场面描写",
+      "question": "在描写学校运动会入场式时，先写列队的整齐精神（面），再描写旗手的英姿（点），这种写法的作用是：",
+      "options": [
+        "增加字数",
+        "突出主题，繁简得当",
+        "把句子写长",
+        "没有作用"
+      ],
+      "answer": "突出主题，繁简得当",
+      "explanation": "点面结合能使文章既有整体气势，又有具体的感人细节。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "英雄人物形象塑造",
+      "question": "读《金色的鱼钩》，“老班长那慈祥的目光，总是在我脑海里闪现。”这属于什么描写？",
+      "options": [
+        "语言描写",
+        "神态描写",
+        "心理描写",
+        "动作描写"
+      ],
+      "answer": "神态描写",
+      "explanation": "目光属于人物神态的一部分。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语感情色彩",
+      "question": "下列词语中，属于褒义词的一组是：",
+      "options": [
+        "傲慢 狡猾",
+        "勇猛 果断",
+        "懦弱 迟缓",
+        "顽固 固执"
+      ],
+      "answer": "勇猛 果断",
+      "explanation": "勇猛和果断是正向品质的评价词。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "“三十万人一齐脱帽肃立，一齐抬起头，瞻仰这鲜红的国旗。”从“一齐”中能感受到：",
+      "options": [
+        "人数非常多",
+        "动作很整齐",
+        "对国旗的热爱与敬意",
+        "大家都很累"
+      ],
+      "answer": "对国旗的热爱与敬意",
+      "explanation": "“一齐”体现了全国人民的高度统一和对新中国的无限崇敬。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号应用",
+      "question": "“钟声 哨声 脚步声 汇成了一首交响乐” 句子中缺少的标点符号是：",
+      "options": [
+        "。 ， ！",
+        "、 、 ，",
+        "， ， ！",
+        "： ： 。"
+      ],
+      "answer": "、 、 ，",
+      "explanation": "由于是并列的词组作为主语，中间应用顿号。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文细节",
+      "question": "在《开国大典》中，奏响《义勇军进行曲》时，毛主席亲自按动连结旗舰的电钮，第一面（___）冉冉升起。",
+      "options": [
+        "彩旗",
+        "党旗",
+        "五星红旗",
+        "军旗"
+      ],
+      "answer": "五星红旗",
+      "explanation": "中华人民共和国的第一面国旗是五星红旗。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "英雄人物形象塑造",
+      "question": "描写人物时，通过描写人物的内心想法，这种方法叫（___）描写。",
+      "options": [],
+      "answer": "心理",
+      "explanation": "描写人物心理活动的方法称为心理描写。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名句背诵",
+      "question": "“鞠躬尽瘁，（___）。”",
+      "options": [],
+      "answer": "死而后已",
+      "explanation": "出自诸葛亮，表达忠诚尽力到死。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语归类",
+      "question": "请将下列成语与它们描写的对象连线。",
+      "options": [
+        "排山倒海",
+        "昂首挺胸",
+        "千锤百炼",
+        "威风凛凛",
+        "志气",
+        "气势",
+        "姿态",
+        "神情"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "排山倒海-气势；昂首挺胸-姿态；千锤百炼-志气/磨砺；威风凛凛-神情。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词连线",
+      "question": "请为下列词语选择正确的近义词。",
+      "options": [
+        "庄严",
+        "宣告",
+        "爆发",
+        "沉静",
+        "宣读",
+        "庄重",
+        "安静",
+        "喷发"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "庄严-庄重；宣告-宣读；爆发-喷发；沉静-安静。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对话描写的多样化表达",
+      "question": "语序排列：请排出一个不带“说”字的对话引入句。",
+      "options": [
+        "班长",
+        "紧紧握住",
+        "我的手",
+        "叮嘱道",
+        "一定要完成任务"
+      ],
+      "answer": "班长,紧紧握住,我的手,叮嘱道,一定要完成任务",
+      "explanation": "通过动作和特定提示词“叮嘱”引出对话。"
+    }
+  ],
+  "knowledge": null
+}

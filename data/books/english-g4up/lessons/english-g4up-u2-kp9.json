@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp9",
+  "title": "指代一致",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指代一致",
+      "question": "-What colour is it? -______ is blue.",
+      "options": [
+        "I",
+        "It",
+        "He",
+        "She"
+      ],
+      "answer": "It",
+      "explanation": "问句提问color，且代词用it，回答应用It指代物体。"
+    }
+  ],
+  "knowledge": null
+}

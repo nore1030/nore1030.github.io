@@ -1,0 +1,91 @@
+{
+  "id": "g3up-u6-kp1",
+  "title": "口算乘法与算理转化",
+  "bookId": "g3up",
+  "unitNumber": 6,
+  "unitTitle": "多位数乘一位数",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "$40 \times 5 = 200$",
+      "options": [],
+      "answer": "对",
+      "explanation": "$40 \times 5$ 可以看作4个十乘5，等于20个十，即200。验算：$200 \text{  } / \text{  } 5 = 40$ ✓。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "$300 \times 4$ 的积是多少？",
+      "options": [
+        "120",
+        "1200",
+        "700",
+        "1210"
+      ],
+      "answer": "1200",
+      "explanation": "$3 \times 4 = 12$，所以 $300 \times 4 = 1200$。验算：$1200 \text{  } / \text{  } 4 = 300$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "计算 $60 \times 8$ 时，可以先算 $6 \times 8 = 48$，再在 48 的末尾添上几个 0？",
+      "options": [
+        "一个",
+        "两个",
+        "三个",
+        "不添"
+      ],
+      "answer": "一个",
+      "explanation": "60是6个十，乘8得48个十，即480，所以在末尾添1个0。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "比较大小：$20 \times 3 \text{  } \text{  } \text{   } 30 \times 2$",
+      "options": [
+        ">",
+        "<",
+        " =",
+        " ≈"
+      ],
+      "answer": " =",
+      "explanation": "$20 \times 3 = 60$，$30 \times 2 = 60$，所以相等。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "一只螃蟹有 8 条腿，40 只螃蟹一共有 ___ 条腿。",
+      "options": [],
+      "answer": "320",
+      "explanation": "列式：$8 \times 40 = 320$。验算：$320 \text{  } / \text{  } 8 = 40$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "口算乘法与算理转化",
+    "core_concept": "口算整十、整百数乘一位数时，可以将因数看作几个十、几个百。例如 $40 \times 3$ 就是 4 个十乘 3 等于 12 个十，即 120。本质是利用乘法分配律将大数拆解回表内乘法。",
+    "key_formula": "$a00 \times b = (a \times b)00$",
+    "common_mistakes": [
+      "计算时少写末尾的0，如 $500 \times 3 = 1500$ 错写成 150",
+      "口算表内乘法不熟练，如 $60 \times 7$ 算成 480"
+    ],
+    "tips": "先用盖住“0”的方法计算表内乘法，算出积后，看因数末尾有几个0，就在积的末尾添上几个0。"
+  }
+}

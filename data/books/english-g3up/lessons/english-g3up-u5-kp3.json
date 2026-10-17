@@ -1,0 +1,39 @@
+{
+  "id": "english-g3up-u5-kp3",
+  "title": "字母Oo至Tt的音形辨析",
+  "bookId": "english-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Let's eat!",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母Oo至Tt的音形辨析",
+      "question": "字母 R 的小写形式是 r。",
+      "options": [],
+      "answer": "对",
+      "explanation": "考察字母 Rr 的大小写对应。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Oo至Tt的音形辨析",
+      "question": "找出下列字母中发音含有 /p/ 音的单词：",
+      "options": [
+        "pig",
+        "dog",
+        "cat",
+        "ant"
+      ],
+      "answer": "pig",
+      "explanation": "Pig 以字母 P 开头，发音为 /p/。"
+    }
+  ],
+  "knowledge": null
+}

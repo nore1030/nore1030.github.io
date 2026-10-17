@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g1up-u1-kp1",
+  "title": "数数的方法",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 1,
+  "unitTitle": "数一数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数数的方法",
+      "question": "数数时要（　）",
+      "options": [
+        "按顺序地数",
+        "随便数",
+        "跳着数",
+        "倒数着数"
+      ],
+      "answer": "按顺序地数",
+      "explanation": "按顺序才不漏。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数数的方法",
+      "question": "数数时不能重复也不能遗漏。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一一对应。"
+    }
+  ],
+  "knowledge": {
+    "point": "数数的方法",
+    "core_concept": "数数时按顺序一个一个（或两个两个）地数，边数边做标记，做到不重复、不遗漏。",
+    "key_formula": "按顺序数数",
+    "common_mistakes": [
+      "数数时漏数或重复数。"
+    ],
+    "tips": "数一个划掉一个。"
+  }
+}

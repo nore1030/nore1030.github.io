@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp4",
+  "title": "读音掌握",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 0,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "读音掌握",
+      "question": "“从容”的“从”字在这里读第二声：cóng。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“从”在“从容”中读 cóng，表示不慌不忙。"
+    }
+  ],
+  "knowledge": null
+}

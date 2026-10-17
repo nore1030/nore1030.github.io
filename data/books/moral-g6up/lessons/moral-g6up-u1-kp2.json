@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6up-u1-kp2",
+  "title": "学习中的思考",
+  "bookId": "moral-g6up",
+  "unitNumber": 1,
+  "unitTitle": "阅读与成长",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学习中的思考",
+      "question": "小组讨论时正确做法是（　）",
+      "options": [
+        "认真倾听并补充他人观点",
+        "各说各的乱成一团",
+        "只听不说",
+        "嘲笑发言同学"
+      ],
+      "answer": "认真倾听并补充他人观点",
+      "explanation": "合作要有效倾听。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "学习中的思考",
+      "question": "敢于提问是主动学习的表现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "问题意识重要。"
+    }
+  ],
+  "knowledge": {
+    "point": "学习中的思考",
+    "core_concept": "学习要善于提出问题、分析问题、解决问题。小组合作要分工明确、各抒己见、求同存异。",
+    "key_formula": "问题 + 思考 + 探究",
+    "common_mistakes": [
+      "人云亦云，不加思考。"
+    ],
+    "tips": "敢于质疑是可贵品质。"
+  }
+}

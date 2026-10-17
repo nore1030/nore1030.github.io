@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u3-kp11",
+  "title": "词语释义",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 9,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语释义",
+      "question": "请将词语与其表达的情绪进行匹配：",
+      "options": [
+        "心急如焚",
+        "心旷神怡",
+        "胆战心惊",
+        "垂头丧气",
+        "心情喜悦",
+        "非常焦急",
+        "极度恐惧",
+        "情绪低落"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "心急如焚对应非常焦急，心旷神怡对应心情喜悦，胆战心惊对应极度恐惧，垂头丧气对应情绪低落。"
+    }
+  ],
+  "knowledge": null
+}

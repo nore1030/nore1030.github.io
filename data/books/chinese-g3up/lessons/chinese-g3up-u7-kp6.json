@@ -1,0 +1,39 @@
+{
+  "id": "chinese-g3up-u7-kp6",
+  "title": "核心字词",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 5,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心字词",
+      "question": "“幽深”这个词语通常用来形容什么地方？",
+      "options": [
+        "广阔的大海",
+        "茂密的树林",
+        "平坦的操场",
+        "热闹的市场"
+      ],
+      "answer": "茂密的树林",
+      "explanation": "“幽深”指深而幽静，多用于山谷或丛林。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "核心字词",
+      "question": "《采莲曲》的作者是唐代诗人（___）。",
+      "options": [],
+      "answer": "王昌龄",
+      "explanation": "王昌龄是《采莲曲》的作者。"
+    }
+  ],
+  "knowledge": null
+}

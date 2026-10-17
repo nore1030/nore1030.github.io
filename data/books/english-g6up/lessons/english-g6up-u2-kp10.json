@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp10",
+  "title": "词义辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "My home is near. I go to school ___.",
+      "options": [
+        "on foot",
+        "by plane",
+        "by ship",
+        "by train"
+      ],
+      "answer": "on foot",
+      "explanation": "距离近通常选择步行（on foot）。"
+    }
+  ],
+  "knowledge": null
+}

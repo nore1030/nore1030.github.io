@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u4-kp9",
+  "title": "古诗词积累",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 8,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词积累",
+      "question": "独怜幽草涧边生，（___）深树鸣。",
+      "options": [],
+      "answer": "上有黄鹂",
+      "explanation": "出自《滁州西涧》。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u9-kp1",
+  "title": "房间物品 bed / table / lamp / toy",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 9,
+  "unitTitle": "Module 3 Places and activities — In my room 在我的房间",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "房间物品 bed / table / lamp / toy",
+      "question": "「床」的英文是（　）",
+      "options": [
+        "bed",
+        "bad",
+        "bid",
+        "bud"
+      ],
+      "answer": "bed",
+      "explanation": "bed = 床。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "房间物品 bed / table / lamp / toy",
+      "question": "「台灯」的英文是（　）",
+      "options": [
+        "lamp",
+        "lampy",
+        "light",
+        "lantern"
+      ],
+      "answer": "lamp",
+      "explanation": "lamp = 台灯。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "房间物品 bed / table / lamp / toy",
+      "question": "room 的意思是「房间」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "room = 房间。"
+    }
+  ],
+  "knowledge": {
+    "point": "房间物品 bed / table / lamp / toy",
+    "core_concept": "bed 床、table 桌子、lamp 台灯、toy 玩具。",
+    "key_formula": "in my room 在我的房间",
+    "common_mistakes": [
+      "lamp 与 light 混淆。"
+    ],
+    "tips": "lamp 指灯具本身。"
+  }
+}

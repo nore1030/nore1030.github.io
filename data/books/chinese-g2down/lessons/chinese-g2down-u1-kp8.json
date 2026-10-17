@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u1-kp8",
+  "title": "标点符号",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 7,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号",
+      "question": "下列句子标点符号使用正确的是：",
+      "options": [
+        "春天在哪里？在桃花瓣上。",
+        "春天在哪里。在桃花瓣上！",
+        "春天在哪里，在桃花瓣上？",
+        "春天在哪里！在桃花瓣上。"
+      ],
+      "answer": "春天在哪里？在桃花瓣上。",
+      "explanation": "前句是疑问，后句是回答，用问号和句号。"
+    }
+  ],
+  "knowledge": null
+}

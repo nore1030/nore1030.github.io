@@ -1,0 +1,52 @@
+{
+  "id": "english-waiyan-g3up-u2-kp1",
+  "title": "家务词汇 make / clean / wash",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 Making a cake and watching TV 做蛋糕与看电视",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家务词汇 make / clean / wash",
+      "question": "「做蛋糕」的英文是（　）",
+      "options": [
+        "make a cake",
+        "do a cake",
+        "making cake",
+        "make cake"
+      ],
+      "answer": "make a cake",
+      "explanation": "做蛋糕用 make。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家务词汇 make / clean / wash",
+      "question": "「请保持安静」的英文是（　）",
+      "options": [
+        "Please be quiet.",
+        "Please be quite.",
+        "Please is quiet.",
+        "Quiet please be."
+      ],
+      "answer": "Please be quiet.",
+      "explanation": "quiet 是安静的。"
+    }
+  ],
+  "knowledge": {
+    "point": "家务词汇 make / clean / wash",
+    "core_concept": "make a cake 做蛋糕、clean the room 打扫房间、wash clothes 洗衣服。",
+    "key_formula": "We're making a cake.",
+    "common_mistakes": [
+      "make 与 doing 混用。"
+    ],
+    "tips": "做蛋糕用 make，不用 cook。"
+  }
+}

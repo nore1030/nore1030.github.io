@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u1-kp11",
+  "title": "光的色散",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 6,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "光的色散",
+      "question": "用三棱镜分解白光，得到红、橙、黄、绿、蓝、靛、紫七色光，这说明（___）。",
+      "options": [
+        "三棱镜中藏着颜色",
+        "白光由七种颜色混合而成",
+        "彩虹是画出来的",
+        "光只有在玻璃里才有颜色"
+      ],
+      "answer": "白光由七种颜色混合而成",
+      "explanation": "三棱镜实验证明了太阳光（白光）是复色光。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 2 My family, my friends and me — My friends 我的朋友",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍朋友 This is my friend…",
+      "question": "「她是我的朋友。」的英文是（　）",
+      "options": [
+        "She's my friend.",
+        "She my friend.",
+        "Her is my friend.",
+        "She's my friends."
+      ],
+      "answer": "She's my friend.",
+      "explanation": "she's = she is。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人称代词 he / she",
+      "question": "he's 是 he is 的缩写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "缩写规则。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍朋友 This is my friend…",
+      "question": "— This is my friend, Amy. — ___",
+      "options": [
+        "Nice to meet you, Amy.",
+        "Goodbye, Amy.",
+        "How old are you?",
+        "I'm fine."
+      ],
+      "answer": "Nice to meet you, Amy.",
+      "explanation": "被介绍后应问好。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人称代词 he / she",
+      "question": "___ is my friend. ___ name is Tom.",
+      "options": [
+        "He; His",
+        "His; He",
+        "He; He",
+        "She; Her"
+      ],
+      "answer": "He; His",
+      "explanation": "主语用主格，名词前用物主代词。"
+    }
+  ],
+  "knowledge": null
+}

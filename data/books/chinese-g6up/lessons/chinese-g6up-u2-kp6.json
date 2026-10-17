@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g6up-u2-kp6",
+  "title": "文学常识",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《开国大典》是按照事情发展的先后顺序来写的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文按入场、典礼、阅兵、游行的时间顺序进行记叙。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Getting to know you — Hello! 见面问候",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "问候语 Hello / Hi / Good morning",
+      "question": "第一次见面说 Nice to meet you.，对方应回答（　）",
+      "options": [
+        "Nice to meet you, too.",
+        "Goodbye.",
+        "Good night.",
+        "I'm nine."
+      ],
+      "answer": "Nice to meet you, too.",
+      "explanation": "回应加 too。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "道别 Goodbye / Good night",
+      "question": "放学和老师说再见，应说（　）",
+      "options": [
+        "Good morning",
+        "Good night",
+        "Goodbye",
+        "Good evening"
+      ],
+      "answer": "Goodbye",
+      "explanation": "放学道别用 Goodbye。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "道别 Goodbye / Good night",
+      "question": "Good evening 的意思是「晚上好」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Good evening 是晚间问候。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "问候语 Hello / Hi / Good morning",
+      "question": "— Good morning, class! — ___",
+      "options": [
+        "Good morning, Miss Fang!",
+        "Good night!",
+        "Goodbye!",
+        "Hello!"
+      ],
+      "answer": "Good morning, Miss Fang!",
+      "explanation": "互相问候用同一用语。"
+    }
+  ],
+  "knowledge": null
+}

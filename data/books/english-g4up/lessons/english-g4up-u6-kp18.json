@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp18",
+  "title": "询问职业疑问词",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 14,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问职业疑问词",
+      "question": "______ is your uncle's job?",
+      "options": [],
+      "answer": "what",
+      "explanation": "询问职业使用疑问代词 what。"
+    }
+  ],
+  "knowledge": null
+}

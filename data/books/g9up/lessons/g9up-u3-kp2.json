@@ -1,0 +1,47 @@
+{
+  "id": "g9up-u3-kp2",
+  "title": "点、直线与圆的位置关系",
+  "bookId": "g9up",
+  "unitNumber": 3,
+  "unitTitle": "圆",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "点、直线与圆的位置关系",
+      "question": "圆的切线垂直于过切点的半径。",
+      "options": [],
+      "answer": "对",
+      "explanation": "切线性质定理。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "点、直线与圆的位置关系",
+      "question": "圆心到直线距离 4，圆半径 4，则直线与圆（　）",
+      "options": [
+        "相交",
+        "相切",
+        "相离",
+        "无法确定"
+      ],
+      "answer": "相切",
+      "explanation": "$d=r$ 相切。"
+    }
+  ],
+  "knowledge": {
+    "point": "点、直线与圆的位置关系",
+    "core_concept": "设圆心到直线距离为 $d$、半径 $r$：$d<r$ 相交，$d=r$ 相切，$d>r$ 相离。切线垂直于过切点的半径。",
+    "key_formula": "切线 $\\Rightarrow$ 垂直于过切点半径",
+    "common_mistakes": [
+      "把“经过半径外端且垂直于半径”漏掉。"
+    ],
+    "tips": "见切点连半径。"
+  }
+}

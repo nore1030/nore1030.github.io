@@ -1,0 +1,58 @@
+{
+  "id": "g10down-u4-kp2",
+  "title": "古典概型与事件关系",
+  "bookId": "g10down",
+  "unitNumber": 4,
+  "unitTitle": "统计与概率",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古典概型与事件关系",
+      "question": "掷一枚骰子，出现偶数点的概率是（　）",
+      "options": [
+        "$\\frac12$",
+        "$\\frac13$",
+        "$\\frac16$",
+        "$\\frac23$"
+      ],
+      "answer": "$\\frac12$",
+      "explanation": "2、4、6 共 3 个，$\\frac36=\\frac12$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "古典概型与事件关系",
+      "question": "对立事件一定是互斥事件。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对立事件是特殊的互斥事件。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "古典概型与事件关系",
+      "question": "从 1~10 中随机取一个数，它是质数的概率是多少（填分数如 2/5）？",
+      "options": [],
+      "answer": "2/5",
+      "explanation": "质数有 2、3、5、7 共 4 个，$\\frac4{10}=\\frac25$。"
+    }
+  ],
+  "knowledge": {
+    "point": "古典概型与事件关系",
+    "core_concept": "古典概型要求样本点有限且等可能。互斥事件不能同时发生；对立事件必有一个发生。$P(A\\cup B)=P(A)+P(B)$ 对互斥事件成立。",
+    "key_formula": "$P(A)=\\frac mn$",
+    "common_mistakes": [
+      "非等可能时错用古典概型。"
+    ],
+    "tips": "先验证等可能性。"
+  }
+}

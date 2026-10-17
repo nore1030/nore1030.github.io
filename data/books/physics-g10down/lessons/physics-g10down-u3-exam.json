@@ -1,0 +1,61 @@
+{
+  "id": "physics-g10down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "physics-g10down",
+  "unitNumber": 3,
+  "unitTitle": "机械能守恒定律",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "机械能守恒定律",
+      "question": "质量 2 kg 的物体从 10 m 高处自由下落，落地动能是多少 J？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "200",
+      "explanation": "$E_k=mgh=2\\times10\\times10=200$ J。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功、功率与动能定理",
+      "question": "某机器 5 s 内做功 2000 J，功率是多少 W？",
+      "options": [],
+      "answer": "400",
+      "explanation": "$P=\\frac{2000}{5}=400$ W。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "机械能守恒定律",
+      "question": "机械能守恒的条件是只有重力或弹力做功。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守恒条件。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "功、功率与动能定理",
+      "question": "动能定理中，合外力做负功时物体的动能（　）",
+      "options": [
+        "增大",
+        "减小",
+        "不变",
+        "不确定"
+      ],
+      "answer": "减小",
+      "explanation": "负功使动能减小。"
+    }
+  ],
+  "knowledge": null
+}

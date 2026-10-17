@@ -1,0 +1,47 @@
+{
+  "id": "g7up-u2-kp1",
+  "title": "单项式与多项式",
+  "bookId": "g7up",
+  "unitNumber": 2,
+  "unitTitle": "整式的加减",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单项式与多项式",
+      "question": "单项式 $-3x^2y$ 的系数是（　）",
+      "options": [
+        "3",
+        "-3",
+        "2",
+        "5"
+      ],
+      "answer": "-3",
+      "explanation": "数字因数是 $-3$。"
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单项式与多项式",
+      "question": "单项式 $5a^2b^3$ 的次数是 ___。",
+      "options": [],
+      "answer": "5",
+      "explanation": "$2+3=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "单项式与多项式",
+    "core_concept": "数与字母的积是单项式；数字因数是系数，各字母指数之和是次数。几个单项式的和是多项式。",
+    "key_formula": "单项式次数 = 各字母指数和",
+    "common_mistakes": [
+      "把 $\\pi$ 当字母。"
+    ],
+    "tips": "先写成乘积再数次数。"
+  }
+}

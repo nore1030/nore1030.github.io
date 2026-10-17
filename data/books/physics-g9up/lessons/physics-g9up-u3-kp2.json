@@ -1,0 +1,53 @@
+{
+  "id": "physics-g9up-u3-kp2",
+  "title": "欧姆定律",
+  "bookId": "physics-g9up",
+  "unitNumber": 3,
+  "unitTitle": "电压、电阻与欧姆定律",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "欧姆定律",
+      "question": "导体两端电压 6 V、电阻 3 Ω，电流是多少 A？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$I=\\frac63=2$ A。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "欧姆定律",
+      "question": "电阻 10 Ω 的导体中通过 0.2 A 电流，两端电压是多少 V？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$U=IR=0.2\\times10=2$ V。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "欧姆定律",
+      "question": "电压 12 V、电流 0.4 A，电阻是多少 Ω？",
+      "options": [],
+      "answer": "30",
+      "explanation": "$R=\\frac UI=\\frac{12}{0.4}=30$ Ω。"
+    }
+  ],
+  "knowledge": {
+    "point": "欧姆定律",
+    "core_concept": "导体中的电流跟导体两端电压成正比，跟导体的电阻成反比。",
+    "key_formula": "$I=\\frac UR$",
+    "common_mistakes": [
+      "把三个量对应关系搞错。"
+    ],
+    "tips": "同一导体、同一时刻的三个量。"
+  }
+}

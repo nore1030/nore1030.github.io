@@ -1,0 +1,55 @@
+{
+  "id": "science-g3down-u2-kp5",
+  "title": "动物的生命周期规律",
+  "bookId": "science-g3down",
+  "unitNumber": 2,
+  "unitTitle": "动物的一生",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物的生命周期规律",
+      "question": "世界上所有的动物都有生命周期，都会经历出生、生长发育、繁殖和死亡的过程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "生命周期是所有动物共同的特征。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物的生命周期规律",
+      "question": "下列不属于人和动物共有生命周期现象的是（）。",
+      "options": [
+        "死亡",
+        "繁殖后代",
+        "生长发育",
+        "冬眠"
+      ],
+      "answer": "冬眠",
+      "explanation": "死亡、繁殖、生长发育是所有生物共性，但并非所有动物都冬眠。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动物的生命周期规律",
+      "question": "影响蚕生长发育的外界条件不包括（）。",
+      "options": [
+        "温度",
+        "食物",
+        "湿度",
+        "光照颜色"
+      ],
+      "answer": "光照颜色",
+      "explanation": "温度、食物品质和适宜湿度对蚕的生长至关重要。"
+    }
+  ],
+  "knowledge": null
+}

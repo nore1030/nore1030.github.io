@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp4",
+  "title": "人物性格词汇辨析",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物性格词汇辨析",
+      "question": "'quiet' 的意思是‘安静的’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "quiet是本单元核心描述词汇，意为安静的。"
+    }
+  ],
+  "knowledge": null
+}

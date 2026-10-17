@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u4-kp17",
+  "title": "简单句排列",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单句排列",
+      "question": "请将词语排成描写猫的一句话。",
+      "options": [
+        "猫的",
+        "这种",
+        "性格",
+        "古怪",
+        "实在"
+      ],
+      "answer": "猫的,性格,实在,这种,古怪",
+      "explanation": "出自《猫》的首句，调整为规范陈述句。"
+    }
+  ],
+  "knowledge": null
+}

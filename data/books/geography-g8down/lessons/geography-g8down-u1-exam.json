@@ -1,0 +1,66 @@
+{
+  "id": "geography-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "geography-g8down",
+  "unitNumber": 1,
+  "unitTitle": "中国的地理差异与经济发展",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "四大地理区域",
+      "question": "北方地区的耕地类型主要是（　）",
+      "options": [
+        "旱地",
+        "水田",
+        "林地",
+        "草地"
+      ],
+      "answer": "旱地",
+      "explanation": "北方以旱地为主。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "因地制宜发展经济",
+      "question": "青藏地区发展种植业主要分布在（　）",
+      "options": [
+        "河谷地区",
+        "高原面上",
+        "沙漠地区",
+        "沼泽深处"
+      ],
+      "answer": "河谷地区",
+      "explanation": "青藏河谷农业。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "四大地理区域",
+      "question": "西北地区降水量少，主要发展畜牧业和灌溉农业。",
+      "options": [],
+      "answer": "对",
+      "explanation": "西北经济特点。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "因地制宜发展经济",
+      "question": "南方地区降水丰富，适宜发展水稻种植。",
+      "options": [],
+      "answer": "对",
+      "explanation": "南稻北粟。"
+    }
+  ],
+  "knowledge": null
+}

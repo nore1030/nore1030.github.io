@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g10up-u2-kp1",
+  "title": "文言实词与虚词",
+  "bookId": "chinese-g10up",
+  "unitNumber": 2,
+  "unitTitle": "古诗文阅读",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“勾践之困于会稽”中“之”的用法是（　）",
+      "options": [
+        "助词，取消句子独立性",
+        "代词",
+        "动词“到”",
+        "助词“的”"
+      ],
+      "answer": "助词，取消句子独立性",
+      "explanation": "主谓之间，取消句子独立性。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文言实词与虚词",
+      "question": "文言翻译以直译为主，意译为辅。",
+      "options": [],
+      "answer": "对",
+      "explanation": "翻译原则。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言实词与虚词",
+    "core_concept": "文言实词有一词多义、古今异义、通假字、词类活用等现象。常见虚词“之、其、而、以、于”需结合语境判断用法与意义。",
+    "key_formula": "之：代词/助词/动词",
+    "common_mistakes": [
+      "用今义解释古文。"
+    ],
+    "tips": "结合上下文推断词义。"
+  }
+}

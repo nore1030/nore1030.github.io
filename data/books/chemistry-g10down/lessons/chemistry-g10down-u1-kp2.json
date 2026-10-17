@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g10down-u1-kp2",
+  "title": "化学反应速率与限度",
+  "bookId": "chemistry-g10down",
+  "unitNumber": 1,
+  "unitTitle": "化学反应与能量",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学反应速率与限度",
+      "question": "下列不能加快化学反应速率的是（　）",
+      "options": [
+        "升高温度",
+        "使用催化剂",
+        "增大反应物浓度",
+        "降低温度"
+      ],
+      "answer": "降低温度",
+      "explanation": "降温减慢反应。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "化学反应速率与限度",
+      "question": "可逆反应达到化学平衡时，正反应速率等于逆反应速率。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平衡特征。"
+    }
+  ],
+  "knowledge": {
+    "point": "化学反应速率与限度",
+    "core_concept": "反应速率常用单位时间内浓度的变化表示。升温、加催化剂、增大浓度或压强可加快反应速率。可逆反应达到平衡时，正逆反应速率相等，各物质浓度保持不变。",
+    "key_formula": "$v=\\frac{\\Delta c}{\\Delta t}$",
+    "common_mistakes": [
+      "把平衡当作反应停止。"
+    ],
+    "tips": "平衡是动态平衡。"
+  }
+}

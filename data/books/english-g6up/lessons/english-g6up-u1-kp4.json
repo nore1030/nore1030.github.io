@@ -1,0 +1,114 @@
+{
+  "id": "english-g6up-u1-kp4",
+  "title": "指路指令与方位短语",
+  "bookId": "english-g6up",
+  "unitNumber": 1,
+  "unitTitle": "How can I get there?",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "'turn left' 是左转的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "turn left 是固定短语，表示左转。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "'Go straight' 意为向右转。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Go straight 表示直行。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "Turn left ______ the bookstore.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "在某个地点转弯通常使用介词 at。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "Turn right at the first ______.",
+      "options": [
+        "cross",
+        "crossing",
+        "crossed",
+        "crosses"
+      ],
+      "answer": "crossing",
+      "explanation": "at the crossing意为在十字路口。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "Go ______ and you can find it.",
+      "options": [],
+      "answer": "straight",
+      "explanation": "go straight 直行。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "Match the phrases with Chinese meanings.",
+      "options": [
+        "turn left",
+        "go straight",
+        "next to",
+        "far from",
+        "直行",
+        "离...近",
+        "左转",
+        "在旁边"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "turn left-左转, go straight-直行, next to-在旁边, far from-离...远(此处D对应逻辑余项)。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指路指令与方位短语",
+      "question": "Arrange the words to make a sentence.",
+      "options": [
+        "left",
+        "Turn",
+        "the",
+        "bookstore",
+        "at"
+      ],
+      "answer": "Turn,left,at,the,bookstore",
+      "explanation": "祈使句型：动词短语+地点状语。"
+    }
+  ],
+  "knowledge": null
+}

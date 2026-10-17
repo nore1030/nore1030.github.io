@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g10down-u1-kp2",
+  "title": "文学写作与修改",
+  "bookId": "chinese-g10down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与文学创作",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "文学写作与修改",
+      "question": "修改文章时首先要检查（　）",
+      "options": [
+        "立意是否明确深刻",
+        "字迹是否工整",
+        "字数是否够多",
+        "有没有引用"
+      ],
+      "answer": "立意是否明确深刻",
+      "explanation": "立意优先。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "文学写作与修改",
+      "question": "写作文选材应力求真实、典型。",
+      "options": [],
+      "answer": "对",
+      "explanation": "材料真实典型。"
+    }
+  ],
+  "knowledge": {
+    "point": "文学写作与修改",
+    "core_concept": "写作要有真情实感，材料要典型。修改文章要查立意是否深刻、结构是否完整、语言是否准确。",
+    "key_formula": "立意 + 材料 + 结构 + 语言",
+    "common_mistakes": [
+      "只重辞藻不顾立意。"
+    ],
+    "tips": "立意是文章灵魂。"
+  }
+}

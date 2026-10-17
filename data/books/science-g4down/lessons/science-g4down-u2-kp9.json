@@ -1,0 +1,39 @@
+{
+  "id": "science-g4down-u2-kp9",
+  "title": "电路连接方式",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电路连接方式",
+      "question": "在并联电路中，一个灯泡坏了，另一个灯泡也不会亮。",
+      "options": [],
+      "answer": "错",
+      "explanation": "并联电路中各支路互不影响，一个坏了其他仍能正常工作。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电路连接方式",
+      "question": "两节电池串联起来后的电压比一节电池（ ）。",
+      "options": [
+        "小",
+        "大",
+        "一样",
+        "不确定"
+      ],
+      "answer": "大",
+      "explanation": "电池串联总电压等于各电池电压之和。"
+    }
+  ],
+  "knowledge": null
+}

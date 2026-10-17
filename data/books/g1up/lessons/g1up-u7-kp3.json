@@ -1,0 +1,91 @@
+{
+  "id": "g1up-u7-kp3",
+  "title": "作息时间的先后逻辑",
+  "bookId": "g1up",
+  "unitNumber": 7,
+  "unitTitle": "认识钟表",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "小明每天先吃午饭，再吃早饭。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一日三餐的顺序是早餐、午餐、晚餐。验算：逻辑不符。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "下面哪个活动通常是在上午进行的？",
+      "options": [
+        "看午夜电影",
+        "在学校听课",
+        "全家吃晚餐",
+        "睡觉做长梦"
+      ],
+      "answer": "在学校听课",
+      "explanation": "只有“听课”符合上午及日间的作息逻辑。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "小红上午9时去图书馆，11时回家。他在图书馆待了几个小时？",
+      "options": [
+        "1小时",
+        "2小时",
+        "3小时",
+        "9小时"
+      ],
+      "answer": "2小时",
+      "explanation": "从9时到10时是1小时，从10时到11时又1小时，共2小时。$11 - 9 = 2$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "小明1时吃饭，小乐2时吃饭，谁吃得早？",
+      "options": [
+        "小明",
+        "小乐",
+        "一样早",
+        "无法确定"
+      ],
+      "answer": "小明",
+      "explanation": "数字越小，时间越早（同一时段内）。1比2早。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "小明7时起床，小华比他晚1小时起床，小华是 ___ 时起床的。",
+      "options": [],
+      "answer": "8",
+      "explanation": "晚1小时用加法。列式：$7 + 1 = 8$。验算：$8 - 1 = 7$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "作息时间的先后逻辑",
+    "core_concept": "时间是按顺序流逝的。在日常生活中，我们要学会根据事情发生的先后给时间排序，比如早晨起床、上午上课、中午吃饭、下午运动、晚上睡觉。",
+    "key_formula": "早上的时间 < 中午的时间 < 晚上的时间",
+    "common_mistakes": [
+      "认为数字大的时刻一定比数字小的时刻晚（忽略上午和下午的区别）",
+      "不理解“过1小时”和“1小时前”的加减逻辑"
+    ],
+    "tips": "把一天的活动像讲故事一样排排队，就知道谁先谁后啦！"
+  }
+}

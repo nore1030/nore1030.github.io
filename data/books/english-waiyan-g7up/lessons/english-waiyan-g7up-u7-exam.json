@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Computers 电脑",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指令表达 Turn on / Save",
+      "question": "「保存文件。」的英文是（　）",
+      "options": [
+        "Save the file.",
+        "Saving the file.",
+        "Save file.",
+        "Keep the file."
+      ],
+      "answer": "Save the file.",
+      "explanation": "save 保存。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+      "question": "「打印机」的英文是（　）",
+      "options": [
+        "printer",
+        "printter",
+        "priter",
+        "print"
+      ],
+      "answer": "printer",
+      "explanation": "printer 打印机。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "指令表达 Turn on / Save",
+      "question": "Turn off 的意思是「关闭（电器）」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "turn off 关。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "指令表达 Turn on / Save",
+      "question": "在电脑上写作业，应说（　）",
+      "options": [
+        "write my homework on the computer",
+        "write my homework in the computer",
+        "write my homework at computer",
+        "write my homework by the computer"
+      ],
+      "answer": "write my homework on the computer",
+      "explanation": "on the computer。"
+    }
+  ],
+  "knowledge": null
+}

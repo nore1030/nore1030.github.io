@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp11",
+  "title": "理解阅读",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：威尼斯是世界闻名的水上城市。小艇成了主要的交通工具。这句话说明小艇：",
+      "options": [
+        "地位非常重要",
+        "非常漂亮精致",
+        "速度快得惊人",
+        "制作工艺复杂"
+      ],
+      "answer": "地位非常重要",
+      "explanation": "“主要的交通工具”直接说明了它与城市生活的密切程度。"
+    }
+  ],
+  "knowledge": null
+}

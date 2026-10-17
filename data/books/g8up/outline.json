@@ -1,0 +1,206 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "三角形",
+      "knowledge_points": [
+        {
+          "name": "三角形边角关系",
+          "description": "掌握三边关系与内角和定理。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "三角形的重要线段",
+          "description": "理解中线、高、角平分线。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "多边形及其内角和",
+          "description": "掌握多边形内角和与外角和。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "全等三角形",
+      "knowledge_points": [
+        {
+          "name": "全等三角形的判定",
+          "description": "掌握 SSS、SAS、ASA、AAS、HL 判定。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "全等三角形的性质",
+          "description": "掌握全等三角形对应边角相等。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "角平分线的性质",
+          "description": "掌握角平分线性质与判定。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g8up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "轴对称",
+      "knowledge_points": [
+        {
+          "name": "轴对称与轴对称图形",
+          "description": "认识轴对称，理解对称轴。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "线段垂直平分线",
+          "description": "掌握垂直平分线性质。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "等腰三角形",
+          "description": "掌握等腰三角形性质与判定。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g8up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "g8up-u1-kp1",
+      "title": "三角形边角关系",
+      "unitNumber": 1,
+      "unitTitle": "三角形",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 3
+    },
+    {
+      "id": "g8up-u1-kp2",
+      "title": "三角形的重要线段",
+      "unitNumber": 1,
+      "unitTitle": "三角形",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "g8up-u1-kp3",
+      "title": "多边形及其内角和",
+      "unitNumber": 1,
+      "unitTitle": "三角形",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g8up-u2-kp1",
+      "title": "全等三角形的判定",
+      "unitNumber": 2,
+      "unitTitle": "全等三角形",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g8up-u2-kp2",
+      "title": "全等三角形的性质",
+      "unitNumber": 2,
+      "unitTitle": "全等三角形",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g8up-u2-kp3",
+      "title": "角平分线的性质",
+      "unitNumber": 2,
+      "unitTitle": "全等三角形",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g8up-u3-kp1",
+      "title": "轴对称与轴对称图形",
+      "unitNumber": 3,
+      "unitTitle": "轴对称",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g8up-u3-kp2",
+      "title": "线段垂直平分线",
+      "unitNumber": 3,
+      "unitTitle": "轴对称",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "g8up-u3-kp3",
+      "title": "等腰三角形",
+      "unitNumber": 3,
+      "unitTitle": "轴对称",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 3
+    }
+  ]
+}

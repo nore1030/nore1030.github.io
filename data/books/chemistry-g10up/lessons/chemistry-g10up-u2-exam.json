@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 2,
+  "unitTitle": "钠、氯及其化合物",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "钠及其化合物",
+      "question": "鉴别碳酸钠与碳酸氢钠可用（　）",
+      "options": [
+        "加水",
+        "加热",
+        "加 NaCl",
+        "闻气味"
+      ],
+      "answer": "加热",
+      "explanation": "碳酸氢钠受热分解。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "氯及其化合物",
+      "question": "$\\text{Cl}_2$ 与 NaOH 反应生成 NaCl、NaClO 和水，1 mol $\\text{Cl}_2$ 需 NaOH 多少 mol？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$\\text{Cl}_2+2\\text{NaOH}=\\text{NaCl}+\\text{NaClO}+\\text{H}_2\\text{O}$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "钠及其化合物",
+      "question": "钠在空气中燃烧生成氧化钠。",
+      "options": [],
+      "answer": "错",
+      "explanation": "生成过氧化钠。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "氯及其化合物",
+      "question": "实验室制取氯气常用（　）",
+      "options": [
+        "$\\text{MnO}_2$ 与浓盐酸加热",
+        "$\\text{NaCl}$ 与稀盐酸",
+        "电解食盐水",
+        "氯酸钾分解"
+      ],
+      "answer": "$\\text{MnO}_2$ 与浓盐酸加热",
+      "explanation": "经典制氯法。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g4up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g4up",
+  "unitNumber": 4,
+  "unitTitle": "三位数乘两位数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见数量关系（单价与速度）",
+      "question": "速度 = 路程 × 时间。",
+      "options": [],
+      "answer": "错",
+      "explanation": "正确的公式是：$速度 = 路程 \\div 时间$ 或 $路程 = 速度 \\times 时间$。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "积的变化规律",
+      "question": "一个因数乘 2，另一个因数也乘 2，积不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "两个因数都乘 2，积应该乘 $2 \\times 2 = 4$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "三位数乘两位数，积最少是四位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "最小三位数 100 乘最小两位数 10 等于 1000，是四位数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "积的变化规律",
+      "question": "如果因数各扩大 10 倍，则积也扩大 10 倍。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据积的变化规律，两个因数各扩大 10 倍，积扩大的倍数是 $10 \\times 10 = 100$ 倍。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "已知 $32 \\times 15 = 480$，那么 $320 \\times 150 = $",
+      "options": [
+        "4800",
+        "48000",
+        "480",
+        "480000"
+      ],
+      "answer": "48000",
+      "explanation": "因数共扩大 $10 \\times 10 = 100$ 倍，积变为 $480 \\times 100 = 48000$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "小马虎计算一个三位数乘两位数时，把三位数 103 看成了 13，得到的结果比正确结果少：",
+      "options": [
+        "90 个三位数",
+        "90 个两位数",
+        "10 个两位数",
+        "10 个三位数"
+      ],
+      "answer": "90 个两位数",
+      "explanation": "$103 - 13 = 90$。根据乘法分配律，少算了 90 倍的那个两位数。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "在列竖式计算 $346 \\times 27$ 时，第二步用十位上的 2 乘 346，得：",
+      "options": [
+        "692",
+        "6920",
+        "2422",
+        "69200"
+      ],
+      "answer": "6920",
+      "explanation": "2 在十位，表示 20，$346 \\times 20 = 6920$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "积的变化规律",
+      "question": "两个因数相乘，积是 80。如果一个因数缩小为原来的 1/4，另一个因数不变，积变为：",
+      "options": [
+        "320",
+        "20",
+        "80",
+        "10"
+      ],
+      "answer": "20",
+      "explanation": "积随因数同倍数缩小：$80 \\div 4 = 20$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "积的变化规律",
+      "question": "甲数 $\\times$ 乙数 $= 100$。如果甲数乘 5，乙数也乘 5，积是：",
+      "options": [
+        "100",
+        "500",
+        "2500",
+        "50"
+      ],
+      "answer": "2500",
+      "explanation": "积扩大了 $5 \\times 5 = 25$ 倍。$100 \\times 25 = 2500$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "下面各算式中，结果最接近 8000 的是：",
+      "options": [
+        "201 \\times 39",
+        "402 \\times 19",
+        "250 \\times 31",
+        "198 \\times 41"
+      ],
+      "answer": "198 \\times 41",
+      "explanation": "$198 \\times 41 \\approx 200 \\times 40 = 8000$。具体计算为 8118，差异最小。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "一个三位数乘两位数，积的最高位至少是：",
+      "options": [
+        "千位",
+        "万位",
+        "百位",
+        "十位"
+      ],
+      "answer": "千位",
+      "explanation": "最小积为 $100 \\times 10 = 1000$，最高位是千位。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "下列算式中与 $25 \\times 400$ 结果相同的是：",
+      "options": [
+        "250 \\times 40",
+        "25 \\times 40",
+        "250 \\times 4",
+        "25 \\times 4"
+      ],
+      "answer": "250 \\times 40",
+      "explanation": "根据积的变化规律，一个因数缩小 10 倍，另一个扩大 10 倍，积不变。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见数量关系（单价与速度）",
+      "question": "一件上衣 205 元，买 14 件这种上衣共要花 ___ 元。",
+      "options": [],
+      "answer": "2870",
+      "explanation": "列式：$205 \\times 14 = 2870$。计算：$205 \\times 10 = 2050$，$205 \\times 4 = 820$，$2050 + 820 = 2870$。验算：$2870 \\div 14 = 205$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "积的变化规律",
+      "question": "如果 $A \\times B = 300$，把 A 扩大到原来的 3 倍，B 缩小到原来的 1/2，积是 ___。",
+      "options": [],
+      "answer": "450",
+      "explanation": "列式：$300 \\times 3 \\div 2 = 450$。验算：设 $A=10, B=30$，则 $30 \\times 15 = 450$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "$405 \\times 20 = ?$",
+      "options": [],
+      "answer": "8100",
+      "explanation": "$405 \\times 2 = 810$，末尾补一个 0 得 8100。验算：$8100 \\div 20 = 405$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

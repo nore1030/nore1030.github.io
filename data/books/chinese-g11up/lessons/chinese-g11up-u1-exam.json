@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g11up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g11up",
+  "unitNumber": 1,
+  "unitTitle": "中华文化与古典诗歌",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中华文化源流与特点",
+      "question": "文化交流中正确的态度是（　）",
+      "options": [
+        "既保持特色又吸收借鉴",
+        "全盘否定自己",
+        "全盘照搬别人",
+        "拒绝一切交流"
+      ],
+      "answer": "既保持特色又吸收借鉴",
+      "explanation": "包容并蓄。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "古典诗歌鉴赏",
+      "question": "“寻寻觅觅，冷冷清清，凄凄惨惨戚戚”风格属于（　）",
+      "options": [
+        "婉约",
+        "豪放",
+        "田园",
+        "边塞"
+      ],
+      "answer": "婉约",
+      "explanation": "李清照婉约词。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中华文化源流与特点",
+      "question": "文化自信是更基础、更广泛、更深厚的自信。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文化自信。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "古典诗歌鉴赏",
+      "question": "意象组合常营造出特定意境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "意象组意境。"
+    }
+  ],
+  "knowledge": null
+}

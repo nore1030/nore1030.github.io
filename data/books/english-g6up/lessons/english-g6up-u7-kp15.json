@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp15",
+  "title": "打算与计划",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "打算与计划",
+      "question": "What ______ you going to do this weekend?",
+      "options": [
+        "is",
+        "be",
+        "are",
+        "am"
+      ],
+      "answer": "are",
+      "explanation": "主语是you，be动词用are。"
+    }
+  ],
+  "knowledge": null
+}

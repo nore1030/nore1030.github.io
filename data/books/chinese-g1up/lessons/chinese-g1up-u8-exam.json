@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g1up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 12,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "“尖”和“尘”笔画很少，结构上是左右结构的字。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“尖”是上小下大，“尘”是上小下土，它们都是上下结构。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：场景音量控制",
+      "question": "在电影院看电影时，如果觉得口渴，可以大声喊妈妈给自己拿水。",
+      "options": [],
+      "answer": "错",
+      "explanation": "电影院是需要安静听声音的公共场所，大声说话会干扰他人。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗认知",
+      "question": "《咏鹅》这首诗的作者是唐朝诗人贺知章。",
+      "options": [],
+      "answer": "错",
+      "explanation": "《咏鹅》的作者是骆宾王。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "“本”字是在“木”字的基础上加了一横变成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“本”是指事字，在木的底部加一横表示树根。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "带有“木”这个偏旁的字，大多和什么有关？",
+      "options": [
+        "天空",
+        "植物、树木",
+        "心情",
+        "金属"
+      ],
+      "answer": "植物、树木",
+      "explanation": "木字旁的字如桥、校、林等，最初都与木材或树木有关。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：场景音量控制",
+      "question": "在医院里保持安静是为了：",
+      "options": [
+        "不让医生工作",
+        "怕吵醒病人的休息",
+        "大家都在比赛不说话",
+        "不让大家听到声音"
+      ],
+      "answer": "怕吵醒病人的休息",
+      "explanation": "医院需要安静环境，利于病人康复和医生诊断。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "“你是我的好朋友吗（ ）” 括号里应该填：",
+      "options": [
+        "。",
+        "！",
+        "？",
+        "，"
+      ],
+      "answer": "？",
+      "explanation": "“吗”是疑问语气助词，句末使用问号。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字义辨析",
+      "question": "“青蛙为什么没参加？”这句话中的“参加”是什么意思？",
+      "options": [
+        "加入到某种活动中",
+        "看别人画画",
+        "去睡觉",
+        "在雪里走"
+      ],
+      "answer": "加入到某种活动中",
+      "explanation": "参加是指加入其中。文中指青蛙没来雪地画画。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "下面哪个字带有“艹”？",
+      "options": [
+        "林",
+        "蓝",
+        "江",
+        "明"
+      ],
+      "answer": "蓝",
+      "explanation": "“蓝”字上面是草字头（艹）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字读音选择",
+      "question": "在“一只小松鼠”中，“一”应该读：",
+      "options": [
+        "yī",
+        "yì",
+        "yí",
+        "不读声调"
+      ],
+      "answer": "yì",
+      "explanation": "“一”在第一、二、三声字前读第四声。只（zhī）是第一声，所以一读yì。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词",
+      "question": "西瓜（），芝麻小。",
+      "options": [],
+      "answer": "大",
+      "explanation": "西瓜与芝麻相比，个头是大对小。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗填空",
+      "question": "鹅，鹅，鹅，曲项向天（）。",
+      "options": [],
+      "answer": "歌",
+      "explanation": "出自骆宾王的《咏鹅》。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "场景音量匹配",
+      "question": "请将场景与合适的音量连起来。",
+      "options": [
+        "在阅览室读书",
+        "在操场踢足球",
+        "在家里正常交流",
+        "向老师提问",
+        "大声喊叫",
+        "轻悄悄",
+        "中等声音",
+        "不影响邻居的声音"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "阅览室宜轻悄悄，操场可大声喊，家里适中，提问也应适中不干扰他人。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "汉字拼音匹配",
+      "question": "给下面的生字选择正确的读音。",
+      "options": [
+        "参加",
+        "竹叶",
+        "画家",
+        "睡着",
+        "zhú yè",
+        "cān jiā",
+        "shuì zháo",
+        "huà jiā"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察课文生字的拼音识记。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代句式",
+      "question": "连词成句：",
+      "options": [
+        "雪地上",
+        "走来了",
+        "一群",
+        "小画家"
+      ],
+      "answer": "雪地上,走来了,一群,小画家",
+      "explanation": "地点状语在前，动词在中，宾语在后。出自课文。"
+    }
+  ],
+  "knowledge": null
+}

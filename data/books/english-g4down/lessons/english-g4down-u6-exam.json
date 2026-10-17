@@ -1,0 +1,221 @@
+{
+  "id": "english-g4down-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-g4down",
+  "unitNumber": 6,
+  "unitTitle": "Shopping",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "'cheap' 的反义词是 'small'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "cheap 的反义词是 expensive。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问商品价格",
+      "question": "询问‘这几封信多少钱’可以说 'How much is these letters?'",
+      "options": [],
+      "answer": "错",
+      "explanation": "these letters 是复数，必须用 How much are...?"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "当你说衣服 'too long' 时，说明衣服不合身。",
+      "options": [],
+      "answer": "对",
+      "explanation": "too long 意为‘太长了’，表示衣服不合适。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母组合le在词尾的发音",
+      "question": "单词 'table' 的最后一个音节发音包含 /l/。",
+      "options": [],
+      "answer": "对",
+      "explanation": "table 词尾 le 发 /l/。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问商品价格",
+      "question": "How much ________ those boots?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "explanation": "boots 是复数，选 are。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "That dress is very ________. It's 1000 yuan!",
+      "options": [
+        "cheap",
+        "expensive",
+        "small",
+        "short"
+      ],
+      "answer": "expensive",
+      "explanation": "1000元属于‘昂贵’ (expensive)。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问商品价格",
+      "question": "How much ________ the apple?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "many"
+      ],
+      "answer": "is",
+      "explanation": "apple 是单数，选 is。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问商品价格",
+      "question": "Can I try ________?",
+      "options": [
+        "this on",
+        "on this",
+        "them on",
+        "it on"
+      ],
+      "answer": "them on",
+      "explanation": "虽然 A 或 D 在语法上也可，但在该单元通常指代试穿复数衣物（如鞋子）或概括性试穿，选项中 them on 是最典型的代词宾语提前用法。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问商品价格",
+      "question": "How ________ is it?",
+      "options": [
+        "many",
+        "old",
+        "much",
+        "big"
+      ],
+      "answer": "much",
+      "explanation": "How much 询问价格。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "字母组合le在词尾的发音",
+      "question": "下列词组中单词结尾 le 发音规律相同的一组是：",
+      "options": [
+        "apple, table",
+        "let, leg",
+        "little, like",
+        "people, pencil"
+      ],
+      "answer": "apple, table",
+      "explanation": "A组两个词都是典型的词尾 le 发/l/。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问商品价格",
+      "question": "How ___ are the shoes?",
+      "options": [],
+      "answer": "much",
+      "explanation": "How much 是询问价格的标准表达。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "The dress fits me well. It is just ___.",
+      "options": [],
+      "answer": "right",
+      "explanation": "just right 表示‘正合适’。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问商品价格",
+      "question": "I'll ___ it. Here you are.",
+      "options": [],
+      "answer": "take",
+      "explanation": "I'll take it 表示决定购买。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "连线相应的英文和中文。",
+      "options": [
+        "a pair of",
+        "look at",
+        "too short",
+        "pretty",
+        "看一看",
+        "一双",
+        "漂亮的",
+        "太短"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "a pair of-一双；look at-看一看；too short-太短；pretty-漂亮的。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "表达那条裙子很漂亮：skirt,The,is,pretty",
+      "options": [
+        "skirt",
+        "The",
+        "is",
+        "pretty"
+      ],
+      "answer": "The,skirt,is,pretty",
+      "explanation": "主语(The skirt) + 系动词(is) + 形容词(pretty)。"
+    }
+  ],
+  "knowledge": null
+}

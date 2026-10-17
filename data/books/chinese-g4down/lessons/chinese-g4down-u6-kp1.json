@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g4down-u6-kp1",
+  "title": "长文章的小标题概括",
+  "bookId": "chinese-g4down",
+  "unitNumber": 6,
+  "unitTitle": "成长的足迹",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长文章的小标题概括",
+      "question": "给长文章列小标题时，每个小标题的字数必须完全一样才行。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小标题字数尽量工整即可，不强制要求完全一样，核心在于概括内容。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长文章的小标题概括",
+      "question": "根据课文内容，最适合做《小英雄雨来》第一部分小标题的是：",
+      "options": [
+        "雨来上夜校",
+        "掩护李大叔",
+        "游泳本领高",
+        "勇斗鬼子兵"
+      ],
+      "answer": "游泳本领高",
+      "explanation": "第一部分主要描写雨来在芦花村戏水的情景，突出了他水性好。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长文章的小标题概括",
+      "question": "如果给《芦花鞋》中青铜在雪地等候的一段起小标题，最贴切的是：",
+      "options": [
+        "美丽的芦花",
+        "雪地换鞋",
+        "雪中枯等",
+        "青铜的心事"
+      ],
+      "answer": "雪中枯等",
+      "explanation": "这段文字主要写青铜在雪天里为了卖鞋长时间坚持，体现了坚韧。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长文章的小标题概括",
+      "question": "在《小英雄雨来》中，由于雨来在鬼子的毒打下坚贞不屈，人们都夸他是（___）。",
+      "options": [],
+      "answer": "小英雄",
+      "explanation": "雨来的勇敢品质使他赢得了“小英雄”的美称。"
+    }
+  ],
+  "knowledge": {
+    "point": "长文章的小标题概括",
+    "core_concept": "学习如何从篇幅较长的文章中提炼核心信息。通过关注文章的分段标志（如空行、序号），概括出每一部分的主要情节。小标题应当简洁明了，能体现该部分内容的特点，且全篇的小标题在字数和结构上应尽量保持平衡。",
+    "key_formula": "找情节关键词 + 精简语言 = 准确的小标题",
+    "common_mistakes": [
+      "小标题起得太长，像一句话句意总结",
+      "标题概括不全，只说了细枝末节"
+    ],
+    "tips": "可以尝试用文中出现的具有代表性的物件、动作或关键情节作为标题。"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g6down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g6down",
+  "unitNumber": 1,
+  "unitTitle": "负数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "所有的正数都大于负数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正数在 0 的右边，负数在 0 的左边，所以正数 > 0 > 负数。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "整数分为正整数和负整数两类。",
+      "options": [],
+      "answer": "错",
+      "explanation": "整数分为正整数、0 和负整数三类。0 不可忽略。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "如果一个数不是正数，那么它一定是负数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "0 既不是正数也不是负数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "海拔 -100 米表示比海平面低 100 米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "海拔以海平面为 0，负数表示低于海平面。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "负数的实际应用",
+      "question": "妈妈去银行存入 2000 元记作 +2000 元，取出 500 元后，存折余额变化记作多少元？",
+      "options": [
+        "+500",
+        "-500",
+        "+1500",
+        "-1500"
+      ],
+      "answer": "-500",
+      "explanation": "存入为正，取出为负。取出 500 元记作 -500 元。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "-3.8 读作什么？",
+      "options": [
+        "负三点八",
+        "减三点八",
+        "三点八",
+        "负三八"
+      ],
+      "answer": "负三点八",
+      "explanation": "“-”号读作“负”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "在数轴上表示正负数",
+      "question": "下列各数中，与 0 最接近的数是哪个？",
+      "options": [
+        "-2",
+        "1",
+        "-0.1",
+        "0.5"
+      ],
+      "answer": "-0.1",
+      "explanation": "看绝对值大小：|-0.1|=0.1 是四个选项中最小的距离。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "负数的实际应用",
+      "question": "气温从 -5 ℃ 上升了 8 ℃，现在的气温是多少？",
+      "options": [
+        "-13 ℃",
+        "13 ℃",
+        "3 ℃",
+        "-3 ℃"
+      ],
+      "answer": "3 ℃",
+      "explanation": "-5 + 8 = 3。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "负数的实际应用",
+      "question": "小红的家在学校西边 200 米处，记作 -200 米。小明家在学校东边 150 米处。小明家到小红家的距离是多少？",
+      "options": [
+        "50 米",
+        "350 米",
+        "-50 米",
+        "-350 米"
+      ],
+      "answer": "350 米",
+      "explanation": "距离为 |150 - (-200)| = 350 米。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "负数的实际应用",
+      "question": "在一场足球赛中，甲队失球 2 个。若进球用正数表示，失球 2 个应记作？",
+      "options": [
+        "+2",
+        "2",
+        "-2",
+        "0"
+      ],
+      "answer": "-2",
+      "explanation": "相反意义量，进球为正，则失球为负。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "在数轴上表示正负数",
+      "question": "数轴上表示整数的点有几个？",
+      "options": [
+        "10 个",
+        "100 个",
+        "1000 个",
+        "无数个"
+      ],
+      "answer": "无数个",
+      "explanation": "数轴向两端无限延伸，包含所有正整数、0 和负整数。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "负数的实际应用",
+      "question": "仓库运进 10 吨货物记作 +10 吨，运出 10 吨记作 -10 吨，那么运进 10 吨又运出 10 吨后，仓库的变化量是多少？",
+      "options": [
+        "+20",
+        "-20",
+        "0",
+        "10"
+      ],
+      "answer": "0",
+      "explanation": "+10 - 10 = 0。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "负数的意义与读写法",
+      "question": "如果电梯上升 15 层记作 +15 层，那么下降 6 层应记作负 ___ 层。",
+      "options": [],
+      "answer": "6",
+      "explanation": "下降为相反意义，负号后填数字 6。验算：15 为正，6 为负。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "负数的实际应用",
+      "question": "某种饼干的标准质量是 500 克，包装袋上标着“500 ± 5”克。质检员抽检了一袋重 497 克的饼干，它比标准重量少 ___ 克。",
+      "options": [],
+      "answer": "3",
+      "explanation": "500 - 497 = 3（克）。验算：497 + 3 = 500。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "负数的实际应用",
+      "question": "计算：100 - 120 的绝对值是？",
+      "options": [],
+      "answer": "20",
+      "explanation": "100 - 120 = -20，绝对值为 20。验算：|-20| = 20。"
+    }
+  ],
+  "knowledge": null
+}

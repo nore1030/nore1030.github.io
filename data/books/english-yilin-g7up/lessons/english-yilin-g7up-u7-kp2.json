@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u7-kp2",
+  "title": "购物句型 How much…? / try on",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Unit 7 Shopping 购物",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物句型 How much…? / try on",
+      "question": "「购物中心」的英文是（　）",
+      "options": [
+        "shopping mall",
+        "shop mall",
+        "shopping malls",
+        "shopping maul"
+      ],
+      "answer": "shopping mall",
+      "explanation": "shopping mall。"
+    }
+  ],
+  "knowledge": {
+    "point": "购物句型 How much…? / try on",
+    "core_concept": "How much is it? 多少钱；try on 试穿；I'd like to buy… 我想买……",
+    "key_formula": "Can I try it on? 我可以试穿吗？",
+    "common_mistakes": [
+      "try on 代词要放中间：try it on。"
+    ],
+    "tips": "代词必须放中间。"
+  }
+}

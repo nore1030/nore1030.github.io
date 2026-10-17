@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp23",
+  "title": "观察范围变化",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 16,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "观察范围变化",
+      "question": "使用显微镜时，当放大倍数增大，在视野中看到的细胞（）。",
+      "options": [
+        "数量变多，体积变大",
+        "数量变少，体积变大",
+        "数量变多，体积变小",
+        "数量变少，体积变小"
+      ],
+      "answer": "数量变少，体积变大",
+      "explanation": "放大倍数越大，观察区域越小，看到的细胞个体越大，但范围内的细胞数量越少。"
+    }
+  ],
+  "knowledge": null
+}

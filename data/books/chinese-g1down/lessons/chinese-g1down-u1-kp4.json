@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g1down-u1-kp4",
+  "title": "字谜逻辑推理",
+  "bookId": "chinese-g1down",
+  "unitNumber": 1,
+  "unitTitle": "识字（一）",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "“一口咬断牛尾巴”的谜底是“告”字。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“告”字上面是“牛”去掉下面的一竖（咬断尾巴），下面是一个“口”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "“左边绿，右边红，左边怕虫，右边怕水。”谜底是：",
+      "options": [
+        "秋",
+        "和",
+        "利",
+        "种"
+      ],
+      "answer": "秋",
+      "explanation": "左边是禾苗（绿颜色，怕蝗虫），右边是火（红颜色，怕水）。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "一加一（猜一个字）：",
+      "options": [],
+      "answer": "王",
+      "explanation": "“一”下面加“十”是土，再加一横是“王”；本题通常指“王”字的构造。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "将词语排列成一句顺畅的话：",
+      "options": [
+        "喜欢",
+        "我",
+        "猜字谜",
+        "非常"
+      ],
+      "answer": "我,非常,喜欢,猜字谜",
+      "explanation": "“非常”是副词，放在动词“喜欢”前面。"
+    }
+  ],
+  "knowledge": {
+    "point": "字谜逻辑推理",
+    "core_concept": "字谜是汉字特有的艺术形式。通过谜面中对形状、位置、特性的描述，引导学生在大脑中进行汉字的拆解与组合。例如“左边...右边...”描述左右结构，“一口咬断...”描述笔画变动。这能极大提高学生对汉字结构的敏感度。",
+    "key_formula": "谜底 = 谜面描述的动作（合并/减少）+ 部件组合",
+    "common_mistakes": [
+      "只关注谜面意思，忘记了寻找汉字部件",
+      "不能区分左右结构的描述，导致猜字错误"
+    ],
+    "tips": "看到谜面先画一画。比如“左边绿，右边红”，就在本子上画个禾苗，画个火焰，字就出来了。"
+  }
+}

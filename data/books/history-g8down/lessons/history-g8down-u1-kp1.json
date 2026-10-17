@@ -1,0 +1,47 @@
+{
+  "id": "history-g8down-u1-kp1",
+  "title": "近代化探索的历程",
+  "bookId": "history-g8down",
+  "unitNumber": 1,
+  "unitTitle": "近代化探索与民族复兴",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代化探索的历程",
+      "question": "新文化运动兴起的标志是（　）",
+      "options": [
+        "1915 年陈独秀创办《青年杂志》",
+        "1912 年中华民国成立",
+        "1919 年五四运动",
+        "1921 年中共建党"
+      ],
+      "answer": "1915 年陈独秀创办《青年杂志》",
+      "explanation": "《青年杂志》标志兴起。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代化探索的历程",
+      "question": "近代化探索经历了从器物到制度再到思想文化的历程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "层层深入。"
+    }
+  ],
+  "knowledge": {
+    "point": "近代化探索的历程",
+    "core_concept": "近代化探索由学习器物（洋务运动）到学习制度（戊戌变法、辛亥革命）再到学习思想文化（新文化运动），层层深入。1915 年陈独秀创办《青年杂志》标志新文化运动兴起。",
+    "key_formula": "器物 → 制度 → 思想",
+    "common_mistakes": [
+      "把顺序记反。"
+    ],
+    "tips": "由表及里、逐步深入。"
+  }
+}

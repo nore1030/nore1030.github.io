@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp14",
+  "title": "描述物品所有权",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述物品所有权",
+      "question": "A ______ for you. Happy birthday!",
+      "options": [
+        "gift",
+        "friend",
+        "tall",
+        "quiet"
+      ],
+      "answer": "gift",
+      "explanation": "生日祝贺语境中，送的是礼盒/礼物gift。"
+    }
+  ],
+  "knowledge": null
+}

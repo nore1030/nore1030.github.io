@@ -1,0 +1,84 @@
+{
+  "id": "chinese-g2up-u3-kp2",
+  "title": "逆向思维与变通处理",
+  "bookId": "chinese-g2up",
+  "unitNumber": 3,
+  "unitTitle": "儿童生活",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "逆向思维与变通处理",
+      "question": "玲玲把弄脏的画修改后，画作变得更好了。",
+      "options": [],
+      "answer": "对",
+      "explanation": "玲玲在脏脚印上画了一只小花狗，这体现了坏事变好事的变通逻辑。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逆向思维与变通处理",
+      "question": "爸爸对玲玲说：‘只要肯动脑筋，坏事往往能变成好事。’这里的‘坏事’是指：",
+      "options": [
+        "弄丢了画笔",
+        "画画比赛输了",
+        "弄脏了画稿",
+        "迟到了"
+      ],
+      "answer": "弄脏了画稿",
+      "explanation": "‘坏事’具体指玲玲不小心把画弄脏了，水彩打翻在纸上。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逆向思维与变通处理",
+      "question": "课文《一封信》中，露西在第二封信里说：‘我们过得挺好。’这体现了：",
+      "options": [
+        "露西在撒谎",
+        "露西想让爸爸放心",
+        "露西记性不好",
+        "露西不爱爸爸"
+      ],
+      "answer": "露西想让爸爸放心",
+      "explanation": "露西在信中报喜不报忧，体现了她对远方爸爸的体贴和关心。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逆向思维与变通处理",
+      "question": "请根据课文内容连结人物与特质：",
+      "options": [
+        "曹冲",
+        "玲玲",
+        "露西",
+        "胡萝卜先生",
+        "爱动脑筋",
+        "细心体贴",
+        "乐于助人",
+        "勇于纠错"
+      ],
+      "answer": "A-1,B-4,C-2,D-3",
+      "explanation": "曹冲聪明，玲玲纠错，露西体贴爸爸，胡萝卜先生的长胡子帮助了别人。"
+    }
+  ],
+  "knowledge": {
+    "point": "逆向思维与变通处理",
+    "core_concept": "从《玲玲的画》中体悟‘坏事变好事’。当遇到失误或挫折（如画弄脏了）时，不要仅停留在懊悔中，而应通过逻辑延伸和创意补救，将瑕疵转化为点睛之笔。这不仅是审美技巧，更是心理韧性和变通能力的培养。",
+    "key_formula": "错误 + 创意 = 惊喜",
+    "common_mistakes": [
+      "认为只要动脑筋坏事就‘自动’变好了，忽略了实际的补救行动",
+      "理解‘坏事’仅局限于物品损坏"
+    ],
+    "tips": "练习‘脑筋急转弯’或针对生活小意外（如衣服破口）进行创意装饰讨论。"
+  }
+}

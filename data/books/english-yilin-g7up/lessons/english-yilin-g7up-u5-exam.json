@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Let's celebrate! 庆祝",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "庆祝活动 dress up / trick or treat",
+      "question": "「打扮成」的英文是（　）",
+      "options": [
+        "dress up as",
+        "dress as up",
+        "dress up in",
+        "dress up"
+      ],
+      "answer": "dress up as",
+      "explanation": "as 表扮成。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+      "question": "「春节」的英文是（　）",
+      "options": [
+        "the Spring Festival",
+        "Spring Festival",
+        "the Spring Festivals",
+        "Spring festival"
+      ],
+      "answer": "the Spring Festival",
+      "explanation": "加 the。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "庆祝活动 dress up / trick or treat",
+      "question": "pumpkin lantern 的意思是「南瓜灯」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "万圣节南瓜灯。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "庆祝活动 dress up / trick or treat",
+      "question": "「我们圣诞节互送礼物。」的英文是（　）",
+      "options": [
+        "We give presents to each other at Christmas.",
+        "We give presents each other in Christmas.",
+        "We give present to each other at Christmas.",
+        "We gives presents to each other at Christmas."
+      ],
+      "answer": "We give presents to each other at Christmas.",
+      "explanation": "at Christmas。"
+    }
+  ],
+  "knowledge": null
+}

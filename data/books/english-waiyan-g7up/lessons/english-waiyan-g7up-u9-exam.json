@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 9,
+  "unitTitle": "Module 9 People and places 人与地方",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "描述地方的形容词",
+      "question": "「现代化的」的英文是（　）",
+      "options": [
+        "modern",
+        "moden",
+        "morden",
+        "modernn"
+      ],
+      "answer": "modern",
+      "explanation": "modern 现代。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "描述人物",
+      "question": "「著名的」的英文是（　）",
+      "options": [
+        "famous",
+        "famus",
+        "fameus",
+        "famouse"
+      ],
+      "answer": "famous",
+      "explanation": "famous 著名。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "描述地方的形容词",
+      "question": "quiet 的意思是「安静的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "quiet 安静。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "描述人物",
+      "question": "「他又高又友好。」的英文是（　）",
+      "options": [
+        "He is tall and friendly.",
+        "He is tall and friend.",
+        "He tall and friendly.",
+        "He is high and friendly."
+      ],
+      "answer": "He is tall and friendly.",
+      "explanation": "形容词并列。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 校园生活与自我介绍",
+      "knowledge_points": [
+        {
+          "name": "自我介绍与信息询问",
+          "description": "掌握自我介绍与信息询问。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "be 动词与一般现在时",
+          "description": "掌握 be 动词与一般现在时。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 家庭与日常生活",
+      "knowledge_points": [
+        {
+          "name": "家庭成员与描述",
+          "description": "描述家庭成员。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "日常作息与频率",
+          "description": "表达日常作息。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g10up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-waiyan-g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-waiyan-g10up-u1-kp1",
+      "title": "自我介绍与信息询问",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 校园生活与自我介绍",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g10up-u1-kp2",
+      "title": "be 动词与一般现在时",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 校园生活与自我介绍",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g10up-u2-kp1",
+      "title": "家庭成员与描述",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 家庭与日常生活",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g10up-u2-kp2",
+      "title": "日常作息与频率",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 家庭与日常生活",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "english-g4down-u5-kp21",
+  "title": "肯定句",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "肯定句",
+      "question": "连词成句：[They, are, mine]",
+      "options": [
+        "They",
+        "are",
+        "mine"
+      ],
+      "answer": "They,are,mine",
+      "explanation": "主语They + 系动词are + 名词性物主代词mine。"
+    }
+  ],
+  "knowledge": null
+}

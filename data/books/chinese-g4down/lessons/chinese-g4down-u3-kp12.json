@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u3-kp12",
+  "title": "诗歌修辞",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 10,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诗歌修辞",
+      "question": "“大海啊！哪一颗星没有光？”中，大海被诗人当作（___）倾诉。 (填角色名)",
+      "options": [],
+      "answer": "母亲",
+      "explanation": "冰心将大海比作母亲，向其寻求慰藉。"
+    }
+  ],
+  "knowledge": null
+}

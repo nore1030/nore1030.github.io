@@ -1,0 +1,39 @@
+{
+  "id": "english-g6up-u3-kp5",
+  "title": "词组含义",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词组含义",
+      "question": "'take a trip' 的意思是'去探险'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "take a trip 的意思是去旅行。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词组含义",
+      "question": "Which word means '漫画书'?",
+      "options": [
+        "comic book",
+        "dictionary",
+        "word book",
+        "postcard"
+      ],
+      "answer": "comic book",
+      "explanation": "comic book意为漫画书。"
+    }
+  ],
+  "knowledge": null
+}

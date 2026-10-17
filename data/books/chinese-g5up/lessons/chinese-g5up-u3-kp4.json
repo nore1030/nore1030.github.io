@@ -1,0 +1,80 @@
+{
+  "id": "chinese-g5up-u3-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g5up",
+  "unitNumber": 3,
+  "unitTitle": "民间故事",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，加点字读音正确的一项是：",
+      "options": [
+        "勤恳（kěn）",
+        "筛子（shāi）",
+        "依偎（wēi）",
+        "以上全部正确"
+      ],
+      "answer": "以上全部正确",
+      "explanation": "考查课后要求会认的字音。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“牛郎照看那头老牛很周到。”中“周到”的近义词是：",
+      "options": [
+        "周密",
+        "细致",
+        "周接",
+        "大概"
+      ],
+      "answer": "细致",
+      "explanation": "周到形容照顾得细心、全面。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“成家立（ ）”括号里应该填哪个字？",
+      "options": [
+        "业",
+        "页",
+        "夜",
+        "野"
+      ],
+      "answer": "业",
+      "explanation": "成家立业是固定词组。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列词语与正确的意思连接起来。",
+      "options": [
+        "相依为命",
+        "倾盆大雨",
+        "恋恋不舍",
+        "气急败坏",
+        "形容雨非常大",
+        "互相依靠着生活",
+        "十分慌张愤恨",
+        "舍不得离开"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察本单元词语表中成语的含义。"
+    }
+  ],
+  "knowledge": null
+}

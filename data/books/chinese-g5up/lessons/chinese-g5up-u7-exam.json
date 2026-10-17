@@ -1,0 +1,232 @@
+{
+  "id": "chinese-g5up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 11,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "“清風徐来，水波不兴”包含了动静两种状态。",
+      "options": [],
+      "answer": "对",
+      "explanation": "风动为动，水波不兴为静。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "描写景点时，必须严格按照从东到西的顺序，不能乱。",
+      "options": [],
+      "answer": "错",
+      "explanation": "观察顺序可以根据空间、时间或逻辑，不必死板。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词识记",
+      "question": "“船桨”的“桨”字部首是“木”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "桨是木制的，属于木部。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "动态描写的主要作用是为了让画面看起来很乱。",
+      "options": [],
+      "answer": "错",
+      "explanation": "动态描写是为了赋予景物生机，让画面更生动形象。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "“明月松间照”对应以下哪种描写？",
+      "options": [
+        "动态描写",
+        "静态描写",
+        "虚景描写",
+        "颜色描写"
+      ],
+      "answer": "静态描写",
+      "explanation": "月光照在松林间，是相对静止的画面。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "《鸟鸣涧》描写的是哪个季节？",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "春季",
+      "explanation": "题目中“时鸣春涧中”点出了季节。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "“大漠孤烟直，长河落日圆”这两句诗中，具有“动态”意蕴的动词是？",
+      "options": [
+        "孤",
+        "下",
+        "直",
+        "无"
+      ],
+      "answer": "直",
+      "explanation": "虽然直是形容词，但在意境中体现了烟升起的过程感。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "课文理解",
+      "question": "《鸟的天堂》中，作者两次经过，分别见到了？",
+      "options": [
+        "大榕树和鸟",
+        "鸟和大榕树",
+        "白天和黑夜",
+        "树根和树叶"
+      ],
+      "answer": "大榕树和鸟",
+      "explanation": "第一次见到了静谧的大榕树，第二次见到了百鸟齐飞的景象。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "描写一处景物时，如果要突出它的变化，最好采用什么顺序？",
+      "options": [
+        "空间顺序",
+        "时间顺序",
+        "重要性顺序",
+        "随机顺序"
+      ],
+      "answer": "时间顺序",
+      "explanation": "时间顺序最能体现不同时刻景色的变化。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古典诗词的哲理性意象",
+      "question": "“昨夜江边春水生，艨艟巨舰一毛轻”中，“一毛轻”说明了？",
+      "options": [
+        "船真的很轻",
+        "水真的很深",
+        "条件成熟时，解决问题会变得容易",
+        "春天江水上涨快"
+      ],
+      "answer": "条件成熟时，解决问题会变得容易",
+      "explanation": "比喻只有在知识（水）积累充分时，运用（行船）才会轻松。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "“两岸猿声啼不住”属于哪种感觉的动态描写？（___）",
+      "options": [],
+      "answer": "听觉",
+      "explanation": "通过声音这种动态形式刻画旅途场景。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗词默写",
+      "question": "姑苏城外寒山寺，夜半（___）到客船。",
+      "options": [],
+      "answer": "钟声",
+      "explanation": "出自《枫桥夜泊》。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动静关系分析",
+      "question": "将下列诗句与描写手法对应。",
+      "options": [
+        "人闲桂花落",
+        "夜静春山空",
+        "蝉噪林逾静",
+        "鸟鸣山更幽",
+        "动写静",
+        "静写静",
+        "动反衬静",
+        "以动衬静"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查古诗中动静对比的高阶运用。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文核心意象",
+      "question": "连接景物与其所在的季节（根据课文）。",
+      "options": [
+        "红晕彩云",
+        "萤火虫",
+        "归鸦大雁",
+        "手捧炭火",
+        "春天",
+        "夏天",
+        "秋天",
+        "冬天"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "对应《四季之美》中的核心意象。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "静态描写与动态描写的结合",
+      "question": "请排列出描写榕树生机的句子。",
+      "options": [
+        "那么",
+        "翠绿的",
+        "颜色",
+        "照耀着",
+        "我们的",
+        "眼睛"
+      ],
+      "answer": "那么,翠绿的,颜色,照耀着,我们的,眼睛",
+      "explanation": "出自《鸟的天堂》，表现静态之美。"
+    }
+  ],
+  "knowledge": null
+}

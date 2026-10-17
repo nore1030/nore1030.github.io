@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u9-kp2",
+  "title": "运动与职业词汇",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 9,
+  "unitTitle": "Module 9 I'm going to do the long jump 打算与志向",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "运动与职业词汇",
+      "question": "「赛跑」的英文是（　）",
+      "options": [
+        "race",
+        "rice",
+        "raise",
+        "rase"
+      ],
+      "answer": "race",
+      "explanation": "race = 赛跑。"
+    }
+  ],
+  "knowledge": {
+    "point": "运动与职业词汇",
+    "core_concept": "long jump 跳远、high jump 跳高、race 赛跑、driver 司机、sports day 运动会。",
+    "key_formula": "do the long jump 参加跳远",
+    "common_mistakes": [
+      "long jump 漏掉 the。"
+    ],
+    "tips": "do the long jump 要加 the。"
+  }
+}

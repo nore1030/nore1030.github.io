@@ -1,0 +1,53 @@
+{
+  "id": "g9down-u3-kp2",
+  "title": "特殊角三角函数值与解直角三角形",
+  "bookId": "g9down",
+  "unitNumber": 3,
+  "unitTitle": "锐角三角函数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "$\\sin30°$ 的值是多少（填分数如 1/2）？",
+      "options": [],
+      "answer": "1/2",
+      "explanation": "特殊角函数值。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "$\\tan45°$ 的值是多少？",
+      "options": [],
+      "answer": "1",
+      "explanation": "$\\tan45°=1$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "直角三角形中 $\\angle A=30°$，斜边 10，则 $\\angle A$ 的对边是多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$10\\sin30°=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "特殊角三角函数值与解直角三角形",
+    "core_concept": "$\\sin30°=\\frac12$，$\\sin45°=\\frac{\\sqrt2}{2}$，$\\sin60°=\\frac{\\sqrt3}{2}$；由已知元素求其余元素的过程叫解直角三角形。",
+    "key_formula": "$\\tan45°=1$",
+    "common_mistakes": [
+      "混淆 30° 与 60° 的值。"
+    ],
+    "tips": "画图记忆三个特殊角。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "geography-g7up-u3-kp1",
+  "title": "天气与气温、降水",
+  "bookId": "geography-g7up",
+  "unitNumber": 3,
+  "unitTitle": "天气与气候",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "天气与气温、降水",
+      "question": "下列描述属于气候的是（　）",
+      "options": [
+        "今天大风",
+        "明天下雨",
+        "四季如春",
+        "今日气温 20℃"
+      ],
+      "answer": "四季如春",
+      "explanation": "气候是长期平均。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "天气与气温、降水",
+      "question": "世界气温大致由低纬向高纬递减。",
+      "options": [],
+      "answer": "对",
+      "explanation": "受纬度影响。"
+    }
+  ],
+  "knowledge": {
+    "point": "天气与气温、降水",
+    "core_concept": "天气是短时间大气状况，气候是多年平均状况。世界气温由低纬向高纬递减；降水赤道多、两极少，中纬内陆少。",
+    "key_formula": "气温随纬度升高而降低",
+    "common_mistakes": [
+      "把天气与气候混为一谈。"
+    ],
+    "tips": "天气短时多变，气候长期稳定。"
+  }
+}

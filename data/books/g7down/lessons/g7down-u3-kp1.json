@@ -1,0 +1,47 @@
+{
+  "id": "g7down-u3-kp1",
+  "title": "二元一次方程组的概念",
+  "bookId": "g7down",
+  "unitNumber": 3,
+  "unitTitle": "二元一次方程组",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二元一次方程组的概念",
+      "question": "下列是二元一次方程的是（　）",
+      "options": [
+        "$x^2+y=1$",
+        "$2x+3y=6$",
+        "$xy=2$",
+        "$\\frac1x+y=1$"
+      ],
+      "answer": "$2x+3y=6$",
+      "explanation": "含两个未知数且次数为1。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "二元一次方程组的概念",
+      "question": "$\\begin{cases}x=1\\\\y=2\\end{cases}$ 是方程 $x+y=3$ 的解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "代入 $1+2=3$ 成立。"
+    }
+  ],
+  "knowledge": {
+    "point": "二元一次方程组的概念",
+    "core_concept": "含两个未知数、次数为1的整式方程是二元一次方程；两个二元一次方程合起来是二元一次方程组。",
+    "key_formula": "$ax+by=c$",
+    "common_mistakes": [
+      "把 $xy=1$ 当二元一次方程。"
+    ],
+    "tips": "未知数的项都是一次的。"
+  }
+}

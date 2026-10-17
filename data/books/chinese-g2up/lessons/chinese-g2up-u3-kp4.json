@@ -1,0 +1,171 @@
+{
+  "id": "chinese-g2up-u3-kp4",
+  "title": "动宾短语积累与关联词运用",
+  "bookId": "chinese-g2up",
+  "unitNumber": 3,
+  "unitTitle": "儿童生活",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "‘一边唱歌一边跳舞’表示两个动作是同时进行的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "‘一边……一边……’表示并列关系的关联词，指动作同时发生。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "‘下围棋’和‘练书法’中的动词运用是正确的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据词语搭配习惯，棋类用‘下’，艺术练习用‘练’。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "下列词语中，搭配完全正确的一组是：",
+      "options": [
+        "弹钢琴、吹口琴",
+        "捏图画、画泥人",
+        "唱京戏、踢皮球",
+        "滚铁环、打风筝"
+      ],
+      "answer": "弹钢琴、吹口琴",
+      "explanation": "B项应为画图画、捏泥人；D项应为放风筝。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "明明一边_____，一边_____。横线上填入动作最合适的是：",
+      "options": [
+        "跑步，睡觉",
+        "看书，写字",
+        "走路，吃饭",
+        "唱歌，散步"
+      ],
+      "answer": "唱歌，散步",
+      "explanation": "‘一边……一边……’连接的动作应能同时进行且合乎生活常理。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "选出下列词语中‘重’字读音不同的一项：",
+      "options": [
+        "重要",
+        "重点",
+        "重量",
+        "重做"
+      ],
+      "answer": "重做",
+      "explanation": "‘重做’的‘重’读chóng，其他三项读zhòng。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "‘蓬头稚子学垂纶’中，‘稚子’的意思是（___）。",
+      "options": [],
+      "answer": "小孩子",
+      "explanation": "稚子在古诗中特指幼小的孩子。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "‘路人借问遥招手’的下一句是：怕得（___）惊不应。",
+      "options": [],
+      "answer": "鱼儿",
+      "explanation": "出自《小儿垂钓》，由于怕惊动鱼儿，小男孩不敢答应。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "请将动物与其对应的活动动作连线：",
+      "options": [
+        "泥鳅",
+        "蜗牛",
+        "海鸥",
+        "青蛙",
+        "飞翔",
+        "滑行",
+        "跳跃",
+        "钻洞"
+      ],
+      "answer": "A-4,B-2,C-1,D-3",
+      "explanation": "泥鳅钻洞，蜗牛滑行，海鸥飞翔，青蛙跳跃。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "请连接下列动武与其常搭配的事物：",
+      "options": [
+        "荡",
+        "滚",
+        "弹",
+        "捏",
+        "铁环",
+        "秋千",
+        "泥人",
+        "钢琴"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "荡秋千、滚铁环、弹钢琴、捏泥人是标准课后词语练习。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动宾短语积累与关联词运用",
+      "question": "请将下列词语排列成一句描写生活的句子：",
+      "options": [
+        "老师",
+        "带着",
+        "我们",
+        "去",
+        "植物园",
+        "参观"
+      ],
+      "answer": "老师,带着,我们,去,植物园,参观",
+      "explanation": "主语+动词+宾语+目的动作的顺序排列。"
+    }
+  ],
+  "knowledge": {
+    "point": "动宾短语积累与关联词运用",
+    "core_concept": "侧重于积累‘动词+名词’的常见搭配（如弹、唱、画、捏等艺术动作），并能熟练运用并列关联词‘一边……一边……’描述同时发生的行为。这旨在增强学生语言的准确性及描述复杂动态场景的能力。",
+    "key_formula": "主语 + 一边 + 动词A + 一边 + 动词B",
+    "common_mistakes": [
+      "把不能同时进行的动作连在一起，如‘一边睡觉一边写作业’",
+      "动词搭配不当，如‘吹钢琴’、‘捏图画’"
+    ],
+    "tips": "玩‘词语对对碰’，老师说动作词，学生快速说出对应的物品词。"
+  }
+}

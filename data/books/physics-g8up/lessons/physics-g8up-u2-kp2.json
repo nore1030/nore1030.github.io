@@ -1,0 +1,42 @@
+{
+  "id": "physics-g8up-u2-kp2",
+  "title": "平面镜成像",
+  "bookId": "physics-g8up",
+  "unitNumber": 2,
+  "unitTitle": "光现象",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平面镜成像",
+      "question": "平面镜成的是等大的虚像。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平面镜成像特点。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "平面镜成像",
+      "question": "人距平面镜 2 m，像与人之间的距离是多少米？",
+      "options": [],
+      "answer": "4",
+      "explanation": "像距等于物距，共 4 m。"
+    }
+  ],
+  "knowledge": {
+    "point": "平面镜成像",
+    "core_concept": "平面镜成正立、等大的虚像，像与物到镜面距离相等，像与物关于镜面对称。",
+    "key_formula": "像距 = 物距",
+    "common_mistakes": [
+      "认为像会随距离变小。"
+    ],
+    "tips": "像与物大小始终相等。"
+  }
+}

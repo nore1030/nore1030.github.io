@@ -1,0 +1,84 @@
+{
+  "id": "english-g5down-u1-kp6",
+  "title": "询问并回答作息时间",
+  "bookId": "english-g5down",
+  "unitNumber": 1,
+  "unitTitle": "My day",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "询问并回答作息时间",
+      "question": "在描述时间点前，通常使用介词 'at'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时间点前常用 at，如 at 7:00。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问并回答作息时间",
+      "question": "When _____ you get up?",
+      "options": [
+        "does",
+        "am",
+        "do",
+        "are"
+      ],
+      "answer": "do",
+      "explanation": "主语是you，助动词用do。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问并回答作息时间",
+      "question": "—When do you eat dinner? —_____ 7:00 p.m.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "For"
+      ],
+      "answer": "At",
+      "explanation": "具体几点钟前面用at。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并回答作息时间",
+      "question": "_____ do you finish class in Spain?",
+      "options": [],
+      "answer": "when",
+      "explanation": "询问时间用疑问词when。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并回答作息时间",
+      "question": "连词成句：do, get, When, you, up, ?",
+      "options": [
+        "do",
+        "get",
+        "When",
+        "you",
+        "up",
+        "?"
+      ],
+      "answer": "When,do,you,get,up,?",
+      "explanation": "疑问词+do+主语+动词原形+其他？"
+    }
+  ],
+  "knowledge": null
+}

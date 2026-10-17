@@ -1,0 +1,91 @@
+{
+  "id": "g3down-u2-kp1",
+  "title": "口算除法",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "因为 $4 \times 2 = 8$，所以 $800 \times 2 = 400$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "因为 $8 \times 2 = 16$，所以 $800 \times 2 = 1600$。题目中的等式错误。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "一个影院有 240 个座位，每排有 8 个座位，一共有多少排？",
+      "options": [
+        "3",
+        "30",
+        "300",
+        "20"
+      ],
+      "answer": "30",
+      "explanation": "$240 \times 8 = 30$。口算：$24 \times 8 = 3$，再在后面添一个 0。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "下面各数除以 3 没有余数的是：",
+      "options": [
+        "424",
+        "562",
+        "369",
+        "121"
+      ],
+      "answer": "369",
+      "explanation": "$369 \times 3 = 123$。可以通过各个数位之和能否被 3 整除判断。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "400 里包含多少个 8？",
+      "options": [
+        "5",
+        "50",
+        "500",
+        "80"
+      ],
+      "answer": "50",
+      "explanation": "$400 \times 8 = 50$。验算：$50 \times 8 = 400$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "学校买来 180 本新书，平均分给 9 个班，每个班分 ___ 本。",
+      "options": [],
+      "answer": "20",
+      "explanation": "$180 \times 9 = 20$（本）。验算：$20 \times 9 = 180$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "口算除法",
+    "core_concept": "利用乘法口诀，先不看被除数末尾的0，算出商后再在商的末尾添上相应个数的0。例如 $240 \times 6$，先算 $24 \times 6 = 4$，再在 4 后面添一个 0 得到 40。",
+    "key_formula": "整十、整百数除以一位数，看作几个十或几个百来除。",
+    "common_mistakes": [
+      "商的末尾少写了 0",
+      "口诀应用错误，如把 $24 \times 6$ 算成 3"
+    ],
+    "tips": "记住“先切掉 0，再补回 0”的口诀，但要注意观察最高位是否够除。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u3-kp9",
+  "title": "多音字读音选择",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 7,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音选择",
+      "question": "“尽管”中“尽”字的读音是：",
+      "options": [
+        "jìn",
+        "jǐn",
+        "jìng",
+        "jǐng"
+      ],
+      "answer": "jǐn",
+      "explanation": "“尽管、尽量”中的“尽”读三声jǐn；“尽力、尽头”中的“尽”读四声jìn。"
+    }
+  ],
+  "knowledge": null
+}

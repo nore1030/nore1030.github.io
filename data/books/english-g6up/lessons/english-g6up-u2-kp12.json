@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp12",
+  "title": "频度副词",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词",
+      "question": "I ___ go by bus because it's cheap.",
+      "options": [
+        "too",
+        "very",
+        "often",
+        "not"
+      ],
+      "answer": "often",
+      "explanation": "often是频度副词，表示经常。"
+    }
+  ],
+  "knowledge": null
+}

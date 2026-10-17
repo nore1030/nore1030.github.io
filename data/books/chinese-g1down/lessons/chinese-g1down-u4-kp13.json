@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1down-u4-kp13",
+  "title": "叠词搭配",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 12,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词搭配",
+      "question": "请将颜色/形状与事物连线：",
+      "options": [
+        "白白的",
+        "红红的",
+        "圆圆的",
+        "青青的",
+        "枣",
+        "糯米",
+        "箬竹叶",
+        "月亮"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "根据《端午粽》课文内容及生活常识连线。"
+    }
+  ],
+  "knowledge": null
+}

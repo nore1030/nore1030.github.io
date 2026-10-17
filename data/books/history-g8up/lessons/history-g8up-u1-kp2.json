@@ -1,0 +1,47 @@
+{
+  "id": "history-g8up-u1-kp2",
+  "title": "第二次鸦片战争与甲午战争",
+  "bookId": "history-g8up",
+  "unitNumber": 1,
+  "unitTitle": "近代侵略与民族危机",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "第二次鸦片战争与甲午战争",
+      "question": "火烧圆明园发生在（　）",
+      "options": [
+        "鸦片战争",
+        "第二次鸦片战争",
+        "甲午战争",
+        "八国联军侵华"
+      ],
+      "answer": "第二次鸦片战争",
+      "explanation": "1860 年英法联军火烧圆明园。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "第二次鸦片战争与甲午战争",
+      "question": "《马关条约》大大加深了中国的半殖民地化程度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "马关条约影响。"
+    }
+  ],
+  "knowledge": {
+    "point": "第二次鸦片战争与甲午战争",
+    "core_concept": "第二次鸦片战争中英法联军火烧圆明园。1894—1895 年甲午中日战争后签订《马关条约》，大大加深了中国的半殖民地化程度。",
+    "key_formula": "1860 年火烧圆明园",
+    "common_mistakes": [
+      "混淆两次战争的时间。"
+    ],
+    "tips": "1856—1860 是第二次鸦片战争。"
+  }
+}

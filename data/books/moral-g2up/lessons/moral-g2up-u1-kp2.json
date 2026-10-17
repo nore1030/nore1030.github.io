@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2up-u1-kp2",
+  "title": "值日与责任",
+  "bookId": "moral-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的班级",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "值日与责任",
+      "question": "轮到你擦黑板，你应该（　）",
+      "options": [
+        "偷偷溜走",
+        "认真擦干净",
+        "让别人全擦",
+        "画一笔就算"
+      ],
+      "answer": "认真擦干净",
+      "explanation": "值日要认真负责。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "值日与责任",
+      "question": "值日生要按时到岗。",
+      "options": [],
+      "answer": "对",
+      "explanation": "按时到岗是责任。"
+    }
+  ],
+  "knowledge": {
+    "point": "值日与责任",
+    "core_concept": "值日生要按时到岗、认真完成扫地、擦黑板等任务。责任就是把自己分内的事做好。",
+    "key_formula": "做好分内事",
+    "common_mistakes": [
+      "值日时敷衍了事。"
+    ],
+    "tips": "认真完成自己的任务。"
+  }
+}

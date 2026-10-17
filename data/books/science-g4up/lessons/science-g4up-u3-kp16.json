@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp16",
+  "title": "测力计读数",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "测力计读数",
+      "question": "读数时，视线应与弹簧测力计内指针相（___）。",
+      "options": [
+        "俯视",
+        "仰视",
+        "平视",
+        "无所谓"
+      ],
+      "answer": "平视",
+      "explanation": "为了减少误差，读数时视线必须与刻度指针齐平。"
+    }
+  ],
+  "knowledge": null
+}

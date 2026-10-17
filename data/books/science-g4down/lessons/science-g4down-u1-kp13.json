@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp13",
+  "title": "茎的运输作用",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "茎的运输作用",
+      "question": "我们将植物的茎放入红色水中，纵切发现有红色线条，这说明茎有（）的作用。",
+      "options": [
+        "固定植物",
+        "吸收水分",
+        "运输水分",
+        "制造养料"
+      ],
+      "answer": "运输水分",
+      "explanation": "茎内的导管负责将水和无机盐由下向上运输到植物全身。"
+    }
+  ],
+  "knowledge": null
+}

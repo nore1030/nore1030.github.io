@@ -1,0 +1,31 @@
+{
+  "id": "g7down-u1-kp2",
+  "title": "平行线的判定",
+  "bookId": "g7down",
+  "unitNumber": 1,
+  "unitTitle": "相交线与平行线",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行线的判定",
+      "question": "两条直线被第三条直线所截，若同位角相等，则这两条直线 ___。",
+      "options": [],
+      "answer": "平行",
+      "explanation": "同位角相等，两直线平行。"
+    }
+  ],
+  "knowledge": {
+    "point": "平行线的判定",
+    "core_concept": "同位角相等、内错角相等、同旁内角互补，则两直线平行。",
+    "key_formula": "同位角相等 ⇒ 两直线平行",
+    "common_mistakes": [
+      "把判定与性质混淆。"
+    ],
+    "tips": "由角推线用判定；由线推角用性质。"
+  }
+}

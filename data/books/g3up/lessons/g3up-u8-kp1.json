@@ -1,0 +1,102 @@
+{
+  "id": "g3up-u8-kp1",
+  "title": "分数的认识与读写（几分之一、几分之几）",
+  "bookId": "g3up",
+  "unitNumber": 8,
+  "unitTitle": "分数的初步认识",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "把一个苹果切成2块，每一块都是这个苹果的二分之一。",
+      "options": [],
+      "answer": "错",
+      "explanation": "分数的前提必须是“平均分”。如果没有平均分，就不能用分数表示。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "读作五分之三。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分数的读法是从分母读起，中间加“分之”，再读分子。$3/5$读作五分之三。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "在分数 $5/8$ 中，数字 8 是这个分数的：",
+      "options": [
+        "分子",
+        "分母",
+        "分数线",
+        "整数部分"
+      ],
+      "answer": "分母",
+      "explanation": "分数线下方的数字称为分母，线上方的数字称为分子。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "把一个正方形平均分成4份，涂色部分占3份，涂色部分用分数表示是：",
+      "options": [
+        "1/4",
+        "3/4",
+        "4/3",
+        "1/3"
+      ],
+      "answer": "3/4",
+      "explanation": "分母是总份数4，分子是取的份数3，所以是 $3/4$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "十分之七写作：",
+      "options": [
+        "10/7",
+        "7/10",
+        "1/7",
+        "1/10"
+      ],
+      "answer": "7/10",
+      "explanation": "“十分之”表示分母是10，“七”表示分子是7。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数的认识与读写（几分之一、几分之几）",
+      "question": "分数 $4/9$ 的分子是 ___ 。",
+      "options": [],
+      "answer": "4",
+      "explanation": "在分数中，分数线上方的数为分子，故分子为4。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数的认识与读写（几分之一、几分之几）",
+    "core_concept": "分数是用来表示一个整体被平均分成若干份后，其中的一份或几份的数。必须要强调“平均分”，即每份的大小必须完全一致。分数由分子、分数线、分母三部分组成，分母表示平均分的份数，分子表示取出的份数。",
+    "key_formula": "分数 = $\\frac{分子}{分母}$",
+    "common_mistakes": [
+      "不考虑是否“平均分”就直接用分数描述物体部分。",
+      "读分数时先读分子后读分母（顺序颠倒）。"
+    ],
+    "tips": "记住口诀：分母在下分份数，分子在上取几份，中间横线叫分数线。"
+  }
+}

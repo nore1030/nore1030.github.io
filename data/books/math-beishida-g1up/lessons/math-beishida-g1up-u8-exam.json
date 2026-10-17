@@ -1,0 +1,71 @@
+{
+  "id": "math-beishida-g1up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 8,
+  "unitTitle": "认识钟表",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "钟面结构",
+      "question": "1 时等于（　）分",
+      "options": [
+        "60",
+        "30",
+        "100",
+        "12"
+      ],
+      "answer": "60",
+      "explanation": "1 时 = 60 分。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读",
+      "question": "一天有 24 小时。",
+      "options": [],
+      "answer": "对",
+      "explanation": "24 小时制。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读",
+      "question": "时针指 8、分针指 12，是（　）",
+      "options": [
+        "8:00",
+        "12:00",
+        "8:12",
+        "12:08"
+      ],
+      "answer": "8:00",
+      "explanation": "时针定小时。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "钟面结构",
+      "question": "钟面上从 1 到 12 共（　）个数",
+      "options": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ],
+      "answer": "12",
+      "explanation": "1~12 共 12 个。"
+    }
+  ],
+  "knowledge": null
+}

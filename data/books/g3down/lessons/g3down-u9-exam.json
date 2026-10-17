@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "$0.5$ 读作零点五。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小数读法：整数部分按整数读，小数点读作“点”，小数部分按序读出每个数字。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "长方形的长和宽都增加 $1$ 厘米，面积就增加 $1$ 平方厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "设长方形长 $a$ 宽 $b$，原面积 $ab$。新面积 $(a+1)(b+1) = ab + a + b + 1$。增加量为 $a+b+1$，不只是 $1$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "$1$ 平方分米 = $10$ 平方厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "面积进率是 $100$。$1$ 平方分米 = $100$ 平方厘米。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "被除数末尾有 $0$，商的末尾一定有 $0$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "反例：$10 \times 5 = 2$，被除数末尾有 $0$ 但商没有。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "小明家在学校的西南方向，学校在小明家的什么方向？",
+      "options": [
+        "西北",
+        "东南",
+        "东北",
+        "正北"
+      ],
+      "answer": "东北",
+      "explanation": "方向具有相对性。西南对应的相反方向是东北。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "计算 $15 \times 60$ 的积，末尾有几个 $0$？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "0个"
+      ],
+      "answer": "2个",
+      "explanation": "$15 \times 6 = 90$，再加上 $60$ 后面的一个 $0$，结果是 $900$。有两个 $0$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "周长相等的长方形和正方形，谁的面积大？",
+      "options": [
+        "长方形面积大",
+        "正方形面积大",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "正方形面积大",
+      "explanation": "当周长相等时，越接近正方形面积越大，正方形是这个条件下的最大值。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一年中连续的两个大月是：",
+      "options": [
+        "1月和2月",
+        "7月和8月",
+        "11月和12月",
+        "3月和4月"
+      ],
+      "answer": "7月和8月",
+      "explanation": "7月和8月都是31天，是连续的两个大月。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一个除法算式的余数是 $7$，除数最小是：",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "除数必须大于余数。大于 $7$ 的最小整数是 $8$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "老师要把 $135$ 本书平均分给 $3$ 个班，每个班分多少本？",
+      "options": [
+        "45本",
+        "55本",
+        "35本",
+        "40本"
+      ],
+      "answer": "45本",
+      "explanation": "$135 \times 3 = 45$。验算：$45 \times 3 = 135$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图表与数据解读",
+      "question": "通过复式统计表的数据，我们可以进行：",
+      "options": [
+        "猜谜语",
+        "对比和分析",
+        "写作文",
+        "画插画"
+      ],
+      "answer": "对比和分析",
+      "explanation": "统计表的主要功能就是整理数据以供对比。分析。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "小明每分钟走 $62$ 米，他从家走到学校大约用 $9$ 分钟，他家离学校大约有多远？",
+      "options": [
+        "540米",
+        "600米",
+        "500米",
+        "450米"
+      ],
+      "answer": "540米",
+      "explanation": "估算结果。$60 \times 9 = 540$（米）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一个工厂每天生产 $120$ 个零件，一个星期（按 $7$ 天算）一共生产 ___ 个零件。",
+      "options": [],
+      "answer": "840",
+      "explanation": "列式：$120 \times 7 = 840$。验算：$840 \times 7 = 120$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一块长方形菜地，面积是 $48$ 平方米，长是 $8$ 米，宽是 ___ 米。",
+      "options": [],
+      "answer": "6",
+      "explanation": "宽 = 面积 $\times$ 长。$48 \times 8 = 6$。验算：$8 \times 6 = 48$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "$24 \times 11 = ?$",
+      "options": [],
+      "answer": "264",
+      "explanation": "$24 \times 10 = 240$，$24 \times 1 = 24$，$240 + 24 = 264$。验算：$264 \times 11 = 24$。"
+    }
+  ],
+  "knowledge": null
+}

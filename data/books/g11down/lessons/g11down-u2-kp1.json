@@ -1,0 +1,53 @@
+{
+  "id": "g11down-u2-kp1",
+  "title": "导数的概念与运算",
+  "bookId": "g11down",
+  "unitNumber": 2,
+  "unitTitle": "一元函数的导数及其应用",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "导数的概念与运算",
+      "question": "已知 $f(x)=x^3+0x^2+0x$，则 $f'(2)=$ ？",
+      "options": [],
+      "answer": "12",
+      "explanation": "$f'(x)=3x^2+0x+0$，代入 $x=2$ 得 $12$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "导数的概念与运算",
+      "question": "函数 $f(x)=x^2$ 的导函数 $f'(x)=2x$，则 $f'(3)=$ ？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$2\\times3=6$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "导数的概念与运算",
+      "question": "函数 $f(x)=x^3$ 在 $x=2$ 处的导数值是多少？",
+      "options": [],
+      "answer": "12",
+      "explanation": "$f'(x)=3x^2$，$f'(2)=12$。"
+    }
+  ],
+  "knowledge": {
+    "point": "导数的概念与运算",
+    "core_concept": "导数刻画瞬时变化率，几何意义是切线斜率。$(x^n)'=nx^{n-1}$，$(\\sin x)'=\\cos x$，$(e^x)'=e^x$，$(\\ln x)'=\\frac1x$。",
+    "key_formula": "$(x^n)'=nx^{n-1}$",
+    "common_mistakes": [
+      "$(\\ln x)'$ 记成 $\\frac{1}{x\\ln a}$。"
+    ],
+    "tips": "熟记基本求导公式。"
+  }
+}

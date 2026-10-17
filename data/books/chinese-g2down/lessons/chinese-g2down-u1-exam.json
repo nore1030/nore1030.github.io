@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g2down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 8,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“邓爷爷亲手栽种的柏树已经长大了”中“栽种”的意思是“种”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "栽种即指种植花草树木。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比喻与拟人修辞的辨析活用",
+      "question": "“春风是春天的信使”这是一个比喻句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "把春风比作了信使。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗二首的背诵与意象想象",
+      "question": "“离离原上草”中的“离离”是形容野草茂盛的样子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "离离代表繁茂之貌。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "多感官观察与生动表达",
+      "question": "“春天听到了喜鹊的歌声”这句话写出了春天的听觉美。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过“歌声”描写听到的春天气息。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗二首的背诵与意象想象",
+      "question": "根据《咏柳》，诗句“万条垂下绿丝绦”描写的是柳树的：",
+      "options": [
+        "树干",
+        "树根",
+        "柳枝",
+        "柳花"
+      ],
+      "answer": "柳枝",
+      "explanation": "丝绦形容柳枝垂下来的样子。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左上与左下包围结构汉字书写",
+      "question": "下列汉字中，属于“左下包围”结构且先写被包围部分的是：",
+      "options": [
+        "建",
+        "局",
+        "底",
+        "原"
+      ],
+      "answer": "建",
+      "explanation": "建字是走之旁，属于左下包围，通常先写里面的“聿”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "我们可以用（ ）来形容阳光。",
+      "options": [
+        "嫩绿的",
+        "温暖的",
+        "芬芳的",
+        "清脆的"
+      ],
+      "answer": "温暖的",
+      "explanation": "阳光带给人感官上的热量，选温暖的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗二首的背诵与意象想象",
+      "question": "“拂堤杨柳醉春烟”中的“醉”字运用的修辞是：",
+      "options": [
+        "夸张",
+        "拟人",
+        "比喻",
+        "排比"
+      ],
+      "answer": "拟人",
+      "explanation": "把杨柳写得像人一样喝醉了，是拟人写法。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多感官观察与生动表达",
+      "question": "我们要观察一朵花，除了看它的颜色，还可以用（ ）观察它的气味。",
+      "options": [
+        "舌头",
+        "耳朵",
+        "鼻子",
+        "手掌"
+      ],
+      "answer": "鼻子",
+      "explanation": "气味对应鼻子闻。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "标点符号",
+      "question": "下列句子中感叹号使用最能表达惊喜心情的是：",
+      "options": [
+        "啊，春天已经来了！",
+        "这朵花红吗！",
+        "我今天没吃饭！",
+        "门开着呢！"
+      ],
+      "answer": "啊，春天已经来了！",
+      "explanation": "伴随“啊”语气词且感叹春天到来，最能体现惊喜。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗二首的背诵与意象想象",
+      "question": "“儿童散学归来早”中，“散学”的意思是（ ）。",
+      "options": [],
+      "answer": "放学",
+      "explanation": "古代散学即现代语境中的放学。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "在“害羞、遮掩、躲藏”中，形容人不好意思的词语是：",
+      "options": [],
+      "answer": "害羞",
+      "explanation": "害羞形容感到不好意思。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "请为下列词语选择正确的反义词。",
+      "options": [
+        "害羞",
+        "温暖",
+        "成功",
+        "茁壮",
+        "寒冷",
+        "失败",
+        "大方",
+        "枯萎"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "害羞对大方，温暖对寒冷，成功对失败，茁壮对枯萎。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多感官观察与生动表达",
+      "question": "春天是什么样的？请根据课文进行连线描述。",
+      "options": [
+        "眼睛",
+        "琴声",
+        "音符",
+        "叮咚",
+        "风筝的线",
+        "解冻的小溪",
+        "早放的纸鸢",
+        "树木的嫩芽"
+      ],
+      "answer": "A-4,B-2,C-3,D-1",
+      "explanation": "课文比喻：小溪是琴声，嫩芽是音符，风筝线是长长的尾巴（对应想象）。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比喻与拟人修辞的辨析活用",
+      "question": "连词成句：弯弯的 月亮 像 镰刀 一把",
+      "options": [
+        "弯弯的",
+        "月亮",
+        "像",
+        "一把",
+        "镰刀"
+      ],
+      "answer": "弯弯的,月亮,像,一把,镰刀",
+      "explanation": "典型的“名词+修饰词+比喻词+喻体”结构。"
+    }
+  ],
+  "knowledge": null
+}

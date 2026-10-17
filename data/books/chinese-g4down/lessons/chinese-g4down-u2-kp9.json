@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u2-kp9",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 8,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“不再胆怯的小白菊，慢慢地抬起它们的头。”这句话运用的修辞手法是：",
+      "options": [
+        "比喻",
+        "夸张",
+        "拟人",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "赋予小白菊“胆怯”和“抬头”的人格化特征。"
+    }
+  ],
+  "knowledge": null
+}

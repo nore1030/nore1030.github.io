@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp10",
+  "title": "动物对环境的选择性",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物对环境的选择性",
+      "question": "蚯蚓喜欢生活在干燥、明亮的环境中。",
+      "options": [],
+      "answer": "错",
+      "explanation": "实验证明蚯蚓喜欢阴暗、潮湿的环境。"
+    }
+  ],
+  "knowledge": null
+}

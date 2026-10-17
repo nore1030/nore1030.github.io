@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp16",
+  "title": "词组辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词组辨析",
+      "question": "I ______ fishing last Saturday.",
+      "options": [
+        "go",
+        "went",
+        "goes",
+        "going"
+      ],
+      "answer": "went",
+      "explanation": "go fishing的过去式是went fishing。"
+    }
+  ],
+  "knowledge": null
+}

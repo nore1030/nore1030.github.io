@@ -1,0 +1,64 @@
+{
+  "id": "g1up-u3-kp2",
+  "title": "通过符号(=、>、<)比较大小",
+  "bookId": "g1up",
+  "unitNumber": 3,
+  "unitTitle": "1~5的认识和加减法",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "通过符号(=、>、<)比较大小",
+      "question": "3比4大，所以可以用符号 $3 > 4$ 表示。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在数列中3在4的前面，3比4小，应该用小于号表示：$3 < 4$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通过符号(=、>、<)比较大小",
+      "question": "下面哪个符号填在 $2 \bigcirc 5$ 中是正确的？",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "2比5小，开口应该朝向大的数，所以填小于号 <。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通过符号(=、>、<)比较大小",
+      "question": "和 4 相等的数是哪个？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "0"
+      ],
+      "answer": "4",
+      "explanation": "同样大小的数用等号连接，$4 = 4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "通过符号(=、>、<)比较大小",
+    "core_concept": "用于描述数与数之间的大小关系。开口向大数，尖尖对小数。两数相等用等号（=），左边大用大于号（>），右边大用小于号（<）。",
+    "key_formula": "大数 > 小数；小数 < 大数；等数 = 等数",
+    "common_mistakes": [
+      "分不清大于号 > 和小于号 < 的方向。",
+      "在比较算式结果和数字时，忘记先计算出算式的得数。"
+    ],
+    "tips": "可以记住儿歌：开口朝大数，尖尖对小数，两边相等画二横。"
+  }
+}

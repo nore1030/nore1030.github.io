@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp10",
+  "title": "农场词汇",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "农场词汇",
+      "question": "Wait! How many ________ are there?",
+      "options": [
+        "sheep",
+        "sheeps",
+        "a sheep",
+        "cow"
+      ],
+      "answer": "sheep",
+      "explanation": "How many后接名词复数，sheep复数不加s。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "math-beishida-g7up-u3-kp1",
+  "title": "字母表示数与代数式求值",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 3,
+  "unitTitle": "第三章 整式及其加减",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母表示数与代数式求值",
+      "question": "每本练习本 $a$ 元，买 5 本需 ___ 元。",
+      "options": [],
+      "answer": "5a",
+      "explanation": "用 5a 表示。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "字母表示数与代数式求值",
+      "question": "当 $x=3$ 时，代数式 $2x+1$ 的值是多少？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$2\\times3+1=7$。"
+    }
+  ],
+  "knowledge": {
+    "point": "字母表示数与代数式求值",
+    "core_concept": "用字母表示数时书写规范：数字写在字母前面，如 $3a$；代数式求值就是代入数值计算。",
+    "key_formula": "速度 $v=\\frac st$",
+    "common_mistakes": [
+      "书写顺序不规范（a3）。"
+    ],
+    "tips": "数字在前、字母在后。"
+  }
+}

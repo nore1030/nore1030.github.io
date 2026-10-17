@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp6",
+  "title": "地震的危害",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地震的危害",
+      "question": "地震发生时，如果来不及跑出室外，可以躲在坚固家具旁的三角地带。",
+      "options": [],
+      "answer": "对",
+      "explanation": "当地震发生时且无法立刻疏散至开阔草地，应寻找结实的屏障和三角支撑空间躲避。"
+    }
+  ],
+  "knowledge": null
+}

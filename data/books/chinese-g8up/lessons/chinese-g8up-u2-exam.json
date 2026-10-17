@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g8up",
+  "unitNumber": 2,
+  "unitTitle": "文言文与古代散文",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“水陆草木之花”中的“之”是（　）",
+      "options": [
+        "结构助词“的”",
+        "取消句子独立性",
+        "代词",
+        "动词"
+      ],
+      "answer": "结构助词“的”",
+      "explanation": "此处为“的”。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "文言句子翻译",
+      "question": "翻译时遇到词类活用，应该（　）",
+      "options": [
+        "调整成现代汉语的词性",
+        "保留原词性硬译",
+        "删掉该词",
+        "加括号跳过"
+      ],
+      "answer": "调整成现代汉语的词性",
+      "explanation": "活用需调整。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“而”字在“溪深而鱼肥”中表并列。",
+      "options": [],
+      "answer": "对",
+      "explanation": "并列关系。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "文言句子翻译",
+      "question": "翻译要力求做到信、达、雅。",
+      "options": [],
+      "answer": "对",
+      "explanation": "翻译三标准。"
+    }
+  ],
+  "knowledge": null
+}

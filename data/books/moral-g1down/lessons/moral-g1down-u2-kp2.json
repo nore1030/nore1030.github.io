@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1down-u2-kp2",
+  "title": "诚实守信",
+  "bookId": "moral-g1down",
+  "unitNumber": 2,
+  "unitTitle": "我与大家",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诚实守信",
+      "question": "不小心打碎了花瓶，正确做法是（　）",
+      "options": [
+        "藏在沙发底下",
+        "主动承认并道歉",
+        "说是小猫弄的",
+        "不理不问"
+      ],
+      "answer": "主动承认并道歉",
+      "explanation": "诚实的人勇于承认错误。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "诚实守信",
+      "question": "答应别人的事情要努力做到。",
+      "options": [],
+      "answer": "对",
+      "explanation": "答应的事要做到。"
+    }
+  ],
+  "knowledge": {
+    "point": "诚实守信",
+    "core_concept": "诚实就是不说谎、不骗人，做错了事主动承认。守信就是答应别人的事要努力做到。",
+    "key_formula": "诚实守信",
+    "common_mistakes": [
+      "怕挨批评就说谎。"
+    ],
+    "tips": "承认错误是勇敢的表现。"
+  }
+}

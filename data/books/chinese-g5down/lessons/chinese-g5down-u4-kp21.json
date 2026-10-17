@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp21",
+  "title": "成语归纳",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 17,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语归纳",
+      "question": "用来形容人意志力极强，像刘伯承那样的人可以称为（___）。",
+      "options": [],
+      "answer": "军神",
+      "explanation": "课文题目直接点出了这个称呼。"
+    }
+  ],
+  "knowledge": null
+}

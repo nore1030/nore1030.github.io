@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3up-u3-kp1",
+  "title": "一般疑问句 Are you…?",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 1 Getting to know you — Are you Kitty? 你是谁",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句 Are you…?",
+      "question": "— Are you Kitty? — ___",
+      "options": [
+        "Yes, I am.",
+        "Yes, I'm.",
+        "Yes, you are.",
+        "No, I am."
+      ],
+      "answer": "Yes, I am.",
+      "explanation": "肯定简答用 Yes, I am."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句 Are you…?",
+      "question": "Are you…? 是一般疑问句，用 Yes / No 回答。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be 动词开头的一般疑问句。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般疑问句 Are you…?",
+    "core_concept": "确认对方身份用 Are you…?，肯定回答 Yes, I am. 否定回答 No, I'm not.",
+    "key_formula": "Are you Kitty? — Yes, I am. / No, I'm not.",
+    "common_mistakes": [
+      "回答写成 Yes, I'm.（×，不能缩写在句末）"
+    ],
+    "tips": "肯定简答不缩写。"
+  }
+}

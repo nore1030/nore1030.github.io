@@ -1,0 +1,71 @@
+{
+  "id": "math-beishida-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第一章 丰富的图形世界",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "几何体与展开图",
+      "question": "圆柱的侧面展开图是（　）",
+      "options": [
+        "长方形",
+        "三角形",
+        "圆形",
+        "扇形"
+      ],
+      "answer": "长方形",
+      "explanation": "圆柱侧面展开为长方形。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "几何体与展开图",
+      "question": "一个棱柱有 12 个顶点，它是（　）",
+      "options": [
+        "六棱柱",
+        "五棱柱",
+        "七棱柱",
+        "十二棱柱"
+      ],
+      "answer": "六棱柱",
+      "explanation": "12 个顶点 ÷ 2 = 6 条侧棱。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "从三个方向看与截面",
+      "question": "圆锥的侧面展开图是扇形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆锥侧面展开为扇形。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "点、线、面、体",
+      "question": "「面动成」的几何现象是（　）",
+      "options": [
+        "体",
+        "线",
+        "点",
+        "角"
+      ],
+      "answer": "体",
+      "explanation": "面动成体。"
+    }
+  ],
+  "knowledge": null
+}

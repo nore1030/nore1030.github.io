@@ -1,0 +1,39 @@
+{
+  "id": "science-g6down-u2-kp7",
+  "title": "生物多样性的保护",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 1,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生物多样性的保护",
+      "question": "建立自然保护区是保护生物多样性的一种有效措施。",
+      "options": [],
+      "answer": "对",
+      "explanation": "建立自然保护区可以就地保护生物的原有生存环境。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生物多样性的保护",
+      "question": "建立基因库属于保护生物多样性的（ ）。",
+      "options": [
+        "迁地保护",
+        "就地保护",
+        "国家法律宣传",
+        "环境整治"
+      ],
+      "answer": "迁地保护",
+      "explanation": "将遗传物质或种子等移出原产地保存属于迁地保护。"
+    }
+  ],
+  "knowledge": null
+}

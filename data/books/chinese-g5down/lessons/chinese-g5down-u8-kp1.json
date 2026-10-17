@@ -1,0 +1,215 @@
+{
+  "id": "chinese-g5down-u8-kp1",
+  "title": "风趣语言的艺术鉴赏",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 0,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "《杨氏之子》中的'杨氏'指的是杨大爷的孩子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "杨氏之子指姓杨的人家的孩子。'氏'在古代是对姓氏的尊称。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "《手指》这篇课文运用了拟人的手法，描写了五根手指各自不同的性格特点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "丰子恺通过拟人化描写，赋予五根手指不同的地位和脾气。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "'未闻孔雀是夫子家禽'这句话中，'家禽'指家里的鸟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "古汉语中'家禽'指南家里的鸟，不同于现代汉语的'家禽'定义。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "阅读语段：'梁国杨氏子九岁，甚聪惠。孔君平诣其父，父不在，乃呼儿出。' 文中'诣'的意思是？",
+      "options": [
+        "谈话",
+        "寻找",
+        "拜访",
+        "质问"
+      ],
+      "answer": "拜访",
+      "explanation": "诣，意为拜访，是文言文常用词。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "下列哪句话最能体现杨氏之子的机智？",
+      "options": [
+        "乃呼儿出",
+        "为设果，果有杨梅",
+        "孔指以示儿曰：'此是君家果。'",
+        "未闻孔雀是夫子家禽"
+      ],
+      "answer": "未闻孔雀是夫子家禽",
+      "explanation": "孩子用孔雀反驳孔君平的杨梅，以牙还牙且礼貌得体。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "《手指》一文中，最勤恳但样子最不好看的是哪根手指？",
+      "options": [
+        "大拇指",
+        "食指",
+        "中指",
+        "无名指"
+      ],
+      "answer": "大拇指",
+      "explanation": "文中描述大拇指形状矮胖，但吃苦耐劳。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "'他在五指中，地位最尊，处在中央，左右都有屏障。'这句话运用的修辞手法是？",
+      "options": [
+        "夸张",
+        "拟人",
+        "对偶",
+        "对比"
+      ],
+      "answer": "拟人",
+      "explanation": "将中指比作人，有'地位'、有'屏障'保护。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "下列句子中，哪一句最具有幽默风趣的语言风格？",
+      "options": [
+        "他长得很胖，看起来力气很大。",
+        "大拇指矮而胖，头大脚小，构造简单。",
+        "他那样子，就好像在向大家炫耀自己的功劳。",
+        "他总是一动不动，像个生闷气的胖财主。"
+      ],
+      "answer": "他总是一动不动，像个生闷气的胖财主。",
+      "explanation": "这种生动的比喻体现了丰子恺风趣的文风。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "在社交场合，如果有人开玩笑拿你的名字开玩笑，最机智的回应方式是？",
+      "options": [
+        "生气地指责对方没礼貌",
+        "沉默不语，假装没听见",
+        "根据其姓氏风趣地回敬一句",
+        "大声哭泣引起别人注意"
+      ],
+      "answer": "根据其姓氏风趣地回敬一句",
+      "explanation": "参考《杨氏之子》，机智的回应能体现修养。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "《杨氏之子》中的人物孔君平，他的姓氏是（ ）。",
+      "options": [],
+      "answer": "孔",
+      "explanation": "孔君平，姓孔。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "请为手指与其特点进行连线。",
+      "options": [
+        "大拇指",
+        "中指",
+        "食指",
+        "无名指",
+        "挺直秀丽",
+        "吃苦耐劳",
+        "身形居中",
+        "直爽机敏"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "对应《手指》文中对五根手指个性的描写。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "请排列出描述五指关系的句子：",
+      "options": [
+        "根根",
+        "手指",
+        "团结一致",
+        "才有",
+        "力量"
+      ],
+      "answer": "根根,手指,团结一致,才有,力量",
+      "explanation": "这是《手指》一课揭示的核心道理。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风趣语言的艺术鉴赏",
+      "question": "请排列出描写杨氏子的句子：",
+      "options": [
+        "梁国",
+        "杨氏子",
+        "九岁",
+        "甚",
+        "聪惠"
+      ],
+      "answer": "梁国,杨氏子,九岁,甚,聪惠",
+      "explanation": "课文原句：梁国杨氏子九岁，甚聪惠。"
+    }
+  ],
+  "knowledge": {
+    "point": "风趣语言的艺术鉴赏",
+    "core_concept": "风趣语言的核心在于敏捷的反应能力（如《杨氏之子》中的即兴反驳）和生动的修辞手法（如《手指》中的漫画式描写）。它通常包含自嘲、反讽、幽默的比喻等元素，能让严肃的内容变得活泼，使深奥的道理变得易接受。",
+    "key_formula": "生动喻体 + 拟人化描写 + 意外的反转 = 幽默风趣",
+    "common_mistakes": [
+      "误认为幽默就是搞笑或耍嘴皮子，忽略了幽默背后的逻辑性。",
+      "在文言文中分不清'家禽'、'诣'等词语的古今异义。"
+    ],
+    "tips": "朗读时可以带入角色情绪，体会自嘲与反驳的逻辑；多积累描写人物态度的词语。"
+  }
+}

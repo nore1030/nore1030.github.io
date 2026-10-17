@@ -1,0 +1,161 @@
+{
+  "id": "g3up-u2-kp1",
+  "title": "两位数加减两位数的口算",
+  "bookId": "g3up",
+  "unitNumber": 2,
+  "unitTitle": "万以内的加法和减法（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "口算 $23 + 45$ 时，可以先算 $20 + 40 = 60$，再算 $3 + 5 = 8$，最后算 $60 + 8 = 68$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$23 + 45 = 68$。拆分法：十位 $20 + 40 = 60$，个位 $3 + 5 = 8$，合计 68。验算正确。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "计算 $54 - 28$ 时，个位不够减，向十位退 1 当 10，结果个位应该是 6。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$14 - 8 = 6$。$54 - 28 = 26$。验算：$26 + 28 = 54$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "李老师买了 35 支红粉笔，24 支白粉笔。一共买了多少支粉笔？",
+      "options": [
+        "59",
+        "61",
+        "51",
+        "11"
+      ],
+      "answer": "59",
+      "explanation": "$35 + 24 = 59$。验算：$59 - 24 = 35$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "笑笑家到学校 80 米，他已经走了 36 米，还剩多少米？",
+      "options": [
+        "54",
+        "44",
+        "46",
+        "34"
+      ],
+      "answer": "44",
+      "explanation": "$80 - 36 = 44$。验算：$44 + 36 = 80$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "哪两个数相加的和最接近 80？",
+      "options": [
+        "38 + 41",
+        "29 + 42",
+        "45 + 25",
+        "52 + 32"
+      ],
+      "answer": "38 + 41",
+      "explanation": "A: $38+41=79$; B: $29+42=71$; C: $45+25=70$; D: $52+32=84$。79 最接近 80。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "比 56 少 27 的数是多少？",
+      "options": [
+        "39",
+        "29",
+        "83",
+        "31"
+      ],
+      "answer": "29",
+      "explanation": "$56 - 27 = 29$。验算：$29 + 27 = 56$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "在算式 $3\text{_} + 26 = 58$ 中，方框里应该填哪个数字？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "$58 - 26 = 32$，所以 $32$ 的个位是 2。方框代表 32 的个位点。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "$45 + 3\text{?}$ 的和可能是多少？",
+      "options": [
+        "60",
+        "72",
+        "84",
+        "95"
+      ],
+      "answer": "84",
+      "explanation": "因为 $45 + 30 = 75$，$45 + 39 = 84$。和的范围在 75 到 84 之间。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "操场上有 28 个男生在打球，19 个女生在跳绳。操场上一共有 ___ 人。",
+      "options": [],
+      "answer": "47",
+      "explanation": "$28 + 19 = 47$。验算：$47 - 19 = 28$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "口算题：$72 - 38 = ?$",
+      "options": [],
+      "answer": "34",
+      "explanation": "$72 - 38 = 34$。验算：$34 + 38 = 72$。"
+    }
+  ],
+  "knowledge": {
+    "point": "两位数加减两位数的口算",
+    "core_concept": "口算两位数加法时，通常将其中一个加数拆分成整十数和一位数，先加整十数再加一位数。减法同理，先减去减数的整十部分，再减去个位部分。如果个位不够减，要注意从十位退一当十。",
+    "key_formula": "$32 + 45 = (32 + 40) + 5 = 72 + 5 = 77$",
+    "common_mistakes": [
+      "进位加法时忘了加进上来的1",
+      "退位减法中，被减数的十位忘了减去退掉的1"
+    ],
+    "tips": "拆分法是口算的灵魂，多练习心里拨算珠的感觉。"
+  }
+}

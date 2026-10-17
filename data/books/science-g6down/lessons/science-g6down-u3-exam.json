@@ -1,0 +1,217 @@
+{
+  "id": "science-g6down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 8,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "月球是地球唯一的天然卫星。",
+      "options": [],
+      "answer": "对",
+      "explanation": "月球绕地球公转，是地球唯一的天然卫星。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "日食的成因",
+      "question": "当月球运行到太阳和地球中间时，一定会发生日食。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有三者在同一直线上且月球影子扫过地球时才会发生日食。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "星座的认识",
+      "question": "北极星是一颗非常亮的星星，容易一眼认出。",
+      "options": [],
+      "answer": "错",
+      "explanation": "北极星并不算很亮，通常需要借助北极星寻找法来确认。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "金星的公转周期比地球长。",
+      "options": [],
+      "answer": "错",
+      "explanation": "金星比地球更靠近太阳，公转轨道更短，速度更快，周期更短。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "太阳系中最主要的成员，占据了全系统99%以上质量的是？",
+      "options": [
+        "木星",
+        "地球",
+        "太阳",
+        "土星"
+      ],
+      "answer": "太阳",
+      "explanation": "太阳不仅是中心，更是质量的核心。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "日食的成因",
+      "question": "在日食模拟实验中，如果用手电筒代表太阳，那么小球代表什么？",
+      "options": [
+        "地球",
+        "月球",
+        "星星",
+        "彗星"
+      ],
+      "answer": "月球",
+      "explanation": "三球实验中，中间移动遮光的小球模拟月球。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "八颗行星的运行规律与建模",
+      "question": "在建立行星位置模型时，发现行星分布的一个显著特点是？",
+      "options": [
+        "均匀分布",
+        "靠太阳近的行星间距小",
+        "靠太阳远的行星间距小",
+        "都在同一圆周"
+      ],
+      "answer": "靠太阳近的行星间距小",
+      "explanation": "类地行星间距较密，远日行星如天王星海王星间距巨大。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "银河系的直径大约为多少万光年？",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answer": "10",
+      "explanation": "银河系直径约10万光年。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "星座的认识与模型构建",
+      "question": "通过星座模型实验，我们认识到星座是什么？",
+      "options": [
+        "真实存在的实体",
+        "一种立体的球状结构",
+        "恒星在天球上的投影",
+        "相互吸引的天体群"
+      ],
+      "answer": "恒星在天球上的投影",
+      "explanation": "星座是人为划分的，是视觉上的平面映射而非真实聚簇。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "太阳系位于银河系的什么位置？",
+      "options": [
+        "银盘中心",
+        "中心黑洞内",
+        "的一条旋臂上",
+        "银河系最外缘"
+      ],
+      "answer": "的一条旋臂上",
+      "explanation": "太阳系位于银河系的猎户座支臂上。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "星座的认识",
+      "question": "秋季代表性的星座是哪一个？",
+      "options": [
+        "仙后座",
+        "猎户座",
+        "天琴座",
+        "狮子座"
+      ],
+      "answer": "仙后座",
+      "explanation": "仙后座呈W形，是秋季星空的明显标志。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "科学家通过观察什么现象得出“宇宙正在膨胀”的结论？",
+      "options": [
+        "星体爆炸",
+        "黑洞吞噬",
+        "星系光谱红移",
+        "流星雨"
+      ],
+      "answer": "星系光谱红移",
+      "explanation": "哈勃发现远方星系光谱向红端移动，证明星系在远离。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "太阳系中，地球排列在离太阳第（___）近的位置。",
+      "options": [],
+      "answer": "3",
+      "explanation": "顺序为：水星、金星、地球。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "海王星到太阳的距离大约是地球到太阳距离的（___）倍。",
+      "options": [],
+      "answer": "30",
+      "explanation": "地球到太阳约1.5亿千米(1AU)，海王星约30AU。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "星座的认识",
+      "question": "在北半球，我们可以利用（___）来辨认北方。",
+      "options": [],
+      "answer": "北极星",
+      "explanation": "北极星位于地轴北极指向的星空位置，指示正北。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp18",
+  "title": "声音描述",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "声音描述",
+      "question": "蚊子飞过耳边的嗡嗡声和牛的叫声相比：",
+      "options": [
+        "蚊子声音更低",
+        "蚊子声音更高",
+        "牛声音更高",
+        "两者音高一样"
+      ],
+      "answer": "蚊子声音更高",
+      "explanation": "蚊子翅膀振动极快，频率高，所以音调高（尖细）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp13",
+  "title": "载重量因素",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 7,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "载重量因素",
+      "question": "在研究载重量与船只体积的关系时，下列说法正确的是？",
+      "options": [
+        "底面积越大，载重量通常越大",
+        "船的高度对载重量没有影响",
+        "船只越重，载重量越大",
+        "船只颜色越深，载重量越大"
+      ],
+      "answer": "底面积越大，载重量通常越大",
+      "explanation": "底面积大通常意味着船舱体积大，排开水量多，载重能力强。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g3down-u3-kp15",
+  "title": "影子特征",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 9,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "影子特征",
+      "question": "改变光源的照射角度，影子的（）会发生改变。",
+      "options": [
+        "方向与长度",
+        "颜色",
+        "虚实",
+        "重量"
+      ],
+      "answer": "方向与长度",
+      "explanation": "光源倾斜度影响长度，光源位置影响方向。"
+    }
+  ],
+  "knowledge": null
+}

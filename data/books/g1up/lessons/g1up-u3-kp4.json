@@ -1,0 +1,80 @@
+{
+  "id": "g1up-u3-kp4",
+  "title": "加法的初步认识",
+  "bookId": "g1up",
+  "unitNumber": 3,
+  "unitTitle": "1~5的认识和加减法",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加法的初步认识",
+      "question": "树上有2只小鸟，又飞来了3只，现在一共有几只？",
+      "options": [
+        "1只",
+        "4只",
+        "5只",
+        "0只"
+      ],
+      "answer": "5只",
+      "explanation": "求一共有多少用加法：$2 + 3 = 5$。验算：$5 - 3 = 2$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加法的初步认识",
+      "question": "下面哪个算式的得数是5？",
+      "options": [
+        "1+3",
+        "2+2",
+        "3+2",
+        "0+4"
+      ],
+      "answer": "3+2",
+      "explanation": "$1+3=4$, $2+2=4$, $3+2=5$, $0+4=4$。故选 3+2。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "加法的初步认识",
+      "question": "已知 $\bigcirc + 1 = 4$，那么 $\bigcirc$ 应该是几？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "这是一个逆运算问题。已知和与一个加数，求另一个加数：$4 - 1 = 3$。验证：$3 + 1 = 4$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加法的初步认识",
+      "question": "停车场原来有1辆车，又开进来4辆，现在共有 ___ 辆车。",
+      "options": [],
+      "answer": "5",
+      "explanation": "合并用加法：$1 + 4 = 5$。单步计算 1 加 4 等于 5。验算：$5 - 4 = 1$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "加法的初步认识",
+    "core_concept": "加法是指把两部分东西合并在一起求总数的过程。算式中用加号“+”连接。如 2+1=3 表示2个和1个合起来是3个。",
+    "key_formula": "部分 + 部分 = 整体",
+    "common_mistakes": [
+      "不理解加法的意义，把加法题做成减法。",
+      "计算 2+3 时错算成 4。"
+    ],
+    "tips": "想象成两个好朋友搬家搬到了同一个房子里，总人数增加了。"
+  }
+}

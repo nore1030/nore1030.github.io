@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp9",
+  "title": "修辞方法",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 7,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法",
+      "question": "“难道我们不应该像周恩来同学那样立下远大志向吗？”这句话运用的修辞手法是：",
+      "options": [
+        "比喻",
+        "拟人",
+        "反问",
+        "排比"
+      ],
+      "answer": "反问",
+      "explanation": "这是一句加强语气的反问句。"
+    }
+  ],
+  "knowledge": null
+}

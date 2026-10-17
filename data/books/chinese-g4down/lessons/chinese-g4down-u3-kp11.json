@@ -1,0 +1,39 @@
+{
+  "id": "chinese-g4down-u3-kp11",
+  "title": "文学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 9,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文学常识",
+      "question": "关于现代诗，下列说法不正确的一项是：",
+      "options": [
+        "现代诗一定要像古诗一样对仗工整。",
+        "现代诗常具有丰富的想象力。",
+        "现代诗的节奏感往往来自于押韵或情感起伏。",
+        "现代诗也可以表达对家乡和母亲的怀念。"
+      ],
+      "answer": "现代诗一定要像古诗一样对仗工整。",
+      "explanation": "现代诗形式自由，不强制要求工整对仗。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "冰心的《繁星》是作者在印度诗人（___）的《飞鸟集》启发下创作的。",
+      "options": [],
+      "answer": "泰戈尔",
+      "explanation": "文学史常识点。"
+    }
+  ],
+  "knowledge": null
+}

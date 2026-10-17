@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g5up-u1-kp2",
+  "title": "对比描写手法的运用",
+  "bookId": "chinese-g5up",
+  "unitNumber": 1,
+  "unitTitle": "万物有情",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "对比描写手法的运用",
+      "question": "《白鹭》第2-5自然段主要通过白鹭与其它的鸟对比来描写。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这部分主要描写白鹭自身精巧的颜色和身段，对比是在后面段落中出现的。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对比描写手法的运用",
+      "question": "在《白鹭》中，作者提到白鹤、朱鹭和苍鹭是为了说明（  ）",
+      "options": [
+        "它们也是非常漂亮的鸟",
+        "白鹭的平凡引起了人们忽视",
+        "白鹭比它们更具有装饰性",
+        "通过对比突出白鹭的精巧"
+      ],
+      "answer": "通过对比突出白鹭的精巧",
+      "explanation": "用白鹤的生硬、朱鹭苍鹭的生涩来反衬白鹭各方面的适宜。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对比描写手法的运用",
+      "question": "下列哪组关联词填入句子最恰当？“（  ）是白鹭，（  ）是白鹤，都属于鸟类。”",
+      "options": [
+        "既然……就……",
+        "无论……还……",
+        "因为……所以……",
+        "虽然……但是……"
+      ],
+      "answer": "无论……还……",
+      "explanation": "表条件关系的词语，强调两者的共性。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对比描写手法的运用",
+      "question": "“但是白鹭本身不就是一首（   ）的优美歌吗？”句中缺失的词语是？",
+      "options": [],
+      "answer": "有力",
+      "explanation": "根据《白鹭》课文原文，文末指出白鹭是一首有力的优美的歌。"
+    }
+  ],
+  "knowledge": {
+    "point": "对比描写手法的运用",
+    "core_concept": "对比法是将两个相互对立的事物，或同一事物的两个不同方面放置在一起来描写。通过这种手法，能更鲜明地凸显主体事物的特征。在《白鹭》中，作者把白鹭与白鹤、朱鹭、苍鹭进行对比，就是为了用它们的‘大’或‘生硬’反衬出白鹭的‘精巧’和‘适宜’。",
+    "key_formula": "主体事物 + 参照（对比）事物 = 突出特定属性",
+    "common_mistakes": [
+      "找不到合适的对比对象，对比效果不明显",
+      "在对比中贬低其他事物过头，显得不客观"
+    ],
+    "tips": "对比时要选择特征相反或程度有差异的对象，对比项要具体且典型。"
+  }
+}

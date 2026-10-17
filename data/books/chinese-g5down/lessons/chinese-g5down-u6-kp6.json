@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u6-kp6",
+  "title": "文言文字词含义",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 5,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "文言文字词含义",
+      "question": "“物莫能陷也”中的“陷”是“陷阱”的意思。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在这里“陷”是“穿透”的意思。"
+    }
+  ],
+  "knowledge": null
+}

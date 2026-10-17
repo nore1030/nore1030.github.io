@@ -1,0 +1,66 @@
+{
+  "id": "physics-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g8up",
+  "unitNumber": 1,
+  "unitTitle": "声现象",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "声音的产生与传播",
+      "question": "声音在 15℃ 空气中传播 680 m 需要多少秒？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$t=\\frac{680}{340}=2$ s。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "声音的特性",
+      "question": "下列声音中音调最高的是（　）",
+      "options": [
+        "男低音",
+        "女高音",
+        "闷雷声",
+        "鼓声"
+      ],
+      "answer": "女高音",
+      "explanation": "频率最高。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "声音的特性",
+      "question": "频率越高，音调越高。",
+      "options": [],
+      "answer": "对",
+      "explanation": "音调由频率决定。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "噪声与声的利用",
+      "question": "下列属于利用声传递能量的是（　）",
+      "options": [
+        "回声定位",
+        "B 超检查",
+        "超声波清洗眼镜",
+        "听诊器"
+      ],
+      "answer": "超声波清洗眼镜",
+      "explanation": "清洗利用声的能量。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g5down-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g5down",
+  "unitNumber": 7,
+  "unitTitle": "折线统计图",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "折线统计图中的每一个点都代表一个具体的数量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "折线统计图上的点在垂直方向上对应刻度值，代表具体数值。验算：点的坐标含(自变量, 数值)。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与决策分析",
+      "question": "描述一年内各月平均气温的变化，选择条形统计图比折线统计图更好。",
+      "options": [],
+      "answer": "错",
+      "explanation": "气温是连续变化的，折线统计图更能体现这种温差的变化规律。验算：气候连续性对应折线优先。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "绘制折线统计图时，纵轴的起始刻度必须从0开始，否则会误导对趋势的判断。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如果不从0开始或缩短底部刻度，会夸大数据的波动程度，产生视觉上的误导。验算：比例尺一致性原则。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与决策分析",
+      "question": "单式统计图只能画一个轴，复式统计图要画两个轴。",
+      "options": [],
+      "answer": "错",
+      "explanation": "无论是单式还是复式折线统计图，都有横轴和纵轴两个基本的坐标轴。验算：坐标系结构一致。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与决策分析",
+      "question": "小华想知道哪种水果在这次班级聚会中最受欢迎，应查看：",
+      "options": [
+        "气象表",
+        "折线统计图",
+        "条形统计图",
+        "复式折线图"
+      ],
+      "answer": "条形统计图",
+      "explanation": "统计不同水果的受欢迎人数（数量多少），应选用条形统计图。验算：数量对比=条形。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复式折线统计图的绘制与对比",
+      "question": "在一幅比较甲、乙两厂月产值的复式折线图中，图例指明实线是甲厂。发现10月实线在虚线上方，这说明10月：",
+      "options": [
+        "甲厂产值高",
+        "乙厂产值高",
+        "两厂一样高",
+        "不确定"
+      ],
+      "answer": "甲厂产值高",
+      "explanation": "实线在上方即代表其实线对应的数值大，已知实线是甲，所以甲厂高。验算：点高=值大。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "折线统计图的优点是：",
+      "options": [
+        "能反映数量的多少",
+        "能清晰地看出增减趋势",
+        "既能看多少又能看趋势",
+        "美观好看"
+      ],
+      "answer": "既能看多少又能看趋势",
+      "explanation": "这是折线图的最全面定义：点看多少，线看趋势。验算：全面性评估。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "折线统计图中的折线从5持续上升到100，这描述的可能是：",
+      "options": [
+        "一天的气温变化",
+        "冬天的雪融化速度",
+        "种子发芽后的生长高度",
+        "一个人的岁数"
+      ],
+      "answer": "种子发芽后的生长高度",
+      "explanation": "气温和岁数不会在短时间内这样剧烈且单向增长，种子生长符合从0开始迅速长高的逻辑。验算：情境合理性分析。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与决策分析",
+      "question": "要反映某地区五年来小学生人数的变化情况，应选用：",
+      "options": [
+        "单式条形统计图",
+        "单式折线统计图",
+        "复式条形统计图",
+        "统计表"
+      ],
+      "answer": "单式折线统计图",
+      "explanation": "分析一类事物的历年变化（趋势），应选用单式折线图。验算：单一受众+趋势分析。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "复式折线统计图的绘制与对比",
+      "question": "两组数据如果数值差距极大（如一组在10左右，一组在1000左右），画在同一张复式折线图中：",
+      "options": [
+        "非常好看",
+        "不容易看清小数值的变化",
+        "很科学",
+        "无法画图"
+      ],
+      "answer": "不容易看清小数值的变化",
+      "explanation": "由于纵轴刻度需要兼顾1000，导致刻度间距大，10左右的小波动将变成近乎水平的直线。验算：比例尺度影响局部观察。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图的选择与决策分析",
+      "question": "整理数据的第一步一般是：",
+      "options": [
+        "画图",
+        "分析",
+        "收集原始数据",
+        "写结论"
+      ],
+      "answer": "收集原始数据",
+      "explanation": "没有原始数据无法进行后续的统计工作。验算：统计全过程的第一环。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "某月降水量从1号到10号连年上升，在折线图中是一条：",
+      "options": [
+        "水平线",
+        "下降的线",
+        "上升的线",
+        "波浪线"
+      ],
+      "answer": "上升的线",
+      "explanation": "数据连续增大，点的位置不断变高，连起来就是上升线。验算：增大=上升。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "小明骑车去图书馆，前10分钟行了2000米，中间休息了5分钟。这休息的5分钟内，他行驶的路程增加值为___米。",
+      "options": [],
+      "answer": "0",
+      "explanation": "休息意味着位置没变，路程没有增加。增加值就是0。验算：静止状态下速度为0，路程增量为0。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "复式折线统计图的绘制与对比",
+      "question": "甲城市去年最高气温40度，最低气温负5度。请算出该城市全年的极差（最高减最低，负数计为0度以下，这里请计算从-5到40的总跨度）：",
+      "options": [],
+      "answer": "45",
+      "explanation": "跨度计算：$40 - (-5) = 40 + 5 = 45$。验算：$45 - 5 = 40$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单式折线统计图的认识与分析",
+      "question": "$25 \\times 4 + 10 = ?$",
+      "options": [],
+      "answer": "110",
+      "explanation": "先算乘法：$25 \\times 4 = 100$。再算加法：$100 + 10 = 110$。验算：$(110-10) \\div 4 = 25$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

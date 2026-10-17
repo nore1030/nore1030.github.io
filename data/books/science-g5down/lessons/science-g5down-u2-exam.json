@@ -1,0 +1,217 @@
+{
+  "id": "science-g5down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 22,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "船的发展",
+      "question": "摇橹船和帆船都利用了自然界的风力作为主要动力。",
+      "options": [],
+      "answer": "错",
+      "explanation": "摇橹船动力主要来自人力，帆船利用的是风力。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "沉的材料",
+      "question": "将相同重量的钢铁做成空心球，它受到的浮力会变大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "空心化增大了排开水的体积，浮力随之增大。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动力方向",
+      "question": "无论船身如何设计，只有安装船舵才能实现航行方向的控制。",
+      "options": [],
+      "answer": "对",
+      "explanation": "船舵是控制方向的核心部件，通过改变舵角控制航向。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "工程迭代",
+      "question": "在科学探究中，制作好的小船如果测试失败，就代表这次工程彻底失败。",
+      "options": [],
+      "answer": "错",
+      "explanation": "工程流程包括“测试与改进”，失败是优化的重要依据。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "浮力原理",
+      "question": "一块在水中下沉的橡皮，如果把它切成更小的碎块，它的沉浮状态会？",
+      "options": [
+        "变浮",
+        "仍然下沉",
+        "悬浮在水中",
+        "无法判断"
+      ],
+      "answer": "仍然下沉",
+      "explanation": "密度是物质的属性，改变大小不改变其在水中的沉浮性质（除非改变形状增大排水体积）。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "载重量因素",
+      "question": "相同重量的铝箔做成四个不同形状的小船，谁的载重量最大？",
+      "options": [
+        "体积最大的船",
+        "体积最小的船",
+        "最重的船",
+        "最高的船"
+      ],
+      "answer": "体积最大的船",
+      "explanation": "体积越大，排开的水量越多，受到的浮力也就越大。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动力控制",
+      "question": "关于喷气动力船，下列说法正确的是？",
+      "options": [
+        "喷气方向与行驶方向相同",
+        "喷气方向与行驶方向相反",
+        "不需要燃料",
+        "只能在真空中行驶"
+      ],
+      "answer": "喷气方向与行驶方向相反",
+      "explanation": "利用作用力与反作用力原理，向后喷气产生向前的推力。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "工程材料",
+      "question": "在制作纸船时，为了防止由于漏水而下沉，通常需要在纸外表涂上什么？",
+      "options": [
+        "墨水",
+        "防水胶或蜡",
+        "红颜料",
+        "食盐水"
+      ],
+      "answer": "防水胶或蜡",
+      "explanation": "防水层是保证材料（如纸、木头）在水中长期性能的关键。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "独木舟研究",
+      "question": "在测试独木舟的载重量时，如果将垫圈堆得很高，独木舟容易侧翻，这说明？",
+      "options": [
+        "独木舟太长了",
+        "独木舟稳定性较差",
+        "垫圈太重了",
+        "水流太快了"
+      ],
+      "answer": "独木舟稳定性较差",
+      "explanation": "独木舟底部窄，重心高，当货物堆叠使总重心不稳时极易翻船。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "潜艇原理",
+      "question": "海洋中的核潜艇在海水中可以根据需要悬浮、上浮或沉入海底，它是通过什么实现的？",
+      "options": [
+        "加重物",
+        "吸水和排水",
+        "改变外壳硬度",
+        "改变螺旋桨大小"
+      ],
+      "answer": "吸水和排水",
+      "explanation": "通过注水增加重量或排水减小重量来改变沉浮。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "帆船动力",
+      "question": "如果想要通过风力让帆船跑得更快，最直接的办法是？",
+      "options": [
+        "减小船帆面积",
+        "增大船帆面积",
+        "拆掉船舵",
+        "把帆固定住不准动"
+      ],
+      "answer": "增大船帆面积",
+      "explanation": "更大的帆面可以捕获更多的风能，转化为更大的推力。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "浮力稳定性",
+      "question": "同样体积的两艘船，甲船载货后重心更低，乙船载货后重心更高，哪艘船更稳？",
+      "options": [
+        "甲船",
+        "乙船",
+        "两船一样稳",
+        "无法判断"
+      ],
+      "answer": "甲船",
+      "explanation": "重心越低，物体越不容易发生倾覆，稳定性越好。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "基础参数",
+      "question": "标准状态下，水在（___）℃开始结冰，这会改变水的密度从而影响船的吃水。",
+      "options": [],
+      "answer": "0",
+      "explanation": "水的冰点是0摄氏度。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "测量计数",
+      "question": "在测量船的稳定性时，我们在船的一侧每增加（___）个垫圈就观察一次倾斜程度。",
+      "options": [],
+      "answer": "1",
+      "explanation": "科学实验要求逐量增加变量，通常以1为单位。单位写在题干中。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "船的发展",
+      "question": "利用风力作为动力的船被称为（___）。",
+      "options": [],
+      "answer": "帆船",
+      "explanation": "帆船利用帆布捕捉风能实现航行。"
+    }
+  ],
+  "knowledge": null
+}

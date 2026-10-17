@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u5-kp1",
+  "title": "家庭成员 father / mother / brother / sister",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 2 My family, my friends and me — My family 我的家庭",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员 father / mother / brother / sister",
+      "question": "「爸爸」的英文是（　）",
+      "options": [
+        "father",
+        "mother",
+        "brother",
+        "sister"
+      ],
+      "answer": "father",
+      "explanation": "father = 爸爸。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员 father / mother / brother / sister",
+      "question": "「妈妈」的英文是（　）",
+      "options": [
+        "mother",
+        "father",
+        "sister",
+        "brother"
+      ],
+      "answer": "mother",
+      "explanation": "mother = 妈妈。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员 father / mother / brother / sister",
+      "question": "sister 的意思是「姐妹」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sister = 姐妹。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭成员 father / mother / brother / sister",
+    "core_concept": "father 爸爸、mother 妈妈、brother 兄弟、sister 姐妹。也可用 dad / mum（口语）。",
+    "key_formula": "father / mother / brother / sister",
+    "common_mistakes": [
+      "brother 与 sister 混用。"
+    ],
+    "tips": "dad/mum 更口语，father/mother 更正式。"
+  }
+}

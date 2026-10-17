@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g8up-u2-kp1",
+  "title": "情态动词 must / should",
+  "bookId": "english-waiyan-g8up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 规则与的帮助",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 must / should",
+      "question": "You ___ be late again — it's a rule.",
+      "options": [
+        "mustn't",
+        "must",
+        "shouldn't",
+        "needn't"
+      ],
+      "answer": "mustn't",
+      "explanation": "禁止用 mustn't。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 must / should",
+      "question": "should 表示“应该、建议”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "should 表建议。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词 must / should",
+    "core_concept": "must 表示必须，should 表示应该，mustn't 表示禁止，情态动词后接动词原形。",
+    "key_formula": "情态动词 + 动词原形",
+    "common_mistakes": [
+      "情态动词后加 to。"
+    ],
+    "tips": "后接原形。"
+  }
+}

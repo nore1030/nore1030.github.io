@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g7up-u3-kp1",
+  "title": "环保词汇 protect / pollute / recycle",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Module 2 The natural world — The earth 我们的地球",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "环保词汇 protect / pollute / recycle",
+      "question": "「保护地球」的英文是（　）",
+      "options": [
+        "protect the earth",
+        "protect earth",
+        "pollute the earth",
+        "recycle the earth"
+      ],
+      "answer": "protect the earth",
+      "explanation": "protect 保护。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "环保词汇 protect / pollute / recycle",
+      "question": "「污染」的英文是（　）",
+      "options": [
+        "pollute",
+        "pollutionn",
+        "polute",
+        "polluter"
+      ],
+      "answer": "pollute",
+      "explanation": "pollute 污染。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "环保词汇 protect / pollute / recycle",
+      "question": "recycle 的意思是「回收利用」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "recycle 回收。"
+    }
+  ],
+  "knowledge": {
+    "point": "环保词汇 protect / pollute / recycle",
+    "core_concept": "protect 保护、pollute 污染、recycle 回收利用、environment 环境。",
+    "key_formula": "protect the earth / protect the environment",
+    "common_mistakes": [
+      "protect 与 prevent 混淆。"
+    ],
+    "tips": "protect 保护，prevent 阻止。"
+  }
+}

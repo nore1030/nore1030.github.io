@@ -1,0 +1,181 @@
+{
+  "id": "chinese-g1up-u3-kp1",
+  "title": "单韵母及其四声调认读",
+  "bookId": "chinese-g1up",
+  "unitNumber": 3,
+  "unitTitle": "汉语拼音（一）：单韵母与声母",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "字母 'a' 是单韵母中的一个。",
+      "options": [],
+      "answer": "对",
+      "explanation": "汉语拼音中有6个单韵母：a, o, e, i, u, ü。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "韵母 'o' 的第二声读音就像我们在马路上遇到熟人打招呼时的 '哦'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "o的二声向上扬，发音类似于惊讶或打招呼的'ó'。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "给单韵母 'i' 标声调的时候，需要把上面的小点去掉。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标调规则规定，i标调要去点。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "读一段儿歌：'公鸡喔喔啼，白鹅呃呃叫'。诗中的'白鹅'的'鹅'读音是哪个单韵母？",
+      "options": [
+        "a",
+        "o",
+        "e",
+        "u"
+      ],
+      "answer": "e",
+      "explanation": "鹅的读音对应单韵母e。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "请选出下列四声调排列正确的一组：",
+      "options": [
+        "ā á ǎ à",
+        "á ā à ǎ",
+        "à ǎ á ā",
+        "ǎ à ā á"
+      ],
+      "answer": "ā á ǎ à",
+      "explanation": "声调顺序为一声平，二声扬，三声拐弯，四声降。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "当医生检查喉咙让你张大嘴巴时，你会发哪个音？",
+      "options": [
+        "o",
+        "e",
+        "a",
+        "i"
+      ],
+      "answer": "a",
+      "explanation": "发a音时张大嘴巴。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "哪个字母像个圆圈圈？",
+      "options": [
+        "a",
+        "o",
+        "e",
+        "u"
+      ],
+      "answer": "o",
+      "explanation": "o的形状像个圆。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "乌鸦的'乌'是哪个韵母的发音？",
+      "options": [
+        "ü",
+        "u",
+        "i",
+        "o"
+      ],
+      "answer": "u",
+      "explanation": "乌鸦的'乌'发单韵母u的音。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "单韵母 a, o, ( ____ ), i, u, ü，括号里应该填哪个字母？",
+      "options": [],
+      "answer": "e",
+      "explanation": "单韵母的顺序通常是a o e i u ü。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "把单韵母与对应的图画音节连起来。",
+      "options": [
+        "a",
+        "i",
+        "u",
+        "ü",
+        "yī fu",
+        "ā yí",
+        "yú",
+        "wǔ"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "a-ā yí, i-yī fu, u-wǔ, ü-yú。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "按单韵母顺序排列：",
+      "options": [
+        "a",
+        "e",
+        "i",
+        "o"
+      ],
+      "answer": "a,o,e,i",
+      "explanation": "单韵母的标准顺序是a, o, e, i, u, ü。"
+    }
+  ],
+  "knowledge": {
+    "point": "单韵母及其四声调认读",
+    "core_concept": "单韵母是汉语拼音中最基础的部分，共有a, o, e, i, u, ü六个。发音时口形保持不变。四声调是汉语的特色，分为阴平（一声）、阳平（二声）、上声（三声）、去声（四声）。学生需要掌握它们的发音特点、口形变化以及在四线三格中的书写位置。",
+    "key_formula": "一声平，二声扬，三声拐弯，四声降。",
+    "common_mistakes": [
+      "标调符号方向写反（尤其是二声和四声混淆）",
+      "字母i标调时忘记去掉上面的点"
+    ],
+    "tips": "通过口型记忆：张大嘴巴aaa，圆圆嘴巴ooo，扁扁嘴巴eee。"
+  }
+}

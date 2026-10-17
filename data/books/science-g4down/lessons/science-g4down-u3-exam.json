@@ -1,0 +1,217 @@
+{
+  "id": "science-g4down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g4down",
+  "unitNumber": 3,
+  "unitTitle": "岩石与土壤",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见岩石的特征观察与鉴定",
+      "question": "岩石和土壤是地球上的重要资源，它们处处可见，因此无需刻意保护。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然常见，但它们是动植物生存的根基，且形成速度非常缓慢，极易被破坏。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "矿物的条痕颜色一定和它的外表颜色完全相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "条痕颜色消除了矿物外表的杂质或生理因素干扰，往往与外表颜色不同。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "壤土是最理想的农业用地，因为它既能保肥又能透气。",
+      "options": [],
+      "answer": "对",
+      "explanation": "壤土兼顾了沙质土的透气和黏质土的保肥优点。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "常见岩石的特征观察与鉴定",
+      "question": "只有岩石会发生风化，土壤不会发生变化。",
+      "options": [],
+      "answer": "错",
+      "explanation": "土壤也在不断地变化和演化过程中。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "被称为自然界中硬度最大的矿物是（）。",
+      "options": [
+        "石英",
+        "金刚石",
+        "长石",
+        "石墨"
+      ],
+      "answer": "金刚石",
+      "explanation": "金刚石是目前自然界中已知硬度最高的物质。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "把干土壤放入水中，水面冒出的气泡说明土壤中有（）。",
+      "options": [
+        "氧气",
+        "二氧化碳",
+        "空气",
+        "水蒸汽"
+      ],
+      "answer": "空气",
+      "explanation": "气泡证实了土壤颗粒间空隙中存在空气。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "在观察矿物透明度时，我们尝试透过矿物碎屑边缘来看书上的字，这属于观察（）。",
+      "options": [
+        "反射光强度",
+        "光泽",
+        "透明度",
+        "条痕"
+      ],
+      "answer": "透明度",
+      "explanation": "能否透过矿物边缘看清物体是判断透明度的标准方法。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "岩石、土壤与人类资源的关系",
+      "question": "下列哪种岩石多呈白色或黄色，由均匀的细硬颗粒组成，像许多小沙粒粘在了一起？",
+      "options": [
+        "大理岩",
+        "砂岩",
+        "页岩",
+        "花岗岩"
+      ],
+      "answer": "砂岩",
+      "explanation": "砂岩的典型特征是具有较细的砂粒结构。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "最有利于花生等需排水良好作物的生长的土壤是（）。",
+      "options": [
+        "黏质土",
+        "黑土",
+        "沙质土",
+        "湿润土"
+      ],
+      "answer": "沙质土",
+      "explanation": "沙质土排水性强，能避免花生等植物烂根。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见岩石的特征观察与鉴定",
+      "question": "在观察岩石表面光泽时，通常我们参照的物体不包括（）。",
+      "options": [
+        "金属",
+        "玻璃",
+        "木头",
+        "丝绸"
+      ],
+      "answer": "木头",
+      "explanation": "常见的对比光泽有金属光泽、玻璃光泽、丝绸光泽、蜡烛光泽等。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见岩石的特征观察与鉴定",
+      "question": "花岗岩通常作为建筑地基或墓碑材料，是因为它（）。",
+      "options": [
+        "非常美观",
+        "质地坚硬且不易风化",
+        "容易刻划",
+        "颗粒很小"
+      ],
+      "answer": "质地坚硬且不易风化",
+      "explanation": "这决定了花岗岩适合作为永久性建筑的材料。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "教育背景与资源保护",
+      "question": "在野外采集标本后，应注意（）。",
+      "options": [
+        "随意丢弃不需要的矿石",
+        "记录采集地点和日期",
+        "所有岩石全部带回家",
+        "在名胜古迹刻字纪念"
+      ],
+      "answer": "记录采集地点和日期",
+      "explanation": "这是制作科学标本应有的素养和必要凭证。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "如果一种矿物可以被小刀刻划，但不能被铜钥匙刻划，说明它的硬度等級在（）级分级中排在第三等级。",
+      "options": [],
+      "answer": "3",
+      "explanation": "课本中通常将硬度基于实验结果分为四个层级。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "岩石通常由（）种或以上的矿物组成。",
+      "options": [],
+      "answer": "1",
+      "explanation": "岩石最少由一种矿物组成。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "由于地表岩石的风化，地球陆地上覆盖了一层薄薄的（）。",
+      "options": [],
+      "answer": "土壤",
+      "explanation": "土壤由岩石风化而成，覆盖在地球表面。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "math-zhejiao-g7up-u4-kp3",
+  "title": "整式的加减",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 4,
+  "unitTitle": "第4章 代数式",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整式的加减",
+      "question": "化简：$3a-(2a-1)=$ ___",
+      "options": [],
+      "answer": "a+1",
+      "explanation": "$3a-2a+1=a+1$。"
+    }
+  ],
+  "knowledge": {
+    "point": "整式的加减",
+    "core_concept": "括号前是「+」去括号不变号，括号前是「−」去括号都变号；整式加减步骤：去括号、合并同类项。",
+    "key_formula": "$a-(b-c)=a-b+c$",
+    "common_mistakes": [
+      "括号前是减号时只变第一项。"
+    ],
+    "tips": "把括号连同前面符号一起处理。"
+  }
+}

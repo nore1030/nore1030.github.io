@@ -1,0 +1,102 @@
+{
+  "id": "g6up-u3-kp1",
+  "title": "倒数的认识",
+  "bookId": "g6up",
+  "unitNumber": 3,
+  "unitTitle": "分数除法",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "倒数的认识",
+      "question": "因为 $0.25 \\times 4 = 1$，所以 0.25 和 4 互为倒数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "乘积为 1 的两个数互为倒数。因为 $0.25 \\times 4 = 1$，符合定义。验算：$1/4 \\times 4 = 1$ ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "倒数的认识",
+      "question": "1 的倒数是 1，0 的倒数是 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$1 \\times 1 = 1$，所以 1 的倒数是 1；但 0 不能作除数，且找不到任何数与之相乘得 1，所以 0 没有倒数。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倒数的认识",
+      "question": "下面各组数中，互为倒数的是：",
+      "options": [
+        "$\\frac{2}{3}$ 和 $\\frac{2}{3}$",
+        "0.5 和 2",
+        "1 和 0",
+        "$\\frac{4}{5}$ 和 $\\frac{5}{4}$"
+      ],
+      "answer": "$\\frac{4}{5}$ 和 $\\frac{5}{4}$",
+      "explanation": "$\\frac{4}{5} \\times \\frac{5}{4} = 1$，符合倒数定义。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倒数的认识",
+      "question": "一个分数的倒数大于 1，则这个分数是：",
+      "options": [
+        "真分数",
+        "假分数",
+        "带分数",
+        "整数"
+      ],
+      "answer": "真分数",
+      "explanation": "真分数小于 1，其倒数大于 1。例如 $\\frac{1}{2}$ 的倒数是 2。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "倒数的认识",
+      "question": "最小的质数的倒数是多少？",
+      "options": [
+        "1",
+        "0.5",
+        "2",
+        "0.2"
+      ],
+      "answer": "0.5",
+      "explanation": "最小的质数是 2，其倒数是 $1/2 = 0.5$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "倒数的认识",
+      "question": "一个数与它的倒数之积加上 9，结果是 ___ 。",
+      "options": [],
+      "answer": "10",
+      "explanation": "任何非零数与其倒数积为 1，$1 + 9 = 10$。验算：$1 \\times 1 + 9 = 10$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "倒数的认识",
+    "core_concept": "如果两个数的乘积是 1，那么这两个数互为倒数。求分数的倒数只需交换分子分母位置；求整数的倒数先把整数看作分母为 1 的分数再交换。1 的倒数是 1，0 没有倒数。",
+    "key_formula": "$a \\times \\frac{1}{a} = 1$ ($a \\neq 0$)",
+    "common_mistakes": [
+      "认为 0 的倒数是 0",
+      "求倒数后习惯性写成等式（如 $\\frac{2}{3} = \\frac{3}{2}$，应表述为“的倒数是”）"
+    ],
+    "tips": "互为倒数是形容两个数的关系。求带分数倒数要先化成假分数。"
+  }
+}

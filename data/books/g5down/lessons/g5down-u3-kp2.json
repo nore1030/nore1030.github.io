@@ -1,0 +1,64 @@
+{
+  "id": "g5down-u3-kp2",
+  "title": "表面积计算与展开图",
+  "bookId": "g5down",
+  "unitNumber": 3,
+  "unitTitle": "长方体和正方体",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "表面积计算与展开图",
+      "question": "一个长方体切成两个小长方体后，表面积变大了。",
+      "options": [],
+      "answer": "对",
+      "explanation": "切开后会多出两个截面的面积，因此总表面积会增加。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表面积计算与展开图",
+      "question": "制作一个长 5cm，宽 4cm，高 3cm 的长方体纸盒，至少需要多少平方厘米纸板？",
+      "options": [
+        "60",
+        "94",
+        "47",
+        "120"
+      ],
+      "answer": "94",
+      "explanation": "$(5 \\times 4 + 5 \\times 3 + 4 \\times 3) \\times 2 = (20 + 15 + 12) \\times 2 = 47 \\times 2 = 94$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表面积计算与展开图",
+      "question": "一个长方体无盖水箱，长 8 分米，宽 5 分米，高 4 分米。制作这个水箱需要铁皮多少平方分米？",
+      "options": [
+        "184",
+        "144",
+        "104",
+        "160"
+      ],
+      "answer": "144",
+      "explanation": "只有 5 个面：底面（$8 \\times 5$）+ 侧面（$8 \\times 4 \\times 2 + 5 \\times 4 \\times 2$）= $40 + 64 + 40 = 144$。"
+    }
+  ],
+  "knowledge": {
+    "point": "表面积计算与展开图",
+    "core_concept": "表面积是物体6个面面积的总和。计算时要根据实际情况确定计算几个面，如鱼缸、粉刷教室等往往只有5个面或4个面。",
+    "key_formula": "长方体 $S=2(ab+ah+bh)$，正方体 $S=6a^{2}$",
+    "common_mistakes": [
+      "无盖水箱计算了6个面的面积",
+      "计算长方体表面积时漏乘2"
+    ],
+    "tips": "做题前先脑补一下物体长什么样，需不需要计算“底面”和“盖子”。"
+  }
+}

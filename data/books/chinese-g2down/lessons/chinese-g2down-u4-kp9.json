@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u4-kp9",
+  "title": "理解阅读",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 8,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：‘清晨，阳光叫醒了森林，喜鹊阿姨带着小喜鹊在树下做操。’这段话谁是主角？",
+      "options": [
+        "太阳",
+        "大树",
+        "喜鹊",
+        "操场"
+      ],
+      "answer": "喜鹊",
+      "explanation": "通过拟人描写，突出了喜鹊阿姨带着小喜鹊晨练的过程。"
+    }
+  ],
+  "knowledge": null
+}

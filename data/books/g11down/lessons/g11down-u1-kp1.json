@@ -1,0 +1,64 @@
+{
+  "id": "g11down-u1-kp1",
+  "title": "等差数列",
+  "bookId": "g11down",
+  "unitNumber": 1,
+  "unitTitle": "数列",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等差数列",
+      "question": "等差数列 $\\{a_n\\}$ 中 $a_1=2$，公差 $d=3$，则 $a_{10}=$ ？",
+      "options": [],
+      "answer": "29",
+      "explanation": "$a_{10}=a_1+(10-1)d=2+9\\times(3)=29$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等差数列",
+      "question": "等差数列 $\\{a_n\\}$ 中 $a_1=5$，公差 $d=-2$，则 $a_{6}=$ ？",
+      "options": [],
+      "answer": "-5",
+      "explanation": "$a_{6}=a_1+(6-1)d=5+5\\times(-2)=-5$。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等差数列",
+      "question": "等差数列首项 1、公差 2、前 10 项和是多少？",
+      "options": [],
+      "answer": "100",
+      "explanation": "$S_{10}=10\\times1+\\frac{10\\times9}{2}\\times2=10+90=100$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "等差数列",
+      "question": "等差数列中，若 $m+n=p+q$，则 $a_m+a_n=a_p+a_q$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "等差性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "等差数列",
+    "core_concept": "等差数列通项 $a_n=a_1+(n-1)d$，前 $n$ 项和 $S_n=\\frac{n(a_1+a_n)}{2}=na_1+\\frac{n(n-1)}{2}d$。",
+    "key_formula": "$a_n=a_1+(n-1)d$",
+    "common_mistakes": [
+      "项数与公式对应错误。"
+    ],
+    "tips": "先确定 $a_1$ 与 $d$。"
+  }
+}

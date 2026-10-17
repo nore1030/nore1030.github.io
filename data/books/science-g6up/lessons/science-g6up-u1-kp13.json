@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp13",
+  "title": "洋葱表皮细胞结构",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "洋葱表皮细胞结构",
+      "question": "在显微镜下观察洋葱表皮，看到的小房间似的结构是（）。",
+      "options": [
+        "细胞",
+        "液泡",
+        "叶绿体",
+        "细菌"
+      ],
+      "answer": "细胞",
+      "explanation": "洋葱表皮是由一个个细胞组成的，显微镜下可见明显的细胞壁界限。"
+    }
+  ],
+  "knowledge": null
+}

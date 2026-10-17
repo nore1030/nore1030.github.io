@@ -1,0 +1,28 @@
+{
+  "id": "g4down-u1-kp5",
+  "title": "得、除法的意义和各部分间的关系",
+  "bookId": "g4down",
+  "unitNumber": 1,
+  "unitTitle": "四则运算",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "得、除法的意义和各部分间的关系",
+      "question": "在除法算式中，0不能作（ ）。",
+      "options": [
+        "被除数",
+        "除数",
+        "商",
+        "余数"
+      ],
+      "answer": "除数",
+      "explanation": "在除法中，0作为除数没有意义，所以0不能作除数。"
+    }
+  ],
+  "knowledge": null
+}

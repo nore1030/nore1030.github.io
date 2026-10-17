@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp7",
+  "title": "词语释义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "“突兀”在描述山峰时，通常是指山峰高耸、突然出现的样子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "突兀形容山高耸，在游记中常用来描写奇特的山势。"
+    }
+  ],
+  "knowledge": null
+}

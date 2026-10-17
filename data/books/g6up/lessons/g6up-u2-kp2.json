@@ -1,0 +1,140 @@
+{
+  "id": "g6up-u2-kp2",
+  "title": "描述简单的行走路线",
+  "bookId": "g6up",
+  "unitNumber": 2,
+  "unitTitle": "位置与方向（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小明向东走 100 米，再向北走 100 米，他现在的位置在出发点的东北方向。",
+      "options": [],
+      "answer": "对",
+      "explanation": "向东再向北，合成位移在东北方向。验证：$90\\div2 = 45$ 度，即北偏东 45 度或东偏北 45 度。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "走同一段路，去时是北偏西 40 度，回来时就应该是南偏西 40 度。",
+      "options": [],
+      "answer": "错",
+      "explanation": "回来时的方向与去时完全相反。北的相反是南，西的相反是东，故应为南偏东 40 度。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小红从家出发向正东走 200 米到达超市。如果她从超市回航，应该向哪个方向走？",
+      "options": [
+        "正东",
+        "正南",
+        "正西",
+        "正北"
+      ],
+      "answer": "正西",
+      "explanation": "东的相反方向是西。返回原点需要走完全相反的方向。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "从车站出发，先向东偏北 20 度走 3 站，再向北走 2 站。这段路程一共有几个观测点变化？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "2个",
+      "explanation": "第一个观测点是车站，第二个观测点是转弯处（东偏北 3 站后的位置）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小明跑步路线：起点向正北跑 3 千米，再向正东跑 4 千米。起点与终点的直线距离是：",
+      "options": [
+        "3 千米",
+        "4 千米",
+        "5 千米",
+        "7 千米"
+      ],
+      "answer": "5 千米",
+      "explanation": "根据勾股定理（直角三角形）：$3^2 + 4^2 = 9 + 16 = 25 = 5^2$。故距离为 5 千米。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小东向北走 50 米，又掉头向南走 20 米。他现在离起点多少米？",
+      "options": [
+        "70",
+        "30",
+        "50",
+        "20"
+      ],
+      "answer": "30",
+      "explanation": "$50 - 20 = 30$（米）。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小明向东走了 150 米，随后又向西走了 150 米。他现在离起点 ___ 米。",
+      "options": [],
+      "answer": "0",
+      "explanation": "向东走为正，向西走为负：$150 - 150 = 0$。或者理解为回到了原点。验算：$0 + 150 = 150$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "小强跑步，从家出发向南跑了 800 米，休息后再向北跑 1000 米。此时他家在小强南面 ___ 米处。",
+      "options": [],
+      "answer": "200",
+      "explanation": "小强跑出的总位移：向北 $1000 - 800 = 200$ 米。所以此时小强在家北面 200 米处。家就在小强的正南 200 米处。验算：$1000 - 200 = 800$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "计算：$45 + 45 = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$45 + 45 = 90$。验算：$90 - 45 = 45$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "描述简单的行走路线",
+    "core_concept": "描述行走路线要把全过程分成若干段，每段都要说清是从哪里出发、向什么方向、走多远。当到达一个新点时，要把这个新点看作新的观测点来描述下一段。",
+    "key_formula": "$行走路线描述：点 A \\xrightarrow{方向+距离} 点 B \\xrightarrow{方向+距离} 点 C$",
+    "common_mistakes": [
+      "返回时方向没变：没意识到回程的方向应与去程完全相反。",
+      "观测点混淆：在描述第二段路程时，仍然以第一段的起点为参考物。"
+    ],
+    "tips": "可以口诀记忆：‘找起点，看方向，量角度，算距离’。返回描述时，逆推路线，方向取反。"
+  }
+}

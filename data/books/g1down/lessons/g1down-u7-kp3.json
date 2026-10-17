@@ -1,0 +1,91 @@
+{
+  "id": "g1down-u7-kp3",
+  "title": "规律的分析与补全",
+  "bookId": "g1down",
+  "unitNumber": 7,
+  "unitTitle": "找规律",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "规律的分析与补全",
+      "question": "有一串珠子按“2颗白珠、1颗黑珠”重复排列，如果不小心掉了1颗黑珠，剩下的珠子排列规律就不会改变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "规律是由特定数量和颜色的物体重复组成的，缺失其中任何一部分都会打破原有的排列次序。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "规律的分析与补全",
+      "question": "手链上的珠子丢了2颗：●○●○( )( )●○，括号里应补：",
+      "options": [
+        "●○",
+        "○●",
+        "●●",
+        "○○"
+      ],
+      "answer": "●○",
+      "explanation": "整体规律是“黑、白”重复。第4个是白，第5个应为黑（●），第6个应为白（○）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "规律的分析与补全",
+      "question": "百数表中，有一个数在35的下面位置，这个数是：",
+      "options": [
+        "34",
+        "36",
+        "45",
+        "25"
+      ],
+      "answer": "45",
+      "explanation": "百数表中，下一行同位置的数比上一行大10。$35 + 10 = 45$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "规律的分析与补全",
+      "question": "小红有一串珠子：○●●○●●○●●。她想再加3颗，按规律最后加的一颗是：",
+      "options": [
+        "圆圈",
+        "黑球",
+        "两个黑球",
+        "无法确定"
+      ],
+      "answer": "黑球",
+      "explanation": "规律是“1白2黑”。最后是“●”，接下来的3颗应该是“○、●、●”。最后加的是黑球。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "规律的分析与补全",
+      "question": "小明穿珠子，按“3红2绿”的规律。穿完两组后，一共用了 ___ 颗珠子。",
+      "options": [],
+      "answer": "10",
+      "explanation": "一组珠子有 $3 + 2 = 5$ 颗。两组共：$5 + 5 = 10$ 颗。验算：$10 \\div 5 = 2$ 组 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "规律的分析与补全",
+    "core_concept": "在实际应用中，规律往往会缺了一两块（比如手链断了、墙砖掉了）。我们需要根据已知部分推导出完整的排列模式，然后确定缺失部分的具体内容。",
+    "key_formula": "整体规律 = 已知部分的重复单元",
+    "common_mistakes": [
+      "只看缺失处的前一个，不看板块整体的关联",
+      "补齐时忽略了最后一项是否能和后面已知项衔接上"
+    ],
+    "tips": "先确定“一组”是什么，再从头数起，看看缺的部分是这一组里的第几个。"
+  }
+}

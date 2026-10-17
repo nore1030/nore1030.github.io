@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp11",
+  "title": "词义辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "My school was small ten years ago, but now it is ______.",
+      "options": [
+        "old",
+        "quiet",
+        "small",
+        "large"
+      ],
+      "answer": "large",
+      "explanation": "句子用but转折，small的对比词应选large。"
+    }
+  ],
+  "knowledge": null
+}

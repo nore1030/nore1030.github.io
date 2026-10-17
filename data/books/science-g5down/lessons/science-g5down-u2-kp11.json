@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp11",
+  "title": "阻力与形状",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 5,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阻力与形状",
+      "question": "为了减小船在行驶中的阻力，船首通常设计成什么形状？",
+      "options": [
+        "方形",
+        "尖形",
+        "圆头形",
+        "不规则型"
+      ],
+      "answer": "尖形",
+      "explanation": "流线型或尖形的船首可以有效破开水流，减小摩擦阻力。"
+    }
+  ],
+  "knowledge": null
+}

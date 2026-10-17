@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u3-kp7",
+  "title": "童话常识",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 6,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "童话常识",
+      "question": "《卖火柴的小女孩》的作者是丹麦著名的童话作家（___）。",
+      "options": [],
+      "answer": "安徒生",
+      "explanation": "安徒生是世界著名的童话大师。"
+    }
+  ],
+  "knowledge": null
+}

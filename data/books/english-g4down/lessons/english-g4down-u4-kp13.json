@@ -1,0 +1,39 @@
+{
+  "id": "english-g4down-u4-kp13",
+  "title": "动物词汇",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物词汇",
+      "question": "They are ________. They provide milk.",
+      "options": [
+        "hens",
+        "ducks",
+        "cows",
+        "horses"
+      ],
+      "answer": "cows",
+      "explanation": "奶牛提供牛奶。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物词汇",
+      "question": "I like the black and white animal. It's a ___.",
+      "options": [],
+      "answer": "cow",
+      "explanation": "黑白相间的动物通常指奶牛。"
+    }
+  ],
+  "knowledge": null
+}

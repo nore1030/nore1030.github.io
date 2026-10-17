@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g7up-u1-kp1",
+  "title": "交朋友表达",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 My life — Making friends 交朋友",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交朋友表达",
+      "question": "「交朋友」的英文是（　）",
+      "options": [
+        "make friends",
+        "do friends",
+        "make friend",
+        "have friends"
+      ],
+      "answer": "make friends",
+      "explanation": "交朋友用 make friends。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "交朋友表达",
+      "question": "friendly 的意思是「友好的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "friendly 形容词。"
+    }
+  ],
+  "knowledge": {
+    "point": "交朋友表达",
+    "core_concept": "make friends 交朋友、be friendly to… 对……友好。见面问候 Nice to meet you. 回答 Nice to meet you, too.",
+    "key_formula": "make friends / be friendly to others",
+    "common_mistakes": [
+      "friend 与 friendly 混用。"
+    ],
+    "tips": "friend 是名词，friendly 是形容词。"
+  }
+}

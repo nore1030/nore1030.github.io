@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp12",
+  "title": "短文阅读",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短文阅读",
+      "question": "他回到家里，一边喘气一边说：“今天可把我累坏了！力气总算没白费，禾苗都长高了一大截。” 此时他的心态是：",
+      "options": [
+        "非常伤心",
+        "十分得意",
+        "感到后悔",
+        "特别害怕"
+      ],
+      "answer": "十分得意",
+      "explanation": "根据“力气总算没白费”和语气可知他认为自己办了好事，很自得。"
+    }
+  ],
+  "knowledge": null
+}

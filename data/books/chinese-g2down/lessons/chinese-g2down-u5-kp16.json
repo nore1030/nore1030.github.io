@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp16",
+  "title": "词语结构",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语结构",
+      "question": "下列词语属于“形容心情”的一项是：",
+      "options": [
+        "寻找",
+        "兴致勃勃",
+        "道路",
+        "杨桃"
+      ],
+      "answer": "兴致勃勃",
+      "explanation": "兴致勃勃描写兴趣很浓，属于心情/神态范畴。"
+    }
+  ],
+  "knowledge": null
+}

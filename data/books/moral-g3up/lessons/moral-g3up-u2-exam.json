@@ -1,0 +1,66 @@
+{
+  "id": "moral-g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g3up",
+  "unitNumber": 2,
+  "unitTitle": "我和学校与社会",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交通安全与自我保护",
+      "question": "绿灯亮起通过斑马线时，还要注意（　）",
+      "options": [
+        "左右看，确认安全",
+        "闭着眼走",
+        "跑着冲过去",
+        "边走边玩手机"
+      ],
+      "answer": "左右看，确认安全",
+      "explanation": "绿灯也要左右观察。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "规则意识与公共秩序",
+      "question": "遵守规则也是尊重他人的表现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守规则是尊重。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交通安全与自我保护",
+      "question": "遇到陌生人搭讪，正确的做法是（　）",
+      "options": [
+        "跟他走",
+        "不理睬并告诉家长老师",
+        "上车",
+        "收下礼物"
+      ],
+      "answer": "不理睬并告诉家长老师",
+      "explanation": "要提高警惕。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "交通安全与自我保护",
+      "question": "在马路上追逐玩耍很危险。",
+      "options": [],
+      "answer": "对",
+      "explanation": "马路玩耍危险。"
+    }
+  ],
+  "knowledge": null
+}

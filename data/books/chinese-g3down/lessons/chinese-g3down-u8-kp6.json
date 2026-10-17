@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u8-kp6",
+  "title": "字词含义",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词含义",
+      "question": "“承认真心”里的“承认”意思是表示认可、肯定的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "承认指对既成的事实表示认可。"
+    }
+  ],
+  "knowledge": null
+}

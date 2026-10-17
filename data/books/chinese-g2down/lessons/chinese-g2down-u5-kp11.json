@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp11",
+  "title": "古诗理解",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗理解",
+      "question": "“唯德学，唯才艺，不如人，当自砺”告诉我们应该：",
+      "options": [
+        "比谁的衣服漂亮",
+        "比谁的个子高",
+        "在品德和学问上努力",
+        "每天只想玩游戏"
+      ],
+      "answer": "在品德和学问上努力",
+      "explanation": "这是《弟子规》内容，强调德才学艺的修养。"
+    }
+  ],
+  "knowledge": null
+}

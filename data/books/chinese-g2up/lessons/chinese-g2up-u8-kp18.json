@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp18",
+  "title": "语言表达",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语言表达",
+      "question": "狐狸分奶酪时，故意把奶酪掰得一块大一块小。它的目的是？",
+      "options": [
+        "为了分得公平",
+        "因为手没力气",
+        "为了自己多吃奶酪",
+        "为了考验小熊"
+      ],
+      "answer": "为了自己多吃奶酪",
+      "explanation": "狐狸通过不断咬掉多出的部分，最终吃光了奶酪。"
+    }
+  ],
+  "knowledge": null
+}

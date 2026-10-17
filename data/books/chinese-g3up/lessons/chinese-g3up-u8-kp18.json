@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp18",
+  "title": "课文总结",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "课文总结",
+      "question": "本单元的三篇课文《司马光》《灰雀》《手术台就是阵地》共同赞美了：",
+      "options": [
+        "聪明的孩子",
+        "伟大的医生",
+        "人物的高尚品质",
+        "美丽的自然风景"
+      ],
+      "answer": "人物的高尚品质",
+      "explanation": "本单元主题是“美好的品质”，涉及机智、诚实、忘我奉献等。"
+    }
+  ],
+  "knowledge": null
+}

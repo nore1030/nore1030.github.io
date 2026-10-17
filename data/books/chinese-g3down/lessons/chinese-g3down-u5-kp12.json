@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u5-kp12",
+  "title": "词语解释",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语解释",
+      "question": "请将词语与其对应的解释连接起来。",
+      "options": [
+        "尴尬",
+        "思绪",
+        "秘密",
+        "洋溢",
+        "难为情",
+        "想法",
+        "不公开的事",
+        "充分流露"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "词语与其释义的一一对应。"
+    }
+  ],
+  "knowledge": null
+}

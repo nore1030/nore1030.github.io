@@ -1,0 +1,34 @@
+{
+  "id": "science-g5down-u2-kp8",
+  "title": "浮力原理",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 2,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "浮力原理",
+      "question": "改变橡皮泥的形状可以使它在水中由沉变浮。",
+      "options": [],
+      "answer": "对",
+      "explanation": "将橡皮泥做成船形增大排开水的体积，浮力增大，从而能浮在水面。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "浮力原理",
+      "question": "物体排开水的重力等于该物体在水中受到的（___）。",
+      "options": [],
+      "answer": "浮力",
+      "explanation": "阿基米德原理：浮力等于排开液体的重力。"
+    }
+  ],
+  "knowledge": null
+}

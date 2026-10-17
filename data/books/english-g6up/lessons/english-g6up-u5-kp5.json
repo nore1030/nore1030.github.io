@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp5",
+  "title": "工作地点辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 1,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "工作地点辨析",
+      "question": "A worker usually works in a hospital.",
+      "options": [],
+      "answer": "错",
+      "explanation": "工人通常在工厂(factory)工作，医生或护士在医院(hospital)工作。"
+    }
+  ],
+  "knowledge": null
+}

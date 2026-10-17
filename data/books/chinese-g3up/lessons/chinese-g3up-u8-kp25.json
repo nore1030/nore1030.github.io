@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp25",
+  "title": "文言短句",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言短句",
+      "question": "将下列词语排列成古文原句。",
+      "options": [
+        "皆",
+        "弃去",
+        "众",
+        "儿"
+      ],
+      "answer": "众,儿,皆,弃去",
+      "explanation": "出自《司马光》，描述别的小孩都吓跑了。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g1down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 2,
+  "unitTitle": "愿望",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "感恩主题阅读与理解",
+      "question": "沙洲坝的井水很脏，所以大家都不喝。",
+      "options": [],
+      "answer": "错",
+      "explanation": "原本是没水喝，挖好井后水很清凉，大家非常爱护。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常用量词规范搭配",
+      "question": "说“一头飞机”是完全错误的写法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“头”通常用于形容大牲畜如猪牛。“飞机”用量词“架”。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "朗读带感叹号的句子时，语调通常略微上扬并加强语气。",
+      "options": [],
+      "answer": "对",
+      "explanation": "感叹句表达强烈情感，朗读时音量和力度应增大。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "感恩主题阅读与理解",
+      "question": "“饮水思源”和“吃水不忘挖井人”的意思很接近。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个词都表达了不忘记恩人、懂得报恩的道理。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "感恩主题阅读与理解",
+      "question": "毛主席挖井的目的是解决乡亲们的什么困难？",
+      "options": [
+        "没饭吃",
+        "没衣穿",
+        "没水喝",
+        "没书读"
+      ],
+      "answer": "没水喝",
+      "explanation": "文中提到乡亲们吃水要到很远的地方去挑。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "“遥远的北京城，有一座雄伟的天安门。”句子中“遥远”的意思是？",
+      "options": [
+        "很近",
+        "很美",
+        "很远",
+        "很大"
+      ],
+      "answer": "很远",
+      "explanation": "遥远表示路程非常远。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常用量词规范搭配",
+      "question": "下列词组中有误的一项是？",
+      "options": [
+        "一匹马",
+        "一辆车",
+        "一册书",
+        "一架书"
+      ],
+      "answer": "一架书",
+      "explanation": "书通常说一册或一本，“一架”一般指书架或者飞机。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "“我多想去看看！”这一愿望在文中出现了几次？",
+      "options": [
+        "1次",
+        "2次",
+        "3次",
+        "4次"
+      ],
+      "answer": "2次",
+      "explanation": "课文中开头和结尾各反复出现了一次，强调了强烈的愿望。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "“春天的太阳”为什么要画成彩色的？",
+      "options": [
+        "因为作者喜欢彩笔",
+        "因为春天百花齐放、五彩缤纷",
+        "因为彩虹在春天",
+        "因为天空很蓝"
+      ],
+      "answer": "因为春天百花齐放、五彩缤纷",
+      "explanation": "多彩的色彩最能代表春天万物生长、繁花盛开的景象。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "在读“壮观的升旗仪式”时，语速应该：",
+      "options": [
+        "越来越快",
+        "非常缓慢",
+        "平稳、有力",
+        "小声嘀咕"
+      ],
+      "answer": "平稳、有力",
+      "explanation": "形容庄严整齐的场面需要有力的语调来表现神圣感。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用量词规范搭配",
+      "question": "天空中飞过一（___）大雁。",
+      "options": [],
+      "answer": "只",
+      "explanation": "单只飞禽用“只”作为量词。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "冬天，（___）的太阳冻僵了我们的手和脸。",
+      "options": [],
+      "answer": "寒冷",
+      "explanation": "通过对比描写冬天的寒冷从而引出对温暖太阳的向往。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "感恩主题阅读与理解",
+      "question": "连一连，组成正确的短语。",
+      "options": [
+        "挖",
+        "刻",
+        "吃",
+        "立",
+        "水",
+        "井",
+        "碑",
+        "字"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "挖井、刻字、吃水、立碑是课文常见动宾搭配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "将北京的美景与形容词连线。",
+      "options": [
+        "雄伟的",
+        "庄严的",
+        "宽阔的",
+        "美丽的",
+        "天安门",
+        "广场",
+        "景色",
+        "仪式"
+      ],
+      "answer": "A-1,B-4,C-2,D-3",
+      "explanation": "雄伟的天安门、美丽的景色、宽阔的广场、庄严的仪式。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "感恩主题阅读与理解",
+      "question": "排列句子，表达对毛主席的思念。",
+      "options": [
+        "时刻",
+        "乡亲们",
+        "想念",
+        "毛主席"
+      ],
+      "answer": "乡亲们,时刻,想念,毛主席",
+      "explanation": "出自石碑上的原话，注意主谓宾结构。"
+    }
+  ],
+  "knowledge": null
+}

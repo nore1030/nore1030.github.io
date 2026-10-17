@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u5-kp25",
+  "title": "句子结构",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构",
+      "question": "将下列词语排列成一句描写溶洞的话：",
+      "options": [
+        "五颜六色的",
+        "许多",
+        "洞顶",
+        "悬挂着",
+        "石钟乳"
+      ],
+      "answer": "洞顶,悬挂着,许多,五颜六色的,石钟乳",
+      "explanation": "按照主谓宾及定语顺序排列：地点+动词+数量+定语+名词。"
+    }
+  ],
+  "knowledge": null
+}

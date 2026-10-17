@@ -1,0 +1,59 @@
+{
+  "id": "g5up-u4-kp3",
+  "title": "可能性的大小应用（设计方案）",
+  "bookId": "g5up",
+  "unitNumber": 4,
+  "unitTitle": "可能性",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "为了让抽奖的人很难中奖，应该把中奖的区域设计得非常大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "中奖区域越大，发生的可能性越大。要让抽奖难中奖，应该缩小中奖区域。原命题错误。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "设计一个公平的转盘游戏，红蓝两色区域的面积应该（ ）。",
+      "options": [
+        "红色大",
+        "蓝色大",
+        "相等",
+        "不必考虑"
+      ],
+      "answer": "相等",
+      "explanation": "公平意味着可能性相等，即面积必须相等。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "箱子里有 6 个红球。如果要使摸到白球的可能性为零，白球的数量应该是 ___ 个。",
+      "options": [],
+      "answer": "0",
+      "explanation": "可能性为零即为“不可能”事件，意味着箱子里不存在白球，数量为 0。验算：没有白球即摸不到白球 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "可能性的大小应用（设计方案）",
+    "core_concept": "根据预设的可能性要求，反向设计实验模型。例如要让某结果出现的可能性大，就增加该结果对应的实物数量或区域面积；要实现公平，则需使各结果的条件完全相等。",
+    "key_formula": "设计规则：可能性相等 $\rightarrow$ 条件（数量/面积）相等。",
+    "common_mistakes": [
+      "设计“公平”游戏时，分配的数量不相等。",
+      "理解错比例关系，如要3倍可能却设计成多了3个。"
+    ],
+    "tips": "可以先设定一个基准数（如1），再根据倍数关系或大小关系分配其他部分的数量。"
+  }
+}

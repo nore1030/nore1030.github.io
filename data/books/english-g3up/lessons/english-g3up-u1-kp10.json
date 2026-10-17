@@ -1,0 +1,54 @@
+{
+  "id": "english-g3up-u1-kp10",
+  "title": "询问姓名",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 6,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问姓名",
+      "question": "What's _______ name?",
+      "options": [
+        "you",
+        "your",
+        "I",
+        "me"
+      ],
+      "answer": "your",
+      "explanation": "询问姓名使用形容词性物主代词your（你的）。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问姓名",
+      "question": "What is ___ name?",
+      "options": [],
+      "answer": "your",
+      "explanation": "询问你的姓名：What is your name?"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问姓名",
+      "question": "将下列单词排列成一句完整的话：",
+      "options": [
+        "your",
+        "What's",
+        "name"
+      ],
+      "answer": "What's,your,name",
+      "explanation": "询问姓名句式：What's your name?"
+    }
+  ],
+  "knowledge": null
+}

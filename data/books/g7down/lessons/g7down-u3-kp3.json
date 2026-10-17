@@ -1,0 +1,42 @@
+{
+  "id": "g7down-u3-kp3",
+  "title": "加减消元法与实际问题",
+  "bookId": "g7down",
+  "unitNumber": 3,
+  "unitTitle": "二元一次方程组",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "加减消元法与实际问题",
+      "question": "解方程组 $\\begin{cases}x+y=10\\\\x-y=2\\end{cases}$，则 $x=$ ？",
+      "options": [],
+      "answer": "6",
+      "explanation": "两式相加 $2x=12$，$x=6$。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "加减消元法与实际问题",
+      "question": "解方程组 $\\begin{cases}x+y=10\\\\x-y=2\\end{cases}$，则 $y=$ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$x=6$，$y=10-6=4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "加减消元法与实际问题",
+    "core_concept": "当同一未知数系数相同或互为相反数时，把两方程相减或相加消元。",
+    "key_formula": "系数相同则相减",
+    "common_mistakes": [
+      "相减时符号出错。"
+    ],
+    "tips": "先调整系数再消元。"
+  }
+}

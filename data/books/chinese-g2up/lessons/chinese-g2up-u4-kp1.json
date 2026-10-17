@@ -1,0 +1,188 @@
+{
+  "id": "chinese-g2up-u4-kp1",
+  "title": "写景散文的表现手法",
+  "bookId": "chinese-g2up",
+  "unitNumber": 4,
+  "unitTitle": "家乡",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《黄山奇石》一文中，“仙人指路”是石头的名字。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文介绍了黄山许多奇石，其中就有仙人指路。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "“葡萄一大串一大串地挂在绿叶底下，有红的、白的、紫的、暗红的、淡绿的，五光十色，美丽极了。”这句话是在描写葡萄的形态美。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句话主要通过各种颜色描写葡萄的颜色美、静态美。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "“它两只胳膊抱着腿，一动不动地蹲在山头，望着翻滚的云海。”这句话运用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "赋予石头“胳膊”、“抱”、“蹲”、“望”等人的动作，是拟人写法。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《葡萄沟》一文中提到，维吾尔族老乡把吃不完的葡萄挂在阴房里，利用什么将其吹成葡萄干？",
+      "options": [
+        "巨大的风扇",
+        "太阳光暴晒",
+        "流动的热空气",
+        "机器加热"
+      ],
+      "answer": "流动的热空气",
+      "explanation": "课文原文明确提到是利用流动的热空气蒸发水分。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "“日月潭很深，湖水碧绿。湖中央有个美丽的小岛，叫光华岛。”这段话是从什么角度描写景物的？",
+      "options": [
+        "声音",
+        "气味",
+        "形状和颜色",
+        "心情"
+      ],
+      "answer": "形状和颜色",
+      "explanation": "“碧绿”是颜色，“湖中央的小岛”是形状位置。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "“天上的云，像一群奔跑的小羊。”这句话把云比作了什么？",
+      "options": [
+        "山峰",
+        "棉花",
+        "小鱼",
+        "小羊"
+      ],
+      "answer": "小羊",
+      "explanation": "本体是云，喻体是小羊。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《望庐山瀑布》中，“飞流直下三千尺，疑是银河落九天”中“疑”的意思是？",
+      "options": [
+        "怀疑",
+        "疑问",
+        "好像",
+        "不能理解"
+      ],
+      "answer": "好像",
+      "explanation": "这里的“疑”表达一种奇特的想象，意为好像、仿佛。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《黄山奇石》中，“猴子观海”的“海”是指翻滚的（___）。",
+      "options": [],
+      "answer": "云海",
+      "explanation": "黄山景色之一就是波澜壮阔的云海。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "请根据课文内容，将地名与特产或景观连起来。",
+      "options": [
+        "黄山",
+        "庐山",
+        "葡萄沟",
+        "日月潭",
+        "瀑布",
+        "葡萄",
+        "奇石",
+        "光华岛"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "考察对本单元四篇核心课文内容的掌握程度。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "请连词成句，描写日月潭的清晨。",
+      "options": [
+        "薄薄的",
+        "湖面上",
+        "雾",
+        "飘着"
+      ],
+      "answer": "湖面上,飘着,薄薄的,雾",
+      "explanation": "根据《日月潭》课文内容，描写清晨湖面的薄雾。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "请将这段描写葡萄的句子重新排好顺序。",
+      "options": [
+        "茂密的",
+        "枝叶",
+        "绿色的",
+        "向四面展开",
+        "就像",
+        "凉棚"
+      ],
+      "answer": "茂密的,枝叶,向四面展开,就像,绿色的,凉棚",
+      "explanation": "这是课文《葡萄沟》中著名的比喻句。"
+    }
+  ],
+  "knowledge": {
+    "point": "写景散文的表现手法",
+    "core_concept": "本单元通过对黄山、日月潭、葡萄沟等地的描写，展示了家乡的山水之美。重点学习了运用比喻、拟人将静态的石头、湖泊写活，以及通过排比描写景色的多种色彩。通过观察景物的形状、颜色、位置变化来体现美感。",
+    "key_formula": "观察点+景物名称+颜色/动态特征+比喻句",
+    "common_mistakes": [
+      "学生容易混淆比喻句的本体和喻体",
+      "无法准确识别文中哪些词语是描写动态美，哪些是静态美"
+    ],
+    "tips": "背诵课文中优美的比喻句，闭上眼想象画面，能帮助理解表达技巧。"
+  }
+}

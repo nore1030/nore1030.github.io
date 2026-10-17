@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g4up-u3-kp3",
+  "title": "观察日记的记录格式",
+  "bookId": "chinese-g4up",
+  "unitNumber": 3,
+  "unitTitle": "处处留心皆学问",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "观察日记只能用文字记录，不可以记录心情或想法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "观察日记既可以记录事物的变化，也可以记录观察者当时的心情、感受或联想。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "写观察日记时，如果发现植物发芽了，最适合记录的要素是：",
+      "options": [
+        "天气预报",
+        "植物的高度和颜色",
+        "朋友的建议",
+        "昨天的午饭"
+      ],
+      "answer": "植物的高度和颜色",
+      "explanation": "观察日记应侧重于观察对象的关键形态特征变化。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "好的观察日记除了记录观察对象，还可以加入：",
+      "options": [
+        "大量虚构的故事",
+        "自己制作的过程",
+        "观察时的心情和发现",
+        "天气的科学原理"
+      ],
+      "answer": "观察时的心情和发现",
+      "explanation": "加入主观感受和意外发现能使日记更生动、具有思考深度。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "在观察种子发芽时，记录发芽天数和生长高度最清晰的格式是（___）格式。",
+      "options": [],
+      "answer": "表格",
+      "explanation": "统计类数据用表格记录最为直观。也可接受“统计表”。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "请排列观察日记中常见的记录要素：",
+      "options": [
+        "时间",
+        "天气",
+        "观察对象",
+        "变化过程"
+      ],
+      "answer": "时间,天气,观察对象,变化过程",
+      "explanation": "这是标准的观察日记开头和核心内容排列习惯。"
+    }
+  ],
+  "knowledge": {
+    "point": "观察日记的记录格式",
+    "core_concept": "观察日记是一种结合了公文严谨性和文学趣味性的文体。标准的观察日记首行需标明时间、星期、天气（对动植物生长有影响）。正文部分提倡图文结合或表格记录，特别强调要有“比较”，即今天与昨天的不同。除了写“它”，还要写“我”，包括我的猜测、喜悦或是失败后的分析。",
+    "key_formula": "（日期+天气）+ 核心变化细节 + 个人感受/联想 = 优秀的观察日记",
+    "common_mistakes": [
+      "漏写标题或日期、天气等关键基础信息。",
+      "写成了‘流水账’，每天的内容都雷同，体现不出事物的演变。"
+    ],
+    "tips": "推荐使用‘对比法’，每篇日记都问自己一个问题：‘它今天最大的不同点在哪里？’抓住这个点深入写。"
+  }
+}

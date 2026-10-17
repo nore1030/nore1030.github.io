@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g9up",
+  "unitNumber": 1,
+  "unitTitle": "现代文阅读与古诗词",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "议论文阅读",
+      "question": "分析议论文思路，可先梳理出（　）",
+      "options": [
+        "作者的论证脉络",
+        "作者的家庭情况",
+        "文中的插图",
+        "生字词表"
+      ],
+      "answer": "作者的论证脉络",
+      "explanation": "梳理论证脉络。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "“大漠孤烟直，长河落日圆”中“直”字主要写出（　）",
+      "options": [
+        "景物的形态特征",
+        "作者的心情",
+        "诗人性格",
+        "诗歌节奏"
+      ],
+      "answer": "景物的形态特征",
+      "explanation": "炼字写形态。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "议论文阅读",
+      "question": "论证方法包括举例论证、道理论证、对比论证等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "常见论证方法。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "鉴赏炼字题要答出“意思 + 妙处 + 情感”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "炼字答题规范。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,140 @@
+{
+  "id": "g2down-u6-kp2",
+  "title": "余数与除数的关系",
+  "bookId": "g2down",
+  "unitNumber": 6,
+  "unitTitle": "有余数的除法",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "余数与除数的关系",
+      "question": "如果除数是6，余数可能是7。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在有余数的除法中，余数一定比除数小。因为 $7 > 6$，所以余数不可能是7。验算：$7 \\div 6 = 1 \\dots 1$，如果余数是7说明还没分完。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "余数与除数的关系",
+      "question": "计算有余数的除法时，余数一定要比除数小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是有余数除法计算的基本原则：余数 < 除数。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "余数与除数的关系",
+      "question": "在 $\\Box \\div 5 = 6 \\dots \\Box$ 中，余数最大是多少？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "1"
+      ],
+      "answer": "4",
+      "explanation": "余数必须比除数小。除数是5，比5小的数字有4, 3, 2, 1, 0。最大的余数是4。验算：$4 < 5$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "余数与除数的关系",
+      "question": "下列算式中，余数最小的是哪个？",
+      "options": [
+        "11 ÷ 3",
+        "15 ÷ 4",
+        "20 ÷ 6",
+        "25 ÷ 8"
+      ],
+      "answer": "25 ÷ 8",
+      "explanation": "A：$11 \\div 3 = 3 \\dots 2$；B：$15 \\div 4 = 3 \\dots 3$；C：$20 \\div 6 = 3 \\dots 2$；D：$25 \\div 8 = 3 \\dots 1$。1最小。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "余数与除数的关系",
+      "question": "被除数是29，除数是4，商和余数各是多少？",
+      "options": [
+        "商7余1",
+        "商6余5",
+        "商8余1",
+        "商7余2"
+      ],
+      "answer": "商7余1",
+      "explanation": "$29 \\div 4 = 7 \\dots 1$。验算：$4 \\times 7 + 1 = 29$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "余数与除数的关系",
+      "question": "除数是8，商是3，余数可能是多少？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "7",
+      "explanation": "根据余数一定比除数小，除数是8，余数只能在0-7之间。选项中只有7符合。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "余数与除数的关系",
+      "question": "在 $\\Box \\div 7 = 4 \\dots \\triangle$ 中，$\\triangle$ 最大时，$\\Box$ 是 ___ 。",
+      "options": [],
+      "answer": "34",
+      "explanation": "除数是7，余数 $\\triangle$ 最大是6。此时 $\\Box = 7 \\times 4 + 6 = 28 + 6 = 34$。验算：$34 \\div 7 = 4 \\dots 6$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "余数与除数的关系",
+      "question": "计算：$19 \\div 2 = ? \\dots 1$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$19 \\div 2 = 9 \\dots 1$。验算：$2 \\times 9 + 1 = 18 + 1 = 19$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "余数与除数的关系",
+      "question": "计算：$45 \\div 8 = 5 \\dots ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "$45 \\div 8 = 5 \\dots 5$。验算：$8 \\times 5 + 5 = 40 + 5 = 45$。"
+    }
+  ],
+  "knowledge": {
+    "point": "余数与除数的关系",
+    "core_concept": "这是本单元最重要的规律。在计算过程中，如果余数比除数大或相等，说明还可以继续分。因此，余数必须小于除数。",
+    "key_formula": "余数 < 除数",
+    "common_mistakes": [
+      "计算结果中余数大于除数（如 13÷3=3……4）",
+      "在没有给出除数的情况下，错误估计余数的最大可能值"
+    ],
+    "tips": "看到除数，立刻想：余数最大只能是除数减1。"
+  }
+}

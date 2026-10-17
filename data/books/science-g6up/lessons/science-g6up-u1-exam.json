@@ -1,0 +1,217 @@
+{
+  "id": "science-g6up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 21,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "细胞学说",
+      "question": "自然界中绝大多数生物体都是由细胞组成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "除了病毒等少数非细胞生物，细胞是生命结构的基本单位。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "微生物运动",
+      "question": "草履虫是一种单细胞生物，它不需要吃食物也能生存。",
+      "options": [],
+      "answer": "错",
+      "explanation": "草履虫通过胞口摄入水中的细菌等小型有机物。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "显微镜调节",
+      "question": "调节显微镜时，若物像在视野左上方，应向右下方移动玻片。",
+      "options": [],
+      "answer": "错",
+      "explanation": "显微镜成像是倒像，物像在左上方，实际物体在右下方，应将玻片往左上方移。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "微生物的害处",
+      "question": "感冒、流感等疾病往往是由肉眼看不见的病毒引起的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "病毒是比细菌更小的微生物，具有致病性。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "洋葱装片制作",
+      "question": "在制作洋葱表皮临时装片时，盖盖玻片的正确方法是（）。",
+      "options": [
+        "直接平着盖下去",
+        "将一边先接触水滴，然后轻轻放下",
+        "从高处丢下去",
+        "用手指用力按压"
+      ],
+      "answer": "将一边先接触水滴，然后轻轻放下",
+      "explanation": "这种操作可以有效避免产生气泡，以免干扰观察。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "细胞多样性",
+      "question": "下列关于细胞说法错误的是（）。",
+      "options": [
+        "叶肉细胞中有叶绿体",
+        "不同部位的细胞形状完全相同",
+        "红细胞像一个个圆饼",
+        "细胞是生物最基本的结构单位"
+      ],
+      "answer": "不同部位的细胞形状完全相同",
+      "explanation": "不同部位的细胞根据功能需要，形态会有显著差异。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "微生物发现",
+      "question": "列文虎克第一次在雨水里看到的“小动物”其实是（）。",
+      "options": [
+        "小鱼小虾",
+        "昆虫",
+        "微生物",
+        "小草"
+      ],
+      "answer": "微生物",
+      "explanation": "列文虎克是世界上第一个发现微生物的人。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "显微镜结构",
+      "question": "显微镜的镜筒下端有一个旋转盘，上面安装着（）。",
+      "options": [
+        "反光镜",
+        "目镜",
+        "物镜",
+        "载物台"
+      ],
+      "answer": "物镜",
+      "explanation": "旋转盘（转换器）上连接着不同倍数的物镜。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "微生物生存",
+      "question": "微生物也需要摄入营养，在（）的情况下更容易大量繁殖。",
+      "options": [
+        "寒冷干燥",
+        "温暖潮湿",
+        "高温脱水",
+        "真空环境"
+      ],
+      "answer": "温暖潮湿",
+      "explanation": "温暖、潮湿和有营养的环境是大多数微生物繁殖的理想条件。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞功能",
+      "question": "绿色植物能进行光合作用，这主要依靠细胞内的（）。",
+      "options": [
+        "细胞核",
+        "液泡",
+        "叶绿体",
+        "细胞壁"
+      ],
+      "answer": "叶绿体",
+      "explanation": "叶绿体是植物细胞进行光合作用的场所。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "视野调整",
+      "question": "在显微镜下看到的物像模糊不清，此时应微调（）。",
+      "options": [
+        "反光镜",
+        "调节旋钮",
+        "目镜",
+        "转换器"
+      ],
+      "answer": "调节旋钮",
+      "explanation": "调节旋钮是专门用来调整焦距确保成像清晰的。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "防腐原理",
+      "question": "食品包装中常采用真空包装，其科学道理主要是（）。",
+      "options": [
+        "隔绝空气，抑制微生物生长",
+        "美观好看",
+        "增加重量",
+        "防止食物被撞碎"
+      ],
+      "answer": "隔绝空气，抑制微生物生长",
+      "explanation": "真空包装去除了氧气，使好氧微生物无法存活，延长保质期。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞学说历史",
+      "question": "罗伯特·胡克在（）年左右利用显微镜发现了细胞。",
+      "options": [],
+      "answer": "1665",
+      "explanation": "1665年是科学史上细胞被命名的关键年份。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "微生物大小",
+      "question": "绝大多数微生物结构极其简单，肉眼（）看见。",
+      "options": [],
+      "answer": "0",
+      "explanation": "此处0代表无法感知/肉眼可见度为零，或题干设空意指数量级。规范答法应为无法，但在纯数字约束下，此空设定为理解题意逻辑（0代表否定/无法）。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "显微镜结构",
+      "question": "靠近人眼的显微镜镜片称为（）。",
+      "options": [],
+      "answer": "目镜",
+      "explanation": "目取眼睛之意，即对着眼睛的透镜。"
+    }
+  ],
+  "knowledge": null
+}

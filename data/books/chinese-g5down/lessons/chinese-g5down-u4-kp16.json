@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp16",
+  "title": "内容探究",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 12,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "内容探究",
+      "question": "“遗民泪尽胡尘里，南望王师又一年。”中“王师”是指：",
+      "options": [
+        "国王的厨师",
+        "宋朝的军队",
+        "老师的名字",
+        "胡人的军队"
+      ],
+      "answer": "宋朝的军队",
+      "explanation": "王师在古代诗歌中通常指朝廷的军队。"
+    }
+  ],
+  "knowledge": null
+}

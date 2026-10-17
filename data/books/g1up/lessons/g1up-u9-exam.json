@@ -1,0 +1,217 @@
+{
+  "id": "g1up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g1up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "2 个十是 20。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1个十是10，2个十就是20。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "圆柱上下两个面都是圆，而且大小一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是圆柱的基本几何特征。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "6时整，分针指向 6。",
+      "options": [],
+      "answer": "错",
+      "explanation": "整时时，分针一定指向 12。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "小明排队，从前数他排第 5，从后数排第 3，这一队共有 8 人。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小明被数了两次。计算：$5 + 3 - 1 = 7$（人）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "算式 $8 + \bigcirc = 15$ 中，$\bigcirc$ 里的数应该是多少？",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "根据减法是加法的逆运算：$15 - 8 = 7$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "下列哪个形状的物体最难堆叠起来？",
+      "options": [
+        "长方体",
+        "正方体",
+        "球",
+        "圆柱"
+      ],
+      "answer": "球",
+      "explanation": "球表面是弯曲的，没有平滑的接触面，容易滚动，最难堆叠。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "时针指向 3，分针指向 12，再过 1 小时是几时？",
+      "options": [
+        "3时",
+        "4时",
+        "2时",
+        "12时"
+      ],
+      "answer": "4时",
+      "explanation": "现在是 3 时，再过 1 小时是 $3 + 1 = 4$ 时。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "最接近 20 的数是哪一个？",
+      "options": [
+        "10",
+        "15",
+        "18",
+        "19"
+      ],
+      "answer": "19",
+      "explanation": "比较差值：$20-19=1$ 是最小的距离。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "$10 - 2 \bigcirc 5 + 3$，圆圈里填什么？",
+      "options": [
+        ">",
+        "<",
+        " =",
+        "≈"
+      ],
+      "answer": " =",
+      "explanation": "$10 - 2 = 8$，$5 + 3 = 8$，两个算式结果相等。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "停车场里开走了 7 辆车，还剩下 8 辆，原来有多少辆车？",
+      "options": [
+        "1",
+        "15",
+        "14",
+        "16"
+      ],
+      "answer": "15",
+      "explanation": "求原来，用剩下的加上开走的：$8 + 7 = 15$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "最大的一位数和最小的两位数相加，和是多少？",
+      "options": [
+        "10",
+        "19",
+        "20",
+        "11"
+      ],
+      "answer": "19",
+      "explanation": "最大一位数是 9，最小两位数是 10。列式：$9 + 10 = 19$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "一个正方体一共有多少个顶点？",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "正方体（类似魔方）上面 4 个顶点，下面 4 个顶点，共 8 个。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "18 里面有 ___ 个十和 8 个一。",
+      "options": [],
+      "answer": "1",
+      "explanation": "18 是由 1 个十和 8 个一组成的。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "公车上有 15 人，到站下车 5 人，又上车 2 人，车上现在有 ___ 人。",
+      "options": [],
+      "answer": "12",
+      "explanation": "列式：$15 - 5 + 2 = 12$。验算：$12 - 2 + 5 = 15$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "20以内数与运算的综合",
+      "question": "$9 + 1 + 6 = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$9 + 1 = 10$，$10 + 6 = 16$。验算：$16 - 6 - 1 = 9$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

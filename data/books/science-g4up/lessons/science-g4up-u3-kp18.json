@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp18",
+  "title": "增大摩擦力",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "增大摩擦力",
+      "question": "下雪天在轮胎上缠绕防滑链是为了（___）。",
+      "options": [
+        "减小摩擦力",
+        "保护轮胎",
+        "增大接触面粗糙程度来增大摩擦",
+        "好看"
+      ],
+      "answer": "增大接触面粗糙程度来增大摩擦",
+      "explanation": "增加接触面的粗糙程度可以增大摩擦力，防止打滑。"
+    }
+  ],
+  "knowledge": null
+}

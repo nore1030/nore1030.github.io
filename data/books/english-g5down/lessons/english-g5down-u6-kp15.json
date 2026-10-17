@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp15",
+  "title": "动词ing规则",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词ing规则",
+      "question": "What is Tom ________ now?",
+      "options": [
+        "do",
+        "does",
+        "doing",
+        "done"
+      ],
+      "answer": "doing",
+      "explanation": "What is ... doing? 询问正在做什么。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "science-g5down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 21,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "种子发芽条件",
+      "question": "种子萌发时不需要阳光，因为此时它主要消耗的是自身的养分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "大多数种子发芽实验证明光照不是萌发的必要条件。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "生态系统平衡",
+      "question": "生态瓶里的水越多，里面的小鱼存活时间就越长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "水越多，溶解氧总量相对越多，空间更广阔。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生物适应性",
+      "question": "企鹅的厚脂肪层是它在南极这种寒冷环境下生存的保障。",
+      "options": [],
+      "answer": "对",
+      "explanation": "形态结构与环境适应相统一。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "生态平衡",
+      "question": "在一个稳定的生态瓶中，消费者的数量应该超过生产者。",
+      "options": [],
+      "answer": "错",
+      "explanation": "生产者必须足够多才能支撑消费者的生存。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物生长需求",
+      "question": "植物进行光合作用不需要的条件是（ ）。",
+      "options": [
+        "阳光",
+        "二氧化碳",
+        "水",
+        "氧气"
+      ],
+      "answer": "氧气",
+      "explanation": "氧气是光合作用的产物而非原料。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量流向",
+      "question": "食物链中生物之间最主要的联系是（ ）。",
+      "options": [
+        "居住关系",
+        "亲缘关系",
+        "捕食关系",
+        "竞争关系"
+      ],
+      "answer": "捕食关系",
+      "explanation": "食物链描述的是吃与被吃的关系。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生态平衡",
+      "question": "池塘生态系统中，若水生植物过度生长导致水面覆盖，最先受影响的是（ ）。",
+      "options": [
+        "微生物",
+        "底栖动物",
+        "捕食鸟类",
+        "大型哺乳动物"
+      ],
+      "answer": "底栖动物",
+      "explanation": "水面覆盖导致水下光照不足，溶氧降低，影响底层生物。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚯蚓习性",
+      "question": "在纸盒里铺上湿土和干土，将蚯蚓放在中间，能观察到它倾向于爬向（ ）。",
+      "options": [
+        "中间",
+        "湿土一边",
+        "干土一边",
+        "盒外"
+      ],
+      "answer": "湿土一边",
+      "explanation": "蚯蚓通过皮肤呼吸，需要湿润的环境。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物网结构",
+      "question": "在一个森林里，蛇吃老鼠，老鼠吃种子。如果蛇的数量剧减，老鼠会（ ）。",
+      "options": [
+        "一直增加",
+        "先增加后减少",
+        "马上灭绝",
+        "数量不变"
+      ],
+      "answer": "先增加后减少",
+      "explanation": "天敌减少引起种群爆发，随后引发食物链失衡导致种群回落。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物器官",
+      "question": "绿豆种子发芽时，最先突破种皮长出来的是（ ）。",
+      "options": [
+        "胚芽",
+        "胚根",
+        "子叶",
+        "真叶"
+      ],
+      "answer": "胚根",
+      "explanation": "植物发芽先扎根，便于吸收水分。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "变量控制",
+      "question": "某同学设计实验发现黑暗中的绿豆种子也能发芽，说明发芽（ ）阳光。",
+      "options": [
+        "必须有",
+        "不需要",
+        "有害于",
+        "只在白天需要"
+      ],
+      "answer": "不需要",
+      "explanation": "只要有发芽的，就说明这个条件不是必需的。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物适应性",
+      "question": "仙人掌的叶退化成刺状，主要是为了（ ）。",
+      "options": [
+        "防御敌人",
+        "增加美观",
+        "减少水分蒸腾",
+        "储存水分"
+      ],
+      "answer": "减少水分蒸腾",
+      "explanation": "干旱环境的适应特征。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "食物链提取",
+      "question": "在“草、兔、鹰、蛇、鼠”构成的网络中，如果所有动物只吃一种食物，则有（ ）条食物链。",
+      "options": [],
+      "answer": "2",
+      "explanation": "基础路径为草-兔-鹰（或蛇）等，该题强调单向性。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "温度条件",
+      "question": "多数常见种子的萌发最适宜温度大约在（ ）摄氏度左右。",
+      "options": [],
+      "answer": "25",
+      "explanation": "温暖的环境利于生命活动。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "捕食者概念",
+      "question": "在食物链中，不能自己制造食物的生物被称为（ ）。",
+      "options": [],
+      "answer": "消费者",
+      "explanation": "动物直接或间接以植物为食，属于消费者。"
+    }
+  ],
+  "knowledge": null
+}

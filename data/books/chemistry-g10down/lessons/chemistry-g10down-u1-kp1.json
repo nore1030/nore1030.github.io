@@ -1,0 +1,63 @@
+{
+  "id": "chemistry-g10down-u1-kp1",
+  "title": "化学反应与热能、电能",
+  "bookId": "chemistry-g10down",
+  "unitNumber": 1,
+  "unitTitle": "化学反应与能量",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学反应与热能、电能",
+      "question": "下列属于放热反应的是（　）",
+      "options": [
+        "木炭燃烧",
+        "碳酸钙分解",
+        "水电解",
+        "氯化铵与氢氧化钡"
+      ],
+      "answer": "木炭燃烧",
+      "explanation": "燃烧放热。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "化学反应与热能、电能",
+      "question": "原电池是把化学能转化为电能的装置。",
+      "options": [],
+      "answer": "对",
+      "explanation": "原电池定义。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学反应与热能、电能",
+      "question": "原电池中，较活泼的金属作（　）",
+      "options": [
+        "正极",
+        "负极",
+        "既可作正极也可作负极",
+        "不能作电极"
+      ],
+      "answer": "负极",
+      "explanation": "活泼金属失电子作负极。"
+    }
+  ],
+  "knowledge": {
+    "point": "化学反应与热能、电能",
+    "core_concept": "化学反应的实质是旧键断裂、新键形成。断裂化学键吸收能量，形成化学键放出能量。原电池是把化学能转化为电能的装置，需两个活泼性不同的电极、电解质溶液、形成闭合回路。",
+    "key_formula": "吸热：键能吸收 > 放出",
+    "common_mistakes": [
+      "认为需要加热的反应一定是吸热反应。"
+    ],
+    "tips": "是否吸热看总能量变化。"
+  }
+}

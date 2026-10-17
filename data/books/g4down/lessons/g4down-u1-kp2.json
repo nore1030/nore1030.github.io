@@ -1,0 +1,113 @@
+{
+  "id": "g4down-u1-kp2",
+  "title": "乘、除法的意义和各部分间的关系",
+  "bookId": "g4down",
+  "unitNumber": 1,
+  "unitTitle": "四则运算",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "0除以任何不是0的数都得0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$0$ 除以任何非 $0$ 数都代表把 $0$ 个物品平均分，结果依然是 $0$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "一个数和0相乘，仍得这个数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "任何数和 $0$ 相乘都得 $0$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "如果 $\triangle \times \bigcirc = 0$，那么（ ）。",
+      "options": [
+        "$\triangle$ 一定是 0",
+        "$\bigcirc$ 一定是 0",
+        "$\triangle$ 和 $\bigcirc$ 都是 0",
+        "$\triangle$ 和 $\bigcirc$ 中至少有一个是 0"
+      ],
+      "answer": "$\triangle$ 和 $\bigcirc$ 中至少有一个是 0",
+      "explanation": "两个数相乘得0，说明其中必有一个因数为0。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "小明在计算除法时，把除数 24 写成了 42，结果得到的商是 4。正确的商应该是（ ）。",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "被除数 = $42 \times 4 = 168$。正确商为 $168 \times 24 = 7$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "$48 \times 0 \times 12$ 的结果等于（ ）。",
+      "options": [
+        "48",
+        "12",
+        "0",
+        "60"
+      ],
+      "answer": "0",
+      "explanation": "乘法中只要有一个因数是0，积就是0。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "一个数除以 15，商是 6 且没有余数，这个数是 ___。",
+      "options": [],
+      "answer": "90",
+      "explanation": "被除数 = 商 $\times$ 除数。列式：$6 \times 15 = 90$。验算：$90 \times 15 = 6$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘、除法的意义和各部分间的关系",
+      "question": "计算：$125 \times 8 = ?$",
+      "options": [],
+      "answer": "1000",
+      "explanation": "$125 \times 8 = 1000$。验算：$1000 \times 8 = 125$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘、除法的意义和各部分间的关系",
+    "core_concept": "求几个相同加数和的简便运算是乘法；已知两个因数的积与其中一个因数求另一个因数的运算是除法。除法中0不能作除数，因为0作为除数无法得到确定的商。",
+    "key_formula": "$因数 \times 因数 = 积$; $被除数 \times 除数 = 商$",
+    "common_mistakes": [
+      "在有余数的除法中，忘记余数必须比除数小",
+      "错误地认为 0 \times 5 = 0 没有意义（实际上是除数不能为0）"
+    ],
+    "tips": "牢记“0乘以任何数都得0”和“0除以任何非0数都得0”。"
+  }
+}

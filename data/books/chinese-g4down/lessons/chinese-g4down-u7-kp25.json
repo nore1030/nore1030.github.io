@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g4down-u7-kp25",
+  "title": "句式训练",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式训练",
+      "question": "将下列词语排列成一句赞美哈尔威船长的话：",
+      "options": [
+        "哈尔威船长",
+        "一位",
+        "真正的",
+        "英雄",
+        "是",
+        "在海难中"
+      ],
+      "answer": "在海难中,哈尔威船长,是,一位,真正的,英雄",
+      "explanation": "组合成合乎逻辑的叙述句。"
+    }
+  ],
+  "knowledge": null
+}

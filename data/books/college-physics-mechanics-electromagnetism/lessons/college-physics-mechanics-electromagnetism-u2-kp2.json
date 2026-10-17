@@ -1,0 +1,58 @@
+{
+  "id": "college-physics-mechanics-electromagnetism-u2-kp2",
+  "title": "电势能与电势",
+  "bookId": "college-physics-mechanics-electromagnetism",
+  "unitNumber": 2,
+  "unitTitle": "静电场",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "电势能与电势",
+      "question": "电荷 2 C 通过电势差 5 V 时，电场力做功多少 J？",
+      "options": [],
+      "answer": "10",
+      "explanation": "$W=qU=2\\times5=10$ J。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "电势能与电势",
+      "question": "电场力做功与路径无关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "静电力是保守力。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "电势能与电势",
+      "question": "匀强电场中 $E=100$ V/m，两点沿场强方向距离 2 m，则电势差是（　）",
+      "options": [
+        "50 V",
+        "200 V",
+        "102 V",
+        "0.02 V"
+      ],
+      "answer": "200 V",
+      "explanation": "$U=Ed=200$ V。"
+    }
+  ],
+  "knowledge": {
+    "point": "电势能与电势",
+    "core_concept": "电场力做功与路径无关，电场力做功等于电势能减少量。$U=\\frac Wq$，匀强电场中 $U=Ed$。",
+    "key_formula": "$W=qU$",
+    "common_mistakes": [
+      "电势差与电场强度混淆。"
+    ],
+    "tips": "U 是电压，E 是场强。"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "math-beishida-g1up-u5-kp1",
+  "title": "前后与上下",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 5,
+  "unitTitle": "位置与顺序",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "前后与上下",
+      "question": "我在妈妈的前面，妈妈就在我的（　）",
+      "options": [
+        "后面",
+        "前面",
+        "上面",
+        "下面"
+      ],
+      "answer": "后面",
+      "explanation": "前后相对。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "前后与上下",
+      "question": "书在桌子上，桌子就在书的（　）",
+      "options": [
+        "下面",
+        "上面",
+        "前面",
+        "后面"
+      ],
+      "answer": "下面",
+      "explanation": "上下相对。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "前后与上下",
+      "question": "上和下是相对的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相对位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "前后与上下",
+    "core_concept": "前后：面向的方向是前，背对的是后；上下：高处为上，低处为下。位置是相对的。",
+    "key_formula": "前 / 后 / 上 / 下",
+    "common_mistakes": [
+      "不先说清参照物就说前后。"
+    ],
+    "tips": "先说「谁」再说位置。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "chinese-g5down-u7-kp4",
+  "title": "字音辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“纵横交错”中的“横”在这里读作 hèng。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在此词中读作héng，指水平方向。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“哗笑”的“哗”字读音是 huá。",
+      "options": [],
+      "answer": "对",
+      "explanation": "哗笑的哗读作huá，指人多声音杂乱。"
+    }
+  ],
+  "knowledge": null
+}

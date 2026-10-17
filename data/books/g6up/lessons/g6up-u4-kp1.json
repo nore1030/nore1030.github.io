@@ -1,0 +1,145 @@
+{
+  "id": "g6up-u4-kp1",
+  "title": "比的意义与比值",
+  "bookId": "g6up",
+  "unitNumber": 4,
+  "unitTitle": "比",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "比的前项不能为0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "比的前项相当于除法中的被除数，可以是0；比的后项相当于除数，不能为0。验算：$0:5 = 0 \\div 5 = 0$，结果有意义。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比的意义与比值",
+      "question": "小明身高1米，爸爸身高175厘米，小明与爸爸的身高比是1:175。",
+      "options": [],
+      "answer": "错",
+      "explanation": "求比时单位必须统一。1米=100厘米，比应该是100:175。验算：$100 \\div 175 = 4/7$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "如果 $a:b = c$，那么下面说法正确的是：",
+      "options": [
+        "a是比的前项",
+        "b是比的前项",
+        "c是比的后项",
+        "b是比值"
+      ],
+      "answer": "a是比的前项",
+      "explanation": "比号前面的项叫前项，后面的叫后项，计算结果叫比值。所以a是前项，b是后项，c是比值。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "求 $0.6:0.12$ 的比值，结果是：",
+      "options": [
+        "5",
+        "0.5",
+        "50",
+        "1/5"
+      ],
+      "answer": "5",
+      "explanation": "$0.6 \\div 0.12 = 5$。验算：$5 \\times 0.12 = 0.6$ ✓。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "在 5:8 中，如果前项加上10，要使比值不变，后项应加上：",
+      "options": [
+        "16",
+        "10",
+        "24",
+        "8"
+      ],
+      "answer": "16",
+      "explanation": "前项由5变为15，扩大了3倍。后项8也应扩大3倍变为24。$24 - 8 = 16$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "两个正方形的边长比是 2:3，它们的面积比是：",
+      "options": [
+        "4:9",
+        "2:3",
+        "4:6",
+        "8:27"
+      ],
+      "answer": "4:9",
+      "explanation": "面积比是边长比的平方。$2^2 : 3^2 = 4:9$。验算：设边长为2和3，面积为4和9。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比的意义与比值",
+      "question": "在实验室配汁，药粉与水的质量比是 1:500。现有药粉2克，需加水：",
+      "options": [
+        "1000克",
+        "500克",
+        "250克",
+        "2000克"
+      ],
+      "answer": "1000克",
+      "explanation": "$2 \\times 500 = 1000$（克）。验算：2:1000 = 1:500 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "比的前项是 12，比值是 3，比的后项是 ___。",
+      "options": [],
+      "answer": "4",
+      "explanation": "根据“后项 = 前项 $\\div$ 比值”，$12 \\div 3 = 4$。验算：$12:4 = 3$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的意义与比值",
+      "question": "计算 $84 \\div 12$ 的结果是：",
+      "options": [],
+      "answer": "7",
+      "explanation": "$84 \\div 12 = 7$。验算：$12 \\times 7 = 84$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "比的意义与比值",
+    "core_concept": "两个数相除又叫做两个数的比。比号前面的数叫前项，后面的叫后项。前项除以后项所得的商叫做比值。例如 $3:2 = 3 \\div 2 = 1.5$。",
+    "key_formula": "$a:b = a \\div b = \\frac{a}{b}$ ($b \ne 0$)",
+    "common_mistakes": [
+      "将比的后项写为0（比的后项相当于除数，不能为0）",
+      "将比值与比的化简混淆（比值是一个数，可以是整数、分数、小数；而比必须带比号）"
+    ],
+    "tips": "记忆口诀：比的前项像分子，比的后项像分母，比值就是那个值。"
+  }
+}

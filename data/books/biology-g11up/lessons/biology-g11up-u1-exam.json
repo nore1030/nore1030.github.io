@@ -1,0 +1,66 @@
+{
+  "id": "biology-g11up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g11up",
+  "unitNumber": 1,
+  "unitTitle": "稳态与调节",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "人体的内环境与稳态",
+      "question": "稳态的实质是内环境的（　）",
+      "options": [
+        "成分和理化性质保持相对稳定",
+        "温度永远不变",
+        "pH 恒定为 7",
+        "渗透压不变"
+      ],
+      "answer": "成分和理化性质保持相对稳定",
+      "explanation": "稳态是相对稳定。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "神经与体液调节",
+      "question": "激素调节的特点是（　）",
+      "options": [
+        "通过体液运输，作用较缓慢而范围广",
+        "反应迅速",
+        "作用范围准确",
+        "不需要 receptors"
+      ],
+      "answer": "通过体液运输，作用较缓慢而范围广",
+      "explanation": "体液调节特点。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "人体的内环境与稳态",
+      "question": "细胞内液不属于内环境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "内环境范围。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "神经与体液调节",
+      "question": "下丘脑是体温调节中枢。",
+      "options": [],
+      "answer": "对",
+      "explanation": "下丘脑中枢。"
+    }
+  ],
+  "knowledge": null
+}

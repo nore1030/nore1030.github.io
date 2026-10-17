@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g5up-u8-kp3",
+  "title": "楷书结构特征赏析",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 2,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "楷书结构特征赏析",
+      "question": "欧阳询是唐代著名的书法家，他的楷书作品字形方整、笔力刚劲。",
+      "options": [],
+      "answer": "对",
+      "explanation": "欧阳询的楷书以结构严谨、方整、刚劲有力著称。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "楷书结构特征赏析",
+      "question": "欣赏书法作品时，我们只需要看字写得大不大，不需要关注间架结构。",
+      "options": [],
+      "answer": "错",
+      "explanation": "间架结构（汉字的布局）是赏析楷书美感的关键。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "楷书结构特征赏析",
+      "question": "唐代著名书法家欧阳询的代表作品是？",
+      "options": [
+        "《玄秘塔碑》",
+        "《九成宫醴泉铭》",
+        "《颜氏家庙碑》",
+        "《泰山刻石》"
+      ],
+      "answer": "《九成宫醴泉铭》",
+      "explanation": "《九成宫醴泉铭》是欧阳询楷书的巅峰之作。"
+    }
+  ],
+  "knowledge": {
+    "point": "楷书结构特征赏析",
+    "core_concept": "以唐代欧阳询的楷书为例，学习欣赏书法艺术。欧体楷书的主要特征是‘方整’与‘严谨’，字形虽然端正但笔画走势中带有‘险劲’之感。在审美上，要注意字的间架结构是否匀称，笔画是否刚劲有力。",
+    "key_formula": "字形方整 + 笔力刚劲 + 结构严谨 = 欧体楷书风格",
+    "common_mistakes": [
+      "混淆楷书与草书、行书的结构特点",
+      "认为书法美仅仅是‘写得快’"
+    ],
+    "tips": "观察字贴中每个部件的比例和重心的稳定性。"
+  }
+}

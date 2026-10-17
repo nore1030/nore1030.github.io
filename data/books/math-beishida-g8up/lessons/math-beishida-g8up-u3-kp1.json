@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g8up-u3-kp1",
+  "title": "函数的概念与自变量",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 3,
+  "unitTitle": "一次函数初步",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "函数的概念与自变量",
+      "question": "函数是（　）",
+      "options": [
+        "变量之间的对应关系",
+        "一个固定数值",
+        "一种运算",
+        "一条直线"
+      ],
+      "answer": "变量之间的对应关系",
+      "explanation": "函数定义。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "函数的概念与自变量",
+      "question": "自变量每取一个值，函数值是唯一确定的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "函数定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数的概念与自变量",
+    "core_concept": "在一个变化过程中，如果给定一个自变量的值，就有一个确定的值与它对应，就构成函数。",
+    "key_formula": "x → f(x)",
+    "common_mistakes": [
+      "认为函数值可以不唯一。"
+    ],
+    "tips": "一对一对应。"
+  }
+}

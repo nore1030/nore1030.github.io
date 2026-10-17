@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp8",
+  "title": "古诗意境",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 6,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境",
+      "question": "诗句“葡萄美酒夜光杯，欲饮琵琶马上催”描绘的是什么的场景？",
+      "options": [
+        "家庭聚会",
+        "边境战争",
+        "将士出征前的酒宴",
+        "丰收大丰收"
+      ],
+      "answer": "将士出征前的酒宴",
+      "explanation": "这描绘了边塞战士慷慨豪迈的饮酒场面。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "chinese-g3down-u2-kp7",
+  "title": "通知格式",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "通知格式",
+      "question": "在写通知时，通知的日期应该写在发布人的正下方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通知的落款习惯是先写发布单位或人，下面写日期。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通知格式",
+      "question": "写通知时，标题‘通知’二字应该写在：",
+      "options": [
+        "第一行正中间",
+        "第一行左对齐",
+        "第二行中间",
+        "第一行右对齐"
+      ],
+      "answer": "第一行正中间",
+      "explanation": "标题必须居中书写。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通知格式",
+      "question": "通知正文第一行开头应空___________格。",
+      "options": [],
+      "answer": "两",
+      "explanation": "段落开头空二格。"
+    }
+  ],
+  "knowledge": null
+}

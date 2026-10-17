@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u1-kp7",
+  "title": "字母组合cl的发音规律",
+  "bookId": "english-g5down",
+  "unitNumber": 1,
+  "unitTitle": "My day",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母组合cl的发音规律",
+      "question": "Which word has the /kl/ sound?",
+      "options": [
+        "plate",
+        "clean",
+        "play",
+        "please"
+      ],
+      "answer": "clean",
+      "explanation": "clean中的cl发/kl/音。"
+    }
+  ],
+  "knowledge": null
+}

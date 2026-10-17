@@ -1,0 +1,86 @@
+{
+  "id": "g3up-u6-kp3",
+  "title": "乘数中间或末尾有0的乘法",
+  "bookId": "g3up",
+  "unitNumber": 6,
+  "unitTitle": "多位数乘一位数",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "0 和任何数相乘都得 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据乘法的意义，0个几或几个0相加都是0，所以0和任何数相乘都得0。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$102 \times 3$ 的积的中间一定有一个 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$102 \times 3 = 306$，虽然中间有0，但如果是个位进位如 $106 \times 3 = 318$，中间就没有0了。本题仅就 102x3 而言是对的，但作为命题逻辑需注意进位。此题计算 $102 \times 3 = 306$ 确实有0，命题表述为具体的算式则为真。但 102x3=306 正确。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$504 \times 2$ 的结果是多少？",
+      "options": [
+        "1008",
+        "108",
+        "1080",
+        "1000"
+      ],
+      "answer": "1008",
+      "explanation": "$500 \times 2 = 1000$，$4 \times 2 = 8$，$1000 + 8 = 1008$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$250 \times 4$ 的积的末尾有几个 0？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "3 个",
+      "explanation": "$25 \times 4 = 100$，再在后面加原有的一个0，得1000，共3个0。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$106 \times 5 = ?$",
+      "options": [],
+      "answer": "530",
+      "explanation": "$100 \times 5 = 500$，$6 \times 5 = 30$，$500 + 30 = 530$。验算：$530 \text{  } / \text{  } 5 = 106$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘数中间或末尾有0的乘法",
+    "core_concept": "0乘任何数都得0。中间有0的乘法，如果个位不进位，十位积就是0；如果进位则积是进位数。末尾有0可以先算0前面的数，再补0。",
+    "key_formula": "$0 \times n = 0$ 或 $n \times 0 = 0$",
+    "common_mistakes": [
+      "看到因数中间有0，漏算这一位，直接跳过",
+      "把 $0 \times 5$ 算成了 5"
+    ],
+    "tips": "即使某位是0也要按顺序相乘，并注意是否有低位传上来的进位。"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "chinese-g2down-u8-kp2",
+  "title": "五行偏旁的汉字归类与识记",
+  "bookId": "chinese-g2down",
+  "unitNumber": 8,
+  "unitTitle": "世界之初",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“钩”这个字带有金字旁，所以它通常和金属工具有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "金字旁的字多与金属或金属工具、动作有关。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“源”字的偏旁是三点水，它的意思和水有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三点水的字意义大多与水或液体直接相关。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“灿、烂、烘”这三个字都是火字旁，表达意思都和火相关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "火字旁的字大多表示光亮、温度或火焰。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "下列词语中，哪一组汉字的偏旁全部属于“土”部？",
+      "options": [
+        "填、堆、塔",
+        "江、河、湖",
+        "柳、树、桩",
+        "钢、铁、铝"
+      ],
+      "answer": "填、堆、塔",
+      "explanation": "“填、堆、塔”左侧皆为提土旁。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“梅、兰、竹、菊”被称为四君子，这些字中属于“木”字旁的是？",
+      "options": [
+        "梅",
+        "兰",
+        "竹",
+        "菊"
+      ],
+      "answer": "梅",
+      "explanation": "“梅”字左侧是木字旁，表示木本植物。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“炬”字的意思最可能与什么有关？",
+      "options": [
+        "金属",
+        "土地",
+        "水流",
+        "火光"
+      ],
+      "answer": "火光",
+      "explanation": "“炬”是火字旁，本义是火把。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“松、柏、桃、柳”这些汉字共同的部首是（   ）。",
+      "options": [],
+      "answer": "木",
+      "explanation": "这些都是树木的名字，故带木字旁。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "“洗、澡、海洋”这些字都和水有关，它们的部首是（   ）。",
+      "options": [],
+      "answer": "氵",
+      "explanation": "考察三点水部首的归类。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "五行偏旁的汉字归类与识记",
+      "question": "请将生字与对应的偏旁含义进行配对。",
+      "options": [
+        "钩",
+        "澡",
+        "堆",
+        "烤",
+        "火的作用",
+        "金的作用",
+        "水的作用",
+        "土的作用"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "钩-金；澡-水；堆-土；烤-火。"
+    }
+  ],
+  "knowledge": {
+    "point": "五行偏旁的汉字归类与识记",
+    "core_concept": "汉字的偏旁往往代表了字的意思。“金木水火土”统称为五行。金字旁多与金属工具相关；木字旁多与植物相关；水字旁多与液体、洗漱相关；火字旁多与光、热相关；土字旁多与建筑、大地相关。",
+    "key_formula": "部首 + 含义 = 字族归类法",
+    "common_mistakes": [
+      "将‘氵’误认为是‘冫’",
+      "混淆‘木’字旁与‘禾’字旁在汉字定义中的细微区别"
+    ],
+    "tips": "可以做一个五个转盘的游戏，每个转盘代表一种五行偏旁，看谁匹配的关联词语多。"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "g9up-u1-kp1",
+  "title": "一元二次方程的概念与解法",
+  "bookId": "g9up",
+  "unitNumber": 1,
+  "unitTitle": "一元二次方程",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一元二次方程的概念与解法",
+      "question": "下列是一元二次方程的是（　）",
+      "options": [
+        "$x^2+2x=0$",
+        "$x+y=1$",
+        "$\\frac1x=2$",
+        "$x^3=1$"
+      ],
+      "answer": "$x^2+2x=0$",
+      "explanation": "只含一个未知数且最高次为 2。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "一元二次方程的概念与解法",
+      "question": "解方程 $x^2 − 3x + 2=0$，较大的根是？",
+      "options": [],
+      "answer": "2",
+      "explanation": "因式分解得 $(x−1)(x−2)=0$，两根为 1、2，较大根为 2。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "一元二次方程的概念与解法",
+      "question": "解方程 $x^2 − 2x − 15=0$，较大的根是？",
+      "options": [],
+      "answer": "5",
+      "explanation": "因式分解得 $(x+3)(x−5)=0$，两根为 -3、5，较大根为 5。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一元二次方程的概念与解法",
+      "question": "用因式分解法解方程时，若 $ab=0$ 则 $a=0$ 或 $b=0$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "零积性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "一元二次方程的概念与解法",
+    "core_concept": "只含一个未知数且最高次数为 2 的整式方程是一元二次方程。求根公式 $x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$。",
+    "key_formula": "$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$",
+    "common_mistakes": [
+      "公式中漏写分母 $2a$。"
+    ],
+    "tips": "先化为一般形式再定 $a,b,c$。"
+  }
+}

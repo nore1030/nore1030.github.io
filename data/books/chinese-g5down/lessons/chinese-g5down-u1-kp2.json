@@ -1,0 +1,63 @@
+{
+  "id": "chinese-g5down-u1-kp2",
+  "title": "借物/事抒情的方法",
+  "bookId": "chinese-g5down",
+  "unitNumber": 1,
+  "unitTitle": "童年往事",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "萧红在《祖父的园子》中描写倭瓜爬上架、黄瓜开花，是为了衬托‘我’的自由。",
+      "options": [],
+      "answer": "对",
+      "explanation": "作者将自己的自由感寄托在园内的植物身上，实现借物抒情。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "萧红用‘凡是在太阳下的，都是（___）的’来形容祖父的园子。",
+      "options": [],
+      "answer": "健康",
+      "explanation": "这是课文《祖父的园子》中的原词，体现了园子的生机。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "请将文中描写的植物与其代表的内涵进行匹配。",
+      "options": [
+        "故乡的芦苇丛",
+        "梅花",
+        "倭瓜",
+        "故乡的月亮",
+        "民族气节",
+        "童年的快乐",
+        "自由自在",
+        "思乡之情"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "芦苇丛对应童年快乐，梅花对应民族气节，倭瓜对应自由，月亮对应思乡。"
+    }
+  ],
+  "knowledge": {
+    "point": "借物/事抒情的方法",
+    "core_concept": "通过对园子里的动植物（如倭瓜、黄瓜、蝴蝶）或具体事件（外祖父教读古诗、整理梅花图）的描写，将抽象的思想感情具体化。景物描写不再是客观呈现，而是被打上了作者情感的烙印。",
+    "key_formula": "物/事 + 人心 = 请感外化",
+    "common_mistakes": [
+      "写客观景物太多，忘记点明主观感受。",
+      "选取的事件太琐碎，不能支撑核心情感的表达。"
+    ],
+    "tips": "当心情快乐时，笔下的花草仿佛也在笑；当心情忧郁时，月色也显得凄清。这就是借物抒情的秘密。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u5-kp7",
+  "title": "观察方法",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "观察方法",
+      "question": "《金色的草地》一文中，草地颜色的变化是因为蒲公英的花瓣会张开和合拢。",
+      "options": [],
+      "answer": "对",
+      "explanation": "清晨和傍晚花瓣合拢是绿色，中午花瓣张开是金色。"
+    }
+  ],
+  "knowledge": null
+}

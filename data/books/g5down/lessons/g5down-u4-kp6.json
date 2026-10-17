@@ -1,0 +1,75 @@
+{
+  "id": "g5down-u4-kp6",
+  "title": "通分与最小公倍数",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "通分时，分数的值变大了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "通分是根据分数的基本性质，将异分母分数化成大小相等的同分母分数，分数的大小保持不变。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "比较 7/12 和 5/8 的大小，结果是：",
+      "options": [
+        ">",
+        "<",
+        " =",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "通分：12和8的最小公倍数是24。$7/12 = 14/24$，$5/8 = 15/24$。因为 $14/24 < 15/24$，所以 $7/12 < 5/8$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "两个数的公倍数有：",
+      "options": [
+        "1个",
+        "2个",
+        "有限个",
+        "无限个"
+      ],
+      "answer": "无限个",
+      "explanation": "两个数的公倍数是在最小公倍数的基础上不断乘 2, 3, 4... 得到的，所以有无限多个。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "通分与最小公倍数",
+      "question": "已知两路公共汽车，3 路车每 6 分钟发一次车，5 路车每 8 分钟发一次车。它们同时出发后，下一次同时发车至少要过 ___ 分钟。",
+      "options": [],
+      "answer": "24",
+      "explanation": "求 6 和 8 的最小公倍数。$6 = 2 \\times 3$，$8 = 2 \\times 2 \\times 2$。最小公倍数是 $2 \\times 2 \\times 2 \\times 3 = 24$。验算：$24 \\div 6 = 4$, $24 \\div 8 = 3$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "通分与最小公倍数",
+    "core_concept": "两个数公有的倍数叫公倍数，其中最小的一个叫最小公倍数。把异分母分数分别化成和原来分数相等的同分母分数，叫做通分。通常取分母的最小公倍数作为公分母。",
+    "key_formula": "通分：找分母的最小公倍数 $\\rightarrow$ 利用基本性质转化",
+    "common_mistakes": [
+      "通分时只把分母变了，分子忘了根据扩大倍数进行计算",
+      "求最小公倍数时与最大公因数的计算方法弄混"
+    ],
+    "tips": "通分主要用于比较大小和异分母分数加减法。"
+  }
+}

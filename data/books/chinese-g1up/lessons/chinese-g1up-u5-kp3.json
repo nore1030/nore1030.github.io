@@ -1,0 +1,201 @@
+{
+  "id": "chinese-g1up-u5-kp3",
+  "title": "叠词（ABB/AAB）的积累应用",
+  "bookId": "chinese-g1up",
+  "unitNumber": 5,
+  "unitTitle": "课文（一）：感受自然与生活",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“蓝蓝的天”中“蓝蓝”是表示颜色的叠词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“蓝蓝”是由“蓝”字相叠形成的叠词，用来形容天空的颜色。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“闪闪的星星”中“闪闪”描写的是星星的样子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“闪闪”是重叠词语，生动地形容星星发光的样子。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "下列哪一项叠词搭配是错误的？",
+      "options": [
+        "弯弯的月儿",
+        "小小的船",
+        "红红的草",
+        "尖尖的草芽"
+      ],
+      "answer": "红红的草",
+      "explanation": "草通常是绿色的，说“红红的草”不符合常识。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "形容“苹果”的颜色，最合适的叠词是？",
+      "options": [
+        "白白的",
+        "红红的",
+        "青青的",
+        "黑黑的"
+      ],
+      "answer": "红红的",
+      "explanation": "熟透的苹果通常是红红的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“弯弯的月儿像（  ）。”横线上填入哪个最合适？",
+      "options": [
+        "小马",
+        "小船",
+        "脸蛋",
+        "火球"
+      ],
+      "answer": "小船",
+      "explanation": "课文《小小的船》中将弯弯的月儿比作小小的船。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“草芽尖尖”是在描写哪个季节？",
+      "options": [
+        "春天",
+        "夏天",
+        "秋天",
+        "冬天"
+      ],
+      "answer": "春天",
+      "explanation": "《四季》第1小节写到“草芽尖尖，他对小鸟说：‘我是春天。’”"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "《小小的船》中，（      ）的星星亮晶晶。",
+      "options": [],
+      "answer": "闪闪",
+      "explanation": "课文原句是“只看见闪闪的星星蓝蓝的天”。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "《四季》中，（      ）的肚子圆滚滚。",
+      "options": [],
+      "answer": "雪人",
+      "explanation": "课文原文“雪人大肚子一挺，他顽皮地说：‘我就是冬天。’”此处考查特征描述。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "请将事物与对应的修饰词连线。",
+      "options": [
+        "弯弯的",
+        "蓝蓝的",
+        "闪闪的",
+        "小小的",
+        "天空",
+        "月儿",
+        "船儿",
+        "星星"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考查课文《小小的船》中的固定搭配：弯弯的月儿、蓝蓝的天空、闪闪的星星、小小的船儿。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "根据《四季》课文，将植物与对应的状态连线。",
+      "options": [
+        "草芽",
+        "荷叶",
+        "谷穗",
+        "雪人",
+        "圆圆",
+        "弯弯",
+        "尖尖",
+        "顽皮"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "草芽尖尖、荷叶圆圆、谷穗弯弯、雪人顽皮。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "连词成句：",
+      "options": [
+        "弯弯的",
+        "像",
+        "月儿",
+        "小船"
+      ],
+      "answer": "弯弯的,月儿,像,小船",
+      "explanation": "这是一个比喻句，描述月亮的形状。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "连词成句：",
+      "options": [
+        "看见",
+        "我",
+        "蓝蓝的",
+        "天空"
+      ],
+      "answer": "我,看见,蓝蓝的,天空",
+      "explanation": "按照“谁+干什么+什么样的事物”的顺序排列句子。"
+    }
+  ],
+  "knowledge": {
+    "point": "叠词（ABB/AAB）的积累应用",
+    "core_concept": "叠词是指通过词语重叠来增强表达效果的词汇。在一年级课文中，如“弯弯的、蓝蓝的、闪闪的”，这些叠词增加了语言的韵律感，使描写的事物更加生动形象。学生应掌握叠词与名词的合理搭配。",
+    "key_formula": "特征重叠字 + 的 + 名词",
+    "common_mistakes": [
+      "搭配不当，如“圆圆的草芽”",
+      "将“弯弯”写成“弯”"
+    ],
+    "tips": "结合课文画面记忆，比如看见月亮就想“弯弯”，看见星星就想“闪闪”。"
+  }
+}

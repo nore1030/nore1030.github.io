@@ -1,0 +1,61 @@
+{
+  "id": "math-beishida-g1up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 3,
+  "unitTitle": "加与减（一）",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "减法的意义",
+      "question": "原来有 5 个苹果，吃了 2 个，求还剩几个，用（　）",
+      "options": [
+        "减法",
+        "加法",
+        "乘法",
+        "无法确定"
+      ],
+      "answer": "减法",
+      "explanation": "去掉一部分用减法。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "加法的意义",
+      "question": "3 和 2 合起来是几？",
+      "options": [],
+      "answer": "5",
+      "explanation": "3 + 2 = 5。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "加法的意义",
+      "question": "把两部分合起来用加法计算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加法意义。"
+    },
+    {
+      "id": 11,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "减法的意义",
+      "question": "从 5 里面去掉 3，还剩几？",
+      "options": [],
+      "answer": "2",
+      "explanation": "5 − 3 = 2。"
+    }
+  ],
+  "knowledge": null
+}

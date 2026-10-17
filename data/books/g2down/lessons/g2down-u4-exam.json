@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 4,
+  "unitTitle": "表内除法（二）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "求 35 里面有几个 7，列式是 $35 \bdiv 5 = 7$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "求 35 里面有几个 7，应该除以 7，列式为 $35 \bdiv 7 = 5$。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$1 \times 1$ 的商和 $1 \bdiv 1$ 的积相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$1 \times 1 = 1$，$1 \bdiv 1 = 1$。结果相等。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "二（1）班有 32 人参加拔河比赛，每 8 人一组，可以分成 4 组。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$32 \bdiv 8 = 4$（组）。口诀：四八三十二。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "从 48 里连续减去 8，减 6 次后差是 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "连续减去相同的数可以用除法计算，$48 \bdiv 8 = 6$（次）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘除法综合应用",
+      "question": "56 个同学去郊游，每 7 人一辆面包车，需要租几辆车？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": "8",
+      "explanation": "$56 \bdiv 7 = 8$（辆）。口诀：七八五十六。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "有 32 个苹果，最少拿走几个后，就可以平均分给 9 个小朋友？",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "找比 32 小且是 9 的倍数的数：$9 \times 3 = 27$。$32 - 27 = 5$（个）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "买一个羽毛球 3 元，买一个乒乓球 2 元。用 18 元钱全买乒乓球，能买几个？",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "10"
+      ],
+      "answer": "9",
+      "explanation": "$18 \bdiv 2 = 9$（个）。与羽毛球价格无关。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "一个除法算式中，如果除数是 9，商也是 9，被除数是多少？",
+      "options": [
+        "1",
+        "18",
+        "81",
+        "90"
+      ],
+      "answer": "81",
+      "explanation": "被除数 $=$ 除数 $\times$ 商。$9 \times 9 = 81$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘除法综合应用",
+      "question": "二（2）班有 40 个同学，其中男生 22 人，女生平均分成 3 组，每组几人？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "女生人数：$40 - 22 = 18$（人）。每组人数：$18 \bdiv 3 = 6$（人）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "小明计算一个数除以 7 时，把除号看成了乘号，结果是 49。正确的结果应该是几？",
+      "options": [
+        "7",
+        "1",
+        "49",
+        "14"
+      ],
+      "answer": "1",
+      "explanation": "原来的数是 $49 \bdiv 7 = 7$。正确计算：$7 \bdiv 7 = 1$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "下列算式中商不是 9 的是哪个？",
+      "options": [
+        "27 \bdiv 3",
+        "72 \bdiv 8",
+        "54 \bdiv 6",
+        "45 \bdiv 9"
+      ],
+      "answer": "45 \bdiv 9",
+      "explanation": "A=9, B=9, C=9, D=5。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "一支钢笔 9 元，一个笔记本 6 元。买 2 支钢笔的钱可以买几个笔记本？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "2 支钢笔钱：$9 \times 2 = 18$（元）。笔记本数量：$18 \bdiv 6 = 3$（个）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "一根长 35 米的绳子，每 5 米剪成一段，可以剪成 ___ 段。",
+      "options": [],
+      "answer": "7",
+      "explanation": "列式：$35 \bdiv 5 = 7$。验算：$7 \times 5 = 35$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "小华有 48 元，买 8 元一个的陀螺，能买 ___ 个。",
+      "options": [],
+      "answer": "6",
+      "explanation": "列式：$48 \bdiv 8 = 6$。验算：$6 \times 8 = 48$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$56 \bdiv 8 = ?$",
+      "options": [],
+      "answer": "7",
+      "explanation": "$56 \bdiv 8 = 7$。验算：$7 \times 8 = 56$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

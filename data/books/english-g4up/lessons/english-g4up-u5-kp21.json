@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp21",
+  "title": "冠词/名词",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 17,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "冠词/名词",
+      "question": "Please pass me ___ (一个) fork.",
+      "options": [],
+      "answer": "a",
+      "explanation": "fork是辅音音素开头，用不定冠词a。"
+    }
+  ],
+  "knowledge": null
+}

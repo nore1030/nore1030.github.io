@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9up-u1-kp1",
+  "title": "分子热运动与内能",
+  "bookId": "physics-g9up",
+  "unitNumber": 1,
+  "unitTitle": "内能",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分子热运动与内能",
+      "question": "下列现象说明分子在不停运动的是（　）",
+      "options": [
+        "尘土飞扬",
+        "花香四溢",
+        "落叶飘零",
+        "雪花飞舞"
+      ],
+      "answer": "花香四溢",
+      "explanation": "扩散现象说明分子运动。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分子热运动与内能",
+      "question": "温度越高，分子的无规则运动越剧烈。",
+      "options": [],
+      "answer": "对",
+      "explanation": "热运动规律。"
+    }
+  ],
+  "knowledge": {
+    "point": "分子热运动与内能",
+    "core_concept": "物质由分子构成，分子永不停息做无规则运动（热运动），温度越高运动越剧烈。内能是物体内所有分子动能与势能之和。",
+    "key_formula": "温度升高 ⇒ 内能增大",
+    "common_mistakes": [
+      "认为 0℃ 的物体没有内能。"
+    ],
+    "tips": "任何物体都有内能。"
+  }
+}

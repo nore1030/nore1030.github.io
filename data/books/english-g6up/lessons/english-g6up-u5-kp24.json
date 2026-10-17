@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u5-kp24",
+  "title": "职业与工作内容匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 20,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业与工作内容匹配",
+      "question": "将下列短语与其意思匹配。",
+      "options": [
+        "be good at",
+        "police officer",
+        "head teacher",
+        "post office",
+        "校长",
+        "邮局",
+        "擅长",
+        "警察"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "A.be good at-擅长; B.police officer-警察; C.head teacher-校长; D.post office-邮局。"
+    }
+  ],
+  "knowledge": null
+}

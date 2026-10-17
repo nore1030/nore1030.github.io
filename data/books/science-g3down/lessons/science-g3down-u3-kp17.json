@@ -1,0 +1,28 @@
+{
+  "id": "science-g3down-u3-kp17",
+  "title": "水资源",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 11,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水资源",
+      "question": "地球上的水主要以（）的形式存在。",
+      "options": [
+        "陆地水",
+        "海洋水",
+        "淡水",
+        "雨水"
+      ],
+      "answer": "海洋水",
+      "explanation": "海水占据了地球上总水量的绝大部分。"
+    }
+  ],
+  "knowledge": null
+}

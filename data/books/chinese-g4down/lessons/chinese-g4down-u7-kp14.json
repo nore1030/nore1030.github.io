@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp14",
+  "title": "人物形象评价",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物形象评价",
+      "question": "在《黄继光》一文中，最能体现黄继光英雄气概的行为是：",
+      "options": [
+        "向连长请战",
+        "在敌人的炮火中爬行",
+        "用胸膛堵住敌人的枪口",
+        "执行通信任务"
+      ],
+      "answer": "用胸膛堵住敌人的枪口",
+      "explanation": "堵枪口是黄继光舍己为人牺牲自我的英雄行为最核心的表现。"
+    }
+  ],
+  "knowledge": null
+}

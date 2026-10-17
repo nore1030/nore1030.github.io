@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp10",
+  "title": "动物习性归类",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物习性归类",
+      "question": "下列词语中，哪一个不属于“在陆地上生活”的动物？",
+      "options": [
+        "狗熊",
+        "骆驼",
+        "海鸥",
+        "老虎"
+      ],
+      "answer": "海鸥",
+      "explanation": "海鸥是鸟类，主要在海滨活动，不属于典型的陆生哺乳动物。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp16",
+  "title": "语言表达简明",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语言表达简明",
+      "question": "在自我介绍时，以下哪种开头最能快速吸引老师和同学？",
+      "options": [
+        "我叫王小明，今年十岁了。",
+        "我家里有三口人，性格开朗。",
+        "嘿！我就是那个‘书呆子’王小明。",
+        "我的爱好有很多，比如看书。"
+      ],
+      "answer": "嘿！我就是那个‘书呆子’王小明。",
+      "explanation": "以此有趣的绰号开头能迅速建立鲜明的人物形象。"
+    }
+  ],
+  "knowledge": null
+}

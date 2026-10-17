@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp21",
+  "title": "成本控制",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 15,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "成本控制",
+      "question": "在模拟造船工程中，如果多用一张铝箔纸会增加什么？",
+      "options": [
+        "美观度",
+        "制作成本",
+        "推进速度",
+        "航行方向"
+      ],
+      "answer": "制作成本",
+      "explanation": "工程思维要求在满足性能的情况下最小化资源投入和成本。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9down-u2-kp2",
+  "title": "职业与人生选择",
+  "bookId": "moral-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与个人选择",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "职业与人生选择",
+      "question": "关于职业，正确的认识是（　）",
+      "options": [
+        "职业没有高低贵贱之分",
+        "只有当官才有前途",
+        "体力劳动没有价值",
+        "职业选择决定人生全部"
+      ],
+      "answer": "职业没有高低贵贱之分",
+      "explanation": "职业平等。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "职业与人生选择",
+      "question": "踏实劳动才能创造美好生活。",
+      "options": [],
+      "answer": "对",
+      "explanation": "劳动创造价值。"
+    }
+  ],
+  "knowledge": {
+    "point": "职业与人生选择",
+    "core_concept": "职业不分高低贵贱，都是社会需要的岗位。择业要看社会需要与个人条件，踏实劳动创造美好生活。",
+    "key_formula": "劳动创造价值",
+    "common_mistakes": [
+      "把职业分出高低贵贱。"
+    ],
+    "tips": "劳动最光荣。"
+  }
+}

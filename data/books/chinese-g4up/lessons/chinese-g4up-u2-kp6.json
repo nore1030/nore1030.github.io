@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u2-kp6",
+  "title": "标点符号选择",
+  "bookId": "chinese-g4up",
+  "unitNumber": 2,
+  "unitTitle": "提问策略",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号选择",
+      "question": "“它是那么机灵（  ）又是那么温柔（  ）”括号里应填入：",
+      "options": [
+        "， 。",
+        "。 。",
+        "！ ！",
+        "， ？"
+      ],
+      "answer": "， 。",
+      "explanation": "并列成分中间逗号，陈述句末尾句号。"
+    }
+  ],
+  "knowledge": null
+}

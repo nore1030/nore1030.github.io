@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3down-u2-kp2",
+  "title": "形容词描述",
+  "bookId": "english-hujiao-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 我的家人 / My family",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词描述",
+      "question": "My father is very ___",
+      "options": [
+        "tall",
+        "talls",
+        "talling",
+        "tallly"
+      ],
+      "answer": "tall",
+      "explanation": "形容词原形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "形容词描述",
+      "question": "形容词作表语要放在 be 动词之后。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表语位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "形容词描述",
+    "core_concept": "常用形容词：big, small, tall, short, young, old, happy。用 He/She is… 或 He/She has… 描述。",
+    "key_formula": "He is tall. She has long hair.",
+    "common_mistakes": [
+      "形容词位置放错。"
+    ],
+    "tips": "表语放 be 后。"
+  }
+}

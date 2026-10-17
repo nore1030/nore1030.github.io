@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4up-u4-kp8",
+  "title": "句式转换正误判断",
+  "bookId": "chinese-g4up",
+  "unitNumber": 4,
+  "unitTitle": "神话故事",
+  "kpIndex": 7,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式转换正误判断",
+      "question": "将下列词语排列成一句赞美盘古的话：",
+      "options": [
+        "伟大的",
+        "盘古",
+        "巨人",
+        "创造了",
+        "宇宙"
+      ],
+      "answer": "伟大的,巨人,盘古,创造了,宇宙",
+      "explanation": "主谓宾句式：巨人盘古创造了宇宙。"
+    }
+  ],
+  "knowledge": null
+}

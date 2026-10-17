@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp21",
+  "title": "隐蔽连接",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "隐蔽连接",
+      "question": "一个具有4个接线柱的接线盒，最多可以产生（ ）组不同的检测组合。",
+      "options": [],
+      "answer": "6",
+      "explanation": "组合数学：1-2, 1-3, 1-4, 2-3, 2-4, 3-4 共6组。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp5",
+  "title": "词语释义",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "“亡羊补牢”中的“亡”是指死亡的意思。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“亡”在这里是丢失的意思。"
+    }
+  ],
+  "knowledge": null
+}

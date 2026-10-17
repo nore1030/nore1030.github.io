@@ -1,0 +1,80 @@
+{
+  "id": "g3down-u7-kp2",
+  "title": "小数的大小比较",
+  "bookId": "g3down",
+  "unitNumber": 7,
+  "unitTitle": "小数的初步认识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的大小比较",
+      "question": "0.7 比 0.9 小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比较一位小数：整数部分都是 0，十分位 7 小于 9，所以 0.7 < 0.9。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数的大小比较",
+      "question": "在 0.5、0.3、1.1 中，最大的数是（ ）。",
+      "options": [
+        "0.5",
+        "0.3",
+        "1.1",
+        "无法判断"
+      ],
+      "answer": "1.1",
+      "explanation": "先看整数部分，1.1 的整数部分是 1，其余两数是 0，1 > 0，所以 1.1 最大。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数的大小比较",
+      "question": "0.6 米（ ）0.5 米。",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "整数部分相同，十分位 6 大于 5，所以 0.6 > 0.5。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数的大小比较",
+      "question": "在跳远比赛中，小强跳了 3.2 米，小刚跳了 2.8 米，谁跳得远？",
+      "options": [
+        "小强",
+        "小刚",
+        "一样远",
+        "无法确定"
+      ],
+      "answer": "小强",
+      "explanation": "比较 3.2 和 2.8，整数部分 3 > 2，所以 3.2 > 2.8。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数的大小比较",
+    "core_concept": "比较小数大小，先看它们的整数部分，整数部分大的那个数就大；如果整数部分相同，再看十分位上的数，十分位上的数大的那个数就大。",
+    "key_formula": "\\text{先比整数部分，再比十分位}",
+    "common_mistakes": [
+      "受整数大小比较影响，认为数位多的小数就大（如误认为 0.12 > 0.8）",
+      "比较时忽略小数点的位置"
+    ],
+    "tips": "比较时可以把小数转换成元角分来理解，比如 0.9 元是 9 角，1.1 元是 11 角，这样更直观。"
+  }
+}

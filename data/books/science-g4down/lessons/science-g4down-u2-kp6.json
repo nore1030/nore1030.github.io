@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp6",
+  "title": "闭合电路的形成",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 1,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "闭合电路的形成",
+      "question": "导线直接连接电池的两端会导致电池发热发烫甚至损坏。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这种连接方式叫短路，会导致电流过大从而损坏电池。"
+    }
+  ],
+  "knowledge": null
+}

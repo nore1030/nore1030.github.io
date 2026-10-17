@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp9",
+  "title": "Third person singular",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 5,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Third person singular",
+      "question": "He ________ in Australia.",
+      "options": [
+        "live",
+        "lives",
+        "living",
+        "is live"
+      ],
+      "answer": "lives",
+      "explanation": "主语是 He，动词 live 要用三单形式 lives。"
+    }
+  ],
+  "knowledge": null
+}

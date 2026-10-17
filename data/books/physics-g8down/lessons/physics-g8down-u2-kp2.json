@@ -1,0 +1,42 @@
+{
+  "id": "physics-g8down-u2-kp2",
+  "title": "液体的压强",
+  "bookId": "physics-g8down",
+  "unitNumber": 2,
+  "unitTitle": "压强与浮力",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "液体的压强",
+      "question": "水深 5 m 处水的压强是多少 Pa？（水密度 $1.0\\times10^3\\ \\text{kg/m}^3$，$g$ 取 10 N/kg）",
+      "options": [],
+      "answer": "50000",
+      "explanation": "$p=\\rho gh=1000\\times10\\times5=50000$ Pa。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "液体的压强",
+      "question": "液体压强只与液体密度和深度有关，与容器形状无关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "液体压强规律。"
+    }
+  ],
+  "knowledge": {
+    "point": "液体的压强",
+    "core_concept": "液体内部向各个方向都有压强，压强随深度增加而增大；同一深度处各方向压强相等。",
+    "key_formula": "$p=\\rho gh$",
+    "common_mistakes": [
+      "把 $h$ 当成容器高度。"
+    ],
+    "tips": "$h$ 是液面到该点的竖直深度。"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 School 校园与物品",
+      "knowledge_points": [
+        {
+          "name": "学习用品",
+          "description": "掌握常见学习用品的英文。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "颜色与文具搭配",
+          "description": "用颜色词描述物品。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-beishida-g3down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 Family 家庭与身体",
+      "knowledge_points": [
+        {
+          "name": "家庭成员",
+          "description": "掌握家庭成员的英文。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "身体部位",
+          "description": "掌握常见身体部位英文。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-beishida-g3down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-beishida-g3down",
+  "grade": 3,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-beishida-g3down-u1-kp1",
+      "title": "学习用品",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 School 校园与物品",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g3down-u1-kp2",
+      "title": "颜色与文具搭配",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 School 校园与物品",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g3down-u2-kp1",
+      "title": "家庭成员",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 Family 家庭与身体",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g3down-u2-kp2",
+      "title": "身体部位",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 Family 家庭与身体",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "chinese-g6up-u1-kp3",
+  "title": "排比修辞与分号用法",
+  "bookId": "chinese-g6up",
+  "unitNumber": 1,
+  "unitTitle": "从所读的内容想开去",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "“我是亲友之间交往的礼品，我是婚礼上的冠冕，我是生者赠与死者的最后的祭献。”这句话运用了排比的修辞方法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "句中出现了三个结构相同（我是...）、语气一致的短句排列在一起，符合排比的定义。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "在并列关系的分句之间，如果没有逗号，则不能使用分号。",
+      "options": [],
+      "answer": "错",
+      "explanation": "分号用于层级在逗号之上的并列关系，若并列分句内部已经用了逗号，则分句间必须用分号；若没用逗号，一般用逗号，但有时为了强调关联也可用分号。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "下列词语中，加点字读音完全正确的一组是？",
+      "options": [
+        "渲染（xuàn） 迂回（yū）",
+        "参差（cān） 蒙古（měng）",
+        "拘束（sù） 襟飘带舞（jīn）",
+        "羞涩（shè） 豆腐（fu）"
+      ],
+      "answer": "渲染（xuàn） 迂回（yū）",
+      "explanation": "B项参差应读cēn cī；C项拘束应读shù；D项羞涩应读sè。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "“每一朵盛开的花就像是一个小小的张满了的帆”运用了什么修辞？",
+      "options": [
+        "排比",
+        "拟人",
+        "比喻",
+        "夸张"
+      ],
+      "answer": "比喻",
+      "explanation": "把“盛开的花”比作“张满了的帆”，中间有本体、喻词和喻体。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "下列句子中分号使用正确的一项是？",
+      "options": [
+        "燕子去了，有再来的时候；杨柳枯了，有再青的时候。",
+        "我喜欢红色；因为红色热烈。",
+        "他今天没来；可能是生病了。",
+        "我们要努力学习；天天向上。"
+      ],
+      "answer": "燕子去了，有再来的时候；杨柳枯了，有再青的时候。",
+      "explanation": "A项是典型的两个并列分句，使用分号正确。其余选项分句间没有并列关系或结构不完整。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "“这种境界，既使人惊叹，又叫人舒服……”这句话中“惊叹”的原因是？",
+      "options": [
+        "草原太辽阔了",
+        "草原景色美得超乎想象",
+        "小丘的线条太生硬",
+        "在那儿可以骑马"
+      ],
+      "answer": "草原景色美得超乎想象",
+      "explanation": "惊叹于草原的千里碧透、翠色欲流，这种极致的自然美让人震撼。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "根据课文内容，“那些小丘的线条是那么柔美，就像只用绿色（___），不用墨线勾勒的中国画那样。”",
+      "options": [],
+      "answer": "渲染",
+      "explanation": "考查课文核心动词，“渲染”一词写出了草原色彩流动的特点。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "请将下列词语与其正确的读音连接起来。",
+      "options": [
+        "勾勒",
+        "迂回",
+        "宅院",
+        "参差",
+        "zhái yuàn",
+        "cēn cī",
+        "gōu lè",
+        "yū huí"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "考查生字读音。勾勒(gōu lè)，迂回(yū huí)，宅院(zhái yuàn)，参差(cēn cī)。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "排比修辞与分号用法",
+      "question": "请将下列词语组成描写草原的句子。",
+      "options": [
+        "到处",
+        "翠色欲流",
+        "轻轻流入",
+        "云际",
+        "而"
+      ],
+      "answer": "到处,翠色欲流,而,轻轻流入,云际",
+      "explanation": "出自《草原》名句，描写绿色的流动感。"
+    }
+  ],
+  "knowledge": {
+    "point": "排比修辞与分号用法",
+    "core_concept": "排比是通过三个或三个以上结构相似的句子表达强烈情感；分号则用在并列分句之间，表示比逗号更长、比句号更短的停顿，常用于列举不同的侧面。",
+    "key_formula": "排比：A……，A……，A……。分号：分句1；分句2。",
+    "common_mistakes": [
+      "在只有两项并列时也强行说是排比",
+      "在分句内部没有逗号的情况下乱用分号"
+    ],
+    "tips": "如果几个句子开头长得差不多，就是在排比；如果一个长句子分了好几段在讲不同的道理，分句间就用多用分号。"
+  }
+}

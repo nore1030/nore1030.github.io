@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u2-kp5",
+  "title": "交通信号含义",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 1,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "交通信号含义",
+      "question": "红色信号灯代表停止，英文是 'Stop and wait'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Red light means stop and wait."
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp13",
+  "title": "询问地点",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 9,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问地点",
+      "question": "— ______ does he work? — He works in a gym.",
+      "options": [
+        "What",
+        "How",
+        "Where",
+        "Who"
+      ],
+      "answer": "Where",
+      "explanation": "对地点提问用疑问词Where。"
+    }
+  ],
+  "knowledge": null
+}

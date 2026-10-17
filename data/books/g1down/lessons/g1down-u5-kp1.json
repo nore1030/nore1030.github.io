@@ -1,0 +1,134 @@
+{
+  "id": "g1down-u5-kp1",
+  "title": "面值的识别与单位进率",
+  "bookId": "g1down",
+  "unitNumber": 5,
+  "unitTitle": "认识人民币",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "人民币的单位有元、角、分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人民币的法定单位确实是元、角、分。✓"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "1张10元可以换10张1元。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为10个1元是10元，所以10元可以换10张1元。✓"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "一张20元可以换两张10元。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$10 + 10 = 20$，所以可以换两张。✓"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "1元可以换几张5角？",
+      "options": [
+        "1张",
+        "2张",
+        "5张",
+        "10张"
+      ],
+      "answer": "2张",
+      "explanation": "$5角 + 5角 = 10角 = 1元$。故选2张。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "下面哪个面值的人民币是不存在的？",
+      "options": [
+        "2角",
+        "5角",
+        "3元",
+        "5元"
+      ],
+      "answer": "3元",
+      "explanation": "现行人民币中没有3元面值的纸币或硬币。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "一张100元可以换几张50元？",
+      "options": [
+        "2张",
+        "5张",
+        "10张",
+        "20张"
+      ],
+      "answer": "2张",
+      "explanation": "$50 + 50 = 100$，所以是2张。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "下列哪个符号表示“大于”？",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "+"
+      ],
+      "answer": ">",
+      "explanation": "> 是大于号。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面值的识别与单位进率",
+      "question": "买一支铅笔大约需要多少钱？",
+      "options": [
+        "5分",
+        "5角",
+        "5元",
+        "50元"
+      ],
+      "answer": "5角",
+      "explanation": "根据生活经验，铅笔通常为几角钱。"
+    }
+  ],
+  "knowledge": {
+    "point": "面值的识别与单位进率",
+    "core_concept": "认识各种面值的人民币（100元、50元、20元、10元、5元、1元、5角、1角等）。掌握三级单位元、角、分之间的十进制关系。",
+    "key_formula": "$1元 = 10角, 1角 = 10分$",
+    "common_mistakes": [
+      "误以为1元等于100角",
+      "记不清人民币的面值种类，如认为有3元或3角的钱"
+    ],
+    "tips": "可以通过换钱游戏来记忆：2个5角是1块，10个1角也是1块。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp19",
+  "title": "动物分类",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 12,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动物分类",
+      "question": "如果按照“有没有脚”给下面动物分类，哪一组是一类的？",
+      "options": [
+        "蜗牛和金鱼",
+        "蚂蚁和蜗牛",
+        "兔子和金鱼",
+        "蚂蚁和兔子"
+      ],
+      "answer": "蚂蚁和兔子",
+      "explanation": "蚂蚁有足，兔子有足；蜗牛是腹足，鱼是鳍，结构不同。"
+    }
+  ],
+  "knowledge": null
+}

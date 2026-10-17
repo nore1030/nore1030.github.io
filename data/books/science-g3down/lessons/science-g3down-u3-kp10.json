@@ -1,0 +1,39 @@
+{
+  "id": "science-g3down-u3-kp10",
+  "title": "海陆分布",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 4,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "海陆分布",
+      "question": "在观察地球仪时，蓝色的部分代表海洋。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在地图或地球仪上，蓝色通常表示水域或海洋。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "海陆分布",
+      "question": "在“数格子”实验中，如果我们比较地球表面的陆地和海洋面积，结果会是（）。",
+      "options": [
+        "陆地面积大",
+        "海洋面积大",
+        "面积一样大",
+        "无法判断"
+      ],
+      "answer": "海洋面积大",
+      "explanation": "地球表面约71%是海洋，只有29%是陆地。"
+    }
+  ],
+  "knowledge": null
+}

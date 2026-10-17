@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp14",
+  "title": "Question word",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 10,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Question word",
+      "question": "—________ does he live? —He lives in Canberra.",
+      "options": [
+        "What",
+        "Who",
+        "Where",
+        "How"
+      ],
+      "answer": "Where",
+      "explanation": "询问地点用 Where。"
+    }
+  ],
+  "knowledge": null
+}

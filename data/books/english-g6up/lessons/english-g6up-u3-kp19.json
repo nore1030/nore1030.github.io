@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u3-kp19",
+  "title": "活动词组",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "活动词组",
+      "question": "Let's go and ____ a film.",
+      "options": [],
+      "answer": "see",
+      "explanation": "看电影搭配动词see。"
+    }
+  ],
+  "knowledge": null
+}

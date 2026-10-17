@@ -1,0 +1,52 @@
+{
+  "id": "english-yilin-g7up-u3-kp1",
+  "title": "学校场所 library / playground / office",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Welcome to our school! 学校",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学校场所 library / playground / office",
+      "question": "「图书馆」的英文是（　）",
+      "options": [
+        "library",
+        "libary",
+        "librery",
+        "libbary"
+      ],
+      "answer": "library",
+      "explanation": "library 图书馆。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学校场所 library / playground / office",
+      "question": "「操场」的英文是（　）",
+      "options": [
+        "playground",
+        "play ground",
+        "playgrund",
+        "playgroud"
+      ],
+      "answer": "playground",
+      "explanation": "合写 playground。"
+    }
+  ],
+  "knowledge": {
+    "point": "学校场所 library / playground / office",
+    "core_concept": "library 图书馆、playground 操场、office 办公室、classroom 教室、hall 大厅。",
+    "key_formula": "in the library / on the playground",
+    "common_mistakes": [
+      "library 拼写错误。"
+    ],
+    "tips": "library 两个 r。"
+  }
+}

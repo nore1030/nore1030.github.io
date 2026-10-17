@@ -1,0 +1,96 @@
+{
+  "id": "g2up-u5-kp3",
+  "title": "空间观念建立",
+  "bookId": "g2up",
+  "unitNumber": 5,
+  "unitTitle": "观察物体（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间观念建立",
+      "question": "小红正在拍皮球，小强站在小红的左侧，小强看到的是：",
+      "options": [
+        "小红的正面",
+        "小红的左侧面",
+        "小红的右侧面",
+        "小红的后面"
+      ],
+      "answer": "小红的左侧面",
+      "explanation": "观察者在左侧，看到的自然是物体的左侧。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间观念建立",
+      "question": "如果你看到一个物体的形状是圆，它不可能是下面哪一个？",
+      "options": [
+        "球",
+        "圆柱",
+        "闹钟的表面",
+        "正方体"
+      ],
+      "answer": "正方体",
+      "explanation": "正方体无论从哪个方向看都只能是方形，不可能看到圆形。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间观念建立",
+      "question": "一个正方体木块，小明把它放在桌子上。他最多能看到几个面？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "3个",
+      "explanation": "原理验算：由于视点限制，在一个固定角度不可能同时看到超过3个互相对立的面。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间观念建立",
+      "question": "从小狗的右侧观察它，能看到它的：",
+      "options": [
+        "尾巴",
+        "右耳朵",
+        "左耳朵",
+        "鼻子"
+      ],
+      "answer": "右耳朵",
+      "explanation": "在右侧观察，能够看到的属于侧面的特征部位是右耳。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间观念建立",
+      "question": "如果我们从不同的方向观察一个球，看到的图形都是圆的。观察 10 个不同的球，一共能看到 ___ 种不同的形状。",
+      "options": [],
+      "answer": "1",
+      "explanation": "逻辑推理：球体在任何方位看的形状都是圆，无论多少个球，形状这一属性只有“圆”这一种。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "空间观念建立",
+    "core_concept": "空间观念是指能够通过物体的形状推断观察者的位置，或者通过观察者的位置推断出应有的形状。关键在于理解‘遮挡’和‘角度’对视觉的影响。",
+    "key_formula": "固定位置最高可见面数 = 3",
+    "common_mistakes": [
+      "在平面练习中无法还原立体动态，导致方位判断错误",
+      "数物体面数时重复计数或漏记（如合并图形的隐藏面）"
+    ],
+    "tips": "可以亲自动手拿一个纸盒，从不同角度转一转，数一数能看到几个面，以此增强空间感。"
+  }
+}

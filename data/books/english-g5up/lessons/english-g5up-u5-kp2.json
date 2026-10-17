@@ -1,0 +1,110 @@
+{
+  "id": "english-g5up-u5-kp2",
+  "title": "There be 句型的单复数运用",
+  "bookId": "english-g5up",
+  "unitNumber": 5,
+  "unitTitle": "There is a big bed",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "句子 'There is a water bottle.' 语法是正确的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "There is 后接单数名词，a water bottle 是单数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "描述有很多书时，应说 'There is many books.'",
+      "options": [],
+      "answer": "错",
+      "explanation": "books 是复数，应该用 There are。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "There ______ a big bed and two photos in my room.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "There be 句型遵循就近原则，紧跟的 a big bed 是单数，所以用 is。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "There are some ______ in the water.",
+      "options": [
+        "fish",
+        "bird",
+        "egg",
+        "apple"
+      ],
+      "answer": "fish",
+      "explanation": "are 后接复数，fish 单复数同形，且逻辑上鱼在水里。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "Look! There ______ so many pictures on the wall.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "answer": "are",
+      "explanation": "pictures 是复数形式，be 动词用 are。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "There ______ many plants in the garden.",
+      "options": [],
+      "answer": "are",
+      "explanation": "many plants 是复数，填 are。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的单复数运用",
+      "question": "连词成句：[a, big, There, bed, is]",
+      "options": [
+        "a",
+        "big",
+        "There",
+        "bed",
+        "is"
+      ],
+      "answer": "There,is,a,big,bed",
+      "explanation": "There be 句型结构：There is/are + 事物。"
+    }
+  ],
+  "knowledge": null
+}

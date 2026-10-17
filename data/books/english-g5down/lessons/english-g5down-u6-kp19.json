@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u6-kp19",
+  "title": "动词词组",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词词组",
+      "question": "Please talk ________ in the library.",
+      "options": [],
+      "answer": "quietly",
+      "explanation": "library提示要安静，talk quietly意为小声说话。"
+    }
+  ],
+  "knowledge": null
+}

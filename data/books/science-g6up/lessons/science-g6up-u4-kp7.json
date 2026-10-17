@@ -1,0 +1,39 @@
+{
+  "id": "science-g6up-u4-kp7",
+  "title": "太阳能作为地球能量的源头",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "太阳能作为地球能量的源头",
+      "question": "煤、石油、天然气所具有的能量最终都来自太阳能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "煤、石油、天然气是古代生物储存的太阳能，经过亿万年演变形成的。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳能作为地球能量的源头",
+      "question": "食物中储存的能量属于（）。",
+      "options": [
+        "热能",
+        "化学能",
+        "机械能",
+        "动能"
+      ],
+      "answer": "化学能",
+      "explanation": "食物、燃料等物质内部储存的能量统称为化学能。"
+    }
+  ],
+  "knowledge": null
+}

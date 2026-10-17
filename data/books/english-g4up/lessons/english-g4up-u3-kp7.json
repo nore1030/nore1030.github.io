@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp7",
+  "title": "o-e发音规律",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "o-e发音规律",
+      "question": "在单词 'nose' 中，字母 o 发音为 /əʊ/。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在nose中，o处于o-e开音节结构，发长元音/əʊ/。"
+    }
+  ],
+  "knowledge": null
+}

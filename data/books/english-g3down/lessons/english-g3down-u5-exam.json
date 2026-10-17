@@ -1,0 +1,222 @@
+{
+  "id": "english-g3down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-g3down",
+  "unitNumber": 5,
+  "unitTitle": "Do you like pears?",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "'watermelon' 单词中包含两个独立的单词 'water' 和 'melon'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "watermelon是一个合成词。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "当你不喜欢某样东西时，你可以说 'I like it.'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "不喜欢应该说 I don't like it。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "元音字母u在闭音节中的发音",
+      "question": "字母 'u' 在 'fun' 和 'blue' 中的发音是一样的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "fun中u发/ʌ/，blue中ue发/u:/。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "否定句 'I don't like pears.' 中的 'don't' 是 'do not' 的缩写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "don't = do not。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "— I don't like grapes. — ___",
+      "options": [
+        "Me too.",
+        "Me neither.",
+        "Yes, I do.",
+        "Here you are."
+      ],
+      "answer": "Me neither.",
+      "explanation": "对于对方否定的观点表示相同看法用 Me neither。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "How many ___ can you see?",
+      "options": [
+        "banana",
+        "apple",
+        "oranges",
+        "orange"
+      ],
+      "answer": "oranges",
+      "explanation": "How many后接可数名词的复数形式。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "元音字母u在闭音节中的发音",
+      "question": "Find the word with a different sound for 'u':",
+      "options": [
+        "duck",
+        "run",
+        "pupil",
+        "under"
+      ],
+      "answer": "pupil",
+      "explanation": "pupil中的u发/ju:/，其他发/ʌ/。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "— Can I have some pears? — ___",
+      "options": [
+        "Thanks.",
+        "Certainly!",
+        "Yes, I do.",
+        "No, I don't."
+      ],
+      "answer": "Certainly!",
+      "explanation": "Certainly表示当然可以，常用于回答对方的请求。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "— Silly me! Thanks. — ___",
+      "options": [
+        "You're welcome.",
+        "Me too.",
+        "Great!",
+        "OK."
+      ],
+      "answer": "You're welcome.",
+      "explanation": "回答感谢时使用 You're welcome。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "Let's ___ some fruit.",
+      "options": [
+        "eat",
+        "eats",
+        "eating",
+        "to eat"
+      ],
+      "answer": "eat",
+      "explanation": "Let's 后面跟动词原形。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "— Do you like apples? — No, I ______.",
+      "options": [],
+      "answer": "dont",
+      "explanation": "否定回答使用do not的缩写形式（此处按要求不含标点，输入为dont）。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "I buy three ______.",
+      "options": [],
+      "answer": "pears",
+      "explanation": "填入一种水果的复数形式。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "An apple a day keeps the ______ away.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "英语谚语：一天一苹果，医生远离我。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水果类词汇及其复数形式",
+      "question": "匹配英文单词及其对应的水果颜色/特征。",
+      "options": [
+        "banana",
+        "watermelon",
+        "strawberry",
+        "orange",
+        "橙色",
+        "黄色",
+        "绿色",
+        "红色"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "banana通常是黄色的，watermelon绿色，strawberry红色，orange橙色。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达喜好与征求许可",
+      "question": "连词成句：have, some, I, Can, apples",
+      "options": [
+        "have",
+        "some",
+        "I",
+        "Can",
+        "apples"
+      ],
+      "answer": "Can,I,have,some,apples",
+      "explanation": "情态动词开头的疑问句：Can + 主语 + 动词原形 + 其他。"
+    }
+  ],
+  "knowledge": null
+}

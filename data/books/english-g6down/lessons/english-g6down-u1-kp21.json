@@ -1,0 +1,29 @@
+{
+  "id": "english-g6down-u1-kp21",
+  "title": "比较级句式",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 17,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较级句式",
+      "question": "请将单词排列成句：(than, I, taller, am, you)",
+      "options": [
+        "than",
+        "I",
+        "taller",
+        "am",
+        "you"
+      ],
+      "answer": "I,am,taller,than,you",
+      "explanation": "标准比较级结构：主语+be+形容词比较级+than+对象。"
+    }
+  ],
+  "knowledge": null
+}

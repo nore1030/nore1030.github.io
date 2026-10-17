@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u2-kp1",
+  "title": "地球模型制作与结构认识",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "地球从表面到地心可以分为地壳、地幔和地核三个圈层。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地球内部圈层结构由外向内分别是地壳、地幔和地核。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "在地球结构模型中，厚度最薄的一层是（    ）。",
+      "options": [
+        "地壳",
+        "地幔",
+        "地核",
+        "大气层"
+      ],
+      "answer": "地壳",
+      "explanation": "地壳是地球最外层的薄壳，平均厚度约17千米，在地壳、地幔、地核中厚度最薄。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "下列关于地球特征的说法中，错误的是（    ）。",
+      "options": [
+        "地球是一个球体",
+        "地球表面大部分被海洋覆盖",
+        "陆地在地球表面的分布是很均匀的",
+        "地球内部存在不同的圈层结构"
+      ],
+      "answer": "陆地在地球表面的分布是很均匀的",
+      "explanation": "地球表面的海陆分布是不均匀的，海洋面积远大于陆地面积。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "地球内部圈层中，位于最中心的部分叫（    ）。",
+      "options": [],
+      "answer": "地核",
+      "explanation": "地核是地球的核心部分。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9down-u2-kp1",
+  "title": "中国与世界",
+  "bookId": "moral-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与个人选择",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中国与世界",
+      "question": "构建人类命运共同体体现了（　）",
+      "options": [
+        "共商共建共享",
+        "各行其是",
+        "以邻为壑",
+        "单边主义"
+      ],
+      "answer": "共商共建共享",
+      "explanation": "命运共同体理念。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中国与世界",
+      "question": "我国坚持对外开放基本国策。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对外开放。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国与世界",
+    "core_concept": "世界各国相互联系、相互依存的程度空前加深。中国坚持对外开放基本国策，推动构建人类命运共同体。",
+    "key_formula": "构建人类命运共同体",
+    "common_mistakes": [
+      "认为中国闭关自守有利。"
+    ],
+    "tips": "坚持对外开放。"
+  }
+}

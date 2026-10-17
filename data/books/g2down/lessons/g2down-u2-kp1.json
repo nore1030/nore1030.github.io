@@ -1,0 +1,75 @@
+{
+  "id": "g2down-u2-kp1",
+  "title": "平均分的含义与判断",
+  "bookId": "g2down",
+  "unitNumber": 2,
+  "unitTitle": "表内除法（一）",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "把6个苹果分给2个小朋友，每个小朋友一定分得3个。",
+      "options": [],
+      "answer": "错",
+      "explanation": "题目没有强调‘平均分’，如果不平均分，可能一个是2个，另一个是4个。故说法错误。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "将10个饼干平均分给5个同学，每人分得2个。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$10 \\div 5 = 2$。平均分的定义是每份分得同样多，10个分5份每份2个符合定义。验算：$5 \\times 2 = 10$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "下面哪种分法是平均分？",
+      "options": [
+        "将8个圆圈分成3个和5个",
+        "将9个星星分成3个、3个和3个",
+        "将6个桃子分成2个和4个",
+        "将10个梨分给5个人，每人数量不等"
+      ],
+      "answer": "将9个星星分成3个、3个和3个",
+      "explanation": "平均分是指每份分得同样多。选项B中每份都是3个，符合定义。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "把15根骨头平均分给3只小狗，每只小狗分到几根？",
+      "options": [
+        "3",
+        "5",
+        "12",
+        "18"
+      ],
+      "answer": "5",
+      "explanation": "列式：$15 \\div 3 = 5$（根）。验算：$5 \\times 3 = 15$。"
+    }
+  ],
+  "knowledge": {
+    "point": "平均分的含义与判断",
+    "core_concept": "把一些物品分成几份，每份分得同样多，叫作‘平均分’。这是除法产生的前提基础。在判断时，必须确保每一组的数量完全一致。",
+    "key_formula": "每份数 = 总数 $\\div$ 份数",
+    "common_mistakes": [
+      "认为只要是分物品就是平均分，忽视了每份数量是否相等。",
+      "在分物的过程中，漏掉了剩余不能分完的部分也属于未达标的‘平均分’。"
+    ],
+    "tips": "动手摆一摆。拿出一堆小棒，按照要求一份一份地分，分完后数数每份是不是一样多。"
+  }
+}

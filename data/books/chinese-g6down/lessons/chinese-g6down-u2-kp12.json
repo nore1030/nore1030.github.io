@@ -1,0 +1,46 @@
+{
+  "id": "chinese-g6down-u2-kp12",
+  "title": "现代文语言表达",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 11,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代文语言表达",
+      "question": "请将下列词语排列成一句描写鲁滨逊的话：",
+      "options": [
+        "鲁滨逊",
+        "是一个",
+        "向往",
+        "冒险",
+        "的人"
+      ],
+      "answer": "鲁滨逊,是一个,向往,冒险,的人",
+      "explanation": "考查对鲁滨逊性格特点的基础表述能力。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代文语言表达",
+      "question": "请将词语排列成关于阅读名著的观点：",
+      "options": [
+        "我们可以",
+        "阅读名著",
+        "感受到",
+        "文学的",
+        "无穷魅力"
+      ],
+      "answer": "阅读名著,我们可以,感受到,文学的,无穷魅力",
+      "explanation": "考察句子的逻辑组合能力。"
+    }
+  ],
+  "knowledge": null
+}

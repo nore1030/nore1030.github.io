@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp16",
+  "title": "基础词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 12,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "基础词汇",
+      "question": "My father and mother are my ______.",
+      "options": [],
+      "answer": "parents",
+      "explanation": "父母两人的合称单词是 parents。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u1-kp18",
+  "title": "语法运用",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 14,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语法运用",
+      "question": "My bag is 2kg. Your bag is 3kg. Your bag is ___ than mine.",
+      "options": [],
+      "answer": "heavier",
+      "explanation": "3kg比2kg重，heavy的比较级是heavier。"
+    }
+  ],
+  "knowledge": null
+}

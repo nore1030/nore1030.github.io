@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp21",
+  "title": "数量询问",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数量询问",
+      "question": "How ___ cakes?",
+      "options": [],
+      "answer": "many",
+      "explanation": "how many引导对物体数量的提问。"
+    }
+  ],
+  "knowledge": null
+}

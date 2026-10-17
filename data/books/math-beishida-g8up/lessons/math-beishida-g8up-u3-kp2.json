@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g8up-u3-kp2",
+  "title": "函数与图表",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 3,
+  "unitTitle": "一次函数初步",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "函数与图表",
+      "question": "表示函数关系的方式不包括（　）",
+      "options": [
+        "故事",
+        "表格",
+        "图象",
+        "解析式"
+      ],
+      "answer": "故事",
+      "explanation": "三种表示法。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "函数与图表",
+      "question": "同一个函数可用表格、图象和解析式表示。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三种表示法。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数与图表",
+    "core_concept": "函数关系可以用表格、解析式和图象三种方式表示，三者互相转化。",
+    "key_formula": "表格 ↔ 图象 ↔ 解析式",
+    "common_mistakes": [
+      "认为只有解析式能表示函数。"
+    ],
+    "tips": "三种表示法。"
+  }
+}

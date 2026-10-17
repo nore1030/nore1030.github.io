@@ -1,0 +1,32 @@
+{
+  "id": "english-g3up-u6-kp23",
+  "title": "词汇互译",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇互译",
+      "question": "将下列英文数字与中文意思连线。",
+      "options": [
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "九",
+        "八",
+        "七",
+        "六"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "six-六, seven-七, eight-八, nine-九。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "g11up-u2-kp1",
+  "title": "椭圆",
+  "bookId": "g11up",
+  "unitNumber": 2,
+  "unitTitle": "圆锥曲线",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "椭圆",
+      "question": "椭圆 $\\frac{x^2}{25}+\\frac{y^2}{9}=1$ 的 $a$ 等于多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$a^2=25$，$a=5$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "椭圆",
+      "question": "椭圆 $\\frac{x^2}{25}+\\frac{y^2}{9}=1$ 的焦距（$2c$）是多少？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$c^2=25-9=16$，$c=4$，$2c=8$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "椭圆",
+      "question": "椭圆的离心率取值范围是 $(0,1)$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$e=\\frac ca$ 且 $0<c<a$。"
+    }
+  ],
+  "knowledge": {
+    "point": "椭圆",
+    "core_concept": "平面内到两定点距离之和等于常数（大于两定点距离）的点的轨迹是椭圆。$a^2=b^2+c^2$，离心率 $e=\\frac ca\\in(0,1)$。",
+    "key_formula": "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$",
+    "common_mistakes": [
+      "把 $a^2=b^2+c^2$ 记成 $c^2=a^2+b^2$。"
+    ],
+    "tips": "椭圆中 $a$ 最大。"
+  }
+}

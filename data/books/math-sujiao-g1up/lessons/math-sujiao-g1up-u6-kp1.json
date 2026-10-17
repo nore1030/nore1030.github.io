@@ -1,0 +1,79 @@
+{
+  "id": "math-sujiao-g1up-u6-kp1",
+  "title": "立体图形",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 6,
+  "unitTitle": "认识图形（一）",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "粉笔盒的形状大概是（　）",
+      "options": [
+        "长方体",
+        "正方体",
+        "球",
+        "圆柱"
+      ],
+      "answer": "长方体",
+      "explanation": "粉笔盒近长方体。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "足球的形状是（　）",
+      "options": [
+        "球",
+        "圆",
+        "圆柱",
+        "正方体"
+      ],
+      "answer": "球",
+      "explanation": "足球是球体。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "圆柱的上下两个面一样大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "底面全等。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "正方体有（　）个面",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "6 个面。"
+    }
+  ],
+  "knowledge": {
+    "point": "立体图形",
+    "core_concept": "长方体 6 个面、正方体 6 个面一样大、圆柱上下一样粗、球没有平面会滚动。",
+    "key_formula": "长方体 / 正方体 / 圆柱 / 球",
+    "common_mistakes": [
+      "把球说成圆。"
+    ],
+    "tips": "球是立体，圆是平面。"
+  }
+}

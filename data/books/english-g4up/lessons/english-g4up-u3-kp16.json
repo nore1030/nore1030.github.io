@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp16",
+  "title": "颜色词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇",
+      "question": "She has ______ shoes and a red bag.",
+      "options": [
+        "friendly",
+        "quiet",
+        "white",
+        "his"
+      ],
+      "answer": "white",
+      "explanation": "描述鞋子颜色用white，其他词汇为性格描述或代词。"
+    }
+  ],
+  "knowledge": null
+}

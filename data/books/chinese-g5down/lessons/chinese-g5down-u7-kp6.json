@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u7-kp6",
+  "title": "文学常识",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《威尼斯的小艇》作者是美国作家马克·吐温。",
+      "options": [],
+      "answer": "对",
+      "explanation": "马克·吐温是19世纪美国著名小说家、作家。"
+    }
+  ],
+  "knowledge": null
+}

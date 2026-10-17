@@ -1,0 +1,66 @@
+{
+  "id": "biology-g7down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g7down",
+  "unitNumber": 1,
+  "unitTitle": "人的由来与营养",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "消化系统与营养",
+      "question": "不含消化酶的消化液是（　）",
+      "options": [
+        "唾液",
+        "胃液",
+        "胆汁",
+        "胰液"
+      ],
+      "answer": "胆汁",
+      "explanation": "胆汁不含消化酶，起乳化脂肪作用。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人类的起源与发展",
+      "question": "直立行走是人猿分界的重要标志。",
+      "options": [],
+      "answer": "对",
+      "explanation": "直立行走是关键一步。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "消化系统与营养",
+      "question": "下列营养物质不需要消化即可吸收的是（　）",
+      "options": [
+        "淀粉",
+        "蛋白质",
+        "水",
+        "脂肪"
+      ],
+      "answer": "水",
+      "explanation": "水可直接吸收。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "消化系统与营养",
+      "question": "小肠绒毛壁和毛细血管壁都只有一层上皮细胞。",
+      "options": [],
+      "answer": "对",
+      "explanation": "利于吸收。"
+    }
+  ],
+  "knowledge": null
+}

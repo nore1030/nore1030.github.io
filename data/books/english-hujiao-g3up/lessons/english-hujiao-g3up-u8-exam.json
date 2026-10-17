@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 8,
+  "unitTitle": "Module 3 Places and activities — At the fruit shop 在水果店",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水果词汇 apple / banana / orange / pear",
+      "question": "「梨」的英文是（　）",
+      "options": [
+        "pear",
+        "apple",
+        "banana",
+        "orange"
+      ],
+      "answer": "pear",
+      "explanation": "pear = 梨。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好 I like…",
+      "question": "「我想要一个苹果。」的英文是（　）",
+      "options": [
+        "I'd like an apple.",
+        "I like an apple.",
+        "I'm like apple.",
+        "I likes apple."
+      ],
+      "answer": "I'd like an apple.",
+      "explanation": "I'd like = I would like 想要。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "水果词汇 apple / banana / orange / pear",
+      "question": "fruit 的意思是「水果」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fruit = 水果。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达喜好 I like…",
+      "question": "— Do you like bananas? — ___",
+      "options": [
+        "Yes, I do.",
+        "Yes, I like.",
+        "Yes, I am.",
+        "Yes, I can."
+      ],
+      "answer": "Yes, I do.",
+      "explanation": "do 问 do 答。"
+    }
+  ],
+  "knowledge": null
+}

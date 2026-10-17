@@ -1,0 +1,74 @@
+{
+  "id": "math-beishida-g8up-u1-kp1",
+  "title": "勾股定理及其证明",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 1,
+  "unitTitle": "勾股定理",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "直角三角形两直角边为 3、4，斜边为（　）",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "$\\sqrt{7}$"
+      ],
+      "answer": "5",
+      "explanation": "3-4-5 勾股数。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "勾股定理的逆定理可以判定（　）",
+      "options": [
+        "直角三角形",
+        "等腰三角形",
+        "等边三角形",
+        "锐角三角形"
+      ],
+      "answer": "直角三角形",
+      "explanation": "逆定理判直角。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "勾股定理中 $c$ 是直角三角形的斜边。",
+      "options": [],
+      "answer": "对",
+      "explanation": "斜边对应。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "直角三角形两直角边平方和等于斜边平方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "勾股定理。"
+    }
+  ],
+  "knowledge": {
+    "point": "勾股定理及其证明",
+    "core_concept": "在直角三角形中，两直角边的平方和等于斜边的平方。$a^2 + b^2 = c^2$（$c$ 为斜边）。逆定理可判定直角三角形。",
+    "key_formula": "$a^2+b^2=c^2$",
+    "common_mistakes": [
+      "把斜边对应的平方写错。"
+    ],
+    "tips": "斜边对应最大边的平方。"
+  }
+}

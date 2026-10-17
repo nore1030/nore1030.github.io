@@ -1,0 +1,75 @@
+{
+  "id": "science-g3up-u1-kp1",
+  "title": "水蒸气与蒸发现象",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "水蒸气是水的一种气态形式，它是没有颜色、没有气味、透明的气体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "科学定义中，水蒸气是无色、无味、透明的气体。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "湿衣服晾在阳光下很快变干了，这是因为水（）。",
+      "options": [
+        "全部渗进衣服里了",
+        "变成了水蒸气散发到空气中",
+        "被太阳吸收了",
+        "直接消失了"
+      ],
+      "answer": "变成了水蒸气散发到空气中",
+      "explanation": "这是典型的蒸发现象，液态水转化为气态水蒸气。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "下列现象中，属于蒸发现象的是（）。",
+      "options": [
+        "锅盖上的小水珠",
+        "河水水位下降",
+        "冬天窗户上的冰花",
+        "草叶上的露珠"
+      ],
+      "answer": "河水水位下降",
+      "explanation": "河水水位下降是因为液态水变成了肉眼看不见的水蒸气进入空气。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "液态的水变成气态的水蒸气的过程叫做（）。",
+      "options": [],
+      "answer": "蒸发",
+      "explanation": "蒸发是描述液体表面变成气体的科学术语。"
+    }
+  ],
+  "knowledge": {
+    "point": "水蒸气与蒸发现象",
+    "core_concept": "水在常温下变成水蒸气的过程叫蒸发，温度越高、表面积越大、风力越大，蒸发越快。",
+    "key_formula": "液态水 ↔ 气态水蒸气",
+    "common_mistakes": [
+      "认为水蒸气是白色的烟雾",
+      "认为水蒸发后就消失了"
+    ],
+    "tips": "记住“看不见的那部分才是水蒸气”，白汽是小水滴。"
+  }
+}

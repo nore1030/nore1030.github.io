@@ -1,0 +1,42 @@
+{
+  "id": "physics-g8down-u1-kp1",
+  "title": "力与弹力、重力",
+  "bookId": "physics-g8down",
+  "unitNumber": 1,
+  "unitTitle": "力与运动",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "力与弹力、重力",
+      "question": "质量 2 kg 的物体所受重力是多少 N？（$g$ 取 10 N/kg）",
+      "options": [],
+      "answer": "20",
+      "explanation": "$G=mg=2\\times10=20$ N。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "力与弹力、重力",
+      "question": "重力为 49 N 的物体质量是多少 kg？（$g$ 取 9.8 N/kg）",
+      "options": [],
+      "answer": "5",
+      "explanation": "$m=\\frac Gg=\\frac{49}{9.8}=5$ kg。"
+    }
+  ],
+  "knowledge": {
+    "point": "力与弹力、重力",
+    "core_concept": "力是物体对物体的作用，单位牛顿(N)。重力 $G=mg$，$g$ 取 9.8 N/kg（计算常取 10 N/kg）。力的三要素是大小、方向、作用点。",
+    "key_formula": "$G=mg$",
+    "common_mistakes": [
+      "认为物体间不接触就没有力。"
+    ],
+    "tips": "力的作用是相互的。"
+  }
+}

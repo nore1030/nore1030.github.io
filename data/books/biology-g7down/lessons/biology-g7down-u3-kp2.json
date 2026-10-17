@@ -1,0 +1,42 @@
+{
+  "id": "biology-g7down-u3-kp2",
+  "title": "激素调节与健康生活",
+  "bookId": "biology-g7down",
+  "unitNumber": 3,
+  "unitTitle": "人体的调节与健康生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "激素调节与健康生活",
+      "question": "胰岛素能降低血糖浓度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "胰岛素调节血糖。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "激素调节与健康生活",
+      "question": "内分泌腺没有导管，分泌物直接进入血液。",
+      "options": [],
+      "answer": "对",
+      "explanation": "内分泌腺特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "激素调节与健康生活",
+    "core_concept": "激素由内分泌腺分泌，直接进入血液运输。胰岛素能调节血糖，分泌不足可致糖尿病。青春期要养成健康的生活方式。",
+    "key_formula": "胰岛素降低血糖",
+    "common_mistakes": [
+      "认为激素由导管输送。"
+    ],
+    "tips": "内分泌腺无导管。"
+  }
+}

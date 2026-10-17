@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp11",
+  "title": "疑问词辨析",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问词辨析",
+      "question": "______ is your birthday? It's in July.",
+      "options": [
+        "Where",
+        "What",
+        "Who",
+        "When"
+      ],
+      "answer": "When",
+      "explanation": "答句提到的是月份时间，提问词用When。"
+    }
+  ],
+  "knowledge": null
+}

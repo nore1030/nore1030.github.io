@@ -1,0 +1,217 @@
+{
+  "id": "science-g5down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 6,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "全球气候变暖会导致海平面上升，淹没地势较低的沿海城市。",
+      "options": [],
+      "answer": "对",
+      "explanation": "气候变暖导致冰川融化和海水热膨胀，致使海平面上升。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "水体富营养化会导致鱼类大量死亡。",
+      "options": [],
+      "answer": "对",
+      "explanation": "富营养化使藻类爆发呼吸消耗氧气，鱼类因缺氧死亡。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "分析实际环境问题的多元决策",
+      "question": "科学技术是解决环境问题的唯一手段。",
+      "options": [],
+      "answer": "错",
+      "explanation": "环境问题还需要政策、法律和公民行动共同解决。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "我国是一个人均水资源非常丰富的国家。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然中国水资源总量不少，但人均占有量远低于世界平均水平。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "导致酸雨形成的主要空气污染物是哪一种？",
+      "options": [
+        "二氧化碳",
+        "二氧化硫",
+        "一氧化碳",
+        "氧气"
+      ],
+      "answer": "二氧化硫",
+      "explanation": "二氧化硫进入大气层形成硫酸雾，随降雨落下形成酸雨。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分析实际环境问题的多元决策",
+      "question": "在城中湖环境整治方案讨论中，渔民最关心的可能是哪一方面？",
+      "options": [
+        "房地产的升值空间",
+        "湖中鱼类的产量和生存",
+        "工厂废水的排放标准",
+        "周边公路的修建进度"
+      ],
+      "answer": "湖中鱼类的产量和生存",
+      "explanation": "渔民的生计与湖泊生态直接相关。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "造成某些地区“水质性缺水”的主要原因是什么？",
+      "options": [
+        "降水量太少",
+        "人均占有量低",
+        "水污染导致水不能直接使用",
+        "地形复杂难以取水"
+      ],
+      "answer": "水污染导致水不能直接使用",
+      "explanation": "水质性缺水指虽有水体但因污染严重无法满足需求。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "温室效应导致气温上升最直接的物理过程是什么？",
+      "options": [
+        "太阳光增强了",
+        "地球内部释放热量变多",
+        "大气吸收并截留了更多地表的长波辐射",
+        "森林光合作用产生了热能"
+      ],
+      "answer": "大气吸收并截留了更多地表的长波辐射",
+      "explanation": "温室气体允许太阳短波辐射通过，但吸收地表长波辐射并返还地球。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "珍惜水资源与农业滴灌技术",
+      "question": "下列哪种技术极大地提高了农业灌溉水的利用效率？",
+      "options": [
+        "水渠输水",
+        "大水漫灌",
+        "喷灌和滴灌",
+        "人工降雨"
+      ],
+      "answer": "喷灌和滴灌",
+      "explanation": "管道输水和末端节水技术（喷滴灌）是现代节水农业核心。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "禁止在景区使用高音喇叭是为了减少哪种污染？",
+      "options": [
+        "空气污染",
+        "光污染",
+        "噪声污染",
+        "电磁污染"
+      ],
+      "answer": "噪声污染",
+      "explanation": "高频和高分贝声音属于物理环境污染。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分析实际环境问题的多元决策",
+      "question": "我们在家庭中推行生活污水达标排放的根本目的是什么？",
+      "options": [
+        "减少水费支出",
+        "减少对自然的污染",
+        "让排水管变干净",
+        "让家里变整洁"
+      ],
+      "answer": "减少对自然的污染",
+      "explanation": "生态环保的出发点是维护自然环境稳定。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "风能和水能发电最大的优点是什么？",
+      "options": [
+        "成本极低",
+        "完全不占地方",
+        "清洁且二氧化碳零排放",
+        "能在任何地方发电"
+      ],
+      "answer": "清洁且二氧化碳零排放",
+      "explanation": "可再生能源最大的优势在于相比化石能源不产生温室气体。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常用能源分类比例",
+      "question": "目前人类社会利用的主要能源依然是化石能源，其在全球能源消耗中占比超过（___）%。",
+      "options": [],
+      "answer": "80",
+      "explanation": "化石能（煤油气）目前仍占全球能源利用的绝大份额。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "在极地冰川中，固态淡水约占全球淡水总量的（___）%。",
+      "options": [],
+      "answer": "70",
+      "explanation": "冰川是最大的淡水库，约占70%左右。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "回收利用1吨废纸，可以挽救至少17棵大树，这属于回收（___）能源。",
+      "options": [],
+      "answer": "再生",
+      "explanation": "纸张回收属于再生资源的循环利用。"
+    }
+  ],
+  "knowledge": null
+}

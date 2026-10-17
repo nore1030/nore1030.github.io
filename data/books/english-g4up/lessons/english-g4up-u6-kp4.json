@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp4",
+  "title": "家庭成员词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 0,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员词汇",
+      "question": "'parents' 的意思是“父母”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "parents 表示父母，包括 father 和 mother。"
+    }
+  ],
+  "knowledge": null
+}

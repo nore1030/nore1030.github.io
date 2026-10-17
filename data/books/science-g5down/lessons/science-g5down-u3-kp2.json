@@ -1,0 +1,66 @@
+{
+  "id": "science-g5down-u3-kp2",
+  "title": "地球水资源分布与淡水危机",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "地球上大部分的水是海洋里的咸水，淡水资源非常匮乏。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地球上97%的水是咸水，淡水仅占约3%，且大部分难以利用。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "人类能够直接利用的淡水主要是哪一部分？",
+      "options": [
+        "冰川水",
+        "深层地下水",
+        "河流、湖泊和浅层地下水",
+        "海水"
+      ],
+      "answer": "河流、湖泊和浅层地下水",
+      "explanation": "冰川和深层地下水目前在技术上或成本上难以大规模利用。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "如果地球上的总水量是1000毫升，那么可利用的淡水大约是多少？",
+      "options": [
+        "不到1毫升",
+        "30毫升",
+        "300毫升",
+        "970毫升"
+      ],
+      "answer": "不到1毫升",
+      "explanation": "淡水仅占3%，而中其中的70%以上被锁在冰川，可利用部分极少。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球水资源分布与淡水危机",
+      "question": "在一份地球水资源饼状图中，咸水所占的比例大约是（___）%。",
+      "options": [],
+      "answer": "97",
+      "explanation": "地球上大部分是咸水，约为97.5%，常取整数97。"
+    }
+  ],
+  "knowledge": null
+}

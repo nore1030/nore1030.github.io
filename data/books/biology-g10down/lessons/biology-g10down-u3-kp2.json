@@ -1,0 +1,47 @@
+{
+  "id": "biology-g10down-u3-kp2",
+  "title": "基因的表达与变异",
+  "bookId": "biology-g10down",
+  "unitNumber": 3,
+  "unitTitle": "基因的本质与表达",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "基因的表达与变异",
+      "question": "翻译的场所是（　）",
+      "options": [
+        "细胞核",
+        "核糖体",
+        "线粒体",
+        "高尔基体"
+      ],
+      "answer": "核糖体",
+      "explanation": "翻译在核糖体。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "基因的表达与变异",
+      "question": "基因突变是指 DNA 分子中碱基对的替换、增添或缺失。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基因突变定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "基因的表达与变异",
+    "core_concept": "转录在细胞核中以 DNA 为模板合成 mRNA；翻译在核糖体上以 mRNA 为模板合成蛋白质。基因突变是指 DNA 分子中碱基对的替换、增添或缺失。",
+    "key_formula": "DNA → mRNA → 蛋白质",
+    "common_mistakes": [
+      "把转录与翻译场所混淆。"
+    ],
+    "tips": "转录在核，翻译在核糖体。"
+  }
+}

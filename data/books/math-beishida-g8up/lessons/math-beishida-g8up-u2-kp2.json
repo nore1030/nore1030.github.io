@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g8up-u2-kp2",
+  "title": "轴对称与等腰三角形",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 2,
+  "unitTitle": "全等三角形与轴对称",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "轴对称与等腰三角形",
+      "question": "等边三角形的每个内角是（　）",
+      "options": [
+        "60°",
+        "90°",
+        "45°",
+        "30°"
+      ],
+      "answer": "60°",
+      "explanation": "等边三角形三角 60°。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "轴对称与等腰三角形",
+      "question": "轴对称图形沿对称轴折叠后能够完全重合。",
+      "options": [],
+      "answer": "对",
+      "explanation": "轴对称定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "轴对称与等腰三角形",
+    "core_concept": "轴对称图形沿对称轴折叠可重合。等腰三角形两腰相等，两底角相等；等边三角形三边相等、三角相等。",
+    "key_formula": "等边对等角",
+    "common_mistakes": [
+      "认为等腰三角形顶角必为直角。"
+    ],
+    "tips": "顶角 = 180° − 2 底角。"
+  }
+}

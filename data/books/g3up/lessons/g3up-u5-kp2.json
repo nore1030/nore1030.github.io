@@ -1,0 +1,150 @@
+{
+  "id": "g3up-u5-kp2",
+  "title": "求一个数是另一个数的几倍",
+  "bookId": "g3up",
+  "unitNumber": 5,
+  "unitTitle": "倍的认识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "求 12 是 3 的几倍，列式为 $12 \\div 3 = 4$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "求一个数是另一个数的几倍用除法。$12 \\div 3 = 4$。验算：$3 \\times 4 = 12$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "小红有 15 本课外书，小明有 5 本。小红的课外书本数是小明的几倍？",
+      "options": [
+        "3 倍",
+        "5 倍",
+        "10 倍",
+        "75 倍"
+      ],
+      "answer": "3 倍",
+      "explanation": "$15 \\div 5 = 3$。验算：$5 \\times 3 = 15$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "已知一个数是 24，另一个数是 6，24 是 6 的几倍？",
+      "options": [
+        "4",
+        "18",
+        "30",
+        "144"
+      ],
+      "answer": "4",
+      "explanation": "$24 \\div 6 = 4$。注意倍数不带单位。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "小丽做了 8 朵红花，2 朵黄花。要使红花的朵数是黄花的 4 倍，红花需要做几朵？",
+      "options": [
+        "8 朵",
+        "4 朵",
+        "2 朵",
+        "6 朵"
+      ],
+      "answer": "8 朵",
+      "explanation": "黄花 2 朵，其 4 倍是 $2 \\times 4 = 8$ 朵。现在已有 8 朵，正好是 4 倍。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "哥哥有 20 元钱，弟弟有 4 元钱。哥哥的钱给弟弟多少元后，两人的钱就一样多？",
+      "options": [
+        "16 元",
+        "8 元",
+        "10 元",
+        "4 元"
+      ],
+      "answer": "8 元",
+      "explanation": "两人总和 $20 + 4 = 24$ 元，一人 12 元。$20 - 12 = 8$ 元。虽然是倍数单元，但此题考察份数意识。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "篮子里有 18 个苹果，6 个梨。如果苹果个数不变，要使苹果是梨的 9 倍，梨应该变成几个？",
+      "options": [
+        "2 个",
+        "3 个",
+        "18 个",
+        "54 个"
+      ],
+      "answer": "2 个",
+      "explanation": "$18 \\div 9 = 2$ 个。原来 6 个，现在需要变成 2 个。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "圈一圈：第一行 3 个 △，第二行 15 个 △。第二行是第一行的几倍？",
+      "options": [
+        "3",
+        "5",
+        "12",
+        "18"
+      ],
+      "answer": "5",
+      "explanation": "$15 \\div 3 = 5$。验算：$3 \\times 5 = 15$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "停车场停了 32 辆小汽车，8 辆货车，小汽车的辆数是货车的 ___ 倍。",
+      "options": [],
+      "answer": "4",
+      "explanation": "求 32 是 8 的几倍。列式：$32 \\div 8 = 4$。验算：$8 \\times 4 = 32$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "求一个数是另一个数的几倍",
+      "question": "计算：$42 \\div 7 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$42 \\div 7 = 6$。验算：$7 \\times 6 = 42$。"
+    }
+  ],
+  "knowledge": {
+    "point": "求一个数是另一个数的几倍",
+    "core_concept": "这是比较两个数量的一种方式。求一个数是另一个数的几倍，本质上是看较大数里面包含多少个较小数，所以使用除法计算。",
+    "key_formula": "$一个数 \\div 另一个数 = 倍数$",
+    "common_mistakes": [
+      "计算出来的倍数写了单位（如：4个）",
+      "分不清谁除以谁，错用较小数除以较大数"
+    ],
+    "tips": "一定要用“大数除以小数”，且结果不写任何单位。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u1-kp12",
+  "title": "力的直线传播",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 7,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "力的直线传播",
+      "question": "下列自然现象中，能说明光沿直线传播的是（___）。",
+      "options": [
+        "海市蜃楼",
+        "水中月亮",
+        "皮影戏",
+        "雨后彩虹"
+      ],
+      "answer": "皮影戏",
+      "explanation": "皮影戏通过光照射不透明遮挡物形成影子，体现了光沿直线传播。"
+    }
+  ],
+  "knowledge": null
+}

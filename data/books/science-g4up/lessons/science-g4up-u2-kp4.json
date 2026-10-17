@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u2-kp4",
+  "title": "食物中的营养成分及其检测",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 3,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物中的营养成分及其检测",
+      "question": "在馒头上滴加碘酒，馒头变蓝了，说明馒头中含有（）。",
+      "options": [
+        "蛋白质",
+        "脂肪",
+        "淀粉",
+        "维生素"
+      ],
+      "answer": "淀粉",
+      "explanation": "淀粉遇碘酒变蓝是基本的化学反应特征。"
+    }
+  ],
+  "knowledge": null
+}

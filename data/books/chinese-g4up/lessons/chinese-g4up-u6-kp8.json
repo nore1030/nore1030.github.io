@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u6-kp8",
+  "title": "理解阅读",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 7,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "“赛场上，他像离弦的箭一样冲向终点，最终站上了领奖台。”这段话侧重描写的是：",
+      "options": [
+        "心理活动",
+        "外貌特征",
+        "动作表现",
+        "语言交流"
+      ],
+      "answer": "动作表现",
+      "explanation": "“冲向”、“站上”都是动作描写。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g2down-u6-kp14",
+  "title": "句式训练",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式训练",
+      "question": "请将下列词语排列成一句通顺的话：",
+      "options": [
+        "指南针",
+        "许多",
+        "大自然",
+        "有",
+        "天然的"
+      ],
+      "answer": "大自然,有,许多,天然的,指南针",
+      "explanation": "主谓宾结构的句子。"
+    }
+  ],
+  "knowledge": null
+}

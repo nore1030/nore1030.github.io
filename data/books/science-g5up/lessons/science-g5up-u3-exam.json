@@ -1,0 +1,217 @@
+{
+  "id": "science-g5up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 10,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "日晷不仅能在白天计时，也能在有月光的夜晚精确计时。",
+      "options": [],
+      "answer": "错",
+      "explanation": "日晷必须依靠太阳光，月光光线弱且方位规律不同，不能直接替代太阳光计时。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "把一个摆长30厘米的摆缩短为15厘米，摆动速度会变快。",
+      "options": [],
+      "answer": "对",
+      "explanation": "缩小摆长会缩短单摆周期，提升频率。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "计时工具的演变",
+      "question": "石英手表之所以计时准确，是因为石英晶体每秒振动的次数非常稳定。",
+      "options": [],
+      "answer": "对",
+      "explanation": "石英振荡器的频率极高且稳定，是精准计时的核心。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "两个摆长相同的摆，如果摆锤重量不同，它们摆动的快慢也是相同的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "摆的周期只取决于摆长，与物体的质量（摆锤重力）无关。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水钟的设计与水位控制",
+      "question": "如果要设计一个能计时10分钟的水钟，下列哪项设计最合理？",
+      "options": [
+        "瓶盖上的小孔钻大一点",
+        "使用底部较宽且水位恒定的容器",
+        "增加容器中水的粘稠度",
+        "将水柱高度不断提高"
+      ],
+      "answer": "使用底部较宽且水位恒定的容器",
+      "explanation": "水位恒定是保持流速恒定的前提，配合稳定的容器结构更利于精准计时。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "如果在实验中测量同一个摆摆动10次的时间，记录了三次分别为：12秒、12秒、13秒，应取什么值？",
+      "options": [
+        "12秒",
+        "12.3秒",
+        "13秒",
+        "无法判断"
+      ],
+      "answer": "12.3秒",
+      "explanation": "科学实验数据通常取平均值以减少偶然误差。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计时工具的演变",
+      "question": "下列计时工具中，利用机械能转化且具有摆动控制系统的是哪一个？",
+      "options": [
+        "沙漏",
+        "燃香",
+        "摆钟",
+        "太阳能表"
+      ],
+      "answer": "摆钟",
+      "explanation": "摆钟依靠重锤或发条提供动力，通过摆来控制时间间隔。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "单摆在摆动过程中，它的摆幅会逐渐发生什么变化？",
+      "options": [
+        "逐渐变大",
+        "保持不变",
+        "逐渐变小",
+        "上下运动"
+      ],
+      "answer": "逐渐变小",
+      "explanation": "由于空气阻力和摩擦力的存在，摆幅会逐渐衰减直至停止。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间的感知",
+      "question": "当我们心情愉快地玩游戏时，往往感觉时间过得很快，这是因为什么？",
+      "options": [
+        "钟表走快了",
+        "地球自转变快了",
+        "主管感知的主观时间偏离了实际时间",
+        "周围的人都在加快节奏"
+      ],
+      "answer": "主管感知的主观时间偏离了实际时间",
+      "explanation": "心理时间受专注度和情绪影响，但这并不影响客观物理时间的流逝。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计时工具的演变",
+      "question": "在古代，人们利用影子、流水等来计时。相比之下，机械钟表的优点在于什么？",
+      "options": [
+        "更加美观",
+        "不受天气情况影响",
+        "不用维护",
+        "造价更低"
+      ],
+      "answer": "不受天气情况影响",
+      "explanation": "机械钟表不依赖阳光或外部水源补给，使用场景更广。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间的单位",
+      "question": "我们通常说一场篮球赛用了48分钟，这里的“分钟”是什么？",
+      "options": [
+        "时间的单位",
+        "长度的单位",
+        "速度的单位",
+        "重量的单位"
+      ],
+      "answer": "时间的单位",
+      "explanation": "分钟是常见的时间度量单位。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水钟的设计与水位控制",
+      "question": "小明制作的水钟在接水容器中，第1分钟接了20毫升水，第5分钟接了10毫升水，这最可能的原因是什么？",
+      "options": [
+        "水位太高了",
+        "没有保持供水容器水位恒定",
+        "受水容器破了",
+        "计时器坏了"
+      ],
+      "answer": "没有保持供水容器水位恒定",
+      "explanation": "对于泄水型水钟，水位下降会导致水压降低，流速显著变慢。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间的换算",
+      "question": "古代的一昼夜被划分为12个时辰，那么一个时辰相当于现在的（___）个小时。",
+      "options": [],
+      "answer": "2",
+      "explanation": "24小时除以12个时辰，每个时辰为2小时。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间的换算",
+      "question": "一分钟包含（___）秒。",
+      "options": [],
+      "answer": "60",
+      "explanation": "时间进率为60制。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水钟的设计与水位控制",
+      "question": "为了解决水流速度不均匀的问题，古人设计了（___）水钟。",
+      "options": [],
+      "answer": "受水型",
+      "explanation": "受水型水钟通常配有溢水装置保持水位恒定。"
+    }
+  ],
+  "knowledge": null
+}

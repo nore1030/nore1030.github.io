@@ -1,0 +1,79 @@
+{
+  "id": "chinese-g1down-u3-kp3",
+  "title": "ABB式词语积累",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 2,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "“安安静静”是ABB形式的词语吗？",
+      "options": [],
+      "answer": "错",
+      "explanation": "“安安静静”是AABB形式，“静悄悄”才是ABB形式。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "“叽叽喳喳”是形容鸟叫的声音。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“叽叽喳喳”通常形容很多小鸟在叫，也形容人多说话杂乱。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "天黑了，教室里_____的，一个人也没有。",
+      "options": [
+        "笑嘻嘻",
+        "静悄悄",
+        "胖乎乎",
+        "红润润"
+      ],
+      "answer": "静悄悄",
+      "explanation": "形容教室没有声音用“静悄悄”。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "请将颜色和对应的词语连起来。",
+      "options": [
+        "红",
+        "绿",
+        "黄",
+        "白",
+        "油油",
+        "灿灿",
+        "彤彤",
+        "茫茫"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "红彤彤，绿油油，黄灿灿，白茫茫。"
+    }
+  ],
+  "knowledge": {
+    "point": "ABB式词语积累",
+    "core_concept": "这类词语通过重叠后两字，起到强调状态、色彩或声音的作用，读起来朗朗上口。在描写环境时，如“静悄悄”；描写声音时，如“叽叽喳喳”；描写样子时，如“胖乎乎”。",
+    "key_formula": "前1个字 + 后2个重复的字",
+    "common_mistakes": [
+      "与AABB式（如：安安静静）混淆",
+      "第二个和第三个字写错"
+    ],
+    "tips": "按照分类来记，比如颜色类：红彤彤、绿油油、白生生。"
+  }
+}

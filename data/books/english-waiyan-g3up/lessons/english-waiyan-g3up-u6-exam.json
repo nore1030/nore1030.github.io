@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 6 I've got new shorts and new shoes 衣物与拥有",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "have got 表示拥有",
+      "question": "「他有一件新衬衫。」的英文是（　）",
+      "options": [
+        "He's got a new shirt.",
+        "He have got a new shirt.",
+        "He's get a new shirt.",
+        "He's got new shirt."
+      ],
+      "answer": "He's got a new shirt.",
+      "explanation": "三单用 has got。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+      "question": "「裤子」的英文是（　）",
+      "options": [
+        "trousers",
+        "trouser",
+        "trowsers",
+        "troussers"
+      ],
+      "answer": "trousers",
+      "explanation": "常用复数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+      "question": "shorts 通常以复数形式出现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个裤腿。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "have got 表示拥有",
+      "question": "— Has she got a new bag? — ___",
+      "options": [
+        "Yes, she has.",
+        "Yes, she have.",
+        "Yes, she is.",
+        "No, she hasn't got."
+      ],
+      "answer": "Yes, she has.",
+      "explanation": "has 问 has 答。"
+    }
+  ],
+  "knowledge": null
+}

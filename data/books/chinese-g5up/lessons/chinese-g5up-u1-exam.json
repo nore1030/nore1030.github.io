@@ -1,0 +1,227 @@
+{
+  "id": "chinese-g5up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 1,
+  "unitTitle": "万物有情",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“那是清澄的形象化。”中的“清澄”是一个描述水清澈的形容词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "清澄在文中形容水质极其清澈透明。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "对比描写手法的运用",
+      "question": "“晴天的清晨，每每看见它孤独地站立在小树的绝顶”，这里“孤独”表达了白鹭很可怜。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这里的“孤独”反衬出白鹭的清高、宁静和悠然，并非可怜。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“沉淀”的“淀”字部首是“氵”，读音是“diàn”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "字音字形考查，正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“花生的果实埋在地里，不像桃子……挂在枝头。”这里运用了拟人的手法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这只是一种叙述性的对比描写，没有拟人化特征。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "下列词语中带点字意思相同的一组是：",
+      "options": [
+        "开辟荒地/精辟分析",
+        "爱慕虚荣/倾慕才华",
+        "体面活儿/讲究体面",
+        "居然成功/居然坐下"
+      ],
+      "answer": "爱慕虚荣/倾慕才华",
+      "explanation": "两组中“慕”都表示向往、仰慕的意思。其他组意思有变迁。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "下列哪一个词语不是描写声音的？",
+      "options": [
+        "叮叮咚咚",
+        "窸窸窣窣",
+        "波光粼粼",
+        "叽叽喳喳"
+      ],
+      "answer": "波光粼粼",
+      "explanation": "波光粼粼是描写光影在水面上的静态/动态视觉效果。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物抒情与借物喻人",
+      "question": "《落花生》一课中，全家过花生收获节的顺序是：",
+      "options": [
+        "种花生、收花生、尝花生、议花生",
+        "收花生、种花生、吃花生、议花生",
+        "买花生、种花生、收花生、议花生",
+        "种花生、吃花生、卖花生、议花生"
+      ],
+      "answer": "种花生、收花生、尝花生、议花生",
+      "explanation": "按照课文叙述的先后顺序，先种后收，最后尝讨论。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物抒情与借物喻人",
+      "question": "《桂花雨》中，“浸”字用得好，是因为它（  ）",
+      "options": [
+        "说明雨下得非常大",
+        "说明桂花的香味非常浓郁，无处不在",
+        "说明作者全家人都被淋湿了",
+        "说明桂花被泡在了水里"
+      ],
+      "answer": "说明桂花的香味非常浓郁，无处不在",
+      "explanation": "“浸”体现了家乡、生活完全融合在桂花的芬芳里。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“它偶然停在我的书桌上。”中“偶然”的反义词是：",
+      "options": [
+        "突然",
+        "必然",
+        "通常",
+        "果然"
+      ],
+      "answer": "必然",
+      "explanation": "偶然代表非确定性，必然代表确定性。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物抒情与借物喻人",
+      "question": "关于《白鹭》这篇课文，下列说法错误的一项是：",
+      "options": [
+        "作者认为白鹭是一首韵在骨子里的散文诗",
+        "文中写出了白鹭在水田捕鱼的动态美",
+        "作者对白鹭的感情经历了从嫌弃到喜欢的变化",
+        "白鹭的颜色搭配和身段大小都很适宜"
+      ],
+      "answer": "作者对白鹭的感情经历了从嫌弃到喜欢的变化",
+      "explanation": "作者全文都在由衷赞美白鹭，没有嫌弃之意。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“那雪白的蓑毛”这一描写，采用了什么感官角度？",
+      "options": [
+        "视觉",
+        "嗅觉",
+        "触觉",
+        "听觉"
+      ],
+      "answer": "视觉",
+      "explanation": "颜色是视觉感官捕捉的信息。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“美中不足”的意思是虽然很好，但还有（   ）的地方。",
+      "options": [],
+      "answer": "不够完美",
+      "explanation": "考察成语含义的基本理解。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物抒情与借物喻人",
+      "question": "《落花生》课文告诉我们，做人要做（   ）的人。",
+      "options": [],
+      "answer": "有用",
+      "explanation": "课文中心原话：要做有用的人。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "请将加点字与其正确的读音连线：",
+      "options": [
+        "挨近",
+        "便宜",
+        "尽管",
+        "镜匣",
+        "xiá",
+        "jǐn",
+        "āi",
+        "pián"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "挨近(āi)，便宜(pián)，尽管(jǐn)，镜匣(xiá)。"
+    },
+    {
+      "id": 20,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "请将词语排成描写珍珠鸟的句子：",
+      "options": [
+        "珍珠鸟",
+        "在笼子四周",
+        "这种",
+        "飞来飞去",
+        "总是"
+      ],
+      "answer": "这种,珍珠鸟,总是,在笼子四周,飞来飞去",
+      "explanation": "按照珍珠鸟课文描写的动态进行排序。"
+    }
+  ],
+  "knowledge": null
+}

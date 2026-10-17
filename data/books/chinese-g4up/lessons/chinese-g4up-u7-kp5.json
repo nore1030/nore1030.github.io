@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp5",
+  "title": "近义词选择",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 3,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词选择",
+      "question": "“梅兰芳拒绝了日本人的邀请。”中最适合替代“拒绝”的词语是：",
+      "options": [
+        "谢绝",
+        "离开",
+        "打算",
+        "无视"
+      ],
+      "answer": "谢绝",
+      "explanation": "谢绝与拒绝在婉言推辞的语境下意思相近。"
+    }
+  ],
+  "knowledge": null
+}

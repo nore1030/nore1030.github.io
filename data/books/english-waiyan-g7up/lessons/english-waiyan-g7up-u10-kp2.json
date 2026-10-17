@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u10-kp2",
+  "title": "节日活动表达",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 10,
+  "unitTitle": "Module 10 Spring Festival 春节",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "节日活动表达",
+      "question": "「放烟花」的英文是（　）",
+      "options": [
+        "set off fireworks",
+        "set up fireworks",
+        "set off firework",
+        "put off fireworks"
+      ],
+      "answer": "set off fireworks",
+      "explanation": "set off 燃放。"
+    }
+  ],
+  "knowledge": {
+    "point": "节日活动表达",
+    "core_concept": "set off fireworks 放烟花、have a big dinner 吃年夜饭、visit relatives 走亲戚；be going to 表计划。",
+    "key_formula": "We're going to watch fireworks.",
+    "common_mistakes": [
+      "set off 写成 set up。"
+    ],
+    "tips": "燃放烟花用 set off。"
+  }
+}

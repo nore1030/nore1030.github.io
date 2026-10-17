@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp15",
+  "title": "字义辨析",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字义辨析",
+      "question": "在《风娃娃》一课中，“纤夫”的“纤”字最准确的意思是什么？",
+      "options": [
+        "细小的",
+        "拉船的绳索",
+        "柔软的",
+        "很轻的"
+      ],
+      "answer": "拉船的绳索",
+      "explanation": "纤夫是指用纤绳拉船的人，这里纤指拉船的绳子。"
+    }
+  ],
+  "knowledge": null
+}

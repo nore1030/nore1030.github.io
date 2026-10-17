@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp12",
+  "title": "疑问词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 8,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问词辨析",
+      "question": "____ are you going to the party? At 7:00.",
+      "options": [
+        "Where",
+        "When",
+        "Who",
+        "How"
+      ],
+      "answer": "When",
+      "explanation": "对时间提问用When。"
+    }
+  ],
+  "knowledge": null
+}

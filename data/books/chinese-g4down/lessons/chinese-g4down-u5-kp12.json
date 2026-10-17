@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp12",
+  "title": "关联词语",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关联词语",
+      "question": "填入括号最恰当的是：（）在船里并排仰卧，刚合适，再没法容下一人。",
+      "options": [
+        "虽然",
+        "由于",
+        "所以",
+        "哪怕"
+      ],
+      "answer": "哪怕",
+      "explanation": "此处表示假设或极端的限定，语境为描写孔隙的窄小。"
+    }
+  ],
+  "knowledge": null
+}

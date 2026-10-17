@@ -1,0 +1,34 @@
+{
+  "id": "english-g6up-u6-kp5",
+  "title": "建议类动词短语",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 1,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "建议类动词短语",
+      "question": "'take a deep breath' 的意思是'深呼吸'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "take a deep breath是深呼吸，常用于缓解情绪。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "建议类动词短语",
+      "question": "当别人生病时，我们可以建议说：'You should see a doctor.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "see a doctor意为看医生，是合理的健康建议。"
+    }
+  ],
+  "knowledge": null
+}

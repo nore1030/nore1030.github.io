@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp21",
+  "title": "岩层断裂",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "岩层断裂",
+      "question": "两个板块相互挤压产生地表突出的地形是（ ）。",
+      "options": [
+        "大海",
+        "大峡谷",
+        "高山",
+        "裂谷"
+      ],
+      "answer": "高山",
+      "explanation": "板块挤压会导致岩层隆起形成山脉，如喜马拉雅山。"
+    }
+  ],
+  "knowledge": null
+}

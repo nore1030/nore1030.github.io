@@ -1,0 +1,53 @@
+{
+  "id": "g9down-u2-kp2",
+  "title": "相似三角形的性质",
+  "bookId": "g9down",
+  "unitNumber": 2,
+  "unitTitle": "相似",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "相似三角形的性质",
+      "question": "相似三角形面积比等于相似比的平方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相似性质。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "相似三角形的性质",
+      "question": "两相似三角形相似比为 2:3，则面积比为多少（填分数如 4/9）？",
+      "options": [],
+      "answer": "4/9",
+      "explanation": "$2^2:3^2=4:9$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "相似三角形的性质",
+      "question": "两相似三角形相似比为 3，小三角形周长为 6，大三角形周长是多少？",
+      "options": [],
+      "answer": "18",
+      "explanation": "$6\\times3=18$。"
+    }
+  ],
+  "knowledge": {
+    "point": "相似三角形的性质",
+    "core_concept": "相似三角形对应线段（高、中线、角平分线）之比等于相似比；周长比等于相似比；面积比等于相似比的平方。",
+    "key_formula": "面积比 $=k^2$",
+    "common_mistakes": [
+      "面积比误写成 $k$。"
+    ],
+    "tips": "记住平方关系。"
+  }
+}

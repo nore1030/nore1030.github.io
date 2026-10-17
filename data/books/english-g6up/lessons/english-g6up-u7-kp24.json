@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u7-kp24",
+  "title": "情绪英汉配对",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情绪英汉配对",
+      "question": "请将情绪词汇与其对应的中文意思连线。",
+      "options": [
+        "scared",
+        "angry",
+        "worried",
+        "excited",
+        "担心的",
+        "害怕的",
+        "兴奋的",
+        "生气的"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "scared-害怕, angry-生气, worried-担心, excited-兴奋。"
+    }
+  ],
+  "knowledge": null
+}

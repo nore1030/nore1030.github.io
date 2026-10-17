@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbook\u002F[book]","\u002Fgrade\u002F[grade]","\u002Fguide\u002F[bookUnit]","\u002Flesson\u002F[lesson]","\u002Fpassage\u002F[passage]","\u002Freading\u002F[book]","\u002Fstage\u002F[stage]","\u002Fstage\u002F[stage]\u002Fversions","\u002Fstories\u002F[book]","\u002Fstory\u002F[story]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

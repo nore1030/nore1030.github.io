@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp17",
+  "title": "材料选择",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 11,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "材料选择",
+      "question": "双体船的主要优点是什么？",
+      "options": [
+        "美观",
+        "稳定性好",
+        "阻力更大",
+        "排水量更小"
+      ],
+      "answer": "稳定性好",
+      "explanation": "双体船底部分开，横向稳定性极高，不容易侧翻。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g9up-u2-kp1",
+  "title": "文言文阅读",
+  "bookId": "chinese-g9up",
+  "unitNumber": 2,
+  "unitTitle": "文言文与古诗",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "文言文阅读",
+      "question": "判断句“……者，……也”的标志词是（　）",
+      "options": [
+        "……也",
+        "是",
+        "非",
+        "以"
+      ],
+      "answer": "……也",
+      "explanation": "“……者，……也”是判断句标志。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "文言文阅读",
+      "question": "判断句常以“是、标志、说明”等词为标志。",
+      "options": [],
+      "answer": "对",
+      "explanation": "判断句标志。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言文阅读",
+    "core_concept": "重点掌握“之、其、而、以、于”等词的意义和用法，识别判断句、被动句、倒装句等特殊句式。",
+    "key_formula": "判断句：A 是 B（标志：是、标志、说明）",
+    "common_mistakes": [
+      "忽略特殊句式。"
+    ],
+    "tips": "抓标志词识别句式。"
+  }
+}

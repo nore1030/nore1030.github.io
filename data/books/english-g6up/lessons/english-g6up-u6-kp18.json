@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u6-kp18",
+  "title": "身体健康与建议",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体健康与建议",
+      "question": "If you are ill, you should see a ______.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "生病看医生，固定短语see a doctor。"
+    }
+  ],
+  "knowledge": null
+}

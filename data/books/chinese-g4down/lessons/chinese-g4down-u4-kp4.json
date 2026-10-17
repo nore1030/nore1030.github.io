@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u4-kp4",
+  "title": "词语字音",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语字音",
+      "question": "“看守”中的“看”字读音是 kàn。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“看守”的“看”读一声kān，表示守护。"
+    }
+  ],
+  "knowledge": null
+}

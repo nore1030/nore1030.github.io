@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u10-exam",
+  "title": "第 10 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "轴对称图形对折后，两边能够完全重合。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是轴对称图形的定义特征。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "$48 \times 6 + 2$ 应该先算除法，再算加法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在没有括号的算式中，有除法和加法，先算除法。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "最小的四位数比最大的三位数大 1。",
+      "options": [],
+      "answer": "对",
+      "explanation": "最小的四位数是 1000，最大的三位数是 999，$1000 - 999 = 1$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "把 15 个苹果分给 3 个小朋友，每人一定分到 5 个。",
+      "options": [],
+      "answer": "错",
+      "explanation": "没有说明是“平均分”，所以不一定每人 5 个。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "下面各数中，一个零也不读的是（ ）。",
+      "options": [
+        "4008",
+        "4800",
+        "4080",
+        "4000"
+      ],
+      "answer": "4800",
+      "explanation": "末尾的 0 不读。4800 读作四千八百。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "二(1)班有男生 25 人，女生 23 人，每 8 人一组，可以分成几组？",
+      "options": [
+        "5 组",
+        "6 组",
+        "7 组",
+        "8 组"
+      ],
+      "answer": "6 组",
+      "explanation": "总人数：$25 + 23 = 48$（人）；组数：$48 \times 8 = 6$（组）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "1 千克铁和 1000 克棉花比较，（ ）。",
+      "options": [
+        "铁重",
+        "棉花重",
+        "一样重",
+        "无法比较"
+      ],
+      "answer": "一样重",
+      "explanation": "1 千克 = 1000 克，所以重量相等。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "在算式 $(\text{ }) \times 6 = 7 \text{ …… } 4$ 中，括号里应填（ ）。",
+      "options": [
+        "42",
+        "46",
+        "24",
+        "50"
+      ],
+      "answer": "46",
+      "explanation": "被除数 = 商 $\times$ 除数 + 余数，即 $7 \times 6 + 4 = 42 + 4 = 46$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "有 32 颗糖，最少拿走（ ）颗，就能正好平均分给 5 个小朋友。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "$32 \times 5 = 6$（颗）……2（颗）。余数是几，最少就拿走几。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "63 减去 27 与 9 的商，差是（ ）。",
+      "options": [
+        "4",
+        "60",
+        "54",
+        "36"
+      ],
+      "answer": "60",
+      "explanation": "列式：$63 - 27 \times 9 = 63 - 3 = 60$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "4500 里的“5”表示（ ）。",
+      "options": [
+        "5 个十",
+        "5 个百",
+        "5 个千",
+        "5 个一"
+      ],
+      "answer": "5 个百",
+      "explanation": "5 在百位上，所以表示 5 个百。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "根据口诀“三八二十四”写出的除法算式是（ ）。",
+      "options": [
+        "24 \times 3 = 8",
+        "3 \times 8 = 24",
+        "24 - 8 = 16",
+        "24 + 3 = 27"
+      ],
+      "answer": "24 \times 3 = 8",
+      "explanation": "根据乘法口诀可以写出两道除法算式，$24 \times 3 = 8$ 和 $24 \times 8 = 3$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "一个四位数，它的最高位是 7，十位上是 3，其他数位都是 0，这个数是 ___。",
+      "options": [],
+      "answer": "7030",
+      "explanation": "千位是 7，十位是 3，其余 0。即 7030。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "45 除以 9 与 4 的和，商是 ___。",
+      "options": [],
+      "answer": "1",
+      "explanation": "$45 \times (9 + 4)$ 不是此意。应为 $45 \times 9 = 5$，$5 + 4 = 9$。若指 $45 \times (9)$ 则是 5。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算：$800 + 700 = ?$",
+      "options": [],
+      "answer": "1500",
+      "explanation": "8 个百加 7 个百是 15 个百，即 1500。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u3-kp22",
+  "title": "时间状语匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间状语匹配",
+      "question": "将时间状语与对应意思连线。",
+      "options": [
+        "tonight",
+        "this morning",
+        "next week",
+        "this afternoon",
+        "今天下午",
+        "下周",
+        "今晚",
+        "今天上午"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "tonight是今晚，this morning是今天上午，next week是下周，this afternoon是今天下午。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u3-kp1",
+  "title": "指示代词 this / that / these / those",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 3 These ducks are very naughty 淘气的鸭子",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / that / these / those",
+      "question": "指近处的多个物体，用（　）",
+      "options": [
+        "these",
+        "this",
+        "that",
+        "those"
+      ],
+      "answer": "these",
+      "explanation": "复近用 these。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / that / these / those",
+      "question": "指远处的单个物体，用（　）",
+      "options": [
+        "that",
+        "this",
+        "these",
+        "those"
+      ],
+      "answer": "that",
+      "explanation": "单远用 that。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / that / these / those",
+      "question": "these 是复数，后面接复数名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "these + 复数。"
+    }
+  ],
+  "knowledge": {
+    "point": "指示代词 this / that / these / those",
+    "core_concept": "this 这个（近）、that 那个（远）、these 这些（近，复数）、those 那些（远，复数）。",
+    "key_formula": "This is a duck. / These are ducks.",
+    "common_mistakes": [
+      "these 当成单数。"
+    ],
+    "tips": "单近 this，单远 that；复近 these，复远 those。"
+  }
+}

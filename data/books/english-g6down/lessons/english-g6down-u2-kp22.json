@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp22",
+  "title": "不规则变化",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不规则变化",
+      "question": "I _______ (drink) some tea last night.",
+      "options": [],
+      "answer": "drank",
+      "explanation": "drink的过去式是不规则形式drank。"
+    }
+  ],
+  "knowledge": null
+}

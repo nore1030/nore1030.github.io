@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g3down-u5-kp7",
+  "title": "理解阅读",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "“在这长满各种形状的鸟窝的树上，我会请小兔、小刺猬快活地住进去。”这句话表达了作者怎样的心情？",
+      "options": [
+        "痛苦的",
+        "纠结的",
+        "分享的快乐",
+        "害怕的"
+      ],
+      "answer": "分享的快乐",
+      "explanation": "邀请小动物居住体现了善意和快乐的情绪。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "在《小真的长头发》里，小真把辫子垂下来是为了：",
+      "options": [
+        "钓鱼",
+        "跳绳",
+        "晾衣服",
+        "吓跑怪兽"
+      ],
+      "answer": "钓鱼",
+      "explanation": "考查对课外/教材拓展阅读情节的记忆。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g4down-u3-kp6",
+  "title": "字词音形义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 4,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词音形义",
+      "question": "下列词语中，加点字“绽”的正确读音是：",
+      "options": [
+        "dìng",
+        "zhàn",
+        "zhè",
+        "diàn"
+      ],
+      "answer": "zhàn",
+      "explanation": "“绽放”的“绽”读作 zhàn。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词音形义",
+      "question": "“抖去水珠的凤蝶，晖中扇动着翅膀。”中“晖”的意思是：",
+      "options": [
+        "月光",
+        "灯光",
+        "阳光",
+        "闪电"
+      ],
+      "answer": "阳光",
+      "explanation": "朝晖、夕晖都指阳光的映射。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "english-g6up-u3-kp24",
+  "title": "陈述句序",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句序",
+      "question": "将其连成一句话：am, to, I, study, going, .",
+      "options": [
+        "am",
+        "to",
+        "I",
+        "study",
+        "going",
+        "."
+      ],
+      "answer": "I,am,going,to,study,.",
+      "explanation": "陈述句主语在前：I + am + going + to + 动词原形。"
+    }
+  ],
+  "knowledge": null
+}

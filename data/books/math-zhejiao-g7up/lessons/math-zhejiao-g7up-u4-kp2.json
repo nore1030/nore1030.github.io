@@ -1,0 +1,42 @@
+{
+  "id": "math-zhejiao-g7up-u4-kp2",
+  "title": "整式与合并同类项",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 4,
+  "unitTitle": "第4章 代数式",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "整式与合并同类项",
+      "question": "合并同类项：$7m-3m+2m=$ ？（填最简形式）",
+      "options": [],
+      "answer": "6m",
+      "explanation": "$(7-3+2)m=6m$。"
+    },
+    {
+      "id": 4,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整式与合并同类项",
+      "question": "单项式 $-4x^2y$ 的系数是 ___。",
+      "options": [],
+      "answer": "-4",
+      "explanation": "数字因数 $-4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "整式与合并同类项",
+    "core_concept": "单项式的数字因数是系数，所有字母指数之和是次数。几个单项式的和是多项式。同类项合并时系数相加。",
+    "key_formula": "$ax+bx=(a+b)x$",
+    "common_mistakes": [
+      "把 $x^2$ 与 $x$ 当同类项。"
+    ],
+    "tips": "先标同类项再合并。"
+  }
+}

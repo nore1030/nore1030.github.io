@@ -1,0 +1,39 @@
+{
+  "id": "science-g5down-u1-kp11",
+  "title": "食物链",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "食物链",
+      "question": "在食物链中，箭头符号应该指向捕食者（吃的一方）。",
+      "options": [],
+      "answer": "对",
+      "explanation": "箭头代表能量流动的方向，从被食者指向捕食者。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物链",
+      "question": "下列食物链书写规范的是（ ）。",
+      "options": [
+        "阳光→草→兔→狼",
+        "草←兔←狼",
+        "草→兔→狼",
+        "落叶→蚯蚓"
+      ],
+      "answer": "草→兔→狼",
+      "explanation": "食物链必须从生产者开始，不包括阳光，且箭头指向捕食者。"
+    }
+  ],
+  "knowledge": null
+}

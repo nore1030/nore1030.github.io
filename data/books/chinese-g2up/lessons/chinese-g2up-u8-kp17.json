@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp17",
+  "title": "词语搭配",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "下列词语搭配不恰当的一项是？",
+      "options": [
+        "洁白的纸船",
+        "飘荡的风筝",
+        "火红的尾巴",
+        "飞快地跳舞"
+      ],
+      "answer": "飞快地跳舞",
+      "explanation": "跳舞动作通常用“优雅”或“欢快”，一般不搭配“飞快”。"
+    }
+  ],
+  "knowledge": null
+}

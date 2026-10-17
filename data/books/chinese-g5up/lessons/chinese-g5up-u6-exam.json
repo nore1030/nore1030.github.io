@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g5up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“抑郁”的“抑”意思是“压低、控制”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "抑在本词中指情感被压抑不能伸展。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "场景与细节描写刻画人物",
+      "question": "描写环境（如昏暗的灯光）不能用来表现人物的品质。",
+      "options": [],
+      "answer": "错",
+      "explanation": "环境描写往往起烘托作用，可以侧面表现人物的艰辛与品质。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "写信给长辈时，祝颂语可以用“祝你学习进步”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“学习进步”通常用于长辈对晚辈或同学间，对长辈应使用健康、万事如意等语。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "《“精彩极了”和“糟糕透了”》说明母爱比父爱更重要。",
+      "options": [],
+      "answer": "错",
+      "explanation": "文章说明了慈母和严父的爱虽然形式不同，但对于平衡成长同样重要。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“我一直想买一本名为《青年近卫军》的小说。”这句话中《 》的作用是：",
+      "options": [
+        "特定称谓",
+        "书名号",
+        "讽刺否定",
+        "强调说明"
+      ],
+      "answer": "书名号",
+      "explanation": "书名号用于标明书名、篇名等。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "关于书信的署名，如果给老师写信，最合适的署名是：",
+      "options": [
+        "您的学生：张明",
+        "张明",
+        "你的朋友",
+        "张大爷"
+      ],
+      "answer": "您的学生：张明",
+      "explanation": "给老师写信应体现师生关系的称谓礼貌。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：‘它是那么小，却载着我从偏僻的乡村走向了宽广的世界。’这里的‘它’指：",
+      "options": [
+        "母亲的怀抱",
+        "父爱之舟",
+        "远行的马车",
+        "希望的翅膀"
+      ],
+      "answer": "父爱之舟",
+      "explanation": "根据《父爱之舟》内容，小船是作者求学之路的起点。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "场景与细节描写刻画人物",
+      "question": "为什么《慈母情深》中要多次描写厂房的噪音和闷热？",
+      "options": [
+        "介绍当时工厂的先进",
+        "说明母亲由于工资高才辛苦",
+        "烘托母亲工作环境的恶劣",
+        "表现工作的趣味性"
+      ],
+      "answer": "烘托母亲工作环境的恶劣",
+      "explanation": "环境描写旨在衬托母亲通过艰辛劳动撑起家庭，体现母爱的伟大。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "《父爱之舟》中，父亲加倍努力摇船是为了省下住宿钱，这说明：",
+      "options": [
+        "父亲非常小气",
+        "家里非常贫穷",
+        "父亲喜欢摇船",
+        "路途并不遥远"
+      ],
+      "answer": "家里非常贫穷",
+      "explanation": "体现了父亲为了供儿子读书，在生活各方面极其节俭。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "选出与“忐忑不安”情感色彩最接近的一项：",
+      "options": [
+        "心惊肉跳",
+        "兴致勃勃",
+        "从容不迫",
+        "欢天喜地"
+      ],
+      "answer": "心惊肉跳",
+      "explanation": "两者都表现心理的惶恐不安。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "场景与细节描写刻画人物",
+      "question": "“母亲塞给我两块钱。”这里的“塞”字表现了：",
+      "options": [
+        "母亲动作粗暴",
+        "钱的数量很多",
+        "母亲态度的坚决与对孩子的疼爱",
+        "母亲急着赶我走"
+      ],
+      "answer": "母亲态度的坚决与对孩子的疼爱",
+      "explanation": "一个“塞”字体现了母亲虽辛苦但支持儿子买书的坚定心意。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "在正式信件中，署名的下一行应该是（___）。",
+      "options": [],
+      "answer": "日期",
+      "explanation": "书信的最末尾项是写信的年月日。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "场景与细节描写刻画人物",
+      "question": "《慈母情深》描写母亲劳动的声音是（___）声。",
+      "options": [],
+      "answer": "震耳欲聋",
+      "explanation": "文中形容厂房噪音极大，用此词语。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "把词语与其对应的意思连接起来。",
+      "options": [
+        "失魂落魄",
+        "震耳欲聋",
+        "一如既往",
+        "喋喋不休",
+        "形容声音极大",
+        "心神不定",
+        "唠叨个没完",
+        "跟从前一样"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "本单元核心成语的释义。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "根据信件情境选择最合适的结语。",
+      "options": [
+        "给老师",
+        "给父母",
+        "给同桌",
+        "给警察叔叔",
+        "您辛苦了",
+        "桃李满天下",
+        "学业进步",
+        "敬礼"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "考察根据对象选择语言得体度。"
+    }
+  ],
+  "knowledge": null
+}

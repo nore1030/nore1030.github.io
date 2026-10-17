@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp9",
+  "title": "标点符号",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“这里的牛群 羊群 骏马 仿佛构成了画卷”空格处应填入的标点是：",
+      "options": [
+        "顿号 顿号 逗号",
+        "逗号 逗号 句号",
+        "顿号 顿号 冒号",
+        "分号 分号 叹号"
+      ],
+      "answer": "顿号 顿号 逗号",
+      "explanation": "短语内部并列使用顿号，句子中间停顿用逗号。"
+    }
+  ],
+  "knowledge": null
+}

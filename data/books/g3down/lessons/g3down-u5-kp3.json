@@ -1,0 +1,113 @@
+{
+  "id": "g3down-u5-kp3",
+  "title": "长方形与正方形面积公式",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "两个面积相等的长方形，它们的周长也一定相等。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如面积为 12 的长方形，可以是 $3 \\times 4$（周长 14）也可以是 $2 \\times 6$（周长 16）。故错误。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "一个长方形长 8 厘米，宽 5 厘米，它的面积是多少平方厘米？",
+      "options": [
+        "13",
+        "26",
+        "40",
+        "80"
+      ],
+      "answer": "40",
+      "explanation": "$8 \\times 5 = 40$。验算：$40 \\div 5 = 8$，符合题意。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "一个正方形的面积是 36 平方厘米，它的边长是多少厘米？",
+      "options": [
+        "9",
+        "6",
+        "4",
+        "18"
+      ],
+      "answer": "6",
+      "explanation": "正方形面积 = 边长 × 边长，$6 \\times 6 = 36$。验算正确。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "黑板长 4 米，宽 1 米，给它围上一圈装饰条，需要多长的装饰条？",
+      "options": [
+        "4 米",
+        "5 米",
+        "10 米",
+        "4 平方米"
+      ],
+      "answer": "10 米",
+      "explanation": "围一圈是求周长：$(4 + 1) \\times 2 = 10$（米）。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "一间教室地面长 9 米，宽 6 米，它的面积是 ___ 平方米。",
+      "options": [],
+      "answer": "54",
+      "explanation": "长方形面积 $=$ 长 $\\times$ 宽，即 $9 \\times 6 = 54$ 平方米。验算：$54 \\div 9 = 6$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "计算长方形面积：长 12 厘米，宽 5 厘米。$12 \\times 5 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$12 \\times 5 = 60$。验算：$60 \\div 5 = 12$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "计算正方形面积：边长 20 分米。$20 \\times 20 = ?$",
+      "options": [],
+      "answer": "400",
+      "explanation": "$20 \\times 20 = 400$。验算：$400 \\div 20 = 20$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "长方形与正方形面积公式",
+    "core_concept": "面积计算的本质是数出包含多少个单位面积。长方形包含的个数恰好是每行个数（长）乘以行数（宽）。正方形是特殊的长方形，边长相等。",
+    "key_formula": "$S = a \\times b$（长 $\\times$ 宽）；$S = a \\times a$（边长 $\\times$ 边长）",
+    "common_mistakes": [
+      "计算时长宽单位不统一就直接相乘",
+      "错误地将长方形面积记为（长+宽）× 2（那是周长公式）"
+    ],
+    "tips": "做题时先画图并标注数据，核对单位后再代入公式计算。"
+  }
+}

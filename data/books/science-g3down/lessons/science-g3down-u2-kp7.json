@@ -1,0 +1,66 @@
+{
+  "id": "science-g3down-u2-kp7",
+  "title": "动物的繁殖方式",
+  "bookId": "science-g3down",
+  "unitNumber": 2,
+  "unitTitle": "动物的一生",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物的繁殖方式",
+      "question": "蝙蝠会飞，因此它属于鸟类，是通过产卵繁殖后代的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蝙蝠是哺乳动物，属于胎生。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的繁殖方式",
+      "question": "下列动物中，属于胎生动物的是（）。",
+      "options": [
+        "金鱼",
+        "燕子",
+        "大熊猫",
+        "鳄鱼"
+      ],
+      "answer": "大熊猫",
+      "explanation": "大熊猫通过产下幼崽并哺乳，是胎生。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的繁殖方式",
+      "question": "小明家养了一只狗，它属于（）。",
+      "options": [
+        "卵生动物",
+        "胎生动物",
+        "两栖动物",
+        "变态发育动物"
+      ],
+      "answer": "胎生动物",
+      "explanation": "狗是哺乳动物，直接产下胎儿。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的繁殖方式",
+      "question": "靠产卵繁殖后代的繁殖方式叫（___）。",
+      "options": [],
+      "answer": "卵生",
+      "explanation": "卵生是动物繁殖的基本方式之一。"
+    }
+  ],
+  "knowledge": null
+}

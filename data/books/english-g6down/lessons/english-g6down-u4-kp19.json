@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u4-kp19",
+  "title": "时间介词",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间介词",
+      "question": "Thirty years _____ , there were no computers in our class.",
+      "options": [],
+      "answer": "ago",
+      "explanation": "ago意为…以前。"
+    }
+  ],
+  "knowledge": null
+}

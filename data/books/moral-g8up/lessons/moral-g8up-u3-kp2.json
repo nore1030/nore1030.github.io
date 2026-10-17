@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8up-u3-kp2",
+  "title": "维护国家安全",
+  "bookId": "moral-g8up",
+  "unitNumber": 3,
+  "unitTitle": "维护国家利益与安全",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护国家安全",
+      "question": "发现危害国家安全的行为，正确做法是（　）",
+      "options": [
+        "及时向公安机关或国家安全机关报告",
+        "视而不见",
+        "上网传播",
+        "自己追查打斗"
+      ],
+      "answer": "及时向公安机关或国家安全机关报告",
+      "explanation": "及时报告。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护国家安全",
+      "question": "国家安全包括网络信息安全。",
+      "options": [],
+      "answer": "对",
+      "explanation": "总体国家安全观。"
+    }
+  ],
+  "knowledge": {
+    "point": "维护国家安全",
+    "core_concept": "国家安全包括政治、军事、国土、经济、文化、网络等方面。作为公民要树立国家安全意识，发现危害国家安全行为要及时报告。",
+    "key_formula": "总体国家安全观",
+    "common_mistakes": [
+      "认为国家安全与我无关。"
+    ],
+    "tips": "人人都有维护义务。"
+  }
+}

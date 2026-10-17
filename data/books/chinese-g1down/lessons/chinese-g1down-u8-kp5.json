@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp5",
+  "title": "词语辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 4,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语辨析",
+      "question": "看到湖边的美景，我们可以说：这里的景色真（）呀！",
+      "options": [
+        "美妙",
+        "美丽",
+        "美味",
+        "大名"
+      ],
+      "answer": "美丽",
+      "explanation": "形容景色通常用美丽。"
+    }
+  ],
+  "knowledge": null
+}

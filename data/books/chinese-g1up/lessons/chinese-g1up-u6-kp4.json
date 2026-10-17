@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g1up-u6-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g1up",
+  "unitNumber": 6,
+  "unitTitle": "识字（二）：会意字与生活识字",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "阅读《画》：远看山有色，近听水无声。诗中“远”的反义词是？",
+      "options": [
+        "去",
+        "近",
+        "有",
+        "无"
+      ],
+      "answer": "近",
+      "explanation": "诗句中“远看”对“近听”，“远”和“近”是一对反义词。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "找出下列词语的反义词。",
+      "options": [
+        "大",
+        "多",
+        "上",
+        "男",
+        "下",
+        "小",
+        "女",
+        "少"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "大对小，多对手，上对下，男对女。"
+    }
+  ],
+  "knowledge": null
+}

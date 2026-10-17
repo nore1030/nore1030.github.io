@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8up-u1-kp2",
+  "title": "中国的地形与气候",
+  "bookId": "geography-g8up",
+  "unitNumber": 1,
+  "unitTitle": "中国的疆域与自然环境",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中国的地形与气候",
+      "question": "我国地势的总体特征是（　）",
+      "options": [
+        "东高西低",
+        "西高东低、呈三级阶梯",
+        "南高北低",
+        "四周高中间低"
+      ],
+      "answer": "西高东低、呈三级阶梯",
+      "explanation": "地势西高东低。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的地形与气候",
+      "question": "我国降水由东南沿海向西北内陆递减。",
+      "options": [],
+      "answer": "对",
+      "explanation": "降水空间分布规律。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国的地形与气候",
+    "core_concept": "中国地势西高东低，呈三级阶梯分布。气候类型复杂多样，季风气候显著。降水由东南沿海向西北内陆递减。",
+    "key_formula": "西高东低、三级阶梯",
+    "common_mistakes": [
+      "把季风区与非季风区界线记错。"
+    ],
+    "tips": "季风区界线大致为大兴安岭—阴山—贺兰山。"
+  }
+}

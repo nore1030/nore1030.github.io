@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp13",
+  "title": "短语搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "短语搭配",
+      "question": "I hurt my foot and ___ my bike.",
+      "options": [
+        "fell off",
+        "fall off",
+        "fells off",
+        "falling off"
+      ],
+      "answer": "fell off",
+      "explanation": "前半句hurt是过去式，后半句也应用过去式fell off。"
+    }
+  ],
+  "knowledge": null
+}

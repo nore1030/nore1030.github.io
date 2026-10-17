@@ -1,0 +1,223 @@
+{
+  "id": "chinese-g1up-u7-kp2",
+  "title": "拟人化文本的情感体验",
+  "bookId": "chinese-g1up",
+  "unitNumber": 7,
+  "unitTitle": "课文（二）：观察与成长",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "《青蛙写诗》中，青蛙是在大雨天里写诗的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诗歌开头写到“下雨了，雨点儿淅沥沥，地上的青蛙说：‘我要写诗啦！’”"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "在课文中，小蝌蚪想给青蛙当小逗号。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小蝌蚪摇着尾巴说：“我来给你当个小逗号。”"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "《青蛙写诗》中，“水泡泡”当了什么标点？",
+      "options": [
+        "逗号",
+        "句号",
+        "叹号",
+        "问号"
+      ],
+      "answer": "句号",
+      "explanation": "水泡泡圆圆的，长得像句号。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "《雨点儿》中，大雨点儿想去的地方是哪里？",
+      "options": [
+        "有花有草的地方",
+        "没有花没有草的地方",
+        "高山上",
+        "大海里"
+      ],
+      "answer": "没有花没有草的地方",
+      "explanation": "大雨点儿对小雨点儿说，它要去没有花没有草的地方。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "“不久，有花有草的地方，花更红了，草更绿了。”这句话是在赞美谁？",
+      "options": [
+        "太阳",
+        "青蛙",
+        "雨点儿",
+        "大树"
+      ],
+      "answer": "雨点儿",
+      "explanation": "雨点儿滋润了大地，让花草长得更好。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "课文《青蛙写诗》中，一串水珠当了（  ）。",
+      "options": [
+        "连字符",
+        "省略号",
+        "感叹号",
+        "逗号"
+      ],
+      "answer": "省略号",
+      "explanation": "一串水珠排列在一起，样子像省略号。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "《雨点儿》课文中，“数不清”说明雨点儿（  ）。",
+      "options": [
+        "非常大",
+        "非常多",
+        "非常重",
+        "非常凉"
+      ],
+      "answer": "非常多",
+      "explanation": "“数不清”形容数量多得算不过来。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "青蛙写的诗里一直重复“呱呱呱”，这说明青蛙在（  ）。",
+      "options": [
+        "哭泣",
+        "叫喊",
+        "唱歌说话",
+        "睡觉"
+      ],
+      "answer": "唱歌说话",
+      "explanation": "“呱呱”是青蛙的语言方式，在拟人化语境中它在写诗表达情感。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "《雨点儿》中，不仅小雨点儿从云彩里飘落，（  ）雨点儿也落下来了。",
+      "options": [],
+      "answer": "大",
+      "explanation": "课文描述了大小雨点儿的对话。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "根据课文《青蛙写诗》，将事物与其扮演的标点连线。",
+      "options": [
+        "小蝌蚪",
+        "水泡泡",
+        "一串水珠",
+        "青蛙",
+        "作者",
+        "逗号",
+        "句号",
+        "省略号"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "小蝌蚪当逗号，水泡泡当句号，一串水珠当省略号，青蛙是作者。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "根据《雨点儿》课文内容，将落下的地方与变化连起来。",
+      "options": [
+        "落到有花有草处",
+        "落到无花无草处",
+        "小雨点儿",
+        "大雨点儿",
+        "去没花草处",
+        "去有花草处",
+        "开出了红花",
+        "花更红草更绿"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "大雨点儿去没花草处让那里开花，小雨点儿去有花草处让那里更绿。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "连词成句：",
+      "options": [
+        "雨点儿",
+        "云彩里",
+        "从",
+        "飘落下来"
+      ],
+      "answer": "雨点儿,从,云彩里,飘落下来",
+      "explanation": "考查课文中的核心句式表达方式。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟人化文本的情感体验",
+      "question": "连词成句：",
+      "options": [
+        "小蝌蚪",
+        "逗号",
+        "说",
+        "可以",
+        "当"
+      ],
+      "answer": "小蝌蚪,说,可以,当,逗号",
+      "explanation": "考查对拟人化叙述顺序的掌握。"
+    }
+  ],
+  "knowledge": {
+    "point": "拟人化文本的情感体验",
+    "core_concept": "拟人是本单元课文的主要修辞手法。通过将小蝌蚪、水泡泡、雨点儿赋予人类的语言和情感，让自然的科普知识变得生动有趣。学生需要学会在阅读中识别“它们在说话”或“它们在做什么”，从而体会自然界万物和谐相处的美好情感。",
+    "key_formula": "动植物/无生命物体 + 人的动作或话语 = 拟人。",
+    "common_mistakes": [
+      "无法区分现实生活与童话语境，不理解事物形状与标点的联想关系",
+      "忽略了课文中自然知识的传递（如雨水促进植物生长）"
+    ],
+    "tips": "引导孩子观察身边的事物像什么，比如“弯弯的月亮像小船”，练习简单的拟人化表达。"
+  }
+}

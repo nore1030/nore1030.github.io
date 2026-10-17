@@ -1,0 +1,71 @@
+{
+  "id": "chinese-g4up-u4-kp7",
+  "title": "理解阅读",
+  "bookId": "chinese-g4up",
+  "unitNumber": 4,
+  "unitTitle": "神话故事",
+  "kpIndex": 6,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：普罗米修斯被锁在悬崖上，每天遭受秃鹰啄食，但他没有向宙斯屈服。这段话主要体现了普罗米修斯的：",
+      "options": [
+        "贪婪",
+        "坚强屈服",
+        "坚毅顽强",
+        "喜怒无常"
+      ],
+      "answer": "坚毅顽强",
+      "explanation": "忍受酷刑而不低头体现了人物的坚毅品质。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "理解阅读",
+      "question": "古诗：女娃游于东海，溺而不返。这里的“溺”字意思是：",
+      "options": [
+        "溺爱",
+        "顽皮",
+        "贪玩",
+        "淹没"
+      ],
+      "answer": "淹没",
+      "explanation": "文言文中溺指淹死在水里。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "“神话故事往往起源于原始先民对自然的敬畏。”由此判断，神话反映的是：",
+      "options": [
+        "未来的高科技",
+        "现代的生活",
+        "古代人类对自然的理解",
+        "老师的故事"
+      ],
+      "answer": "古代人类对自然的理解",
+      "explanation": "神话是远古人民解析自然界现象的一种方式。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "《精卫填海》选自跨越山海的神话典籍《（___）》。",
+      "options": [],
+      "answer": "山海经",
+      "explanation": "《精卫填海》出自《山海经·北山经》。"
+    }
+  ],
+  "knowledge": null
+}

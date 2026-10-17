@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp4",
+  "title": "数字词汇认读",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数字词汇认读",
+      "question": "'eight' 这个单词表示数字 '7'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "eight是数字8，7是seven。"
+    }
+  ],
+  "knowledge": null
+}

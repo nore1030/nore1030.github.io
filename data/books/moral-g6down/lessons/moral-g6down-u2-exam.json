@@ -1,0 +1,66 @@
+{
+  "id": "moral-g6down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g6down",
+  "unitNumber": 2,
+  "unitTitle": "法律与责任启蒙",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "法律保护我们",
+      "question": "我国对未成年人的保护包括家庭保护、学校保护、社会保护、网络保护、政府保护和（　）",
+      "options": [
+        "司法保护",
+        "经济保护",
+        "军事保护",
+        "外交保护"
+      ],
+      "answer": "司法保护",
+      "explanation": "六大保护含司法保护。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "责任与诚信",
+      "question": "一个人做了错事就要承担责任。",
+      "options": [],
+      "answer": "对",
+      "explanation": "有责必担。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "责任与诚信",
+      "question": "下列行为体现诚信的是（　）",
+      "options": [
+        "考试不作弊",
+        "考试作弊",
+        "抄袭作业",
+        "虚报成绩"
+      ],
+      "answer": "考试不作弊",
+      "explanation": "诚信体现在日常。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "法律保护我们",
+      "question": "尊纪守法是每个公民的基本义务。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守法是义务。"
+    }
+  ],
+  "knowledge": null
+}

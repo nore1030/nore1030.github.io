@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u5-kp15",
+  "title": "课文理解",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文理解",
+      "question": "课文中，作者最后觉得搭船的鸟是一只：",
+      "options": [
+        "可爱的小鸟",
+        "讨人嫌的小鸟",
+        "没用的小鸟",
+        "凶猛的小鸟"
+      ],
+      "answer": "可爱的小鸟",
+      "explanation": "作者对这只小鸟充满了喜爱之情。"
+    }
+  ],
+  "knowledge": null
+}

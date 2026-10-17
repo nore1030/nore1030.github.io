@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp17",
+  "title": "减小摩擦力",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "减小摩擦力",
+      "question": "自行车轴承中安装钢珠是为了（___）。",
+      "options": [
+        "美观",
+        "变滑动为滚动以减小摩擦",
+        "增大摩擦力",
+        "增加车轮重量"
+      ],
+      "answer": "变滑动为滚动以减小摩擦",
+      "explanation": "滚动摩擦力远小于滑动摩擦力。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp20",
+  "title": "数字拼写",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字拼写",
+      "question": "One, two, three, four, ___.",
+      "options": [],
+      "answer": "five",
+      "explanation": "1到5的数字顺序。"
+    }
+  ],
+  "knowledge": null
+}

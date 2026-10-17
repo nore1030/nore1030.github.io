@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u2-kp14",
+  "title": "科学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学常识",
+      "question": "请将下列科技概念与其对应特征相连。",
+      "options": [
+        "琥珀",
+        "纳米",
+        "恐龙",
+        "月球",
+        "极小的单位",
+        "古老的生物",
+        "透明的化石",
+        "地球的卫星"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "琥珀是化石，纳米是单位，恐龙是生物，月球是卫星。"
+    }
+  ],
+  "knowledge": null
+}

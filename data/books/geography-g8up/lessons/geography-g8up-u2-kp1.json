@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8up-u2-kp1",
+  "title": "自然资源与土地利用",
+  "bookId": "geography-g8up",
+  "unitNumber": 2,
+  "unitTitle": "中国的自然资源与经济发展",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自然资源与土地利用",
+      "question": "下列属于非可再生资源的是（　）",
+      "options": [
+        "水资源",
+        "森林资源",
+        "煤炭",
+        "太阳能"
+      ],
+      "answer": "煤炭",
+      "explanation": "煤炭不可再生。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "自然资源与土地利用",
+      "question": "我国土地资源总量丰富，但人均占有量不足。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人均不足。"
+    }
+  ],
+  "knowledge": {
+    "point": "自然资源与土地利用",
+    "core_concept": "自然资源分可再生资源与非可再生资源。我国土地资源总量丰富但人均不足，耕地、林地比重小，后备耕地不足。",
+    "key_formula": "耕地比重小",
+    "common_mistakes": [
+      "认为我国耕地资源丰富。"
+    ],
+    "tips": "人均占有量少。"
+  }
+}

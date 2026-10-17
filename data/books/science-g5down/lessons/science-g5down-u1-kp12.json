@@ -1,0 +1,32 @@
+{
+  "id": "science-g5down-u1-kp12",
+  "title": "生态系统",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生态系统",
+      "question": "池塘里的所有生物与其生活的非生物环境共同构成了一个生态系统。",
+      "options": [],
+      "answer": "对",
+      "explanation": "生态系统是指在一定面积内，生物成分和非生物成分通过物质循环和能量流动互相作用所形成的统一整体。"
+    }
+  ],
+  "knowledge": {
+    "point": "生态系统",
+    "core_concept": "群落与其环境相互作用形成的统一整体。",
+    "key_formula": "生态系统 = 生物成分（生产/消费/分解者）+ 非生物成分（水/光/空气等）。",
+    "common_mistakes": [
+      "认为生态瓶里鱼越多越好",
+      "认为只有活的生物才是生态系统的组成部分"
+    ],
+    "tips": "保持生态系统多样性能增强其自我调节的能力。"
+  }
+}

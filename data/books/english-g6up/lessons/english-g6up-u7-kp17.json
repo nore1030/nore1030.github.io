@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp17",
+  "title": "情绪识别",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情绪识别",
+      "question": "Your dog is ill. You are very ______.",
+      "options": [
+        "happy",
+        "sad",
+        "excited",
+        "angry"
+      ],
+      "answer": "sad",
+      "explanation": "宠物生病了通常会感到难过。"
+    }
+  ],
+  "knowledge": null
+}

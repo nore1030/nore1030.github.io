@@ -1,0 +1,217 @@
+{
+  "id": "g6down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g6down",
+  "unitNumber": 2,
+  "unitTitle": "百分数（二）",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "五成就是百分之五。",
+      "options": [],
+      "answer": "错",
+      "explanation": "五成表示十分之五，即 50%。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "本金越多，利息就越多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "利息取决于本金、利率和存期三个因素。只在本金多而利率和存期不确定的情况下，利息不一定多。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "折扣与成数",
+      "question": "一种商品先提价一成，再打九折，价格不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$(1 + 10\\%) \\times 90\\% = 1.1 \\times 0.9 = 0.99 = 99\\%$，比原价降低了。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "百分数综合方案对比",
+      "question": "满100元减20元，等同于打八折。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有当总额正好是100的倍数时才是8折。如150元只减20元，实付130元，折扣是 $130 \\div 150 \\approx 86.7\\%$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "折扣与成数",
+      "question": "某县前年秋粮产量为 2.8 万吨，去年比前年增产三成，去年产量是多少万吨？",
+      "options": [
+        "3.64",
+        "0.84",
+        "3.1",
+        "3.8"
+      ],
+      "answer": "3.64",
+      "explanation": "$2.8 \\times (1 + 30\\%) = 3.64$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "利率与利息计算",
+      "question": "王阿姨把 5000 元存入银行，定期三年，年利率 2.75%，到期可取回本金和利息共多少元？",
+      "options": [
+        "412.5",
+        "5412.5",
+        "5137.5",
+        "5825"
+      ],
+      "answer": "5412.5",
+      "explanation": "利息：$5000 \\times 2.75\\% \\times 3 = 412.5$。总和：$5000 + 412.5 = 5412.5$。该题作为选择题由于含有小数，符合规范。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "百分数综合方案对比",
+      "question": "买一件 240 元的衬衫，A店打六折，B店满100减40，哪个店更合算？",
+      "options": [
+        "A店",
+        "B店",
+        "一样合算",
+        "无法确定"
+      ],
+      "answer": "A店",
+      "explanation": "A：$240 \\times 0.6 = 144$。B：$240 - 40 \\times 2 = 160$。$144 < 160$，A更合算。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一本书原价 20 元，打七五折后售价多少元？",
+      "options": [
+        "15",
+        "5",
+        "14",
+        "16"
+      ],
+      "answer": "15",
+      "explanation": "$20 \\times 0.75 = 15$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "今年小麦产量比去年增产二成，今年产量相当于去年的百分之几？",
+      "options": [
+        "20%",
+        "80%",
+        "120%",
+        "2%"
+      ],
+      "answer": "120%",
+      "explanation": "$1 + 20\\% = 120\\%$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "张爷爷把 10000 元钱存入银行，定期半年，年利率是 1.30%，到期后利息是多少元？",
+      "options": [
+        "130",
+        "65",
+        "650",
+        "13"
+      ],
+      "answer": "65",
+      "explanation": "$10000 \\times 1.30\\% \\times 0.5 = 65$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "某公司纳税后还剩 380 万元，已知税率为 5%，该公司纳税多少万元？",
+      "options": [
+        "20",
+        "19",
+        "400",
+        "7.6"
+      ],
+      "answer": "20",
+      "explanation": "营业额为 $380 \\div (1 - 5\\%) = 400$ 万元。税额为 $400 \\times 5\\% = 20$ 万元。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一件毛衣打七折出售，现价是 210 元，原价是多少元？",
+      "options": [
+        "300",
+        "147",
+        "280",
+        "140"
+      ],
+      "answer": "300",
+      "explanation": "$210 \\div 0.7 = 300$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "商店促销一双鞋子，原价 300 元，现在六折销售。买这双鞋可以节省 ___ 元。",
+      "options": [],
+      "answer": "120",
+      "explanation": "$300 \\times (1 - 60\\%) = 120$（元）。验算：$300 \\times 0.6 = 180$，$180 + 120 = 300$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "某商铺按 5% 的税率交了 1000 元的税，该商铺的营业额是 ___ 元。",
+      "options": [],
+      "answer": "20000",
+      "explanation": "$1000 \\div 5\\% = 20000$（元）。验算：$20000 \\times 0.05 = 1000$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "计算：$500 \\times (1 - 20\\%) = ?$",
+      "options": [],
+      "answer": "400",
+      "explanation": "$500 \\times 0.8 = 400$。验算：$400 \\div 0.8 = 500$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "biology-g10up-u2-kp1",
+  "title": "细胞器与细胞核",
+  "bookId": "biology-g10up",
+  "unitNumber": 2,
+  "unitTitle": "细胞的基本结构与物质运输",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞器与细胞核",
+      "question": "有氧呼吸的主要场所是（　）",
+      "options": [
+        "线粒体",
+        "叶绿体",
+        "核糖体",
+        "液泡"
+      ],
+      "answer": "线粒体",
+      "explanation": "线粒体是有氧呼吸主要场所。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "细胞器与细胞核",
+      "question": "细胞核是遗传信息库，是细胞代谢和遗传的控制中心。",
+      "options": [],
+      "answer": "对",
+      "explanation": "细胞核功能。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "细胞器与细胞核",
+      "question": "与分泌蛋白的加工、运输有关的结构是（　）",
+      "options": [
+        "核糖体、内质网、高尔基体",
+        "线粒体、叶绿体",
+        "溶酶体、液泡",
+        "中心体、核糖体"
+      ],
+      "answer": "核糖体、内质网、高尔基体",
+      "explanation": "分泌蛋白途径。"
+    }
+  ],
+  "knowledge": {
+    "point": "细胞器与细胞核",
+    "core_concept": "线粒体是有氧呼吸的主要场所，叶绿体是光合作用场所，核糖体是蛋白质合成场所，高尔基体与分泌物的形成有关。细胞核是遗传信息库和代谢控制中心。",
+    "key_formula": "线粒体 = 动力车间",
+    "common_mistakes": [
+      "把核糖体当作蛋白质加工场所。"
+    ],
+    "tips": "合成在核糖体，加工靠内质网和高尔基体。"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g4up-u3-kp24",
+  "title": "o-e规律单词匹配",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "o-e规律单词匹配",
+      "question": "将下列含有o-e结构的单词与对应中文匹配。",
+      "options": [
+        "nose",
+        "note",
+        "Coke",
+        "home",
+        "可乐",
+        "家",
+        "便条",
+        "鼻子"
+      ],
+      "answer": "A-4,B-3,C-1,D-2",
+      "explanation": "nose-鼻子, note-便条, Coke-可乐, home-家。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g6up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 9,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小说环境描写的作用",
+      "question": "小说中的环境描写必须真实，不能带有个人的想象成分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小说是艺术创作，环境描写可以包含作者的修辞处理和合理想象。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "内心独白是展现人物内心世界最直接的方法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "直接写出人物心里在想什么，可以直观地展示其思想变迁。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "小说环境描写的作用",
+      "question": "《穷人》一文中，海上风暴的描写是为了说明渔民航海技术的落后。",
+      "options": [],
+      "answer": "错",
+      "explanation": "是为了渲染恶劣的生活环境，从而反衬穷人品质的珍贵。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "小说情节的波澜与悬念",
+      "question": "小说是通过人物、情节和环境来反映社会生活的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是小说的基本定义，通过这三要素共同构筑文学空间。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小说环境描写的作用",
+      "question": "‘黎明的时候，雨突然大了。像泼。像倒。’这句话用了什么写法？",
+      "options": [
+        "动态描写",
+        "环境描写及短语突显紧张感",
+        "静态描写",
+        "直接描写老汉"
+      ],
+      "answer": "环境描写及短语突显紧张感",
+      "explanation": "断促的短句加重了洪水来袭的急迫感。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "桑娜坐在火炉旁，心惊肉跳地想：‘他会说什么呢？……揍我一顿也好！’这段话表现了桑娜：",
+      "options": [
+        "宁愿受罚也要救助他人的决心",
+        "非常害怕丈夫，说明丈夫很凶残",
+        "后悔收留了那两个孩子",
+        "在胡乱猜测，没有主见"
+      ],
+      "answer": "宁愿受罚也要救助他人的决心",
+      "explanation": "‘揍我一顿也好’体现了她愿意牺牲自己，是内心淳朴善良的极致体现。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘山洪像一群受惊的野马。’这句话的本体是：",
+      "options": [
+        "野马",
+        "山洪",
+        "咆哮",
+        "惊恐"
+      ],
+      "answer": "山洪",
+      "explanation": "比喻词‘像’之前的是被比喻的事物，即本体。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小说情节的波澜与悬念",
+      "question": "小说情节中‘矛盾冲突的最高潮’通常是指：",
+      "options": [
+        "故事的开头",
+        "环境的介绍",
+        "冲突最激烈的时刻",
+        "作者的生平介绍"
+      ],
+      "answer": "冲突最激烈的时刻",
+      "explanation": "高潮是情节发展的必然结果，也是最引人入胜的部分。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小说环境描写的作用",
+      "question": "‘深夜，四周静悄悄的。’这种环境描写通常的作用是：",
+      "options": [
+        "暗示会有大事发生",
+        "衬托环境的祥和",
+        "描写时间的推移",
+        "以上三种都有可能，视情节而定"
+      ],
+      "answer": "以上三种都有可能，视情节而定",
+      "explanation": "环境描写的作用需要结合具体文本分析。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "桑娜虽然担忧未来，但她最终选择了‘沉默’，这主要说明：",
+      "options": [
+        "她很自私",
+        "她对丈夫很失望",
+        "她内心的善良战胜了对困苦的恐惧",
+        "她忘记了要说话"
+      ],
+      "answer": "她内心的善良战胜了对困苦的恐惧",
+      "explanation": "虽然压力大，但行为体现了内在高尚。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "‘咆哮’这个词通常用来描写（___）发出的巨大声响。",
+      "options": [],
+      "answer": "江河",
+      "explanation": "原意指野兽吼叫，小说中多指江河洪水。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小说情节的波澜与悬念",
+      "question": "《桥》中那个最后被老汉揪出来的小伙子，其实是老汉的（___）。",
+      "options": [],
+      "answer": "儿子",
+      "explanation": "这是文章结尾揭示的关键真相。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "成语理解",
+      "question": "根据意思选择正确的词语连接。",
+      "options": [
+        "形容极度害怕",
+        "形容神志不清",
+        "没法想没法说",
+        "形容非常沉静",
+        "惊魂甫定",
+        "迷迷糊糊",
+        "不可思议",
+        "不假思索"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "惊魂甫定对应害怕，迷迷糊糊对应神志不清等。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小说写法配对",
+      "question": "将下列句子与其对应的描写方法连接。",
+      "options": [
+        "老汉清瘦的脸上淌着水",
+        "‘快走！’老汉喊道",
+        "桑娜心想：他会揍我吗",
+        "一百多号人乱哄哄的",
+        "外貌描写",
+        "语言描写",
+        "心理描写",
+        "侧面描写"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "脸上淌水是外貌，喊道是语言，心想是心理，众人乱是侧面描写。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "小说情节的波澜与悬念",
+      "question": "将下列描述《穷人》主题的词语排成句。",
+      "options": [
+        "赞扬了",
+        "桑娜和渔夫",
+        "善良的",
+        "美好的",
+        "心灵"
+      ],
+      "answer": "赞扬了,桑娜和渔夫,美好的,善良的,心灵",
+      "explanation": "这是本课的中心思想句。"
+    }
+  ],
+  "knowledge": null
+}

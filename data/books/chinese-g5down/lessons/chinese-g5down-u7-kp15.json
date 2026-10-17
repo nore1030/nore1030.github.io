@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u7-kp15",
+  "title": "地缘风情",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 13,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地缘风情",
+      "question": "请将下列国家与其标志性的景观进行对应连接：",
+      "options": [
+        "意大利",
+        "荷兰",
+        "埃及",
+        "中国",
+        "金字塔",
+        "威尼斯",
+        "牧场",
+        "长城"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "意大利-威尼斯，荷兰-牧场，埃及-金字塔，中国-长城。"
+    }
+  ],
+  "knowledge": null
+}

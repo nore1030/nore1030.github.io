@@ -1,0 +1,217 @@
+{
+  "id": "g1down-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "g1down",
+  "unitNumber": 6,
+  "unitTitle": "100以内的加法和减法（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$30 + 5$ 和 $5 + 30$ 的结果相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加法交换律，结果都是 35。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$88 - 8$ 的得数是 8。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$88 - 8 = 80$。验算：$80 + 8 = 88$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "计算 $8 + (12 - 5)$ 时，应先算 $8 + 12$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应先算括号里的 $12 - 5$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "$30 - (10 + 5)$ 的结果是 15。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$10 + 5 = 15$，$30 - 15 = 15$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "被减数是 95，减数是 5，差是多少？",
+      "options": [
+        "100",
+        "90",
+        "80",
+        "85"
+      ],
+      "answer": "90",
+      "explanation": "$95 - 5 = 90$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加一位数的进位加法",
+      "question": "$39 + 1$ 的结果是多少？",
+      "options": [
+        "30",
+        "40",
+        "41",
+        "50"
+      ],
+      "answer": "40",
+      "explanation": "满十进一，39 再多 1 是 40。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "$50 - (20 + 10)$ 的计算结果是多少？",
+      "options": [
+        "40",
+        "20",
+        "30",
+        "10"
+      ],
+      "answer": "20",
+      "explanation": "$20 + 10 = 30$，$50 - 30 = 20$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "商店有 48 听可乐，卖出 6 听，还剩多少听？",
+      "options": [
+        "42",
+        "54",
+        "32",
+        "40"
+      ],
+      "answer": "42",
+      "explanation": "$48 - 6 = 42$（听）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "最大的两位数减去最大的一位数，结果是多少？",
+      "options": [
+        "90",
+        "1",
+        "99",
+        "89"
+      ],
+      "answer": "90",
+      "explanation": "$99 - 9 = 90$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "一根线长 40 米，第一次用去 8 米，第二次用去 10 米。这根线短了多少米？",
+      "options": [
+        "22",
+        "18",
+        "32",
+        "30"
+      ],
+      "answer": "18",
+      "explanation": "短了的长度就是用去的总和：$8 + 10 = 18$（米）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加一位数的进位加法",
+      "question": "操场上有 28 个男同学，9 个女同学。一共有多少个同学？",
+      "options": [
+        "19",
+        "37",
+        "38",
+        "39"
+      ],
+      "answer": "37",
+      "explanation": "$28 + 9 = 37$（个）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "两位数加一位数的进位加法",
+      "question": "$45$ 再加上多少就等于 $52$？",
+      "options": [
+        "7",
+        "8",
+        "17",
+        "6"
+      ],
+      "answer": "7",
+      "explanation": "$52 - 45 = 7$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加一位数的进位加法",
+      "question": "停车场原有 25 辆车，开进了 7 辆。现在有 ___ 辆车。",
+      "options": [],
+      "answer": "32",
+      "explanation": "$25 + 7 = 32$（辆）。验算：$32 - 7 = 25$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "小明借给同学 8 支铅笔，自己还剩 20 支。小明原来有 ___ 支铅笔。",
+      "options": [],
+      "answer": "28",
+      "explanation": "$20 + 8 = 28$（支）。验算：$28 - 8 = 20$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$80 - 40 - 20 = ?$",
+      "options": [],
+      "answer": "20",
+      "explanation": "$80 - 40 = 40$，$40 - 20 = 20$。验算：$20 + 20 + 40 = 80$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

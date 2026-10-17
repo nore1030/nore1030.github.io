@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp19",
+  "title": "微生物的益处",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "微生物的益处",
+      "question": "利用微生物可以（）。",
+      "options": [
+        "制作面包和馒头",
+        "生产抗生素",
+        "净化污水",
+        "以上均是"
+      ],
+      "answer": "以上均是",
+      "explanation": "酵母菌发酵、青霉素提炼以及污水处理菌群都是微生物应用的例子。"
+    }
+  ],
+  "knowledge": null
+}

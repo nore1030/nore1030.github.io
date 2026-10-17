@@ -1,0 +1,92 @@
+{
+  "id": "chinese-g1up-u6-kp3",
+  "title": "时间关联词逻辑排序",
+  "bookId": "chinese-g1up",
+  "unitNumber": 6,
+  "unitTitle": "识字（二）：会意字与生活识字",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时间关联词逻辑排序",
+      "question": "昨天的后一天就是今天。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时间顺序是：昨天、今天、明天。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间关联词逻辑排序",
+      "question": "如果今天是星期二，那么昨天是星期（）。",
+      "options": [
+        "一",
+        "三",
+        "四",
+        "五"
+      ],
+      "answer": "一",
+      "explanation": "昨天是今天的前一天。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间关联词逻辑排序",
+      "question": "妈妈说：“我们明天去公园”。请问我们要去公园是哪一天？",
+      "options": [
+        "已经去过了",
+        "正在去",
+        "还没到的一天",
+        "以前的一天"
+      ],
+      "answer": "还没到的一天",
+      "explanation": "明天代表将要到来的那一天。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间关联词逻辑排序",
+      "question": "时间顺序：昨天、（）、明天。",
+      "options": [],
+      "answer": "今天",
+      "explanation": "昨天、今天、明天构成了连续的时间链。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间关联词逻辑排序",
+      "question": "连词成句：",
+      "options": [
+        "去",
+        "我们",
+        "明天",
+        "学校",
+        "一起"
+      ],
+      "answer": "我们,明天,一起,去,学校",
+      "explanation": "时间词通常放在主语之后，表示将要进行的动作。"
+    }
+  ],
+  "knowledge": {
+    "point": "时间关联词逻辑排序",
+    "core_concept": "时间关联词用于表达事件发生的先后顺序或相对当前的时间位置。在一年级段，重点掌握以“今天”为原点的放射状逻辑：过去（昨天、以前）、现在（今天、此时）、未来（明天、后天、以后）。理解这种线性关系有助于学生建立初步的时间观念和叙事逻辑。",
+    "key_formula": "过去（昨天） → 现在（今天） → 未来（明天）",
+    "common_mistakes": [
+      "分不清“昨天”和“明天”谁在前谁在后。",
+      "无法在具体语境（如：明天是星期三，今天就是星期二）中进行推导。"
+    ],
+    "tips": "通过观察日历或绘制“时间轴”小图，标出今天的位置，向左跳是过去，向右跳是未来。"
+  }
+}

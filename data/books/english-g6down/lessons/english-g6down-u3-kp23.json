@@ -1,0 +1,30 @@
+{
+  "id": "english-g6down-u3-kp23",
+  "title": "过去时疑问句",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "过去时疑问句",
+      "question": "Put the words in order: [you, did, How, there, go, ?]",
+      "options": [
+        "you",
+        "did",
+        "How",
+        "there",
+        "go",
+        "?"
+      ],
+      "answer": "How,did,you,go,there,?",
+      "explanation": "疑问词+did+主语+动词原形+其他。"
+    }
+  ],
+  "knowledge": null
+}

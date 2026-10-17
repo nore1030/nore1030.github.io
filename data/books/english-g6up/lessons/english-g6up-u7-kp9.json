@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp9",
+  "title": "近况询问常用语",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近况询问常用语",
+      "question": "How ______ you feel today?",
+      "options": [
+        "do",
+        "are",
+        "does",
+        "is"
+      ],
+      "answer": "do",
+      "explanation": "询问感觉用助动词do配合动词原形feel。"
+    }
+  ],
+  "knowledge": null
+}

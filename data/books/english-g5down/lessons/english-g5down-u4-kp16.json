@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp16",
+  "title": "日常交际",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常交际",
+      "question": "Is the singing contest on May 4th? ______.",
+      "options": [
+        "Yes, it is",
+        "Yes, it isn't",
+        "No, it is",
+        "No, it does"
+      ],
+      "answer": "Yes, it is",
+      "explanation": "Is it开关的一般疑问句，肯定回答为Yes, it is。"
+    }
+  ],
+  "knowledge": null
+}

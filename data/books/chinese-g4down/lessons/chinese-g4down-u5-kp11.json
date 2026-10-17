@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp11",
+  "title": "段落理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "段落理解",
+      "question": "阅读：‘一路迎着溪流。随着山势，溪流时而宽，时而窄，时而缓，时而急，溪声也时时变换调子。’这段话主要写了什么？",
+      "options": [
+        "溪流的颜色",
+        "溪流的变化",
+        "溪边的野花",
+        "山势的高低"
+      ],
+      "answer": "溪流的变化",
+      "explanation": "通过“宽、窄、缓、急”四个词体现了溪流在不同山势下的变化。"
+    }
+  ],
+  "knowledge": null
+}

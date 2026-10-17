@@ -1,0 +1,226 @@
+{
+  "id": "chinese-g1up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "chinese-g1up",
+  "unitNumber": 5,
+  "unitTitle": "课文（一）：感受自然与生活",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "自然段的判定与划分",
+      "question": "《江南》这首古诗只有1个自然段。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《江南》开头空两格，全诗内容紧凑，属于一个自然段结构。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "在“一九、二九、三九”中，“一”都读第一声。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在数词和序数词中，“一”保持原音第一声。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“船儿”和“船”是一个意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“儿”是后缀，在这里增加了亲切和可爱的语气，核心意思是一样的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "“一行白鹭”和“一个学生”中“一”的读音相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“一行”读 yì，“一个”读 yí，变调规律不同。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自然段的判定与划分",
+      "question": "我们在书上数自然段时，通常通过第几个格有没有字来判断？",
+      "options": [
+        "第一、二个格",
+        "第三、四个格",
+        "第一个格",
+        "随意一个格"
+      ],
+      "answer": "第一、二个格",
+      "explanation": "自然段开头必须空出前两个格子的位置。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "自然段的判定与划分",
+      "question": "阅读：天冷了，大雁往南飞。一会儿排成个“人”字，一会儿排成个“一”字。这段文字有几个自然段？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "1个",
+      "explanation": "这段话开头空了两格，中间没有新的段首空格，是一个自然段。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "下面句子中“一”读音相同的是哪一项？\n①一只鸟 ②第一名 ③一群羊 ④一边",
+      "options": [
+        "①和②",
+        "①和③",
+        "②和④",
+        "③和④"
+      ],
+      "answer": "①和③",
+      "explanation": "①和③中的“一”均位于第一或第二声前，均读成第四声yì。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自然段的判定与划分",
+      "question": "如果一篇课文有三个开头空两格的地方，这篇课文就有：",
+      "options": [
+        "两个自然段",
+        "三个自然段",
+        "四个自然段",
+        "一整个自然段"
+      ],
+      "answer": "三个自然段",
+      "explanation": "自然段的数量等于段首空格出现的次数。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "“一会儿”的“一”读音是？",
+      "options": [
+        "yī",
+        "yí",
+        "yì",
+        "yi"
+      ],
+      "answer": "yí",
+      "explanation": "“一”放在第四声“会”前，要读作第二声。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "选出不是同一类的词语：",
+      "options": [
+        "闪闪的",
+        "尖尖的",
+        "圆圆的",
+        "大雁"
+      ],
+      "answer": "大雁",
+      "explanation": "前三个是描写特征的叠词，第四个是动物名词。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“（  ）的荷叶”最适合填入哪个词？",
+      "options": [
+        "红红",
+        "大大的",
+        "尖尖",
+        "圆圆"
+      ],
+      "answer": "圆圆",
+      "explanation": "《四季》中描写荷叶是圆圆的。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "“影子（      ）常陪我。”填入课文中的叠词。",
+      "options": [],
+      "answer": "常常",
+      "explanation": "考查《影子》中的叠词积累。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "“一排大雁”中“一”的拼音声调是第（    ）声。",
+      "options": [],
+      "answer": "四",
+      "explanation": "排是第二声，“一”在二声前读第四声yì。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "自然段的判定与划分",
+      "question": "将文章标题与所属的自然段数量（常规版）连线。",
+      "options": [
+        "《江南》",
+        "《四季》",
+        "《小小的船》",
+        "《秋天》",
+        "1个",
+        "4个",
+        "3个",
+        "1个"
+      ],
+      "answer": "A-1,B-2,C-4,D-3",
+      "explanation": "江南为1段；四季有4节（段）；船为1段；秋天有3段。"
+    },
+    {
+      "id": 21,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叠词（ABB/AAB）的积累应用",
+      "question": "连词成句：",
+      "options": [
+        "排成",
+        "大雁",
+        "一个",
+        "“人”字"
+      ],
+      "answer": "大雁,排成,一个,“人”字",
+      "explanation": "描述大雁飞行的状态。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g2down-u5-kp26",
+  "title": "感叹句排序",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感叹句排序",
+      "question": "将描写心情的词语排成一句话。",
+      "options": [
+        "他的",
+        "该多好哇",
+        "病",
+        "如果",
+        "好了"
+      ],
+      "answer": "如果,他的,病,好了,该多好哇",
+      "explanation": "这是一个表达愿望的感叹句。"
+    }
+  ],
+  "knowledge": null
+}

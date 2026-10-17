@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g1down-u7-kp5",
+  "title": "字词积累",
+  "bookId": "chinese-g1down",
+  "unitNumber": 7,
+  "unitTitle": "习惯",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "下面哪个字含有“纟”？",
+      "options": [
+        "经",
+        "过",
+        "这",
+        "选"
+      ],
+      "answer": "经",
+      "explanation": "“经”是绞丝旁。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "请为生字选择正确的读音。",
+      "options": [
+        "掰",
+        "扛",
+        "扔",
+        "捧",
+        "pěng",
+        "bāi",
+        "káng",
+        "rēng"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "掰bāi，扛káng，扔rēng，捧pěng。"
+    }
+  ],
+  "knowledge": null
+}

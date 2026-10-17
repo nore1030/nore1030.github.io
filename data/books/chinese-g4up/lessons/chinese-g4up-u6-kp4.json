@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g4up-u6-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 3,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "选出下列加点字读音完全正确的一组：",
+      "options": [
+        "旋转（xuàn） 韭菜（jiǔ）",
+        "露面（lòu） 角色（jiǎo）",
+        "即使（jí） 笨拙（zhuō）",
+        "投降（xiáng） 荣誉（yǜ）"
+      ],
+      "answer": "即使（jí） 笨拙（zhuō）",
+      "explanation": "A中旋应为xuán；B中角应为jué；D中誉读音不带两点yù。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“不动声色”中的“声”意思是：",
+      "options": [
+        "声音",
+        "名誉",
+        "宣扬",
+        "乐器"
+      ],
+      "answer": "声音",
+      "explanation": "不动声色指不说话，不流露感情，形容沉着冷静。"
+    }
+  ],
+  "knowledge": null
+}

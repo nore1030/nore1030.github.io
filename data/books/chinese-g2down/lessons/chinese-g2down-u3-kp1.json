@@ -1,0 +1,138 @@
+{
+  "id": "chinese-g2down-u3-kp1",
+  "title": "中国地理版图与民族概念识记",
+  "bookId": "chinese-g2down",
+  "unitNumber": 3,
+  "unitTitle": "传统文化与识字",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "黄河和长江都是我们国家的“母亲河”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《神州谣》中提到了黄河奔、长江涌，它们是中华民族的象征。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "我国一共有65个民族，大家共同生活在一起。",
+      "options": [],
+      "answer": "错",
+      "explanation": "我国一共有56个民族，统称为中华民族。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "《神州谣》中形容台湾岛和大陆关系紧密的词语是：",
+      "options": [
+        "隔海峡",
+        "一家人",
+        "长又长",
+        "情谊深"
+      ],
+      "answer": "一家人",
+      "explanation": "全文传达了台湾同胞和大陆同胞是一家人的民族情感。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "阅读：神州大地，山川壮美。黄河奔，长江涌，长城长，珠峰耸。文中“耸”的意思是：",
+      "options": [
+        "害怕",
+        "发抖",
+        "高厚地向上直立",
+        "左右摇晃"
+      ],
+      "answer": "高厚地向上直立",
+      "explanation": "形容山峰高峻挺拔。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "“华夏子孙”指的是：",
+      "options": [
+        "姓华的人",
+        "住在夏朝的人",
+        "中华民族的后代",
+        "喜欢夏天的孩子"
+      ],
+      "answer": "中华民族的后代",
+      "explanation": "华夏是中国的古称，华夏子孙即中国人。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "《神州谣》中提到，各民族要（___），情谊深，共繁荣。",
+      "options": [],
+      "answer": "齐奋发",
+      "explanation": "考察课文原文填空：齐奋发，情谊深。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "请将地理景观与文中修饰它的动词连线。",
+      "options": [
+        "黄河",
+        "长江",
+        "珠峰",
+        "岛屿",
+        "耸",
+        "奔",
+        "隔",
+        "涌"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "黄河奔，长江涌，珠峰耸，隔海峡。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "根据课文内容排列句子：",
+      "options": [
+        "各民族",
+        "情谊深",
+        "齐奋发",
+        "中华"
+      ],
+      "answer": "中华,各民族,齐奋发,情谊深",
+      "explanation": "考察《神州谣》最后一句的逻辑顺序。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国地理版图与民族概念识记",
+    "core_concept": "通过《神州谣》的学习，学生需要识别祖国版图的主要特征。长江、黄河被视为中华文明的摇篮。神州是指中国，台湾是祖国不可分割的一部分。强调56个民族团结一心的重要性。",
+    "key_formula": "神州=中国；华夏=中华。",
+    "common_mistakes": [
+      "容易将“民族”的“族”读成平舌音",
+      "分不清黄河和长江的地理特点描述词"
+    ],
+    "tips": "可以通过背诵三字经形式的《神州谣》来记忆，注意“奔”和“涌”的动词应用。"
+  }
+}

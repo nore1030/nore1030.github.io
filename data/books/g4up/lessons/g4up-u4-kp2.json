@@ -1,0 +1,91 @@
+{
+  "id": "g4up-u4-kp2",
+  "title": "积的变化规律",
+  "bookId": "g4up",
+  "unitNumber": 4,
+  "unitTitle": "三位数乘两位数",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "积的变化规律",
+      "question": "一个因数不变，另一个因数乘 5，积也乘 5。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据积的变化规律：一个因数不变，另一个因数乘几（0除外），积也乘几。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "积的变化规律",
+      "question": "两个因数相乘的积是 120。如果一个因数除以 3，另一个因数乘 3，积是：",
+      "options": [
+        "40",
+        "360",
+        "120",
+        "1080"
+      ],
+      "answer": "120",
+      "explanation": "积的变化：$120 \\div 3 \\times 3 = 120$。积保持不变。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "积的变化规律",
+      "question": "在乘法算式中，一个因数不变，另一个因数扩大到原来的 10 倍，积：",
+      "options": [
+        "不变",
+        "缩小到原来的 1/10",
+        "扩大到原来的 10 倍",
+        "扩大到原来的 100 倍"
+      ],
+      "answer": "扩大到原来的 10 倍",
+      "explanation": "根据积的变化规律，积随因数同比例扩大。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "积的变化规律",
+      "question": "如果 $A \\times B = 600$，那么 $(A \\times 2) \\times (B \\div 3) = $：",
+      "options": [
+        "400",
+        "900",
+        "1200",
+        "1800"
+      ],
+      "answer": "400",
+      "explanation": "积的变化规律：$600 \\times 2 \\div 3 = 1200 \\div 3 = 400$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "积的变化规律",
+      "question": "已知 $12 \\times 6 = 72$，若把 12 乘 10，6 不变，则积变为 ___。",
+      "options": [],
+      "answer": "720",
+      "explanation": "根据规律，一个因数乘 10，积也乘 10。$72 \\times 10 = 720$。验证：$120 \\times 6 = 720$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "积的变化规律",
+    "core_concept": "在乘法算式中，一个因数不变，另一个因数乘（或除以）几（0除外），积也乘（或除以）几。如果两个因数同时发生倍数变化，积的变化倍数等于两个因数变化倍数的乘积。",
+    "key_formula": "$(a \\times n) \\times b = (a \\times b) \\times n$",
+    "common_mistakes": [
+      "分不清扩大和缩小的倍数，将除法误操作为乘法。",
+      "两个因数都变时，误以为积只随其中一个变化。"
+    ],
+    "tips": "可以先通过简单的算式（如 $2 \\times 3 = 6$）来辅助验证规律。 "
+  }
+}

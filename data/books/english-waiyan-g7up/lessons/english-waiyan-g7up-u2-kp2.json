@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u2-kp2",
+  "title": "家庭称谓 parents / family",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 My family 我的家庭",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家庭称谓 parents / family",
+      "question": "「我的父母」的英文是（　）",
+      "options": [
+        "my parents",
+        "my parent",
+        "my parentes",
+        "my parenting"
+      ],
+      "answer": "my parents",
+      "explanation": "parents 复数。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭称谓 parents / family",
+    "core_concept": "parents 父母（两人）、family 家庭；there are…people in my family。",
+    "key_formula": "There are three people in my family.",
+    "common_mistakes": [
+      "parents 当单数。"
+    ],
+    "tips": "parents 本身是复数。"
+  }
+}

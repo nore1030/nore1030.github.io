@@ -1,0 +1,183 @@
+{
+  "id": "g4up-u3-kp3",
+  "title": "角的分类与画角",
+  "bookId": "g4up",
+  "unitNumber": 3,
+  "unitTitle": "角的度量",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "角的分类与画角",
+      "question": "大于 $90^{\\circ}$ 的角一定是钝角。",
+      "options": [],
+      "answer": "错",
+      "explanation": "大于 $90^{\\circ}$ 但小于 $180^{\\circ}$ 的才是钝角，如果是 $180^{\\circ}$ 则是平角。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "周角是一条射线，平角是一条直线。",
+      "options": [],
+      "answer": "错",
+      "explanation": "周角和平角都是角，由顶点和两条边组成，不能说成是射线或直线。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的分类与画角",
+      "question": "下面哪个角度无法用一副三角尺拼出来？",
+      "options": [
+        "$75^{\\circ}$",
+        "$105^{\\circ}$",
+        "$20^{\\circ}$",
+        "$150^{\\circ}$"
+      ],
+      "answer": "$20^{\\circ}$",
+      "explanation": "三角尺角度为 $30^{\\circ}, 60^{\\circ}, 90^{\\circ}$ 和 $45^{\\circ}, 45^{\\circ}, 90^{\\circ}$。无法通过加减得到 $20$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "一个平角等于几个直角？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "2个",
+      "explanation": "$180 ÷ 90 = 2$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "钟面上 3 时整，时针和分针组成的角是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "平角"
+      ],
+      "answer": "直角",
+      "explanation": "3 时整，时针指向 3，分针指向 12，夹角为 $90^{\\circ}$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的分类与画角",
+      "question": "将一个钝角分成两个角，其中一个是直角，另一个一定是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "周角"
+      ],
+      "answer": "锐角",
+      "explanation": "钝角介于 $90^{\\circ}$ 到 $180^{\\circ}$ 之间，减去 $90^{\\circ}$ 后的差一定小于 $90^{\\circ}$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "按从大到小的顺序排列，正确的是哪组？",
+      "options": [
+        "周角>平角>钝角>直角>锐角",
+        "周角>钝角>平角>直角>锐角",
+        "平角>周角>钝角>直角>锐角",
+        "锐角>直角>钝角>平角>周角"
+      ],
+      "answer": "周角>平角>钝角>直角>锐角",
+      "explanation": "$360^{\\circ} > 180^{\\circ} > (90^{\\circ} \text{至} 180^{\\circ}) > 90^{\\circ} > (0^{\\circ} \text{至} 90^{\\circ})$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "角的分类与画角",
+      "question": "将一张圆形纸对折 3 次，得到的角是多少度？",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$"
+      ],
+      "answer": "$45^{\\circ}$",
+      "explanation": "圆是 $360^{\\circ}$。对折1次是 $180^{\\circ}$，2次是 $90^{\\circ}$，3次是 $45^{\\circ}$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "一个周角等于 ___ 个平角。",
+      "options": [],
+      "answer": "2",
+      "explanation": "$360 ÷ 180 = 2$。验算：$180 \times 2 = 360$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的分类与画角",
+      "question": "从 $3:00$ 到 $4:00$ ，钟面上的分针转动了 ___ 度。",
+      "options": [],
+      "answer": "360",
+      "explanation": "分针 1 小时转动一整圈，为周角 $360^{\\circ}$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的分类与画角",
+      "question": "$90 + 90 = ?$",
+      "options": [],
+      "answer": "180",
+      "explanation": "两个直角相加得到平角，$90 + 90 = 180$。验算：$180 - 90 = 90$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的分类与画角",
+      "question": "$360 - 180 = ?$",
+      "options": [],
+      "answer": "180",
+      "explanation": "周角减去平角得到平角，$360 - 180 = 180$。验算：$180 + 180 = 360$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "角的分类与画角",
+    "core_concept": "根据度数分类：锐角（$<90^{\\circ}$）、直角（$=90^{\\circ}$）、钝角（$90^{\\circ}<角<180^{\\circ}$）、平角（$=180^{\\circ}$）、周角（$=360^{\\circ}$）。画角时先定线，再定点，连线即成。",
+    "key_formula": "$1\\text{周角} = 2\\text{平角} = 4\\text{直角}$",
+    "common_mistakes": [
+      "认为大于 $90^{\\circ}$ 的角全是钝角，忽略了平角和周角",
+      "分不清平角和直线、周角和射线的区别"
+    ],
+    "tips": "口诀：小于90是锐角，等于90是直角，90至180是钝角，180是平，360是周。"
+  }
+}

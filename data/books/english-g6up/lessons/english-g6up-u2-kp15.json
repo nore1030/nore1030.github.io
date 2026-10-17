@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp15",
+  "title": "代词",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词",
+      "question": "Tell ___ about your school.",
+      "options": [
+        "I",
+        "my",
+        "me",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "tell后接人称代词宾格形式。"
+    }
+  ],
+  "knowledge": null
+}

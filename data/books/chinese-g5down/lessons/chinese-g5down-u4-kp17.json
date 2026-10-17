@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp17",
+  "title": "情感理解",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 13,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情感理解",
+      "question": "“却看妻子愁何在，漫卷诗书喜欲狂。”这句诗的神态和动作表现了杜甫：",
+      "options": [
+        "疯掉了",
+        "不爱护书籍",
+        "听到失地收复后极度的喜悦",
+        "对妻子的不满"
+      ],
+      "answer": "听到失地收复后极度的喜悦",
+      "explanation": "因为战乱结束，诗人欣喜若狂，这是爱国之情的体现。"
+    }
+  ],
+  "knowledge": null
+}

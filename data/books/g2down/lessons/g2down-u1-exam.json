@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 1,
+  "unitTitle": "数据收集整理",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "收集数据的方法",
+      "question": "调查全班同学最喜欢的科目，由于有人没来，调查结果依然能代表全班同学的最爱。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数据收集应尽可能完整，缺失部分学生的数据会影响统计结果的准确性和代表性。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "记录数据时，可以用打“√”、画“○”或者写“正”字等多种方法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "只要符号能清晰代表数量，都可以作为记录方式，“正”字法是其中最常用的一种。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "如果统计表里“喜欢跳绳”的人数比“喜欢跑步”的多，那么换个班调查结果也一定一样。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数据具有随机性，不同的调查对象（不同班级）会有不同的偏好，结果不一定相同。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "写了 4 个“正”字代表 20，再多写 1 笔就代表 21。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$5 \\times 4 = 20, 20 + 1 = 21$。正确。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "某次选举中，王明写了 3 个“正”字，李亮写了 2 个“正”字和 4 笔，谁的票数多？",
+      "options": [
+        "王明多",
+        "李亮多",
+        "一样多",
+        "无法判断"
+      ],
+      "answer": "王明多",
+      "explanation": "王明：$3 \\times 5 = 15$（票）。李亮：$2 \\times 5 + 4 = 14$（票）。$15 > 14$，所以王明多。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "二(2)班同学最喜欢的季节调查结果：春季 10 人，夏季 5 人，秋季 12 人，冬季 8 人。喜欢哪个季节的人数最少？",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "夏季",
+      "explanation": "比较数据：$5 < 8 < 10 < 12$。5 对应的是夏季，所以人数最少。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "如果全班有 40 人，调查最爱吃的水果，有 2 人没参加。已统计出：苹果 15 人，橘子 10 人，剩下的都爱吃梨。爱吃梨的有几人？",
+      "options": [
+        "15",
+        "13",
+        "25",
+        "10"
+      ],
+      "answer": "13",
+      "explanation": "参加调查的总人数是 $40 - 2 = 38$ 人。爱吃梨的人数 = $38 - 15 - 10 = 13$ 人。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "在一張只有 30 人投票的选票统计表中，候选人 A 得了 12 票，候选人 B 得了 9 票，剩下的都是废票，废票有几张？",
+      "options": [
+        "21",
+        "9",
+        "30",
+        "10"
+      ],
+      "answer": "9",
+      "explanation": "$12 + 9 = 21$（票），$30 - 21 = 9$（张）。验算：$12 + 9 + 9 = 30$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "小红统计了门口经过的车辆：小汽车 25 辆，面包车 7 辆，大客车 3 辆。她一共统计了多少辆车？",
+      "options": [
+        "32",
+        "28",
+        "35",
+        "30"
+      ],
+      "answer": "35",
+      "explanation": "$25 + 7 + 3 = 35$（辆）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "二(1)班投选“数学之星”，小刚得了 18 票，小强得了 21 票。小强最少再得几票就正好是小刚票数的两倍？",
+      "options": [
+        "15",
+        "3",
+        "36",
+        "2"
+      ],
+      "answer": "15",
+      "explanation": "小刚的两倍是 $18 \\times 2 = 36$（票）。现在小强 21 票，还差 $36 - 21 = 15$（票）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "在用“正”字记录某数据时，写到了第 3 个“正”字的第 4 画，此时代表的数字是：",
+      "options": [
+        "14",
+        "12",
+        "9",
+        "19"
+      ],
+      "answer": "14",
+      "explanation": "前两个“正”字是 10，第三个“正”字的第 4 画表示又加了 4，$10 + 4 = 14$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "三个候选人的得票分别是：张三 12 票，李四 10 票，王五 15 票。谁得票最高？",
+      "options": [
+        "张三",
+        "李四",
+        "王五",
+        "一样多"
+      ],
+      "answer": "王五",
+      "explanation": "$15 > 12 > 10$。王五得票最高。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "二(1)班合唱小组，女生有 16 人，男生有 12 人。合唱小组一共有 ___ 人。",
+      "options": [],
+      "answer": "28",
+      "explanation": "$16 + 12 = 28$。验算：$28 - 12 = 16$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "如果用1个“○”代表 2 个人，那么 8 个“○”代表 ___ 个人。",
+      "options": [],
+      "answer": "16",
+      "explanation": "$2 \\times 8 = 16$。验算：$16 \\div 2 = 8$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计表的制作与分析",
+      "question": "$24 \\div 4 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$24 \\div 4 = 6$。验算：$6 \\times 4 = 24$。"
+    }
+  ],
+  "knowledge": null
+}

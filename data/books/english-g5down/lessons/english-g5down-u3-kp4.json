@@ -1,0 +1,39 @@
+{
+  "id": "english-g5down-u3-kp4",
+  "title": "字母组合ch和sh的发音规律",
+  "bookId": "english-g5down",
+  "unitNumber": 3,
+  "unitTitle": "My school calendar",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母组合ch和sh的发音规律",
+      "question": "在单词 'fish' 和 'sheep' 中，'sh' 的发音是相同的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sh在这两个单词中都发/ʃ/。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母组合ch和sh的发音规律",
+      "question": "Which word has a different sound for 'ch'?",
+      "options": [
+        "teacher",
+        "chicken",
+        "school",
+        "lunch"
+      ],
+      "answer": "school",
+      "explanation": "school中的ch发/k/，其他三个发/tʃ/。"
+    }
+  ],
+  "knowledge": null
+}

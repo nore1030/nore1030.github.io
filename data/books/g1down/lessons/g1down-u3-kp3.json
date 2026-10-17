@@ -1,0 +1,145 @@
+{
+  "id": "g1down-u3-kp3",
+  "title": "数据的简单分析与记录",
+  "bookId": "g1down",
+  "unitNumber": 3,
+  "unitTitle": "分类与整理",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "分类整理数据后，每一组的数量相加应该等于总数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分类只是把全体成员分成了几部分，部分之和等于整体。验算：$3+5=8$，总数仍为8。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "如果表格中苹果有5个，梨有3个，那么苹果比梨多2个。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过减法计算：$5 - 3 = 2$（个）。验算：$3 + 2 = 5$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "一班有 10 个男生，8 个女生。男生和女生相比，结果是？",
+      "options": [
+        "男生多",
+        "女生多",
+        "一样多",
+        "无法确定"
+      ],
+      "answer": "男生多",
+      "explanation": "$10 > 8$，所以男生比女生多。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "小明统计了本周的天气：晴天 4 天，雨天 3 天。晴天比雨天多几天？",
+      "options": [
+        "1 天",
+        "2 天",
+        "3 天",
+        "7 天"
+      ],
+      "answer": "1 天",
+      "explanation": "$4 - 3 = 1$（天）。验算：$3 + 1 = 4$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "小红有 5 支红铅笔，4 支蓝铅笔。如果她又买了两支蓝铅笔，现在蓝铅笔和红铅笔相比？",
+      "options": [
+        "红铅笔多",
+        "蓝铅笔多",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "蓝铅笔多",
+      "explanation": "原来的蓝铅笔加买的：$4 + 2 = 6$（支）。$6 > 5$，所以蓝铅笔多。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "班里有 20 人。按性别分：男生 11 人，女生 9 人。下面哪个符号表示男生和女生的关系？",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "因为 11 大于 9，所以用大于号。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "篮子里的苹果比梨多 3 个，梨有 5 个。篮子里一共有多少个水果？",
+      "options": [
+        "8",
+        "13",
+        "10",
+        "2"
+      ],
+      "answer": "13",
+      "explanation": "苹果：$5 + 3 = 8$（个）。总数：$8 + 5 = 13$（个）。验算：$13 - 5 = 8$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "一盒积木里圆柱有 12 个，正方体有 8 个。圆柱比正方体多 ___ 个。",
+      "options": [],
+      "answer": "4",
+      "explanation": "$12 - 8 = 4$（个）。验算：$8 + 4 = 12$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数据的简单分析与记录",
+      "question": "计算：$18 - 6 = ?$",
+      "options": [],
+      "answer": "12",
+      "explanation": "18 减 6 等于 12。验算：$12 + 6 = 18$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数据的简单分析与记录",
+    "core_concept": "在完成分类并填入统计表后，需要对数据进行简单的比较。通过观察表格中的数字，判断哪种事物最多、哪种最少，以及各分类之间相差多少。这通常涉及加法（求总数）和减法（求比谁多/少）的简单运算。",
+    "key_formula": "相差数 = 较大数 - 较小数",
+    "common_mistakes": [
+      "在比较“谁多谁少”时，看错表格中的数据行。",
+      "无法正确理解“比...多几个”或“比...少几个”的运算含义，将减法做成了加法。"
+    ],
+    "tips": "看表时可以用手指着数据，读题时圈出“多”或“少”这些关键词，帮助准确判断运算方法。"
+  }
+}

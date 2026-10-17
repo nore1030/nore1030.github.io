@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g3down-u5-kp1",
+  "title": "镜像宇宙与想象思维建模",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 0,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "镜像宇宙与想象思维建模",
+      "question": "在想象的世界里，所有的规则都必须和现实生活一模一样。",
+      "options": [],
+      "answer": "错",
+      "explanation": "想象的世界可以打破现实规则，进行反转或重构。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "镜像宇宙与想象思维建模",
+      "question": "《手指里的宇宙》中，如果手指会说话，它们最可能讨论什么？",
+      "options": [
+        "谁的个子最高",
+        "人类的历史",
+        "明天的天气",
+        "物价的上涨"
+      ],
+      "answer": "谁的个子最高",
+      "explanation": "贴近学生对身体部位特征的直观想象。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "镜像宇宙与想象思维建模",
+      "question": "如果“加法”发生在春天，花朵加雨水可能变成什么？",
+      "options": [
+        "冰块",
+        "书包",
+        "彩虹桥",
+        "枯叶"
+      ],
+      "answer": "彩虹桥",
+      "explanation": "符合“事物相加产生美感效果”的想象逻辑。"
+    }
+  ],
+  "knowledge": {
+    "point": "镜像宇宙与想象思维建模",
+    "core_concept": "这是学生学习想象的高阶技巧。通过“反向思考”或“属性重排”，打破原有事物的固有认知。例如在一个相反的世界里，水从地向上流，火是冰冷的。建模的核心在于寻找事物的核心特征并进行合理的逻辑变向，让荒诞的故事充满自身的“逻辑自洽”。",
+    "key_formula": "想象 = 现实原型 + 功能反转/移位",
+    "common_mistakes": [
+      "想象逻辑前后矛盾，没有统一的世界观设置",
+      "过度天马行空而失去了事物本身的特征连接"
+    ],
+    "tips": "可以试着从“如果……会怎样”的问题开始练习，把平常看来理所当然的事反过来想。"
+  }
+}

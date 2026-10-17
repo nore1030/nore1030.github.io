@@ -1,0 +1,66 @@
+{
+  "id": "physics-g8up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "physics-g8up",
+  "unitNumber": 3,
+  "unitTitle": "物态变化",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "熔化和凝固",
+      "question": "下列属于晶体的是（　）",
+      "options": [
+        "玻璃",
+        "松香",
+        "冰",
+        "沥青"
+      ],
+      "answer": "冰",
+      "explanation": "冰有固定熔点。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "温度与温度计",
+      "question": "某温度计读数为 -8℃，若温度升高 20℃，读数变为多少℃？",
+      "options": [],
+      "answer": "12",
+      "explanation": "$-8+20=12$℃。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "汽化、液化与升华、凝华",
+      "question": "下列物态变化中吸热的是（　）",
+      "options": [
+        "液化",
+        "凝固",
+        "升华",
+        "凝华"
+      ],
+      "answer": "升华",
+      "explanation": "升华吸热。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "汽化、液化与升华、凝华",
+      "question": "水沸腾时温度一定为 100℃。",
+      "options": [],
+      "answer": "错",
+      "explanation": "沸点与气压有关，气压变化时沸点改变。"
+    }
+  ],
+  "knowledge": null
+}

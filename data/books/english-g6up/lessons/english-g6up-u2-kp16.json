@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp16",
+  "title": "主谓一致",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "主谓一致",
+      "question": "How ___ your father go to work?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "answer": "does",
+      "explanation": "your father是单三，助动词用does。"
+    }
+  ],
+  "knowledge": null
+}

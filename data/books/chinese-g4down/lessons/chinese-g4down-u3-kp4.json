@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u3-kp4",
+  "title": "句式识别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 2,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "句式识别",
+      "question": "“哪一颗星没有光？哪一朵花没有香？”是一组排比和反问句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "此句既有重复的结构（排比），也表达了肯定的语气（反问）。"
+    }
+  ],
+  "knowledge": null
+}

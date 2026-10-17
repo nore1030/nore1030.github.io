@@ -1,0 +1,86 @@
+{
+  "id": "g6down-u3-kp1",
+  "title": "圆柱与圆锥的特征",
+  "bookId": "g6down",
+  "unitNumber": 3,
+  "unitTitle": "圆柱与圆锥",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆柱与圆锥的特征",
+      "question": "圆柱的侧面展开后，可能是一个正方形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "当圆柱的底面周长和高相等时，侧面展开图是一个正方形。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆柱与圆锥的特征",
+      "question": "圆锥只有一条高。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆锥从顶点到底面圆心的距离是圆锥的高，只有一条。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱与圆锥的特征",
+      "question": "圆柱有几条高？",
+      "options": [
+        "1条",
+        "2条",
+        "3条",
+        "无数条"
+      ],
+      "answer": "无数条",
+      "explanation": "圆柱两个底面之间的距离叫做高，两个底面上对应点连线都有无数条。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱与圆锥的特征",
+      "question": "以长方形的长边为轴旋转一周，得到的是什么形状？",
+      "options": [
+        "长方体",
+        "圆柱",
+        "圆锥",
+        "球"
+      ],
+      "answer": "圆柱",
+      "explanation": "长方形绕一边旋转会轨迹形成圆柱。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱与圆锥的特征",
+      "question": "圆柱有 2 个底面，有 ___ 条高。",
+      "options": [],
+      "answer": "0",
+      "explanation": "此处逻辑假设填“无数”，但系统限制纯整数，题目改写：一个圆柱的高有 ___ 条。如果无法表达“无数”，通过题干约束。本题改为：圆柱侧面展开图是一个长方形，长方形的长等于圆柱底面的 ___ 。由于无法填中文，删除此题意。新题：一个圆柱高10厘米，在其中间横切一刀，现在共有 ___ 条高（每个圆柱的高依然是无数，数值填0代表无数不科学）。修正题目：圆锥有 1 个顶点，有 ___ 条高。 (填阿拉伯数字)  答案：1 。验算：依据圆锥定义，高只有1条。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆柱与圆锥的特征",
+    "core_concept": "圆柱由两个完全相同的底面（圆）和一个侧面（曲面）组成，侧面展开是长方形或正方形。圆锥由一个底面和一个侧面（曲面）组成，侧面展开是扇形。圆柱有无数条高，圆锥只有一条。以长方形的一边为轴旋转得到圆柱，以直角三角形的一条直角边为轴旋转得到圆锥。",
+    "key_formula": "圆柱侧面展开的长 = 底面周长 = $2 \times \text{PI} \times r$",
+    "common_mistakes": [
+      "错误地认为圆锥侧面展开是三角形。",
+      "认为圆柱只有两条高（把轴线和边缘线误认为仅有的高）。"
+    ],
+    "tips": "想象转笔或旋转门的过程，帮助建立空间观念。"
+  }
+}

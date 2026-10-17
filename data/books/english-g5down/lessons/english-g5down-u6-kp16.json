@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp16",
+  "title": "现在进行时否定回答",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现在进行时否定回答",
+      "question": "— Is she reading a book? — ________. She is drawing.",
+      "options": [
+        "Yes, she is",
+        "No, she isn't",
+        "No, she is",
+        "Yes, she isn't"
+      ],
+      "answer": "No, she isn't",
+      "explanation": "根据后一句She is drawing可知，前一句是否定回答。"
+    }
+  ],
+  "knowledge": null
+}

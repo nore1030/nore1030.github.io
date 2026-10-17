@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp8",
+  "title": "近义词辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词辨析",
+      "question": "“满天的乌云黑沉沉地压下来。”这句话中的“压”字表现了：",
+      "options": [
+        "乌云很重",
+        "乌云很低很厚",
+        "风很大",
+        "雨很大"
+      ],
+      "answer": "乌云很低很厚",
+      "explanation": "压形象地写出了乌云的沉重感和低压感。"
+    }
+  ],
+  "knowledge": null
+}

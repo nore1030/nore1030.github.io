@@ -1,0 +1,36 @@
+{
+  "id": "math-beishida-g7up-u4-kp2",
+  "title": "角的认识与度量",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 4,
+  "unitTitle": "第四章 基本平面图形",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的认识与度量",
+      "question": "1 直角等于（　）",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "60°"
+      ],
+      "answer": "90°",
+      "explanation": "直角 90°。"
+    }
+  ],
+  "knowledge": {
+    "point": "角的认识与度量",
+    "core_concept": "有公共端点的两条射线组成的图形是角；1 直角 = 90°，1 平角 = 180°，1 周角 = 360°；1° = 60′。",
+    "key_formula": "$1^\\circ=60'$",
+    "common_mistakes": [
+      "把平角当成直线。"
+    ],
+    "tips": "平角有顶点和两边。"
+  }
+}

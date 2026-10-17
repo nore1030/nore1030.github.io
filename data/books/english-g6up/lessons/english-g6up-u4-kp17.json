@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u4-kp17",
+  "title": "Vocabulary: activities",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 13,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Vocabulary: activities",
+      "question": "请将下列英语短语与对应的中文意思匹配。",
+      "options": [
+        "flying kites",
+        "cooking food",
+        "dancing",
+        "drawing",
+        "烹饪",
+        "放风筝",
+        "绘画",
+        "跳舞"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "A-flying kites(放风筝), B-cooking food(烹饪), C-dancing(跳舞), D-drawing(绘画)"
+    }
+  ],
+  "knowledge": null
+}

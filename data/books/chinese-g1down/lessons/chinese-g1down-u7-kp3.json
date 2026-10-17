@@ -1,0 +1,138 @@
+{
+  "id": "chinese-g1down-u7-kp3",
+  "title": "动作连贯词运用",
+  "bookId": "chinese-g1down",
+  "unitNumber": 7,
+  "unitTitle": "习惯",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "“掰玉米”中的“掰”字，通常是用手把东西分开或折断。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“掰”字从手，意为两手合力分物。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "“扛玉米”的“扛”字，部首是“扌”，表示和手的动作有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“扛”是提手旁，表示用肩膀承担物品的一个动作。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "猴子看见满地的西瓜，（ ）了一个大西瓜往回走。",
+      "options": [
+        "掰",
+        "摘",
+        "抱",
+        "扛"
+      ],
+      "answer": "抱",
+      "explanation": "西瓜圆且大，通常用两臂合拢的动作，即“抱”。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "丁丁（ ）着书包跑向学校。",
+      "options": [
+        "扛",
+        "背",
+        "扔",
+        "掰"
+      ],
+      "answer": "背",
+      "explanation": "书包通常是用肩带挂在背上的，动作是“背”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "下列哪个词语中“空”的读音与“天空”一致？",
+      "options": [
+        "空地",
+        "空白",
+        "空间",
+        "空手"
+      ],
+      "answer": "空间",
+      "explanation": "天空中的“空”读一声，空间也是一声；空地读四声。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "妈妈去果园（ ）苹果。",
+      "options": [
+        "捧",
+        "扔",
+        "摘",
+        "掰"
+      ],
+      "answer": "摘",
+      "explanation": "从树上取下果实习惯用“摘”。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "小猴子（ ）玉米往家走。",
+      "options": [],
+      "answer": "扛",
+      "explanation": "根据课文内容，小猴子掰了玉米后是“扛”着的。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "请将物品与对应的动作连接起来。",
+      "options": [
+        "玉米",
+        "桃子",
+        "西瓜",
+        "兔子",
+        "追",
+        "掰",
+        "摘",
+        "抱"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "掰玉米，摘桃子，抱西瓜，追兔子。"
+    }
+  ],
+  "knowledge": {
+    "point": "动作连贯词运用",
+    "core_concept": "掌握描写手部或身体动作的高频动词，如“掰、扛、扔、摘、捧、抱”等。这些动词虽然都暗示动手，但在动作幅度、力度及所对客体种类上存在细微差别。通过观察图片或实际操作动作，感受“扌”部首汉字的生动感。",
+    "key_formula": "动词（选精准） + 物品（相对应）",
+    "common_mistakes": [
+      "“掰”和“摘”运用对象混淆，如说“掰苹果”",
+      "将“扛（肩挑）”和“背（后背）”的动作场景弄错"
+    ],
+    "tips": "通过肢体游戏“我说你做”来练习：指明一个动作，让学生快速做出并说出对应的生字。"
+  }
+}

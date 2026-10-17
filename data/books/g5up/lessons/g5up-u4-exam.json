@@ -1,0 +1,217 @@
+{
+  "id": "g5up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g5up",
+  "unitNumber": 4,
+  "unitTitle": "可能性",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "事件发生的确定性与不确定性",
+      "question": "地球绕着太阳转是一定会发生的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自然科学规律，属于必然事件。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "只要数量够多，这种事件发生的可能性就一定大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在同一实验条件下，个体数量占据总数的比例越高，其发生的可能性就越大。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "设计一个抽奖箱，如果放入1个一等奖和100个纪念奖，抽到一等奖的可能性非常小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1比100，数量极少，可能性极小。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "抛硬币10次都是正面，第11次一定是正面。",
+      "options": [],
+      "answer": "错",
+      "explanation": "每一次抛硬币都是独立随机事件，第11次依然是可能正面也可能反面。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "可能性的大小比较",
+      "question": "转动转盘，指针落在白色区域的可能性最小，说明（ ）。",
+      "options": [
+        "白色区域最大",
+        "白色区域最小",
+        "没白色区域",
+        "白色区域居中"
+      ],
+      "answer": "白色区域最小",
+      "explanation": "可能性大小与区域面积成正比。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "小力和小红比赛抽签。共有100张签，其中只有1张中奖。小力抽了第1张，没中。剩下的签中抽到中奖签的可能性（ ）。",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "消失"
+      ],
+      "answer": "变大",
+      "explanation": "原本是1/100，排除一个错项后变为1/99，分母变小值变大。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "可能性的大小比较",
+      "question": "甲袋里有10红2白，乙袋里有5红1白。从哪个袋子里摸到红球的可能性更大？",
+      "options": [
+        "甲袋",
+        "乙袋",
+        "同样大",
+        "无法比较"
+      ],
+      "answer": "同样大",
+      "explanation": "甲袋比例：$10:2=5:1$，乙袋比例：$5:1$。比例相同，可能性相同。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "事件发生的确定性与不确定性",
+      "question": "三人轮流玩一个游戏，甲玩了之后乙玩，这种先后次序是（ ）安排的。",
+      "options": [
+        "人工",
+        "随机",
+        "确定性",
+        "可能"
+      ],
+      "answer": "确定性",
+      "explanation": "规则明确了后续人的次序，是确定发生的规律。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "事件发生的确定性与不确定性",
+      "question": "老师在黑板上画了一个圆。这个圆（ ）有半径。",
+      "options": [
+        "一定",
+        "可能",
+        "不可能",
+        "没有"
+      ],
+      "answer": "一定",
+      "explanation": "圆的定义特征就是具有定长的半径。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "一个正方体，三面涂红，两面涂黄，剩下一面涂绿。抛起后（ ）色朝上的可能性最小。",
+      "options": [
+        "红",
+        "黄",
+        "绿",
+        "蓝"
+      ],
+      "answer": "绿",
+      "explanation": "绿色面数最少（1面），所以可能性最小。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "事件发生的确定性与不确定性",
+      "question": "任意翻看 2024 年历，翻到 2 月 29 日是（ ）。",
+      "options": [
+        "一定",
+        "可能",
+        "不可能",
+        "必定"
+      ],
+      "answer": "可能",
+      "explanation": "2024年是闰年，有29号。翻看是随机行为，属于不确定事件。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "小明和小强玩转盘，转到单数小明赢，转到双数小强赢。用（ ）数字的转盘最公平。",
+      "options": [
+        "1-5",
+        "1-6",
+        "1-7",
+        "1-9"
+      ],
+      "answer": "1-6",
+      "explanation": "1-6中有3个单数(1,3,5)和3个双数(2,4,6)，数量相等，公平。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "一个黑口袋里有红球和黄球共 20 个。如果摸到红球可能性大，则红球至少要有 ___ 个。",
+      "options": [],
+      "answer": "11",
+      "explanation": "总数20，平分为10个。要使红球可能性大，红球数量需多于10。列式：$20 \times \frac{1}{2} + 1 = 11$。验算：$11 > 9$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "可能性的大小应用（设计方案）",
+      "question": "要把 12 个球放进盒子里，使摸到红球的可能性是黄球的 2 倍。红球应放 ___ 个。",
+      "options": [],
+      "answer": "8",
+      "explanation": "设黄球为x，红球为2x。$x + 2x = 12$, $3x = 12$, $x = 4$。红球为 $4 \times 2 = 8$。验算：$8 + 4 = 12$, $8 \times \frac{1}{2} = 4$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "事件发生的确定性与不确定性",
+      "question": "$24 \times 5 = ?$",
+      "options": [],
+      "answer": "120",
+      "explanation": "$24 \times 5 = 120$。验算：$120 \times \frac{1}{5} = 24$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

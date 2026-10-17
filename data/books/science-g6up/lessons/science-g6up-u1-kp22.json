@@ -1,0 +1,37 @@
+{
+  "id": "science-g6up-u1-kp22",
+  "title": "显微镜操作",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "显微镜操作",
+      "question": "对光时，我们需要转动反光镜，使通过目镜看到的视野呈现（）。",
+      "options": [
+        "黑色",
+        "红色",
+        "彩色",
+        "亮白色"
+      ],
+      "answer": "亮白色",
+      "explanation": "亮白色的视野表示光线已经均匀进入通光孔和目镜。"
+    }
+  ],
+  "knowledge": {
+    "point": "显微镜操作",
+    "core_concept": "光学显微镜成倒立缩小的像",
+    "key_formula": "总倍数=目镜倍数×物镜倍数",
+    "common_mistakes": [
+      "调节时物镜直接撞在玻片上",
+      "移动玻片的方向与物像位置搞反"
+    ],
+    "tips": "物像在哪个方向，玻片就往哪个方向移。"
+  }
+}

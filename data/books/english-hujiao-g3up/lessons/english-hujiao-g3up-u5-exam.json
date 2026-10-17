@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 2 My family, my friends and me — My family 我的家庭",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "家庭成员 father / mother / brother / sister",
+      "question": "「兄弟」的英文是（　）",
+      "options": [
+        "brother",
+        "sister",
+        "father",
+        "mother"
+      ],
+      "answer": "brother",
+      "explanation": "brother = 兄弟。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍家人 This is my…",
+      "question": "介绍全家人应说（　）",
+      "options": [
+        "This is my family.",
+        "This is my father.",
+        "These is my family.",
+        "This are my family."
+      ],
+      "answer": "This is my family.",
+      "explanation": "家庭作为一个整体用单数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "家庭成员 father / mother / brother / sister",
+      "question": "parents 指的是「父母双方」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "parents = 父母。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍家人 This is my…",
+      "question": "「这些是我的朋友。」的英文是（　）",
+      "options": [
+        "These are my friends.",
+        "This is my friends.",
+        "These is my friend.",
+        "This are my friends."
+      ],
+      "answer": "These are my friends.",
+      "explanation": "复数用 These are。"
+    }
+  ],
+  "knowledge": null
+}

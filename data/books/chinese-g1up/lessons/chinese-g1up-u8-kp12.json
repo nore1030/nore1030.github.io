@@ -1,0 +1,45 @@
+{
+  "id": "chinese-g1up-u8-kp12",
+  "title": "现代句式",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 11,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代句式",
+      "question": "连词成句：",
+      "options": [
+        "是",
+        "小学生",
+        "一年级的",
+        "我"
+      ],
+      "answer": "我,是,一年级的,小学生",
+      "explanation": "按照主谓宾结构：我是小学生。再加入定语修饰。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代句式",
+      "question": "连词成句：",
+      "options": [
+        "在",
+        "鱼儿",
+        "快活地",
+        "游来游去",
+        "水里"
+      ],
+      "answer": "鱼儿,在,水里,快活地,游来游去",
+      "explanation": "主语（鱼儿）+ 地点状语（在水里）+ 描写词（快活地）+ 动作（游来游去）。"
+    }
+  ],
+  "knowledge": null
+}

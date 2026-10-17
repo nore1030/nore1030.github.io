@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp20",
+  "title": "生物关系",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生物关系",
+      "question": "以下属于生产者的是（ ）。",
+      "options": [
+        "真菌",
+        "兔子",
+        "水稻",
+        "蝗虫"
+      ],
+      "answer": "水稻",
+      "explanation": "生产者是能通过光合作用制造有机物的植物。"
+    }
+  ],
+  "knowledge": null
+}

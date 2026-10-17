@@ -1,0 +1,210 @@
+{
+  "id": "g6up-u6-kp1",
+  "title": "百分数的意义与互化",
+  "bookId": "g6up",
+  "unitNumber": 6,
+  "unitTitle": "百分数（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "百分数也叫做百分率或百分比。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据百分数的定义，百分数表示一个数是另一个数的百分之几，也叫百分率或百分比。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "分母是 100 的分数一定是百分数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "百分数只表示两个数的比率，不能带单位；而分母是 100 的分数可以表示具体的量（如 1/100 米）。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "把 0.8% 的百分号去掉，这个数就扩大了 100 倍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$0.8\\% = 0.008$，去掉百分号变成 0.8，$0.8 \\div 0.008 = 100$。验算正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "下面各数中，最小的一个数是：",
+      "options": [
+        "0.55",
+        "5.5%",
+        "五分之一",
+        "0.5"
+      ],
+      "answer": "5.5%",
+      "explanation": "统一换算成小数比较：$0.55$, $5.5\\%=0.055$, $\\frac{1}{5}=0.2$, $0.5$。$0.055$ 最小。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "把 25 克盐溶解在 100 克水中，盐水的含盐率是：",
+      "options": [
+        "25%",
+        "20%",
+        "75%",
+        "125%"
+      ],
+      "answer": "20%",
+      "explanation": "含盐率 = $25 \\div (25 + 100) \\times 100\\% = 25 \\div 125 = 20\\% $。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "在 $3.14$、$\\pi$、$\\frac{22}{7}$ 和 $314.2\\%$ 中，最大的数是：",
+      "options": [
+        "3.14",
+        "π",
+        "22/7",
+        "314.2%"
+      ],
+      "answer": "22/7",
+      "explanation": "$3.14$, $\\pi \\approx 3.14159$, $\\frac{22}{7} \\approx 3.14285$, $314.2\\% = 3.142$。比较可知 $\\frac{22}{7}$ 最大。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "六一班男生人数占全班的 48%，女生人数占全班的：",
+      "options": [
+        "48%",
+        "52%",
+        "100%",
+        "4%"
+      ],
+      "answer": "52%",
+      "explanation": "$1 - 48\\% = 52\\%$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "比较大小：$0.67$ 与 $\\frac{2}{3}$，中间应填：",
+      "options": [
+        ">",
+        "<",
+        "==",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "$\\frac{2}{3} \\approx 0.666...$，所以 $0.67 > 0.666...$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "下列哪个百分率可能大于 100%？",
+      "options": [
+        "出油率",
+        "增长率",
+        "出勤率",
+        "及格率"
+      ],
+      "answer": "增长率",
+      "explanation": "增长率可以翻倍，超过 100%；出油率、出勤率、及格率最高只能是 100%。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "写成百分数的形式，0.03 等于：",
+      "options": [
+        "0.3%",
+        "3%",
+        "30%",
+        "0.03%"
+      ],
+      "answer": "3%",
+      "explanation": "$0.03 \\times 100 = 3$，加上百分号为 $3\\%$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "校园里种了 50 棵树，有 2 棵没成活。这批树的成活率是 ___ %。",
+      "options": [],
+      "answer": "96",
+      "explanation": "成活棵数：$50 - 2 = 48$。成活率：$48 \\div 50 \\times 100 = 96$。验算：$96\\% \\times 50 = 48$，加上死掉的 2 棵正好 50 棵。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "把 0.45 转化为百分数是 ___ %。",
+      "options": [],
+      "answer": "45",
+      "explanation": "$0.45 \\times 100 = 45$。即 45%。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "$40 \\times 20\\% = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$40 \\times 0.2 = 8$。验算：$8 \\div 0.2 = 40$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "$100 \\div 50\\% = ?$",
+      "options": [],
+      "answer": "200",
+      "explanation": "$100 \\div 0.5 = 200$。验算：$200 \\times 0.5 = 100$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "百分数的意义与互化",
+    "core_concept": "百分数表示一个数是另一个数的百分之几。它是专门用来表示两个数量之间的比率关系，因此不能带有单位。小数化百分数只要把小数点向右移两位并加百分号；分数化百分数通常先化成小数再化百分数。",
+    "key_formula": "$百分数 = \\frac{比较量}{标准量} \\times 100\\%$",
+    "common_mistakes": [
+      "把百分数和分数的意义混淆，给百分数带上单位，如 50% 米。",
+      "在互化过程中小数点移动位数错误，如将 0.03 写成 0.3%。"
+    ],
+    "tips": "记住百分数就是分母为100的特殊的比，它只表示‘关系’而不表示‘具体量’。"
+  }
+}

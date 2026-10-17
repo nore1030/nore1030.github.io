@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp13",
+  "title": "种子发芽条件",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "种子发芽条件",
+      "question": "在研究种子发芽是否需要水分的对比实验中，我们要改变的条件是（ ）。",
+      "options": [
+        "光照",
+        "温度",
+        "水分",
+        "空气"
+      ],
+      "answer": "水分",
+      "explanation": "对比实验中，除了研究的变量（水分）不同，其他条件必须保持一致。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "science-g5up-u1-kp1",
+  "title": "光源的辨析",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 0,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "光源的辨析",
+      "question": "月亮在夜晚看起来很亮，所以它是一个光源。",
+      "options": [],
+      "answer": "错",
+      "explanation": "光源是指自身能发光的物体，月亮是反射太阳光，不是光源。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光源的辨析",
+      "question": "下列物体中属于光源的是（___）。",
+      "options": [
+        "熄灭的蜡烛",
+        "反光的镜子",
+        "燃烧的火把",
+        "明亮的月球"
+      ],
+      "answer": "燃烧的火把",
+      "explanation": "光源必须是正在发光的物体，火把正在燃烧所以是光源。"
+    }
+  ],
+  "knowledge": null
+}

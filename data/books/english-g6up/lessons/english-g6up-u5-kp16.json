@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp16",
+  "title": "逻辑推理",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 12,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑推理",
+      "question": "If you like drawing, you can be an ______.",
+      "options": [
+        "doctor",
+        "artist",
+        "worker",
+        "actor"
+      ],
+      "answer": "artist",
+      "explanation": "喜欢绘画(drawing)可以成为艺术家(artist)。"
+    }
+  ],
+  "knowledge": null
+}

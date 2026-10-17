@@ -1,0 +1,66 @@
+{
+  "id": "history-g7up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "history-g7up",
+  "unitNumber": 3,
+  "unitTitle": "三国两晋南北朝",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "江南开发与民族交融",
+      "question": "《齐民要术》的作者是（　）",
+      "options": [
+        "祖冲之",
+        "贾思勰",
+        "郦道元",
+        "王羲之"
+      ],
+      "answer": "贾思勰",
+      "explanation": "《齐民要术》作者贾思勰。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "三国鼎立与西晋统一",
+      "question": "三国指的是魏、蜀、吴。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三国为魏蜀吴。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "江南开发与民族交融",
+      "question": "南朝时期江南经济得到进一步发展。",
+      "options": [],
+      "answer": "对",
+      "explanation": "江南经济开发。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三国鼎立与西晋统一",
+      "question": "结束三国分裂局面、实现短期统一的是（　）",
+      "options": [
+        "西晋",
+        "东晋",
+        "北魏",
+        "隋朝"
+      ],
+      "answer": "西晋",
+      "explanation": "西晋实现短期统一。"
+    }
+  ],
+  "knowledge": null
+}

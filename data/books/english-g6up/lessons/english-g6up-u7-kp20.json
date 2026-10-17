@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp20",
+  "title": "交通规则",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交通规则",
+      "question": "Don't go at a ______ light.",
+      "options": [],
+      "answer": "red",
+      "explanation": "红灯停，不能走。"
+    }
+  ],
+  "knowledge": null
+}

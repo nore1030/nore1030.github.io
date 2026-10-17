@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp10",
+  "title": "数字顺序",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字顺序",
+      "question": "Choose the next number: seven, eight, nine, _____.",
+      "options": [
+        "six",
+        "five",
+        "ten",
+        "four"
+      ],
+      "answer": "ten",
+      "explanation": "按顺序1-10排列，nine后接ten。"
+    }
+  ],
+  "knowledge": null
+}

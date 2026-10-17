@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g2down-u3-kp3",
+  "title": "“贝”字旁与汉字造字意图",
+  "bookId": "chinese-g2down",
+  "unitNumber": 3,
+  "unitTitle": "传统文化与识字",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "“赚”字的偏旁是“贝”，说明这个字的意思可能和钱财有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在古代，人们曾用贝壳作为货币，所以带贝字旁的字多与钱财有关。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "下列哪组汉字全部带有“贝”字旁？",
+      "options": [
+        "财、赚、赔",
+        "饭、饮、饱",
+        "跑、跳、踢",
+        "冷、冰、冻"
+      ],
+      "answer": "财、赚、赔",
+      "explanation": "财、赚、赔均与金钱有关，都是贝字旁。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "古人觉得“贝”字像什么，所以才把它作为钱财的象征？",
+      "options": [
+        "贝壳的形状",
+        "圆形的硬币",
+        "张开的嘴巴",
+        "一只小鸟"
+      ],
+      "answer": "贝壳的形状",
+      "explanation": "贝字是象形字，模拟了贝壳的外形。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "汉字“购”的偏旁是（___）。",
+      "options": [],
+      "answer": "贝",
+      "explanation": "购的意思是买，与钱财有关，偏旁是贝。"
+    }
+  ],
+  "knowledge": {
+    "point": "“贝”字旁与汉字造字意图",
+    "core_concept": "汉字具有表意功能。通过了解古代以贝壳作为货币的历史，学生理解字理逻辑。凡是带有“贝”字旁的字，如财、赚、赔、购，大多与货币和财产有关。",
+    "key_formula": "贝 = 钱财。",
+    "common_mistakes": [
+      "书写“贝”字旁时最后一点写成捺",
+      "误认为所有海产品都带贝字旁"
+    ],
+    "tips": "找找家里的日常开销，哪些动作如“购”“买”带贝部，联系生活实物记忆。"
+  }
+}

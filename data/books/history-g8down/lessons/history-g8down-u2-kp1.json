@@ -1,0 +1,47 @@
+{
+  "id": "history-g8down-u2-kp1",
+  "title": "中华民族的抗日战争",
+  "bookId": "history-g8down",
+  "unitNumber": 2,
+  "unitTitle": "抗日战争与新中国成立",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中华民族的抗日战争",
+      "question": "中国抗日战争全面爆发的标志是（　）",
+      "options": [
+        "1937 年七七事变",
+        "1931 年九一八事变",
+        "1936 年西安事变",
+        "1945 年抗战胜利"
+      ],
+      "answer": "1937 年七七事变",
+      "explanation": "七七事变全面抗战。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中华民族的抗日战争",
+      "question": "九一八事变是中国人民抗日战争的起点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "九一八是起点。"
+    }
+  ],
+  "knowledge": {
+    "point": "中华民族的抗日战争",
+    "core_concept": "1931 年九一八事变是中国人民抗日战争的起点，1937 年七七事变后进入全民族抗战。1945 年抗日战争胜利，是近代以来中国反抗外敌入侵的第一次完全胜利。",
+    "key_formula": "1931 九一八 → 1937 七七 → 1945 胜利",
+    "common_mistakes": [
+      "把九一八当作全面抗战开始。"
+    ],
+    "tips": "九一八是起点，七七是全面抗战。"
+  }
+}

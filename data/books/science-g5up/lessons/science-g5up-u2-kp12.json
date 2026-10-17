@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp12",
+  "title": "岩石成因",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "岩石成因",
+      "question": "由岩浆冷却凝固形成的岩石被称为（ ）。",
+      "options": [
+        "变质岩",
+        "沉积岩",
+        "火山岩",
+        "岩浆岩"
+      ],
+      "answer": "岩浆岩",
+      "explanation": "岩浆喷出地表或在地下冷却后形成的岩石是岩浆岩。"
+    }
+  ],
+  "knowledge": null
+}

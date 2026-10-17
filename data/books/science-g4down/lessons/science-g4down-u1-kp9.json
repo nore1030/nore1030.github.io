@@ -1,0 +1,39 @@
+{
+  "id": "science-g4down-u1-kp9",
+  "title": "植物的根",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 3,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的根",
+      "question": "植物的根只有固定植株的作用，不能吸收水分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根既能固定植物，也能吸收土壤中的水分和矿物质。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的根",
+      "question": "下列植物中，拥有直根系的是（）。",
+      "options": [
+        "葱",
+        "凤仙花",
+        "水稻",
+        "玉米"
+      ],
+      "answer": "凤仙花",
+      "explanation": "凤仙花具有主根和侧根之分，属于直根系；葱、水稻、玉米属于须根系。"
+    }
+  ],
+  "knowledge": null
+}

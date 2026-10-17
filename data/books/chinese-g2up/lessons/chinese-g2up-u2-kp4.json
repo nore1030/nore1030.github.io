@@ -1,0 +1,84 @@
+{
+  "id": "chinese-g2up-u2-kp4",
+  "title": "部首查字法操作流程",
+  "bookId": "chinese-g2up",
+  "unitNumber": 2,
+  "unitTitle": "识字",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "用部首查字法查“狐”字，应该先查“犭”部。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“狐”是左右结构，偏旁部首是犭。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "在“部首目录”中，“草字头”应该在几画里找？",
+      "options": [
+        "二画",
+        "三画",
+        "四画",
+        "五画"
+      ],
+      "answer": "三画",
+      "explanation": "草字头（艹）由三笔组成。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "如果一个字没有明显的部首，我们通常查它的：",
+      "options": [
+        "第一笔",
+        "最后一笔",
+        "中间一笔",
+        "最下面一画"
+      ],
+      "answer": "第一笔",
+      "explanation": "独体字或难检字一般查第一笔。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "请将汉字与它们的部首连接起来：",
+      "options": [
+        "葡",
+        "笨",
+        "酸",
+        "忙",
+        "酉",
+        "艹",
+        "忄",
+        "⺮"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考核常见汉字的部首归属。"
+    }
+  ],
+  "knowledge": {
+    "point": "部首查字法操作流程",
+    "core_concept": "部首查字法是低年级学生必须掌握的工具性技能。步骤包括：提取部首、部首目录查页码、检字表数剩余笔画找字、翻正文。适用于知道字形但不知道读音的情况。",
+    "key_formula": "定部首 -> 找目录 -> 找检字表 -> 翻正文",
+    "common_mistakes": [
+      "数部首笔画不准导致找不到页码",
+      "查检字表时数错除去部首外的笔画数"
+    ],
+    "tips": "遇到合体字通常查偏旁，遇到独体字通常查第一笔。"
+  }
+}

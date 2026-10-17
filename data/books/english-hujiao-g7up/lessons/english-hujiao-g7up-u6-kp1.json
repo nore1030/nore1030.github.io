@@ -1,0 +1,68 @@
+{
+  "id": "english-hujiao-g7up-u6-kp1",
+  "title": "旅行词汇 travel / ticket / hotel / visit",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Module 3 Travels — Travelling around Asia 环亚旅行",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "「我打算去北京。」的英文是（　）",
+      "options": [
+        "I'm going to Beijing.",
+        "I going to Beijing.",
+        "I'm go to Beijing.",
+        "I'm going to go to Beijing."
+      ],
+      "answer": "I'm going to Beijing.",
+      "explanation": "be going to + 地点。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "「酒店」的英文是（　）",
+      "options": [
+        "hotel",
+        "hostel",
+        "hotell",
+        "hotals"
+      ],
+      "answer": "hotel",
+      "explanation": "hotel 酒店。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "「订票」的英文是（　）",
+      "options": [
+        "book tickets",
+        "buy ticket",
+        "book ticket",
+        "take tickets"
+      ],
+      "answer": "book tickets",
+      "explanation": "book 预订。"
+    }
+  ],
+  "knowledge": {
+    "point": "旅行词汇 travel / ticket / hotel / visit",
+    "core_concept": "travel 旅行、ticket 票、hotel 酒店、visit 参观、trip 短途旅行。",
+    "key_formula": "book tickets 订票 / visit the Great Wall 参观长城",
+    "common_mistakes": [
+      "travel 与 trip 混用。"
+    ],
+    "tips": "travel 泛指旅行，trip 指具体一趟。"
+  }
+}

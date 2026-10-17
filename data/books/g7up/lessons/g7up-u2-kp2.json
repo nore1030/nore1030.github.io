@@ -1,0 +1,47 @@
+{
+  "id": "g7up-u2-kp2",
+  "title": "同类项与合并",
+  "bookId": "g7up",
+  "unitNumber": 2,
+  "unitTitle": "整式的加减",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "同类项与合并",
+      "question": "下列是同类项的是（　）",
+      "options": [
+        "$3x$ 与 $3y$",
+        "$2a^2b$ 与 $-5a^2b$",
+        "$x^2$ 与 $x$",
+        "$ab$ 与 $abc$"
+      ],
+      "answer": "$2a^2b$ 与 $-5a^2b$",
+      "explanation": "字母相同且指数相同。"
+    },
+    {
+      "id": 4,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "同类项与合并",
+      "question": "合并同类项：$3x+5x-2x=$ ？（填最简形式）",
+      "options": [],
+      "answer": "6x",
+      "explanation": "$(3+5-2)x=6x$。"
+    }
+  ],
+  "knowledge": {
+    "point": "同类项与合并",
+    "core_concept": "所含字母相同且相同字母指数也相同的项是同类项；合并时系数相加，字母与指数不变。",
+    "key_formula": "$ax+bx=(a+b)x$",
+    "common_mistakes": [
+      "把 $x^2$ 与 $x$ 当同类项。"
+    ],
+    "tips": "先标同类项再合并。"
+  }
+}

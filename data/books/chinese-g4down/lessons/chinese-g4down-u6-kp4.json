@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g4down-u6-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 6,
+  "unitTitle": "成长的足迹",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "选出下列加点字读音全部正确的一项：",
+      "options": [
+        "倔强（jué） 部署（shǔ）",
+        "囊萤（nán） 祈求（qǐ）",
+        "慷慨（kài） 搓澡（cuō）",
+        "扒拉（bā） 捆绑（páng）"
+      ],
+      "answer": "倔强（jué） 部署（shǔ）",
+      "explanation": "B项囊应为náng；C项慨应为kǎi；D项绑应为bǎng。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“老师对我们的关怀无微不至。”中“无微不至”的意思是：",
+      "options": [
+        "没有微小的东西",
+        "每一处微小的地方都照顾到",
+        "不太重视",
+        "只有一点点关心"
+      ],
+      "answer": "每一处微小的地方都照顾到",
+      "explanation": "形容关怀、照顾得非常细致周到。"
+    }
+  ],
+  "knowledge": null
+}

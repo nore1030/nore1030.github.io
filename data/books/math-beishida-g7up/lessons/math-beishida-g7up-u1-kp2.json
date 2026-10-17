@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g7up-u1-kp2",
+  "title": "从三个方向看与截面",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第一章 丰富的图形世界",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "从三个方向看与截面",
+      "question": "球从任何方向看到的形状都是圆。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三视图均为圆。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从三个方向看与截面",
+      "question": "用平面截一个正方体，截面不可能是（　）",
+      "options": [
+        "三角形",
+        "五边形",
+        "六边形",
+        "七边形"
+      ],
+      "answer": "七边形",
+      "explanation": "正方体只有 6 个面，截面最多六边形。"
+    }
+  ],
+  "knowledge": {
+    "point": "从三个方向看与截面",
+    "core_concept": "从正面、左面、上面三个方向看到的图形叫三视图。用平面截几何体，截面形状与截法有关：截正方体可得到三角形、四边形、五边形、六边形。",
+    "key_formula": "截面边数 ≤ 面数",
+    "common_mistakes": [
+      "认为球的截面是圆以外的形状。"
+    ],
+    "tips": "球的任何截面都是圆。"
+  }
+}

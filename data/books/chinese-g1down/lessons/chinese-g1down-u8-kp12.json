@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1down-u8-kp12",
+  "title": "词语运用",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 11,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语运用",
+      "question": "大树是（___）医生的病人。",
+      "options": [],
+      "answer": "啄木鸟",
+      "explanation": "啄木鸟生活在森林里，专门为树木捉虫。"
+    }
+  ],
+  "knowledge": null
+}

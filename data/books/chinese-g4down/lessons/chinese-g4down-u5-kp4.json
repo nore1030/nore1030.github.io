@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp4",
+  "title": "字形辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "“浙”江的“浙”字，左边是一个三点水。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“浙江”的“浙”字是左中右结构，左边是三点水。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": "g4up-u6-kp2",
+  "title": "笔算除法之试商与调商",
+  "bookId": "g4up",
+  "unitNumber": 6,
+  "unitTitle": "除数是两位数的除法",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "三位数除以两位数，商一定是一位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "三位数除以两位数，商可能是一位数（如 $100 \times 50 = 2$），也可能是两位数（如 $500 \times 20 = 25$）。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "除数是 28 时，可以用“五入”法把 28 看作 30 来试商，这时商容易偏大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "把除数看大了（28看作30），除数变大则商容易偏小，需要调大。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "$480 \times 62$，把 62 看作 60 来试商，商 8：",
+      "options": [
+        "合适",
+        "偏大",
+        "偏小",
+        "无法确定"
+      ],
+      "answer": "偏大",
+      "explanation": "把除数 62 看作 60 是“四舍”法，除数看小了，商容易偏大。验证：$62 \times 8 = 496$，大于 480，所以商 8 偏大。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "在除法算式中，余数必须比除数：",
+      "options": [
+        "大",
+        "小",
+        "相等",
+        "不确定"
+      ],
+      "answer": "小",
+      "explanation": "根据除法的性质，余数一定小于除数。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "$3 \times \times 33$ 的商（其中 $\times$ 代表未知数字）是：",
+      "options": [
+        "一位数",
+        "两位数",
+        "三位数",
+        "无法确定"
+      ],
+      "answer": "两位数",
+      "explanation": "被除数前两位是 3$\times$，大于或等于除数 33，所以最高位在十位上，商是两位数。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "计算 $540 \times 27$ 时，商的最高位在：",
+      "options": [
+        "个位",
+        "十位",
+        "百位",
+        "不确定"
+      ],
+      "answer": "十位",
+      "explanation": "被除数前两位 54 大于 27，够除，商的最高位在十位。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "如果 $\times \times 6 \times 44 = 17 \times \times 2$，那么被除数最大是：",
+      "options": [
+        "791",
+        "796",
+        "750",
+        "748"
+      ],
+      "answer": "791",
+      "explanation": "$17 \times 44 + 43 = 748 + 43 = 791$。余数最大是 43。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "已知 $\times \times 28 = 15 \times \times 10$，那么被除数是 ___。",
+      "options": [],
+      "answer": "430",
+      "explanation": "根据：被除数 = 商 $\times$ 除数 + 余数。列式：$15 \times 28 + 10 = 420 + 10 = 430$。验算：$430 \times 28 = 15 \times \times 10$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "计算：$216 \times 24 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$24 \times 10 = 240$，216 比 240 小一点，试商 9。$24 \times 9 = 216$。所以结果是 9。"
+    }
+  ],
+  "knowledge": {
+    "point": "笔算除法之试商与调商",
+    "core_concept": "三位数除以两位数，先看被除数的前两位，不够除看前三位。常用的试商方法是‘四舍五入’。‘四舍’法除数看小了，初商容易偏大，需要调小；‘五入’法除数看大了，初商容易偏小，需要调大。",
+    "key_formula": "被除数 = 除数 $\times$ 商 + 余数（余数 < 除数）",
+    "common_mistakes": [
+      "试商后忘记检查余数是否比除数小",
+      "商的位置写错（最高位定位错误）"
+    ],
+    "tips": "试商调商要灵活，如除数是24、25、26时，可以看作25来快速试商。"
+  }
+}

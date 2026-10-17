@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g2up-u7-kp5",
+  "title": "字词义辨析",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 4,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“危楼高百尺”中，“危”字的意思是：",
+      "options": [
+        "危险",
+        "高",
+        "害怕",
+        "破坏"
+      ],
+      "answer": "高",
+      "explanation": "危楼：高楼。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "请为词语找到正确的反义词。",
+      "options": [
+        "顽皮",
+        "消失",
+        "黑暗",
+        "远方",
+        "出现",
+        "乖巧",
+        "近处",
+        "光明"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察本单元课文中出现的重点词汇的对立义。"
+    }
+  ],
+  "knowledge": null
+}

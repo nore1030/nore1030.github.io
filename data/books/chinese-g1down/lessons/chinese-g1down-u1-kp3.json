@@ -1,0 +1,84 @@
+{
+  "id": "chinese-g1down-u1-kp3",
+  "title": "形声字构字规律（青字族）",
+  "bookId": "chinese-g1down",
+  "unitNumber": 1,
+  "unitTitle": "识字（一）",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "“睛”字有目字旁，所以这个字和眼睛有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“睛”是形声字，左边的目字旁表示它的字义与眼睛有关。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "如果要表示“心情很好”，“qíng”字应该带什么偏旁？",
+      "options": [
+        "日",
+        "目",
+        "忄",
+        "氵"
+      ],
+      "answer": "忄",
+      "explanation": "心情与内心有关，所以使用竖心旁（忄），写作“情”。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "在句子“河水清清天气___”中，横线应填入：",
+      "options": [
+        "晴",
+        "睛",
+        "请",
+        "情"
+      ],
+      "answer": "晴",
+      "explanation": "天气晴朗是因为有太阳，所以用日字旁的“晴”。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "请为“青”字选择合适的偏旁组成新字。",
+      "options": [
+        "氵",
+        "日",
+        "目",
+        "忄",
+        "睛",
+        "情",
+        "清",
+        "晴"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "水清清(氵)，太阳晴(日)，眼睛(目)，心情(忄)。"
+    }
+  ],
+  "knowledge": {
+    "point": "形声字构字规律（青字族）",
+    "core_concept": "本单元特有的“形声字族”识字法，以“青”为声部，配上不同的形部（日、目、氵、忄、讠）组成新字。形旁揭示字义（日与天气、目与眼睛、水与清纯等），声旁揭示读音。这是成规模识字的关键。",
+    "key_formula": "左形（表义）+ 右声（表音）= 新汉字",
+    "common_mistakes": [
+      "混合“晴”和“睛”，分不清太阳和眼睛的偏旁",
+      "将“请”的言字旁写成竖心旁"
+    ],
+    "tips": "记住口诀：有水方说清，有日天气晴，有目大眼睛，有心好心情，有言相互请。"
+  }
+}

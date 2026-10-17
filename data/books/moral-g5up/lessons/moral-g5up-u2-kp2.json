@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5up-u2-kp2",
+  "title": "感恩与回报",
+  "bookId": "moral-g5up",
+  "unitNumber": 2,
+  "unitTitle": "情感与家庭",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感恩与回报",
+      "question": "下面哪种做法最能体现感恩（　）",
+      "options": [
+        "理解父母的辛劳并主动分担家务",
+        "买昂贵的礼物",
+        "经常要零花钱",
+        "不听话让他们操心"
+      ],
+      "answer": "理解父母的辛劳并主动分担家务",
+      "explanation": "用心感恩。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "感恩与回报",
+      "question": "感恩父母要从身边小事做起。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小事见真心。"
+    }
+  ],
+  "knowledge": {
+    "point": "感恩与回报",
+    "core_concept": "感恩要落到行动：帮父母分担家务、体谅辛苦、用优异成绩回报。不能盲目攀比物质。",
+    "key_formula": "感恩在行动",
+    "common_mistakes": [
+      "只送昂贵礼物表心意。"
+    ],
+    "tips": "用心胜过用钱。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp16",
+  "title": "固定搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "固定搭配",
+      "question": "We went there ___ foot.",
+      "options": [
+        "by",
+        "on",
+        "with",
+        "at"
+      ],
+      "answer": "on",
+      "explanation": "步行用固定搭配on foot。"
+    }
+  ],
+  "knowledge": null
+}

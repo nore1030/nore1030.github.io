@@ -1,0 +1,63 @@
+{
+  "id": "physics-g8up-u3-kp3",
+  "title": "汽化、液化与升华、凝华",
+  "bookId": "physics-g8up",
+  "unitNumber": 3,
+  "unitTitle": "物态变化",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "汽化、液化与升华、凝华",
+      "question": "夏天从冰箱取出的饮料瓶外壁出现小水珠，这是（　）",
+      "options": [
+        "熔化",
+        "液化",
+        "升华",
+        "凝华"
+      ],
+      "answer": "液化",
+      "explanation": "空气中水蒸气遇冷液化。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "汽化、液化与升华、凝华",
+      "question": "冬天窗玻璃上的“冰花”出现在玻璃的（　）",
+      "options": [
+        "内表面",
+        "外表面",
+        "内外都有",
+        "无法确定"
+      ],
+      "answer": "内表面",
+      "explanation": "室内水蒸气遇冷凝华在玻璃内表面。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "汽化、液化与升华、凝华",
+      "question": "蒸发在任何温度下都能进行。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蒸发是缓慢的汽化。"
+    }
+  ],
+  "knowledge": {
+    "point": "汽化、液化与升华、凝华",
+    "core_concept": "蒸发和沸腾是汽化的两种方式，汽化吸热、液化放热。升华（固→气）吸热，凝华（气→固）放热。",
+    "key_formula": "汽化吸热 / 液化放热",
+    "common_mistakes": [
+      "把“白气”当作水蒸气。"
+    ],
+    "tips": "“白气”是小水珠，属液化。"
+  }
+}

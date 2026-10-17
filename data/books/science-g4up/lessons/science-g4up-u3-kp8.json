@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp8",
+  "title": "弹力的产生",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "弹力的产生",
+      "question": "撑杆跳高运动员是利用撑杆受压产生的弹力跃过横杆的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "物体形状改变时产生的力叫弹力，撑杆弯曲后产生弹力将运动员弹起。"
+    }
+  ],
+  "knowledge": null
+}

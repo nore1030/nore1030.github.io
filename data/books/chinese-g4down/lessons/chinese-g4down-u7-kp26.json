@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u7-kp26",
+  "title": "描写手法应用",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写手法应用",
+      "question": "将下列描写词语排列成展示自我的句子：",
+      "options": [
+        "喜欢",
+        "性格开朗的我",
+        "在广场上",
+        "尽情地",
+        "滑旱冰"
+      ],
+      "answer": "性格开朗的我,喜欢,在广场上,尽情地,滑旱冰",
+      "explanation": "按“谁＋爱好＋干什么”的结构排列。"
+    }
+  ],
+  "knowledge": null
+}

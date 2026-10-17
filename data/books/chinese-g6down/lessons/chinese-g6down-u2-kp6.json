@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u2-kp6",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 5,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“这些想法难道不是在这种处境下必然产生的吗？”这句话运用的修辞手法是：",
+      "options": [
+        "设问",
+        "反问",
+        "比喻",
+        "排比"
+      ],
+      "answer": "反问",
+      "explanation": "句子用疑问的形式表达肯定的意思，末尾是问号，属于反问。"
+    }
+  ],
+  "knowledge": null
+}

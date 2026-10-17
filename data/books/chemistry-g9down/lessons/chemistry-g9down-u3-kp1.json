@@ -1,0 +1,63 @@
+{
+  "id": "chemistry-g9down-u3-kp1",
+  "title": "常见的酸及其性质",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 3,
+  "unitTitle": "酸和碱",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见的酸及其性质",
+      "question": "稀释浓硫酸的正确操作是（　）",
+      "options": [
+        "把水倒入浓硫酸",
+        "把浓硫酸倒入水中并搅拌",
+        "两者同时倒入",
+        "先加热再混合"
+      ],
+      "answer": "把浓硫酸倒入水中并搅拌",
+      "explanation": "酸入水并搅拌散热。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "常见的酸及其性质",
+      "question": "下列物质不能与稀盐酸反应的是（　）",
+      "options": [
+        "铁",
+        "氧化铜",
+        "氢氧化钠",
+        "铜"
+      ],
+      "answer": "铜",
+      "explanation": "铜在氢之后，不与稀盐酸反应。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "常见的酸及其性质",
+      "question": "酸能使紫色石蕊试液变红。",
+      "options": [],
+      "answer": "对",
+      "explanation": "酸的指示剂反应。"
+    }
+  ],
+  "knowledge": {
+    "point": "常见的酸及其性质",
+    "core_concept": "酸能与指示剂、活泼金属、金属氧化物、碱、某些盐反应。浓硫酸具有吸水性和脱水性，稀释时应把浓硫酸沿器壁慢慢注入水中并搅拌。",
+    "key_formula": "$\\text{Fe}_2\\text{O}_3+6\\text{HCl}=2\\text{FeCl}_3+3\\text{H}_2\\text{O}$",
+    "common_mistakes": [
+      "稀释时把水倒入浓硫酸。"
+    ],
+    "tips": "酸入水，边加边搅。"
+  }
+}

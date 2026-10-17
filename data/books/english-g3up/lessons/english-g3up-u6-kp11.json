@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp11",
+  "title": "情景交际",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情景交际",
+      "question": "How old are you?",
+      "options": [
+        "I'm fine.",
+        "I'm nine.",
+        "Nine plates.",
+        "Thank you."
+      ],
+      "answer": "I'm nine.",
+      "explanation": "How old are you询问年龄，常用I'm + 数字回答。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp9",
+  "title": "代词区分",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "代词区分",
+      "question": "My friend is a girl. ______ name is Amy.",
+      "options": [
+        "His",
+        "Her",
+        "She",
+        "He"
+      ],
+      "answer": "Her",
+      "explanation": "修饰名词name且指代女性，应使用形容词性物主代词Her。"
+    }
+  ],
+  "knowledge": null
+}

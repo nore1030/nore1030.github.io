@@ -1,0 +1,55 @@
+{
+  "id": "chinese-g3up-u7-kp3",
+  "title": "人与自然的和谐主题",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 2,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人与自然的和谐主题",
+      "question": "《父亲、树林和鸟》中，父亲能够闻到鸟味说明他经常去树林看鸟，非常了解鸟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "父亲对鸟的习性非常熟悉，甚至能闻出林子里鸟儿的气息。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人与自然的和谐主题",
+      "question": "“这就是父亲最快活的时刻。”父亲最快活是因为：",
+      "options": [
+        "找到了树林",
+        "在树林里散步",
+        "感受到了鸟的快活",
+        "带我出来玩"
+      ],
+      "answer": "感受到了鸟的快活",
+      "explanation": "父亲爱鸟，鸟儿自在啼鸣让他感到由衷的快乐。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人与自然的和谐主题",
+      "question": "在《带刺的朋友》中，描写刺猬偷枣的过程主要体现了刺猬的：",
+      "options": [
+        "懒惰",
+        "贪吃",
+        "聪明机灵",
+        "笨乎乎"
+      ],
+      "answer": "聪明机灵",
+      "explanation": "作者通过生动的动作描写，展示了刺猬偷枣时的灵活手法。"
+    }
+  ],
+  "knowledge": null
+}

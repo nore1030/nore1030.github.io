@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u6-kp11",
+  "title": "家庭成员称呼",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 7,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称呼",
+      "question": "My father's brother is my ______.",
+      "options": [
+        "aunt",
+        "uncle",
+        "cousin",
+        "father"
+      ],
+      "answer": "uncle",
+      "explanation": "爸爸的兄弟被称为叔叔或伯伯，英文是 uncle。"
+    }
+  ],
+  "knowledge": null
+}

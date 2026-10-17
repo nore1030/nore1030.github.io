@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8down-u1-kp3",
+  "title": "二力平衡与摩擦力",
+  "bookId": "physics-g8down",
+  "unitNumber": 1,
+  "unitTitle": "力与运动",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二力平衡与摩擦力",
+      "question": "二力平衡的条件不包括（　）",
+      "options": [
+        "大小相等",
+        "方向相反",
+        "作用在同一直线上",
+        "作用在两个物体上"
+      ],
+      "answer": "作用在两个物体上",
+      "explanation": "平衡力作用在同一物体。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "二力平衡与摩擦力",
+      "question": "压力越大，滑动摩擦力一定越大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "还需接触面粗糙程度相同。"
+    }
+  ],
+  "knowledge": {
+    "point": "二力平衡与摩擦力",
+    "core_concept": "作用在同一物体上的两个力，大小相等、方向相反、作用在同一直线上时平衡。滑动摩擦力与压力和接触面粗糙程度有关。",
+    "key_formula": "$F_1=F_2$（同体、反向、共线）",
+    "common_mistakes": [
+      "把相互作用力当作平衡力。"
+    ],
+    "tips": "平衡力作用在同一物体上。"
+  }
+}

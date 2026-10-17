@@ -1,0 +1,66 @@
+{
+  "id": "moral-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g9down",
+  "unitNumber": 1,
+  "unitTitle": "富强与文明",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "共同富裕与中国梦",
+      "question": "实现共同富裕的路径不包括（　）",
+      "options": [
+        "大力发展生产力",
+        "完善分配制度",
+        "实行平均主义",
+        "促进基本公共服务均等化"
+      ],
+      "answer": "实行平均主义",
+      "explanation": "平均主义不是共同富裕路径。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中华优秀传统文化",
+      "question": "下列对待传统文化的做法错误的是（　）",
+      "options": [
+        "批判地继承，取其精华去其糟粕",
+        "盲目全盘否定",
+        "结合时代需求创新发展",
+        "弘扬优秀传统文化"
+      ],
+      "answer": "盲目全盘否定",
+      "explanation": "不能全盘否定。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "共同富裕与中国梦",
+      "question": "我国仍处于社会主义初级阶段，发展不平衡不充分问题依然存在。",
+      "options": [],
+      "answer": "对",
+      "explanation": "发展不平衡仍存在。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "中华优秀传统文化",
+      "question": "文化自信是更基础、更广泛、更深厚的自信。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文化自信。"
+    }
+  ],
+  "knowledge": null
+}

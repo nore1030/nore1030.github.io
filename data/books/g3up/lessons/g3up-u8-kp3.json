@@ -1,0 +1,102 @@
+{
+  "id": "g3up-u8-kp3",
+  "title": "同分母分数的加减运算",
+  "bookId": "g3up",
+  "unitNumber": 8,
+  "unitTitle": "分数的初步认识",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "计算同分母分数加减法时，只需要把分子相加减，分母保持不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同分母分数的分数单位相同，计算时分母不变，分子直接相加减。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "$1 - 2/9$ 的结果是：",
+      "options": [
+        "1/9",
+        "7/9",
+        "2/9",
+        "8/9"
+      ],
+      "answer": "7/9",
+      "explanation": "$1$ 可以看作 $9/9$，计算 $9/9 - 2/9 = 7/9$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "计算 $2/5 + 1/5$ 等于：",
+      "options": [
+        "3/5",
+        "3/10",
+        "1/5",
+        "1"
+      ],
+      "answer": "3/5",
+      "explanation": "分母不变，分子 $2+1=3$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "一个蛋糕，亮亮吃了 $2/8$，芳芳吃了 $3/8$，还剩下多少？",
+      "options": [
+        "5/8",
+        "3/8",
+        "1/8",
+        "1"
+      ],
+      "answer": "3/8",
+      "explanation": "一共吃了：$2/8 + 3/8 = 5/8$。剩下：$1 - 5/8 = 3/8$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "计算：$5/9 + 2/9$ 的分子应该是多少？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$5/9 + 2/9 = (5+2)/9 = 7/9$。结果的分子是7。验算：$7-5=2$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "同分母分数的加减运算",
+      "question": "计算：$1 - 4/10$ 的分子应该是多少？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$1 - 4/10 = 10/10 - 4/10 = 6/10$。结果的分子是6。验算：$6+4=10$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "同分母分数的加减运算",
+    "core_concept": "对于分母相同的分数，它们的分数单位是一致的，计算时只需要把分子相加或相减，而分母代表整体被分的总份数，位置和数值保持不变。在处理1减去某个分数时，要把1转化为与减数分母相同的分数（如 $1 = 5/5$）。",
+    "key_formula": "$\\frac{a}{c} \\pm \\frac{b}{c} = \\frac{a \\pm b}{c}$",
+    "common_mistakes": [
+      "把分子和分母分别相加减，例如 $1/3 + 1/3 = 2/6$。",
+      "计算 $1$ 减去分数时，不知道如何把 $1$ 进行转化。"
+    ],
+    "tips": "计算时分母是“单位”，只变数量（分子），底数（分母）不动。"
+  }
+}

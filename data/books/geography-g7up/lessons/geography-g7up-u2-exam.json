@@ -1,0 +1,66 @@
+{
+  "id": "geography-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "geography-g7up",
+  "unitNumber": 2,
+  "unitTitle": "陆地和海洋",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "海陆变迁与板块构造",
+      "question": "喜马拉雅山脉的形成主要是由于（　）",
+      "options": [
+        "板块碰撞挤压",
+        "板块张裂",
+        "流水侵蚀",
+        "火山喷发"
+      ],
+      "answer": "板块碰撞挤压",
+      "explanation": "亚欧板块与印度洋板块碰撞。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "海陆变迁与板块构造",
+      "question": "红海不断扩张是由于板块张裂。",
+      "options": [],
+      "answer": "对",
+      "explanation": "张裂使海洋扩张。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "大洲与大洋",
+      "question": "亚洲与欧洲的分界线是乌拉尔山脉—乌拉尔河—大高加索山脉—土耳其海峡。",
+      "options": [],
+      "answer": "对",
+      "explanation": "亚欧分界线。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "大洲与大洋",
+      "question": "全部位于北半球的大洋是（　）",
+      "options": [
+        "太平洋",
+        "北冰洋",
+        "印度洋",
+        "大西洋"
+      ],
+      "answer": "北冰洋",
+      "explanation": "北冰洋全部位于北半球。"
+    }
+  ],
+  "knowledge": null
+}

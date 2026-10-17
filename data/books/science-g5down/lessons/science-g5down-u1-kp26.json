@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp26",
+  "title": "光合作用产物",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光合作用产物",
+      "question": "植物进行光合作用的主要器官是（ ）。",
+      "options": [],
+      "answer": "叶",
+      "explanation": "叶片含有叶绿体，是光合作用的主要场所。"
+    }
+  ],
+  "knowledge": null
+}

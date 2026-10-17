@@ -1,0 +1,222 @@
+{
+  "id": "english-g6down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 21,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语法规则",
+      "question": "didn't 后面可以加 liked。",
+      "options": [],
+      "answer": "错",
+      "explanation": "助动词didn't后接动词原形。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇翻译",
+      "question": "'dining hall' 指的是‘图书馆’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "dining hall是食堂。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "过去能力",
+      "question": "couldn't 是 could not 的缩写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "考察单词缩写规则。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语境判断",
+      "question": "20 years ago, there was no Internet. 这句话符合历史事实。",
+      "options": [],
+      "answer": "对",
+      "explanation": "20年前互联网在中国尚未普及。"
+    },
+    {
+      "id": 7,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词辨析",
+      "question": "The moon and the ____ are in the sky.",
+      "options": [],
+      "answer": "stars",
+      "explanation": "stars 星星。"
+    },
+    {
+      "id": 8,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "最高级拼写",
+      "question": "The tiger is the _____ of the three animals. (big)",
+      "options": [],
+      "answer": "biggest",
+      "explanation": "双写g加est。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词",
+      "question": "The cat is small, but the elephant is ____.",
+      "options": [],
+      "answer": "large",
+      "explanation": "small对比large。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词等级",
+      "question": "Which one is the _____ of all?",
+      "options": [
+        "small",
+        "smaller",
+        "smallest",
+        "the small"
+      ],
+      "answer": "smallest",
+      "explanation": "of all表示范围，用最高级。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连词辨析",
+      "question": "I loved bread, ______ now I love rice.",
+      "options": [
+        "and",
+        "so",
+        "but",
+        "with"
+      ],
+      "answer": "but",
+      "explanation": "前后喜好对比，用转折连词。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "过去能力",
+      "question": "My grandpa ______ play football many years ago.",
+      "options": [
+        "couldn't",
+        "don't",
+        "not",
+        "isn't"
+      ],
+      "answer": "couldn't",
+      "explanation": "表示过去没有的能力。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常用语",
+      "question": "I'm ______ I can't go to the party.",
+      "options": [
+        "scared",
+        "afraid",
+        "happy",
+        "excited"
+      ],
+      "answer": "afraid",
+      "explanation": "I'm afraid 用于委婉表达。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "I looked ______ my old photos yesterday.",
+      "options": [
+        "up",
+        "at",
+        "to",
+        "for"
+      ],
+      "answer": "at",
+      "explanation": "look at 看着某物。"
+    },
+    {
+      "id": 19,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义表达",
+      "question": "In the race, I was not fast. I was ______.",
+      "options": [
+        "quick",
+        "slow",
+        "quiet",
+        "fast"
+      ],
+      "answer": "slow",
+      "explanation": "不快即是慢。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "变化对比词",
+      "question": "连出对应关系。",
+      "options": [
+        "before",
+        "now",
+        "old",
+        "new",
+        "以前",
+        "现在",
+        "旧的",
+        "新的"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "时间与状态的词汇对应。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "复杂句式",
+      "question": "连词成句：(a, dream, I, had, tonight)",
+      "options": [
+        "a",
+        "dream",
+        "I",
+        "had",
+        "tonight"
+      ],
+      "answer": "I,had,a,dream,tonight",
+      "explanation": "过去发生的事情用had。"
+    }
+  ],
+  "knowledge": null
+}

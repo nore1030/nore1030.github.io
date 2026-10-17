@@ -1,0 +1,75 @@
+{
+  "id": "g5up-u3-kp3",
+  "title": "商的近似数（进一法与去尾法）",
+  "bookId": "g5up",
+  "unitNumber": 3,
+  "unitTitle": "小数除法",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "每套衣服用布 2.2 米，50 米布最多可以做 23 套衣服。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$50 \bdiv 2.2 \bdiv 22.72...$ 套。根据生活实际，剩下的布不够做一套，应采用“去尾法”，即只能做 22 套。验算：$22 \times 2.2 = 48.4$ 米，$23 \times 2.2 = 50.6$ 米（布不够）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "把 60 升油装入容量为 4.5 升的桶中，至少需要准备几个桶？",
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "answer": "14",
+      "explanation": "$60 \bdiv 4.5 \bdiv 13.33...$ 个。剩下的油也需要一个桶装，所以用“进一法”，$13 + 1 = 14$ 个。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "计算 $2.5 \bdiv 0.7$，商保留一位小数是多少？",
+      "options": [
+        "3.5",
+        "3.6",
+        "3.57",
+        "3.4"
+      ],
+      "answer": "3.6",
+      "explanation": "$2.5 \bdiv 0.7 \bdiv 3.571$。百分位是 7，四舍五入到十分位应进一，结果为 3.6。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "老师准备了 25 个苹果，平均分给 6 个小朋友，每个小朋友最多分到 ___ 个完整的苹果。",
+      "options": [],
+      "answer": "4",
+      "explanation": "列式：$25 \bdiv 6 = 4.166...$ 个。分苹果必须是整数，且不能多于总数，用去尾法取整为 4。验算：$4 \times 6 = 24 < 25$。"
+    }
+  ],
+  "knowledge": {
+    "point": "商的近似数（进一法与去尾法）",
+    "core_concept": "在实际应用中，取商的近似值不仅可以用“四舍五入法”，还要根据实际需要使用“进一法”（如装油需要瓶子）或“去尾法”（如布料做衣服）。“进一法”是无论余数是多少都向前进一；“去尾法”是无论余数是多少都舍去。",
+    "key_formula": "根据实际情况取近似数",
+    "common_mistakes": [
+      "机械使用四舍五入，忽略生活情境",
+      "计算精确位数时没有多算一位便直接取值"
+    ],
+    "tips": "分东西、做衣服用“去尾法”；装东西、载人用“进一法”。"
+  }
+}

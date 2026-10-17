@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp21",
+  "title": "拟声词",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟声词",
+      "question": "树上的小鸟（____）地叫着，好像在唱歌。",
+      "options": [],
+      "answer": "叽叽喳喳",
+      "explanation": "小鸟鸣叫的常态拟声词是叽叽喳喳。"
+    }
+  ],
+  "knowledge": null
+}

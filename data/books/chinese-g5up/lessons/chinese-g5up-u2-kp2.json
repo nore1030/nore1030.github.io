@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g5up-u2-kp2",
+  "title": "借助关键词句筛选信息",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 1,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "文章的标题通常能提示文章的主要内容，有助于快速阅读。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标题是文章的眼睛，能够高度概括文章主旨。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "《搭石》一文中，最能概括家乡人走搭石场面的词语是：",
+      "options": [
+        "协调有序",
+        "热热闹闹",
+        "小心翼翼",
+        "急急忙忙"
+      ],
+      "answer": "协调有序",
+      "explanation": "文中有明确描述走搭石时“协调有序”的关键词。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "阅读《将相和》时，通过了解背景，我们知道蔺相如带璧赴秦的原因是：",
+      "options": [
+        "赵王害怕秦王",
+        "秦王以城换璧",
+        "赵国比较弱小",
+        "蔺相如很勇敢"
+      ],
+      "answer": "秦王以城换璧",
+      "explanation": "起因是秦王提出用十五座城池换和氏璧。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "语段：‘秦王接过宝璧，左右端详，喜爱之极。他绝口不提十五座城的事。’这段话表现了秦王的：",
+      "options": [
+        "不守信用",
+        "非常博学",
+        "做事果断",
+        "为人豪爽"
+      ],
+      "answer": "不守信用",
+      "explanation": "只顾看璧却不提城池，体现了秦王的虚伪和无信。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "借助关键词句筛选信息",
+      "question": "《将相和》中包含三个故事，分别是完璧归赵、渑池之会和（___）。",
+      "options": [],
+      "answer": "负荆请罪",
+      "explanation": "这是课文《将相和》的第三个核心故事情节。"
+    }
+  ],
+  "knowledge": {
+    "point": "借助关键词句筛选信息",
+    "core_concept": "在阅读中，通过识别段落的中心句、起始句、总结句，以及带动作、时间、逻辑关联词（如“但是”、“总之”）的关键词，可以迅速略过次要的描写性内容，直接抓取文章的核心骨架和相关事实数据。",
+    "key_formula": "抓首尾句，寻关联词，瞄关键词。",
+    "common_mistakes": [
+      "平均用力，每一个字都仔细研读导致速度过慢",
+      "找不到中心句，把具体的举例说明当成了核心观点"
+    ],
+    "tips": "阅读前先看课后习题或带着“是什么、为什么、怎么样”的问题去扫描，目光会像扫描仪一样精准捕捉目标词汇。"
+  }
+}

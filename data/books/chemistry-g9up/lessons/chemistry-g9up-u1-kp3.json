@@ -1,0 +1,31 @@
+{
+  "id": "chemistry-g9up-u1-kp3",
+  "title": "氧气的实验室制法操作",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的空气",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "氧气的实验室制法操作",
+      "question": "氧气不易溶于水，可用排水法收集。",
+      "options": [],
+      "answer": "对",
+      "explanation": "氧气溶解性小。"
+    }
+  ],
+  "knowledge": {
+    "point": "氧气的实验室制法操作",
+    "core_concept": "收集氧气可用向上排空气法（密度比空气大）或排水法（不易溶于水）；用排水法收集时导管口有连续均匀气泡冒出才开始收集。",
+    "key_formula": "氧气密度 > 空气",
+    "common_mistakes": [
+      "刚冒气泡就收集（含空气）。"
+    ],
+    "tips": "等气泡连续均匀再收集。"
+  }
+}

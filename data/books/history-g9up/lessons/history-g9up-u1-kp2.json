@@ -1,0 +1,47 @@
+{
+  "id": "history-g9up-u1-kp2",
+  "title": "近代化的艰难起步",
+  "bookId": "history-g9up",
+  "unitNumber": 1,
+  "unitTitle": "古代文明与近代转型",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代化的艰难起步",
+      "question": "中国近代化的开端是（　）",
+      "options": [
+        "洋务运动",
+        "戊戌变法",
+        "辛亥革命",
+        "新文化运动"
+      ],
+      "answer": "洋务运动",
+      "explanation": "洋务运动是开端。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代化的艰难起步",
+      "question": "洋务运动学习西方先进技术。",
+      "options": [],
+      "answer": "对",
+      "explanation": "学器物。"
+    }
+  ],
+  "knowledge": {
+    "point": "近代化的艰难起步",
+    "core_concept": "1840 年鸦片战争后中国被迫开放通商口岸，洋务运动引进西方技术，是中国近代化的开端。",
+    "key_formula": "1840 鸦片战争 → 洋务运动",
+    "common_mistakes": [
+      "认为洋务运动使中国富强。"
+    ],
+    "tips": "只学器物未富强。"
+  }
+}

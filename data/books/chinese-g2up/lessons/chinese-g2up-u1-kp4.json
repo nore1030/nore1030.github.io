@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g2up-u1-kp4",
+  "title": "户外活动词汇与书法规律",
+  "bookId": "chinese-g2up",
+  "unitNumber": 1,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "户外活动词汇与书法规律",
+      "question": "“法”这个字书写时左窄右宽。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“法”是三点水旁，属于左窄右宽的结构。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "户外活动词汇与书法规律",
+      "question": "登山时，我们要准备好登山鞋和登山杖。",
+      "options": [],
+      "answer": "对",
+      "explanation": "登山鞋和登山杖是户外登山的必备装备。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "户外活动词汇与书法规律",
+      "question": "下列哪个字属于“左宽右窄”的结构？",
+      "options": [
+        "给",
+        "如",
+        "都",
+        "极"
+      ],
+      "answer": "都",
+      "explanation": "“都”字的右边单耳旁较窄，左边部分较宽。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "户外活动词汇与书法规律",
+      "question": "下列词语中，哪一个不属于户外装备？",
+      "options": [
+        "地图",
+        "书包",
+        "水壶",
+        "指南针"
+      ],
+      "answer": "书包",
+      "explanation": "虽然书包能装东西，但在课文语境下，地图、水壶、指南针是特定的原野生存装备。"
+    }
+  ],
+  "knowledge": {
+    "point": "户外活动词汇与书法规律",
+    "core_concept": "积累生活化词汇，掌握野外探险的基本装备，学会从书法角度观察汉字平衡感。二年级汉字教学注重结构美，如“法、如”等字左窄右宽，而“都、别”等字左宽右窄，强调左右部分的比例关系。",
+    "key_formula": "左右平衡法则：左窄右宽求高挑，左宽右窄求稳健。",
+    "common_mistakes": [
+      "书写“极、海洋”时左右部分比例均等，显得臃肿",
+      "“指南针”的“针”字偏旁部首掌握不牢"
+    ],
+    "tips": "临摹字帖时先画辅助框，标注出宽窄比例再动笔。"
+  }
+}

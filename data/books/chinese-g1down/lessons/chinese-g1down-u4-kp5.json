@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp5",
+  "title": "字词义辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 4,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "奶奶过生日，全家人都（ ）了。",
+      "options": [
+        "开心",
+        "笑嘻嘻",
+        "白白",
+        "红红"
+      ],
+      "answer": "笑嘻嘻",
+      "explanation": "描写家人的神态，笑嘻嘻最为生动贴切。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g1up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "g1up",
+  "unitNumber": 8,
+  "unitTitle": "20以内的进位加法",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$9 + 7 = 16$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$9+1=10, 10+6=16$。验算：$16-7=9$ ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$7 + 5$ 的得数和 $6 + 6$ 一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$7+5=12$，$6+6=12$。所以一样。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "凑十法的算法与应用",
+      "question": "凑十法就是通过把一个数拆开，和另一个数凑成 10。",
+      "options": [],
+      "answer": "对",
+      "explanation": "凑十法是计算进位加法的基本方法，核心是凑出十。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "两个数相加的和，一定比这两个数都大（0除外）。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在非零自然数的范围内，和会比任何一个加数都大。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "凑十法的算法与应用",
+      "question": "在 $\text{___} + 9 = 15$ 中，应填什么？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "$15 - 9 = 6$。验算：$6 + 9 = 15$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "$4 + 8$ 的结果是多少？",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "12",
+      "explanation": "想 $8 + 4 = 12$。验算：$12 - 4 = 8$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "下面哪个算式的得数比 15 大？",
+      "options": [
+        "8+6",
+        "9+5",
+        "7+9",
+        "6+8"
+      ],
+      "answer": "7+9",
+      "explanation": "$8+6=14, 9+5=14, 7+9=16, 6+8=14$。$16 > 15$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "凑十法的算法与应用",
+      "question": "有两行树，第一行有 9 棵，第二行和第一行同样多，共有多少棵？",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "answer": "18",
+      "explanation": "$9 + 9 = 18$。拆分：$9+(1+8)=10+8=18$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "算式 $7 + \text{___} > 14$，横线上最小填多少？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "8",
+      "explanation": "当加数为 $8$ 时，$7+8=15, 15>14$。若填 $7$，$7+7=14$，不符合。故最小填 $8$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "比 5 多 7 的数是：",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "$5 + 7 = 12$。利用大数加小数：$7 + 5 = 12$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "凑十法的算法与应用",
+      "question": "乐乐做了 8 朵红花，兰兰做的和他同样多。他俩一共做了多少朵？",
+      "options": [
+        "10",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": "16",
+      "explanation": "两人数字一样都是 $8$。$8 + 8 = 16$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "小华有 9 张邮票，他送给弟弟 3 张，妈妈又给了他 8 张，现他有多少张？",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "14",
+      "explanation": "$9 - 3 + 8$。第一步 $9 - 3 = 6$，第二步 $6 + 8 = 14$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "小丽前面有 7 个人，后面有 6 个人，这一排一共有 ___ 个人。",
+      "options": [],
+      "answer": "14",
+      "explanation": "$7 + 1$（小丽）$+ 6 = 14$。分步：$7+1=8, 8+6=14$。验算：$14-6-1=7$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "凑十法的算法与应用",
+      "question": "第一组有 5 个球，第二组有 9 个球，两组合起来一共有 ___ 个球。",
+      "options": [],
+      "answer": "14",
+      "explanation": "$5 + 9 = 14$。利用凑十法将 $5$ 拆成 $4$ 和 $1$，$1+9=10, 10+4=14$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$7 + 9 = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$7 + 9 = 16$。凑十法：$7 + 3 = 10$，$9$ 拆出 $3$ 还剩 $6$，$10 + 6 = 16$。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u4-kp5",
+  "title": "标点符号选择",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 4,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号选择",
+      "question": "‘不，没有什么！我挺好，等死神来唤我罢了’。句中感叹号的作用是：",
+      "options": [
+        "感情强烈且略显急促",
+        "表示疑问语气",
+        "表示停顿较长",
+        "表示声音延长"
+      ],
+      "answer": "感情强烈且略显急促",
+      "explanation": "此处感叹号表现了西蒙在临终前虚弱而又强撑的状态。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u7-kp9",
+  "title": "标点符号选择",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 8,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号选择",
+      "question": "“多好的地方呀（ ）”括号里应填什么标点？",
+      "options": [
+        "？",
+        "。",
+        "！",
+        "；"
+      ],
+      "answer": "！",
+      "explanation": "表示感叹语气用感叹号。"
+    }
+  ],
+  "knowledge": null
+}

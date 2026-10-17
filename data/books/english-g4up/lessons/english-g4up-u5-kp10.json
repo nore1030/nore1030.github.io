@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp10",
+  "title": "名词复数",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 6,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词复数",
+      "question": "I'd like some ___.",
+      "options": [
+        "vegetable",
+        "vegetables",
+        "vegetabls",
+        "vagetables"
+      ],
+      "answer": "vegetables",
+      "explanation": "表示蔬菜时通常用复数形式vegetables。"
+    }
+  ],
+  "knowledge": null
+}

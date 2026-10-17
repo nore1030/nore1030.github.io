@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 9,
+  "unitTitle": "Module 3 Places and activities — In my room 在我的房间",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "房间物品 bed / table / lamp / toy",
+      "question": "「玩具」的英文是（　）",
+      "options": [
+        "toy",
+        "boy",
+        "toyy",
+        "joy"
+      ],
+      "answer": "toy",
+      "explanation": "toy = 玩具。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问位置 Where's my…?",
+      "question": "— Where's my cap? — ___",
+      "options": [
+        "It's on the bed.",
+        "It's on the beds.",
+        "Yes, it is.",
+        "I'm fine."
+      ],
+      "answer": "It's on the bed.",
+      "explanation": "回答位置用 It's…"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问位置 Where's my…?",
+      "question": "询问多个物品的位置要用 Where are…?",
+      "options": [],
+      "answer": "对",
+      "explanation": "复数配 are。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问位置 Where's my…?",
+      "question": "想知道玩具在哪里，应问（　）",
+      "options": [
+        "Where's my toy?",
+        "What's my toy?",
+        "Who's my toy?",
+        "How's my toy?"
+      ],
+      "answer": "Where's my toy?",
+      "explanation": "where 问地点。"
+    }
+  ],
+  "knowledge": null
+}

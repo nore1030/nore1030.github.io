@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp15",
+  "title": "o-e结构词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "o-e结构词汇",
+      "question": "Please write a ______ on the paper.",
+      "options": [
+        "nose",
+        "note",
+        "hot",
+        "box"
+      ],
+      "answer": "note",
+      "explanation": "write a note意为写便条，且note符合o-e发音规律。"
+    }
+  ],
+  "knowledge": null
+}

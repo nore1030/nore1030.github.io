@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2down-u5-kp24",
+  "title": "词语分类",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语分类",
+      "question": "请将近义词进行配对。",
+      "options": [
+        "焦急",
+        "立刻",
+        "审视",
+        "教诲",
+        "打量",
+        "急切",
+        "马上",
+        "教导"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "考察本课核心词语的近义词。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp21",
+  "title": "植物细胞结构",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物细胞结构",
+      "question": "洋葱表皮细胞与红细胞相比，特有的结构是（）。",
+      "options": [
+        "细胞核",
+        "细胞膜",
+        "细胞壁",
+        "细胞质"
+      ],
+      "answer": "细胞壁",
+      "explanation": "植物细胞具有细胞壁，而动物细胞（如红细胞）没有。"
+    }
+  ],
+  "knowledge": null
+}

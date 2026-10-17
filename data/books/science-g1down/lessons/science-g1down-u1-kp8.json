@@ -1,0 +1,82 @@
+{
+  "id": "science-g1down-u1-kp8",
+  "title": "观察物体的特征",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察物体的特征",
+      "question": "我们可以用眼睛观察物体的颜色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "眼是视觉器官，主要功能就是观察颜色、形状等。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察物体的特征",
+      "question": "下列属于物体形状特征的是（）。",
+      "options": [
+        "红色",
+        "球形",
+        "粗糙",
+        "很重"
+      ],
+      "answer": "球形",
+      "explanation": "球形描述的是几何形状，红色是颜色，粗糙是表面纹理，重是质量。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察物体的特征",
+      "question": "我们要观察物体的气味，应该使用感官（）。",
+      "options": [
+        "眼",
+        "耳",
+        "舌",
+        "鼻"
+      ],
+      "answer": "鼻",
+      "explanation": "鼻子是嗅觉器官，专门用来感知气味。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察物体的特征",
+      "question": "用手摸一摸丝绸和地毯，这是在观察物体的（）。",
+      "options": [
+        "粗糙度",
+        "颜色",
+        "气味",
+        "形状"
+      ],
+      "answer": "粗糙度",
+      "explanation": "触觉可以感知物体表面的光滑或粗糙程度。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察物体的特征",
+      "question": "我们每个人都有（）只眼睛用来观察彩色世界。",
+      "options": [],
+      "answer": "2",
+      "explanation": "常识题，人类拥有2只眼睛作为主要观测器官。"
+    }
+  ],
+  "knowledge": null
+}

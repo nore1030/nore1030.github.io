@@ -1,0 +1,66 @@
+{
+  "id": "geography-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "geography-g10up",
+  "unitNumber": 1,
+  "unitTitle": "宇宙中的地球",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球的历史与圈层结构",
+      "question": "地质年代中，恐龙繁盛的时代是（　）",
+      "options": [
+        "古生代",
+        "中生代",
+        "新生代",
+        "元古代"
+      ],
+      "answer": "中生代",
+      "explanation": "中生代是恐龙时代。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "地球的历史与圈层结构",
+      "question": "地震波中横波不能通过液体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "横波不能在液体中传播。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "地球的宇宙环境与太阳活动",
+      "question": "太阳活动会使地球上出现“磁暴”现象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "干扰磁场。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球的宇宙环境与太阳活动",
+      "question": "地球上存在生命的条件不包括（　）",
+      "options": [
+        "适宜的温度",
+        "液态水",
+        "适合呼吸的大气",
+        "强烈的太阳活动"
+      ],
+      "answer": "强烈的太阳活动",
+      "explanation": "强太阳活动不利。"
+    }
+  ],
+  "knowledge": null
+}

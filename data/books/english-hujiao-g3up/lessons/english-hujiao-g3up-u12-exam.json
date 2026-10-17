@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u12-exam",
+  "title": "第 12 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 12,
+  "unitTitle": "Module 4 The world around us — The four seasons 四季",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "「秋天」的英文是（　）",
+      "options": [
+        "autumn",
+        "spring",
+        "summer",
+        "winter"
+      ],
+      "answer": "autumn",
+      "explanation": "autumn = 秋天。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "一年有（　）个季节",
+      "options": [
+        "四",
+        "三",
+        "五",
+        "六"
+      ],
+      "answer": "四",
+      "explanation": "春夏秋冬共四季。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "夏天通常很热。",
+      "options": [],
+      "answer": "对",
+      "explanation": "夏季高温。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达最喜欢 I like… best",
+      "question": "— Which season do you like best? — ___",
+      "options": [
+        "I like summer best.",
+        "I like summer good.",
+        "I'm summer.",
+        "Yes, I do."
+      ],
+      "answer": "I like summer best.",
+      "explanation": "问最喜欢，答 like… best。"
+    }
+  ],
+  "knowledge": null
+}

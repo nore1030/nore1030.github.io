@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g1down-u4-kp3",
+  "title": "端午民俗与背景认知",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 2,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "端午民俗与背景认知",
+      "question": "端午节人们吃粽子，据说是为了纪念伟大的诗人屈原。",
+      "options": [],
+      "answer": "对",
+      "explanation": "端午节吃粽子、赛龙舟等习俗都是为了纪念爱国诗人屈原。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "端午民俗与背景认知",
+      "question": "下列哪一项不是端午节的传统习俗？",
+      "options": [
+        "吃粽子",
+        "赛龙舟",
+        "挂艾草",
+        "吃月饼"
+      ],
+      "answer": "吃月饼",
+      "explanation": "吃月饼是中秋节的习俗，不是端午节的。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "端午民俗与背景认知",
+      "question": "将词语排成一句话，介绍端午：",
+      "options": [
+        "端午节",
+        "都要",
+        "外婆",
+        "粽子",
+        "包",
+        "每年"
+      ],
+      "answer": "每年,端午节,外婆,都要,包,粽子",
+      "explanation": "考查时间状语在句首的表达方式。"
+    }
+  ],
+  "knowledge": {
+    "point": "端午民俗与背景认知",
+    "core_concept": "端午节是每年的农历五月初五，是中华民族重要的传统节日。它的主要习俗包括吃粽子、赛龙舟、挂艾草。核心文化含义是纪念战国时期楚国的爱国诗人屈原。了解这些内容能增强对家乡和民族文化的感情。",
+    "key_formula": "五月初五端午节，粽子咸甜寄屈原。",
+    "common_mistakes": [
+      "混淆端午节和中秋节（吃月饼）的习俗",
+      "分不清农历（阴历）和阳历（公历）的日期"
+    ],
+    "tips": "通过节气歌或节日歌谣来记忆，联想家里的生活习惯更容易记住。"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u1-kp1",
+  "title": "be 动词 am / is / are",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 My classmates 我的同学",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词 am / is / are",
+      "question": "I ___ Wang Lingling.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "am",
+      "explanation": "I 配 am。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词 am / is / are",
+      "question": "He ___ thirteen.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "三单用 is。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be 动词 am / is / are",
+      "question": "be 动词的人称形式会变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "am/is/are。"
+    }
+  ],
+  "knowledge": {
+    "point": "be 动词 am / is / are",
+    "core_concept": "I 用 am，he/she/it 用 is，you/we/they 用 are。缩写 I'm / he's / they're。",
+    "key_formula": "I am… / He is… / They are…",
+    "common_mistakes": [
+      "I 搭配 is/are。"
+    ],
+    "tips": "I 配 am 永远不变。"
+  }
+}

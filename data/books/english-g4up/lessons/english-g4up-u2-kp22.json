@@ -1,0 +1,29 @@
+{
+  "id": "english-g4up-u2-kp22",
+  "title": "陈述句语序",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句语序",
+      "question": "连词成句：have, I, new, a, schoolbag",
+      "options": [
+        "have",
+        "I",
+        "new",
+        "a",
+        "schoolbag"
+      ],
+      "answer": "I,have,a,new,schoolbag",
+      "explanation": "主+谓+宾结构：我有(I have)一个新书包(a new schoolbag)。"
+    }
+  ],
+  "knowledge": null
+}

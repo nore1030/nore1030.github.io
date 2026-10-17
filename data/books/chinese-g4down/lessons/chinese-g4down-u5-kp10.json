@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp10",
+  "title": "标点符号",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“这里的石钟乳真多啊（）有的像老人，有的像卧龙。”括号里最合适的标点是？",
+      "options": [
+        "。",
+        "！",
+        "？",
+        "——"
+      ],
+      "answer": "！",
+      "explanation": "“真多啊”表达了强烈的感叹语气，应使用感叹号。"
+    }
+  ],
+  "knowledge": null
+}

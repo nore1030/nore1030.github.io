@@ -1,0 +1,47 @@
+{
+  "id": "history-g8down-u1-kp2",
+  "title": "五四运动与中国共产党成立",
+  "bookId": "history-g8down",
+  "unitNumber": 1,
+  "unitTitle": "近代化探索与民族复兴",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "五四运动与中国共产党成立",
+      "question": "五四运动爆发于（　）",
+      "options": [
+        "1919 年",
+        "1915 年",
+        "1921 年",
+        "1911 年"
+      ],
+      "answer": "1919 年",
+      "explanation": "1919 年五四运动。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "五四运动与中国共产党成立",
+      "question": "中国共产党成立于 1921 年。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1921 年建党。"
+    }
+  ],
+  "knowledge": {
+    "point": "五四运动与中国共产党成立",
+    "core_concept": "1919 年五四运动是中国近代史上一次彻底的反帝反封建的爱国运动，工人阶级开始登上政治舞台。1921 年中国共产党成立，中国革命面貌焕然一新。",
+    "key_formula": "1919 五四 → 1921 建党",
+    "common_mistakes": [
+      "认为五四运动是资产阶级革命。"
+    ],
+    "tips": "无产阶级领导的开端。"
+  }
+}

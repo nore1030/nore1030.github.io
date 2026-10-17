@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g2up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g2up",
+  "unitNumber": 2,
+  "unitTitle": "识字",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "不同树木与动物的特征认知",
+      "question": "锦鸡的羽毛非常漂亮，由于受到惊吓会开屏。",
+      "options": [],
+      "answer": "错",
+      "explanation": "开屏的是孔雀，不是锦鸡。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "“深”字按照部首查字法，先查三点水，再查7画。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“深”字除去部首“氵”，右边部分“罙”是8画。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "四季农事规律识记",
+      "question": "“冬季里，雪飘飞，新制棉衣暖又轻。”写的是农民冬天的生活。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《田家四季歌》描写了冬季农民的情况。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "“一丛大山”这个词语用法正确。",
+      "options": [],
+      "answer": "错",
+      "explanation": "大山应用“座”，灌木、翠竹才用“丛”。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "量词的正确使用",
+      "question": "下列量词中，哪一个不适合用来形容“人”？",
+      "options": [
+        "位",
+        "个",
+        "层",
+        "群"
+      ],
+      "answer": "层",
+      "explanation": "“层”用于楼层或层级，不用于人。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不同树木与动物的特征认知",
+      "question": "“树木”被称为地球的什么？",
+      "options": [
+        "血液",
+        "肺",
+        "眼睛",
+        "心脏"
+      ],
+      "answer": "肺",
+      "explanation": "森林可以净化空气，常被称为“地球之肺”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "量词的正确使用",
+      "question": "选出量词使用错误的一项：",
+      "options": [
+        "一方鱼塘",
+        "一块稻田",
+        "一座花园",
+        "一把红旗"
+      ],
+      "answer": "一把红旗",
+      "explanation": "红旗通常说“一面红旗”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "不同树木与动物的特征认知",
+      "question": "儿歌阅读：公鸡公鸡真美丽，大红冠子花外衣。油亮脖子金黄脚，要比漂亮我第一。这首儿歌主要描写公鸡的哪方面？",
+      "options": [
+        "勤劳性格",
+        "捕食动作",
+        "色彩丰富的外形",
+        "生活环境"
+      ],
+      "answer": "色彩丰富的外形",
+      "explanation": "红冠、花外衣、金黄脚都体现了色彩的美丽。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "部首查字法操作流程",
+      "question": "确定一个字的部首后，接下来应该在字典的哪个部分查找？",
+      "options": [
+        "拼音索引",
+        "检字表",
+        "正文最后页",
+        "封面"
+      ],
+      "answer": "检字表",
+      "explanation": "查字典顺序：部首目录 -> 检字表 -> 正文。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季农事规律识记",
+      "question": "秋天到了，田野里到处是收获的景象，我们可以用哪个词形容？",
+      "options": [
+        "春暖花开",
+        "五谷丰登",
+        "冰天雪地",
+        "生机勃勃"
+      ],
+      "answer": "五谷丰登",
+      "explanation": "五谷丰登专门形容粮食丰收。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "量词的正确使用",
+      "question": "写出合适的量词：一（  ）石桥。",
+      "options": [],
+      "answer": "座",
+      "explanation": "建筑、大山常用“座”。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不同树木与动物的特征认知",
+      "question": "什么树叶像手掌？",
+      "options": [],
+      "answer": "梧桐",
+      "explanation": "梧桐树叶形状似掌。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季农事规律识记",
+      "question": "将季节与对应农事活动连起来：",
+      "options": [
+        "春",
+        "夏",
+        "秋",
+        "冬",
+        "采桑",
+        "播种",
+        "储藏",
+        "打场"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "春种，夏忙，秋收，冬藏。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "将物品与常用量词连起来：",
+      "options": [
+        "小溪",
+        "圆月",
+        "翠竹",
+        "鲜花",
+        "束",
+        "条",
+        "竿",
+        "轮"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "搭配关系：溪-条，月-轮，竹-竿，花-束。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不同树木与动物的特征认知",
+      "question": "将词语排成描写秋游的句子：",
+      "options": [
+        "红红的",
+        "枫叶",
+        "真像",
+        "手掌",
+        "红红的"
+      ],
+      "answer": "红红的,枫叶,真像,红红的,手掌",
+      "explanation": "描述秋天景物的特征。"
+    }
+  ],
+  "knowledge": null
+}

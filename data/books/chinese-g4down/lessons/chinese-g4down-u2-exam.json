@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g4down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 15,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“乒乓”的“乓”字读音是 pāng。",
+      "options": [],
+      "answer": "对",
+      "explanation": "字音正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "纳米技术的概念与应用",
+      "question": "纳米侦察机通过纳米技术，可以实现完全“隐形”，雷达无法探测。",
+      "options": [],
+      "answer": "对",
+      "explanation": "纳米缓释技术可以吸收雷达波，从而达到探测隐形的目的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "“毫不相干”的意思是两个事物之间一点联系都没有。",
+      "options": [],
+      "answer": "对",
+      "explanation": "词义符合字面意思。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "推测就是猜测，不需要根据任何已知的事实。",
+      "options": [],
+      "answer": "错",
+      "explanation": "推测是根据已知事实进行的合乎逻辑的推断。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词辨析",
+      "question": "“辽阔”的江面上，远处的灯塔若隐若现。以下哪个词语不适合替换“辽阔”？",
+      "options": [
+        "开阔",
+        "宽广",
+        "狭小",
+        "广阔"
+      ],
+      "answer": "狭小",
+      "explanation": "狭小与辽阔是反义词。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "在《飞向蓝天的恐龙》中，作者提到的恐龙演化的最后阶段是：",
+      "options": [
+        "骨骼中空",
+        "脑颅膨大",
+        "飞向蓝天",
+        "在地面奔跑"
+      ],
+      "answer": "飞向蓝天",
+      "explanation": "最终阶段是具备飞行能力，成为鸟类。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读策略：提问并解决问题",
+      "question": "如果我们通过查阅词典解决了字词问题，这种阅读策略属于：",
+      "options": [
+        "联系上下文",
+        "查阅资料",
+        "请教别人",
+        "凭空想象"
+      ],
+      "answer": "查阅资料",
+      "explanation": "词典属于工具书资料。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关联词使用",
+      "question": "（___）纳米技术就在我们身边，（___）它可以改善我们的生活。",
+      "options": [
+        "因为……所以……",
+        "不仅……而且……",
+        "虽然……但是……",
+        "如果……就……"
+      ],
+      "answer": "不仅……而且……",
+      "explanation": "这两句构成递进关系。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "下列句子中双引号表示“特定称谓”的一项是：",
+      "options": [
+        "现代科学技术正把这些“奇观”变成现实。",
+        "人们管这种技术叫作“纳米技术”。",
+        "她说：“我要去公园玩。”",
+        "这种“软实力”非常关键。"
+      ],
+      "answer": "人们管这种技术叫作“纳米技术”。",
+      "explanation": "此处引号标记专门的科学名称。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "“两亿四千万年前”如果缩短成“两亿年前”，会影响句子的：",
+      "options": [
+        "字数",
+        "准确度",
+        "读音",
+        "韵律"
+      ],
+      "answer": "准确度",
+      "explanation": "科学说明要求数据极其精准。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "“埋在沙里”的“埋”字读作（___）。",
+      "options": [],
+      "answer": "mái",
+      "explanation": "埋没、掩埋均读此音。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科普知识",
+      "question": "纳米技术可以让人们更加（___）。",
+      "options": [],
+      "answer": "健康",
+      "explanation": "课文结尾总结纳米技术可造福人类生活。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词配对",
+      "question": "请将下列词语与它的反义词连接起来。",
+      "options": [
+        "灵敏",
+        "庞大",
+        "先进",
+        "清晰",
+        "落后",
+        "迟钝",
+        "模糊",
+        "微小"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "灵敏对迟钝，庞大对微小，先进对落后，清晰对模糊。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四字词语",
+      "question": "请将词语的前两个字与后两个字连接起来。",
+      "options": [
+        "翻腾",
+        "前仰",
+        "形形",
+        "欣喜",
+        "色色",
+        "若狂",
+        "澎湃",
+        "后合"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "形成成语：翻腾澎湃、前仰后合、形形色色、欣喜若狂。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞句式",
+      "question": "将下列词语排列成一个生动的拟人句。",
+      "options": [
+        "太阳",
+        "暖暖地",
+        "照着",
+        "整座",
+        "大森林"
+      ],
+      "answer": "太阳,暖暖地,照着,整座,大森林",
+      "explanation": "顺序描述背景环境。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "physics-g11up-u2-kp2",
+  "title": "机械波与波的描述",
+  "bookId": "physics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "机械振动与机械波",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "波速 20 m/s、频率 5 Hz 的波，波长是多少 m？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$\\lambda=\\frac vf=\\frac{20}{5}=4$ m。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "机械波传播的是振动形式和能量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "波传播能量。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "波长 2 m、频率 10 Hz，波速是多少 m/s？",
+      "options": [],
+      "answer": "20",
+      "explanation": "$v=\\lambda f=20$ m/s。"
+    }
+  ],
+  "knowledge": {
+    "point": "机械波与波的描述",
+    "core_concept": "$v=\\lambda f$，波传播的是振动形式和能量，质点不随波迁移。横波中质点振动方向与传播方向垂直。",
+    "key_formula": "$v=\\lambda f$",
+    "common_mistakes": [
+      "认为质点随波移动。"
+    ],
+    "tips": "波传能量不传物质。"
+  }
+}

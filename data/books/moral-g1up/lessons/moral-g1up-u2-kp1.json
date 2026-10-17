@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1up-u2-kp1",
+  "title": "校园里的安全",
+  "bookId": "moral-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园与家庭生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园里的安全",
+      "question": "上下楼梯时应该（　）",
+      "options": [
+        "靠右行",
+        "靠左行",
+        "从扶手上滑下",
+        "蹦跳着走"
+      ],
+      "answer": "靠右行",
+      "explanation": "上下楼梯靠右行。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "校园里的安全",
+      "question": "不能把危险物品带到学校。",
+      "options": [],
+      "answer": "对",
+      "explanation": "危险物品不能带。"
+    }
+  ],
+  "knowledge": {
+    "point": "校园里的安全",
+    "core_concept": "上下楼梯靠右行，不带危险物品到学校，遇到困难找老师。安全是快乐学习的前提。",
+    "key_formula": "安全第一",
+    "common_mistakes": [
+      "携带小刀等尖锐物品到校。"
+    ],
+    "tips": "遇到危险找老师帮忙。"
+  }
+}

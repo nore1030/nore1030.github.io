@@ -1,0 +1,55 @@
+{
+  "id": "science-g6down-u3-kp5",
+  "title": "银河系及浩瀚的宇宙",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 3,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "从俯视的角度看，银河系的形状像什么？",
+      "options": [
+        "球形",
+        "巨大的圆盘",
+        "旋转的旋涡",
+        "不规则云雾"
+      ],
+      "answer": "旋转的旋涡",
+      "explanation": "银河系是一个旋涡星系，从上方看像一个巨大的旋涡。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "光年是用来衡量什么的单位？",
+      "options": [
+        "时间",
+        "光速",
+        "天体亮度",
+        "距离"
+      ],
+      "answer": "距离",
+      "explanation": "光年是光在真空中一年所走的距离，是长度单位。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "银河系及浩瀚的宇宙",
+      "question": "像银河系一样由千亿计恒星组成的星系，统称为（___）。",
+      "options": [],
+      "answer": "河外星系",
+      "explanation": "银河系之外的星系被称为河外星系。"
+    }
+  ],
+  "knowledge": null
+}

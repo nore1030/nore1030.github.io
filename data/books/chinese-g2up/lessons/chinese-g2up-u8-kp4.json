@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp4",
+  "title": "动物归类",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物归类",
+      "question": "“狗、狐狸、猫”这三个词语的部首都是“犭”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这三个表示陆地动物的词语都含有反犬旁。"
+    }
+  ],
+  "knowledge": null
+}

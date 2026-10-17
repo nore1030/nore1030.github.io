@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp13",
+  "title": "固定搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "固定搭配",
+      "question": "We are going to ______ a film tonight.",
+      "options": [
+        "look",
+        "see",
+        "read",
+        "listen"
+      ],
+      "answer": "see",
+      "explanation": "see a film 是固定搭配，表示看电影。"
+    }
+  ],
+  "knowledge": null
+}

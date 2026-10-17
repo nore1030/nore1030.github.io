@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+3:I[6811,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ThemeProvider"]
+4:I[1312,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ToastProvider"]
+5:I[5881,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"DailyRewardWatcher"]
+6:I[2812,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"AchievementWatcher"]
+7:I[9392,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"LeagueWatcher"]
+8:I[5341,[],""]
+9:I[25,[],""]
+a:I[7273,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"BottomNav"]
+c:I[5104,[],"OutletBoundary"]
+e:I[7158,[],"AsyncMetadataOutlet"]
+10:I[5104,[],"ViewportBoundary"]
+12:I[5104,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[4431,[],""]
+:HL["/_next/static/media/ee40bb094c99a29a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/b3b5a181ba22c606.css","style"]
+:HL["/_next/static/css/dc83f55f905644ae.css","style"]
+2:T408,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
+})();
+0:{"P":null,"b":"iRd6etU9gyYI8-hGFBUQJ","p":"","c":["","guide","g3up__5",""],"i":false,"f":[[["",{"children":["guide",{"children":[["bookUnit","g3up__5","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b5a181ba22c606.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/dc83f55f905644ae.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]}]]}]]}],{"children":["guide",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["bookUnit","g3up__5","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+d:null
+16:I[6505,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","8",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
+17:I[1172,["7401","static/chunks/7401-b29993f5ba38fed5.js","9289","static/chunks/9289-bc633f2e2adfab38.js","5588","static/chunks/5588-91a139c9be492075.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8695","static/chunks/app/guide/%5BbookUnit%5D/page-553c7795a0e1b133.js"],"GuideClient"]
+b:["$","$L17",null,{"book":{"id":"g3up","grade":3,"semester":"up","subject":"math","gradeName":"三年级","semesterName":"上册","subjectName":"数学","textbookName":"三年级上册","fullName":"人教版小学数学三年级上册","publisher":"renjiao","publisherName":"人教版","unitsCount":10,"lessonsCount":32,"stage":"primary"},"unit":{"unit_number":5,"title":"倍的认识","knowledge_points":[{"name":"倍的含义与直观感知","description":"理解倍是两个数量间的份数关系，通过圈画建立直观母型。","difficulty":2,"question_types":["画图","填空"]},{"name":"求一个数是另一个数的几倍","description":"理解“求倍数”使用除法计算（较大数 ÷ 较小数）。","difficulty":3,"question_types":["填空","应用题"]},{"name":"求一个数的几倍是多少","description":"理解“求几倍数”使用乘法计算（较小数 × 倍数）。","difficulty":3,"question_types":["应用题","画图"]}],"examLessonId":"g3up-u5-exam","examQuestionCount":15},"summaries":[{"point":"倍的含义与直观感知","core_concept":"“倍”是建立在“份”的概念之上的。如果把一个量看作 1 份，另一个量里包含几个这样的一份，我们就说这个量是前者的几倍。它不是具体的单位（如个、只、米），而是两个数之间的一种关系。","key_formula":"较大的数内含有几份较小的数，就是几倍。","common_mistakes":["写结果时习惯性加上“倍”字作为单位，如“答：是 3 倍”写成“3 倍个”","图中没有对齐就数个数，没有看清哪一个是标准的一份"],"tips":"学习时多动手圈一圈。比如 6 里面有几个 2？每 2 个圈一个圈，圈了 3 次，就是 3 倍。"},{"point":"求一个数是另一个数的几倍","core_concept":"这是比较两个数量的一种方式。求一个数是另一个数的几倍，本质上是看较大数里面包含多少个较小数，所以使用除法计算。","key_formula":"$$一个数 \\div 另一个数 = 倍数$","common_mistakes":["计算出来的倍数写了单位（如：4个）","分不清谁除以谁，错用较小数除以较大数"],"tips":"一定要用“大数除以小数”，且结果不写任何单位。"},{"point":"求一个数的几倍是多少","core_concept":"已知标准量（一倍数）和倍数，求标准量的几倍有多少，实际上就是求几个相同加数的和，转化为乘法逻辑：求一个数的几倍，就是求几个几是多少。","key_formula":"$$一倍数 \\times 倍数 = 几倍数$","common_mistakes":["审题不清，看到“倍”字就条件反射用除法","乘法口诀不熟练导致计算错误"],"tips":"可以先画线段图辅助理解：标准量是一段，3 倍就是三段，求总共长多少。"}]}]

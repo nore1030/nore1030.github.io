@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp15",
+  "title": "综合情境",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合情境",
+      "question": "Your friend is going to have a big match. He is nervous. You can say: ______",
+      "options": [
+        "Don't worry.",
+        "You are right.",
+        "I am sorry.",
+        "Good idea."
+      ],
+      "answer": "Don't worry.",
+      "explanation": "安慰紧张的人可以使用'Don't worry'（不要担心）。"
+    }
+  ],
+  "knowledge": null
+}

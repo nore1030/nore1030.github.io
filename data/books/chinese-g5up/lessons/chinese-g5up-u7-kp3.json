@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g5up-u7-kp3",
+  "title": "古典诗词的哲理性意象",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 2,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古典诗词的哲理性意象",
+      "question": "《观书有感》中的“半亩方塘”仅仅是指大自然里的鱼塘。",
+      "options": [],
+      "answer": "错",
+      "explanation": "方塘在这里比喻书本和知识的海洋。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古典诗词的哲理性意象",
+      "question": "“问渠那得清如许”中的“渠”字在这里是指“它”，指代方塘。",
+      "options": [],
+      "answer": "对",
+      "explanation": "渠，代词，指方塘。这是古代汉语的常见用法。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典诗词的哲理性意象",
+      "question": "《观书有感》告诉我们什么道理？",
+      "options": [
+        "读书要选择美丽的环境",
+        "池塘的水需要经常更换",
+        "不断学习新知识，思想才能活跃",
+        "划船需要顺流而下"
+      ],
+      "answer": "不断学习新知识，思想才能活跃",
+      "explanation": "源头活水象征新知识，方塘清澈象征思想活跃。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古典诗词的哲理性意象",
+      "question": "“为有源头活水来”中的“源头活水”比喻什么？",
+      "options": [
+        "清澈的泉水",
+        "新颖的读书心得",
+        "丰富的生活实践和新知识",
+        "高尚的人格品质"
+      ],
+      "answer": "丰富的生活实践和新知识",
+      "explanation": "活水指不断注入的新事物，喻指不断吸收新知识。"
+    }
+  ],
+  "knowledge": {
+    "point": "古典诗词的哲理性意象",
+    "core_concept": "五年级上册涉及的古诗不仅是写景，常蕴含深刻寓意。如《观书有感》中的‘方塘’比喻人心，‘活水’比喻不断获取的新知识。通过描写自然的‘水’与‘船’，反映出学习需要日积月累、思想需要不断更新的哲学道理。",
+    "key_formula": "哲理诗 = 眼前实景（比喻） + 内在道理（象征）",
+    "common_mistakes": [
+      "死记硬背诗意，不理解‘渠’、‘歇’等关键字在语义中的桥梁作用",
+      "无法将诗中景物与现实生活中的学习行为挂钩"
+    ],
+    "tips": "尝试把古诗里的词代换成现代词汇，比如把‘活水’直接读成‘新书/新知识’来理解全诗。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u2-kp8",
+  "title": "阅读理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读理解",
+      "question": "“地球上的第一种恐龙大约出现在两亿四千万年前。”这句话中“大约”不能删去的原因是：",
+      "options": [
+        "删去后句子就不通顺了",
+        "删去后显得文字太简短",
+        "“大约”体现了科学说明文的准确性",
+        "作者不知道确切的时间"
+      ],
+      "answer": "“大约”体现了科学说明文的准确性",
+      "explanation": "说明文语言要求准确，时间是根据考古推算的，不能完全肯定。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g6up-u2-kp4",
+  "title": "字音字形辨析",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音字形辨析",
+      "question": "《狼山五壮士》中，“屹立”的“屹”读音是 yì。",
+      "options": [],
+      "answer": "对",
+      "explanation": "屹立的屹字，读音为yì，指像山峰一样高耸挺立。"
+    }
+  ],
+  "knowledge": null
+}

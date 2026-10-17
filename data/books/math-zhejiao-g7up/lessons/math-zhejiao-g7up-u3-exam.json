@@ -1,0 +1,66 @@
+{
+  "id": "math-zhejiao-g7up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "第3章 实数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "立方根与实数的运算",
+      "question": "$\\sqrt9+\\sqrt{16}=$ ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$3+4=7$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "9 的平方根是（　）",
+      "options": [
+        "±3",
+        "3",
+        "-3",
+        "9"
+      ],
+      "answer": "±3",
+      "explanation": "正数有两个互为相反数的平方根。"
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "立方根与实数的运算",
+      "question": "负数没有平方根，但有立方根。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$\\sqrt[3]{-8}=-2$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "实数与数轴",
+      "question": "下列数中是无理数的是（　）",
+      "options": [
+        "$\\pi$",
+        "$\\frac12$",
+        "0.333…（循环）",
+        "-5"
+      ],
+      "answer": "$\\pi$",
+      "explanation": "$\\pi$ 无限不循环。"
+    }
+  ],
+  "knowledge": null
+}

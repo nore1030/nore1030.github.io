@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g4down-u2-kp2",
+  "title": "纳米技术的概念与应用",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "纳米技术的概念与应用",
+      "question": "纳米是一个长度单位，比毫米还要小得多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "纳米是非常小的长度单位，一纳米等于十亿分之一米。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "纳米技术的概念与应用",
+      "question": "下图中如果将地球比作一个乒乓球，那么乒乓球的大小大约是多少厘米？",
+      "options": [
+        "1厘米",
+        "4厘米",
+        "10厘米",
+        "100厘米"
+      ],
+      "answer": "4厘米",
+      "explanation": "课文中用“假如把直径为1纳米的小球放到乒乓球上，相当于把乒乓球放在地球上”作对比，乒乓球直径约4厘米。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "纳米技术的概念与应用",
+      "question": "关于纳米技术的应用，下列哪项在课文中没有提到？",
+      "options": [
+        "杀死癌细胞",
+        "预防疾病",
+        "制造隐形战机",
+        "制作美味的罐头"
+      ],
+      "answer": "制作美味的罐头",
+      "explanation": "课文介绍了医疗和材料应用，未提及罐头制作。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "纳米技术的概念与应用",
+      "question": "1纳米等于十亿分（___）米。",
+      "options": [],
+      "answer": "之一",
+      "explanation": "考察对纳米概念中数值比例的记忆。"
+    }
+  ],
+  "knowledge": {
+    "point": "纳米技术的概念与应用",
+    "core_concept": "学习说明文的常用方法，尤其是“作比较”和“列数字”。通过“长度单位”角度定义纳米（十亿分之一米），通过“隐形战机、癌症治疗”展示纳米技术的未来应用。重点在于体会纳米之“小”和纳米技术之“强”。",
+    "key_formula": "纳米 = 10^-9 米 (极微小尺度的操控技术)",
+    "common_mistakes": [
+      "误认为纳米是一门学科而不是长度单位",
+      "对纳米技术能让物体消失（隐形）产生魔幻化的误解"
+    ],
+    "tips": "可以用“头发丝、乒乓球、地球”的对比图示来帮助感性认知纳米的大小。"
+  }
+}

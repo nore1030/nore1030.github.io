@@ -1,0 +1,44 @@
+{
+  "id": "english-g4up-u6-kp13",
+  "title": "询问职业",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 9,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问职业",
+      "question": "What's ______ mother's job?",
+      "options": [
+        "you",
+        "your",
+        "he",
+        "she"
+      ],
+      "answer": "your",
+      "explanation": "这里需要形容词性物主代词修饰 mother，意为“你的妈妈”。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问职业",
+      "question": "What's your father? He's a ______.",
+      "options": [
+        "tall",
+        "strong",
+        "cook",
+        "man"
+      ],
+      "answer": "cook",
+      "explanation": "What's your father? 询问职业，cook 表示厨师。"
+    }
+  ],
+  "knowledge": null
+}

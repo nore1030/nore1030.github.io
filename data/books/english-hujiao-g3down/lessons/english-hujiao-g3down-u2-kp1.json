@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3down-u2-kp1",
+  "title": "家庭成员称呼",
+  "bookId": "english-hujiao-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 我的家人 / My family",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称呼",
+      "question": "“奶奶/外婆”的英语是（　）",
+      "options": [
+        "grandma",
+        "grandpa",
+        "aunt",
+        "uncle"
+      ],
+      "answer": "grandma",
+      "explanation": "grandma 外婆/奶奶。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称呼",
+      "question": "brother 指兄或弟，sister 指姐或妹。",
+      "options": [],
+      "answer": "对",
+      "explanation": "兄/弟，姐/妹。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭成员称呼",
+    "core_concept": "father/dad, mother/mum, brother, sister, grandpa, grandma。介绍家人常用 This is my…",
+    "key_formula": "This is my father.",
+    "common_mistakes": [
+      "把 sister 与 brother 混淆。"
+    ],
+    "tips": "注意男女对应。"
+  }
+}

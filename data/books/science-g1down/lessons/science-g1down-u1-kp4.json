@@ -1,0 +1,52 @@
+{
+  "id": "science-g1down-u1-kp4",
+  "title": "根据特征给物体分类",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据特征给物体分类",
+      "question": "我们可以根据（）将物体分为红色的、绿色的和黄色的。",
+      "options": [
+        "形状",
+        "大小",
+        "颜色",
+        "轻重"
+      ],
+      "answer": "颜色",
+      "explanation": "红、绿、黄描述的都是颜色分类标准。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根据特征给物体分类",
+      "question": "把圆圆的珠子、方方的红砖和尖尖的积木放一起，分类标准是（）。",
+      "options": [
+        "轻重",
+        "形状",
+        "颜色",
+        "厚薄"
+      ],
+      "answer": "形状",
+      "explanation": "描述中强调了圆、方、尖，属于形状特征。"
+    }
+  ],
+  "knowledge": {
+    "point": "根据特征给物体分类",
+    "core_concept": "分类是整理信息的科学方法。",
+    "key_formula": "同一分类过程只能使用一种标准。",
+    "common_mistakes": [
+      "标准不统一导致分类混乱"
+    ],
+    "tips": "先确定标准（如分类依据），再进行挑选。"
+  }
+}

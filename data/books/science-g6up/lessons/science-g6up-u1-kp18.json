@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp18",
+  "title": "细胞功能",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞功能",
+      "question": "生物体生长发育、繁殖、遗传等生命活动的基础是（）。",
+      "options": [
+        "神经系统",
+        "血液循环",
+        "细胞",
+        "器官"
+      ],
+      "answer": "细胞",
+      "explanation": "细胞是生物体基本的结构和功能单位。"
+    }
+  ],
+  "knowledge": null
+}

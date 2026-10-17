@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp10",
+  "title": "建议短语",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "建议短语",
+      "question": "Don't be angry. You should ______ and count to ten.",
+      "options": [
+        "take a deep breath",
+        "eat more fruit",
+        "play sports",
+        "go to sleep"
+      ],
+      "answer": "take a deep breath",
+      "explanation": "调整愤怒情绪的经典方法是深呼吸和数数十。"
+    }
+  ],
+  "knowledge": null
+}

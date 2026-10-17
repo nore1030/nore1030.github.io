@@ -1,0 +1,47 @@
+{
+  "id": "history-g9down-u2-kp1",
+  "title": "二战后世界格局的变化",
+  "bookId": "history-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与国际格局",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "二战后世界格局的变化",
+      "question": "美苏冷战开始的标志是（　）",
+      "options": [
+        "杜鲁门主义出台",
+        "马歇尔计划",
+        "北约成立",
+        "柏林危机"
+      ],
+      "answer": "杜鲁门主义出台",
+      "explanation": "杜鲁门主义是冷战标志。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "二战后世界格局的变化",
+      "question": "1991 年苏联解体标志两极格局结束。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两极格局结束。"
+    }
+  ],
+  "knowledge": {
+    "point": "二战后世界格局的变化",
+    "core_concept": "二战后美苏两极格局形成（杜鲁门主义、马歇尔计划、北约、华约）。20 世纪 90 年代苏联解体，两极格局结束，世界朝多极化方向发展。",
+    "key_formula": "杜鲁门主义 = 冷战标志",
+    "common_mistakes": [
+      "把马歇尔计划当作军事同盟。"
+    ],
+    "tips": "马歇尔计划是经济援助。"
+  }
+}

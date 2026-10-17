@@ -1,0 +1,66 @@
+{
+  "id": "moral-g5down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g5down",
+  "unitNumber": 1,
+  "unitTitle": "情感与交往",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情绪的管理",
+      "question": "考试没考好情绪低落，可以（　）",
+      "options": [
+        "分析原因订正错题",
+        "把书撕了",
+        "逃学",
+        "责骂同学"
+      ],
+      "answer": "分析原因订正错题",
+      "explanation": "化情绪为动力。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "友谊与矛盾处理",
+      "question": "换位思考能帮助我们理解他人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "换位思考促理解。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "友谊与矛盾处理",
+      "question": "朋友说“对不起”后，你应该（　）",
+      "options": [
+        "接受并和好",
+        "永远不理他",
+        "也骂他一顿",
+        "告诉他以后别找我了"
+      ],
+      "answer": "接受并和好",
+      "explanation": "宽容友善。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情绪的管理",
+      "question": "学会控制自己不恰当的冲动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "控制冲动。"
+    }
+  ],
+  "knowledge": null
+}

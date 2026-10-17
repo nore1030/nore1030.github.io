@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp10",
+  "title": "序数词辨析",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "序数词辨析",
+      "question": "Children's Day is on June ______.",
+      "options": [
+        "one",
+        "first",
+        "the one",
+        "1th"
+      ],
+      "answer": "first",
+      "explanation": "日期表达常用序数词，6月1日应为June 1st或June first。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "english-yilin-g7up-u8-kp1",
+  "title": "服装词汇 trainers / jeans / jacket / scarf",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Unit 8 Fashion 时尚",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "「牛仔裤」的英文是（　）",
+      "options": [
+        "jeans",
+        "jean",
+        "jeens",
+        "jeanes"
+      ],
+      "answer": "jeans",
+      "explanation": "常用复数。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "「夹克」的英文是（　）",
+      "options": [
+        "jacket",
+        "jackettt",
+        "jaket",
+        "jacke"
+      ],
+      "answer": "jacket",
+      "explanation": "jacket 夹克。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "「运动鞋」的英文是（　）",
+      "options": [
+        "trainers",
+        "trainer",
+        "trainners",
+        "trains"
+      ],
+      "answer": "trainers",
+      "explanation": "英式 trainers。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "fashion 的意思是「时尚」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fashion 时尚。"
+    }
+  ],
+  "knowledge": {
+    "point": "服装词汇 trainers / jeans / jacket / scarf",
+    "core_concept": "trainers 运动鞋、jeans 牛仔裤、jacket 夹克、scarf 围巾；comfortable 舒适的。",
+    "key_formula": "a pair of jeans 一条牛仔裤",
+    "common_mistakes": [
+      "jeans 当单数。"
+    ],
+    "tips": "jeans/trousers 常用复数。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "politics-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "politics-g10up",
+  "unitNumber": 2,
+  "unitTitle": "新时代与中国梦",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "实现中华民族伟大复兴的中国梦",
+      "question": "“两个一百年”奋斗目标中，到中华人民共和国成立一百年时建成（　）",
+      "options": [
+        "富强民主文明和谐美丽的社会主义现代化强国",
+        "小康社会",
+        "中等发达国家",
+        "工业强国"
+      ],
+      "answer": "富强民主文明和谐美丽的社会主义现代化强国",
+      "explanation": "第二个百年目标。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "中国特色社会主义新时代",
+      "question": "进入新时代，我国发展新的历史方位已经确立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "新的历史方位。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "实现中华民族伟大复兴的中国梦",
+      "question": "中国梦是国家的、民族的，也是每一个中国人的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "中国梦与个人梦相连。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中国特色社会主义新时代",
+      "question": "新时代坚持和发展中国特色社会主义的总任务是（　）",
+      "options": [
+        "实现社会主义现代化和中华民族伟大复兴",
+        "发展经济",
+        "扩大开放",
+        "保护环境"
+      ],
+      "answer": "实现社会主义现代化和中华民族伟大复兴",
+      "explanation": "总任务。"
+    }
+  ],
+  "knowledge": null
+}

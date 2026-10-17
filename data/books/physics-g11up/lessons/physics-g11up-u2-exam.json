@@ -1,0 +1,61 @@
+{
+  "id": "physics-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "机械振动与机械波",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "简谐运动与单摆",
+      "question": "摆长 1 m、$g$ 取 10 m/s²（$\\pi^2\\approx10$），单摆周期约为多少 s？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$T=2\\pi\\sqrt{\\frac{1}{10}}=2\\pi\\times\\frac{1}{\\pi}=2$ s。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "横波中质点的振动方向与波传播方向（　）",
+      "options": [
+        "垂直",
+        "平行",
+        "成 45°",
+        "无关"
+      ],
+      "answer": "垂直",
+      "explanation": "横波定义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "声波是纵波。",
+      "options": [],
+      "answer": "对",
+      "explanation": "声波为纵波。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "机械波与波的描述",
+      "question": "波速 340 m/s、波长 2 m，频率是多少 Hz？",
+      "options": [],
+      "answer": "170",
+      "explanation": "$f=\\frac v\\lambda=\\frac{340}{2}=170$ Hz。"
+    }
+  ],
+  "knowledge": null
+}

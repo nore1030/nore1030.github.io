@@ -1,0 +1,91 @@
+{
+  "id": "g1up-u1-kp2",
+  "title": "同样多、多、少的含义",
+  "bookId": "g1up",
+  "unitNumber": 1,
+  "unitTitle": "准备课",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "同样多、多、少的含义",
+      "question": "两个篮子里各装了5个苹果，说明这两个篮子里的苹果同样多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数量相等即为同样多。$5 = 5$，所以同样多。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "同样多、多、少的含义",
+      "question": "小明有3块糖，小红有5块糖，小明比小红多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$3 < 5$，所以小明比小红少，题干描述错误。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同样多、多、少的含义",
+      "question": "桌上有3个杯子和3个盖子，杯子和盖子的数量关系是？",
+      "options": [
+        "同样多",
+        "杯子多",
+        "盖子多",
+        "无法确定"
+      ],
+      "answer": "同样多",
+      "explanation": "数量都是3，所以同样多。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同样多、多、少的含义",
+      "question": "盘子里有8个红苹果，6个青苹果，哪种苹果少？",
+      "options": [
+        "红苹果少",
+        "青苹果少",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "青苹果少",
+      "explanation": "$6 < 8$，数量小的比数量大的少。验算：6在8的前面。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "同样多、多、少的含义",
+      "question": "第一排摆了4个圆，第二排也摆了4个圆，两排圆的关系是？",
+      "options": [
+        "第一排多",
+        "第二排多",
+        "同样多",
+        "不能比较"
+      ],
+      "answer": "同样多",
+      "explanation": "$4 = 4$，数量相等。"
+    }
+  ],
+  "knowledge": {
+    "point": "同样多、多、少的含义",
+    "core_concept": "这是比较事物数量的基础。判断方法是“一一对应”法：将两组物体一个对一个地连线或摆放。如果都没有剩余，就是“同样多”；如果有剩余，有剩余的那一组就“多”，对应的另一组就是“少”。",
+    "key_formula": "对应结论：没有剩余 = 同样多；有剩余 = 比较结果",
+    "common_mistakes": [
+      "视觉误导：认为占地面积大的物体就多，忽略了实际个数。",
+      "术语混淆：分不清“谁比谁多”和“谁比谁少”的逻辑关系。"
+    ],
+    "tips": "伸出左右手的手指一个对一个地比，这种身体语言能快速帮助理解“同样多”。"
+  }
+}

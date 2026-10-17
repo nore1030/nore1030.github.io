@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp24",
+  "title": "微生物大小",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "微生物大小",
+      "question": "普通的单细胞生物如草履虫，其身体长度通常在（）微米左右。",
+      "options": [],
+      "answer": "200",
+      "explanation": "大草履虫的体长约为150-300微米，常见取值200左右。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "g3down-u5-kp4",
+  "title": "面积单位间的进率与换算",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "5 平方米等于 50 平方分米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "1 平方米 = 100 平方分米，$5 \\times 100 = 500$（平方分米）。故错误。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "700 平方分米等于多少平方米？",
+      "options": [
+        "7",
+        "70",
+        "7000",
+        "70000"
+      ],
+      "answer": "7",
+      "explanation": "相邻进率为 100，$700 \\div 100 = 7$。验算：$7 \\times 100 = 700$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "1 平方米比 100 平方厘米多多少？",
+      "options": [
+        "0 平方厘米",
+        "900 平方厘米",
+        "9900 平方厘米",
+        "10000 平方厘米"
+      ],
+      "answer": "9900 平方厘米",
+      "explanation": "1 平方米 = 10000 平方厘米，$10000 - 100 = 9900$。验算：$9900 + 100 = 10000$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "8 平方米等于 ___ 平方分米。",
+      "options": [],
+      "answer": "800",
+      "explanation": "$1$ 平方米 $= 100$ 平方分米，$8 \\times 100 = 800$。验算：$800 \\div 100 = 8$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "面积单位间的进率与换算",
+    "core_concept": "相邻两个面积单位之间的进率是100。1平方米可划分为10*10个1平方分米，1平方分米可划分为10*10个1平方厘米。",
+    "key_formula": "$1 m^2 = 100 dm^2$, $1 dm^2 = 100 cm^2$",
+    "common_mistakes": [
+      "受长度单位影响，错记进率为 10",
+      "在大单位化小单位时错用除法"
+    ],
+    "tips": "口诀：大变小，加两零；小变大，去两零（针对相邻单位）。"
+  }
+}

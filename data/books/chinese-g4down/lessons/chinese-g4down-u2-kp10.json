@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u2-kp10",
+  "title": "字词积累",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "在《琥珀》中，包裹住小虫子的黄色液体叫（___）。",
+      "options": [],
+      "answer": "松脂",
+      "explanation": "松脂是形成琥珀的原始物质。"
+    }
+  ],
+  "knowledge": null
+}

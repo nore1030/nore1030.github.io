@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u3-kp4",
+  "title": "轮轴结构与车轮的运输效率",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轮轴结构与车轮的运输效率",
+      "question": "在轮轴的轮上用力，一定可以省力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在轮轴的轮上用力能够绕轴转动从而省力。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轮轴结构与车轮的运输效率",
+      "question": "自行车上的指南针主要是用了（）的原理进行工作。",
+      "options": [
+        "杠杆",
+        "斜面",
+        "轮轴",
+        "磁极相吸"
+      ],
+      "answer": "磁极相吸",
+      "explanation": "指南针利用磁性，非机械工具原理。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轮轴结构与车轮的运输效率",
+      "question": "同样的一台小车，装载重物在粗糙的水泥路和光滑的水泥路上行驶，摩擦力（）。",
+      "options": [
+        "一样大",
+        "粗糙路面大",
+        "光滑路面大",
+        "无法比较"
+      ],
+      "answer": "粗糙路面大",
+      "explanation": "接触面越粗糙，产生的摩擦力越大。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轮轴结构与车轮的运输效率",
+      "question": "由半径较大的圆轮和半径较小的轴组成的简单机械叫做（）。",
+      "options": [],
+      "answer": "轮轴",
+      "explanation": "轮轴包含两个同心圆结构。"
+    }
+  ],
+  "knowledge": null
+}

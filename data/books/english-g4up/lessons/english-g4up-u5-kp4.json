@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp4",
+  "title": "食物词汇词义",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 0,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "食物词汇词义",
+      "question": "'soup' 的中文意思是 '面条'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "soup的中文意思是汤。面条是noodles。"
+    }
+  ],
+  "knowledge": null
+}

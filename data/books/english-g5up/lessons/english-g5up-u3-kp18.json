@@ -1,0 +1,23 @@
+{
+  "id": "english-g5up-u3-kp18",
+  "title": "饮食意愿",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 13,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "饮食意愿",
+      "question": "What _____ you like to eat?",
+      "options": [],
+      "answer": "would",
+      "explanation": "would you like固定表达。"
+    }
+  ],
+  "knowledge": null
+}

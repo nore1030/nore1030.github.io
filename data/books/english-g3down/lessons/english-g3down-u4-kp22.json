@@ -1,0 +1,32 @@
+{
+  "id": "english-g3down-u4-kp22",
+  "title": "英汉配对",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 18,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "英汉配对",
+      "question": "请将下列单词与其对应的中文意思连线。",
+      "options": [
+        "map",
+        "toy",
+        "box",
+        "desk",
+        "盒子",
+        "书桌",
+        "地图",
+        "玩具"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "map-地图, toy-玩具, box-盒子, desk-书桌。"
+    }
+  ],
+  "knowledge": null
+}

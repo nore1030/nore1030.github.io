@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp9",
+  "title": "洋葱表皮装片制作",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "洋葱表皮装片制作",
+      "question": "制作洋葱表皮细胞临时装片时，碘液的作用是为了消毒。",
+      "options": [],
+      "answer": "错",
+      "explanation": "碘液的作用是染色，使细胞核等结构观察得更清楚。"
+    }
+  ],
+  "knowledge": null
+}

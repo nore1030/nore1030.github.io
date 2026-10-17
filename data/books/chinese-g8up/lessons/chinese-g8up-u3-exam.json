@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g8up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chinese-g8up",
+  "unitNumber": 3,
+  "unitTitle": "说明文与议论文",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "逻辑顺序是按照（　）来安排的",
+      "options": [
+        "事物内部的联系",
+        "时间先后",
+        "空间方位",
+        "由主到次"
+      ],
+      "answer": "事物内部的联系",
+      "explanation": "逻辑顺序按内在联系。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "议论文基本要素",
+      "question": "用正反两方面的事例说明观点的方法叫（　）",
+      "options": [
+        "对比论证",
+        "举例论证",
+        "道理论证",
+        "比喻论证"
+      ],
+      "answer": "对比论证",
+      "explanation": "正反对照是对比论证。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "议论文基本要素",
+      "question": "议论文必须有明确的论点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "论点是议论文核心。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "打比方能使说明更生动形象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "打比方作用。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp18",
+  "title": "导体应用",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "导体应用",
+      "question": "插头外部一般用塑料包裹，因为它（ ）。",
+      "options": [
+        "轻便",
+        "硬度高",
+        "不导电",
+        "耐磨"
+      ],
+      "answer": "不导电",
+      "explanation": "绝缘体可以防止触电，保护使用者的安全。"
+    }
+  ],
+  "knowledge": null
+}

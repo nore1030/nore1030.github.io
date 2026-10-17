@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u1-kp4",
+  "title": "人称代词用法",
+  "bookId": "english-g3down",
+  "unitNumber": 1,
+  "unitTitle": "Welcome back to school!",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人称代词用法",
+      "question": "___ is a new student. (她是一名新学生。)",
+      "options": [
+        "He",
+        "She",
+        "I",
+        "You"
+      ],
+      "answer": "She",
+      "explanation": "题干指定为'她'，故选 She。"
+    }
+  ],
+  "knowledge": null
+}

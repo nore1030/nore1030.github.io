@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g1up-u3-kp2",
+  "title": "分一分与整理",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 3,
+  "unitTitle": "分一分",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分一分与整理",
+      "question": "分一分的标准要一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标准统一。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分一分与整理",
+      "question": "整理房间属于（　）",
+      "options": [
+        "分一分",
+        "数一数",
+        "比一比",
+        "认位置"
+      ],
+      "answer": "分一分",
+      "explanation": "整理即分类。"
+    }
+  ],
+  "knowledge": {
+    "point": "分一分与整理",
+    "core_concept": "把文具放进文具盒、把衣服放进衣柜都是分一分；分一分让东西更整齐、更好找。",
+    "key_formula": "整理 = 分一分",
+    "common_mistakes": [
+      "认为分一分只是游戏。"
+    ],
+    "tips": "生活中处处有分类。"
+  }
+}

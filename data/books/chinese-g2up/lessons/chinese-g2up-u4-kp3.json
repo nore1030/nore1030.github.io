@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g2up-u4-kp3",
+  "title": "留言条的书写规范",
+  "bookId": "chinese-g2up",
+  "unitNumber": 4,
+  "unitTitle": "家乡",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "留言条的书写规范",
+      "question": "写留言条时，自己的名字应该写在内容的开头部分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "自己的名字（署名）应该写在右下角，不能写在开头。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "留言条的书写规范",
+      "question": "如果老师不在家，我们要留个纸条告诉她我们来过，这叫什么？",
+      "options": [
+        "日记",
+        "请假条",
+        "通知",
+        "留言条"
+      ],
+      "answer": "留言条",
+      "explanation": "留言条用于人不在家或不方便面谈时留下信息。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "留言条的书写规范",
+      "question": "留言条中，日期应该写在什么地方？",
+      "options": [
+        "最顶格",
+        "正文最后面",
+        "署名的正下方",
+        "标题中间"
+      ],
+      "answer": "署名的正下方",
+      "explanation": "按照规范，日期写在名字下面，都在右下角。"
+    }
+  ],
+  "knowledge": {
+    "point": "留言条的书写规范",
+    "core_concept": "留言条是在现实生活中沟通的重要工具。它包含五个部分：称呼（顶格）、正文（空两格）、署名（右下方）、日期（署名下方）。重点在于语言要简练，讲清楚去向、内容和联系方式。",
+    "key_formula": "头顶称呼二格文，右下署名接日期",
+    "common_mistakes": [
+      "署名和日期的位置写反，或者姓名写在最前面",
+      "忘记交待重要的时间或地点，导致信息无效"
+    ],
+    "tips": "牢记“谁留的、留给谁、什么事、哪天留”四个核心要素即可不出错。"
+  }
+}

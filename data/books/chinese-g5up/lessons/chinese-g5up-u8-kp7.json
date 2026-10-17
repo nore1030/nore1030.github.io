@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u8-kp7",
+  "title": "词义匹配",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 6,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词义匹配",
+      "question": "请将下列词语与它们在本单元语境下的意思匹配。",
+      "options": [
+        "博览群书",
+        "不耻下问",
+        "囫囵吞枣",
+        "手不释卷",
+        "读书不求甚解",
+        "形容勤奋好学",
+        "广泛阅读书籍",
+        "向不如己的人请教"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "A匹配广泛阅读，B匹配向不如己者请教，C匹配读书不细究，D匹配勤奋好学。"
+    }
+  ],
+  "knowledge": null
+}

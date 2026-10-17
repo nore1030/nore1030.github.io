@@ -1,0 +1,76 @@
+{
+  "id": "chinese-g2down-u4-kp2",
+  "title": "基于时间顺序的绘本叙事写话",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 1,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "基于时间顺序的绘本叙事写话",
+      "question": "“过了一会儿”这个词语表示的时间间隔通常是非常长的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“过了一会儿”表示时间过去得并不久，属于较短的时间间隔。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "基于时间顺序的绘本叙事写话",
+      "question": "在描述小虫子一天的故事时，接在‘早上’后面的词语通常应该是？",
+      "options": [
+        "昨天",
+        "很久以前",
+        "过了一会儿",
+        "去年"
+      ],
+      "answer": "过了一会儿",
+      "explanation": "“过了一会儿”是表示时间流逝的过渡词，适合描述一天内的连续动作。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "基于时间顺序的绘本叙事写话",
+      "question": "表示天快黑了的时间词语是（____）。",
+      "options": [],
+      "answer": "傍晚",
+      "explanation": "“傍晚”指临近晚上的时候，符合语义。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "基于时间顺序的绘本叙事写话",
+      "question": "将下列词语排列成一句描述时间顺序的句子。",
+      "options": [
+        "四只小虫子",
+        "早上",
+        "发现",
+        "一个鸡蛋壳",
+        "在草地上"
+      ],
+      "answer": "早上,四只小虫子,在草地上,发现,一个鸡蛋壳",
+      "explanation": "句子的时间语通常放在句首，接着是主语、地点、动作、对象。"
+    }
+  ],
+  "knowledge": {
+    "point": "基于时间顺序的绘本叙事写话",
+    "core_concept": "通过时间词连接一系列动作，使故事具有逻辑性和连贯性。重点掌握“早上、过了一会儿、到了中午、下午、太阳落山了”等表示时间流逝的关键词。这不仅是写话技巧，更是逻辑思维的训练，要求学生在描述鸡蛋壳的一日活动时，动作要符合时间的发展节奏。",
+    "key_formula": "时间词 + 谁 + 在干什么 + 结果如何",
+    "common_mistakes": [
+      "时间词乱序，如先写下午再写早上",
+      "缺乏过渡词，导致句子与句子之间断裂严重"
+    ],
+    "tips": "可以先画一个“时间轴”，在轴上标出关键点，再把动作填进去。"
+  }
+}

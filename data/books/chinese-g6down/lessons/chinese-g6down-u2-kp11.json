@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u2-kp11",
+  "title": "情节概括",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 10,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情节概括",
+      "question": "请将故事情节与其所在的阶段进行连线：",
+      "options": [
+        "海上遇险",
+        "荒岛建房",
+        "救星期五",
+        "重返英国",
+        "发展阶段",
+        "高潮阶段",
+        "故事结局",
+        "开篇情节"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "考察学生对名著情节结构的整体掌握。"
+    }
+  ],
+  "knowledge": null
+}

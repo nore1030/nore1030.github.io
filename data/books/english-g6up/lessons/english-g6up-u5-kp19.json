@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp19",
+  "title": "职业词汇",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 15,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇",
+      "question": "A person who flies a plane is a ______.",
+      "options": [],
+      "answer": "pilot",
+      "explanation": "驾飞机的人是飞行员。"
+    }
+  ],
+  "knowledge": null
+}

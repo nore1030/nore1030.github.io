@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u4-kp7",
+  "title": "多音字读音选择",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 6,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音选择",
+      "question": "下面句子中“量”字的读音与其它三项不同的是？",
+      "options": [
+        "称量重量",
+        "降雨量",
+        "力量",
+        "胆量"
+      ],
+      "answer": "称量重量",
+      "explanation": "在“称量”中读liáng（动词），其余三项中读liàng（名词）。"
+    }
+  ],
+  "knowledge": null
+}

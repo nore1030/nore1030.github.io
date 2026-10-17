@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp10",
+  "title": "代词辨析",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词辨析",
+      "question": "Shh! Keep ________. The baby is sleeping.",
+      "options": [
+        "quiet",
+        "quietly",
+        "talking",
+        "noise"
+      ],
+      "answer": "quiet",
+      "explanation": "Keep + 形容词表示保持某种状态，keep quiet表示保持安静。"
+    }
+  ],
+  "knowledge": null
+}

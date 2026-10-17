@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp17",
+  "title": "音量控制",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "音量控制",
+      "question": "用力拨动橡皮筋，橡皮筋的振动幅度变大，此时声音：",
+      "options": [
+        "变高",
+        "变低",
+        "变强",
+        "变弱"
+      ],
+      "answer": "变强",
+      "explanation": "振幅决定音量的强弱，幅度越大声音越强。"
+    }
+  ],
+  "knowledge": null
+}

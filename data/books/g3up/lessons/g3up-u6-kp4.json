@@ -1,0 +1,96 @@
+{
+  "id": "g3up-u6-kp4",
+  "title": "乘法估算与归一问题解决",
+  "bookId": "g3up",
+  "unitNumber": 6,
+  "unitTitle": "多位数乘一位数",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "小明买 3 本练习本用了 12 元。照这样计算，买 9 本练习本需要多少钱？",
+      "options": [
+        "24 元",
+        "36 元",
+        "48 元",
+        "108 元"
+      ],
+      "answer": "36 元",
+      "explanation": "先求单价：$12 \text{  } / \text{  } 3 = 4$（元）。再求9本总价：$4 \times 9 = 36$（元）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "老师买了 4 枝钢笔用了 32 元。如果用 80 元钱，可以买多少枝这样的钢笔？",
+      "options": [
+        "8 枝",
+        "10 枝",
+        "12 枝",
+        "20 枝"
+      ],
+      "answer": "10 枝",
+      "explanation": "先求单价：$32 \text{  } / \text{  } 4 = 8$（元）。再求数量：$80 \text{  } / \text{  } 8 = 10$（枝）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "学校买来 2 叠本子，每叠 20 本。如果把这些本子平均分给 8 个同学，每个同学分多少本？",
+      "options": [
+        "4 本",
+        "5 本",
+        "10 本",
+        "40 本"
+      ],
+      "answer": "5 本",
+      "explanation": "总本数：$2 \times 20 = 40$（本）。每人分得：$40 \text{  } / \text{  } 8 = 5$（本）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "估算 $298 \times 3$，结果最接近多少？",
+      "options": [
+        "600",
+        "900",
+        "1200",
+        "300"
+      ],
+      "answer": "900",
+      "explanation": "298 接近 300，$300 \times 3 = 900$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "3 名同学 2 小时做了 18 朵花。照这样计算，1 名同学 1 小时做 ___ 朵花。",
+      "options": [],
+      "answer": "3",
+      "explanation": "先求3人1小时做的：$18 \text{  } / \text{  } 2 = 9$（朵）。再求1人1小时做的：$9 \text{  } / \text{  } 3 = 3$（朵）。或 $18 \text{  } / \text{  } (3 \times 2) = 3$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘法估算与归一问题解决",
+    "core_concept": "遇到“大约”字样时需估算，将多位数看作最接近的整十、整百数。解决“归一问题”时，关键是先通过除法求出单一量（一份是多少），再根据要求进行乘法计算。",
+    "key_formula": "总数 \text{  } / \text{  } 数量 = 单一份数",
+    "common_mistakes": [
+      "估算时找不对近似数，误差过大",
+      "两步计算题找不准中间量，运算顺序错误"
+    ],
+    "tips": "先读题确定是“求总数”还是“求每份数”，画简单的线段图可以帮助理清思路。"
+  }
+}

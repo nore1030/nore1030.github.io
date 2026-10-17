@@ -1,0 +1,193 @@
+{
+  "id": "g1up-u6-kp2",
+  "title": "11~20各数的写法与组成",
+  "bookId": "g1up",
+  "unitNumber": 6,
+  "unitTitle": "11~20各数的认识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "1个十和8个一合起来是18。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1个十提供十位上的1，8个一提供个位上的8，合起来是18。验算：$10 + 8 = 18$。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "14前面的数是15。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在数序中，14的前面是13，15是在14的后面。验算：$14 - 1 = 13$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "与 15 相邻的两个数是：",
+      "options": [
+        "14 和 16",
+        "13 和 14",
+        "16 和 17",
+        "14 和 15"
+      ],
+      "answer": "14 和 16",
+      "explanation": "相邻数是指比它少1和多1的数。$15 - 1 = 14$，$15 + 1 = 16$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "12 和 17 之间有几个数？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "12和17之间的数包括：13, 14, 15, 16。共4个。验算：$17 - 12 - 1 = 4$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "下图中表示的数是 20，它的组成是：",
+      "options": [
+        "2 个一",
+        "2 个十",
+        "1 个十和 10 个一",
+        "20 个十"
+      ],
+      "answer": "2 个十",
+      "explanation": "20 在十位上是2，个位是0，表示2个十。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "18 里面有几个十和几个一？",
+      "options": [
+        "8 个十和 1 个一",
+        "1 个十和 8 个一",
+        "18 个十",
+        "1 个十和 1 个八"
+      ],
+      "answer": "1 个十和 8 个一",
+      "explanation": "18的十位是1，个位是8，表示1个十和8个一。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "最大的一位数是：",
+      "options": [
+        "1",
+        "9",
+        "10",
+        "20"
+      ],
+      "answer": "9",
+      "explanation": "一位数包括0-9，其中最大的是9。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "最小的两位数是：",
+      "options": [
+        "10",
+        "11",
+        "20",
+        "9"
+      ],
+      "answer": "10",
+      "explanation": "10 是第一个出现的两位数，所以是最小的两位数。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "在 13, 18, 11, 20 这四个数中，最接近 20 的数是：",
+      "options": [
+        "13",
+        "11",
+        "18",
+        "20"
+      ],
+      "answer": "18",
+      "explanation": "$20-18=2$, $20-13=7$, $20-11=9$。2最小，所以18最接近。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "在 $13 > \\_$ 中，横线上最大能填多少？",
+      "options": [
+        "14",
+        "13",
+        "12",
+        "0"
+      ],
+      "answer": "12",
+      "explanation": "要使 $13 > \\_$ 成立且填最大的数，应填比13小1的数，即12。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "1个十和3个一组成的数是 ___。",
+      "options": [],
+      "answer": "13",
+      "explanation": "1个十（10）加3个一（3）等于13。验算：$10 + 3 = 13$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20各数的写法与组成",
+      "question": "比 15 大，比 17 小的数是 ___。",
+      "options": [],
+      "answer": "16",
+      "explanation": "按数序排列：15, 16, 17。介于两者之间的是16。"
+    }
+  ],
+  "knowledge": {
+    "point": "11~20各数的写法与组成",
+    "core_concept": "11~20各数都是由1个十和几个一组成的（20是由2个十组成的）。写数时，有几个十就在十位写几，有几个一就在个位写几。如果个位上一个单位也没有，要写0占位。",
+    "key_formula": "$1个十 + n个一 = 1n$",
+    "common_mistakes": [
+      "写“二十”时写成“2”，漏掉个位的0。",
+      "读数和写数混淆，将“15”读成“一五”。"
+    ],
+    "tips": "写数时一定要注意数位，先写十位再写个位，没数就用0住位置。"
+  }
+}

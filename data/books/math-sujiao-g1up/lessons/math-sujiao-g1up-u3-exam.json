@@ -1,0 +1,71 @@
+{
+  "id": "math-sujiao-g1up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 3,
+  "unitTitle": "分一分",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按标准分一分",
+      "question": "把汽车和飞机分开，是按（　）分",
+      "options": [
+        "种类",
+        "颜色",
+        "大小",
+        "形状"
+      ],
+      "answer": "种类",
+      "explanation": "按类型。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分一分与整理",
+      "question": "分一分可以让东西更整齐。",
+      "options": [],
+      "answer": "对",
+      "explanation": "整理的好处。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按标准分一分",
+      "question": "把圆形和方形的积木分开，是按（　）分",
+      "options": [
+        "形状",
+        "颜色",
+        "用途",
+        "大小"
+      ],
+      "answer": "形状",
+      "explanation": "按形状。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分一分与整理",
+      "question": "同一堆积木，下面说法正确的是（　）",
+      "options": [
+        "可以按颜色分，也可以按形状分",
+        "只能按颜色分",
+        "只能按形状分",
+        "不能分"
+      ],
+      "answer": "可以按颜色分，也可以按形状分",
+      "explanation": "标准多样。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "全等三角形",
+      "knowledge_points": [
+        {
+          "name": "全等三角形的性质与判定",
+          "description": "掌握全等三角形的性质与常用判定。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "全等三角形的应用",
+          "description": "用全等性质证明线段或角相等。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "勾股定理与全等综合",
+      "knowledge_points": [
+        {
+          "name": "勾股定理的应用",
+          "description": "在真实情境中应用勾股定理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "全等与勾股综合应用",
+          "description": "综合运用两种方法解决问题。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g8up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "math-sujiao-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "math-sujiao-g8up-u1-kp1",
+      "title": "全等三角形的性质与判定",
+      "unitNumber": 1,
+      "unitTitle": "全等三角形",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g8up-u1-kp2",
+      "title": "全等三角形的应用",
+      "unitNumber": 1,
+      "unitTitle": "全等三角形",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g8up-u2-kp1",
+      "title": "勾股定理的应用",
+      "unitNumber": 2,
+      "unitTitle": "勾股定理与全等综合",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g8up-u2-kp2",
+      "title": "全等与勾股综合应用",
+      "unitNumber": 2,
+      "unitTitle": "勾股定理与全等综合",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

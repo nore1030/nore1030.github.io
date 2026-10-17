@@ -1,0 +1,56 @@
+{
+  "id": "g9down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g9down",
+  "unitNumber": 3,
+  "unitTitle": "锐角三角函数",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "直角三角形中 $\\angle A=60°$，邻边 4，则对边是多少（保留根号，填 $\\sqrt3$ 的系数）？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$4\\tan60°=4\\sqrt3$。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "锐角三角函数定义",
+      "question": "直角三角形两直角边为 5、12，则斜边为 13，$\\cos A$（$A$ 对 5）是多少（填分数）？",
+      "options": [],
+      "answer": "12/13",
+      "explanation": "$\\cos A=\\frac{12}{13}$。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "$\\sin60°=\\frac{\\sqrt3}{2}$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "特殊角函数值。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "特殊角三角函数值与解直角三角形",
+      "question": "仰角 45° 观测一棵树顶，测点到树底水平距离 12 m，树高多少米？",
+      "options": [],
+      "answer": "12",
+      "explanation": "$12\\tan45°=12$。"
+    }
+  ],
+  "knowledge": null
+}

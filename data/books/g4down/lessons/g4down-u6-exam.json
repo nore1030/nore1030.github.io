@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 6,
+  "unitTitle": "小数的加法和减法",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "计算小数加减法，要把数的末尾对齐。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须小数点对齐（相同数位对齐），而不是末尾对齐。验算：无。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "$2.5 + 7.5 = 10$",
+      "options": [],
+      "answer": "对",
+      "explanation": "$2.5 + 7.5 = 10.0 = 10$。验算：$10 - 7.5 = 2.5$ ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "小数加减混合运算",
+      "question": "一个数减去 0.1 再加上 0.1，结果比原数小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$X - 0.1 + 0.1 = X$，结果相等。验算：$1 - 0.1 + 0.1 = 1$ ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "两位小数减去两位小数，差不可能是整数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "当小数部分完全相同时，差就是整数。例如 $1.25 - 0.25 = 1$。验算：$1 + 0.25 = 1.25$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "4.8 连续减去两个 0.4，结果是：",
+      "options": [
+        "4",
+        "4.4",
+        "3.8",
+        "4.2"
+      ],
+      "answer": "4",
+      "explanation": "$4.8 - 0.4 - 0.4 = 4.0 = 4$。验算：$4 + 0.4 + 0.4 = 4.8$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数加减混合运算",
+      "question": "比 5.2 多 1.8，再减去 2 的数是：",
+      "options": [
+        "5",
+        "7",
+        "3.4",
+        "5.4"
+      ],
+      "answer": "5",
+      "explanation": "$5.2 + 1.8 - 2 = 7 - 2 = 5$。验算：$5 + 2 - 1.8 = 5.2$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整数运算律推广到小数",
+      "question": "计算 $9.9 + 9.99$ 的简便计算方法是：",
+      "options": [
+        "10+10-0.11",
+        "10+10-0.1",
+        "9.9+10-0.01",
+        "10+9.99-0.1"
+      ],
+      "answer": "10+9.99-0.1",
+      "explanation": "把 $9.9$ 看作 $10 - 0.1$。验算：$10 - 0.1 + 9.99 = 9.9 + 9.99$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "10 吨煤，用去 3.5 吨，又运来 2.5 吨，现在有：",
+      "options": [
+        "9 吨",
+        "11 吨",
+        "14 吨",
+        "16 吨"
+      ],
+      "answer": "9 吨",
+      "explanation": "$10 - 3.5 + 2.5 = 6.5 + 2.5 = 9$（吨）。验算：$9 - 2.5 + 3.5 = 10$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "一个两位小数精确到十分位是 5.0，这个数最大是：",
+      "options": [
+        "5.04",
+        "5.09",
+        "4.99",
+        "5.49"
+      ],
+      "answer": "5.04",
+      "explanation": "根据“四舍五入”，4 会舍去，故 5.04 最大。5.05 入为 5.1。验算：5.04 舍掉百分位得 5.0 ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "一根电线长 30 米，第一次用去 12.8 米，第二次用去 7.2 米，一共短了：",
+      "options": [
+        "20 米",
+        "10 米",
+        "42.8 米",
+        "17.2 米"
+      ],
+      "answer": "20 米",
+      "explanation": "短了多少即一共用去多少：$12.8 + 7.2 = 20$（米）。验算：$30 - 20 = 10$ ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "下面各数中，与 10 最接近的数是：",
+      "options": [
+        "9.9",
+        "10.02",
+        "10.1",
+        "9.99"
+      ],
+      "answer": "9.99",
+      "explanation": "$10-9.9=0.1$，$10.02-10=0.02$，$10.1-10=0.1$，$10-9.99=0.01$。0.01 最小。验算：略。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数加减混合运算",
+      "question": "计算 $1.2 + 0.8 - 1.2 + 0.8$，结果是：",
+      "options": [
+        "0",
+        "1.6",
+        "2",
+        "3.2"
+      ],
+      "answer": "1.6",
+      "explanation": "按顺序算：$2 - 1.2 + 0.8 = 0.8 + 0.8 = 1.6$。验算：$1.6 - 0.8 + 1.2 - 0.8 = 1.2$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "1 公里等于 1000 米。小明跑了 0.4 公里，他还剩 ___ 米才跑完 1 公里。",
+      "options": [],
+      "answer": "600",
+      "explanation": "1 公里 = 1000 米，0.4 公里 = 400 米。$1000 - 400 = 600$ 米。验算：$600 + 400 = 1000$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数加减混合运算",
+      "question": "妈妈在超市买了 25 元的菜和 12 元的水果，付钱时收银员通过优惠减免了 2 元。妈妈实际支付了 ___ 元。",
+      "options": [],
+      "answer": "35",
+      "explanation": "$25 + 12 - 2 = 37 - 2 = 35$（元）。验算：$35 + 2 - 12 = 25$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数加减法的基础竖式计算",
+      "question": "计算：$50 - 28.5 - 11.5 = ?$",
+      "options": [],
+      "answer": "10",
+      "explanation": "$50 - (28.5 + 11.5) = 50 - 40 = 10$。验算：$10 + 11.5 + 28.5 = 50$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

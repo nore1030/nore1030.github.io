@@ -1,0 +1,65 @@
+{
+  "id": "chinese-g5down-u5-kp2",
+  "title": "侧面描写与烘托",
+  "bookId": "chinese-g5down",
+  "unitNumber": 5,
+  "unitTitle": "把一个人的特点写具体",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "侧面描写与烘托",
+      "question": "描写人物时，通过旁人的反应来表现主人公的特点，这属于侧面描写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "侧面描写即通过外界事物的评价或反应来烘托人物形象。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "侧面描写与烘托",
+      "question": "短文：“张华还没进教室，同学们就听到他那爽朗的大笑声。”这运用了？",
+      "options": [
+        "声音烘托",
+        "神态描写",
+        "环境描写",
+        "外貌描写"
+      ],
+      "answer": "声音烘托",
+      "explanation": "通过未见其人先闻其声的方式烘托其开朗特点。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "侧面描写与烘托",
+      "question": "通过他人眼神排成能够体现侧面烘托的句子：",
+      "options": [
+        "惊讶的",
+        "投向了",
+        "目光",
+        "大家都把",
+        "曹小三"
+      ],
+      "answer": "大家都把,惊讶的,目光,投向了,曹小三",
+      "explanation": "体现曹小三（代表旁人）的反应，从而衬托刷子李的技艺。"
+    }
+  ],
+  "knowledge": {
+    "point": "侧面描写与烘托",
+    "core_concept": "不直接写主人公，而是通过描写周围人的反应、评价，或者通过环境、其他事物的衬托，从侧面表现人物的特点。在《刷子李》中，作者花费大量笔墨写徒弟曹小三的心理从质疑到震撼的变化，这比直接夸赞刷子李技艺高超更有说服力和感染力。",
+    "key_formula": "侧面表达 = 旁人反应 + 环境气氛 + 对比反衬",
+    "common_mistakes": [
+      "反客为主，写了一堆路人的反应却让读者忘了主角是谁",
+      "侧面描写与主角特点不匹配，起不到衬托作用"
+    ],
+    "tips": "想象主角在做惊人之举时，周围人的嘴巴、眼神是什么样的。"
+  }
+}

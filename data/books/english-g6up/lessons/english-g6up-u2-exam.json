@@ -1,0 +1,223 @@
+{
+  "id": "english-g6up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 20,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义",
+      "question": "'fast' 的反义词是 'slow'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fast快, slow慢。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "交通常识",
+      "question": "We can go to the moon by subway.",
+      "options": [],
+      "answer": "错",
+      "explanation": "去月球不能乘地铁。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "词汇",
+      "question": "'Straight' 的意思是 '向左转'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "straight是直着走，turn left才是左转。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "综合常识",
+      "question": "Alaska is very cold, so children go to school by sled.",
+      "options": [],
+      "answer": "对",
+      "explanation": "阿拉斯加寒冷多雪，课文提到那里乘雪橇上学。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短语",
+      "question": "Usually I come ___ foot.",
+      "options": [
+        "by",
+        "on",
+        "with",
+        "at"
+      ],
+      "answer": "on",
+      "explanation": "固定搭配on foot。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词",
+      "question": "I ___ go by bike, but sometimes I walk.",
+      "options": [
+        "usually",
+        "but",
+        "and",
+        "it"
+      ],
+      "answer": "usually",
+      "explanation": "根据句意表通常的频率。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交通信号",
+      "question": "Slow down and ___ at a yellow light.",
+      "options": [
+        "go",
+        "run",
+        "stop",
+        "play"
+      ],
+      "answer": "stop",
+      "explanation": "黄灯要减速并停下。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "建议句型",
+      "question": "___ see a doctor if you feel ill.",
+      "options": [
+        "Do",
+        "Go",
+        "Let",
+        "Should"
+      ],
+      "answer": "Go",
+      "explanation": "Go see a doctor是祈使句建议。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "频度表达",
+      "question": "___ she often go to the library by bus?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Can"
+      ],
+      "answer": "Does",
+      "explanation": "单三疑问句用Does引导。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时态综合",
+      "question": "Robin ___ many ways to go to school.",
+      "options": [
+        "know",
+        "knowing",
+        "knows",
+        "to know"
+      ],
+      "answer": "knows",
+      "explanation": "主语Robin人称单三，动词用knows。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交通工具",
+      "question": "I go to work by ___ because I like riding.",
+      "options": [],
+      "answer": "bike",
+      "explanation": "喜欢骑行，故选bike。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词",
+      "question": "I ___ go by bus, but sometimes I go on foot.",
+      "options": [],
+      "answer": "often",
+      "explanation": "often对应sometimes，表示频率对比。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交通标识",
+      "question": "Green light means ___.",
+      "options": [],
+      "answer": "go",
+      "explanation": "绿灯行。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词短语配对",
+      "question": "请将英语短语与对应中文翻译连接。",
+      "options": [
+        "get on",
+        "get off",
+        "slow down",
+        "go straight",
+        "减速",
+        "直行",
+        "上车",
+        "下车"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "get on-上车, get off-下车, slow down-减速, go straight-直行。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句",
+      "question": "连词成句：always, by, My, goes, bus, father",
+      "options": [
+        "always",
+        "by",
+        "My",
+        "goes",
+        "bus",
+        "father"
+      ],
+      "answer": "My,father,always,goes,by,bus",
+      "explanation": "句意：我父亲总是乘坐公交车。"
+    }
+  ],
+  "knowledge": null
+}

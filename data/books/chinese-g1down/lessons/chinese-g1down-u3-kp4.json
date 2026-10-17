@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp4",
+  "title": "中外传闻及课文理解",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 3,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中外传闻及课文理解",
+      "question": "《树和喜鹊》中，后来树和喜鹊都很快乐，是因为：",
+      "options": [
+        "树长高了",
+        "喜鹊会唱歌",
+        "他们都有了邻居",
+        "天黑了"
+      ],
+      "answer": "他们都有了邻居",
+      "explanation": "有了邻居就不再孤单，所以树和喜鹊都很快乐。"
+    }
+  ],
+  "knowledge": null
+}

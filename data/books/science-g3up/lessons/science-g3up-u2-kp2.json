@@ -1,0 +1,61 @@
+{
+  "id": "science-g3up-u2-kp2",
+  "title": "空气的压缩性与弹性",
+  "bookId": "science-g3up",
+  "unitNumber": 2,
+  "unitTitle": "空气",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "空气的压缩性与弹性",
+      "question": "我们可以很容易地把灌满水的注射器活塞向下压一段距离。",
+      "options": [],
+      "answer": "错",
+      "explanation": "液体很难被压缩，而空气容易被压缩。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "空气的压缩性与弹性",
+      "question": "被压缩后的空气具有弹性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "空气分子间隙大，压缩后会产生向外的弹力。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气的压缩性与弹性",
+      "question": "下列物品中，利用了空气可以被压缩性质的是：",
+      "options": [
+        "水盆",
+        "指南针",
+        "打气筒",
+        "玻璃杯"
+      ],
+      "answer": "打气筒",
+      "explanation": "打气筒通过压缩活塞将空气压入轮胎。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空气的压缩性与弹性",
+      "question": "空气受压后的反弹力量我们称之为（___）。",
+      "options": [],
+      "answer": "弹性",
+      "explanation": "空气可压缩且具有弹性。"
+    }
+  ],
+  "knowledge": null
+}

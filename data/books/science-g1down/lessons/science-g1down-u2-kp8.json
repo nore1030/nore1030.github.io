@@ -1,0 +1,39 @@
+{
+  "id": "science-g1down-u2-kp8",
+  "title": "观察动物的注意事项",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 1,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "观察动物的注意事项",
+      "question": "在校园里观察小动物时，我们可以用手直接抓捕。",
+      "options": [],
+      "answer": "错",
+      "explanation": "观察动物应遵循不干扰、不伤害原则，不能直接用手抓捕。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察动物的注意事项",
+      "question": "在观察校园小动物时，正确的做法是：",
+      "options": [
+        "把动物带回家养",
+        "静静地观察，记录特征",
+        "把动物抓起来观察",
+        "喂它们吃巧克力"
+      ],
+      "answer": "静静地观察，记录特征",
+      "explanation": "科学观察应尊重生命，保护动物的生存环境。"
+    }
+  ],
+  "knowledge": null
+}

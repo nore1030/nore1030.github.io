@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u4-kp15",
+  "title": "Third person singular verb",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 11,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Third person singular verb",
+      "question": "She ________ (做) her homework in the evening.",
+      "options": [],
+      "answer": "does",
+      "explanation": "主语 She 是三单，do 变形式为 does。"
+    }
+  ],
+  "knowledge": null
+}

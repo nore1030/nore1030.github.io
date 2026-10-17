@@ -1,0 +1,47 @@
+{
+  "id": "biology-g11up-u1-kp2",
+  "title": "神经与体液调节",
+  "bookId": "biology-g11up",
+  "unitNumber": 1,
+  "unitTitle": "稳态与调节",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "神经与体液调节",
+      "question": "神经调节的特点不包括（　）",
+      "options": [
+        "反应迅速",
+        "作用范围准确",
+        "作用时间较长",
+        "时间短暂"
+      ],
+      "answer": "作用时间较长",
+      "explanation": "神经调节时间短暂。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "神经与体液调节",
+      "question": "神经调节和体液调节相辅相成。",
+      "options": [],
+      "answer": "对",
+      "explanation": "二者关系。"
+    }
+  ],
+  "knowledge": {
+    "point": "神经与体液调节",
+    "core_concept": "神经调节反射迅速、作用范围准确、时间短暂；体液调节通过激素运输，作用较缓慢、范围较广、时间较长。二者相辅相成。",
+    "key_formula": "神经调节 + 体液调节",
+    "common_mistakes": [
+      "认为神经调节比体液调节高级。"
+    ],
+    "tips": "二者相辅相成。"
+  }
+}

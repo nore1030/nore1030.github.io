@@ -1,0 +1,79 @@
+{
+  "id": "english-renjiao-g10up-u4-kp1",
+  "title": "灾害词汇 flood / earthquake / tsunami",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Natural Disasters 自然灾害",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+      "question": "「洪水」的英文是（　）",
+      "options": [
+        "flood",
+        "flud",
+        "floood",
+        "floud"
+      ],
+      "answer": "flood",
+      "explanation": "flood 洪水。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+      "question": "「地震」的英文是（　）",
+      "options": [
+        "earthquake",
+        "earth quake",
+        "erthquake",
+        "earthquacke"
+      ],
+      "answer": "earthquake",
+      "explanation": "合写。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+      "question": "「灾难」的英文是（　）",
+      "options": [
+        "disaster",
+        "disater",
+        "disastar",
+        "disastre"
+      ],
+      "answer": "disaster",
+      "explanation": "disaster 灾难。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+      "question": "tsunami 的意思是「海啸」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "tsunami 海啸。"
+    }
+  ],
+  "knowledge": {
+    "point": "灾害词汇 flood / earthquake / tsunami",
+    "core_concept": "flood 洪水、earthquake 地震、tsunami 海啸、drought 干旱、disaster 灾难。",
+    "key_formula": "a natural disaster 自然灾害",
+    "common_mistakes": [
+      "earthquake 拆成两个词。"
+    ],
+    "tips": "合写 earthquake。"
+  }
+}

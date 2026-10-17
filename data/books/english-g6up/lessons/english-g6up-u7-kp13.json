@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp13",
+  "title": "寓言故事理解",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "寓言故事理解",
+      "question": "The Robin Hood story tells us we should ______.",
+      "options": [
+        "be mean",
+        "stay at home",
+        "help others",
+        "be angry"
+      ],
+      "answer": "help others",
+      "explanation": "罗宾汉的故事寓意是帮助他人。"
+    }
+  ],
+  "knowledge": null
+}

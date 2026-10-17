@@ -1,0 +1,31 @@
+{
+  "id": "physics-g10up-u3-kp2",
+  "title": "力的分解与共点力平衡",
+  "bookId": "physics-g10up",
+  "unitNumber": 3,
+  "unitTitle": "相互作用——力",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "力的分解与共点力平衡",
+      "question": "物体处于平衡状态时，所受合力必为零。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平衡条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "力的分解与共点力平衡",
+    "core_concept": "共点力平衡条件：合力为零。正交分解法：建立直角坐标系，分别列 $x$、$y$ 方向合力为零的方程。",
+    "key_formula": "$\\sum F=0$",
+    "common_mistakes": [
+      "分解时选错方向。"
+    ],
+    "tips": "沿运动方向和垂直方向分解。"
+  }
+}

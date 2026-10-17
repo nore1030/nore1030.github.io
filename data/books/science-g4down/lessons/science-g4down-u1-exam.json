@@ -1,0 +1,217 @@
+{
+  "id": "science-g4down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 20,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "光合作用条件",
+      "question": "如果没有阳光，植物就无法进行光合作用制造养料。",
+      "options": [],
+      "answer": "对",
+      "explanation": "阳光是光合作用的必要能源条件。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "传粉受精",
+      "question": "由于南瓜花有雌雄之分，所以它们必须经过传粉才能结果。",
+      "options": [],
+      "answer": "对",
+      "explanation": "单性花必须通过昆虫或风等媒介将花粉传至雌蕊。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "植物排泄/蒸腾",
+      "question": "植物体内多余的水分主要是通过叶片上的气孔散发出去的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是蒸腾作用的定义，气孔是水分散失的门户。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "植物分类",
+      "question": "所有的绿色开花植物都是用种子来繁殖后代的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "被子植物（绿色开花植物）主要特征之一就是产生种子。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根的作用",
+      "question": "在干旱的沙漠中，植物的根通常长得（）。",
+      "options": [
+        "很短",
+        "很深",
+        "很少",
+        "向上"
+      ],
+      "answer": "很深",
+      "explanation": "为了吸收地下深处的水分，沙漠植物根系发达且深扎。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "果实特征",
+      "question": "下列哪个部分属于凤仙花的果实？（）",
+      "options": [
+        "绿色的叶片",
+        "纺锤形的籽荚",
+        "红色的花瓣",
+        "细长的根"
+      ],
+      "answer": "纺锤形的籽荚",
+      "explanation": "籽荚内含种子，是果实器官。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物的生长顺序",
+      "question": "凤仙花的生长过程正确的是（）。",
+      "options": [
+        "种子-长叶-开花-结果",
+        "种子-结果-开花-长叶",
+        "种子-开花-结果-萌发",
+        "种子-萌发-幼苗-开花"
+      ],
+      "answer": "种子-长叶-开花-结果",
+      "explanation": "符合植物营养生长到生殖生长的逻辑。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "茎的形态",
+      "question": "牵牛花的茎细长，缠绕在其他物体上向上生长，属于（）。",
+      "options": [
+        "直立茎",
+        "攀缘茎",
+        "缠绕茎",
+        "匍匐茎"
+      ],
+      "answer": "缠绕茎",
+      "explanation": "靠自身茎蔓螺旋缠绕生长的叫缠绕茎。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "花的功能",
+      "question": "植物开花、传粉的最最终目的是（）。",
+      "options": [
+        "为了好看",
+        "吸引昆虫",
+        "制造氧气",
+        "繁殖后代"
+      ],
+      "answer": "繁殖后代",
+      "explanation": "花、果实、种子是植物的生殖器官。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "种子的内部结构",
+      "question": "剥开一颗浸泡过的蚕豆，那块像“豆瓣”一样厚实的部分是（）。",
+      "options": [
+        "胚根",
+        "胚芽",
+        "子叶",
+        "种皮"
+      ],
+      "answer": "子叶",
+      "explanation": "子叶储存大量养料，是种子中最大的部分。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物的根",
+      "question": "当我们拔出草时，会发现根部带着很多泥土，这表现了根能（）。",
+      "options": [
+        "吸收水分",
+        "固定植物",
+        "呼吸空气",
+        "生长迅速"
+      ],
+      "answer": "固定植物",
+      "explanation": "根抓牢土壤，起到支持和固定作用。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "种子传播",
+      "question": "蒲公英的种子长有绒毛，它主要靠（）传播。",
+      "options": [
+        "水力",
+        "风力",
+        "弹力",
+        "动物"
+      ],
+      "answer": "风力",
+      "explanation": "轻小且带毛的结构适合随风飘散。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "花的结构",
+      "question": "一朵完整的凤仙花通常具有（）片花瓣。",
+      "options": [],
+      "answer": "5",
+      "explanation": "凤仙花属于五出数花，标准为5枚花瓣。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生命周期",
+      "question": "一株健康的凤仙花一生中大约可以结出（）个左右的果实。",
+      "options": [],
+      "answer": "20",
+      "explanation": "根据实验观察，凤仙花单株产果量通常在20个左右。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "受精部位",
+      "question": "雌蕊的顶端通常会有粘液，这个部位被称为（）。",
+      "options": [],
+      "answer": "柱头",
+      "explanation": "柱头具有粘性，用于接收花粉。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp7",
+  "title": "词语释义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 5,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "“炫耀”在《在天晴了的时候》中是指：",
+      "options": [
+        "夸耀、显摆",
+        "明亮地照耀",
+        "闪烁不定",
+        "色彩单调"
+      ],
+      "answer": "夸耀、显摆",
+      "explanation": "诗中赋予小草性格，用拟人手法写它不再炫耀曾经的灰尘。"
+    }
+  ],
+  "knowledge": null
+}

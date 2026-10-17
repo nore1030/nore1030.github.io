@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp14",
+  "title": "时间状语",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间状语",
+      "question": "I'm going to take a trip ______ week.",
+      "options": [
+        "last",
+        "next",
+        "ago",
+        "yesterday"
+      ],
+      "answer": "next",
+      "explanation": "be going to搭配将来时间next week。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "g2down-u1-kp1",
+  "title": "收集数据的方法",
+  "bookId": "g2down",
+  "unitNumber": 1,
+  "unitTitle": "数据收集整理",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "收集数据的方法",
+      "question": "在调查全班同学最喜欢的颜色时，每人只能选一种颜色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了保证数据的准确性，每人只能选择一项进行投票，这样统计出的总人数才与班级实际人数相符。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "收集数据的方法",
+      "question": "调查本班同学最喜欢的运动，可以用举手的方法收集数据。",
+      "options": [],
+      "answer": "对",
+      "explanation": "举手、投票（无记名或记名）都是常用的数据收集方法。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "收集数据的方法",
+      "question": "为了选出班长，最公平的方法是下面的哪一种？",
+      "options": [
+        "老师直接指定",
+        "大家无记名投票",
+        "个子高的当班长",
+        "谁成绩好谁当"
+      ],
+      "answer": "大家无记名投票",
+      "explanation": "投票调查能反映全班大多数人的意愿，是最客观公平的数据收集方式。"
+    }
+  ],
+  "knowledge": {
+    "point": "收集数据的方法",
+    "core_concept": "在进行数据统计前，首先要通过调查获取原始信息。常用的调查方法有举手、无记名投票、分类排队等。在调查时，一定要明确调查的问题，并确保调查范围内的人都能参与且每人只能表达一个意愿，这样收集到的数据才真实有效。",
+    "key_formula": "调查总人数 = 选择各选项的人数之和",
+    "common_mistakes": [
+      "统计时重复计数，导致总数超过实际人数",
+      "漏掉部分调查对象，导致数据不完整"
+    ],
+    "tips": "调查前先设计好表格，调查时喊一个名字记一个，能有效防止漏记。"
+  }
+}

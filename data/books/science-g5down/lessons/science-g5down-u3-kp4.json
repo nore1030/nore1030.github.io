@@ -1,0 +1,93 @@
+{
+  "id": "science-g5down-u3-kp4",
+  "title": "垃圾的分类、减量与资源化利用",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "过度包装会产生大量的垃圾，不符合垃圾减量原则。",
+      "options": [],
+      "answer": "对",
+      "explanation": "减少垃圾产生的最好方法是从源头减量，如避免过度包装。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "过期的药品、废旧日光灯管属于哪类垃圾？",
+      "options": [
+        "可回收物",
+        "有害垃圾",
+        "厨余垃圾",
+        "其他垃圾"
+      ],
+      "answer": "有害垃圾",
+      "explanation": "含有毒有害化学物质的垃圾必须单独投放进行无害化处理。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "废旧报纸和快递纸箱属于哪一类垃圾？",
+      "options": [
+        "有害垃圾",
+        "可回收物",
+        "厨余垃圾",
+        "其他垃圾"
+      ],
+      "answer": "可回收物",
+      "explanation": "纸类属于可循环再生利用的资源。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "下列选项中属于“Recycle”行为的是哪一个？",
+      "options": [
+        "减少使用塑料袋",
+        "把旧书传给弟弟学弟看",
+        "回收玻璃瓶重新熔炼制成新瓶子",
+        "用空罐头盒当笔筒"
+      ],
+      "answer": "回收玻璃瓶重新熔炼制成新瓶子",
+      "explanation": "Recycle指的是资源循环利用，即将废弃物作为原材料重新加工。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "垃圾分类时，我们通常将垃圾分为（___）类。",
+      "options": [],
+      "answer": "4",
+      "explanation": "标准分类为四类：可回收物、厨余垃圾、有害垃圾和其他垃圾。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "垃圾的分类、减量与资源化利用",
+      "question": "剩菜剩饭、果皮、菜叶属于（___）垃圾。",
+      "options": [],
+      "answer": "厨余",
+      "explanation": "腐烂垃圾通常被归为厨余垃圾，可堆肥处理。"
+    }
+  ],
+  "knowledge": null
+}

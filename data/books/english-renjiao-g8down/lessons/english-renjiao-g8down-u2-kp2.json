@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8down-u2-kp2",
+  "title": "情态动词与被动语态",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 2,
+  "unitTitle": "被动语态",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "情态动词与被动语态",
+      "question": "The work ___ by tomorrow.",
+      "options": [
+        "will finish",
+        "will be finished",
+        "will finishing",
+        "finishes"
+      ],
+      "answer": "will be finished",
+      "explanation": "含 will 的被动。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "情态动词与被动语态",
+      "question": "主动变被动时要加 be 并把动词变为过去分词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "变被动要点。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词与被动语态",
+    "core_concept": "含情态动词的被动语态结构为 can/must/should + be + 过去分词，主动变被动要“be 提前、动词变分词”。",
+    "key_formula": "情态动词 + be + 过去分词",
+    "common_mistakes": [
+      "主动语态直接改成被动。"
+    ],
+    "tips": "加 be 并变分词。"
+  }
+}

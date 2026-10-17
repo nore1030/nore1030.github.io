@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp8",
+  "title": "词语辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语辨析",
+      "question": "形容傲慢到极点，不把别人放在眼里的词语是：",
+      "options": [
+        "不胜其烦",
+        "目中无人",
+        "一丝不苟",
+        "从容不迫"
+      ],
+      "answer": "目中无人",
+      "explanation": "目中无人形容人或动物极其自大傲慢。"
+    }
+  ],
+  "knowledge": null
+}

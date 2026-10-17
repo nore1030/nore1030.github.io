@@ -1,0 +1,44 @@
+{
+  "id": "english-g4up-u6-kp10",
+  "title": "职业词汇辨析",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 6,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇辨析",
+      "question": "He works on a farm. He is a ______.",
+      "options": [
+        "driver",
+        "nurse",
+        "farmer",
+        "doctor"
+      ],
+      "answer": "farmer",
+      "explanation": "在农场（farm）工作的人是农民（farmer）。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇辨析",
+      "question": "She works in a hospital. She is a ______.",
+      "options": [
+        "farmer",
+        "cook",
+        "nurse",
+        "driver"
+      ],
+      "answer": "nurse",
+      "explanation": "在医院工作且选项中符合的职业是 nurse。"
+    }
+  ],
+  "knowledge": null
+}

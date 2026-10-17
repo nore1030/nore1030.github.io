@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp8",
+  "title": "近义词辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词辨析",
+      "question": "选出下列词语中，描写“变化快”的词语：",
+      "options": [
+        "慢悠悠",
+        "静止",
+        "瞬息万变",
+        "平稳"
+      ],
+      "answer": "瞬息万变",
+      "explanation": "瞬息万变形容在极短的时间内发生了非常多的变化。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u8-kp18",
+  "title": "反义词",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 16,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词",
+      "question": "“巨人看着变得寒冷的花园，感到很后悔。”“后悔”的近义词是（    ）。",
+      "options": [],
+      "answer": "懊悔",
+      "explanation": "懊悔指做错了事或说错了话自恨不该这样。"
+    }
+  ],
+  "knowledge": null
+}

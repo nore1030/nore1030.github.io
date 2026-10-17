@@ -1,0 +1,52 @@
+{
+  "id": "english-waiyan-g7up-u3-kp2",
+  "title": "方位介词 next to / behind / on the left of",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Module 3 My school 我的学校",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "方位介词 next to / behind / on the left of",
+      "question": "「图书馆在操场左边。」的英文是（　）",
+      "options": [
+        "The library is on the left of the playground.",
+        "The library is in the left of the playground.",
+        "The library is on the left playground.",
+        "The library is at the left of playground."
+      ],
+      "answer": "The library is on the left of the playground.",
+      "explanation": "on the left of。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "方位介词 next to / behind / on the left of",
+      "question": "「在……旁边」的英文是（　）",
+      "options": [
+        "next to",
+        "next in",
+        "near to",
+        "close in"
+      ],
+      "answer": "next to",
+      "explanation": "next to 紧挨。"
+    }
+  ],
+  "knowledge": {
+    "point": "方位介词 next to / behind / on the left of",
+    "core_concept": "next to 在……旁边、behind 在……后面、on the left of 在……左边、in front of 在……前面。",
+    "key_formula": "The library is on the left of the playground.",
+    "common_mistakes": [
+      "on the left 漏掉 of。"
+    ],
+    "tips": "left/right 后接 of 再接对象。"
+  }
+}

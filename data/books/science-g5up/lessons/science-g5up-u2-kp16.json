@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp16",
+  "title": "黄河水的变化",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "黄河水的变化",
+      "question": "黄河水含沙量特别大，最主要是因为黄河流经了哪一地区？",
+      "options": [
+        "青藏高原",
+        "黄土高原",
+        "四川盆地",
+        "江南丘陵"
+      ],
+      "answer": "黄土高原",
+      "explanation": "黄土高原土质疏松、植被稀少，受流水强烈侵蚀，泥沙汇入黄河。"
+    }
+  ],
+  "knowledge": null
+}

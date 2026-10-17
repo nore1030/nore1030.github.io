@@ -1,0 +1,102 @@
+{
+  "id": "g2up-u3-kp3",
+  "title": "画角与拼角",
+  "bookId": "g2up",
+  "unitNumber": 3,
+  "unitTitle": "角的初步认识",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "画角与拼角",
+      "question": "用两个锐角一定能拼出一个钝角。",
+      "options": [],
+      "answer": "错",
+      "explanation": "不一定。例如两个微小的锐角相加可能还是锐角。验算：$10^{\\circ} + 20^{\\circ} = 30^{\\circ}$，仍是锐角。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "画角与拼角",
+      "question": "用一副三角尺上的一个直角和一个锐角，拼成的是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "无法确定"
+      ],
+      "answer": "钝角",
+      "explanation": "直角是 $90^{\\circ}$，锐角大于 $0^{\\circ}$。$90^{\\circ}$ 加上任何一个锐角都会超过 $90^{\\circ}$，所以是钝角。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "画角与拼角",
+      "question": "在一个三角形中，最多有几个直角？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "1个",
+      "explanation": "三角形的内角和是 $180^{\\circ}$。如果有2个直角，和就是 $180^{\\circ}$，第三个角就是0度，无法组成三角形。所以最多只有1个直角。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "画角与拼角",
+      "question": "用尺子画角时，第一步通常是先画一个什么？",
+      "options": [
+        "一条边",
+        "一个顶点",
+        "一个圆圈",
+        "两条边"
+      ],
+      "answer": "一个顶点",
+      "explanation": "画角的规范步骤是：先画一个点（顶点），再从这个点出发向不同的方向画出两条线（边）。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "画角与拼角",
+      "question": "用一副三角尺（一个含有 $45^{\\circ}$ ，另一个含有 $30^{\\circ}$ 和 $60^{\\circ}$ ），能拼出的最大角是 ___ 度。",
+      "options": [],
+      "answer": "150",
+      "explanation": "一副三角尺中最大的两个角分别是 $90^{\\circ}$ 和 $60^{\\circ}$。拼在一起：$90 + 60 = 150$。验算：$90+45=135$，$60+45=105$，均比150小。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "画角与拼角",
+      "question": "计算：$45 + 45 = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$45 + 45 = 90$。验算：$90 - 45 = 45$ ✓。这代表两个 $45^{\\circ}$ 的角可以拼成一个直角。"
+    }
+  ],
+  "knowledge": {
+    "point": "画角与拼角",
+    "core_concept": "画角要用尺。先点一个点，再从这一点开始往两个方向画线。拼角则是把两个三角尺上的角靠在一起，顶点对齐，边也对齐。两个锐角合起来可能是锐角、直角或者钝角。",
+    "key_formula": "拼成的角程度 = 第一个角 + 第二个角",
+    "common_mistakes": [
+      "画角时边画得不直，或者没有从同一个顶点出发",
+      "拼角时两个角的顶点没对齐"
+    ],
+    "tips": "画角要‘一落笔、二画线、三标号’。拼角时，要把两个三角尺紧紧贴在一起不能留缝隙哦。"
+  }
+}

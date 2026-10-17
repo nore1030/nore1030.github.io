@@ -1,0 +1,32 @@
+{
+  "id": "english-g3up-u6-kp24",
+  "title": "短语互译",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "短语互译",
+      "question": "将下列短语与中文意思连线。",
+      "options": [
+        "so many",
+        "this one",
+        "how many",
+        "how old",
+        "多大",
+        "多少",
+        "这个",
+        "这么多"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "so many-这么多, this one-这个, how many-多少, how old-多大。"
+    }
+  ],
+  "knowledge": null
+}

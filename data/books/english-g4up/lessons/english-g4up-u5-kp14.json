@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp14",
+  "title": "介词搭配",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 10,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "Pass ___ the bowl.",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "动词pass后接人称代词宾格形式me。"
+    }
+  ],
+  "knowledge": null
+}

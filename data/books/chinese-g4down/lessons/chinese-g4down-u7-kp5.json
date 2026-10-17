@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp5",
+  "title": "词语释义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "“洛阳亲友如相问，一片冰心在玉壶”中，“冰心”指冰凉的心。",
+      "options": [],
+      "answer": "错",
+      "explanation": "‘冰心’喻指纯洁的心，而非温度低。"
+    }
+  ],
+  "knowledge": null
+}

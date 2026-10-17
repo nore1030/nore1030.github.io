@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp24",
+  "title": "板块数量",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "板块数量",
+      "question": "地球的岩石圈并不是一个整体，而是由（ ）大板块拼合而成的。",
+      "options": [],
+      "answer": "6",
+      "explanation": "科学界公认地球岩石圈分为六大板块。"
+    }
+  ],
+  "knowledge": null
+}

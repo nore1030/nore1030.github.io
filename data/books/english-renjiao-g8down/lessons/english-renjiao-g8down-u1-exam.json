@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时的构成与用法",
+      "question": "—___ you finished the project? — Yes, I ___.",
+      "options": [
+        "Did; have",
+        "Have; have",
+        "Do; do",
+        "Have; did"
+      ],
+      "answer": "Have; have",
+      "explanation": "疑问与回答都用完成时。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "非延续性动词与延续性动词",
+      "question": "He ___ in this city for ten years, so he knows it well.",
+      "options": [
+        "has come",
+        "has been",
+        "came",
+        "comes"
+      ],
+      "answer": "has been",
+      "explanation": "come 换成 be 才是延续性。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时的构成与用法",
+      "question": "since 后接时间点，for 后接时间段。",
+      "options": [],
+      "answer": "对",
+      "explanation": "since/for 区别。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "非延续性动词与延续性动词",
+      "question": "“他来了三天了”不能直译为 He has come for three days。",
+      "options": [],
+      "answer": "对",
+      "explanation": "要改为 He has been here for three days。"
+    }
+  ],
+  "knowledge": null
+}

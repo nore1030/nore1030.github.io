@@ -1,0 +1,47 @@
+{
+  "id": "moral-g7up-u3-kp2",
+  "title": "未成年人的法律保护",
+  "bookId": "moral-g7up",
+  "unitNumber": 3,
+  "unitTitle": "法律与法治初步",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "未成年人的法律保护",
+      "question": "我国对未成年人的保护不包括（　）",
+      "options": [
+        "家庭保护",
+        "学校保护",
+        "网络保护",
+        "企业保护"
+      ],
+      "answer": "企业保护",
+      "explanation": "六大保护中无企业保护。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "未成年人的法律保护",
+      "question": "未成年人应增强自我保护意识。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自我保护很重要。"
+    }
+  ],
+  "knowledge": {
+    "point": "未成年人的法律保护",
+    "core_concept": "未成年人保护法规定了家庭保护、学校保护、社会保护、网络保护、政府保护、司法保护六大保护。未成年人要增强自我保护意识。",
+    "key_formula": "六大保护",
+    "common_mistakes": [
+      "只知家庭保护。"
+    ],
+    "tips": "六大保护缺一不可。"
+  }
+}

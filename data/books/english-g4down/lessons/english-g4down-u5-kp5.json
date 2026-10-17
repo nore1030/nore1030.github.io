@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u5-kp5",
+  "title": "单复数搭配",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 1,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单复数搭配",
+      "question": "当描述两个及以上的'帽子'时，应该说 'two hats'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "可数名词复数需要在词尾加s。"
+    }
+  ],
+  "knowledge": null
+}

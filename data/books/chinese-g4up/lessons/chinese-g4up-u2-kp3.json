@@ -1,0 +1,123 @@
+{
+  "id": "chinese-g4up-u2-kp3",
+  "title": "科学实验逻辑与原理解析",
+  "bookId": "chinese-g4up",
+  "unitNumber": 2,
+  "unitTitle": "提问策略",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "雷达发出的无线电波遇到障碍物反映回来，显示在荧光屏上，这和蝙蝠探路原理是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "雷达的无线电波相当于蝙蝠的超声波，这是典型的仿生学应用。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "《一个豆荚里的五粒豆》中的第五粒豆让生病的小女孩感到愉快，对生活充满了希望。",
+      "options": [],
+      "answer": "对",
+      "explanation": "豌豆的顽强生命力感染了小女孩，使其身体逐渐康复。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "在蝙蝠实验中，科学家蒙住蝙蝠的（  ），它依然能安全飞行。",
+      "options": [
+        "嘴巴",
+        "耳朵",
+        "眼睛",
+        "头部"
+      ],
+      "answer": "眼睛",
+      "explanation": "蝙蝠夜行靠的是听觉（超声波），不是视觉。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "下列关于雷达与蝙蝠的对应关系，错误的是：",
+      "options": [
+        "天线——嘴巴",
+        "无线电波——超声波",
+        "荧光屏——耳朵",
+        "雷达——蝙蝠"
+      ],
+      "answer": "荧光屏——耳朵",
+      "explanation": "荧光屏是显示结果的，而耳朵是接收信号的对应物。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "《夜间飞行的秘密》原文题目曾叫《蝙蝠和（    ）》。",
+      "options": [],
+      "answer": "雷达",
+      "explanation": "文章主要讲述了从蝙蝠身上得到启示发明雷达的过程。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "请将科学发现或发明与其启示来源连接起来。",
+      "options": [
+        "雷达",
+        "直升机",
+        "潜水艇",
+        "超声波诊断仪",
+        "蝙蝠",
+        "鱼类",
+        "蜻蜓",
+        "海豚"
+      ],
+      "answer": "A-1,B-3,C-2,D-4",
+      "explanation": "考查仿生学的科学常识。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "请将词语排成关于蝙蝠飞行的句子。",
+      "options": [
+        "蝙蝠",
+        "灵巧地",
+        "在夜里",
+        "能够",
+        "飞行"
+      ],
+      "answer": "蝙蝠,在夜里,能够,灵巧地,飞行",
+      "explanation": "主语+状语+谓语的基本句式。"
+    }
+  ],
+  "knowledge": {
+    "point": "科学实验逻辑与原理解析",
+    "core_concept": "通过《夜间飞行的秘密》学习科学小品文的逻辑。理解科学家如何通过“提出疑问—进行实验—得出结论—发明创造”这一严谨过程开展研究。特别是掌握蝙蝠（嘴、超声波、耳朵）与雷达（天线、无线电波、荧光屏）之间的仿生对应关系。",
+    "key_formula": "仿生逻辑：生物特征 -> 科学实验 -> 人类发明",
+    "common_mistakes": [
+      "错认为雷达模仿的是蝙蝠的眼睛",
+      "混淆了嘴巴对应天线、耳朵对应荧光屏的具体关系"
+    ],
+    "tips": "可以画一个简单的对比草图，左边画蝙蝠，右边画雷达，用直线连接对应的器官和零件。"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "g4up-u9-kp2",
+  "title": "图形与几何综合复习",
+  "bookId": "g4up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "直线没有端点，射线有一个端点，线段有两个端点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据线、射线和直线的定义。直线无限延长无端点；射线从一点引出，有一个端点；线段连接两点，有两个端点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "平行四边形具有稳定性。",
+      "options": [],
+      "answer": "错",
+      "explanation": "平行四边形具有易变形性（不稳定），三角形才具有稳定性。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "在同一平面内，两条直线不平行就一定垂直。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在同一平面内，两条直线的位置关系有平行和相交。相交中包含垂直，但不垂直也可以相交。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "用一副三角板可以拼出的角度是（ ）。",
+      "options": [
+        "70度",
+        "75度",
+        "80度",
+        "100度"
+      ],
+      "answer": "75度",
+      "explanation": "三角板的度数有 30°、45°、60°、90°。$30 + 45 = 75$度，因此 75度可以拼出。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "从直线外一点到这条直线所画的线段中，（ ）最短。",
+      "options": [
+        "射线",
+        "斜线段",
+        "垂直线段",
+        "直线"
+      ],
+      "answer": "垂直线段",
+      "explanation": "数学基本性质：点到直线的距离，垂直线段最短。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "下列图形中，只有一组对边平行的是（ ）。",
+      "options": [
+        "平行四边形",
+        "长方形",
+        "梯形",
+        "正方形"
+      ],
+      "answer": "梯形",
+      "explanation": "只有一组对边平行的四边形叫做梯形。平行四边形有两组对边平行。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "用量角器量角时，中心点要与（ ）重合。",
+      "options": [
+        "一条边",
+        "另一条边",
+        "顶点",
+        "随便哪一点"
+      ],
+      "answer": "顶点",
+      "explanation": "测量角度的步骤：量角器的中心点与角的顶点重合，0刻度线与角的一条边重合。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形与几何综合复习",
+    "core_concept": "复习线段、射线、直线的区别；掌握角的分类（锐、直、钝、平、周角）；理解平行线和垂直线的定义，以及平行四边形和梯形的特征。",
+    "key_formula": "平角 = 180°，周角 = 360°，1周角 = 2平角 = 4直角",
+    "common_mistakes": [
+      "混淆平行四边形和梯形的定义",
+      "认为点到直线的距离是斜线段长度"
+    ],
+    "tips": "可以利用一副三角板拼出 15 倍数的各种角度。"
+  }
+}

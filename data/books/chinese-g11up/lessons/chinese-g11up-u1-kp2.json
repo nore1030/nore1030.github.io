@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11up-u1-kp2",
+  "title": "古典诗歌鉴赏",
+  "bookId": "chinese-g11up",
+  "unitNumber": 1,
+  "unitTitle": "中华文化与古典诗歌",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "古典诗歌鉴赏",
+      "question": "“大江东去，浪淘尽，千古风流人物”风格属于（　）",
+      "options": [
+        "豪放",
+        "婉约",
+        "恬淡",
+        "田园"
+      ],
+      "answer": "豪放",
+      "explanation": "苏轼豪放词。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "古典诗歌鉴赏",
+      "question": "鉴赏诗歌要关注典故的情感指向。",
+      "options": [],
+      "answer": "对",
+      "explanation": "典故用法。"
+    }
+  ],
+  "knowledge": {
+    "point": "古典诗歌鉴赏",
+    "core_concept": "诗歌风格有豪放、婉约、恬淡、沉郁等。鉴赏要抓住意象、典故、意象组合与表达技巧。",
+    "key_formula": "意象 + 典故 + 风格",
+    "common_mistakes": [
+      "把典故当普通词义。"
+    ],
+    "tips": "典故往往暗含情感。"
+  }
+}

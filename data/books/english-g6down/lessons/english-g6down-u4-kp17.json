@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp17",
+  "title": "名词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名词辨析",
+      "question": "People can see many stars in the ______ at night.",
+      "options": [
+        "gym",
+        "dining hall",
+        "sky",
+        "grass"
+      ],
+      "answer": "sky",
+      "explanation": "星星通常出现在天空（sky）中。"
+    }
+  ],
+  "knowledge": null
+}

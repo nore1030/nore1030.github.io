@@ -1,0 +1,151 @@
+{
+  "id": "g3up-u9-kp2",
+  "title": "重叠问题的计算逻辑",
+  "bookId": "g3up",
+  "unitNumber": 9,
+  "unitTitle": "数学广角——集合",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "计算两队总人数时，只要把两队的人数直接相加就可以了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "如果有人同时属于两个队，直接相加会导致重叠部分被重复计算。正确公式应为：A队 + B队 - 重叠人数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "如果甲集合的人数是8人，乙集合的人数是7人，他们中间没有重复的人，则总人数是15人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "重叠人数为0时，总数等于 A + B。$8 + 7 = 15$。验算：$15 - 0 = 15$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "小明排队从前往后数排第5，从后往前数排第7，这队一共有多少人？",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "answer": "11",
+      "explanation": "公式：前 + 后 - 1。$5 + 7 = 12$，小明自己被数了两次，所以 $12 - 1 = 11$人。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "两根长度均为10厘米的纸条，重叠3厘米后连成一根，新的纸条总长是多少厘米？",
+      "options": [
+        "20",
+        "13",
+        "17",
+        "7"
+      ],
+      "answer": "17",
+      "explanation": "总长 = $10 + 10 - 3 = 17$厘米。验算：$17 + 3 = 20$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "有两块木板共长100厘米，将它们钉在一起。钉在一起后的总长是80厘米，重叠的部分长多少厘米？",
+      "options": [
+        "20",
+        "10",
+        "180",
+        "40"
+      ],
+      "answer": "20",
+      "explanation": "重叠长 = 两木板和 - 钉后全长。$100 - 80 = 20$厘米。验算：$80 + 20 = 100$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "三年级两个班举行足球赛，一班出11人，二班出11人。除了这两班各出一人当裁判外（裁判不踢球），场上一共有多少个球员？",
+      "options": [
+        "22",
+        "20",
+        "10",
+        "11"
+      ],
+      "answer": "20",
+      "explanation": "每个班11个人里减去1个裁判。$11 - 1 = 10$人踢球。$10 + 10 = 20$人。验算：$20 + 2 = 22$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "昨天进了一批货，有 8 种蔬菜，今天进了 5 种蔬菜。其中有 3 种蔬菜是重复进的。这两天一共进了 ___ 种蔬菜。",
+      "options": [],
+      "answer": "10",
+      "explanation": "列式：$8 + 5 - 3 = 10$。验算：$10 + 3 = 13$，$8 + 5 = 13$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "路边种了一排树。从小红家门口往右数，第 9 棵是柳树；从学校门口往左数（只有这一排树），第 6 棵也是这棵柳树。这排树一共有 ___ 棵。",
+      "options": [],
+      "answer": "14",
+      "explanation": "列式：$9 + 6 - 1 = 14$。说明：柳树在两个方向都被数了一次，需排除。验算：$14 + 1 = 15$，$9 + 6 = 15$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "计算：$15 + 20 - 4 = ?$",
+      "options": [],
+      "answer": "31",
+      "explanation": "$15 + 20 = 35$，$35 - 4 = 31$。确认 answer 为 31。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "计算：$48 + 52 - 100 = ?$",
+      "options": [],
+      "answer": "0",
+      "explanation": "$48 + 52 = 100$，$100 - 100 = 0$。确认 answer 为 0。"
+    }
+  ],
+  "knowledge": {
+    "point": "重叠问题的计算逻辑",
+    "core_concept": "在解决关于两个集合的计数问题时，如果将两个集合的人数或物数直接相加，那么中间共同的部分就被计算了两次。为了得到准确的总数，必须从加和中减去重复计算的一次。",
+    "key_formula": "$A + B - 重叠部分 = 总数$",
+    "common_mistakes": [
+      "排队问题中数了两次同一个人却忘记减1",
+      "重复计算了两次重叠部分导致结果偏大"
+    ],
+    "tips": "口诀：‘两数相加减重复’。看到‘两项都参加’、‘既...又...’、‘重复’等词语就要想到减法。"
+  }
+}

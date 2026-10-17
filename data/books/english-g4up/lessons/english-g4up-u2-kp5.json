@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u2-kp5",
+  "title": "句型识别",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "句型识别",
+      "question": "当你想询问书包里有什么时，可以说：'What's in your schoolbag?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "What's in... 句型用于询问某处有什么物品。"
+    }
+  ],
+  "knowledge": null
+}

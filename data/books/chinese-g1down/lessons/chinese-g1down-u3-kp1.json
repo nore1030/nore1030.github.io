@@ -1,0 +1,79 @@
+{
+  "id": "chinese-g1down-u3-kp1",
+  "title": "音序查字法步骤",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 0,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "音序查字法步骤",
+      "question": "用音序查字法查“河”字，应先找大写字母“H”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "查字典第一步是找首字母大写，“河”的音节是he，首字母是H。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "音序查字法步骤",
+      "question": "在音序查字法中，字母“R”的后面一个是“T”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "按照字母表顺序，R后面是S，T在S的后面。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音序查字法步骤",
+      "question": "查字典时，查到音序“L”后，接下来应该找音节：",
+      "options": [
+        "le",
+        "he",
+        "me",
+        "ne"
+      ],
+      "answer": "le",
+      "explanation": "音序L对应的音节首字母必须是l。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音序查字法步骤",
+      "question": "请将大写字母与对应的小写字母连线。",
+      "options": [
+        "G",
+        "H",
+        "R",
+        "Q",
+        "h",
+        "g",
+        "q",
+        "r"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考查大小写字母的一一对应。"
+    }
+  ],
+  "knowledge": {
+    "point": "音序查字法步骤",
+    "core_concept": "音序查字法是利用汉字的读音来查字典的方法。第一步：认清首字母，并在“汉语拼音音节索引”中找到对应の大写字母。第二步：在该大写字母下找到要查字的音节及页码。第三步：翻到对应的页码，根据声调顺序找到汉字。",
+    "key_formula": "找大写字母 -> 找音节 -> 找页码",
+    "common_mistakes": [
+      "把小写字母当做音序",
+      "字母表顺序不熟导致找错字母"
+    ],
+    "tips": "可以背诵音序歌：A B C D E F G, H I J K L M N..."
+  }
+}

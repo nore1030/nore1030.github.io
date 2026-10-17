@@ -1,0 +1,47 @@
+{
+  "id": "g9up-u3-kp1",
+  "title": "圆的基本性质",
+  "bookId": "g9up",
+  "unitNumber": 3,
+  "unitTitle": "圆",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的基本性质",
+      "question": "同圆中，相等的圆心角所对的弦（　）",
+      "options": [
+        "相等",
+        "不相等",
+        "互补",
+        "无法确定"
+      ],
+      "answer": "相等",
+      "explanation": "同圆等圆心角对等弦。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆的基本性质",
+      "question": "半径为 5 的圆中，弦心距为 3，则弦长是多少？",
+      "options": [],
+      "answer": "8",
+      "explanation": "半弦 $=\\sqrt{25-9}=4$，弦长 8。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆的基本性质",
+    "core_concept": "同圆或等圆中，相等的圆心角所对的弧相等、弦相等。垂直于弦的直径平分这条弦，并平分弦所对的两条弧。",
+    "key_formula": "垂径定理：$d^2+(\\frac l2)^2=r^2$",
+    "common_mistakes": [
+      "忘记垂径定理要求直径垂直于弦。"
+    ],
+    "tips": "作弦心距是常见辅助线。"
+  }
+}

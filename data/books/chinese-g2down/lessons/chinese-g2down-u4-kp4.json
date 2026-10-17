@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g2down-u4-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 3,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，描写心情“非常生气”的是哪一个？",
+      "options": [
+        "喜出望外",
+        "垂头丧气",
+        "愤怒不已",
+        "兴高采烈"
+      ],
+      "answer": "愤怒不已",
+      "explanation": "“愤怒”表示非常生气，而“喜出望外”和“兴高采烈”表示开心，“垂头丧气”表示失望或丧气。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "请将颜色名与它们的代表词语连接起来。",
+      "options": [
+        "碧",
+        "火",
+        "葱",
+        "雪",
+        "红",
+        "绿",
+        "白",
+        "青"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "碧绿，火红，葱郁（青色），雪白。"
+    }
+  ],
+  "knowledge": null
+}

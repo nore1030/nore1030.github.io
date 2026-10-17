@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp25",
+  "title": "陈述句语序",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句语序",
+      "question": "把给出的单词排成一句话。",
+      "options": [
+        "stayed",
+        "I",
+        "at",
+        "home"
+      ],
+      "answer": "I,stayed,at,home",
+      "explanation": "标准陈述句结构：主语+谓语+地点。"
+    }
+  ],
+  "knowledge": null
+}

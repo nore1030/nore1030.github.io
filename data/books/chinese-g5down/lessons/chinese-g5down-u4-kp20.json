@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp20",
+  "title": "古诗常识",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 16,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗常识",
+      "question": "“闻官军收河南河北”中的“闻”字是（___）的意思。",
+      "options": [],
+      "answer": "听到",
+      "explanation": "闻在古文中常指听见。"
+    }
+  ],
+  "knowledge": null
+}

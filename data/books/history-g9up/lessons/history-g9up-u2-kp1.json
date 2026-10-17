@@ -1,0 +1,47 @@
+{
+  "id": "history-g9up-u2-kp1",
+  "title": "近代社会生活与教育文化",
+  "bookId": "history-g9up",
+  "unitNumber": 2,
+  "unitTitle": "近代社会与革命道路",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "近代社会生活与教育文化",
+      "question": "近代中国社会生活变化的表现不包括（　）",
+      "options": [
+        "西餐传入",
+        "近代交通工具出现",
+        "剪辫易服",
+        "仍只有传统方式"
+      ],
+      "answer": "仍只有传统方式",
+      "explanation": "近代生活已变化。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "近代社会生活与教育文化",
+      "question": "近代交通工具改变了人们的出行方式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "交通近代化。"
+    }
+  ],
+  "knowledge": {
+    "point": "近代社会生活与教育文化",
+    "core_concept": "近代以后，西方列强侵略与社会变革推动中国近代化进程，社会生活、交通、教育、文化发生深刻变化。",
+    "key_formula": "近代化推动社会变迁",
+    "common_mistakes": [
+      "认为近代化止于器物层面。"
+    ],
+    "tips": "社会变迁面广。"
+  }
+}

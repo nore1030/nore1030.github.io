@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u1-kp5",
+  "title": "度量衡单位",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 1,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "度量衡单位",
+      "question": "'kilogram' 翻译成中文是 '千克/公斤'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "kilogram是质量单位千克。"
+    }
+  ],
+  "knowledge": null
+}

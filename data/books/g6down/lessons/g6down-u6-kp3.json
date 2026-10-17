@@ -1,0 +1,64 @@
+{
+  "id": "g6down-u6-kp3",
+  "title": "统计图分析与概率决策",
+  "bookId": "g6down",
+  "unitNumber": 6,
+  "unitTitle": "整理和复习",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计图分析与概率决策",
+      "question": "一组数据的平均数代表了这组数据的平均水平，它不容易受极端值的影响。",
+      "options": [],
+      "answer": "错",
+      "explanation": "平均数非常容易受到极端值的影响，中位数才是较稳定的代表。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图分析与概率决策",
+      "question": "要反映某市去年一年各月降水量的变化情况，选哪种统计图最合适？",
+      "options": [
+        "条形统计图",
+        "折线统计图",
+        "扇形统计图",
+        "统计表"
+      ],
+      "answer": "折线统计图",
+      "explanation": "折线统计图最擅长表现数量的增减变化趋势。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图分析与概率决策",
+      "question": "盒子里有 5 个红球，3 个黄球，2 个白球，任意摸一个，摸到哪种球的可能性大？",
+      "options": [
+        "红球",
+        "黄球",
+        "白球",
+        "无法确定"
+      ],
+      "answer": "红球",
+      "explanation": "红球数量最多，摸到的概率为 5/10，最大。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计图分析与概率决策",
+    "core_concept": "对比条形、折线、扇形统计图。条形看数量多少，折线看变化趋势，扇形看占比。理解平均数、中位数、众数。了解事件发生的可能性大小。",
+    "key_formula": "平均数 = 总数量 $\\div$ 总份数",
+    "common_mistakes": [
+      "根据局部数据盲目预测趋势",
+      "认为可能性小的事情就绝对不会发生"
+    ],
+    "tips": "先看图例名和坐标单位再分析。平均数易受极端值（极大或极小）干扰。"
+  }
+}

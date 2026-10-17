@@ -1,0 +1,91 @@
+{
+  "id": "g6up-u1-kp4",
+  "title": "分数乘法混合运算与简便计算",
+  "bookId": "g6up",
+  "unitNumber": 1,
+  "unitTitle": "分数乘法",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "$\\frac{1}{2} - \\frac{1}{2} \\times \\frac{1}{3} = 0$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "按照运算顺序，应先算乘法再算减法。$\\frac{1}{2} - \\frac{1}{6} = \\frac{1}{3}$，而不是 0。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "计算 $48 \\times (\\frac{1}{6} + \\frac{1}{8})$ 时，使用哪种方法最简便？",
+      "options": [
+        "乘法分配律",
+        "乘法交换律",
+        "乘法结合律",
+        "先通分再乘"
+      ],
+      "answer": "乘法分配律",
+      "explanation": "由于 48 是 6 和 8 的倍数，使用分配律 $48 \\times \\frac{1}{6} + 48 \\times \\frac{1}{8} = 8 + 6 = 14$ 非常简便。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "$( \\frac{1}{4} + \\frac{1}{8} ) \\times 32$ 的计算结果是多少？",
+      "options": [
+        "12",
+        "8",
+        "4",
+        "32"
+      ],
+      "answer": "12",
+      "explanation": "$\\frac{1}{4} \\times 32 + \\frac{1}{8} \\times 32 = 8 + 4 = 12$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "下列算式中，结果最大的是：",
+      "options": [
+        "$12 \\times (1 + \\frac{1}{3})$",
+        "$12 \\times (1 - \\frac{1}{3})$",
+        "$12 \\times \\frac{1}{3}$",
+        "$12 \\times 1$"
+      ],
+      "answer": "$12 \\times (1 + \\frac{1}{3})$",
+      "explanation": "$12 \\times \\frac{4}{3} = 16$ 为最大项。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "计算：$25 \\times \\frac{4}{5} \\times 5 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$25 \\times \\frac{4}{5} \\times 5$。先算 $\\frac{4}{5} \\times 5 = 4$。再算 $25 \\times 4 = 100$。验算：$100 \\div 5 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数乘法混合运算与简便计算",
+    "core_concept": "分数乘法混合运算的顺序与整数一致：先乘除后加减，有括号先算括号。整数的运算定律（交换律、结合律、分配律）在分数运算中同样有效，能使计算变得非常快捷。",
+    "key_formula": "$a \\times (b + c) = a \\times b + a \\times c$",
+    "common_mistakes": [
+      "分配律带符号错误，如括号里是减号却用了加号",
+      "计算顺序颠倒"
+    ],
+    "tips": "观察题目，如果有括号且括弧外的数是分母的公倍数，优先考虑分配律。"
+  }
+}

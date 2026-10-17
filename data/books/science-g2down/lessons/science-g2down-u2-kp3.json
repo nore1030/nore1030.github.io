@@ -1,0 +1,55 @@
+{
+  "id": "science-g2down-u2-kp3",
+  "title": "综合运用感官进行观察与比较",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "综合运用感官进行观察与比较",
+      "question": "如果我们只用眼睛观察，就能知道杯子里的液体是酸的还是甜的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "味道需要通过味觉器官（舌头）来感知，眼睛只能看到颜色。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合运用感官进行观察与比较",
+      "question": "在“翻拍手”游戏中，我们主要训练的是（___）。",
+      "options": [
+        "记忆力",
+        "反应速度",
+        "观察力",
+        "逻辑能力"
+      ],
+      "answer": "反应速度",
+      "explanation": "翻拍手游戏需要根据对方动作迅速做出避让或拍打，是反应能力的体现。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合运用感官进行观察与比较",
+      "question": "当我们闭上眼睛，只通过触摸来分辨桔子和苹果时，（___）不起作用。",
+      "options": [
+        "视觉",
+        "触觉",
+        "嗅觉",
+        "听觉"
+      ],
+      "answer": "视觉",
+      "explanation": "闭上眼睛即关闭了视觉通道。"
+    }
+  ],
+  "knowledge": null
+}

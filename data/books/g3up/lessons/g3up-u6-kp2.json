@@ -1,0 +1,129 @@
+{
+  "id": "g3up-u6-kp2",
+  "title": "笔算乘法（一般进位与连续进位）",
+  "bookId": "g3up",
+  "unitNumber": 6,
+  "unitTitle": "多位数乘一位数",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "一个多位数乘一位数，积一定是多位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两位数及以上的数乘一位数（非0），最小是 $10 \times 1 = 10$，结果至少是两位数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "三位数乘一位数，积可能是四位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如 $500 \times 2 = 1000$，1000是四位数。所以积可能是四位数。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "$24 \times 3$ 的结果是多少？",
+      "options": [
+        "62",
+        "72",
+        "612",
+        "52"
+      ],
+      "answer": "72",
+      "explanation": "个位 $4 \times 3 = 12$，向十位进1，个位写2；十位 $2 \times 3 = 6$，加上进位的1得7。结果是72。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "一个三位数乘一位数，积最少是几位数？",
+      "options": [
+        "两位数",
+        "三位数",
+        "四位数",
+        "五位数"
+      ],
+      "answer": "三位数",
+      "explanation": "最小的三位数是100，最小的一位数（不含0）是1，$100 \times 1 = 100$，是三位数。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "$125 \times 8$ 的积的末尾有几个 0？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "3 个",
+      "explanation": "$125 \times 8 = 1000$，末尾有三个0。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "要使 $231 \times \text{ ┱}$ 的积是三位数，$\text{ ┱}$里最大填几？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "9"
+      ],
+      "answer": "4",
+      "explanation": "$231 \times 4 = 924$（三位数），$231 \times 5 = 1155$（四位数），所以最大填4。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "小明每天看 12 页书，一个星期（7天）一共看了 ___ 页。",
+      "options": [],
+      "answer": "84",
+      "explanation": "一星期7天。列式：$12 \times 7 = 84$。验算：$84 \text{  } / \text{  } 7 = 12$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "$212 \times 3 = ?$",
+      "options": [],
+      "answer": "636",
+      "explanation": "$200 \times 3 = 600$，$12 \times 3 = 36$，$600 + 36 = 636$。验算：$636 \text{  } / \text{  } 3 = 212$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "笔算乘法（一般进位与连续进位）",
+    "core_concept": "笔算多位数乘一位数时，相同数位对齐，从个位乘起。用一位数依次去乘多位数每一个数位上的数。哪一位上乘得的积满几十，就要向前一位进几。",
+    "key_formula": "积 = 因数 \times 因数（从个位乘起，满十进一）",
+    "common_mistakes": [
+      "忘记加进位上的数，导致结果偏小",
+      "错将进位数与下一位相乘，而不是相加"
+    ],
+    "tips": "进位的数字要写小一点，写在对应数位的左下角，计算完下一位后立刻把它加进去。"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g4down-u4-kp16",
+  "title": "词汇匹配",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇匹配",
+      "question": "请将单词与其对应的中文意思连线。",
+      "options": [
+        "potato",
+        "goat",
+        "hen",
+        "onion",
+        "山羊",
+        "洋葱",
+        "母鸡",
+        "土豆"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "potato-土豆, goat-山羊, hen-母鸡, onion-洋葱。"
+    }
+  ],
+  "knowledge": null
+}

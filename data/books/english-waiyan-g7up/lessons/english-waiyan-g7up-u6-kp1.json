@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u6-kp1",
+  "title": "一般现在时三单疑问句",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Module 6 A trip to the zoo 动物园之旅",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般现在时三单疑问句",
+      "question": "— ___ it eat meat? — Yes, it does.",
+      "options": [
+        "Does",
+        "Do",
+        "Is",
+        "Has"
+      ],
+      "answer": "Does",
+      "explanation": "三单用 does。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般现在时三单疑问句",
+      "question": "does 后面动词用（　）",
+      "options": [
+        "原形",
+        "三单",
+        "过去式",
+        "-ing"
+      ],
+      "answer": "原形",
+      "explanation": "does 后原形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一般现在时三单疑问句",
+      "question": "does 用于第三人称单数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "he/she/it。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般现在时三单疑问句",
+    "core_concept": "三单疑问句用 Does 开头，动词回原形；答语 Yes, it does. / No, it doesn't.",
+    "key_formula": "Does it eat meat? — Yes, it does.",
+    "common_mistakes": [
+      "Does 后动词仍用三单。"
+    ],
+    "tips": "does 后永远原形。"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u4-kp1",
+  "title": "情态动词 can / can't",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 4 I can jump 我能行",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 can / can't",
+      "question": "— Can you run fast? — ___",
+      "options": [
+        "Yes, I can.",
+        "Yes, I do.",
+        "Yes, I am.",
+        "Yes, I can't."
+      ],
+      "answer": "Yes, I can.",
+      "explanation": "can 问 can 答。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 can / can't",
+      "question": "「我不会跳远。」的英文是（　）",
+      "options": [
+        "I can't jump far.",
+        "I can jump far.",
+        "I can't to jump far.",
+        "I don't can jump far."
+      ],
+      "answer": "I can't jump far.",
+      "explanation": "否定 can't + 原形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 can / can't",
+      "question": "can 表示能力，意思是「能、会」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表能力。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词 can / can't",
+    "core_concept": "can 表示「能、会」，后接动词原形；否定 can't = cannot。问句 Can you…? 答 Yes, I can. / No, I can't.",
+    "key_formula": "Can you run fast? — Yes, I can.",
+    "common_mistakes": [
+      "can 后接 to do 或三单形式。"
+    ],
+    "tips": "can 后永远用原形。"
+  }
+}

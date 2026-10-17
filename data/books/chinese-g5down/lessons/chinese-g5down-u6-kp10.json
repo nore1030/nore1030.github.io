@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u6-kp10",
+  "title": "名言积累",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 9,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名言积累",
+      "question": "下列哪句话最能概括本单元“思维”的主题？",
+      "options": [
+        "敏而好学，不耻下问",
+        "温故而知新",
+        "知之者不如好之者",
+        "因能用数，以取胜"
+      ],
+      "answer": "因能用数，以取胜",
+      "explanation": "这里的“数”指策略和方法，符合《田忌赛马》的思维主题。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g8up-u1-kp2",
+  "title": "描述外貌与特征",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 了解彼此 / Getting to know each other",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述外貌与特征",
+      "question": "She ___ long hair.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "are"
+      ],
+      "answer": "has",
+      "explanation": "第三人称单数用 has。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "描述外貌与特征",
+      "question": "形容词作表语时放在 be 动词之后。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表语位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "描述外貌与特征",
+    "core_concept": "常用描述句型：He is tall and thin. She has long hair. 形容词位置在 be 动词后、名词前。",
+    "key_formula": "be + 形容词 / have + 名词",
+    "common_mistakes": [
+      "has 与 have 混用。"
+    ],
+    "tips": "第三人称单数用 has。"
+  }
+}

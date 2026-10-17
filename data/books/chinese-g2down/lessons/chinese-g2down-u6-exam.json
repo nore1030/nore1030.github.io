@@ -1,0 +1,225 @@
+{
+  "id": "chinese-g2down-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 15,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地质化石与地理变迁的科普认知",
+      "question": "《要是你在野外迷了路》告诉我们，大自然的指南针只要细心观察就能发现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文主旨在于引导学生留心观察自然。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "太空生活失重现象的因果推论",
+      "question": "因为太空中没有氧气，所以宇航员在飞船里会飘来飘去。",
+      "options": [],
+      "answer": "错",
+      "explanation": "飘来飘去是由于“失重”而非缺少氧气。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词读音",
+      "question": "“帮助”的“帮”字拼音是 bāng。",
+      "options": [],
+      "answer": "对",
+      "explanation": "读音正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法识别",
+      "question": "“太阳是个忠实的向导”这句话使用了拟人的修辞手法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "将太阳比作向导，且赋予“忠实”的人化特征。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天然指南针的科学原理辨析",
+      "question": "北极星永远高挂在（）。",
+      "options": [
+        "东方",
+        "西方",
+        "南方",
+        "北方"
+      ],
+      "answer": "北方",
+      "explanation": "基础天文常识。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "太空生活失重现象的因果推论",
+      "question": "在航天飞机里，宇航员睡觉时必须（），不然一睡着就会飘走。",
+      "options": [
+        "盖厚被子",
+        "睁着眼睛",
+        "绑在睡袋里",
+        "躺在床底下"
+      ],
+      "answer": "绑在睡袋里",
+      "explanation": "太空生活中因失重需固定身体。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号",
+      "question": "“你怎么还不去上学呢（）”括号里应填：",
+      "options": [
+        "！",
+        "。",
+        "？",
+        "，"
+      ],
+      "answer": "？",
+      "explanation": "这是一个反问或询问句。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词填空",
+      "question": "选出最合适的一项：一（）彩虹，一（）岩石。",
+      "options": [
+        "道、块",
+        "条、座",
+        "个、粒",
+        "位、种"
+      ],
+      "answer": "道、块",
+      "explanation": "考查量词正确搭配。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词",
+      "question": "“普通”的反义词是（）。",
+      "options": [
+        "一般",
+        "平常",
+        "特殊",
+        "平凡"
+      ],
+      "answer": "特殊",
+      "explanation": "逻辑关系练习。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语结构",
+      "question": "下面的词语中，属于“黑沉沉”这种形式的是：",
+      "options": [
+        "亮晶晶",
+        "干干净净",
+        "一会儿",
+        "努力"
+      ],
+      "answer": "亮晶晶",
+      "explanation": "ABB式词语。"
+    },
+    {
+      "id": 15,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语识别",
+      "question": "形容天气的四字词语：风雨（_____）。",
+      "options": [],
+      "answer": "交加",
+      "explanation": "基础词语积累。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗填空",
+      "question": "接天莲叶无穷碧，映日（_____）别样红。",
+      "options": [],
+      "answer": "荷花",
+      "explanation": "《晓出净慈寺送林子方》名句。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地质化石与地理变迁的科普认知",
+      "question": "大自然的“书”指的是（_____）。",
+      "options": [],
+      "answer": "岩石",
+      "explanation": "出自《要是你在野外迷了路》或相关地质科普内容。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词搭配",
+      "question": "请连接合适的动词和名词：",
+      "options": [
+        "打开",
+        "辨别",
+        "横跨",
+        "寻找",
+        "方向",
+        "窗户",
+        "宝藏",
+        "天空"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "常见动宾搭配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自然景观特征",
+      "question": "连接自然景观与其伴随的特征：",
+      "options": [
+        "雷雨前",
+        "雷雨后",
+        "太空里",
+        "森林里",
+        "彩虹出现",
+        "乌云压顶",
+        "树木茂密",
+        "失重状态"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "综合单元知识点。"
+    }
+  ],
+  "knowledge": null
+}

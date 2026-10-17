@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp5",
+  "title": "拟声词的概念",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "拟声词的概念",
+      "question": "“哗啦啦”常用来形容大雨的声音。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“哗啦啦”是拟声词，常用于模拟雨声或流水声。"
+    }
+  ],
+  "knowledge": null
+}

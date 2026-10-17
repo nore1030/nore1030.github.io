@@ -1,0 +1,59 @@
+{
+  "id": "g1up-u6-kp1",
+  "title": "计数单位“十”与数位认识",
+  "bookId": "g1up",
+  "unitNumber": 6,
+  "unitTitle": "11~20各数的认识",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计数单位“十”与数位认识",
+      "question": "从右边起，第一位是个位，第二位是十位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据数位顺序表，右起第一位是个位，第二位是十位。这是基础定义说明。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计数单位“十”与数位认识",
+      "question": "2个十是20。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1个十是10，2个十就是 $10 + 10 = 20$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计数单位“十”与数位认识",
+      "question": "十位上是 1，个位上是 5，这个数是：",
+      "options": [
+        "51",
+        "15",
+        "11",
+        "5"
+      ],
+      "answer": "15",
+      "explanation": "十位是1表示1个十，个位是5表示5个一，组合起来是15。"
+    }
+  ],
+  "knowledge": {
+    "point": "计数单位“十”与数位认识",
+    "core_concept": "理解个位和十位的含义。10个一合起来是一个“十”，在计数器上，十位上的一个珠子表示1个十，个位上的一个颗珠子表示1个一。右边起第一位是个位，第二位是十位。",
+    "key_formula": "$10个一 = 1个十$",
+    "common_mistakes": [
+      "分不清数位顺序，以为左边起第一位是个位。",
+      "理解偏差，认为20个一就是1个十。"
+    ],
+    "tips": "可以通过捆小棒的方法来记忆，10根捆成一捆，一捆就代表一个十。"
+  }
+}

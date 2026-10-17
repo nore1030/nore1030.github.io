@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp19",
+  "title": "汉字书写",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 15,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉字书写",
+      "question": "“摩天”的“摩”字笔画多，它的部首是（___）。",
+      "options": [],
+      "answer": "手",
+      "explanation": "摩字的下半部分是“手”。"
+    }
+  ],
+  "knowledge": null
+}

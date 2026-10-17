@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u6-kp4",
+  "title": "字词读音",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 3,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词读音",
+      "question": "“肆无忌惮”的“惮”字读音是 dàn。",
+      "options": [],
+      "answer": "对",
+      "explanation": "惮字读音为第四声。"
+    }
+  ],
+  "knowledge": null
+}

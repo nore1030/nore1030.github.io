@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u4-kp6",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 5,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘黎明的时候，雨突然大了。像泼。像倒。’这句话采用的修辞是：",
+      "options": [
+        "拟人",
+        "比喻",
+        "反问",
+        "夸张"
+      ],
+      "answer": "比喻",
+      "explanation": "将大雨比作‘泼’‘倒’，形象地写出了雨势急促惨烈。"
+    }
+  ],
+  "knowledge": null
+}

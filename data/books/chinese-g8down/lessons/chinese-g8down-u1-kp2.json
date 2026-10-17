@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8down-u1-kp2",
+  "title": "古代诗歌鉴赏",
+  "bookId": "chinese-g8down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与游记",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古代诗歌鉴赏",
+      "question": "“杨柳”常用来表达（　）",
+      "options": [
+        "惜别之情",
+        "喜迎丰收",
+        "愤怒",
+        "田园闲适"
+      ],
+      "answer": "惜别之情",
+      "explanation": "柳与别离相关。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古代诗歌鉴赏",
+      "question": "诗歌鉴赏要结合全诗理解意象的情感。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结合全诗分析。"
+    }
+  ],
+  "knowledge": {
+    "point": "古代诗歌鉴赏",
+    "core_concept": "诗歌鉴赏要抓住意象、意境和情感。常见意象如月、雁、杨柳各有固定情感指向，要结合全诗具体分析。",
+    "key_formula": "意象 + 意境 + 情感",
+    "common_mistakes": [
+      "套用情感不结合文本。"
+    ],
+    "tips": "一切景语皆情语。"
+  }
+}

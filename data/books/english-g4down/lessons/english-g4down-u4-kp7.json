@@ -1,0 +1,39 @@
+{
+  "id": "english-g4down-u4-kp7",
+  "title": "询问数量",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问数量",
+      "question": "How ________ horses do you have?",
+      "options": [
+        "much",
+        "any",
+        "many",
+        "old"
+      ],
+      "answer": "many",
+      "explanation": "询问可数名词的数量用How many。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问数量",
+      "question": "How ___ cows do you have?",
+      "options": [],
+      "answer": "many",
+      "explanation": "How many引导对可数名词数量的提问。"
+    }
+  ],
+  "knowledge": null
+}

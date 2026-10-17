@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8down-u1-kp1",
+  "title": "古代游记散文",
+  "bookId": "chinese-g8down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与游记",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古代游记散文",
+      "question": "游记中最常见的是（　）",
+      "options": [
+        "移步换景",
+        "时空倒流",
+        "首尾呼应",
+        "欲扬先抑"
+      ],
+      "answer": "移步换景",
+      "explanation": "游记按行踪写景。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古代游记散文",
+      "question": "游记往往融叙事、写景、抒情于一体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "游记特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "古代游记散文",
+    "core_concept": "游记常按行踪移步换景，融叙事、写景、抒情、议论于一体。分析时要抓住景物的特点与作者的情感变化。",
+    "key_formula": "移步换景、情景交融",
+    "common_mistakes": [
+      "只翻译不体会情感。"
+    ],
+    "tips": "抓住景物特点与情感。"
+  }
+}

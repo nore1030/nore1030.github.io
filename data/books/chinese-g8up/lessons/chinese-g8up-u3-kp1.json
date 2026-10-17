@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8up-u3-kp1",
+  "title": "说明文阅读",
+  "bookId": "chinese-g8up",
+  "unitNumber": 3,
+  "unitTitle": "说明文与议论文",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "“珠穆朗玛峰海拔约 8848 米”运用的说明方法是（　）",
+      "options": [
+        "列数字",
+        "举例子",
+        "打比方",
+        "分类别"
+      ],
+      "answer": "列数字",
+      "explanation": "用数字说明。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "说明文要求语言准确、严密、有条理。",
+      "options": [],
+      "answer": "对",
+      "explanation": "说明文语言特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "说明文阅读",
+    "core_concept": "说明顺序有时间、空间、逻辑三种。说明方法有举例子、列数字、分类别、作比较、打比方、列图表。",
+    "key_formula": "说明方法 + 表达效果",
+    "common_mistakes": [
+      "把打比方与修辞比喻混为一谈。"
+    ],
+    "tips": "说明方法重在准确说明。"
+  }
+}

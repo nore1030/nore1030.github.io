@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2down-u7-kp2",
+  "title": "环境改造与劳动价值体现",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 1,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "环境改造与劳动价值体现",
+      "question": "青蛙最后没有卖掉泥塘，是因为他发现泥塘被他改造得很美，舍不得卖了。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过辛勤劳动，泥塘变成了宜居的好地方。"
+    }
+  ],
+  "knowledge": {
+    "point": "环境改造与劳动价值体现",
+    "core_concept": "在《青蛙卖泥塘》中，青蛙原本嫌弃泥塘并想卖掉它。但在听取其他动物建议并付诸劳动（种草、引水、栽树等）后，烂泥塘变成了风景优美的地方。这个过程展示了劳动可以改变环境、创造美好生活的道理。学生应从中体会到积极行动和辛勤付出的意义，而不只是等待现状改善。",
+    "key_formula": "听取建议 + 持续劳动 = 环境改善",
+    "common_mistakes": [
+      "漏掉青蛙改造泥塘的具体步骤顺序",
+      "不理解青蛙最后为什么又不卖泥塘了"
+    ],
+    "tips": "按顺序画出青蛙改造泥塘的示意图，能帮助梳理故事内容并理解辛勤劳动的回报。"
+  }
+}

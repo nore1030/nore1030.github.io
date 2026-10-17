@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp22",
+  "title": "气球动力",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "气球动力",
+      "question": "气球驱动的小车，如果想让它行驶更远，可以（___）。",
+      "options": [
+        "减小小车重量",
+        "换个更小的气球",
+        "在粗糙地面上跑",
+        "把喷气管折断"
+      ],
+      "answer": "减小小车重量",
+      "explanation": "减小自重可以减少摩擦阻力，提高行驶距离。"
+    }
+  ],
+  "knowledge": null
+}

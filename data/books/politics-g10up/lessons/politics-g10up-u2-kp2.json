@@ -1,0 +1,47 @@
+{
+  "id": "politics-g10up-u2-kp2",
+  "title": "实现中华民族伟大复兴的中国梦",
+  "bookId": "politics-g10up",
+  "unitNumber": 2,
+  "unitTitle": "新时代与中国梦",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "实现中华民族伟大复兴的中国梦",
+      "question": "中国梦的本质是（　）",
+      "options": [
+        "国家富强、民族振兴、人民幸福",
+        "经济增长、社会和谐",
+        "改革开放、共同富裕",
+        "独立自主、自力更生"
+      ],
+      "answer": "国家富强、民族振兴、人民幸福",
+      "explanation": "中国梦本质。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "实现中华民族伟大复兴的中国梦",
+      "question": "实现中国梦必须走中国道路、弘扬中国精神、凝聚中国力量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "实现中国梦的路径。"
+    }
+  ],
+  "knowledge": {
+    "point": "实现中华民族伟大复兴的中国梦",
+    "core_concept": "中国梦的本质是国家富强、民族振兴、人民幸福。实现中国梦必须走中国道路、弘扬中国精神、凝聚中国力量。",
+    "key_formula": "中国梦 = 国家富强 + 民族振兴 + 人民幸福",
+    "common_mistakes": [
+      "把中国梦仅理解为个人梦想。"
+    ],
+    "tips": "中国梦是国家的、民族的，也是每个中国人的。"
+  }
+}

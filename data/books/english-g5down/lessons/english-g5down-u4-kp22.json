@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp22",
+  "title": "序数词用法",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "序数词用法",
+      "question": "There are 31 days in May. The last day is May ___.",
+      "options": [],
+      "answer": "thirty-first",
+      "explanation": "31号应使用序数词thirty-first。"
+    }
+  ],
+  "knowledge": null
+}

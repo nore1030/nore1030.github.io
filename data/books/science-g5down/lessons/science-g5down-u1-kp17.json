@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp17",
+  "title": "生态平衡",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生态平衡",
+      "question": "如果一个草原上的狼被人类猎杀光了，短期内羊的数量会（ ）。",
+      "options": [
+        "急剧减少",
+        "先增加后减少",
+        "保持不变",
+        "立刻灭绝"
+      ],
+      "answer": "先增加后减少",
+      "explanation": "天敌消失羊会大量繁殖，随后会导致草原退化食物不足，数量再下降。"
+    }
+  ],
+  "knowledge": null
+}

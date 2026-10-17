@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp16",
+  "title": "情景应用",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情景应用",
+      "question": "今天是你的生日，朋友对你说 'Happy birthday!', 你应回答：",
+      "options": [
+        "Happy birthday!",
+        "I'm ten.",
+        "Thank you.",
+        "Fine, thanks."
+      ],
+      "answer": "Thank you.",
+      "explanation": "接受别人的祝福要表达感谢。"
+    }
+  ],
+  "knowledge": null
+}

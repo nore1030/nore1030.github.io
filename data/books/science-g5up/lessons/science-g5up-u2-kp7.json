@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp7",
+  "title": "风的作用",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "风的作用",
+      "question": "风对地球表面的地形地貌没有显著改变作用。",
+      "options": [],
+      "answer": "错",
+      "explanation": "风具有侵蚀和搬运作用，长期作用会形成如雅丹地貌等显著地形。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp21",
+  "title": "实验对照",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实验对照",
+      "question": "研究植物根能否吸收水分实验中，在水面上滴油是为了（）。",
+      "options": [
+        "给植物提供营养",
+        "防止水分蒸发",
+        "增加水的重量",
+        "观察更清楚"
+      ],
+      "answer": "防止水分蒸发",
+      "explanation": "滴油密封水面是为了确保试管内水分的减少完全是由于根的吸收引起。"
+    }
+  ],
+  "knowledge": null
+}

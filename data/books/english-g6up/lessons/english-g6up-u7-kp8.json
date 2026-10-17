@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp8",
+  "title": "词义辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "‘Worried’ 的意思是‘生气的’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Worried 是担心的，生气的应该是 angry。"
+    }
+  ],
+  "knowledge": null
+}

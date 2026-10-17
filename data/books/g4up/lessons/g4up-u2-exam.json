@@ -1,0 +1,217 @@
+{
+  "id": "g4up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g4up",
+  "unitNumber": 2,
+  "unitTitle": "公顷和平方千米",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "公顷和平方米之间的进率是 100。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$1$ 公顷 $= 10000$ 平方米，进率是 $10000$。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "我国的陆地领土面积约为 960 万平方千米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据常识，中国陆地面积约为 $960$ 万平方千米。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "平方千米、公顷、平方米、平方分米中，每相邻两个单位间的进率都是 100。",
+      "options": [],
+      "answer": "错",
+      "explanation": "公顷与平方米之间的进率是 $10000$，不是 $100$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "一个正方形操场的周长是 400 米，面积就是 1 公顷。",
+      "options": [],
+      "answer": "对",
+      "explanation": "边长 $100$ 米，面积 $100 \\times 100 = 10000$ 平方米 $= 1$ 公顷。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "上海市的面积大约是 6340（ ）。",
+      "options": [
+        "平方米",
+        "分米",
+        "公顷",
+        "平方千米"
+      ],
+      "answer": "平方千米",
+      "explanation": "城市面积通常以平方千米为单位。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "1 平方千米是 1 公顷的（ ）倍。",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "100",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，所以是 $100$ 倍。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "“水立方”占地面积约 6（ ）。",
+      "options": [
+        "平方米",
+        "公顷",
+        "平方千米",
+        "平方分米"
+      ],
+      "answer": "公顷",
+      "explanation": "大型场馆占地面积用“公顷”合适。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "一个正方形的面积是 36 平方千米，它的边长是（ ）千米。",
+      "options": [
+        "6",
+        "60",
+        "9",
+        "36"
+      ],
+      "answer": "6",
+      "explanation": "因为 $6 \\times 6 = 36$，所以边长是 $6$ 千米。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "7 公顷 500 平方米（ ）75000 平方米。",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "$7$ 公顷 $500$ 平方米 $= 70500$ 平方米，$70500 < 75000$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "一台收割机每小时收割 2 公顷小麦，收割 1 平方千米的小麦需要（ ）小时。",
+      "options": [
+        "5",
+        "50",
+        "20",
+        "200"
+      ],
+      "answer": "50",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 \\div 2 = 50$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "一块手帕的面积约是 4（ ）。",
+      "options": [
+        "平方厘米",
+        "平方分米",
+        "平方米",
+        "公顷"
+      ],
+      "answer": "平方分米",
+      "explanation": "手帕面积较小，常用平方分米。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "一个长方形宽 400 米，长是宽的 2 倍，它的面积是（ ）公顷。",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "320"
+      ],
+      "answer": "32",
+      "explanation": "长 $= 400 \\times 2 = 800$ 米，面积 $= 800 \\times 400 = 320000$ 平方米 $= 32$ 公顷。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "3000 公顷 = ___ 平方千米。",
+      "options": [],
+      "answer": "30",
+      "explanation": "$100$ 公顷 $= 1$ 平方千米，$3000 \\div 100 = 30$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "15 公顷 = ___ 平方米。",
+      "options": [],
+      "answer": "150000",
+      "explanation": "$15 \\times 10000 = 150000$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "公顷的认识与换算",
+      "question": "计算：$50000 \\div 10000 = ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "$50000 \\div 10000 = 5$。"
+    }
+  ],
+  "knowledge": null
+}

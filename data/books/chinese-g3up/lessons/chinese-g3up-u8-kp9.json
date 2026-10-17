@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp9",
+  "title": "字词读音",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词读音",
+      "question": "下列词语中，加点字的读音全部正确的一组是：",
+      "options": [
+        "大瓮(wèng)  胸脯(pú)",
+        "即便(jí)    扎针(zhā)",
+        "宁静(níng)  一眨眼(zhǎ)",
+        "全部正确"
+      ],
+      "answer": "全部正确",
+      "explanation": "这几组生字读音均符合教材规范。"
+    }
+  ],
+  "knowledge": null
+}

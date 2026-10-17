@@ -1,0 +1,155 @@
+{
+  "id": "chinese-g6up-u7-kp2",
+  "title": "艺术联想与画面感阅读",
+  "bookId": "chinese-g6up",
+  "unitNumber": 7,
+  "unitTitle": "艺术的魅力",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "《月光曲》一文中，贝多芬是根据盲姑娘的联想即兴创作的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "贝多芬被盲姑娘对音乐的热爱感动，从而即兴创作。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "“微波粼粼”这个词语形容的是海面平静没有波动。",
+      "options": [],
+      "answer": "错",
+      "explanation": "微波粼粼形容水面在阳光或月光照耀下，细小的波纹闪烁光泽。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "“月亮正从水天相接的地方升起来。”这句话描写的画面感属于？",
+      "options": [
+        "静态描写",
+        "色彩描写",
+        "动态描写",
+        "嗅觉描写"
+      ],
+      "answer": "动态描写",
+      "explanation": "“升起来”体现了景物的动态变化。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "读到“孤帆一片日边来”，你脑海中浮现的色调主要是？",
+      "options": [
+        "灰暗",
+        "明亮",
+        "翠绿",
+        "淡雅"
+      ],
+      "answer": "明亮",
+      "explanation": "“日”代表阳光，“日边来”给人一种非常明亮辽阔的视觉感。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "《月光曲》中，皮鞋匠联想到的画面中，最高潮部分是？",
+      "options": [
+        "月亮升起",
+        "微波粼粼",
+        "穿过微云",
+        "波涛汹涌"
+      ],
+      "answer": "波涛汹涌",
+      "explanation": "随着乐曲激昂，画面也从静谧转为波涛汹涌。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "形容贝多芬弹奏乐曲入神，可以用（___）这个成语。",
+      "options": [],
+      "answer": "炉火纯青",
+      "explanation": "该词形容艺术造诣达到极高的境界。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "请为乐器与名曲、名家对应连线。",
+      "options": [
+        "古琴",
+        "钢琴",
+        "画作",
+        "戏曲",
+        "月光曲",
+        "高山流水",
+        "唱作念打",
+        "五墨六彩"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "古琴名曲高山流水，钢琴名曲月光曲，画作讲究墨彩，戏曲讲究基本功。"
+    },
+    {
+      "id": 21,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "请根据《月光曲》内容排列句子：",
+      "options": [
+        "贝多芬",
+        "美妙的",
+        "钢琴曲",
+        "一首",
+        "弹奏了"
+      ],
+      "answer": "贝多芬,弹奏了,一首,美妙的,钢琴曲",
+      "explanation": "主谓宾句式，形容词修饰宾语。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "艺术联想与画面感阅读",
+      "question": "读了《伯牙鼓琴》，我想到了成语：",
+      "options": [
+        "总是",
+        "知音",
+        "难寻",
+        "在生活中"
+      ],
+      "answer": "在生活中,知音,总是,难寻",
+      "explanation": "语义连贯的叙述句。"
+    }
+  ],
+  "knowledge": {
+    "point": "艺术联想与画面感阅读",
+    "core_concept": "阅读文学作品或欣赏艺术时，通过文字的动态、色彩、韵律描写，在脑海中勾画出动态的画面。如《月光曲》中月亮升起、微风拂过、海面上波涛汹涌的画面连通，将原本无形的听觉感受转化为有形的视觉想象。",
+    "key_formula": "画面感 = 动态描写 + 色彩词汇 + 比喻拟人 + 空间层次变化。",
+    "common_mistakes": [
+      "无法分清乐曲变化与联想画面之间的对应关系",
+      "忽视动词在画面感建立中的作用"
+    ],
+    "tips": "闭上眼睛想象作者描写的景物位置，像看电影一样连接每一帧文字。"
+  }
+}

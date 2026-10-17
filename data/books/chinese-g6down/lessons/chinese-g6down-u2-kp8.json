@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g6down-u2-kp8",
+  "title": "文学常识",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 7,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《汤姆·索亚历险记》的作者是美国的（ ）。",
+      "options": [],
+      "answer": "马克吐温",
+      "explanation": "马克·吐温是美国著名的批判现实主义作家。"
+    }
+  ],
+  "knowledge": null
+}

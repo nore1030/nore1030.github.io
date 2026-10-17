@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp13",
+  "title": "成语积累",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "成语积累",
+      "question": "形容一个人全心全意投入，一点也不分心的成语是：",
+      "options": [
+        "气势磅礴",
+        "大步流星",
+        "聚精会神",
+        "热血沸腾"
+      ],
+      "answer": "聚精会神",
+      "explanation": "聚精会神指集中精神，专心致志。"
+    }
+  ],
+  "knowledge": null
+}

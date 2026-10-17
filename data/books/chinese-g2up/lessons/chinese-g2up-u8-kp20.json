@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp20",
+  "title": "八字成语",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "八字成语",
+      "question": "狐狸借着老虎的威胁吓跑野兽，这就是成语（____）。",
+      "options": [],
+      "answer": "狐假虎威",
+      "explanation": "狐假虎威指狐狸假借老虎的威风吓唬别人。"
+    }
+  ],
+  "knowledge": null
+}

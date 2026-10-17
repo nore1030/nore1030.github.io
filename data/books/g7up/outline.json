@@ -1,0 +1,206 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "有理数",
+      "knowledge_points": [
+        {
+          "name": "有理数与数轴",
+          "description": "理解正数、负数与0，会用数轴表示并比较有理数。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "有理数的加减法",
+          "description": "掌握有理数加法与减法法则，熟练运算。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "有理数的乘除与乘方",
+          "description": "掌握乘除法则与乘方意义，会混合运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g7up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "整式的加减",
+      "knowledge_points": [
+        {
+          "name": "单项式与多项式",
+          "description": "理解系数、次数、项的概念。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "同类项与合并",
+          "description": "识别同类项并合并。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "去括号与整式加减",
+          "description": "掌握去括号法则，进行整式加减。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g7up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "一元一次方程",
+      "knowledge_points": [
+        {
+          "name": "方程与一元一次方程",
+          "description": "理解方程意义，会判断一元一次方程。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "等式的性质与解方程",
+          "description": "掌握等式性质，会移项、合并解方程。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "列方程解应用题",
+          "description": "用一元一次方程解决和差倍分、行程等实际问题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g7up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "g7up",
+  "grade": 7,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "g7up-u1-kp1",
+      "title": "有理数与数轴",
+      "unitNumber": 1,
+      "unitTitle": "有理数",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 3
+    },
+    {
+      "id": "g7up-u1-kp2",
+      "title": "有理数的加减法",
+      "unitNumber": 1,
+      "unitTitle": "有理数",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 4
+    },
+    {
+      "id": "g7up-u1-kp3",
+      "title": "有理数的乘除与乘方",
+      "unitNumber": 1,
+      "unitTitle": "有理数",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 4
+    },
+    {
+      "id": "g7up-u2-kp1",
+      "title": "单项式与多项式",
+      "unitNumber": 2,
+      "unitTitle": "整式的加减",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g7up-u2-kp2",
+      "title": "同类项与合并",
+      "unitNumber": 2,
+      "unitTitle": "整式的加减",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g7up-u2-kp3",
+      "title": "去括号与整式加减",
+      "unitNumber": 2,
+      "unitTitle": "整式的加减",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g7up-u3-kp1",
+      "title": "方程与一元一次方程",
+      "unitNumber": 3,
+      "unitTitle": "一元一次方程",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "g7up-u3-kp2",
+      "title": "等式的性质与解方程",
+      "unitNumber": 3,
+      "unitTitle": "一元一次方程",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 4
+    },
+    {
+      "id": "g7up-u3-kp3",
+      "title": "列方程解应用题",
+      "unitNumber": 3,
+      "unitTitle": "一元一次方程",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    }
+  ]
+}

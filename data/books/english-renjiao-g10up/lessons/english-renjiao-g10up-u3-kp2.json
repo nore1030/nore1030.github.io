@@ -1,0 +1,36 @@
+{
+  "id": "english-renjiao-g10up-u3-kp2",
+  "title": "同意与不同意表达",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Sports and Fitness 运动与健康",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "同意与不同意表达",
+      "question": "「我同意你。」的英文是（　）",
+      "options": [
+        "I agree with you.",
+        "I agree to you.",
+        "I agree you.",
+        "I'm agree with you."
+      ],
+      "answer": "I agree with you.",
+      "explanation": "agree with sb."
+    }
+  ],
+  "knowledge": {
+    "point": "同意与不同意表达",
+    "core_concept": "I agree with you. 我同意你。I disagree. 我不同意。That's a good idea. 好主意。",
+    "key_formula": "I agree with you.",
+    "common_mistakes": [
+      "agree 后接 to。"
+    ],
+    "tips": "agree with sb."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "g6up-u5-kp1",
+  "title": "圆的认识与特征",
+  "bookId": "g6up",
+  "unitNumber": 5,
+  "unitTitle": "圆",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "在同一个圆内，所有的直径都相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据圆的定义，在同圆或等圆中，所有的半径、直径分别相等。验算：圆规画圆时半径固定，直径为2倍半径，必然相等。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "圆有无数条对称轴。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆是轴对称图形，每一条经过圆心的直线都是它的对称轴，这样的直线有无数条。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "决定圆的位置的是什么？",
+      "options": [
+        "半径",
+        "直径",
+        "圆周率",
+        "圆心"
+      ],
+      "answer": "圆心",
+      "explanation": "在画圆时，针尖固定的位置即圆心决定位置，半径决定大小。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "一个圆的半径是3厘米，它的直径是多少厘米？",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "直径 $d = 2r = 2 \\times 3 = 6$厘米。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "下列哪个图形的对称轴最多？",
+      "options": [
+        "长方形",
+        "正方形",
+        "等边三角形",
+        "圆"
+      ],
+      "answer": "圆",
+      "explanation": "长方形2条，正方形4条，等边三角形3条，圆有无数条。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "如果一个圆的直径是20厘米，它的半径是 ___ 厘米。",
+      "options": [],
+      "answer": "10",
+      "explanation": "$20 \\div 2 = 10$。验算：$10 \\times 2 = 20$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "已知 $r = 5$，则 $2 \\times 3.14 \\times r = ?$",
+      "options": [],
+      "answer": "31",
+      "explanation": "$2 \\times 3.14 \\times 5 = 31.4$，取整为31。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆的认识与特征",
+    "core_concept": "圆是由曲线围成的平面封闭图形。圆中心的一点叫圆心（O），决定圆的位置；连接圆心和圆上任意一点的线段叫半径（r），决定圆的大小；通过圆心且两端都在圆上的线段叫直径（d）。在同圆或等圆中，直径是半径的2倍。",
+    "key_formula": "$d = 2r$ 或 $r = \\frac{d}{2}$",
+    "common_mistakes": [
+      "误认为圆上任意两点间的线段就是直径，忽视了必须经过圆心这个前提。",
+      "混淆圆心和半径的作用，记不清哪个决定位置，哪个决定大小。"
+    ],
+    "tips": "折纸法：把圆对折再对折，交点就是圆心；用圆规画圆时，针尖位置不能移动。"
+  }
+}

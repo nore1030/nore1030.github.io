@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u4-kp2",
+  "title": "some / any 的用法",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 4,
+  "unitTitle": "Module 4 Healthy food 健康饮食",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "some / any 的用法",
+      "question": "否定句和疑问句中常用（　）",
+      "options": [
+        "any",
+        "some",
+        "many",
+        "much"
+      ],
+      "answer": "any",
+      "explanation": "疑问否定用 any。"
+    }
+  ],
+  "knowledge": {
+    "point": "some / any 的用法",
+    "core_concept": "some 多用于肯定句，any 多用于否定句与疑问句；修饰可数/不可数均可。",
+    "key_formula": "We've got lots of apples. / Have you got any milk?",
+    "common_mistakes": [
+      "疑问句中用 some。"
+    ],
+    "tips": "疑问否定优先 any。"
+  }
+}

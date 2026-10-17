@@ -1,0 +1,39 @@
+{
+  "id": "science-g6up-u4-kp6",
+  "title": "电动机的结构与工作原理",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电动机的结构与工作原理",
+      "question": "小电动机里的转子其实是一个电磁铁。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小电动机的转子由铁芯、线圈和换向器组成，本质上就是一个电磁铁。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电动机的结构与工作原理",
+      "question": "电动机中起到接通电流并转换电流方向作用的部件是（）。",
+      "options": [
+        "铁芯",
+        "线圈",
+        "外壳",
+        "换向器"
+      ],
+      "answer": "换向器",
+      "explanation": "换向器的作用是每转动半周改变一次线圈中的电流方向。"
+    }
+  ],
+  "knowledge": null
+}

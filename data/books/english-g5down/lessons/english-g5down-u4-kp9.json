@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp9",
+  "title": "句型理解",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "句型理解",
+      "question": "句型 'When is the art show?' 是用来询问美术展在什么地方举办。",
+      "options": [],
+      "answer": "错",
+      "explanation": "When引导的疑问句询问的是时间，询问地点应使用Where。"
+    }
+  ],
+  "knowledge": null
+}

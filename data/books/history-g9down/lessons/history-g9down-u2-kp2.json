@@ -1,0 +1,47 @@
+{
+  "id": "history-g9down-u2-kp2",
+  "title": "经济全球化与挑战",
+  "bookId": "history-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与国际格局",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "经济全球化与挑战",
+      "question": "世界贸易组织的简称是（　）",
+      "options": [
+        "WTO",
+        "IMF",
+        "WB",
+        "G20"
+      ],
+      "answer": "WTO",
+      "explanation": "WTO 是世贸组织。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "经济全球化与挑战",
+      "question": "经济全球化趋势不可逆转。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全球化趋势。"
+    }
+  ],
+  "knowledge": {
+    "point": "经济全球化与挑战",
+    "core_concept": "第三次科技革命推动经济全球化，WTO 成立标志世界经济贸易组织建立。全球化带来机遇也带来挑战。",
+    "key_formula": "WTO = 世贸组织",
+    "common_mistakes": [
+      "认为全球化只有好处。"
+    ],
+    "tips": "机遇与挑战并存。"
+  }
+}

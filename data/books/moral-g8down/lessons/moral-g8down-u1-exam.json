@@ -1,0 +1,66 @@
+{
+  "id": "moral-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g8down",
+  "unitNumber": 1,
+  "unitTitle": "坚持与尊严",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "坚持与成功的品质",
+      "question": "面对学习中的困难，正确的态度是（　）",
+      "options": [
+        "分析原因、寻找方法继续努力",
+        "逃避放弃",
+        "怨天尤人",
+        "等待奇迹"
+      ],
+      "answer": "分析原因、寻找方法继续努力",
+      "explanation": "困难要分析解决。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护自身的尊严",
+      "question": "下列行为最能体现维护尊严的是（　）",
+      "options": [
+        "拒绝他人侮辱并依法维权",
+        "默默忍受长期侮辱",
+        "以暴制暴",
+        "自我贬低"
+      ],
+      "answer": "拒绝他人侮辱并依法维权",
+      "explanation": "依法维护尊严。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "坚持与成功的品质",
+      "question": "一个人只有不断克服困难才能成长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在困难中成长。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护自身的尊严",
+      "question": "任何人不得侵犯他人的人格尊严。",
+      "options": [],
+      "answer": "对",
+      "explanation": "尊严受法律保护。"
+    }
+  ],
+  "knowledge": null
+}

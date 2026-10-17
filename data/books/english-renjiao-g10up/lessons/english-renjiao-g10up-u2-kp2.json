@@ -1,0 +1,36 @@
+{
+  "id": "english-renjiao-g10up-u2-kp2",
+  "title": "预订与计划表达",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Travelling Around 旅行",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "预订与计划表达",
+      "question": "「预订机票」的英文是（　）",
+      "options": [
+        "book air tickets",
+        "book air ticket",
+        "booking air tickets",
+        "book the air tickets"
+      ],
+      "answer": "book air tickets",
+      "explanation": "复数不加 the。"
+    }
+  ],
+  "knowledge": {
+    "point": "预订与计划表达",
+    "core_concept": "book / reserve 预订、apply for 申请；be going to 表计划。",
+    "key_formula": "apply for a passport 申请护照",
+    "common_mistakes": [
+      "apply 后直接接护照不加 for。"
+    ],
+    "tips": "apply for + 目标。"
+  }
+}

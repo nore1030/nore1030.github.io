@@ -1,0 +1,75 @@
+{
+  "id": "english-g5down-u1-kp2",
+  "title": "频度副词的用法",
+  "bookId": "english-g5down",
+  "unitNumber": 1,
+  "unitTitle": "My day",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "频度副词的用法",
+      "question": "'sometimes' 放在句中，意思是‘总是’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "sometimes 是‘有时’，总是是 always。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词的用法",
+      "question": "What do you _____ do on Sundays?",
+      "options": [
+        "usually",
+        "once",
+        "too",
+        "can"
+      ],
+      "answer": "usually",
+      "explanation": "问经常做的事情，通常用频度副词usually。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词的用法",
+      "question": "Zhang Peng _____ plays sports.",
+      "options": [
+        "sometimes",
+        "very",
+        "good",
+        "is"
+      ],
+      "answer": "sometimes",
+      "explanation": "句意表达频度，需要频度副词。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词的用法",
+      "question": "请将频度副词与其中文释义及对应特征连线。",
+      "options": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "经常",
+        "总是",
+        "有时",
+        "通常"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "always-总是, usually-通常, often-经常, sometimes-有时。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "chinese-g1up-u1-kp1",
+  "title": "身份认同与角色定位",
+  "bookId": "chinese-g1up",
+  "unitNumber": 1,
+  "unitTitle": "我上学了（入学教育）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "升国旗的时候，我们应该立正，行注目礼。",
+      "options": [],
+      "answer": "对",
+      "explanation": "升国旗是庄严的仪式，小学生应当肃立致敬。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我们都是中国人，我们的祖国是妈妈。",
+      "options": [],
+      "answer": "对",
+      "explanation": "建立对祖国的热爱是入学教育的第一课。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "《上学歌》中，“我去上学校”的下一句是？",
+      "options": [
+        "天天不迟到",
+        "花儿对我笑",
+        "背着书包",
+        "小鸟向我叫"
+      ],
+      "answer": "天天不迟到",
+      "explanation": "根据歌词内容，下一句是表达不迟到的决心。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "太阳当空照，（ ）对我笑。空格里应该填什么？",
+      "options": [
+        "小草",
+        "小鸟",
+        "花儿",
+        "蓝天"
+      ],
+      "answer": "花儿",
+      "explanation": "《上学歌》原文为“太阳当空照，花儿对我笑”。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我们的国旗是什么颜色的？",
+      "options": [
+        "红色",
+        "黄色",
+        "彩色",
+        "蓝色"
+      ],
+      "answer": "红色",
+      "explanation": "五星红旗底色为红色。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我是（ ）小学生。括号里填哪个词最合适？",
+      "options": [
+        "一名",
+        "一个",
+        "一头",
+        "一只"
+      ],
+      "answer": "一名",
+      "explanation": "“名”是形容人的常用量词，带有尊敬和正式感。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我们的祖国叫什么名字？",
+      "options": [],
+      "answer": "中国",
+      "explanation": "学生应明确自己是中国人，祖国是中国。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "把词语排成一句话：",
+      "options": [
+        "是",
+        "我",
+        "中国",
+        "孩子"
+      ],
+      "answer": "我,是,中国,孩子",
+      "explanation": "建立简单的身份表述句式。"
+    }
+  ],
+  "knowledge": {
+    "point": "身份认同与角色定位",
+    "core_concept": "学生通过《我是中国人》《上学歌》等内容，明确自己的多重身份。首先是建立深厚的民族自豪感，知晓国名、国旗，初步产生爱国情感。其次是认同“小学生”的新身份，理解学生阶段的主要任务是学习，并培养积极向上的学习态度和爱劳动的习惯。",
+    "key_formula": "我是中国人，我是小学生。",
+    "common_mistakes": [
+      "国名书写或发音不准确",
+      "混淆国旗底色和星的颜色"
+    ],
+    "tips": "通过观察国旗图片和学唱《上学歌》来辅助身份认同的内化。"
+  }
+}

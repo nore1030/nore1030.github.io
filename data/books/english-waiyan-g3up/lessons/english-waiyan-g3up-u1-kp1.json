@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u1-kp1",
+  "title": "食物与餐具词汇",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Food and table manners 饮食与餐具",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "食物与餐具词汇",
+      "question": "「米饭」的英文是（　）",
+      "options": [
+        "rice",
+        "ice",
+        "rise",
+        "race"
+      ],
+      "answer": "rice",
+      "explanation": "rice = 米饭。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "食物与餐具词汇",
+      "question": "「筷子」的英文是（　）",
+      "options": [
+        "chopsticks",
+        "chopstick",
+        "knife",
+        "fork"
+      ],
+      "answer": "chopsticks",
+      "explanation": "筷子常用复数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "食物与餐具词汇",
+      "question": "a knife and fork 的意思是「一副刀叉」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "刀叉合称。"
+    }
+  ],
+  "knowledge": {
+    "point": "食物与餐具词汇",
+    "core_concept": "rice 米饭、noodles 面条、hamburger 汉堡、chips 炸薯条；chopsticks 筷子、knife 刀、fork 叉。英国人常用一副刀叉 a knife and fork。",
+    "key_formula": "We use a knife and fork.",
+    "common_mistakes": [
+      "chopsticks 当单数（它是复数）。"
+    ],
+    "tips": "筷子总是成对，用复数。"
+  }
+}

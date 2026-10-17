@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u8-kp21",
+  "title": "近义词连线",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词连线",
+      "question": "将意思相近的词语进行连线。",
+      "options": [
+        "慰藉",
+        "乖巧",
+        "允许",
+        "喧闹",
+        "答应",
+        "安慰",
+        "吵闹",
+        "听话"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "慰藉对安慰，乖巧对听话，允许对答应，喧闹对吵闹。"
+    }
+  ],
+  "knowledge": null
+}

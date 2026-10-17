@@ -1,0 +1,31 @@
+{
+  "id": "math-beishida-g7up-u2-kp2",
+  "title": "相反数与绝对值",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第二章 有理数及其运算",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "相反数与绝对值",
+      "question": "$-\\frac34$ 的倒数是多少（填分数如 -4/3）？",
+      "options": [],
+      "answer": "-4/3",
+      "explanation": "倒数为 $-\\frac43$。"
+    }
+  ],
+  "knowledge": {
+    "point": "相反数与绝对值",
+    "core_concept": "只有符号不同的两个数互为相反数，0 的相反数是 0。$|a|$ 表示 $a$ 到原点的距离，绝对值非负。",
+    "key_formula": "$|-a|=|a|$",
+    "common_mistakes": [
+      "认为 $|a|=a$ 恒成立。"
+    ],
+    "tips": "先判断符号再求绝对值。"
+  }
+}

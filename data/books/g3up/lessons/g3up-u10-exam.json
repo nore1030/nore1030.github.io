@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u10-exam",
+  "title": "第 10 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一个分数的分母越大，这个分数就越大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "前提是分子相同时，分母越大，分数反而越小。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "测量从北京到上海的距离，通常用“千米”作单位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "千米通常用于表示较长的路程或地理距离。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "由 4 条边围成的图形一定是四边形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是四边形的定义：由四条线段围成的封闭图形。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "秒针走一圈是 1 分钟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "秒针走一小格是 1 秒，走一圈是 60 小格，即 60 秒 = 1 分钟。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一袋大米重 50 千克，几袋这样的大米重 1 吨？",
+      "options": [
+        "10 袋",
+        "20 袋",
+        "50 袋",
+        "100 袋"
+      ],
+      "answer": "20 袋",
+      "explanation": "1 吨 = 1000 千克。$1000 \\div 50 = 20$（袋）。验算：$50 \\times 20 = 1000$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "计算 $251 \\times 4$ 时，十位上的 5 乘 4 得到的是什么？",
+      "options": [
+        "20",
+        "200",
+        "2000",
+        "5"
+      ],
+      "answer": "200",
+      "explanation": "十位上的 5 表示 5 个十（50）。$50 \\times 4 = 200$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "小明准备买 3 支钢笔，每支 8 元。他付了 50 元，应找回多少钱？",
+      "options": [
+        "24 元",
+        "26 元",
+        "34 元",
+        "22 元"
+      ],
+      "answer": "26 元",
+      "explanation": "钢笔钱：$3 \\times 8 = 24$ 元。找回：$50 - 24 = 26$ 元。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "三（1）班有 45 人，其中 $\\frac{1}{5}$ 的学生参加了排球队，参加排球队的有几人？",
+      "options": [
+        "5 人",
+        "9 人",
+        "10 人",
+        "15 人"
+      ],
+      "answer": "9 人",
+      "explanation": "求一个数的几分之几是多少，用 $45 \\div 5 \\times 1 = 9$ 人。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "把一个大长方形切成两个小长方形，两个小长方形周长的和与原长方形周长相比：",
+      "options": [
+        "增加了",
+        "减少了",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "增加了",
+      "explanation": "切开后增加了两条切痕的长度，所以周长和变长了。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逆向思维与逻辑推导",
+      "question": "某工厂要生产 500 个零件，已经生产了 3 天，每天生产 120 个，还要生产多少个？",
+      "options": [
+        "360 个",
+        "140 个",
+        "260 个",
+        "160 个"
+      ],
+      "answer": "140 个",
+      "explanation": "已生产：$120 \\times 3 = 360$ 个。剩余：$500 - 360 = 140$ 个。验算：$360 + 140 = 500$ ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "在 $\\frac{2}{7}$ 中，分母是几？",
+      "options": [
+        "2",
+        "7",
+        "9",
+        "5"
+      ],
+      "answer": "7",
+      "explanation": "分数线下面的数字是分母，上面的是分子。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逆向思维与逻辑推导",
+      "question": "一个数乘以 5，小马虎把 5 看成了 3，结果算出是 150。正确的积应该是多少？",
+      "options": [
+        "50",
+        "250",
+        "450",
+        "300"
+      ],
+      "answer": "250",
+      "explanation": "这个数是 $150 \\div 3 = 50$。正确的积是 $50 \\times 5 = 250$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一台电风扇的价格是 298 元，买 3 台这样的电风扇大约需要 ___ 元。",
+      "options": [],
+      "answer": "900",
+      "explanation": "估算题目。298 接近 300。$300 \\times 3 = 900$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "三年级有 120 人去秋游，每辆大客车坐 40 人，需要 ___ 辆车。",
+      "options": [],
+      "answer": "3",
+      "explanation": "计算：$120 \\div 40 = 3$。验算：$3 \\times 40 = 120$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "$230 \\times 3 = ?$",
+      "options": [],
+      "answer": "690",
+      "explanation": "$23 \\times 3 = 69$，后面补一个 0 得 690。验算：$690 \\div 3 = 230$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "science-g1down-u1-kp6",
+  "title": "物质在水中的溶解现象",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "小石子放入水中，经过搅拌可以完全化在水里。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小石子在水中是不溶解的，无论如何搅拌都不会消失。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "下列物质放入水中，能够溶解的是（）。",
+      "options": [
+        "沙子",
+        "木屑",
+        "食盐",
+        "铁钉"
+      ],
+      "answer": "食盐",
+      "explanation": "食盐放入水中搅拌后会均匀分散，肉眼看不见，即溶解。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "红糖溶解在水中后，水的颜色会变（）。",
+      "options": [
+        "红色",
+        "褐色",
+        "蓝色",
+        "不变色"
+      ],
+      "answer": "褐色",
+      "explanation": "红糖溶解后，色素会均匀分布在水中，使水呈现红褐色。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "食盐放入水中“消失”了，这种现象叫作（___）。",
+      "options": [],
+      "answer": "溶解",
+      "explanation": "溶解是指物质均匀、稳定地分散在液体中。"
+    }
+  ],
+  "knowledge": null
+}

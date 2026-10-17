@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp14",
+  "title": "疑问句回答",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问句回答",
+      "question": "—Did you have a cold last Monday? —________.",
+      "options": [
+        "Yes, I do",
+        "No, I don't",
+        "Yes, I did",
+        "No, I do"
+      ],
+      "answer": "Yes, I did",
+      "explanation": "Did引导的一般疑问句，肯定回答为Yes, I did."
+    }
+  ],
+  "knowledge": null
+}

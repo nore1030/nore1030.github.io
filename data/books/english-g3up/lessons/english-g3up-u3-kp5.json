@@ -1,0 +1,32 @@
+{
+  "id": "english-g3up-u3-kp5",
+  "title": "字母与单词配对",
+  "bookId": "english-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Look at me!",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母与单词配对",
+      "question": "请将下列首字母与对应的单词配对。",
+      "options": [
+        "egg",
+        "fish",
+        "gift",
+        "hippo",
+        "鱼",
+        "礼物",
+        "河马",
+        "鸡蛋"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "egg-鸡蛋, fish-鱼, gift-礼物, hippo-河马。"
+    }
+  ],
+  "knowledge": null
+}

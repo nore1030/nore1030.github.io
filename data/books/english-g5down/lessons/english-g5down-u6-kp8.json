@@ -1,0 +1,53 @@
+{
+  "id": "english-g5down-u6-kp8",
+  "title": "现在进行时一般疑问句",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现在进行时一般疑问句",
+      "question": "— Are they eating lunch? — ________",
+      "options": [
+        "Yes, they are.",
+        "No, they are.",
+        "Yes, they do.",
+        "No, they do."
+      ],
+      "answer": "Yes, they are.",
+      "explanation": "含有are的疑问句，肯定回答用Yes, 主语 + are."
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "现在进行时一般疑问句",
+      "question": "将下列单词连成句子：",
+      "options": [
+        "Are",
+        "they",
+        "playing",
+        "together"
+      ],
+      "answer": "Are,they,playing,together",
+      "explanation": "疑问句。他们正在一起玩吗？"
+    }
+  ],
+  "knowledge": {
+    "point": "现在进行时一般疑问句",
+    "core_concept": "用来确认某人是否正在进行某项活动。",
+    "key_formula": "Be (Am/Is/Are) + 主语 + 动词-ing + 其他?",
+    "common_mistakes": [
+      "回答时be动词和主语不一致，如：Are you...? Yes, I am. 错写成 Yes, I are.",
+      "忘记将动词变成ing形式。"
+    ],
+    "tips": "回答时注意‘人称对调’，问you答I/we，问he/she/they则原样回。"
+  }
+}

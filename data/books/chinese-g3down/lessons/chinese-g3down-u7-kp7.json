@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp7",
+  "title": "字音辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "下面词语中，“模”字的读音与“模样”相同的是：",
+      "options": [
+        "模型",
+        "大模大样",
+        "模仿",
+        "模式"
+      ],
+      "answer": "大模大样",
+      "explanation": "“模”在“模样、大模大样”中读mú，其他通常读mó。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 3 These ducks are very naughty 淘气的鸭子",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "指示代词 this / that / these / those",
+      "question": "「那些」的英文是（　）",
+      "options": [
+        "those",
+        "these",
+        "this",
+        "that"
+      ],
+      "answer": "those",
+      "explanation": "复远用 those。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动物词汇 duck / naughty",
+      "question": "「鸭子」的复数是（　）",
+      "options": [
+        "ducks",
+        "duckes",
+        "duck",
+        "duckies"
+      ],
+      "answer": "ducks",
+      "explanation": "一般加 -s。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / that / these / those",
+      "question": "this 指近处的单个事物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "单近 this。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动物词汇 duck / naughty",
+      "question": "— What are those? — ___",
+      "options": [
+        "They are flowers.",
+        "They is flowers.",
+        "It is flowers.",
+        "These are flower."
+      ],
+      "answer": "They are flowers.",
+      "explanation": "复数用 they are。"
+    }
+  ],
+  "knowledge": null
+}

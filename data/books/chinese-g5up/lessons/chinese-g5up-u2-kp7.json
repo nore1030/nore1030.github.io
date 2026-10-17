@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u2-kp7",
+  "title": "作者与作品",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 6,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作者与作品",
+      "question": "请将下列课文与对应的作者或出处进行连线。",
+      "options": [
+        "《搭石》",
+        "《将相和》",
+        "《冀中的地道战》",
+        "《少年中国说》",
+        "司马迁",
+        "刘章",
+        "梁启超",
+        "周而复"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "根据教材常识配对作品与作者。"
+    }
+  ],
+  "knowledge": null
+}

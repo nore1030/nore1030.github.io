@@ -1,0 +1,76 @@
+{
+  "id": "chinese-g5up-u2-kp3",
+  "title": "长文章的缩写与概括",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 2,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长文章的缩写与概括",
+      "question": "缩写课文时，要把所有的细节描写都保留下来。",
+      "options": [],
+      "answer": "错",
+      "explanation": "缩写通常需要删减次要的细节描写，保留核心内容。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "长文章的缩写与概括",
+      "question": "缩写《冀中的地道战》时，哪一部分可以适当删减，不作为重点？",
+      "options": [
+        "地道的构造特点",
+        "抗击敌人的方式",
+        "个别士兵的对话",
+        "地道战的重要作用"
+      ],
+      "answer": "个别士兵的对话",
+      "explanation": "大规模的描写和概括性作用需要保留，具体对话可删去。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长文章的缩写与概括",
+      "question": "缩写后的内容要保持（___）的原意不能改变。",
+      "options": [],
+      "answer": "文章",
+      "explanation": "缩写不能违背原文主旨。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长文章的缩写与概括",
+      "question": "请根据课文内容排序说明缩写的步骤。",
+      "options": [
+        "缩减",
+        "摘录",
+        "改写",
+        "内容",
+        "核心"
+      ],
+      "answer": "摘录,核心,内容,缩减,改写",
+      "explanation": "缩写的逻辑步骤：先定核心再精简。"
+    }
+  ],
+  "knowledge": {
+    "point": "长文章的缩写与概括",
+    "core_concept": "缩写是语文综合能力的体现。具体包括：摘录（保留主干）、删减（去掉枝叶）、概括（合并段意）和改写（人称转换或口语变书面语）。缩写的关键是在保证文章内容真实、逻辑通顺的前提下，用最简练的语言交代事情的起因、经过、结果。",
+    "key_formula": "去粗取精，留主删次，合意变通。",
+    "common_mistakes": [
+      "缩写后文章成了毫无关联的碎句堆砌",
+      "过度删减导致故事情节不完整，逻辑断裂"
+    ],
+    "tips": "先在原文中划出核心动词和名词，连接成句，再检查人称和时态是否统一。"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "chinese-g2down-u7-kp11",
+  "title": "词语排序",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 10,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语排序",
+      "question": "请将词语连成一句话：",
+      "options": [
+        "大象",
+        "大扇子",
+        "耳朵",
+        "两把",
+        "像"
+      ],
+      "answer": "大象,耳朵,像,两把,大扇子",
+      "explanation": "按照主语+谓语+宾语的结构排列比喻句。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语排序",
+      "question": "请将词语连成一句话：",
+      "options": [
+        "青蛙",
+        "住在",
+        "烂泥塘里",
+        "这一天",
+        "老想卖掉"
+      ],
+      "answer": "这一天,青蛙,老想卖掉,住在,烂泥塘里",
+      "explanation": "时间状语放在开头，注意句子通顺。"
+    }
+  ],
+  "knowledge": null
+}

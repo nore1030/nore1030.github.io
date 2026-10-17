@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g1up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g1up",
+  "unitNumber": 1,
+  "unitTitle": "我上学了（入学教育）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "升旗时，我们要一边说话一边看红旗。",
+      "options": [],
+      "answer": "错",
+      "explanation": "升旗仪式必须严肃安静。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我们国家是个多民族的大家庭，各族人民是一家。",
+      "options": [],
+      "answer": "对",
+      "explanation": "理解民族团结是身份认同的重要部分。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "校园生活感知",
+      "question": "在校园里见到纸屑，我们要主动捡起来扔进垃圾桶。",
+      "options": [],
+      "answer": "对",
+      "explanation": "爱护环境是小学生行为规范的要求。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语文学习行为素养",
+      "question": "讲故事的时候，声音越小越专业。",
+      "options": [],
+      "answer": "错",
+      "explanation": "讲故事要声音洪亮、自然大方。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "五星红旗上的五颗星是什么颜色的？",
+      "options": [
+        "红色",
+        "白色",
+        "黄色",
+        "金色"
+      ],
+      "answer": "黄色",
+      "explanation": "红底黄星是中国国旗的特征。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "校园生活感知",
+      "question": "老师正在上课，你想去医务室，你应该怎么做？",
+      "options": [
+        "直接溜出去",
+        "举手向老师报告",
+        "下课再去",
+        "大声叫喊"
+      ],
+      "answer": "举手向老师报告",
+      "explanation": "课堂突发状况的处理礼仪。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语文学习行为素养",
+      "question": "阅读短文：上学了，我最高兴。书包里，有课本，有铅笔。我爱老师，我爱同学。问：文中的“我”因为什么最高兴？",
+      "options": [
+        "有铅笔",
+        "有课本",
+        "上学了",
+        "爱老师"
+      ],
+      "answer": "上学了",
+      "explanation": "短文第一句指明了高兴的原因。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语文学习行为素养",
+      "question": "写字时，“一寸”是指哪里到笔尖的距离？",
+      "options": [
+        "鼻尖",
+        "指关节",
+        "手指尖",
+        "虎口"
+      ],
+      "answer": "手指尖",
+      "explanation": "执笔姿势中，手指握笔处离笔尖约一寸。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "校园生活感知",
+      "question": "当你进老师办公室时，第一步应该做什么？",
+      "options": [
+        "直接跑进去",
+        "在门口敲门或喊报告",
+        "偷偷看一眼",
+        "找老师要零食"
+      ],
+      "answer": "在门口敲门或喊报告",
+      "explanation": "进办公室的礼貌流程。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语文学习行为素养",
+      "question": "讲故事时，我们应该注意什么？",
+      "options": [
+        "低着头看地面",
+        "左顾右盼",
+        "目视听众",
+        "用手捂住嘴巴"
+      ],
+      "answer": "目视听众",
+      "explanation": "交流式的表达需要眼神交流。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身份认同与角色定位",
+      "question": "我们国家的全名是？（提示：简称中国）",
+      "options": [],
+      "answer": "中华人民共和国",
+      "explanation": "知晓祖国的全称是基本的常识教育。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语文学习行为素养",
+      "question": "读书时，我们的身体要坐（ ）。",
+      "options": [],
+      "answer": "端正",
+      "explanation": "“端正”或“直”是核心要求。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "校园生活感知",
+      "question": "为校园里的物品找到它们的家",
+      "options": [
+        "图书",
+        "皮球",
+        "餐盘",
+        "粉笔",
+        "食堂",
+        "黑板下",
+        "图书馆",
+        "操场"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "熟悉校园环境及其配套设施的功能。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语文学习行为素养",
+      "question": "匹配正确的语文学习行为与要求",
+      "options": [
+        "讲故事",
+        "听故事",
+        "读书",
+        "写字",
+        "认真专注",
+        "双手拿书",
+        "一拳一尺",
+        "有声有色"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "强化语文核心活动的具体行为规范。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语文学习行为素养",
+      "question": "排成一句话：",
+      "options": [
+        "我",
+        "喜欢",
+        "听",
+        "老师",
+        "讲故事"
+      ],
+      "answer": "我,喜欢,听,老师,讲故事",
+      "explanation": "表达语文学科的学习兴趣。"
+    }
+  ],
+  "knowledge": null
+}

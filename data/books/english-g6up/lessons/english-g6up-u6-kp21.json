@@ -1,0 +1,29 @@
+{
+  "id": "english-g6up-u6-kp21",
+  "title": "询问情绪句型",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问情绪句型",
+      "question": "连词成句：you, How, feel, do, ?",
+      "options": [
+        "you",
+        "How",
+        "feel",
+        "do",
+        "?"
+      ],
+      "answer": "How,do,you,feel,?",
+      "explanation": "特殊疑问句结构：疑问词+助动词+主语+动词原形。"
+    }
+  ],
+  "knowledge": null
+}

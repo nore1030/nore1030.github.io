@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g11up-u2-kp2",
+  "title": "语序与一致",
+  "bookId": "english-renjiao-g11up",
+  "unitNumber": 2,
+  "unitTitle": "状语从句与名词性从句",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "语序与一致",
+      "question": "The number of students in our school ___ .",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": "is",
+      "explanation": "the number of 作主语用单数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "语序与一致",
+      "question": "主谓一致要求主语与谓语在数上保持一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主谓一致。"
+    }
+  ],
+  "knowledge": {
+    "point": "语序与一致",
+    "core_concept": "主谓一致要求主语与谓语在数上一致。倒装句包括否定副词提前的部分倒装和地点/时间副词提前的全部倒装。",
+    "key_formula": "主语 + 谓语（数一致）",
+    "common_mistakes": [
+      "忽略主语的数。"
+    ],
+    "tips": "看主语定谓语。"
+  }
+}

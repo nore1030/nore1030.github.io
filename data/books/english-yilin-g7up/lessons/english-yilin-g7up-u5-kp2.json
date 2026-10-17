@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u5-kp2",
+  "title": "庆祝活动 dress up / trick or treat",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Let's celebrate! 庆祝",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "庆祝活动 dress up / trick or treat",
+      "question": "「不给糖就捣蛋」的英文是（　）",
+      "options": [
+        "trick or treat",
+        "treat or trick",
+        "trick and treat",
+        "trick or treating"
+      ],
+      "answer": "trick or treat",
+      "explanation": "固定表达。"
+    }
+  ],
+  "knowledge": {
+    "point": "庆祝活动 dress up / trick or treat",
+    "core_concept": "dress up 打扮、trick or treat 不给糖就捣蛋、pumpkin lantern 南瓜灯、present 礼物。",
+    "key_formula": "dress up as a ghost 打扮成鬼",
+    "common_mistakes": [
+      "dress up 写成 dress down。"
+    ],
+    "tips": "up 表装扮，down 表穿着朴素。"
+  }
+}

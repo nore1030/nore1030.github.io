@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp12",
+  "title": "近义词辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近义词辨析",
+      "question": "‘骄傲的铁罐看不起陶罐。’中‘骄傲’的近义词是：",
+      "options": [
+        "自豪",
+        "自满",
+        "勇敢",
+        "坚强"
+      ],
+      "answer": "自满",
+      "explanation": "这里的骄傲是贬义词，指自以为了不起。"
+    }
+  ],
+  "knowledge": null
+}

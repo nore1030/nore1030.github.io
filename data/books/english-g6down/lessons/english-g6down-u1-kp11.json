@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp11",
+  "title": "形容词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 7,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词辨析",
+      "question": "Your feet are bigger than mine. You wear size ____.",
+      "options": [
+        "37",
+        "40",
+        "small",
+        "kg"
+      ],
+      "answer": "40",
+      "explanation": "脚大所以鞋码数字应较大。37和40中40更大。"
+    }
+  ],
+  "knowledge": null
+}

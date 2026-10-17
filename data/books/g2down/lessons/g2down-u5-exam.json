@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 5,
+  "unitTitle": "混合运算",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "$24 \times 3 \times 2 = 4$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$24 \times 3 = 8$，$8 \times 2 = 4$。验算：$4 \times 2 = 8$, $8 \times 3 = 24$ ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘除法与加减法混合运算",
+      "question": "在没有括号的算式里，只有加减法和乘除法，要先算乘除法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "混合运算的基本原则是先乘除后加减。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "30 元钱买 4 个 7 元的面包，还剩 3 元。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$30 - 4 \times 7 = 30 - 28 = 2$ 元。应该是剩 2 元。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘除法与加减法混合运算",
+      "question": "$6 \times 6 + 6$ 的结果比 $6 \times 7$ 小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$6 \times 6 + 6 = 36 + 6 = 42$，$6 \times 7 = 42$。两者相等。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "为了改变 $6 \times 9 - 3$ 的运算顺序，先算减法，应该怎么办？",
+      "options": [
+        "不用管",
+        "加小括号",
+        "把乘号改除号",
+        "把 3 放在前面"
+      ],
+      "answer": "加小括号",
+      "explanation": "加小括号可以改变运算顺序，使减法优先。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘除法与加减法混合运算",
+      "question": "$8 + 16 \times 8$ 的结果是？",
+      "options": [
+        "10",
+        "3",
+        "2",
+        "11"
+      ],
+      "answer": "10",
+      "explanation": "$8 + 16 \times 8 = 8 + 2 = 10$。先算除法。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "每枝玫瑰 5 元，每枝百合 4 元。买 3 枝玫瑰和 1 枝百合共多少元？",
+      "options": [
+        "19 元",
+        "15 元",
+        "12 元",
+        "27 元"
+      ],
+      "answer": "19 元",
+      "explanation": "$3 \times 5 + 4 = 15 + 4 = 19$（元）。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "同级运算顺序",
+      "question": "比较大小：$32 \times 4 \times 2$ ( ) $32 \times (4 \times 2)$",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "≈"
+      ],
+      "answer": "=",
+      "explanation": "$32 \times 4 \times 2 = 8 \times 2 = 4$；$32 \times (4 \times 2) = 32 \times 8 = 4$。相等。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "下列算式中结果最大的是？",
+      "options": [
+        "$24 - 12 \times 6$",
+        "$(24 - 12) \times 6$",
+        "$24 + 12 \times 6$",
+        "$24 - (12 - 6)$"
+      ],
+      "answer": "$24 + 12 \times 6$",
+      "explanation": "A=22, B=2, C=26, D=18。最大的是 C。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法与加减法混合运算",
+      "question": "计算 $7 \times 7 + 7$ 的简便方法是？",
+      "options": [
+        "$7 \times 8$",
+        "$7 \times 7$",
+        "$49 \times 7$",
+        "$7 + 49$"
+      ],
+      "answer": "$7 \times 8$",
+      "explanation": "7个7加1个7等于8个7。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "在算式 $100 - 50 + 20$ 中，最后的结果是多少？",
+      "options": [
+        "30",
+        "70",
+        "130",
+        "50"
+      ],
+      "answer": "70",
+      "explanation": "$100 - 50 = 50$, $50 + 20 = 70$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法与加减法混合运算",
+      "question": "小明家养了 8 只白兔，黑兔的只数是白兔的 3 倍。一共有多少只兔？",
+      "options": [
+        "24 只",
+        "11 只",
+        "32 只",
+        "30 只"
+      ],
+      "answer": "32 只",
+      "explanation": "$8 + 8 \times 3 = 8 + 24 = 32$（只）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "篮子上有 30 个鸡蛋，拿走了 6 个，剩下的平均放在折子里，每个折子放 6 个，需要 ___ 个折子。",
+      "options": [],
+      "answer": "4",
+      "explanation": "列式：$(30 - 6) \times 6 = 24 \times 6 = 4$。验算：$4 \times 6 = 24$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "计算 $4 \times 9 \times 6 = $ ___。",
+      "options": [],
+      "answer": "6",
+      "explanation": "列式：$36 \times 6 = 6$。验算：$6 \times 6 = 36$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "计算：$(28 + 12) \times 5 = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$(28 + 12) \times 5 = 40 \times 5 = 8$。验算：$8 \times 5 = 40$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

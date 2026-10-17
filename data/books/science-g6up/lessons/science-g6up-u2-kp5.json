@@ -1,0 +1,71 @@
+{
+  "id": "science-g6up-u2-kp5",
+  "title": "正午影长的四季变化规律",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "正午影长的四季变化规律",
+      "question": "在同一地点，一年中正午时分影长最长的是冬至日。",
+      "options": [],
+      "answer": "对",
+      "explanation": "冬至日太阳高度角最小，影子最长；夏至日太阳高度角最大，影子最短。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "正午影长的四季变化规律",
+      "question": "古代人观察正午影长变化的工具叫（    ）。",
+      "options": [
+        "日晷",
+        "圭表",
+        "沙漏",
+        "水钟"
+      ],
+      "answer": "圭表",
+      "explanation": "日晷是计量一天内时间的工具，圭表是测量四季正午影长变化的工具。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "正午影长的四季变化规律",
+      "question": "从夏至到冬至，我国大部分地区的正午影长（    ）。",
+      "options": [
+        "逐渐变长",
+        "逐渐变短",
+        "先变长再变短",
+        "保持不变"
+      ],
+      "answer": "逐渐变长",
+      "explanation": "夏至正午影子最短，之后太阳高度角逐渐变小，到冬至影子达到最长。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "正午影长的四季变化规律",
+      "question": "如果地轴不再倾斜而是垂直于公转轨道面，那么地球上（    ）。",
+      "options": [
+        "没有昼夜现象",
+        "没有四季温差变化",
+        "极地地区变热",
+        "赤道地区变冷"
+      ],
+      "answer": "没有四季温差变化",
+      "explanation": "四季的产生是由于地轴倾斜导致公转过程中阳光直射点变化，若地轴不倾斜，阳光直射点将永远固定在赤道。"
+    }
+  ],
+  "knowledge": null
+}

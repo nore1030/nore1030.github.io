@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u5-kp2",
+  "title": "学校科目与时间",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Module 5 My school day 我的学校生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学校科目与时间",
+      "question": "「星期三」的英文是（　）",
+      "options": [
+        "Wednesday",
+        "Wendsday",
+        "wednesday",
+        "Wenesday"
+      ],
+      "answer": "Wednesday",
+      "explanation": "W-e-d 开头。"
+    }
+  ],
+  "knowledge": {
+    "point": "学校科目与时间",
+    "core_concept": "maths 数学、history 历史、science 科学；Wednesday 星期三。",
+    "key_formula": "I love history. / on Wednesday",
+    "common_mistakes": [
+      "星期首字母不大写。"
+    ],
+    "tips": "星期一律大写。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp9",
+  "title": "物体方位",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 5,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物体方位",
+      "question": "Where is the ball? It's ___ the box. (在盒子里面)",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "in表示在...里面。"
+    }
+  ],
+  "knowledge": null
+}

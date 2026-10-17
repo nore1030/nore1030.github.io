@@ -1,0 +1,47 @@
+{
+  "id": "history-g10up-u1-kp2",
+  "title": "秦汉统一多民族封建国家",
+  "bookId": "history-g10up",
+  "unitNumber": 1,
+  "unitTitle": "从中华文明起源到秦汉统一",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "秦汉统一多民族封建国家",
+      "question": "秦朝在地方推行的制度是（　）",
+      "options": [
+        "分封制",
+        "郡县制",
+        "行省制",
+        "三省六部制"
+      ],
+      "answer": "郡县制",
+      "explanation": "秦推行郡县制。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "秦汉统一多民族封建国家",
+      "question": "汉武帝推行“推恩令”以削弱诸侯王势力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "推恩令削弱王国势力。"
+    }
+  ],
+  "knowledge": {
+    "point": "秦汉统一多民族封建国家",
+    "core_concept": "公元前 221 年秦统一六国，建立中央集权制度（皇帝制度、三公九卿、郡县制）。汉武帝通过推恩令、罢黜百家尊崇儒术、盐铁官营巩固大一统。",
+    "key_formula": "秦：中央集权制度的确立",
+    "common_mistakes": [
+      "把郡县制当作秦首创的分封。"
+    ],
+    "tips": "郡县制取代分封制是关键。"
+  }
+}

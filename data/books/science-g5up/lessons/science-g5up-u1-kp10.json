@@ -1,0 +1,39 @@
+{
+  "id": "science-g5up-u1-kp10",
+  "title": "光的传播与遮挡",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 5,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光的传播与遮挡",
+      "question": "光能穿过透明度不同的物体，下列最难通过光线的是（___）。",
+      "options": [
+        "干净的玻璃片",
+        "一张薄纸",
+        "厚木板",
+        "保鲜膜"
+      ],
+      "answer": "厚木板",
+      "explanation": "厚木板是不透明物体，光无法穿过。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的传播与遮挡",
+      "question": "空气、水和玻璃等透明物质通常被称为光的（___）。",
+      "options": [],
+      "answer": "介质",
+      "explanation": "物理学中，光波传播时所经过的物质环境称为介质。"
+    }
+  ],
+  "knowledge": null
+}

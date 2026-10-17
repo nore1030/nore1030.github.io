@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u2-kp18",
+  "title": "词语搭配",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "请将合适的动词词组进行连线。",
+      "options": [
+        "擦洗",
+        "挖掘",
+        "支起",
+        "欣赏",
+        "陶罐",
+        "瓦罐",
+        "耳朵",
+        "双角"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "词语固定搭配考察。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u10-kp2",
+  "title": "旅行词汇 travel / see / visit",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 10,
+  "unitTitle": "Module 10 Are you going to Hong Kong? 旅行计划",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / see / visit",
+      "question": "「旅行」的英文是（　）",
+      "options": [
+        "travel",
+        "travell",
+        "traval",
+        "traveling"
+      ],
+      "answer": "travel",
+      "explanation": "travel = 旅行。"
+    }
+  ],
+  "knowledge": {
+    "point": "旅行词汇 travel / see / visit",
+    "core_concept": "travel 旅行、see 看、visit 参观；What are you going to see? 你打算去看什么？",
+    "key_formula": "What are you going to see?",
+    "common_mistakes": [
+      "going to see 写成 going see。"
+    ],
+    "tips": "to 不能丢。"
+  }
+}

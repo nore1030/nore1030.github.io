@@ -1,0 +1,44 @@
+{
+  "id": "science-g6up-u2-kp2",
+  "title": "昼夜交替现象的成因假设",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "昼夜交替现象的成因假设",
+      "question": "能够解释昼夜交替现象的假设不包括（    ）。",
+      "options": [
+        "太阳不动，地球自转",
+        "地球不动，太阳绕着地球转",
+        "地球不动，月球自转",
+        "地球绕着太阳转，同时自转"
+      ],
+      "answer": "地球不动，月球自转",
+      "explanation": "月球自转不会导致地球上产生昼夜交替现象。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "昼夜交替现象的成因假设",
+      "question": "昼夜交替一次的时间大约是（    ）。",
+      "options": [
+        "12小时",
+        "24小时",
+        "365天",
+        "12个月"
+      ],
+      "answer": "24小时",
+      "explanation": "地球自转一周大约24小时，即一个昼夜交替周期。"
+    }
+  ],
+  "knowledge": null
+}

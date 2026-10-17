@@ -1,0 +1,63 @@
+{
+  "id": "college-computer-python-programming-u1-kp1",
+  "title": "变量与数据类型",
+  "bookId": "college-computer-python-programming",
+  "unitNumber": 1,
+  "unitTitle": "基础语法与数据类型",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "变量与数据类型",
+      "question": "Python 中 7 // 2 的结果是（　）",
+      "options": [
+        "3.5",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": "3",
+      "explanation": "整除向下取整。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "变量与数据类型",
+      "question": "表达式 2 ** 3 的值是（　）",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "5"
+      ],
+      "answer": "8",
+      "explanation": "** 表示幂运算。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "变量与数据类型",
+      "question": "Python 是动态类型语言，变量无需声明类型。",
+      "options": [],
+      "answer": "对",
+      "explanation": "动态类型。"
+    }
+  ],
+  "knowledge": {
+    "point": "变量与数据类型",
+    "core_concept": "Python 常用类型：int、float、str、bool。整数除法 //、取余 %、幂 **。字符串可用 + 拼接、* 重复。",
+    "key_formula": "$7//2=3$，$7\\%2=1$",
+    "common_mistakes": [
+      "把 / 与 // 混淆。"
+    ],
+    "tips": "/ 得浮点，// 向下取整。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2down-u2-kp2",
+  "title": "爱护公共环境",
+  "bookId": "moral-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们生活的地方",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "爱护公共环境",
+      "question": "喝完饮料的塑料瓶应该（　）",
+      "options": [
+        "扔进可回收物桶",
+        "扔在地上",
+        "塞进花坛",
+        "烧掉"
+      ],
+      "answer": "扔进可回收物桶",
+      "explanation": "塑料瓶可回收。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "爱护公共环境",
+      "question": "不能随地吐痰、乱扔垃圾。",
+      "options": [],
+      "answer": "对",
+      "explanation": "要爱护公共环境。"
+    }
+  ],
+  "knowledge": {
+    "point": "爱护公共环境",
+    "core_concept": "不随地吐痰、不乱扔垃圾，爱护花草树木。垃圾分类投放，节约用水用电。",
+    "key_formula": "保护环境、人人有责",
+    "common_mistakes": [
+      "随地乱扔果皮。"
+    ],
+    "tips": "保护环境从身边做起。"
+  }
+}

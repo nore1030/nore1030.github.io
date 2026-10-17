@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp17",
+  "title": "询问人数词组",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 13,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问人数词组",
+      "question": "How ______ apples are on the table?",
+      "options": [],
+      "answer": "many",
+      "explanation": "询问可数名词的数量使用 how many。"
+    }
+  ],
+  "knowledge": null
+}

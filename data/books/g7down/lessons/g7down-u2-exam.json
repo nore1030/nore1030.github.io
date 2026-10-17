@@ -1,0 +1,61 @@
+{
+  "id": "g7down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g7down",
+  "unitNumber": 2,
+  "unitTitle": "实数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平方根与立方根",
+      "question": "负数没有平方根，但有立方根。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平方根要求非负；立方根对任意实数都存在。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "无理数与实数",
+      "question": "$\\sqrt5$ 在哪两个整数之间（　）",
+      "options": [
+        "1 和 2",
+        "2 和 3",
+        "3 和 4",
+        "4 和 5"
+      ],
+      "answer": "2 和 3",
+      "explanation": "$2^2=4<5<9=3^2$，故 $2<\\sqrt5<3$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方根与立方根",
+      "question": "$\\sqrt{81}=$ ___",
+      "options": [],
+      "answer": "9",
+      "explanation": "$9^2=81$。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "实数的运算与估算",
+      "question": "计算：$|\\sqrt2-1|+1=$ ？（保留最简形式）",
+      "options": [],
+      "answer": "\\sqrt2",
+      "explanation": "$\\sqrt2>1$，故 $|\\sqrt2-1|=\\sqrt2-1$，加 1 得 $\\sqrt2$。"
+    }
+  ],
+  "knowledge": null
+}

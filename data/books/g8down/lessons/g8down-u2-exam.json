@@ -1,0 +1,61 @@
+{
+  "id": "g8down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g8down",
+  "unitNumber": 2,
+  "unitTitle": "勾股定理",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "勾股定理",
+      "question": "直角三角形两直角边为 9 和 12，斜边是多少？",
+      "options": [],
+      "answer": "15",
+      "explanation": "$\\sqrt{81+144}=\\sqrt{225}=15$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "勾股定理的逆定理",
+      "question": "下列不是勾股数的是（　）",
+      "options": [
+        "3,4,5",
+        "6,8,10",
+        "8,15,17",
+        "4,5,6"
+      ],
+      "answer": "4,5,6",
+      "explanation": "$4^2+5^2=41\\ne36$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "勾股定理",
+      "question": "直角三角形两直角边为 5 和 12，斜边为 ___。",
+      "options": [],
+      "answer": "13",
+      "explanation": "$\\sqrt{25+144}=13$。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "勾股定理的逆定理",
+      "question": "一个三角形三边为 7、24、25，它的形状是？请填“直角”或“非直角”",
+      "options": [],
+      "answer": "直角",
+      "explanation": "$7^2+24^2=625=25^2$。"
+    }
+  ],
+  "knowledge": null
+}

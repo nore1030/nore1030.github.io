@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp24",
+  "title": "句子结构",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 20,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构",
+      "question": "将下列单词连成句子：[like, what, you, would]",
+      "options": [
+        "like",
+        "what",
+        "you",
+        "would"
+      ],
+      "answer": "what,would,you,like",
+      "explanation": "特殊疑问句结构：疑问词+情态动词+主语+动词。"
+    }
+  ],
+  "knowledge": null
+}

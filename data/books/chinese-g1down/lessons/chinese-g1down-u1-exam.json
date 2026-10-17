@@ -1,0 +1,229 @@
+{
+  "id": "chinese-g1down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 1,
+  "unitTitle": "识字（一）",
+  "kpIndex": 6,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音字母表",
+      "question": "字母表里 R 的下一个字母是 S。",
+      "options": [],
+      "answer": "对",
+      "explanation": "字母顺序为 P Q R S T..."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "四季词汇与动词搭配",
+      "question": "“秋霜降”中的“霜”通常是在春天出现的现象。",
+      "options": [],
+      "answer": "错",
+      "explanation": "霜降是秋季的自然现象。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "“请”字的偏旁是“讠”，表示这个字和说话有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "言字旁的字多与语言、说话、礼貌语有关。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "谜语“双木不成林”的谜底是“相”字。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“双木”是“林”，此处题目说法不具逻辑，通常是指“相”字包含木，但双木是林。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季词汇与动词搭配",
+      "question": "读句子：“池草青，山花红，鱼出水，鸟入林。”句子中表示动作的字是：",
+      "options": [
+        "池、山",
+        "青、红",
+        "出、入",
+        "鱼、鸟"
+      ],
+      "answer": "出、入",
+      "explanation": "“出”和“入”是动词，表示鱼和鸟的动作。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "姓氏介绍与拆字法",
+      "question": "姓氏“上官”属于：",
+      "options": [
+        "单姓",
+        "复姓",
+        "三字姓",
+        "不是姓"
+      ],
+      "answer": "复姓",
+      "explanation": "两个字组成的姓氏叫复姓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字谜逻辑推理",
+      "question": "字迷：“一人一张口，口下长只手。”谜底是：",
+      "options": [
+        "合",
+        "拿",
+        "吹",
+        "抱"
+      ],
+      "answer": "拿",
+      "explanation": "上面是“合”（人+口），下面是“手”，合起来是“拿”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读理解",
+      "question": "读《小池》：泉眼无声惜细流，树阴照水爱晴柔。诗中“晴”字的意思是：",
+      "options": [
+        "下雨",
+        "阴天",
+        "大雾",
+        "晴朗"
+      ],
+      "answer": "晴朗",
+      "explanation": "“晴”代表晴天，阳光灿烂。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与动词搭配",
+      "question": "“夏雨、秋霜、冬雪”这组词语是按什么顺序排列的？",
+      "options": [
+        "时间",
+        "大小",
+        "多少",
+        "好坏"
+      ],
+      "answer": "时间",
+      "explanation": "春夏秋三季是按一年中的时间先后排序的。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "“小青蛙大眼睛，过路请你轻轻行。”这两句中一共有几个带“青”字族的字？",
+      "options": [
+        "2个",
+        "3个",
+        "4个",
+        "5个"
+      ],
+      "answer": "3个",
+      "explanation": "分别是：青、睛、请。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与动词搭配",
+      "question": "一年有四个季节，分别是春、夏、秋、（___）。",
+      "options": [],
+      "answer": "冬",
+      "explanation": "一年的四个季节是春夏秋冬。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形声字构字规律（青字族）",
+      "question": "“河水（___）（___）天气晴”，横线处应填：",
+      "options": [],
+      "answer": "清清",
+      "explanation": "课文《小青蛙》：河水清清天气晴。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音字母表",
+      "question": "请将大写字母与对应的小写字母连线。",
+      "options": [
+        "Q",
+        "R",
+        "B",
+        "G",
+        "r",
+        "q",
+        "g",
+        "b"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "Q-q, R-r, B-b, G-g。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季词汇与动词搭配",
+      "question": "请将动词与它经常搭配的事物连线。",
+      "options": [
+        "吹",
+        "落",
+        "降",
+        "飘",
+        "雨",
+        "雪",
+        "风",
+        "霜"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "吹风、落雨、降霜、飘雪。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "姓氏介绍与拆字法",
+      "question": "连词成句：",
+      "options": [
+        "中国姓氏",
+        "有很多",
+        "常见的"
+      ],
+      "answer": "常见的,中国姓氏,有很多",
+      "explanation": "主语是“常见的中国姓氏”，谓语是“有很多”。"
+    }
+  ],
+  "knowledge": null
+}

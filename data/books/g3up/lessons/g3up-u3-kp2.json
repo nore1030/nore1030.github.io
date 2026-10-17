@@ -1,0 +1,107 @@
+{
+  "id": "g3up-u3-kp2",
+  "title": "千米的认识与路程估测",
+  "bookId": "g3up",
+  "unitNumber": 3,
+  "unitTitle": "测量",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "1000 米和 1 千米一样长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "千米和米之间的进率是 1000，1 千米 = 1000 米。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "学校操场跑道一圈是 400 米，跑 5 圈是多少千米？",
+      "options": [
+        "2 千米",
+        "20 千米",
+        "2000 千米",
+        "200 千米"
+      ],
+      "answer": "2 千米",
+      "explanation": "计算：$400 \times 5 = 2000$ 米。因为 1000 米 = 1 千米，所以 2000 米 = 2 千米。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "1 千米比 900 米多多少？",
+      "options": [
+        "10 米",
+        "100 米",
+        "1000 米",
+        "1 米"
+      ],
+      "answer": "100 米",
+      "explanation": "1 千米 = 1000 米。$1000 - 900 = 100$ 米。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "小明每小时走 4 ( )。",
+      "options": [
+        "米",
+        "分米",
+        "厘米",
+        "千米"
+      ],
+      "answer": "千米",
+      "explanation": "步行速度通常用千米/小时。走 4 米或 4 分米太慢了。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "马拉松长跑比赛全程约 42 ( )。",
+      "options": [
+        "米",
+        "厘米",
+        "千米",
+        "分米"
+      ],
+      "answer": "千米",
+      "explanation": "长跑比赛的距离非常长，应用千米作为单位。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "小明家距离学校 2 千米，他每天中午回家吃饭。小明每天上学和放学一共要走 ___ 千米。",
+      "options": [],
+      "answer": "8",
+      "explanation": "每天上学和放学需要走 4 趟（早上上学、中午放学、下午上学、下午放学）。$2 \times 4 = 8$ 千米。验算：$8 \times 4 = 2$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "千米的认识与路程估测",
+    "core_concept": "千米(km)也叫公里，是计量比较长的距离时使用的单位。1千米等于1000米。我们要学会在生活中估测距离，比如标准操场跑2圈半就是1000米，步行约15分钟也是1千米。",
+    "key_formula": "$1km = 1000m$",
+    "common_mistakes": [
+      "将千米和米之间的进率误认为10或100。",
+      "估算路程时，单位选择不当（如把城市距离写成米）。"
+    ],
+    "tips": "记住“3个0”法则，千米变米要在数字后面加3个0。"
+  }
+}

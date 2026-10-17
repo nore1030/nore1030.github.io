@@ -1,0 +1,39 @@
+{
+  "id": "science-g4up-u1-kp8",
+  "title": "耳的结构",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "耳的结构",
+      "question": "鼓膜是非常薄且有弹性的薄膜，即使很轻的声音也会引起它的振动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "鼓膜的结构特点决定了它能感应声波带来的细微压力变化并产生振动。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "耳的结构",
+      "question": "人耳朵里将声波信号转化为听觉信号的结构是：",
+      "options": [
+        "鼓膜",
+        "听小骨",
+        "听觉神经",
+        "耳蜗"
+      ],
+      "answer": "耳蜗",
+      "explanation": "耳蜗接收听小骨传来的振动并将其转化为大脑能接收的听觉信号。"
+    }
+  ],
+  "knowledge": null
+}

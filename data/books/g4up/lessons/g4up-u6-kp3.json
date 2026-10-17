@@ -1,0 +1,118 @@
+{
+  "id": "g4up-u6-kp3",
+  "title": "商的变化规律及简便运算",
+  "bookId": "g4up",
+  "unitNumber": 6,
+  "unitTitle": "除数是两位数的除法",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "被除数和除数同时乘 10，商不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据商不变的规律：被除数和除数同时乘或除以同一个不为 0 的数，商不变。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "计算 $400 \times 25$ 时，被除数和除数末尾各去掉一个 0，余数不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "利用商不变规律简化计算时，余数也要相应地缩小。如果被除数和除数各去掉一个 0，余数会缩小 10 倍。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "两个数相除，商是 20。如果被除数乘 3，除数不变，商变为：",
+      "options": [
+        "20",
+        "60",
+        "7",
+        "无法确定"
+      ],
+      "answer": "60",
+      "explanation": "商随被除数同方向变化。$20 \times 3 = 60$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "被除数除以 5，除数除以 5，商：",
+      "options": [
+        "乘 5",
+        "除以 5",
+        "不变",
+        "乘 25"
+      ],
+      "answer": "不变",
+      "explanation": "被除数和除数同时除以相同的数（0除外），商不变。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "由 $48 \times 12 = 4$ 推导，则 $(48 \times 2) \times (12 \times 2)$ 的商是：",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "2"
+      ],
+      "answer": "4",
+      "explanation": "被除数和除数同时乘 2，商不变，依然是 4。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "$900 \times 25 = (900 \times 4) \times (25 \times 4) = 3600 \times 100 = 36$，这一步运用了：",
+      "options": [
+        "商不变的规律",
+        "乘法交换律",
+        "分配律",
+        "加法结合律"
+      ],
+      "answer": "商不变的规律",
+      "explanation": "被除数和除数同时乘一个不为 0 的数（4），商不变。这是一种简便运算技巧。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "两数相除，商是 12，如果被除数不变，除数乘 3，现在的商是 ___。",
+      "options": [],
+      "answer": "4",
+      "explanation": "被除数不变，除数乘 3，商反而缩小 3 倍。列式：$12 \times 3 = 4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "商的变化规律及简便运算",
+    "core_concept": "商不变规律：被除数和除数同时乘或除以同一个不为0的数，商不变。若有余数，余数也会随着被除数和除数同时扩大或缩小相同的倍数。",
+    "key_formula": "$(a \times c) \times (b \times c) = a \times b$",
+    "common_mistakes": [
+      "被除数乘一个数而除数除以一个数，误以为商不变",
+      "简便笔算（划0法）时，忽略了余数的变化"
+    ],
+    "tips": "被除数变，商跟着变；除数变，商反向变。"
+  }
+}

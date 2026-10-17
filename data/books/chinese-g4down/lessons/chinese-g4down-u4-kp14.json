@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u4-kp14",
+  "title": "词语释义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 13,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "请将描写动作的词语与其对应的情感连接起来。",
+      "options": [
+        "引吭大叫",
+        "屏息凝视",
+        "警戒",
+        "狂吠",
+        "负责任",
+        "显威风",
+        "抓老鼠",
+        "护雏"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "引吭大叫显威风，屏息凝视抓老鼠，警戒护雏，狂吠是对入侵者的负责。"
+    }
+  ],
+  "knowledge": null
+}

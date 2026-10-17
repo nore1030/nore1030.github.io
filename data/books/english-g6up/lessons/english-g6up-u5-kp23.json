@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u5-kp23",
+  "title": "词汇中英匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 19,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇中英匹配",
+      "question": "将下列英文职业/动作与中文意思匹配。",
+      "options": [
+        "businessman",
+        "factory worker",
+        "stay healthy",
+        "sea",
+        "大海",
+        "商人",
+        "保持健康",
+        "工厂工人"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "A.businessman-商人; B.factory worker-工厂工人; C.stay healthy-保持健康; D.sea-大海。"
+    }
+  ],
+  "knowledge": null
+}

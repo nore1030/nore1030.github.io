@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5up-u1-kp1",
+  "title": "认识自我与自我完善",
+  "bookId": "moral-g5up",
+  "unitNumber": 1,
+  "unitTitle": "成长与自我管理",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识自我与自我完善",
+      "question": "正确的自我认识应该是（　）",
+      "options": [
+        "只看优点",
+        "既看优点也看缺点并努力改正",
+        "只看缺点",
+        "完全依赖别人评价"
+      ],
+      "answer": "既看优点也看缺点并努力改正",
+      "explanation": "全面看待并改进自己。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "认识自我与自我完善",
+      "question": "正视自己的缺点有助于进步。",
+      "options": [],
+      "answer": "对",
+      "explanation": "知错能改。"
+    }
+  ],
+  "knowledge": {
+    "point": "认识自我与自我完善",
+    "core_concept": "少年要学会用全面、发展的眼光认识自己，主动发现并改正缺点，提升道德修养。",
+    "key_formula": "认识自己 → 完善自己",
+    "common_mistakes": [
+      "只看优点，不愿承认缺点。"
+    ],
+    "tips": "正视缺点才能进步。"
+  }
+}

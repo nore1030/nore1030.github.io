@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g1up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 7,
+  "unitTitle": "加与减（二）",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "20 以内的加减法",
+      "question": "8 + 7 = ？",
+      "options": [],
+      "answer": "15",
+      "explanation": "把 7 分成 2 和 5，8+2=10，10+5=15。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "20 以内的加减法",
+      "question": "16 − 8 = ？",
+      "options": [],
+      "answer": "8",
+      "explanation": "想 8 + 8 = 16。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20 各数的组成",
+      "question": "2 个十是（　）",
+      "options": [
+        "20",
+        "12",
+        "10",
+        "2"
+      ],
+      "answer": "20",
+      "explanation": "2 个十 = 20。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "20 以内的加减法",
+      "question": "计算 9 + 6 时，先想把 6 分成 1 和几？（　）",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "1"
+      ],
+      "answer": "5",
+      "explanation": "9 和 1 凑十，6 分成 1 和 5。"
+    }
+  ],
+  "knowledge": null
+}

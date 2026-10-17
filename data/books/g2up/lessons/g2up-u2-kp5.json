@@ -1,0 +1,80 @@
+{
+  "id": "g2up-u2-kp5",
+  "title": "解决问题：求比一个数多（或少）几的数",
+  "bookId": "g2up",
+  "unitNumber": 2,
+  "unitTitle": "100以内的加法和减法（二）",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "比 25 多 18 的数是 33。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是 $25 + 18 = 43$。题干中 33 是计算错误。故判断为错。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "小明有 28 张邮票，小红比小明多 15 张，小红有多少张？",
+      "options": [
+        "13",
+        "33",
+        "43",
+        "53"
+      ],
+      "answer": "43",
+      "explanation": "求比一个数多几用加法：$28 + 15 = 43$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "二（1）班有女生 22 人，男生比女生少 5 人，全班一共有多少人？",
+      "options": [
+        "17",
+        "39",
+        "49",
+        "27"
+      ],
+      "answer": "39",
+      "explanation": "男生：$22 - 5 = 17$人；全班：$22 + 17 = 39$人。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "商场运来 80 筐苹果，上午卖出 25 筐，下午卖出 38 筐，还剩（ ）筐。",
+      "options": [
+        "17",
+        "55",
+        "42",
+        "63"
+      ],
+      "answer": "17",
+      "explanation": "$80 - 25 - 38 = 17$。验算：$17 + 38 + 25 = 80$。"
+    }
+  ],
+  "knowledge": {
+    "point": "解决问题：求比一个数多（或少）几的数",
+    "core_concept": "已知一个数，求比它多几的数，用加法计算（大数=小数+相差数）；求比它少几的数，用减法计算（小数=大数-相差数）。",
+    "key_formula": "求多用加法（$+$），求少用减法（$-$）。",
+    "common_mistakes": [
+      "不理解题意，盲目根据“多”就加，“少”就减（有时题目是倒着问的）",
+      "找错比较的标准量"
+    ],
+    "tips": "可以画简单的线段图辅助分析：长的线段表示多，短的线段表示少。"
+  }
+}

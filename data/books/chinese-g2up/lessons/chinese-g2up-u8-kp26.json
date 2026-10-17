@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g2up-u8-kp26",
+  "title": "句子逻辑",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句子逻辑",
+      "question": "按照课文内容，排列风娃娃拉船的顺序。",
+      "options": [
+        "风娃娃",
+        "使劲",
+        "向",
+        "吹气",
+        "船帆"
+      ],
+      "answer": "风娃娃,向,船帆,使劲,吹气",
+      "explanation": "根据《风娃娃》中助人为乐的情节进行语序重组。"
+    }
+  ],
+  "knowledge": null
+}

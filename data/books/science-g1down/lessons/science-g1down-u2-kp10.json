@@ -1,0 +1,45 @@
+{
+  "id": "science-g1down-u2-kp10",
+  "title": "蜗牛的结构",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 3,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "蜗牛的结构",
+      "question": "蜗牛爬行过的地方会留下一条黏液组成的痕迹。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蜗牛通过腹足分泌黏液来辅助爬行，干燥后会有银色痕迹。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蜗牛的结构",
+      "question": "蜗牛有（___）对触角。",
+      "options": [],
+      "answer": "2",
+      "explanation": "蜗牛头部有两对触角，一对长，一对短。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蜗牛的结构",
+      "question": "蜗牛用来爬行的部位叫（___）。",
+      "options": [],
+      "answer": "腹足",
+      "explanation": "蜗牛底部的肌肉组织称为腹足。"
+    }
+  ],
+  "knowledge": null
+}

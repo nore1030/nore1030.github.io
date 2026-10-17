@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp2",
+  "title": "具体日期的表达法",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "具体日期的表达法",
+      "question": "When is the party? It's ______ April 1st.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "具体到某一天使用介词on。"
+    }
+  ],
+  "knowledge": null
+}

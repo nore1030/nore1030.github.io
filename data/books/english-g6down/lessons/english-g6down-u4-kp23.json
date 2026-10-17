@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp23",
+  "title": "时态对比句型",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时态对比句型",
+      "question": "连词成句：(was, no, library, There)",
+      "options": [
+        "was",
+        "no",
+        "library",
+        "There"
+      ],
+      "answer": "There,was,no,library",
+      "explanation": "There was no... 句型表示以前没有某物。"
+    }
+  ],
+  "knowledge": null
+}

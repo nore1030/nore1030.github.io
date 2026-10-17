@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g1up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 6,
+  "unitTitle": "认识图形",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形",
+      "question": "正方体有几个面？（　）",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "正方体 6 个面。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "立体图形",
+      "question": "圆柱的上下两个面一样大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "底面全等。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形",
+      "question": "粉笔盒的形状大概是（　）",
+      "options": [
+        "长方体",
+        "正方体",
+        "球",
+        "圆柱"
+      ],
+      "answer": "长方体",
+      "explanation": "粉笔盒近长方体。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形的拼搭",
+      "question": "球没有平平的面，容易滚动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "球爱滚。"
+    }
+  ],
+  "knowledge": null
+}

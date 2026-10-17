@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp14",
+  "title": "句子理解",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 12,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子理解",
+      "question": "The ______ are eating grass.",
+      "options": [
+        "potatoes",
+        "hens",
+        "carrots",
+        "horses"
+      ],
+      "answer": "horses",
+      "explanation": "horses（马）是动物，可以吃草吃。"
+    }
+  ],
+  "knowledge": null
+}

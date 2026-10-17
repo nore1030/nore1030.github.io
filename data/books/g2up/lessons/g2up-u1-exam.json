@@ -1,0 +1,217 @@
+{
+  "id": "g2up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g2up",
+  "unitNumber": 1,
+  "unitTitle": "长度单位",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "统一长度单位的必要性",
+      "question": "为了交流方便，全世界都统一了长度单位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "统一单位是现代社会科学测量的基础。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "5厘米和50厘米加起来是1米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$5 + 50 = 55$厘米，不等于100厘米。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "门的高度大约是2米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "普通房屋的房门高度通常在2米左右。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "尺子上刻度4到刻度8之间的长度是3厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$8 - 4 = 4$ 厘米，不是3厘米。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "测量纸条长度，左端对准“2”刻度，右端对准“9”刻度，纸条长（ ）。",
+      "options": [
+        "9厘米",
+        "7厘米",
+        "11厘米",
+        "2厘米"
+      ],
+      "answer": "7厘米",
+      "explanation": "$9 - 2 = 7$ 厘米。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "有三根木料，分别长 50 厘米、45 厘米、1 米，最长的是哪根？",
+      "options": [
+        "50 厘米",
+        "45 厘米",
+        "1 米",
+        "一样长"
+      ],
+      "answer": "1 米",
+      "explanation": "1米 = 100厘米，100 > 50 > 45。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统一长度单位的必要性",
+      "question": "1 个大拇指宽大约是 1 厘米，测一盆花的宽度用了 15 个大拇指，这盆花宽大约（ ）。",
+      "options": [
+        "1 厘米",
+        "15 米",
+        "15 厘米",
+        "100 厘米"
+      ],
+      "answer": "15 厘米",
+      "explanation": "15个1厘米就是15厘米。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "将两根长 10 厘米的木条重叠 2 厘米钉在一起，连接后的木条长（ ）。",
+      "options": [
+        "20 厘米",
+        "18 厘米",
+        "22 厘米",
+        "12 厘米"
+      ],
+      "answer": "18 厘米",
+      "explanation": "$10 + 10 - 2 = 18$ 厘米。重叠部分由于重合了，需减去一次。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "线段的初步认识与画法",
+      "question": "在两点之间，可以画（ ）条线段。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "无数"
+      ],
+      "answer": "1",
+      "explanation": "由于两点确定一条直线，两点间只有一条最短的线段。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "蚂蚁从 0 刻度爬到 5 厘米处，再爬（ ）厘米就是 10 厘米。",
+      "options": [
+        "10",
+        "5",
+        "0",
+        "1"
+      ],
+      "answer": "5",
+      "explanation": "$10 - 5 = 5$ 厘米。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "1 米减去 1 厘米等于（ ）。",
+      "options": [
+        "0 厘米",
+        "9 厘米",
+        "99 厘米",
+        "10 厘米"
+      ],
+      "answer": "99 厘米",
+      "explanation": "1米=100厘米，$100 - 1 = 99$ 厘米。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "线段的初步认识与画法",
+      "question": "小明画了一条线段，长度是（ ）。",
+      "options": [
+        "5 厘米",
+        "5 岁",
+        "5 元",
+        "50 米"
+      ],
+      "answer": "5 厘米",
+      "explanation": "一般在纸上画出的线段用厘米表示比较符合实际。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "2 米 = ___ 厘米。",
+      "options": [],
+      "answer": "200",
+      "explanation": "1米=100厘米，2米就是2个100厘米，$2 \\times 100 = 200$。验算：$200 \\div 2 = 100$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "线段的初步认识与画法",
+      "question": "有一个正方形，它由 ___ 条线段围成。",
+      "options": [],
+      "answer": "4",
+      "explanation": "正方形有四条直的边，每条边都是线段。验算：边数=4 ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "计算：$52 + 48 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$52 + 48 = 100$。验算：$100 - 48 = 52$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

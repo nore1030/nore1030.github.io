@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u3-kp7",
+  "title": "Asking about weather",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 3,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Asking about weather",
+      "question": "____ the weather like in New York?",
+      "options": [
+        "What",
+        "How",
+        "What's",
+        "How's"
+      ],
+      "answer": "What's",
+      "explanation": "询问天气用What's the weather like或How's the weather。"
+    }
+  ],
+  "knowledge": null
+}

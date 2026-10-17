@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp18",
+  "title": "动物特征",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 11,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物特征",
+      "question": "以下不是动物共同点的是：",
+      "options": [
+        "都会运动",
+        "都会叫喊",
+        "都要吃东西",
+        "都会排泄"
+      ],
+      "answer": "都会叫喊",
+      "explanation": "动物并非都会发出叫声，如鱼、蜗牛等通常不发出声音。"
+    }
+  ],
+  "knowledge": null
+}

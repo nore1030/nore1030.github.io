@@ -1,0 +1,129 @@
+{
+  "id": "g1up-u4-kp3",
+  "title": "图形的拼搭与组合",
+  "bookId": "g1up",
+  "unitNumber": 4,
+  "unitTitle": "认识图形（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "两个完全一样的正方体可以拼成一个长方体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个正方体并排靠在一起，长度变长，高度和宽度不变，变成了长方体。验算：拼搭实验成立 ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "用 4 个相同的小正方体，可以拼成一个大的：",
+      "options": [
+        "长方体",
+        "正方体",
+        "圆柱",
+        "球"
+      ],
+      "answer": "长方体",
+      "explanation": "4 个小正方体横着排成一排是长方体。要拼成大正方体至少需要 8 个。验算：$2 \times 2 \times 2 = 8$ ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "在一个大长方体上面放一个球，球的下面接触到的形状是：",
+      "options": [
+        "圆形的",
+        "方方的",
+        "尖尖的",
+        "不确定"
+      ],
+      "answer": "方方的",
+      "explanation": "长方体的表面是平平的、方方的。验算：接触面性质分析 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "最少用几个完全一样的小正方体能拼成一个大正方体？",
+      "options": [
+        "2 个",
+        "4 个",
+        "6 个",
+        "8 个"
+      ],
+      "answer": "8 个",
+      "explanation": "大正方体每条边至少放 2 个小正方体。总数：$2 \times 2 \times 2 = 8$。验算：分层计数法 $4 + 4 = 8$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "老师把 3 个圆柱叠在一起，一共有几个平平的圆面在外面（可以看到或摸到，不考虑叠在一起的接触面）？",
+      "options": [
+        "2 个",
+        "4 个",
+        "6 个",
+        "3 个"
+      ],
+      "answer": "2 个",
+      "explanation": "3 个圆柱叠成一根长柱子，只有最上面和最下面两个底面露在外面。验算：$3 \times 2 - (3 - 1) \times 2 = 6 - 4 = 2$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "用 3 个小正方体拼成一个长方体，这个长方体一共有 ___ 个平平的面。",
+      "options": [],
+      "answer": "6",
+      "explanation": "无论几个正方体连成一排，拼成的仍然是一个长方体，长方体都有 6 个面。验算：拼成的图形是 $1 \times 1 \times 3$ 的整体，依然只有 6 个外表面 ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "计算：$6 + 8 = ?$",
+      "options": [],
+      "answer": "14",
+      "explanation": "$6 + 8 = 14$。验算：$14 - 8 = 6$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "计算：$20 - 5 = ?$",
+      "options": [],
+      "answer": "15",
+      "explanation": "$20 - 5 = 15$。验算：$15 + 5 = 20$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形的拼搭与组合",
+    "core_concept": "通过将多个基础图形拼凑成新的形状，了解图形间的组合关系。例如，两个正方体可以拼成长方体，多个长方体可以搭成滑梯或城堡。核心是培养空间想象力，数出被遮挡的基础图形数量。",
+    "key_formula": "拼成一个大正方体最少需要 8 个一样的小正方体。",
+    "common_mistakes": [
+      "在数复杂组合图形时，容易漏掉被遮在后面或压在底下的积木块。",
+      "认为 4 个小正方体就能拼成大正方体（其实只能拼成一个更大的正方形平面或长方体）。"
+    ],
+    "tips": "数数小技巧：分层数。先数最下面一层有几个，再数第二层，最后加在一起才准确。"
+  }
+}

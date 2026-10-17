@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u6-kp5",
+  "title": "理解阅读",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：西沙群岛也是鸟的天下。岛上有一片片茂密的树林，林中栖息着各种海鸟。遍地都是鸟蛋。这段话是围绕哪句写的？",
+      "options": [
+        "遍地都是鸟蛋",
+        "西沙群岛也是鸟的天下",
+        "林中栖息着各种海鸟",
+        "岛上有一片片茂密的树林"
+      ],
+      "answer": "西沙群岛也是鸟的天下",
+      "explanation": "这是该段的中心句，后文是对“鸟的天下”的具体描写。"
+    }
+  ],
+  "knowledge": null
+}

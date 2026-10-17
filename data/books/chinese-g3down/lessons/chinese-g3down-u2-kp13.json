@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp13",
+  "title": "文言文理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文理解",
+      "question": "《守株待兔》中‘因释其耒而守株’，‘释’的意思是：",
+      "options": [
+        "释放",
+        "解释",
+        "放下",
+        "消释"
+      ],
+      "answer": "放下",
+      "explanation": "指放下农具。"
+    }
+  ],
+  "knowledge": null
+}

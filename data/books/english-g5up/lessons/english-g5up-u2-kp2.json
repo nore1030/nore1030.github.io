@@ -1,0 +1,115 @@
+{
+  "id": "english-g5up-u2-kp2",
+  "title": "询问及描述课程安排",
+  "bookId": "english-g5up",
+  "unitNumber": 2,
+  "unitTitle": "My week",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "在句子 'What do you have on Mondays?' 中，Monday 必须用复数形式表示每个周一。",
+      "options": [],
+      "answer": "对",
+      "explanation": "on Mondays 表示每个周一，符合习惯表达。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "What ______ you have on Tuesdays?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "answer": "do",
+      "explanation": "主语为 you，助动词用 do。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "What do you do on ______?",
+      "options": [
+        "saturdays",
+        "Saturdays",
+        "Saturday",
+        "the Saturday"
+      ],
+      "answer": "Saturdays",
+      "explanation": "星期单词首字母需大写，表经常性行为用复数。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "— Do you often read books here? — ______",
+      "options": [
+        "Yes, I am.",
+        "No, I don't.",
+        "Yes, I do often.",
+        "No, I'm not."
+      ],
+      "answer": "No, I don't.",
+      "explanation": "Do 引导的一般疑问句，否定回答为 No, I don't."
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "Who is your music teacher? — ______",
+      "options": [
+        "He is kind.",
+        "Mr. Li.",
+        "I have music.",
+        "It's Wednesday."
+      ],
+      "answer": "Mr. Li.",
+      "explanation": "Who 提问人，回答应为姓名或称呼。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "What ______ you have on Fridays?",
+      "options": [],
+      "answer": "do",
+      "explanation": "助动词填空。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问及描述课程安排",
+      "question": "连词成句：",
+      "options": [
+        "do",
+        "What",
+        "you",
+        "have",
+        "?"
+      ],
+      "answer": "What,do,you,have,?",
+      "explanation": "特殊疑问句结构。"
+    }
+  ],
+  "knowledge": null
+}

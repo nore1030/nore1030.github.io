@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u3-kp12",
+  "title": "Weather asking",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 8,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Weather asking",
+      "question": "____ the weather like today?",
+      "options": [],
+      "answer": "whats",
+      "explanation": "缩写形式为what's，此处要求全小写字母不含标点。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp24",
+  "title": "二十四节气",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "二十四节气",
+      "question": "下列哪个选项不属于二十四节气？（ ）。",
+      "options": [
+        "夏至",
+        "大寒",
+        "国庆",
+        "惊蛰"
+      ],
+      "answer": "国庆",
+      "explanation": "国庆是公历节日，非传统农耕二十四节气。"
+    }
+  ],
+  "knowledge": null
+}

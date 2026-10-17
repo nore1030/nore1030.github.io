@@ -1,0 +1,66 @@
+{
+  "id": "english-g5up-u4-kp3",
+  "title": "乐器与球类运动的冠词规则",
+  "bookId": "english-g5up",
+  "unitNumber": 4,
+  "unitTitle": "What can you do?",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "玩足球应该说 'play the football'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在英语中，球类运动前不加定冠词the，应该是play football。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "Chen Jie can play _____ pipa.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": "the",
+      "explanation": "在西洋或民族乐器名称前通常要加定冠词the。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "He can play _____ basketball and play _____ erhu.",
+      "options": [
+        "the; /",
+        "/; the",
+        "the; the",
+        "/; /"
+      ],
+      "answer": "/; the",
+      "explanation": "球类运动前不加the，乐器前加the。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "Sarah can play _____ piano.",
+      "options": [],
+      "answer": "the",
+      "explanation": "乐器名称前需要加定冠词the。"
+    }
+  ],
+  "knowledge": null
+}

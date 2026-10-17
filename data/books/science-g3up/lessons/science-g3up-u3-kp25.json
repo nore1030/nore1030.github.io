@@ -1,0 +1,23 @@
+{
+  "id": "science-g3up-u3-kp25",
+  "title": "气温计读数",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气温计读数",
+      "question": "冰水混合物的温度被规定为（ ___ ）℃。",
+      "options": [],
+      "answer": "0",
+      "explanation": "标准大气压下水结冰的温度为0度。"
+    }
+  ],
+  "knowledge": null
+}

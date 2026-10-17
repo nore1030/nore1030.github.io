@@ -1,0 +1,103 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "内能与热机",
+      "knowledge_points": [
+        {
+          "name": "内能与比热容",
+          "description": "理解内能、热传递与比热容。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "内燃机与热机效率",
+          "description": "了解内燃机四个冲程与热机效率。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "physics-g9down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "电学基础",
+      "knowledge_points": [
+        {
+          "name": "电流与电路",
+          "description": "掌握电流、电压、电阻与欧姆定律。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "电功率与生活用电",
+          "description": "理解电功率与安全用电。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "physics-g9down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "physics-g9down",
+  "grade": 9,
+  "semester": "down",
+  "subject": "physics",
+  "lessons": [
+    {
+      "id": "physics-g9down-u1-kp1",
+      "title": "内能与比热容",
+      "unitNumber": 1,
+      "unitTitle": "内能与热机",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "physics-g9down-u1-kp2",
+      "title": "内燃机与热机效率",
+      "unitNumber": 1,
+      "unitTitle": "内能与热机",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "physics-g9down-u2-kp1",
+      "title": "电流与电路",
+      "unitNumber": 2,
+      "unitTitle": "电学基础",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "physics-g9down-u2-kp2",
+      "title": "电功率与生活用电",
+      "unitNumber": 2,
+      "unitTitle": "电学基础",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

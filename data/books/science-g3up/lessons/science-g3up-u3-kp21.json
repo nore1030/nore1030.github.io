@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp21",
+  "title": "风力等级观察",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风力等级观察",
+      "question": "当我们看到烟飘向北方，树枝摇动，这时的风向和风力大约是（ ）。",
+      "options": [
+        "北风 1级",
+        "南风 4级",
+        "南风 1级",
+        "西风 2级"
+      ],
+      "answer": "南风 4级",
+      "explanation": "烟向北飘是南风；树枝摇动约4级（风吹树枝动）。"
+    }
+  ],
+  "knowledge": null
+}

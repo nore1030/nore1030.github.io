@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u4-kp6",
+  "title": "热传导",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 0,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "热传导",
+      "question": "热量总是从温度较高的物体传向温度较低的物体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "热传递的基本规律是从高温物体传向低温物体，或者从物体的高温部分传向低温部分。"
+    }
+  ],
+  "knowledge": null
+}

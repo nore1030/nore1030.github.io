@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1down-u8-kp11",
+  "title": "课文识记",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 10,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文识记",
+      "question": "《小壁虎借尾巴》中，小壁虎最后发现自己长出了（___）尾巴。",
+      "options": [],
+      "answer": "新",
+      "explanation": "壁虎的尾巴具有再生性。"
+    }
+  ],
+  "knowledge": null
+}

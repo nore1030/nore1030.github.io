@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g3down-u4-kp2",
+  "title": "科学实验过程的有序逻辑记录",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 1,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "科学实验过程的有序逻辑记录",
+      "question": "记录实验时，我们可以按照“实验目的、实验准备、过程、结果”的顺序来写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "有序的逻辑记录是科学观察报告的基本要求。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "科学实验过程的有序逻辑记录",
+      "question": "在法布尔实验的记录中，他为了确定蜜蜂是否能飞回来，先做了什么？",
+      "options": [
+        "把蜜蜂放掉",
+        "在蜜蜂背上做白色记号",
+        "在草地上等待",
+        "记录飞回的时间"
+      ],
+      "answer": "在蜜蜂背上做白色记号",
+      "explanation": "做记号是为了辨别这几只蜜蜂是否是实验的那几只。"
+    }
+  ],
+  "knowledge": {
+    "point": "科学实验过程的有序逻辑记录",
+    "core_concept": "观察实验需要按照一定的逻辑顺序进行记录。通常包括实验的目的（为什么做）、准备（材料）、过程（步骤）和结论（结果/发现）。在写作时使用连接词能使逻辑更清晰。",
+    "key_formula": "实验记叙=目的+过程(先...接着...最后...)+结论。",
+    "common_mistakes": [
+      "实验步骤颠倒，逻辑混乱。",
+      "连接词使用单一或完全缺失。"
+    ],
+    "tips": "可以先用序号标出步骤，再用“首先、接着、然后、最后”将序号连接成一段话。"
+  }
+}

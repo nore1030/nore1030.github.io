@@ -1,0 +1,129 @@
+{
+  "id": "g6down-u4-kp1",
+  "title": "比例的意义和基本性质",
+  "bookId": "g6down",
+  "unitNumber": 4,
+  "unitTitle": "比例",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "如果 $4a = 5b$（$a,b$ 均不为 0），那么 $a:b = 4:5$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据比例的基本性质，内项积等于外项积。如果 $a:b = 4:5$，则 $5a = 4b$。而题干给出的条件是 $4a = 5b$，对应的比例式应为 $a:b = 5:4$。验算：$4 \times a = 5 \times b$ 对应外项 $a, 4$ 和内项 $b, 5$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "下面各比中，能与 $4:3$ 组成比例的是哪一个？",
+      "options": [
+        "$3:4$",
+        "$12:9$",
+        "$8:10$",
+        "$0.4:0.03$"
+      ],
+      "answer": "$12:9$",
+      "explanation": "$12 \times 3 = 36$，$4 \times 9 = 36$。内外项积相等，或者比值 $12 \times 9 = 4 \times 3$ 均为 $1.33$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "已知一个比例的两个外项互为倒数，其中一个内项是 5，另一个内项是多少？",
+      "options": [
+        "5",
+        "$1$",
+        "$0.2$",
+        "$25$"
+      ],
+      "answer": "$0.2$",
+      "explanation": "外项积为 1，内项积也必须为 1。$1 \times 5 = 0.2$。验算：$5 \times 0.2 = 1$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "在比例 $x:8 = 5:4$ 中，$x$ 的值是多少？",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "6"
+      ],
+      "answer": "10",
+      "explanation": "$4x = 8 \times 5$，$4x = 40$，$x = 10$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "如果 $x = \frac{4}{5}y$，那么 $x$ 和 $y$ 的最简整数比是多少？",
+      "options": [
+        "$4:5$",
+        "$5:4$",
+        "$1:4$",
+        "$4:1$"
+      ],
+      "answer": "$4:5$",
+      "explanation": "$x = \frac{4}{5}y$ 等价于 $x:y = 4:5$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "解比例 $8:x = 2:5$，则 $x$ 等于 ___。",
+      "options": [],
+      "answer": "20",
+      "explanation": "根据比例基本性质：$2x = 8 \times 5 = 40$，解得 $x = 20$。验算：$8:20 = 0.4$，$2:5 = 0.4$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "计算 $x$ 的值：$0.5 : 2 = x : 40$",
+      "options": [],
+      "answer": "10",
+      "explanation": "根据比例性质，$2x = 0.5 \times 40 = 20$，$x = 10$。验算：$10 \times 2 = 20$，$0.5 \times 40 = 20$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比例的意义和基本性质",
+      "question": "计算 $x$ 的值：$\frac{x}{6} = \frac{10}{2}$",
+      "options": [],
+      "answer": "30",
+      "explanation": "交叉相乘得 $2x = 60$，$x = 30$。验算：$30 \times 2 = 6$，$6 \times 10 = 60$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "比例的意义和基本性质",
+    "core_concept": "表示两个比相等的式子叫做比例。比例有四个项，两端的两项叫做比例的外项，中间的两项叫做比例的内项。在比例里，两个外项的积等于两个内项的积。",
+    "key_formula": "$a:b = c:d \rightarrow ad=bc$",
+    "common_mistakes": [
+      "将内项和外项混淆，导致交叉相乘错误",
+      "判断两个比是否组成比例时，只看数值不看对应关系"
+    ],
+    "tips": "记住“内乘内，外乘外”，解比例就是把比例式转化成我们熟悉的方程。"
+  }
+}

@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+3:I[6811,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ThemeProvider"]
+4:I[1312,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ToastProvider"]
+5:I[5881,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"DailyRewardWatcher"]
+6:I[2812,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"AchievementWatcher"]
+7:I[9392,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"LeagueWatcher"]
+8:I[5341,[],""]
+9:I[25,[],""]
+a:I[7273,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"BottomNav"]
+c:I[5104,[],"OutletBoundary"]
+e:I[7158,[],"AsyncMetadataOutlet"]
+10:I[5104,[],"ViewportBoundary"]
+12:I[5104,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[4431,[],""]
+:HL["/_next/static/media/ee40bb094c99a29a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/b3b5a181ba22c606.css","style"]
+:HL["/_next/static/css/dc83f55f905644ae.css","style"]
+2:T408,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
+})();
+0:{"P":null,"b":"iRd6etU9gyYI8-hGFBUQJ","p":"","c":["","lesson","g1down__g1down-u4-kp3",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","g1down__g1down-u4-kp3","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b5a181ba22c606.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/dc83f55f905644ae.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]}]]}]]}],{"children":["lesson",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["lesson","g1down__g1down-u4-kp3","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+d:null
+16:I[6505,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","8",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
+17:I[8694,["356","static/chunks/app/lesson/%5Blesson%5D/page-2de60fdc8e582095.js"],"default"]
+b:["$","$L17",null,{"lesson":{"id":"g1down-u4-kp3","title":"100以内数的大小比较与描述","bookId":"g1down","unitNumber":4,"unitTitle":"100以内数的认识","kpIndex":2,"kpTotal":3,"questions":[{"id":5,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"100以内数的大小比较与描述","question":"35比30多得多。","options":[],"answer":"错","explanation":"35只比30多5，属于“多一些”。“多得多”通常用于数值差异较大的情况，如90比30多得多。 ✓。"},{"id":9,"type":"choice","score":5,"difficulty":1,"knowledge_point":"100以内数的大小比较与描述","question":"在 45 ___ 54 中，圆圈里应填：","options":[">","<","=","≈"],"answer":"<","explanation":"比较两位数大小，先看十位。4比5小，所以 $45 < 54$。 ✓。"},{"id":11,"type":"choice","score":5,"difficulty":2,"knowledge_point":"100以内数的大小比较与描述","question":"爷爷今年的岁数比60大，比65小，且个位上是2，爷爷今年多少岁？","options":["61","62","63","64"],"answer":"62","explanation":"在60到65之间的数有：61, 62, 63, 64。个位是2的数只有62。 ✓。"},{"id":14,"type":"choice","score":5,"difficulty":1,"knowledge_point":"100以内数的大小比较与描述","question":"一班有42人，二班人数比一班少一些。二班可能有几人？","options":["45人","40人","10人","80人"],"answer":"40人","explanation":"比42“少一些”的数应该是接近42但比它小的数。40符合条件；10属于“少得多”。 ✓。"},{"id":17,"type":"choice","score":5,"difficulty":3,"knowledge_point":"100以内数的大小比较与描述","question":"从1到100中，个位上是5的两位数一共有几个？","options":["10个","9个","5个","11个"],"answer":"9个","explanation":"这些数分别是：15, 25, 35, 45, 55, 65, 75, 85, 95。一共9个（5不是两位数）。 ✓。"},{"id":18,"type":"choice","score":5,"difficulty":1,"knowledge_point":"100以内数的大小比较与描述","question":"下列各数中，最接近60的数是：","options":["52","58","65","70"],"answer":"58","explanation":"58与60差2；52差8；65差5；70差10。2最小，所以58最接近。 ✓。"}],"knowledge":{"point":"100以内数的大小比较与描述","core_concept":"比较两位数大小，先看十位，十位大的数就大；十位相同，再看个位。可以用“多一些、少一些（差距小）”和“多得多、少得多（差距大）”来描述关系。","key_formula":"比较规则：十位不同看十位，十位相同看个位。","common_mistakes":["看到个位数字大就认为这个数大，如认为49小于39。","分不清“多一些”和“多得多”的区别。"],"tips":"把数看成钱，50元比10元多得多，而12元只比10元多一些。"}},"chestSlot":null}]

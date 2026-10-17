@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp19",
+  "title": "对比实验原则",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对比实验原则",
+      "question": "在对比实验中，我们要保持相同的条件是（ ）。",
+      "options": [
+        "所有条件",
+        "研究因素以外的所有条件",
+        "研究因素本身",
+        "随意条件"
+      ],
+      "answer": "研究因素以外的所有条件",
+      "explanation": "单一变量原则是对比实验的核心。"
+    }
+  ],
+  "knowledge": null
+}

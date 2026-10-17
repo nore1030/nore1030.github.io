@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp26",
+  "title": "生日祝福",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生日祝福",
+      "question": "连词成句：",
+      "options": [
+        "Happy",
+        "to",
+        "birthday",
+        "you"
+      ],
+      "answer": "Happy,birthday,to,you",
+      "explanation": "意为：祝你生日快乐。"
+    }
+  ],
+  "knowledge": null
+}

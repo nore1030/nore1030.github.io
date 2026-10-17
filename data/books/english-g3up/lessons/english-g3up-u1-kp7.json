@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u1-kp7",
+  "title": "离别语",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 3,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "离别语",
+      "question": "当你要和同学道别时，你应该说：'Hello!'",
+      "options": [],
+      "answer": "错",
+      "explanation": "道别应说Goodbye或Bye，Hello是见面时的问候。"
+    }
+  ],
+  "knowledge": null
+}

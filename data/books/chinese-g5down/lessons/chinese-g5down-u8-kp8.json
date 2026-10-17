@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u8-kp8",
+  "title": "分角色朗读",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 6,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分角色朗读",
+      "question": "朗读《手指》时，描写大拇指的语气应该是（ ）的。",
+      "options": [],
+      "answer": "赞美",
+      "explanation": "大拇指吃苦耐劳，语气应带赞美。"
+    }
+  ],
+  "knowledge": null
+}

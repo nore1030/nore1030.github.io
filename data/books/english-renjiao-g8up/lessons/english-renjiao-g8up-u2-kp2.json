@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8up-u2-kp2",
+  "title": "一般将来时",
+  "bookId": "english-renjiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "一般过去时与一般将来时",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般将来时",
+      "question": "Look at the black clouds! It ___ rain.",
+      "options": [
+        "is going to",
+        "was",
+        "goes to",
+        "has gone"
+      ],
+      "answer": "is going to",
+      "explanation": "有迹象表明即将发生。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般将来时",
+      "question": "be going to 表示已经计划好的事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "going to 表打算。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般将来时",
+    "core_concept": "will 表示单纯的将来或临时决定；be going to 表示计划打算或有迹象即将发生。",
+    "key_formula": "will do / be going to do",
+    "common_mistakes": [
+      "两种表达混用不分。"
+    ],
+    "tips": "will 重将来，going to 重打算。"
+  }
+}

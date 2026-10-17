@@ -1,0 +1,107 @@
+{
+  "id": "g2up-u8-kp3",
+  "title": "有序思考与逻辑推导",
+  "bookId": "g2up",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——搭配（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "搭配衣服时，2 件上衣和 2 条裤子一共有 4 种不同的穿法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "每件上衣可以配2条裤子，2件上衣就是 $2 \times 2 = 4$ 种穿法 ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "2 件不同的上衣和 3 条不同的斜裙，一共有几种不同的搭配方法？",
+      "options": [
+        "4 种",
+        "5 种",
+        "6 种",
+        "8 种"
+      ],
+      "answer": "6 种",
+      "explanation": "每件上衣都可以配3条裙子，算式：$2 \times 3 = 6$。验算：$3 + 3 = 6$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "在 1, 3, 5 三个数中，任意选两个求和，得数有几种可能？",
+      "options": [
+        "2 种",
+        "3 种",
+        "4 种",
+        "6 种"
+      ],
+      "answer": "3 种",
+      "explanation": "和的情况有：$1+3=4$, $1+5=6$, $3+5=8$。共有3种得数。验算：没有重复的和 ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "早餐搭配：2 种饮料（牛奶、豆浆），3 种主食（面包、包子、油条）。选一种饮料和一种主食，有几种组合？",
+      "options": [
+        "3 种",
+        "4 种",
+        "5 种",
+        "6 种"
+      ],
+      "answer": "6 种",
+      "explanation": "$2 \times 3 = 6$。可以用连线法验证：牛奶配3种，豆浆配3种，$3 + 3 = 6$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "三个人每两人赠送一张贺卡，一共需要多少张贺卡？",
+      "options": [
+        "3 张",
+        "4 张",
+        "6 张",
+        "9 张"
+      ],
+      "answer": "6 张",
+      "explanation": "送贺卡与顺序有关（A给B，B给A是两张）。$3 \times 2 = 6$。验证：每人送出2张，3人就是 $3 \times 2 = 6$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "有序思考与逻辑推导",
+      "question": "计算：$3 \times 2 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$3 \times 2 = 6$。验算：$2+2+2=6$ ✓。此题模拟2件上衣3条裤子的搭配总数计算。"
+    }
+  ],
+  "knowledge": {
+    "point": "有序思考与逻辑推导",
+    "core_concept": "有序思考是搭配问题的核心。当遇到多类物品搭配（如上衣配裤子）时，应该先选定一类中的一个，去配对另一类中的所有。这种“分层思考”的方法可以有效解决复杂的生活场景问题。不需要画图，通过乘法或连加就能得出结论。",
+    "key_formula": "总搭配数 = 第一类数量 $\\times$ 第二类数量",
+    "common_mistakes": [
+      "混淆了相加和相乘，比如2件衣服2条裤子算成 2+2=4 凑巧对了，但如果是2衣3裤算成 2+3=5 就错了",
+      "在处理三类物品（衣、裤、鞋）搭配时思维混乱"
+    ],
+    "tips": "搭配衣服时，想象每件上衣下面有几个分支指向裤子，分支的总数就是答案。"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "g6up-u1-kp5",
+  "title": "比一个数多/少几分之几的问题",
+  "bookId": "g6up",
+  "unitNumber": 1,
+  "unitTitle": "分数乘法",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "1 吨棉花的 $\\frac{2}{3}$ 和 2 吨铁的 $\\frac{1}{3}$ 一样重。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$1 \\times \\frac{2}{3} = \\frac{2}{3}$（吨），$2 \\times \\frac{1}{3} = \\frac{2}{3}$（吨）。所以重量相等。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "一袋大米吃掉了 $\\frac{1}{5}$，剩下的比吃掉的多占这袋大米的几分之几？",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{1}{5}$"
+      ],
+      "answer": "$\\frac{3}{5}$",
+      "explanation": "剩下 $1 - \\frac{1}{5} = \\frac{4}{5}$。剩下的比吃掉的多占：$\\frac{4}{5} - \\frac{1}{5} = \\frac{3}{5}$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "某工厂去年产值 100 万元，今年产值比去年增加了 $\\frac{1}{10}$，今年产值是多少？",
+      "options": [
+        "110 万元",
+        "101 万元",
+        "90 万元",
+        "100 万元"
+      ],
+      "answer": "110 万元",
+      "explanation": "列式 $100 \\times (1 + \\frac{1}{10}) = 100 \\times \\frac{11}{10} = 110$（万元）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "两根同样长的钢管，第一根用去 $\\frac{1}{2}$ 米，第二根用去它的 $\\frac{1}{2}$。剩下的部分相比：",
+      "options": [
+        "第一根长",
+        "第二根长",
+        "一样长",
+        "无法确定"
+      ],
+      "answer": "无法确定",
+      "explanation": "因为未给出钢管的总长度。若总长 1 米则相等；若大于 1 米，则第一根剩得长；若小于 1 米，则第二根剩得长。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "小明有 60 张邮票，小红比小明多 $\\frac{1}{5}$，小红有 ___ 张邮票。",
+      "options": [],
+      "answer": "72",
+      "explanation": "小红张数 = $60 \\times (1 + \\frac{1}{5}) = 60 \\times \\frac{6}{5} = 72$。验算：$(72-60) \\div 60 = 12 \\div 60 = 1/5$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "比一个数多/少几分之几的问题",
+    "core_concept": "这类问题是在单位“1”的基础上进行增减。求比一个数多几分之几用 $1 + \\frac{a}{b}$，求少几分之几用 $1 - \\frac{a}{b}$。然后再用单位“1”乘以这个新的总分率。",
+    "key_formula": "$单位“1” \\times (1 \\pm \\frac{a}{b})$",
+    "common_mistakes": [
+      "忽略了“比...多”中的“1”，直接用单位“1”乘以分率",
+      "多与少的运算符号搞混"
+    ],
+    "tips": "先把“多几分之几”转化成“是单位1的几分之几”，即 $(1 + 分率)$。"
+  }
+}

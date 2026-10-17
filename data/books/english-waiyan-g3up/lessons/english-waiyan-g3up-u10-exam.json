@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u10-exam",
+  "title": "第 10 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 10,
+  "unitTitle": "Module 10 Are you going to Hong Kong? 旅行计划",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / see / visit",
+      "question": "「香港」的英文是（　）",
+      "options": [
+        "Hong Kong",
+        "Hongkong",
+        "Hong Kongg",
+        "Hong-Kong"
+      ],
+      "answer": "Hong Kong",
+      "explanation": "分两词，都大写。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "be going to 疑问句",
+      "question": "「你打算去看什么？」的英文是（　）",
+      "options": [
+        "What are you going to see?",
+        "What you are going to see?",
+        "What are you going to saw?",
+        "What do you going to see?"
+      ],
+      "answer": "What are you going to see?",
+      "explanation": "特殊疑问词 + be + 主语 + going to。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel / see / visit",
+      "question": "visit 的意思是「参观、拜访」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "visit = 参观。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "be going to 疑问句",
+      "question": "— Are you going to see the Great Wall? — ___",
+      "options": [
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, you are.",
+        "Yes, we am."
+      ],
+      "answer": "Yes, I am.",
+      "explanation": "主语 I 配 am。"
+    }
+  ],
+  "knowledge": null
+}

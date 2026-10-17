@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp20",
+  "title": "显微镜构造",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "显微镜构造",
+      "question": "显微镜调节清晰度的主要部件是（）。",
+      "options": [
+        "目镜",
+        "载物台",
+        "反光镜",
+        "调节旋钮"
+      ],
+      "answer": "调节旋钮",
+      "explanation": "通过旋转调节旋钮升降镜筒或载物台，可以调整物像的清晰度。"
+    }
+  ],
+  "knowledge": null
+}

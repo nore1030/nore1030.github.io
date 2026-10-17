@@ -1,0 +1,61 @@
+{
+  "id": "physics-g9up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "physics-g9up",
+  "unitNumber": 3,
+  "unitTitle": "电压、电阻与欧姆定律",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "欧姆定律",
+      "question": "电阻 20 Ω，电压 5 V，电流是多少 A？",
+      "options": [],
+      "answer": "0.25",
+      "explanation": "$I=\\frac{5}{20}=0.25$ A。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "伏安法测电阻与安全用电",
+      "question": "家庭电路中用电器之间的连接方式是（　）",
+      "options": [
+        "串联",
+        "并联",
+        "混联",
+        "无法确定"
+      ],
+      "answer": "并联",
+      "explanation": "用电器并联，互不影响。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "欧姆定律",
+      "question": "导体电阻一定时，电流与电压成正比。",
+      "options": [],
+      "answer": "对",
+      "explanation": "欧姆定律。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "欧姆定律",
+      "question": "某导体两端加 3 V 电压时电流为 0.5 A，则其电阻是多少 Ω？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$R=\\frac{3}{0.5}=6$ Ω。"
+    }
+  ],
+  "knowledge": null
+}

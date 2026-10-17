@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1down-u4-kp12",
+  "title": "字音配对",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字音配对",
+      "question": "请将生字与对应的拼音连线：",
+      "options": [
+        "勇",
+        "窗",
+        "裙",
+        "肉",
+        "qún",
+        "yǒng",
+        "ròu",
+        "chuāng"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考查第四单元重点生词读音。"
+    }
+  ],
+  "knowledge": null
+}

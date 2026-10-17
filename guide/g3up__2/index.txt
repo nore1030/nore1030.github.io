@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+3:I[6811,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ThemeProvider"]
+4:I[1312,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ToastProvider"]
+5:I[5881,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"DailyRewardWatcher"]
+6:I[2812,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"AchievementWatcher"]
+7:I[9392,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"LeagueWatcher"]
+8:I[5341,[],""]
+9:I[25,[],""]
+a:I[7273,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"BottomNav"]
+c:I[5104,[],"OutletBoundary"]
+e:I[7158,[],"AsyncMetadataOutlet"]
+10:I[5104,[],"ViewportBoundary"]
+12:I[5104,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[4431,[],""]
+:HL["/_next/static/media/ee40bb094c99a29a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/b3b5a181ba22c606.css","style"]
+:HL["/_next/static/css/dc83f55f905644ae.css","style"]
+2:T408,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
+})();
+0:{"P":null,"b":"iRd6etU9gyYI8-hGFBUQJ","p":"","c":["","guide","g3up__2",""],"i":false,"f":[[["",{"children":["guide",{"children":[["bookUnit","g3up__2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b5a181ba22c606.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/dc83f55f905644ae.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]}]]}]]}],{"children":["guide",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["bookUnit","g3up__2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+d:null
+16:I[6505,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","8",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
+17:I[1172,["7401","static/chunks/7401-b29993f5ba38fed5.js","9289","static/chunks/9289-bc633f2e2adfab38.js","5588","static/chunks/5588-91a139c9be492075.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8695","static/chunks/app/guide/%5BbookUnit%5D/page-553c7795a0e1b133.js"],"GuideClient"]
+b:["$","$L17",null,{"book":{"id":"g3up","grade":3,"semester":"up","subject":"math","gradeName":"三年级","semesterName":"上册","subjectName":"数学","textbookName":"三年级上册","fullName":"人教版小学数学三年级上册","publisher":"renjiao","publisherName":"人教版","unitsCount":10,"lessonsCount":32,"stage":"primary"},"unit":{"unit_number":2,"title":"万以内的加法和减法（一）","knowledge_points":[{"name":"两位数加减两位数的口算","description":"掌握两位数加减法的拆分口算方法，理解进位与退位逻辑。","difficulty":2,"question_types":["口算","填空"]},{"name":"几百几十加减几百几十的笔算","description":"掌握三位数加减法的竖式规则，强调相同数位对齐。","difficulty":3,"question_types":["竖式计算","判断"]},{"name":"用估算解决实际问题","description":"根据情境将数看作整十或整百数，判断计算结果的合理性。","difficulty":3,"question_types":["选择","应用题"]}],"examLessonId":"g3up-u2-exam","examQuestionCount":15},"summaries":[{"point":"两位数加减两位数的口算","core_concept":"口算两位数加法时，通常将其中一个加数拆分成整十数和一位数，先加整十数再加一位数。减法同理，先减去减数的整十部分，再减去个位部分。如果个位不够减，要注意从十位退一当十。","key_formula":"$$32 + 45 = (32 + 40) + 5 = 72 + 5 = 77$","common_mistakes":["进位加法时忘了加进上来的1","退位减法中，被减数的十位忘了减去退掉的1"],"tips":"拆分法是口算的灵魂，多练习心里拨算珠的感觉。"},{"point":"几百几十加减几百几十的笔算","core_concept":"相同数位对齐，从个位算起。加法中，哪一位相加满十就向前一位进一；减法中，哪一位不够减就从前一位退一当十后再减。这其实是两位数笔算的延伸，只是在百位上多了操作。","key_formula":"相同数位对齐，从各位算起。$360 + 250 = 610$","common_mistakes":["数位没有对齐，把十位加到了百位上","三位数减三位数退位后，最高位如果是0没注意省略"],"tips":"可以先口算百位和十位，再用竖式验证，确保万无一失。"},{"point":"用估算解决实际问题","core_concept":"估算不是求精确值，而是通过把数看作与其接近的整十或整百数，快速判断范围。在解决“够不够”类问题时，估算非常高效。关键在于根据实际需要决定是估大还是估小。","key_formula":"$$198 + 304 \rightarrow 200 + 300 = 500$","common_mistakes":["估算时找的“邻居数”偏差太大，导致结论错误","带单位计算时单位不统一就进行估算"],"tips":"看到“大约”、“最接近”、“够吗”这些词往往提示需要使用估算。"}]}]

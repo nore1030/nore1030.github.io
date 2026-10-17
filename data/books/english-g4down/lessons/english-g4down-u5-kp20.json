@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp20",
+  "title": "特殊疑问句",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊疑问句",
+      "question": "连词成句：[is, Whose, this, hat]",
+      "options": [
+        "is",
+        "Whose",
+        "this",
+        "hat"
+      ],
+      "answer": "Whose,hat,is,this",
+      "explanation": "Whose + 名词 + is this? 是固定句式。"
+    }
+  ],
+  "knowledge": null
+}

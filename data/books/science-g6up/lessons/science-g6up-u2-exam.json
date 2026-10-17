@@ -1,0 +1,222 @@
+{
+  "id": "science-g6up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 6,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "昼夜交替现象的成因假设",
+      "question": "只要地球在不停地转动，就一定会产生昼夜交替现象。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须有光源（太阳）且地球是不透明的，在其转动时才会产生昼夜交替。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球公转的轨道是一个标准的圆形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地球公转的轨道是一个椭圆。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "地壳主要由岩石组成。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地壳是地球表面的坚硬外壳，主要由各种岩石组成。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人类认识地球运动的历史学说",
+      "question": "伽利略发明了望远镜，为日心说提供了观测证据。",
+      "options": [],
+      "answer": "对",
+      "explanation": "伽利略利用望远镜发现了金星位相改变和木星卫星，支持了日心说。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "地球表面陆地和海洋的面积比例约为（    ）。",
+      "options": [
+        "各占一半",
+        "三成陆地七成海洋",
+        "七成陆地三成海洋",
+        "一成陆地九成海洋"
+      ],
+      "answer": "三成陆地七成海洋",
+      "explanation": "地球表面约29%是陆地，约71%是海洋。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人类认识地球运动的历史学说",
+      "question": "下列属于“地心说”和“日心说”共同观点的是（    ）。",
+      "options": [
+        "太阳是静止不动的",
+        "地球是静止不动的",
+        "地球是一个球体",
+        "地球是宇宙的中心"
+      ],
+      "answer": "地球是一个球体",
+      "explanation": "托勒密和哥白尼都认为天体（地球或太阳）是球形的。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "如果我们观察到北极星不动，周围的星体由于地球自转（    ）旋转。",
+      "options": [
+        "顺时针",
+        "逆时针",
+        "向南",
+        "向东"
+      ],
+      "answer": "逆时针",
+      "explanation": "在北半球观察，由于地球自西向东逆时针旋转，星空看起来是绕北极星逆时针旋转。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "产生四季现象最主要的原因是（    ）。",
+      "options": [
+        "地球离太阳远近不断变化",
+        "地轴倾斜且公转",
+        "地球自转方向不断变化",
+        "月球绕地球转动"
+      ],
+      "answer": "地轴倾斜且公转",
+      "explanation": "地轴倾斜且公转导致阳光直射点在南北回归线间移动，从而产生四季。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "下列现象中，能证明地球在自转的是（    ）。",
+      "options": [
+        "影子长短变化",
+        "傅科摆的偏移",
+        "月亮的自转",
+        "极光现象"
+      ],
+      "answer": "傅科摆的偏移",
+      "explanation": "傅科摆是证明地球自转的最直观、最科学的实验之一。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "南极圈内出现极昼现象时，北极圈内通常是（    ）。",
+      "options": [
+        "极昼",
+        "极夜",
+        "昼夜平分",
+        "无法确定"
+      ],
+      "answer": "极夜",
+      "explanation": "南北半球季节和光照情况相反，当南极极昼（冬至左右）时，北极极夜。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球模型制作与结构认识",
+      "question": "在制作地球海陆分布模型时，通常用（    ）代表海洋。",
+      "options": [
+        "绿色",
+        "蓝色",
+        "黄色",
+        "红色"
+      ],
+      "answer": "蓝色",
+      "explanation": "地图和地理模型中，习惯上用蓝色代表海洋和水。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "昼夜交替现象的成因假设",
+      "question": "最早发现“日延长时”和“影更替”规律并编入历法的人群是（    ）。",
+      "options": [
+        "古埃及人",
+        "古希腊人",
+        "古中国人",
+        "古玛雅人"
+      ],
+      "answer": "古中国人",
+      "explanation": "中国古代天文学发达，通过长期观测影子长度制定了二十四节气。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "当地球绕太阳公转到哪个节气时，全球昼夜等长（    ）。",
+      "options": [
+        "夏至",
+        "冬至",
+        "春分",
+        "大暑"
+      ],
+      "answer": "春分",
+      "explanation": "春分和秋分，阳光直射赤道，全球各地昼夜平分。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球在公转过程中，始终倾斜着身子，地轴的上端始终指向（    ）附近。",
+      "options": [],
+      "answer": "北极星",
+      "explanation": "北极星的位置相对固定，是因为地轴基本指向它。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "昼夜交替现象的成因假设",
+      "question": "由地球自转产生的现象叫（    ）交替。",
+      "options": [],
+      "answer": "昼夜",
+      "explanation": "这里的术语应填写昼夜。"
+    }
+  ],
+  "knowledge": null
+}

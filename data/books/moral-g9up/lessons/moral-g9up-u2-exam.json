@@ -1,0 +1,66 @@
+{
+  "id": "moral-g9up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g9up",
+  "unitNumber": 2,
+  "unitTitle": "民主与法治",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "人民当家作主",
+      "question": "公民参与民主决策的重要方式是（　）",
+      "options": [
+        "社情民意反映制度",
+        "投票选举代表",
+        "自己立法",
+        "随意决策"
+      ],
+      "answer": "社情民意反映制度",
+      "explanation": "民主决策渠道。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "全面依法治国",
+      "question": "我国法治建设的十六字方针是（　）",
+      "options": [
+        "科学立法、严格执法、公正司法、全民守法",
+        "有法可依、有法必依、执法必严、违法必究（传统表述）",
+        "民主协商、独立公正",
+        "依法治国、以德治国"
+      ],
+      "answer": "科学立法、严格执法、公正司法、全民守法",
+      "explanation": "新十六字方针。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "人民当家作主",
+      "question": "公民有序参与政治生活是推进民主政治建设的重要内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "有序参与。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "全面依法治国",
+      "question": "公民要自觉维护法律尊严，做守法公民。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守法是要求。"
+    }
+  ],
+  "knowledge": null
+}

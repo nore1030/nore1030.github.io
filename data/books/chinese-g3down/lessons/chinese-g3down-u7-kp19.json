@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u7-kp19",
+  "title": "现代文句式",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代文句式",
+      "question": "将下列词语排列成通顺的句子：",
+      "options": [
+        "我们",
+        "一个",
+        "属于",
+        "世界",
+        "奇妙的"
+      ],
+      "answer": "世界,属于,我们,一个,奇妙的",
+      "explanation": "按照主谓宾结构：世界属于我们一个奇妙的（课文原文倒装或强调写法，标准应为：这是一个属于我们的奇妙世界）。这里按逻辑排序。"
+    }
+  ],
+  "knowledge": null
+}

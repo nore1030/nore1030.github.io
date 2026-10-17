@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g8down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g8down",
+  "unitNumber": 2,
+  "unitTitle": "小说与写作",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说的三要素",
+      "question": "通过他人的反应来表现人物性格，属于（　）",
+      "options": [
+        "侧面描写",
+        "外貌描写",
+        "语言描写",
+        "环境描写"
+      ],
+      "answer": "侧面描写",
+      "explanation": "侧面烘托。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说情节梳理",
+      "question": "小说中的“伏笔”作用是（　）",
+      "options": [
+        "使情节前后照应、结构严谨",
+        "增加字数",
+        "让文章更长",
+        "没有作用"
+      ],
+      "answer": "使情节前后照应、结构严谨",
+      "explanation": "伏笔使情节严谨。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说的三要素",
+      "question": "环境描写可以为人物活动提供背景、渲染气氛。",
+      "options": [],
+      "answer": "对",
+      "explanation": "环境描写作用。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说情节梳理",
+      "question": "梳理情节有助于把握文章主旨。",
+      "options": [],
+      "answer": "对",
+      "explanation": "理情节抓主旨。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u2-kp14",
+  "title": "生物多样性的意义",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 8,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生物多样性的意义",
+      "question": "保护生物多样性的根本目的是（ ）。",
+      "options": [
+        "为了观赏",
+        "为了维持生态系统平衡",
+        "为了消灭害虫",
+        "为了让人类更好控制自然"
+      ],
+      "answer": "为了维持生态系统平衡",
+      "explanation": "生物多样性是生态系统稳定和功能的基础。"
+    }
+  ],
+  "knowledge": null
+}

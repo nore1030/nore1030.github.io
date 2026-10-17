@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp10",
+  "title": "灯泡结构",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "灯泡结构",
+      "question": "小灯泡发光的部分是（ ）。",
+      "options": [
+        "玻璃罩",
+        "金属架",
+        "灯丝",
+        "连接点"
+      ],
+      "answer": "灯丝",
+      "explanation": "电流流过灯丝时产生热量，使其发光。"
+    }
+  ],
+  "knowledge": null
+}

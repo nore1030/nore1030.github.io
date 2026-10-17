@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp12",
+  "title": "能量来源",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "能量来源",
+      "question": "在电路中，能够提供电能的装置是（ ）。",
+      "options": [
+        "发电机",
+        "变压器",
+        "电池",
+        "电插头"
+      ],
+      "answer": "电池",
+      "explanation": "电池是电路的电源，负责提供能量。"
+    }
+  ],
+  "knowledge": null
+}

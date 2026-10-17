@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g1down-u2-kp2",
+  "title": "感叹句朗读与情感表达",
+  "bookId": "chinese-g1down",
+  "unitNumber": 2,
+  "unitTitle": "愿望",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "“我多想去看看！”这句话表达了强烈的愿望。",
+      "options": [],
+      "answer": "对",
+      "explanation": "感叹号和“多想”一词都表达了孩子渴望去远方看世界的情感。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "朗读“我多想去看看！”这一句时，应该带有什么样的感情？",
+      "options": [
+        "害怕",
+        "难过",
+        "急切和向往",
+        "无所谓"
+      ],
+      "answer": "急切和向往",
+      "explanation": "感叹号表示语气的加强，体现了孩子急切想去看天安门升旗仪式的愿望。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "比较句子：A.我多想去看看。 B.我多想去看看！ 哪一句愿望更强烈？",
+      "options": [
+        "A句更强烈",
+        "B句更强烈",
+        "两句一样",
+        "都不可信"
+      ],
+      "answer": "B句更强烈",
+      "explanation": "感叹号比句号语气更重，感情色彩更浓厚。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "“北京城里的（___）广场，盛开着鲜艳的雄花。”这一句出自《我多想去看看》。",
+      "options": [],
+      "answer": "天安门",
+      "explanation": "课文描述北京天安门广场的升旗仪式。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "感叹句朗读与情感表达",
+      "question": "根据课文内容，将下列词语排成一句话。",
+      "options": [
+        "我",
+        "去看看",
+        "多想",
+        "北京"
+      ],
+      "answer": "我,多想,去看看,北京",
+      "explanation": "这是课文《我多想去看看》的核心句式结构。"
+    }
+  ],
+  "knowledge": {
+    "point": "感叹句朗读与情感表达",
+    "core_concept": "学习识别感叹号及其表达的强烈愿望、赞美或喜悦之情。在《我多想去看看》中，通过“多想”和感叹号的结合，表现了边疆孩子对天安门、大雪山的向往。朗读时要音量适度增强，语调有起伏。",
+    "key_formula": "主语 + 多想 + 动作 + 目标 + ！",
+    "common_mistakes": [
+      "朗读时没有语气起伏，读成平淡的陈述句",
+      "书写时漏掉感叹号，改用句号导致情感减弱"
+    ],
+    "tips": "想象自己最想去的旅游景点，用“我多想去……”练习说话。"
+  }
+}

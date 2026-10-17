@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp7",
+  "title": "连读技巧",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "连读技巧",
+      "question": "在句子 'Check it out' 中，Check 和 it 之间通常会发生连读。",
+      "options": [],
+      "answer": "对",
+      "explanation": "辅音k和元音i相连，通常需要连读。"
+    }
+  ],
+  "knowledge": null
+}

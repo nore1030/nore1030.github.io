@@ -1,0 +1,80 @@
+{
+  "id": "chinese-g3down-u3-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，描写环境“十分热闹”的四字词语是？",
+      "options": [
+        "形态各异",
+        "人山人海",
+        "名扬中外",
+        "学富五车"
+      ],
+      "answer": "人山人海",
+      "explanation": "人山人海形容聚集的人极多，场面非常热闹。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“清明时节雨纷纷”中，“纷纷”一词生动地写出了？",
+      "options": [
+        "雨下得很大",
+        "雨下得非常急",
+        "雨下得细而绵绵不断",
+        "雨像冰雹一样"
+      ],
+      "answer": "雨下得细而绵绵不断",
+      "explanation": "纷纷形容连续不断的样子，清明的雨多为细密的春雨。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，没有错别字的一组是？",
+      "options": [
+        "造纸述 伟大",
+        "赵州桥 设计",
+        "经念 经验",
+        "欧州 社会"
+      ],
+      "answer": "赵州桥 设计",
+      "explanation": "A应该是造纸术，C应该是纪念，D应该是欧洲。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列古代记录文字的材料与其特点连线。",
+      "options": [
+        "龟甲",
+        "帛",
+        "竹片",
+        "蔡侯纸",
+        "笨重",
+        "刻字难",
+        "轻便省钱",
+        "价钱贵"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "龟甲坚硬刻字难，帛昂贵，竹片笨重，蔡伦改进的纸轻便便宜。"
+    }
+  ],
+  "knowledge": null
+}

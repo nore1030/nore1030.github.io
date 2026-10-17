@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp17",
+  "title": "冠词用法",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "冠词用法",
+      "question": "This is _____ elephant.",
+      "options": [
+        "a",
+        "an",
+        "/",
+        "two"
+      ],
+      "answer": "an",
+      "explanation": "elephant的首字母e发元音音素，单数要用an。"
+    }
+  ],
+  "knowledge": null
+}

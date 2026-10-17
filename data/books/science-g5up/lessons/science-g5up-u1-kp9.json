@@ -1,0 +1,39 @@
+{
+  "id": "science-g5up-u1-kp9",
+  "title": "光的合成",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 4,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "光的合成",
+      "question": "红色、绿色和蓝色的光混合在一起可以产生白光。",
+      "options": [],
+      "answer": "对",
+      "explanation": "红、绿、蓝是光的三基色，混合后可得到白光。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光的合成",
+      "question": "制作一个彩色轮，当它快速旋转时，能看到原本的颜色混合变成（___）。",
+      "options": [
+        "黑色",
+        "灰色",
+        "白色",
+        "红色"
+      ],
+      "answer": "白色",
+      "explanation": "七色轮快速转动时，利用视觉暂留，多种颜色混合成白色。"
+    }
+  ],
+  "knowledge": null
+}

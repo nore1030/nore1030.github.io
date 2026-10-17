@@ -1,0 +1,47 @@
+{
+  "id": "politics-g11up-u2-kp1",
+  "title": "合同与家庭婚姻",
+  "bookId": "politics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "法律与生活（续）",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "合同与家庭婚姻",
+      "question": "订立合同应遵循的基本原则不包括（　）",
+      "options": [
+        "过错推定",
+        "自愿原则",
+        "平等原则",
+        "诚实信用原则"
+      ],
+      "answer": "过错推定",
+      "explanation": "合同四原则。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "合同与家庭婚姻",
+      "question": "合同是民事主体之间设立、变更、终止民事法律关系的协议。",
+      "options": [],
+      "answer": "对",
+      "explanation": "合同定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "合同与家庭婚姻",
+    "core_concept": "合同订立需遵循自愿、平等、公平、诚实信用原则。结婚要达到法定婚龄，禁止包办买卖婚姻。",
+    "key_formula": "合同五原则",
+    "common_mistakes": [
+      "认为合同可以口头随意订立。"
+    ],
+    "tips": "有约定可口头。"
+  }
+}

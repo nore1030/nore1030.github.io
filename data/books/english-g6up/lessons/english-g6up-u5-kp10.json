@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp10",
+  "title": "职业词汇辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 6,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇辨析",
+      "question": "He works in a post office. He is a ______.",
+      "options": [
+        "cook",
+        "doctor",
+        "postman",
+        "driver"
+      ],
+      "answer": "postman",
+      "explanation": "在邮局(post office)工作的人是邮递员(postman)。"
+    }
+  ],
+  "knowledge": null
+}

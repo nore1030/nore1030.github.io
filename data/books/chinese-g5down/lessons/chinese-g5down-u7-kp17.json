@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u7-kp17",
+  "title": "修辞手法",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法",
+      "question": "请将下列句子与其使用的修辞手法进行连接：",
+      "options": [
+        "小艇像新月",
+        "牛在思考",
+        "谁不赞美荷兰",
+        "静得像水一样",
+        "拟人",
+        "比喻",
+        "比喻",
+        "反问"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "像新月是比喻，思考是拟人，谁不赞美是反问，像水一样是比喻。"
+    }
+  ],
+  "knowledge": null
+}

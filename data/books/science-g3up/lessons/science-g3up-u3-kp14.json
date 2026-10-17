@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp14",
+  "title": "风向标的使用",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风向标的使用",
+      "question": "如果风向标的箭头指向西南方，说明此时刮的是（ ）。",
+      "options": [
+        "东北风",
+        "西南风",
+        "东南风",
+        "西北风"
+      ],
+      "answer": "西南风",
+      "explanation": "风向标箭头指向的方向即为风吹来的方向。"
+    }
+  ],
+  "knowledge": null
+}

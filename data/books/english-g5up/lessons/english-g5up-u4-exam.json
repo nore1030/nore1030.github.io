@@ -1,0 +1,230 @@
+{
+  "id": "english-g5up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g5up",
+  "unitNumber": 4,
+  "unitTitle": "What can you do?",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母组合oo的发音辨析",
+      "question": "'food' 中的 'oo' 发音和 'cool' 是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个单词中的oo都发长音/u:/。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "弹钢琴是 'play piano'，打篮球是 'play basketball'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "乐器piano前面必须加the。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "Can you speak Chinese? 意思是你不能说汉语吗？",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一个肯定形式的一般疑问句，意思是‘你会说汉语吗？’。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "'send' 的意思是发出/送出。",
+      "options": [],
+      "answer": "对",
+      "explanation": "send email是发邮件，send意为发出。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "Oliver can't play football, _____ he can do some kung fu.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "or"
+      ],
+      "answer": "but",
+      "explanation": "表示转折关系用but。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "Robin can _____ English and Chinese.",
+      "options": [
+        "talk",
+        "say",
+        "speak",
+        "tell"
+      ],
+      "answer": "speak",
+      "explanation": "表达‘说某种语言’固定搭配用speak。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "-What can you do?  -_____.",
+      "options": [
+        "I am helpful",
+        "I can dance",
+        "You can dance",
+        "I like dancing"
+      ],
+      "answer": "I can dance",
+      "explanation": "针对What can you do的回答，应使用I can..."
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "I like music. I can play _____ piano, but I can't play _____ ping-pong.",
+      "options": [
+        "/; the",
+        "the; the",
+        "the; /",
+        "/; /"
+      ],
+      "answer": "the; /",
+      "explanation": "乐器前有the，球类前无the。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人能力动词短语",
+      "question": "We can help you _____.",
+      "options": [
+        "swim",
+        "speak",
+        "learn",
+        "do"
+      ],
+      "answer": "learn",
+      "explanation": "help you learn是‘帮你学习’，符合逻辑。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人能力动词短语",
+      "question": "I can help my mother _____ the clothes.",
+      "options": [
+        "wash",
+        "washing",
+        "to washing",
+        "washes"
+      ],
+      "answer": "wash",
+      "explanation": "help sb (to) do sth，这里省略了to，用原形wash。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "-Can you do any kung fu? -_____.",
+      "options": [
+        "Yes, I do",
+        "No, I can",
+        "Yes, I can't",
+        "No, I can't"
+      ],
+      "answer": "No, I can't",
+      "explanation": "否定回答用No, I can't."
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乐器与球类运动的冠词规则",
+      "question": "I often play _____ football with my friends.",
+      "options": [],
+      "answer": "play",
+      "explanation": "根据题干，这里缺动词play。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "I _____ (不能) speak English.",
+      "options": [],
+      "answer": "can't",
+      "explanation": "不能是can not的缩写can't。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人能力动词短语",
+      "question": "连线相应的活动：",
+      "options": [
+        "play ping-pong",
+        "play the violin",
+        "do kung fu",
+        "wash clothes",
+        "练武术",
+        "洗衣服",
+        "打乒乓球",
+        "拉小提琴"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "play ping-pong-打乒乓球, play the violin-拉小提琴, do kung fu-练武术, wash clothes-洗衣服。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "匹配动作与场所：",
+      "options": [
+        "swim",
+        "play basketball",
+        "read books",
+        "sing songs",
+        "操场",
+        "音乐教室",
+        "泳池",
+        "图书馆"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "游泳在泳池，篮球在操场，读书在图书馆，唱歌在音乐教室。"
+    }
+  ],
+  "knowledge": null
+}

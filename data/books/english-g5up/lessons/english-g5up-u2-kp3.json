@@ -1,0 +1,56 @@
+{
+  "id": "english-g5up-u2-kp3",
+  "title": "频度副词often的用法",
+  "bookId": "english-g5up",
+  "unitNumber": 2,
+  "unitTitle": "My week",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词often的用法",
+      "question": "I ______ play football on the weekend.",
+      "options": [
+        "do",
+        "is",
+        "often",
+        "am"
+      ],
+      "answer": "often",
+      "explanation": "often 为频度副词，放在实义动词 play 之前。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "频度副词often的用法",
+      "question": "I ______ watch TV on Saturdays.",
+      "options": [],
+      "answer": "often",
+      "explanation": "填入频度副词表示经常。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "频度副词often的用法",
+      "question": "连词成句：",
+      "options": [
+        "I",
+        "often",
+        "books",
+        "read",
+        "."
+      ],
+      "answer": "I,often,read,books,.",
+      "explanation": "频度副词在动词前。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": "english-g5up-u3-kp6",
+  "title": "味道形容词",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 1,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "味道形容词",
+      "question": "单词 'sweet' 的意思是 '咸的'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "sweet意为甜的，salt/salty意为咸的。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "味道形容词",
+      "question": "This tea is _____. I don't like it.",
+      "options": [
+        "hot",
+        "fresh",
+        "delicious",
+        "healthy"
+      ],
+      "answer": "hot",
+      "explanation": "tea通常与hot搭配，且在负面语境下可能指太烫了。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "味道形容词",
+      "question": "The grapes are _____. They are not sweet.",
+      "options": [],
+      "answer": "sour",
+      "explanation": "如果不甜且描述葡萄，通常是酸的（sour）。"
+    }
+  ],
+  "knowledge": {
+    "point": "味道形容词",
+    "core_concept": "使用 fresh, healthy, delicious, hot, sweet 描述食物。",
+    "key_formula": "It is + 形容词. / They are + 形容词.",
+    "common_mistakes": [
+      "误认为 hot 只有 '热' 的意思，忽略了其 '辣' 的含义"
+    ],
+    "tips": "通过对比学习，如 sweet 对比 sour。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g7up",
+  "unitNumber": 1,
+  "unitTitle": "记叙文阅读",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "记叙文的要素与线索",
+      "question": "下列属于环境描写作用的是（　）",
+      "options": [
+        "交代背景、烘托心情",
+        "说明事物特征",
+        "介绍作者",
+        "论证观点"
+      ],
+      "answer": "交代背景、烘托心情",
+      "explanation": "环境描写作用。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "人物描写与表达效果",
+      "question": "心理描写能直接揭示人物的内心活动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "心理描写揭示内心。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物描写与表达效果",
+      "question": "“她的脸红得像苹果”属于（　）",
+      "options": [
+        "比喻",
+        "夸张",
+        "拟人",
+        "排比"
+      ],
+      "answer": "比喻",
+      "explanation": "把脸红比作苹果。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记叙文的要素与线索",
+      "question": "记叙文必须按时间顺序写。",
+      "options": [],
+      "answer": "错",
+      "explanation": "也可用倒叙、插叙。"
+    }
+  ],
+  "knowledge": null
+}

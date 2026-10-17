@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u7-kp16",
+  "title": "词语解释",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语解释",
+      "question": "将下列词语与其意思对应连线：",
+      "options": [
+        "奇妙",
+        "窃窃私语",
+        "蕴藏",
+        "储藏",
+        "蓄积而未显露",
+        "稀奇神妙",
+        "私下小声说话",
+        "存放起来"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "奇妙-稀奇神妙；窃窃私语-小声说话；蕴藏-未显露；储藏-存放。"
+    }
+  ],
+  "knowledge": null
+}

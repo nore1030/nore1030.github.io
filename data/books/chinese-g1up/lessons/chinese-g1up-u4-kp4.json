@@ -1,0 +1,42 @@
+{
+  "id": "chinese-g1up-u4-kp4",
+  "title": "汉语拼音综合应用",
+  "bookId": "chinese-g1up",
+  "unitNumber": 4,
+  "unitTitle": "汉语拼音（二）：复韵母与鼻韵母",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音综合应用",
+      "question": "连词成句：",
+      "options": [
+        "小鱼",
+        "在水里",
+        "游来游去"
+      ],
+      "answer": "小鱼,在水里,游来游去",
+      "explanation": "这是典型的主语+地点+动作句式。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音综合应用",
+      "question": "连词成句：",
+      "options": [
+        "爱吃",
+        "大熊猫",
+        "嫩竹子"
+      ],
+      "answer": "大熊猫,爱吃,嫩竹子",
+      "explanation": "大熊猫是主语，爱吃是动词，嫩竹子是宾语。"
+    }
+  ],
+  "knowledge": null
+}

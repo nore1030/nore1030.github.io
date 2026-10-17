@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp10",
+  "title": "词语理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语理解",
+      "question": "下列词语中，形容人“志向高远”的是哪一个？",
+      "options": [
+        "胸怀大志",
+        "小心翼翼",
+        "迫不及待",
+        "欣喜若狂"
+      ],
+      "answer": "胸怀大志",
+      "explanation": "胸怀大志指心里有远大的志向。"
+    }
+  ],
+  "knowledge": null
+}

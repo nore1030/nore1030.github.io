@@ -1,0 +1,80 @@
+{
+  "id": "g4down-u4-kp6",
+  "title": "求小数的近似数",
+  "bookId": "g4down",
+  "unitNumber": 4,
+  "unitTitle": "小数的意义和性质",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "求小数的近似数",
+      "question": "保留两位小数就是精确到百分位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "保留两位小数是指小数点后保留两位，第二位即百分位。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "求小数的近似数",
+      "question": "9.954 保留一位小数是多少？",
+      "options": [
+        "10",
+        "10.0",
+        "9.9",
+        "9.0"
+      ],
+      "answer": "10.0",
+      "explanation": "保留一位小数看百分位。百分位是 5，向前进一。9.9 + 0.1 = 10.0。末尾的 0 不能去掉。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "求小数的近似数",
+      "question": "一个两位小数取近似数是 5.8，这个数最大可能是多少？",
+      "options": [
+        "5.84",
+        "5.79",
+        "5.89",
+        "5.85"
+      ],
+      "answer": "5.84",
+      "explanation": "采用“四舍”法能得到的最大原数是百分位为 4 的情况。5.84 舍去后是 5.8。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "求小数的近似数",
+      "question": "把 256800 改写成用“万”作单位的数（保留一位小数）是多少？",
+      "options": [
+        "25.7 万",
+        "25.6 万",
+        "26 万",
+        "25.68 万"
+      ],
+      "answer": "25.7 万",
+      "explanation": "256800 = 25.68 万。保留一位小数看百分位 8，进一得 25.7 万。"
+    }
+  ],
+  "knowledge": {
+    "point": "求小数的近似数",
+    "core_concept": "使用“四舍五入”法。看要求的后一位，如果满5就向前一位进一，不满5就舍去。注意保留位数末尾的0不能去掉。",
+    "key_formula": "\\text{四舍五入法：看精确位后的那一数字}",
+    "common_mistakes": [
+      "保留一位小数得 10.0 时，习惯性把 0 去掉写成 10",
+      "在近似数中间随意进位"
+    ],
+    "tips": "保留到哪一位，就把那一位之后的数画圈，看圈里的第一个数决定舍还是入。"
+  }
+}

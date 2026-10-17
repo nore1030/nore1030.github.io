@@ -1,0 +1,64 @@
+{
+  "id": "g7up-u3-kp2",
+  "title": "等式的性质与解方程",
+  "bookId": "g7up",
+  "unitNumber": 3,
+  "unitTitle": "一元一次方程",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程 $x+5=12$，$x=$ ___",
+      "options": [],
+      "answer": "7",
+      "explanation": "$x=12-5=7$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程：$3x − 4 = 11$，则 $x = $ ？",
+      "options": [],
+      "answer": "5",
+      "explanation": "移项得 $3x = 11 + 4$，即 $3x = 15$，两边同除以 3，得 $x = 5$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程：$2x + 6 = 20$，则 $x = $ ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "移项得 $2x = 20 − 6$，即 $2x = 14$，两边同除以 2，得 $x = 7$。"
+    },
+    {
+      "id": 6,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程 $2(x-1)=8$，$x=$ ___",
+      "options": [],
+      "answer": "5",
+      "explanation": "$x-1=4$，$x=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "等式的性质与解方程",
+    "core_concept": "等式两边同加(减)同一个数或式子仍相等；两边同乘(除以非零数)仍相等。移项要变号。",
+    "key_formula": "$a=b\\Rightarrow a\\pm c=b\\pm c$",
+    "common_mistakes": [
+      "移项忘记变号。"
+    ],
+    "tips": "移项=过桥变号。"
+  }
+}

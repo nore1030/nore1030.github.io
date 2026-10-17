@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp13",
+  "title": "礼貌用语",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 9,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "礼貌用语",
+      "question": "—___? —Thanks.",
+      "options": [
+        "Help you",
+        "Help yourself",
+        "Are you fine",
+        "What is it"
+      ],
+      "answer": "Help yourself",
+      "explanation": "Help yourself(请自便)后接Thanks符合交际情景。"
+    }
+  ],
+  "knowledge": null
+}

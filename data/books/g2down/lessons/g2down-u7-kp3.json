@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u7-kp3",
+  "title": "数位顺序表与数位意义",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "从右边起，第四位是千位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数位顺序从右往左依次是：个位、十位、百位、千位、万位。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "一个四位数，最高位是（ ）。",
+      "options": [
+        "百位",
+        "千位",
+        "万位",
+        "十位"
+      ],
+      "answer": "千位",
+      "explanation": "四位数的数位包括个、十、百、千，最高位是左起第一位，即千位。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "在数位顺序表中，从右往左数，第五位是（ ）。",
+      "options": [
+        "千位",
+        "百位",
+        "个位",
+        "万位"
+      ],
+      "answer": "万位",
+      "explanation": "右起：第一位个，第二位十，第三位百，第四位千，第五位万。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "数字 8 在百位上的数是（ ）。",
+      "options": [
+        "83",
+        "852",
+        "8000",
+        "108"
+      ],
+      "answer": "852",
+      "explanation": "852的8在左起第一位，从右向左数是第三位，即百位。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数位顺序表与数位意义",
+      "question": "一个四位数，千位上是 7，个位上是 3，其他数位都是 0，这个数是 ___。",
+      "options": [],
+      "answer": "7003",
+      "explanation": "千位7，百位0，十位0，个位3，组合起来是 7003。"
+    }
+  ],
+  "knowledge": {
+    "point": "数位顺序表与数位意义",
+    "core_concept": "数位顺序表从右往左依次是个位、十位、百位、千位、万位。每个数位上的数字表示几个该位的计数单位。",
+    "key_formula": "数的组成：$n$个千、$m$个百、$x$个十和$y$个一。",
+    "common_mistakes": [
+      "将数位顺序数反（从左往右数）",
+      "混淆“数位”与“计数单位”的概念"
+    ],
+    "tips": "背熟口诀：一、十、百、千、万，五位顺序记心间。"
+  }
+}

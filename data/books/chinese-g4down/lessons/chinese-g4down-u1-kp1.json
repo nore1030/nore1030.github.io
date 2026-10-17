@@ -1,0 +1,160 @@
+{
+  "id": "chinese-g4down-u1-kp1",
+  "title": "田园古诗词鉴赏",
+  "bookId": "chinese-g4down",
+  "unitNumber": 1,
+  "unitTitle": "乡村生活",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《宿新市徐公店》中，‘急走追黄蝶’的‘走’是‘行走，漫步’的意思。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在古诗中，‘走’通常指奔跑。儿童奔跑着追逐黄色的蝴蝶。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《四时田园杂兴》（其二十五）描写的是初夏时节的乡村景象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诗中提到的‘梅子’‘麦花’‘蛱蝶’都是初夏特有的物候。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《清平乐·村居》中‘清平乐’是词牌名，‘村居’是题目。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是词的基本常识。前面的内容代表韵律格式，后面代表内容主题。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "‘梅子金黄杏子肥，麦花雪白菜花稀。’这句诗中描写了几个季节特有的意象？",
+      "options": [
+        "两个",
+        "三个",
+        "四个",
+        "五个"
+      ],
+      "answer": "四个",
+      "explanation": "意象分别是梅子、杏子、麦花、菜花。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "‘最喜小儿亡赖’中‘亡赖’的意思是：",
+      "options": [
+        "没有钱财",
+        "蛮横不讲理",
+        "调皮、顽皮",
+        "逃亡在外"
+      ],
+      "answer": "调皮、顽皮",
+      "explanation": "在《清平乐·村居》中，亡赖通‘无赖’，指顽皮、可爱。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "‘篱落疏疏一径深，树头新绿未成阴’描写的植物主要是什么颜色？",
+      "options": [
+        "红色",
+        "黄色",
+        "绿色",
+        "白色"
+      ],
+      "answer": "绿色",
+      "explanation": "‘新绿’和‘阴’字都点明了春天树木苍翠的颜色。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "下列古诗中描写季节与其他三项不同的是：",
+      "options": [
+        "《宿新市徐公店》",
+        "《四时田园杂兴》（其二十五）",
+        "《清平乐·村居》",
+        "《咏柳》"
+      ],
+      "answer": "《咏柳》",
+      "explanation": "前三首选自本单元，描绘春夏，而《咏柳》是典型的早春。但在本单元对比中，《四时田园杂兴》侧重初夏感更强（梅子金黄）。然而依据题意，最符合语境的是区分本单元学习的古诗季节特征。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《宿新市徐公店》中，‘走’指的是（___）。",
+      "options": [],
+      "answer": "奔跑",
+      "explanation": "古义中‘走’即为跑。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《清平乐·村居》中，正坐着剥莲蓬的孩子是（___）。",
+      "options": [],
+      "answer": "小儿",
+      "explanation": "原文：最喜小儿亡赖，溪头卧剥莲蓬。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "请将诗句与对应的景象进行匹配。",
+      "options": [
+        "麦花雪白",
+        "日长篱落",
+        "儿童疾走",
+        "溪上青青",
+        "无一人",
+        "菜花稀",
+        "追黄蝶",
+        "草"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "根据古诗原句填空匹配：麦花雪白菜花稀，日长篱落无人过，儿童急走追黄蝶，溪上青青草。"
+    }
+  ],
+  "knowledge": {
+    "point": "田园古诗词鉴赏",
+    "core_concept": "本单元选取了《宿新市徐公店》、《四时田园杂兴》、《清平乐·村居》三首古诗词。重点在于通过‘梅子’‘麦花’‘儿童’‘溪上’等具体意象，重构乡村恬静、勤劳又富有生命力的画面。学习时需体会词牌名（如清平乐）与题目的区别，理解古今异义词，如‘走’在古文中多指奔跑。",
+    "key_formula": "画面想象三步法：看意象、思颜色、悟情感。",
+    "common_mistakes": [
+      "把‘急走追黄蝶’中的‘走’理解为‘散步’或‘慢走’",
+      "混淆词牌名和题目，如认为‘清平乐’就是这首诗的唯一题目"
+    ],
+    "tips": "背诵时可以闭上眼神，在大脑里画一幅画，把诗句里的景物一一‘摆放’进去。"
+  }
+}

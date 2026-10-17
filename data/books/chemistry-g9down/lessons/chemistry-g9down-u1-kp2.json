@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g9down-u1-kp2",
+  "title": "金属资源的利用与保护",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 1,
+  "unitTitle": "金属和金属材料",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "金属资源的利用与保护",
+      "question": "用 160 g 氧化铁炼铁，理论上可得铁多少 g？[$\\text{Fe}_2\\text{O}_3+3\\text{CO}\\xrightarrow{\\text{高温}}2\\text{Fe}+3\\text{CO}_2$，$\\text{Fe}_2\\text{O}_3$ 为 160，Fe 为 56]",
+      "options": [],
+      "answer": "112",
+      "explanation": "$\\frac{160}{160}=\\frac{x}{112}$，$x=112$ g。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "金属资源的利用与保护",
+      "question": "铁制品在干燥环境中比潮湿环境中更易生锈。",
+      "options": [],
+      "answer": "错",
+      "explanation": "潮湿环境更易生锈。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "金属资源的利用与保护",
+      "question": "下列做法不能防止铁生锈的是（　）",
+      "options": [
+        "刷油漆",
+        "涂油",
+        "放在潮湿处",
+        "镀锌"
+      ],
+      "answer": "放在潮湿处",
+      "explanation": "潮湿加速生锈。"
+    }
+  ],
+  "knowledge": {
+    "point": "金属资源的利用与保护",
+    "core_concept": "工业炼铁的原理是用一氧化碳还原氧化铁。铁生锈是铁与氧气和水共同作用的结果，防锈可用刷漆、涂油、镀层。",
+    "key_formula": "$\\text{Fe}_2\\text{O}_3+3\\text{CO}\\xrightarrow{\\text{高温}}2\\text{Fe}+3\\text{CO}_2$",
+    "common_mistakes": [
+      "认为只有氧气就生锈。"
+    ],
+    "tips": "铁生锈需氧气和水同时存在。"
+  }
+}

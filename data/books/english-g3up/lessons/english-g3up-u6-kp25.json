@@ -1,0 +1,29 @@
+{
+  "id": "english-g3up-u6-kp25",
+  "title": "年龄表达",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "年龄表达",
+      "question": "连词成句：",
+      "options": [
+        "I",
+        "six",
+        "am",
+        "years",
+        "old"
+      ],
+      "answer": "I,am,six,years,old",
+      "explanation": "意为：我六岁了。"
+    }
+  ],
+  "knowledge": null
+}

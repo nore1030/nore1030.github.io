@@ -1,0 +1,131 @@
+{
+  "id": "english-g4down-u3-kp4",
+  "title": "Weather vocabulary",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 0,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "'sunny' 的意思是'晴朗的'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sunny意为晴朗的，sun为太阳。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "'rainy' 的意思是'下雪的'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "rainy是下雨的，snowy才是下雪的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "'cloudy' 对应的天气现象是'多云'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "cloud是云，cloudy是多云的。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "It's very ____. Put on your coat.",
+      "options": [
+        "hot",
+        "cold",
+        "warm",
+        "sunny"
+      ],
+      "answer": "cold",
+      "explanation": "由后句'穿上外套'可知天气很冷。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "Can I go outside? No, it's ____. (下雨的)",
+      "options": [
+        "rainy",
+        "windy",
+        "cloudy",
+        "sunny"
+      ],
+      "answer": "rainy",
+      "explanation": "下雨的对应单词是rainy。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "Look! It's ____. Let's make a snowman.",
+      "options": [
+        "snowy",
+        "rainy",
+        "warm",
+        "cool"
+      ],
+      "answer": "snowy",
+      "explanation": "堆雪人(make a snowman)需要下雪的天气(snowy)。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "The sun is out. It's ____ today.",
+      "options": [
+        "sunny",
+        "windy",
+        "rainy",
+        "cloudy"
+      ],
+      "answer": "sunny",
+      "explanation": "太阳出来了，天气是晴朗的。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "It is very ____ (炎热的). I want some water.",
+      "options": [],
+      "answer": "hot",
+      "explanation": "炎热的对应单词是hot。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Weather vocabulary",
+      "question": "It's ____ (凉爽的) in autumn.",
+      "options": [],
+      "answer": "cool",
+      "explanation": "秋天天气凉爽，单词是cool。"
+    }
+  ],
+  "knowledge": null
+}

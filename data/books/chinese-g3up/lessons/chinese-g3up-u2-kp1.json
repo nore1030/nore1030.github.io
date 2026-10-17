@@ -1,0 +1,158 @@
+{
+  "id": "chinese-g3up-u2-kp1",
+  "title": "古诗意象与季节感知",
+  "bookId": "chinese-g3up",
+  "unitNumber": 2,
+  "unitTitle": "金秋时节",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "《山行》这首诗描写的是初春时节的景色。",
+      "options": [],
+      "answer": "错",
+      "explanation": "《山行》描写的是秋天，因为诗句中提到了‘霜叶红于二月花’。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "‘橙黄橘绿’是秋末冬初时景色的真实写照。",
+      "options": [],
+      "answer": "对",
+      "explanation": "出自《赠刘景文》，描写的是秋末冬初硕果累累。景物。 "
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "古诗《山行》中，诗人停车是因为看到了什么美景？",
+      "options": [
+        "寒山石径",
+        "白云人家",
+        "爱枫林晚",
+        "霜叶红于二月花"
+      ],
+      "answer": "爱枫林晚",
+      "explanation": "根据诗句‘停车坐爱枫林晚’，诗人是因为喜爱夕阳下的枫林才停车驻足。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "下列哪个物候象常用来描写秋天的‘残败’景象？",
+      "options": [
+        "桃花凋谢",
+        "荷尽无雨盖",
+        "柳絮飞扬",
+        "映日荷花"
+      ],
+      "answer": "荷尽无雨盖",
+      "explanation": "苏轼在《赠刘景文》中写道‘荷尽已无擎雨盖’，描写荷叶枯萎凋谢。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "《夜书所见》中‘萧萧’一词描写的是什么声音？",
+      "options": [
+        "水流声",
+        "读书声",
+        "风声",
+        "敲门声"
+      ],
+      "answer": "风声",
+      "explanation": "‘萧萧梧叶送寒声’中‘萧萧’是拟声词，指秋风的声音。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "古诗中提到‘知有儿童挑促织’，其中‘促织’是指：",
+      "options": [
+        "蚂蚁",
+        "蜻蜓",
+        "蟋蟀",
+        "蝴蝶"
+      ],
+      "answer": "蟋蟀",
+      "explanation": "促织是蟋蟀的别名。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "《山行》中，比二月的鲜花还要红的景物是：",
+      "options": [],
+      "answer": "霜叶",
+      "explanation": "对应诗句‘霜叶红于二月花’。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "请将诗题与对应的作者连线。",
+      "options": [
+        "《山行》",
+        "《赠刘景文》",
+        "《夜书所见》",
+        "《秋天的雨》",
+        "杜牧",
+        "苏轼",
+        "叶绍翁",
+        "课文"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "对应关系：A-杜牧，B-苏轼，C-叶绍翁，D-文章（课文）。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "请将景物与其描写的季节相连。",
+      "options": [
+        "红叶",
+        "荷花",
+        "冰雪",
+        "柳芽",
+        "秋天",
+        "夏天",
+        "冬天",
+        "春天"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "四季典型景物对应。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗意象与季节感知",
+    "core_concept": "学生需要通过识别和理解古诗中典型的物候意象（如：霜叶、残荷、促织、橙黄橘绿等）来判断季节及诗人表达的情感。例如，《山行》通过‘枫林’、‘霜叶’点明秋色。学习重点在于理解‘红于二月花’所体现的对大自然生命力的赞美。",
+    "key_formula": "季节 = 典型景物 + 颜色变化 + 植物状态",
+    "common_mistakes": [
+      "误将‘二月花’当做诗中描写的实际时间",
+      "不能理解‘促织’、‘擎雨盖’等偏生词的意象含义"
+    ],
+    "tips": "朗读时可以画出诗中表达颜色的词（如红、橙、黄、绿），通过色彩画面的构建辅助记忆。"
+  }
+}

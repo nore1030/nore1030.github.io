@@ -1,0 +1,116 @@
+{
+  "id": "english-g5down-u3-kp5",
+  "title": "询问活动举办的时间",
+  "bookId": "english-g5down",
+  "unitNumber": 3,
+  "unitTitle": "My school calendar",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "当你想询问派对在什么时候，可以说 'When is the party?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "When is...? 用来询问时间。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "— When is the English party? — ________ in May.",
+      "options": [
+        "They are",
+        "It's",
+        "Is it",
+        "Its"
+      ],
+      "answer": "It's",
+      "explanation": "It's是It is的缩写，常用于回答时间。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "— When is your birthday? — It's in ________.",
+      "options": [
+        "monday",
+        "blue",
+        "September",
+        "China"
+      ],
+      "answer": "September",
+      "explanation": "回答时间时应选择表示月份的单词。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "— Is the sports meet in May? — ________. It's in April.",
+      "options": [
+        "Yes, it is",
+        "No, it isn't",
+        "Yes, they are",
+        "No, they aren't"
+      ],
+      "answer": "No, it isn't",
+      "explanation": "根据后一句的纠正，应作否定回答。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "— ________ is the school trip? — It's in May.",
+      "options": [],
+      "answer": "when",
+      "explanation": "询问时间用疑问词when。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "连词成句：the, When, is, party, ?",
+      "options": [
+        "the",
+        "When",
+        "is",
+        "party",
+        "?"
+      ],
+      "answer": "When,is,the,party,?",
+      "explanation": "特殊疑问句语序：疑问词+be动词+名词。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "连词成句：It, in, is, May, .",
+      "options": [
+        "It",
+        "in",
+        "is",
+        "May",
+        "."
+      ],
+      "answer": "It,is,in,May,.",
+      "explanation": "固定句式It is in + 月份。"
+    }
+  ],
+  "knowledge": null
+}

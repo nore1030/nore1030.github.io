@@ -1,0 +1,75 @@
+{
+  "id": "g1down-u4-kp2",
+  "title": "数的读法、写法与位值意义",
+  "bookId": "g1down",
+  "unitNumber": 4,
+  "unitTitle": "100以内数的认识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数的读法、写法与位值意义",
+      "question": "从右边起，第一位是个位，第二位是十位，第三位是百位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数位顺序表规定：右起第一位是个位，第二位是十位，第三位是百位。 ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "数的读法、写法与位值意义",
+      "question": "读数和写数都从高位起。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是读数与写数的基本规则：从最高位开始读或写。 ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数的读法、写法与位值意义",
+      "question": "“66”中左边的“6”表示：",
+      "options": [
+        "6个一",
+        "6个十",
+        "6个百",
+        "6"
+      ],
+      "answer": "6个十",
+      "explanation": "左边的6在十位上，表示6个十；右边的6在个位上，表示6个一。 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数的读法、写法与位值意义",
+      "question": "用“4、0、7”中的两个数字组成的最大的两位数是：",
+      "options": [
+        "40",
+        "47",
+        "70",
+        "74"
+      ],
+      "answer": "74",
+      "explanation": "要组成最大数，十位选最大的数字7，个位选剩下的数字中较大的4。结果是74。 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数的读法、写法与位值意义",
+    "core_concept": "读数和写数都应从高位起。十位上的数表示几个十，个位上的数表示几个一。如果一个数位上一个珠子也没有，写数时要用‘0’占位。",
+    "key_formula": "读数规则：从最高位起，十位是几读几十，个位是几读几。",
+    "common_mistakes": [
+      "写数时把“三十”写成“3”，漏掉0。",
+      "读数时加上单位，如把35读作“3个十5个一”。"
+    ],
+    "tips": "画一个数位表：左边是百位，中间是十位，右边是个位，把数字填进去就不会错。"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4up-u7-kp11",
+  "title": "作者与作品配对",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 9,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作者与作品配对",
+      "question": "请将下列诗句与对应的作者进行连线：",
+      "options": [
+        "醉卧沙场君莫笑",
+        "生当作人杰",
+        "但使龙城飞将在",
+        "为中华之崛起而读书",
+        "李清照",
+        "王昌龄",
+        "王翰",
+        "周恩来"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "醉卧沙场-王翰；生当作人杰-李清照；龙城飞将-王昌龄；周恩来立志。"
+    }
+  ],
+  "knowledge": null
+}

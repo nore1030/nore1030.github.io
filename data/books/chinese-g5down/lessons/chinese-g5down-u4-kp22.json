@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u4-kp22",
+  "title": "诗人与作品匹配",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 18,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诗人与作品匹配",
+      "question": "请将下列诗人与其笔下的经典诗句正确连线：",
+      "options": [
+        "杜甫",
+        "王昌龄",
+        "陆游",
+        "范成大",
+        "青春作伴好还乡",
+        "不破楼兰终不还",
+        "南望王师又一年",
+        "童孙未解供耕织"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "杜甫写闻官军收河南河北，王昌龄从军行，陆游秋夜将晓，范成大四时田园杂兴。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "college-physics-mechanics-electromagnetism-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "college-physics-mechanics-electromagnetism",
+  "unitNumber": 1,
+  "unitTitle": "质点力学",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "功、能与守恒定律",
+      "question": "质量 2 kg 物体从 5 m 高处自由下落，落地动能是多少 J？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "100",
+      "explanation": "$E_k=mgh=2\\times10\\times5=100$ J。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动学与牛顿定律",
+      "question": "牛顿第二定律适用的参考系是（　）",
+      "options": [
+        "惯性系",
+        "非惯性系",
+        "任意参考系",
+        "转动的参考系"
+      ],
+      "answer": "惯性系",
+      "explanation": "牛顿定律仅适用于惯性系。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "功、能与守恒定律",
+      "question": "摩擦力做负功，物体的机械能会减少。",
+      "options": [],
+      "answer": "对",
+      "explanation": "机械能转化为内能。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "运动学与牛顿定律",
+      "question": "物体受 10 N 的力作用 2 s，冲量是多少 N·s？",
+      "options": [],
+      "answer": "20",
+      "explanation": "$I=Ft=10\\times2=20$ N·s。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u8-kp4",
+  "title": "书写与拼音",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 2,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书写与拼音",
+      "question": "'胚'这个字在《童年的发现》中读作 pēi。",
+      "options": [],
+      "answer": "对",
+      "explanation": "胚胎的'胚'读 pēi，不是 pī。"
+    }
+  ],
+  "knowledge": null
+}

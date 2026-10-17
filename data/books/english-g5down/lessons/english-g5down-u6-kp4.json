@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u6-kp4",
+  "title": "动词词组意义",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 0,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动词词组意义",
+      "question": "“Keep your desk clean”的意思是“保持桌面整洁”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Keep clean意为保持整洁，your desk意为你的课桌。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "english-g4up-u5-kp25",
+  "title": "祈使句",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 21,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "祈使句",
+      "question": "将下列单词连成句子：[yourself, help, Please]",
+      "options": [
+        "yourself",
+        "help",
+        "Please"
+      ],
+      "answer": "Please,help,yourself",
+      "explanation": "Please位于句首表示客气地请求或建议。"
+    }
+  ],
+  "knowledge": null
+}

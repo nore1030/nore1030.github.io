@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u7-kp16",
+  "title": "词语搭配",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "请将动词与对应的名词进行恰当的搭配连接：",
+      "options": [
+        "纵横",
+        "簇拥",
+        "穿过",
+        "欣赏",
+        "美景",
+        "交错",
+        "码头",
+        "石桥"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "纵横交错，簇拥码头，穿过石桥，欣赏美景。"
+    }
+  ],
+  "knowledge": null
+}

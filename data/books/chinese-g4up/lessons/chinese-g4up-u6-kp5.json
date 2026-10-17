@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u6-kp5",
+  "title": "词语识别",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 4,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语识别",
+      "question": "下列词语中，形容人极度害怕的是：",
+      "options": [
+        "眉开眼笑",
+        "提心吊胆",
+        "顾名思义",
+        "不动声色"
+      ],
+      "answer": "提心吊胆",
+      "explanation": "提心吊胆形容十分担心、害怕。"
+    }
+  ],
+  "knowledge": null
+}

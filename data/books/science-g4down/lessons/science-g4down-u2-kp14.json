@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp14",
+  "title": "简单电路构建",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单电路构建",
+      "question": "让一个灯泡亮起来，至少需要电池、导线和（ ）。",
+      "options": [
+        "开关",
+        "灯泡",
+        "电池盒",
+        "灯座"
+      ],
+      "answer": "灯泡",
+      "explanation": "基本电路的三要素是电源、导线和用电器（灯泡）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u7-kp5",
+  "title": "词语分类",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语分类",
+      "question": "“操纵自如”形容驾驶技术非常熟练，能随意支配。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过课文描述船夫的技术可知，该词准确描述了掌控能力。"
+    }
+  ],
+  "knowledge": null
+}

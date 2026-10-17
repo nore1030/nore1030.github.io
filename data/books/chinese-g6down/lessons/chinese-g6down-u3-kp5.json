@@ -1,0 +1,55 @@
+{
+  "id": "chinese-g6down-u3-kp5",
+  "title": "融情于景",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 3,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "融情于景",
+      "question": "“燕子去了，有再来的时候；杨柳枯了，有再青的时候”这句运用了排比手法抒发情感。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是朱自清《匆匆》的开头，运用排比手法展示自然规律，以此反衬人生的短暂。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "融情于景",
+      "question": "“天黑了，路灯昏暗，整条街道显得冷冷清清。”这段描写最可能表达的情绪是：",
+      "options": [
+        "兴奋",
+        "孤独",
+        "惊讶",
+        "愤怒"
+      ],
+      "answer": "孤独",
+      "explanation": "通过“昏暗”、“冷冷清清”的客观环境描写，烘托出人物孤独、低落的心境。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "融情于景",
+      "question": "“初升的太阳把光辉洒在大地上，花儿微笑着点头。”这句话描写的氛围是：",
+      "options": [
+        "沉重压抑",
+        "宁静致远",
+        "充满希望",
+        "诡异恐怖"
+      ],
+      "answer": "充满希望",
+      "explanation": "太阳、光辉、花儿微笑这些意象组合在一起具有积极向上的情感基调。"
+    }
+  ],
+  "knowledge": null
+}

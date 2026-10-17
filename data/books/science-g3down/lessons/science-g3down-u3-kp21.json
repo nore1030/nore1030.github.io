@@ -1,0 +1,23 @@
+{
+  "id": "science-g3down-u3-kp21",
+  "title": "影子条件",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 15,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "影子条件",
+      "question": "影子产生的遮挡物必须是（）的物体。",
+      "options": [],
+      "answer": "不透明",
+      "explanation": "只有不透明或半透明的物体才能挡住光线产生影子。"
+    }
+  ],
+  "knowledge": null
+}

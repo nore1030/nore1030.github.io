@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11down-u2-kp1",
+  "title": "整本书阅读方法",
+  "bookId": "chinese-g11down",
+  "unitNumber": 2,
+  "unitTitle": "整本书阅读与思辨表达",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "整本书阅读方法",
+      "question": "整本书阅读的正确顺序是（　）",
+      "options": [
+        "先把握框架主线，再深入细节",
+        "从最后一页往前读",
+        "只读喜欢的章节",
+        "只看目录"
+      ],
+      "answer": "先把握框架主线，再深入细节",
+      "explanation": "先框架后细节。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "整本书阅读方法",
+      "question": "读整本书应做批注并形成自己的评价。",
+      "options": [],
+      "answer": "对",
+      "explanation": "读后要有评价。"
+    }
+  ],
+  "knowledge": {
+    "point": "整本书阅读方法",
+    "core_concept": "整本书阅读要先把握全书框架与主线，再深入细节与人物，读时可做批注与笔记，读后要有自己的判断与评价。",
+    "key_formula": "框架 → 细节 → 评价",
+    "common_mistakes": [
+      "只读片段不读全书。"
+    ],
+    "tips": "先框架后细节。"
+  }
+}

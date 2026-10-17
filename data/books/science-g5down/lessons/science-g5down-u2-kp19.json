@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp19",
+  "title": "工程方案",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 13,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "工程方案",
+      "question": "在设计小船时，首先需要考虑的是什么？",
+      "options": [
+        "船的外观",
+        "任务需求和标准",
+        "使用的材料价格",
+        "船的速度"
+      ],
+      "answer": "任务需求和标准",
+      "explanation": "工程设计的第一步是明确任务目标（如承重多少、行驶多远）。"
+    }
+  ],
+  "knowledge": null
+}

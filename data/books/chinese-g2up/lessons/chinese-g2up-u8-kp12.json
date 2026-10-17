@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp12",
+  "title": "多音字",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "下列选项中“转”字读音不同的是哪一个？",
+      "options": [
+        "转动",
+        "转身",
+        "转学",
+        "旋转"
+      ],
+      "answer": "旋转",
+      "explanation": "“旋转”的“转”读 zhuàn，其他项读 zhuǎn。"
+    }
+  ],
+  "knowledge": null
+}

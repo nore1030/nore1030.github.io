@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u7-kp6",
+  "title": "课文内容理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "课文内容理解",
+      "question": "海底世界是寂静无声的，没有任何声音。",
+      "options": [],
+      "answer": "错",
+      "explanation": "课文提到海底有各种动物发出的窃窃私语声。"
+    }
+  ],
+  "knowledge": null
+}

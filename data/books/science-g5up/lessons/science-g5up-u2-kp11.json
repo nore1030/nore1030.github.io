@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp11",
+  "title": "地球内部圈层",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球内部圈层",
+      "question": "在地球内部，地幔位于哪两个圈层之间？",
+      "options": [
+        "地壳和地核",
+        "大气层和地壳",
+        "地核和地心",
+        "岩浆和岩石"
+      ],
+      "answer": "地壳和地核",
+      "explanation": "地球结构由外向内依次是地壳、地幔、地核。"
+    }
+  ],
+  "knowledge": null
+}

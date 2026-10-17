@@ -1,0 +1,47 @@
+{
+  "id": "g10up-u1-kp2",
+  "title": "充分条件与必要条件",
+  "bookId": "g10up",
+  "unitNumber": 1,
+  "unitTitle": "集合与常用逻辑用语",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "充分条件与必要条件",
+      "question": "$x>3$ 是 $x>1$ 的（　）",
+      "options": [
+        "充分不必要条件",
+        "必要不充分条件",
+        "充要条件",
+        "既不充分也不必要"
+      ],
+      "answer": "充分不必要条件",
+      "explanation": "$x>3\\Rightarrow x>1$，反之不成立。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "充分条件与必要条件",
+      "question": "$p\\Rightarrow q$ 时，$q$ 是 $p$ 的必要条件。",
+      "options": [],
+      "answer": "对",
+      "explanation": "充分必要条件定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "充分条件与必要条件",
+    "core_concept": "若 $p\\Rightarrow q$，则 $p$ 是 $q$ 的充分条件，$q$ 是 $p$ 的必要条件。判断时可转化为集合的包含关系。",
+    "key_formula": "$p\\Rightarrow q$ ⇔ $p$ 充分、$q$ 必要",
+    "common_mistakes": [
+      "把充分与必要说反。"
+    ],
+    "tips": "小范围推大范围。"
+  }
+}

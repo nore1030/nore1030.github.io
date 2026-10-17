@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp12",
+  "title": "反衬手法分析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反衬手法分析",
+      "question": "阅读：‘阴惨惨的薄雾笼罩着大海。哈尔威船长站在指挥台上，大声吼喝……’这段环境描写的作用是：",
+      "options": [
+        "展示大海的美丽",
+        "说明天气的寒冷",
+        "烘托灾难即将来临的紧张气氛",
+        "介绍客轮的行驶路线"
+      ],
+      "answer": "烘托灾难即将来临的紧张气氛",
+      "explanation": "阴惨惨的薄雾暗示了不祥的预兆，烘托了紧张的氛围。"
+    }
+  ],
+  "knowledge": null
+}

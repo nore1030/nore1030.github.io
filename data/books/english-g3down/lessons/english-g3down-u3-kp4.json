@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u3-kp4",
+  "title": "描述描述身体部位的特征表达",
+  "bookId": "english-g3down",
+  "unitNumber": 3,
+  "unitTitle": "At the zoo",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述描述身体部位的特征表达",
+      "question": "连词成句：(at, the, Look, giraffe)",
+      "options": [
+        "at",
+        "the",
+        "Look",
+        "giraffe"
+      ],
+      "answer": "Look,at,the,giraffe",
+      "explanation": "Look at...是祈使句，看那只长颈鹿。"
+    }
+  ],
+  "knowledge": null
+}

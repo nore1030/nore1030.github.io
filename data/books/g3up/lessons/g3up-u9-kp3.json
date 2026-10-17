@@ -1,0 +1,107 @@
+{
+  "id": "g3up-u9-kp3",
+  "title": "数字编码的含义与规则",
+  "bookId": "g3up",
+  "unitNumber": 9,
+  "unitTitle": "数学广角——集合",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "邮政编码的前三位代表投递局。",
+      "options": [],
+      "answer": "错",
+      "explanation": "邮政编码的前两位代表省（直辖市、自治区），前三位代表邮区，第4位代表县（市），后两位代表投递局。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "同一个班级里，不同学生的学号通常是不一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数字编码具有唯一性，学号用于标识班级内唯一的学生身分。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "身份证号的第17位数字表示性别，如果是奇数表示什么？",
+      "options": [
+        "女性",
+        "男性",
+        "未知",
+        "以上均错"
+      ],
+      "answer": "男性",
+      "explanation": "我国身份证第17位为性别标识码，奇数表示男性，偶数表示女性。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "邮政编码由几位数字组成？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "邮政编码在我国统一规定为6位阿拉伯数字组成。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "身份证号码中，表示出生年份的是第几位到第几位？",
+      "options": [
+        "7到10",
+        "7到14",
+        "1到6",
+        "15到18"
+      ],
+      "answer": "7到10",
+      "explanation": "身份证前6位是行政区划代码，7-10位是四位出生年份。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "生活中的各种编号是为了：",
+      "options": [
+        "好看",
+        "好玩",
+        "科学管理和唯一定位",
+        "让数字更长"
+      ],
+      "answer": "科学管理和唯一定位",
+      "explanation": "编码通过特定逻辑包含信息，便于管理和精准查寻。"
+    }
+  ],
+  "knowledge": {
+    "point": "数字编码的含义与规则",
+    "core_concept": "数字编码是给事物分配的一组按一定规则排列的数字，用于科学管理。它具有唯一性和规范性。例如，邮政编码反映了投递的分级区域，身份证号码反映了出生地、出生日期和性别等信息。",
+    "key_formula": "编码 = 代码1 + 代码2 + ... + 校验码",
+    "common_mistakes": [
+      "分不清身份证号码中哪几位是表示出生日期的",
+      "错误地认为编码中的数字只是随机排列的流水号"
+    ],
+    "tips": "记住身份证的关键位：7-14位是生日，第17位单数男、双数女。邮编是6位数字。"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "id": "g1down-u8-kp1",
+  "title": "100以内加减法综合运算技能",
+  "bookId": "g1down",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "在计算 $38 + 5$ 时，先算 $8 + 5 = 13$，再算 $30 + 13 = 43$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是进位加法的拆分法：个位相加满十向十位进一。$8+5=13$，$30+13=43$。验算：$43-5=38$ ✓。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "$76 - 8$ 的得数个位上是 2。",
+      "options": [],
+      "answer": "错",
+      "explanation": "个位不够减，$16 - 8 = 8$，个位应该是 8。$76 - 8 = 68$。验算：$68 + 8 = 76$ ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "$40 + 30$ 的结果比 $80 - 20$ 的结果大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$40 + 30 = 70$，$80 - 20 = 60$，$70 > 60$。结论正确。✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "比 68 多 20 的数是：",
+      "options": [
+        "48",
+        "88",
+        "86",
+        "70"
+      ],
+      "answer": "88",
+      "explanation": "列式：$68 + 20 = 88$。验算：$88 - 20 = 68$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "最小的两位数比最大的个位数多多少？",
+      "options": [
+        "1",
+        "90",
+        "9",
+        "10"
+      ],
+      "answer": "1",
+      "explanation": "最小的两位数是 10，最大的个位数是 9。$10 - 9 = 1$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "计算 $45 - (10 + 20)$ 时，应该先算：",
+      "options": [
+        "45 - 10",
+        "10 + 20",
+        "45 - 20",
+        "无法确定"
+      ],
+      "answer": "10 + 20",
+      "explanation": "含有小括号的算式，要先算小括号里面的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "下列算式中，得数比 50 大的是：",
+      "options": [
+        "96 - 50",
+        "30 + 19",
+        "25 + 25",
+        "40 + 20"
+      ],
+      "answer": "40 + 20",
+      "explanation": "$96-50=46$，$30+19=49$，$25+25=50$，$40+20=60$。$60 > 50$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "8 个一和 3 个十组成的数是：",
+      "options": [
+        "83",
+        "38",
+        "11",
+        "30"
+      ],
+      "answer": "38",
+      "explanation": "3 个十是 30，8 个一是 8，合起来是 38。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "在 $55, 65, 75, 85$ 这组数中，接下来的一个数应该是：",
+      "options": [
+        "90",
+        "86",
+        "95",
+        "100"
+      ],
+      "answer": "95",
+      "explanation": "规律是依次增加 10。$85 + 10 = 95$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "78 里面有 ___ 个十和 8 个一。",
+      "options": [],
+      "answer": "7",
+      "explanation": "78 的十位数字是 7，表示 7 个十；个位数字是 8，表示 8 个一。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "一个两位数，个位上是 6，十位上是 4，这个数是 ___。",
+      "options": [],
+      "answer": "46",
+      "explanation": "十位是 4 表示 40，个位是 6 表示 6，合起来是 46。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "计算：$50 + 20 - 40 = ?$",
+      "options": [],
+      "answer": "30",
+      "explanation": "第一步：$50+20=70$；第二步：$70-40=30$。验算：$30+40=70, 70-20=50$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "计算：$15 - 9 + 30 = ?$",
+      "options": [],
+      "answer": "36",
+      "explanation": "第一步：$15-9=6$；第二步：$6+30=36$。验算：$36-30=6, 6+9=15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "100以内加减法综合运算技能",
+    "core_concept": "100以内的加减法是数学学习的基础。主要分为：整十数加减整十数（直接加减十位）、两位数加一位数（注意进位，个位满十向十位进一）、两位数减一位数（注意退位，个位不够减从十位借一当十）。同时，要掌握小括号的使用规则，即‘先算括号里的’。",
+    "key_formula": "$ \text{个数相加满十} \rightarrow \text{十位加一}; \text{个位不够减} \rightarrow \text{向十位借一作十} $",
+    "common_mistakes": [
+      "进位加法时忘记在十位上加 1",
+      "退位减法时忘记在十位上减去借走的那 1 个十"
+    ],
+    "tips": "计算进位退位时，可以在数字上面点个小圆点或写个小 1，帮助记忆。多练习凑十法和破十法。"
+  }
+}

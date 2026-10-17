@@ -1,0 +1,31 @@
+{
+  "id": "math-zhejiao-g7up-u6-kp2",
+  "title": "线段的长短比较与和差",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第6章 图形的初步知识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "线段的长短比较与和差",
+      "question": "点 C 在线段 AB 上，AB = 10 cm，AC = 4 cm，BC 是多少 cm？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$BC=AB-AC=10-4=6$。"
+    }
+  ],
+  "knowledge": {
+    "point": "线段的长短比较与和差",
+    "core_concept": "两点之间线段最短；用圆规截取可比较长短；线段和差：若 C 在 AB 上，则 AB = AC + CB。",
+    "key_formula": "两点之间，线段最短",
+    "common_mistakes": [
+      "以为两点之间直线最短（直线无限延伸）。"
+    ],
+    "tips": "是「线段」最短。"
+  }
+}

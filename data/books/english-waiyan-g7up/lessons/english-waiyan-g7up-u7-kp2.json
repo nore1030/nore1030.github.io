@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u7-kp2",
+  "title": "指令表达 Turn on / Save",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Computers 电脑",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指令表达 Turn on / Save",
+      "question": "「打开电脑。」的英文是（　）",
+      "options": [
+        "Turn on the computer.",
+        "Turning on the computer.",
+        "Turn on computer.",
+        "Open the computer."
+      ],
+      "answer": "Turn on the computer.",
+      "explanation": "turn on 打开电器。"
+    }
+  ],
+  "knowledge": {
+    "point": "指令表达 Turn on / Save",
+    "core_concept": "Turn on the computer. 打开电脑。Save the file. 保存文件。Click the mouse. 点击鼠标。",
+    "key_formula": "Turn on / Turn off / Save",
+    "common_mistakes": [
+      "指令动词用 -ing 开头。"
+    ],
+    "tips": "指令用动词原形开头。"
+  }
+}

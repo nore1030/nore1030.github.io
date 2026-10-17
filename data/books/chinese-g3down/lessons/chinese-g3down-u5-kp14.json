@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u5-kp14",
+  "title": "句子结构",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构",
+      "question": "请将下列词语排列成一句流畅的话。",
+      "options": [
+        "我",
+        "变成树",
+        "以后",
+        "秘密",
+        "有很多"
+      ],
+      "answer": "我,变成树,以后,有很多,秘密",
+      "explanation": "考查主谓宾的基本结构。"
+    }
+  ],
+  "knowledge": null
+}

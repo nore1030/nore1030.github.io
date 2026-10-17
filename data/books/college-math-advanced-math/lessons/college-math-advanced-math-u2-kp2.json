@@ -1,0 +1,47 @@
+{
+  "id": "college-math-advanced-math-u2-kp2",
+  "title": "导数的应用",
+  "bookId": "college-math-advanced-math",
+  "unitNumber": 2,
+  "unitTitle": "导数与微分",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "导数的应用",
+      "question": "函数 $f(x)=x^2-2x$ 的极小值点是 $x=$（　）",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "answer": "1",
+      "explanation": "$f'=2x-2=0$，$x=1$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "导数的应用",
+      "question": "函数在区间上可导且导数大于零，则该函数单调递增。",
+      "options": [],
+      "answer": "对",
+      "explanation": "导数与单调性。"
+    }
+  ],
+  "knowledge": {
+    "point": "导数的应用",
+    "core_concept": "$f'(x)>0$ 递增，$f'(x)<0$ 递减；极值点在 $f'(x)=0$ 且左右异号处；闭区间上最值需比较极值与端点值。",
+    "key_formula": "$f'(x_0)=0$ 且左右异号 ⇒ 极值",
+    "common_mistakes": [
+      "只比较极值而忽略端点。"
+    ],
+    "tips": "闭区间最值要比端点。"
+  }
+}

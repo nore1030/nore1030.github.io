@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u4-kp12",
+  "title": "课文关键字",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文关键字",
+      "question": "《白鹅》一课中，白鹅走路的样子可以用“引吭（    ）”来形容。",
+      "options": [],
+      "answer": "大叫",
+      "explanation": "考查词语积累，引吭大叫。注：课文原文描述声调。"
+    }
+  ],
+  "knowledge": null
+}

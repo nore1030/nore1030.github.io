@@ -1,0 +1,66 @@
+{
+  "id": "english-waiyan-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-waiyan-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 校园生活与自我介绍",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自我介绍与信息询问",
+      "question": "— What's your name? — ___",
+      "options": [
+        "I'm Class One.",
+        "My name is Wang Ming.",
+        "I'm from Beijing.",
+        "I'm sixteen."
+      ],
+      "answer": "My name is Wang Ming.",
+      "explanation": "问姓名答姓名。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与一般现在时",
+      "question": "My father ___ English.",
+      "options": [
+        "teach",
+        "teaches",
+        "teaching",
+        "taught"
+      ],
+      "answer": "teaches",
+      "explanation": "第三人称单数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "自我介绍与信息询问",
+      "question": "Where 引导的特殊疑问句后面用陈述语序。",
+      "options": [],
+      "answer": "对",
+      "explanation": "特殊疑问句语序。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与一般现在时",
+      "question": "be 动词后面可以接形容词或名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be 的用法。"
+    }
+  ],
+  "knowledge": null
+}

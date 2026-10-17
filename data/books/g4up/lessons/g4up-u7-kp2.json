@@ -1,0 +1,145 @@
+{
+  "id": "g4up-u7-kp2",
+  "title": "1格代表多个单位",
+  "bookId": "g4up",
+  "unitNumber": 7,
+  "unitTitle": "条形统计图",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "1格代表多个单位",
+      "question": "在条形统计图中，如果每格代表 2 人，那么画 3 格就代表 6 人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计算：$2 \\times 3 = 6$。验算：$6 \\div 2 = 3$（格），结果正确。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "1格代表多个单位",
+      "question": "当统计的数据非常大时，我们可以用 1 个格代表 100 个单位甚至更多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1格代表多少单位取决于数据的最大值和纸张大小。在大数据情况下，缩放比例是必要的。验算：符合统计图缩放原则。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "1格代表多个单位",
+      "question": "如果在统计图中 1 格表示 5 千克，要表示 20 千克需要画几格？",
+      "options": [
+        "2 格",
+        "3 格",
+        "4 格",
+        "5 格"
+      ],
+      "answer": "4 格",
+      "explanation": "计算：$20 \\div 5 = 4$（格）。验算：$4 \\times 5 = 20$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "1格代表多个单位",
+      "question": "已知 1 格代表 10 辆汽车，那么半格代表多少辆汽车？",
+      "options": [
+        "1 辆",
+        "5 辆",
+        "10 辆",
+        "20 辆"
+      ],
+      "answer": "5 辆",
+      "explanation": "计算：$10 \\div 2 = 5$。半格即为一格的一半。验算：$5 \\times 2 = 10$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "1格代表多个单位",
+      "question": "如果最大的数据是 900，要让统计图高度美观（约10格高），每格代表多少最合适？",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answer": "100",
+      "explanation": "计算：$900 \\div 10 = 90$。为了方便计算和画图，通常取整百数 100。验算：$900 \\div 100 = 9$ 格，非常接近 10 格。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "1格代表多个单位",
+      "question": "统计图中 1 格代表 25 升水，直条高 3 格，表示多少升水？",
+      "options": [
+        "25 升",
+        "50 升",
+        "75 升",
+        "100 升"
+      ],
+      "answer": "75 升",
+      "explanation": "计算：$25 \\times 3 = 75$。验算：$75 \\div 3 = 25$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "1格代表多个单位",
+      "question": "在一张统计图上，4 格表示 80 厘米，如果现在要表示 1 米，需要画几格？",
+      "options": [
+        "4 格",
+        "5 格",
+        "6 格",
+        "10 格"
+      ],
+      "answer": "5 格",
+      "explanation": "先求 1 格表示多少：$80 \\div 4 = 20$ (cm)。$1$ 米 $= 100$ 厘米。计算格数：$100 \\div 20 = 5$ (格)。验算：$5 \\times 20 = 100$ cm ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "1格代表多个单位",
+      "question": "统计图中 1 格代表 50 公里，直条长 4 格，表示 ___ 公里。",
+      "options": [],
+      "answer": "200",
+      "explanation": "$50 \\times 4 = 200$。验算：$200 \\div 4 = 50$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "1格代表多个单位",
+      "question": "统计表中最大数据是 350，如果纵轴每格代表 50，一共需要画 ___ 格高度。",
+      "options": [],
+      "answer": "7",
+      "explanation": "$350 \\div 50 = 7$。验算：$7 \\times 50 = 350$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "1格代表多个单位",
+    "core_concept": "当统计的数据数值较大或跨度较大时，1个小格代表1个单位会导致统计图过长。此时需要根据最大数据选择合适的比例，例如1格代表2、5、10或100等。这是比例缩放思想在生活中的典型应用。",
+    "key_formula": "需画格数 = 实际数值 \\div 每格代表的数值",
+    "common_mistakes": [
+      "计算半格代表的数值时出错（例如1格代表10，学生以为半格是1）。",
+      "选定的比例不合适，导致直条太矮无法区分或太高超出了纸张。"
+    ],
+    "tips": "观察数据的规律，如果都是10的倍数，1格代表10最方便；如果都是5的倍数，1格代表5最合适。"
+  }
+}

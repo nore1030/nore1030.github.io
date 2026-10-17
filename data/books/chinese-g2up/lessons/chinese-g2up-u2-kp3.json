@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g2up-u2-kp3",
+  "title": "四季农事规律识记",
+  "bookId": "chinese-g2up",
+  "unitNumber": 2,
+  "unitTitle": "识字",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "四季农事规律识记",
+      "question": "“秋季里，稻上场”说明秋天是收获的季节。",
+      "options": [],
+      "answer": "对",
+      "explanation": "秋天是农作物成熟收获的季节。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季农事规律识记",
+      "question": "“采桑、插秧、蚕桑”这些农事活动通常在哪个季节进行？",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "夏季",
+      "explanation": "夏季农事忙，这时候要进行采桑和插秧。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季农事规律识记",
+      "question": "下列哪个汉字表示农具？",
+      "options": [
+        "棉",
+        "谷",
+        "麦",
+        "犁"
+      ],
+      "answer": "犁",
+      "explanation": "犁是用来翻土的农具。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季农事规律识记",
+      "question": "“春季里，春风（  ）”，横线上应该填哪个两个字的词？",
+      "options": [],
+      "answer": "吹开",
+      "explanation": "出自《田家四季歌》：春季里，春风吹。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季农事规律识记",
+      "question": "将下列农事按时间先后顺序排列：",
+      "options": [
+        "播种",
+        "耕地",
+        "收获",
+        "施肥"
+      ],
+      "answer": "耕地,播种,施肥,收获",
+      "explanation": "通常农事是先耕地，再种地，中间施肥，最后收获。"
+    }
+  ],
+  "knowledge": {
+    "point": "四季农事规律识记",
+    "core_concept": "了解一年四季循环中农业生产的先后顺序。春天播种、夏天劳作（插秧采桑）、秋天收获（打场）、冬天修整（制棉衣），感知农民劳动的辛苦与汗水。",
+    "key_formula": "春种 -> 夏长 -> 秋收 -> 冬藏",
+    "common_mistakes": [
+      "将秋季的收割提前到春季",
+      "不理解“插秧”和“采桑”发生的具体季节"
+    ],
+    "tips": "联系生活实际，夏天最热的时候是农事最忙的时候。"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "g10down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g10down",
+  "unitNumber": 4,
+  "unitTitle": "统计与概率",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "统计与抽样",
+      "question": "某班 50 人，男生 30 人，按性别分层抽取 10 人，应抽男生多少人？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$10\\times\\frac{30}{50}=6$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古典概型与事件关系",
+      "question": "同时掷两枚硬币，至少一枚正面的概率是（　）",
+      "options": [
+        "$\\frac12$",
+        "$\\frac34$",
+        "$\\frac14$",
+        "$\\frac23$"
+      ],
+      "answer": "$\\frac34$",
+      "explanation": "只有正反反反两种情况不含正面，$1-\\frac14=\\frac34$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "古典概型与事件关系",
+      "question": "互斥事件 $A$、$B$ 满足 $P(A\\cup B)=P(A)+P(B)$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "互斥概率加法公式。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "统计与抽样",
+      "question": "数据 2、3、3、5、7 的众数是多少？",
+      "options": [],
+      "answer": "3",
+      "explanation": "3 出现次数最多。"
+    }
+  ],
+  "knowledge": null
+}

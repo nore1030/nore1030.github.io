@@ -1,0 +1,52 @@
+{
+  "id": "biology-g7down-u3-kp1",
+  "title": "神经系统与反射",
+  "bookId": "biology-g7down",
+  "unitNumber": 3,
+  "unitTitle": "人体的调节与健康生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "神经系统与反射",
+      "question": "神经调节的基本方式是（　）",
+      "options": [
+        "反射",
+        "应激性",
+        "适应",
+        "代谢"
+      ],
+      "answer": "反射",
+      "explanation": "反射是神经调节基本方式。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "神经系统与反射",
+      "question": "反射弧的组成不包括（　）",
+      "options": [
+        "感受器",
+        "神经中枢",
+        "效应器",
+        "红细胞"
+      ],
+      "answer": "红细胞",
+      "explanation": "红细胞不属反射弧。"
+    }
+  ],
+  "knowledge": {
+    "point": "神经系统与反射",
+    "core_concept": "神经系统由脑、脊髓和神经组成。反射是神经调节的基本方式，反射弧包括感受器、传入神经、神经中枢、传出神经和效应器五部分。",
+    "key_formula": "反射弧五部分",
+    "common_mistakes": [
+      "把感受器与效应器颠倒。"
+    ],
+    "tips": "先感受后效应。"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "english-g3up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Look at me!",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "当你想表达‘这是我的脸’，可以说 'This is my face.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "This is... 用于介绍某物。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母Ee至Ii的音形辨析",
+      "question": "字母 'F' 的小写形式是 'b'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "F 的小写是 f, b 是 B 的小写。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "回答 'How are you?' 可以用 'I am fine.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是标准的正面回答。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "'foot' 指的是脚，'feet' 是它的复数形式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是英语中的不规则复数变化。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母Ee至Ii的音形辨析",
+      "question": "选出在字母表中排列顺序正确的一组：",
+      "options": [
+        "E F G",
+        "E G F",
+        "F E G",
+        "G F E"
+      ],
+      "answer": "E F G",
+      "explanation": "考查字母表的字母顺序。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "我们常用 ________ 听音乐。",
+      "options": [
+        "eyes",
+        "ears",
+        "mouth",
+        "nose"
+      ],
+      "answer": "ears",
+      "explanation": "ears 是耳朵，用来听。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "— Let's go to school! — ________",
+      "options": [
+        "I'm fine.",
+        "OK!",
+        "Goodbye.",
+        "Thank you."
+      ],
+      "answer": "OK!",
+      "explanation": "回应提议时可以用 OK 或 Great。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母Ee至Ii的音形辨析",
+      "question": "下列哪个单词是以字母 'h' 开头的？",
+      "options": [
+        "egg",
+        "gift",
+        "hand",
+        "ice"
+      ],
+      "answer": "hand",
+      "explanation": "hand 的首字母是 h。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "与 'face' 类别不同的一项是：",
+      "options": [
+        "head",
+        "body",
+        "great",
+        "arm"
+      ],
+      "answer": "great",
+      "explanation": "great 是形容词，其它是身体部位名词。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "这个词 'nose' 对应身体的哪一部分？",
+      "options": [
+        "嘴巴",
+        "鼻子",
+        "眼睛",
+        "耳朵"
+      ],
+      "answer": "鼻子",
+      "explanation": "nose 指鼻子。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "Fine, thank ________.",
+      "options": [],
+      "answer": "you",
+      "explanation": "固定礼貌用语 thank you。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Ee至Ii的音形辨析",
+      "question": "e, f, g, h, ________. (填入下一个小写字母)",
+      "options": [],
+      "answer": "i",
+      "explanation": "考查字母表顺序。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "Open your ________. (嘴巴)",
+      "options": [],
+      "answer": "mouth",
+      "explanation": "指令：张开嘴巴。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体部位与动作配对",
+      "question": "将动作动词与对应的身体部位进行配对。",
+      "options": [
+        "Clap",
+        "Stamp",
+        "Shake",
+        "Touch",
+        "脚",
+        "身体",
+        "手",
+        "鼻子"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "Clap hands, Stamp foot, Shake body, Touch nose。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "连词成句：",
+      "options": [
+        "How",
+        "are",
+        "you"
+      ],
+      "answer": "How,are,you",
+      "explanation": "How are you? 是询问健康的标准语序。"
+    }
+  ],
+  "knowledge": null
+}

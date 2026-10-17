@@ -1,0 +1,82 @@
+{
+  "id": "science-g5up-u1-kp6",
+  "title": "光的直线传播",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 1,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播",
+      "question": "光在同一种均匀介质中是沿直线传播的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "光的传播基本规律是在同种均匀介质中沿直线传播。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播",
+      "question": "影子产生的条件不包括（___）。",
+      "options": [
+        "光源",
+        "遮挡物",
+        "屏",
+        "镜子"
+      ],
+      "answer": "镜子",
+      "explanation": "影子产生的三个基本条件是光源、遮挡物和屏（接收面）。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播",
+      "question": "在做小孔成像实验时，看到的像是（___）。",
+      "options": [
+        "正立的",
+        "倒立的",
+        "左右相反，上下不反",
+        "与原物完全一致"
+      ],
+      "answer": "倒立的",
+      "explanation": "由于光的直线传播，光线通过小孔交叉，形成的像是倒立的实像。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播",
+      "question": "夜晚灯光下，离路灯越近，影子（___）。",
+      "options": [
+        "越长",
+        "越短",
+        "不变",
+        "消失"
+      ],
+      "answer": "越短",
+      "explanation": "根据光沿直线传播原理，人距离点光源越近，遮挡的角度越小，影子越短。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播",
+      "question": "光在真空中的传播速度大约是每秒（___）万千米。",
+      "options": [],
+      "answer": "30",
+      "explanation": "光速约为30万千米/秒。"
+    }
+  ],
+  "knowledge": null
+}

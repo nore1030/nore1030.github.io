@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u4-kp15",
+  "title": "句子表达",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 14,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句子表达",
+      "question": "将下列词语排列成一句通顺的话。",
+      "options": [
+        "法布尔",
+        "观察",
+        "仔细地",
+        "蜜蜂",
+        "实验"
+      ],
+      "answer": "法布尔,仔细地,观察,蜜蜂,实验",
+      "explanation": "按照主状谓宾顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

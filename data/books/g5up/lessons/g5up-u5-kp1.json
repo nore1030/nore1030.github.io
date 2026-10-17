@@ -1,0 +1,118 @@
+{
+  "id": "g5up-u5-kp1",
+  "title": "用字母表示数与简写规则",
+  "bookId": "g5up",
+  "unitNumber": 5,
+  "unitTitle": "简易方程",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "在含有字母的式子里，$a \\times 3.5$ 可以简写成 $a3.5$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "含有字母的乘法中，数字通常写在字母前面，应缩写为 $3.5a$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "$a^2$ 表示 2 个 $a$ 相加。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$a^2$ 表示 2 个 $a$ 相乘，即 $a \\times a$。2 个 $a$ 相加用 $2a$ 表示。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "小明今年 $a$ 岁，哥哥比他大 3 岁，哥哥今年（    ）岁。",
+      "options": [
+        "3a",
+        "a-3",
+        "a+3",
+        "a÷3"
+      ],
+      "answer": "a+3",
+      "explanation": "大 3 岁意味着在小明的年龄基础上加 3，即 $a + 3$ 岁。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "下列各式中，简写正确的是（    ）。",
+      "options": [
+        "x×x=2x",
+        "a×1=a",
+        "4+b=4b",
+        "x×y=xy"
+      ],
+      "answer": "x×y=xy",
+      "explanation": "A中 $x \\times x = x^2$；B中 $1a$ 通常省去1写成 $a$；C中加号不能省略；D字母相乘可省略乘号，正确。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "如果 $a=5, b=4$，那么 $ab+3$ 的值是（    ）。",
+      "options": [
+        "543",
+        "12",
+        "23",
+        "9"
+      ],
+      "answer": "23",
+      "explanation": "$ab$ 表示 $a \\times b$。代入得 $5 \\times 4 + 3 = 20 + 3 = 23$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "正方形的边长是 $a$ 厘米，周长 $C$ 是（    ）厘米。",
+      "options": [
+        "a×a",
+        "4a",
+        "a+4",
+        "2a"
+      ],
+      "answer": "4a",
+      "explanation": "正方形周长 $=$ 边长 $\\times 4$，即 $a \\times 4 = 4a$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "一个长方形的长是 8 厘米，宽是 $b$ 厘米，它的面积是 ___ $b$ 平方厘米。",
+      "options": [],
+      "answer": "8",
+      "explanation": "长方形面积 $=$ 长 $\\times$ 宽 $= 8 \\times b = 8b$。填空处应为 8。"
+    }
+  ],
+  "knowledge": {
+    "point": "用字母表示数与简写规则",
+    "core_concept": "在数学中，我们可以用字母来表示未知的数或变化的量。含有字母的乘法式子有特殊的简写方法：数字和字母、字母和字母之间的乘号可以记作“·”或省略不写。缩写时数字必须写在字母前面，1通常省略。",
+    "key_formula": "$a \\times b = ab, a \\times 1 = a, a \\times a = a^2$",
+    "common_mistakes": [
+      "把 $a \\times a$ 误写成 $2a$",
+      "在加法或减法中也省略符号，如把 $a + 5$ 写成 $5a$"
+    ],
+    "tips": "记住“字母像个筐，什么都能装”，简写只针对乘法，加减除万万不能省符号。"
+  }
+}

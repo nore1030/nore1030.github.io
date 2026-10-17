@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9down-u1-kp1",
+  "title": "共同富裕与中国梦",
+  "bookId": "moral-g9down",
+  "unitNumber": 1,
+  "unitTitle": "富强与文明",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "共同富裕与中国梦",
+      "question": "共同富裕是社会主义的（　）",
+      "options": [
+        "本质要求",
+        "临时措施",
+        "可选项",
+        "结果"
+      ],
+      "answer": "本质要求",
+      "explanation": "共同富裕是本质要求。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "共同富裕与中国梦",
+      "question": "共同富裕不是同步、同等富裕。",
+      "options": [],
+      "answer": "对",
+      "explanation": "共同富裕非齐头并进。"
+    }
+  ],
+  "knowledge": {
+    "point": "共同富裕与中国梦",
+    "core_concept": "共同富裕是社会主义的本质要求，是中国式现代化的重要特征。实现共同富裕要发展生产力、完善分配制度、扩大中等收入群体。",
+    "key_formula": "共同富裕是本质要求",
+    "common_mistakes": [
+      "把共同富裕理解为同步同等富裕。"
+    ],
+    "tips": "不是整齐划一，而是共同富裕。"
+  }
+}

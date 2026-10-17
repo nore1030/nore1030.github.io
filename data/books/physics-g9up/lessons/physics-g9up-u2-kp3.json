@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9up-u2-kp3",
+  "title": "电流表与电压表的使用",
+  "bookId": "physics-g9up",
+  "unitNumber": 2,
+  "unitTitle": "电流和电路",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电流表与电压表的使用",
+      "question": "电流表应串联在电路中使用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "电流表串联。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电流表与电压表的使用",
+      "question": "电压表应（　）在电路中",
+      "options": [
+        "串联",
+        "并联",
+        "串联或并联",
+        "不能接入"
+      ],
+      "answer": "并联",
+      "explanation": "电压表并联。"
+    }
+  ],
+  "knowledge": {
+    "point": "电流表与电压表的使用",
+    "core_concept": "电流表串联接入、内阻很小；电压表并联接入、内阻很大。接线时电流必须从正接线柱流入。",
+    "key_formula": "电流表串联 / 电压表并联",
+    "common_mistakes": [
+      "把电流表直接接在电源两极。"
+    ],
+    "tips": "电流表不能直接并联在电源上。"
+  }
+}

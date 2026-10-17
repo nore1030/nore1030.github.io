@@ -1,0 +1,63 @@
+{
+  "id": "college-computer-python-programming-u2-kp1",
+  "title": "条件与循环",
+  "bookId": "college-computer-python-programming",
+  "unitNumber": 2,
+  "unitTitle": "流程控制与函数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "条件与循环",
+      "question": "range(3) 生成的整数是（　）",
+      "options": [
+        "1,2,3",
+        "0,1,2",
+        "0,1,2,3",
+        "1,2"
+      ],
+      "answer": "0,1,2",
+      "explanation": "range 从 0 开始。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "条件与循环",
+      "question": "循环中跳过本次剩余语句应使用（　）",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "return"
+      ],
+      "answer": "continue",
+      "explanation": "continue 跳过本次循环。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "条件与循环",
+      "question": "break 可以结束当前循环。",
+      "options": [],
+      "answer": "对",
+      "explanation": "break 跳出循环。"
+    }
+  ],
+  "knowledge": {
+    "point": "条件与循环",
+    "core_concept": "Python 用缩进表示代码块。for 常用于遍历序列，range(n) 生成 0 到 n-1；while 在条件为真时循环。break 结束循环、continue 跳过本次。",
+    "key_formula": "range(5) → 0,1,2,3,4",
+    "common_mistakes": [
+      "忘写冒号或缩进错误。"
+    ],
+    "tips": "注意缩进为 4 空格。"
+  }
+}

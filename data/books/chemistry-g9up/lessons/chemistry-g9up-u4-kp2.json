@@ -1,0 +1,52 @@
+{
+  "id": "chemistry-g9up-u4-kp2",
+  "title": "二氧化碳的性质与制取",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 4,
+  "unitTitle": "碳和碳的氧化物",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二氧化碳的性质与制取",
+      "question": "检验二氧化碳气体用（　）",
+      "options": [
+        "燃着的木条",
+        "澄清石灰水",
+        "紫色石蕊试液",
+        "带火星木条"
+      ],
+      "answer": "澄清石灰水",
+      "explanation": "石灰水变浑浊。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "二氧化碳的性质与制取",
+      "question": "实验室制取二氧化碳不用稀硫酸的原因是（　）",
+      "options": [
+        "反应太快",
+        "生成的硫酸钙微溶覆盖表面阻止反应",
+        "不反应",
+        "产生杂质"
+      ],
+      "answer": "生成的硫酸钙微溶覆盖表面阻止反应",
+      "explanation": "微溶物覆盖阻止反应。"
+    }
+  ],
+  "knowledge": {
+    "point": "二氧化碳的性质与制取",
+    "core_concept": "CO₂ 不能燃烧也不支持燃烧、密度比空气大，能与水反应生成碳酸、与澄清石灰水反应变浑浊。实验室用大理石与稀盐酸反应制取。",
+    "key_formula": "$\\text{CaCO}_3+2\\text{HCl}=\\text{CaCl}_2+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+    "common_mistakes": [
+      "用稀硫酸代替稀盐酸（生成微溶物阻止反应）。"
+    ],
+    "tips": "检验用澄清石灰水，验满用燃着木条置于瓶口。"
+  }
+}

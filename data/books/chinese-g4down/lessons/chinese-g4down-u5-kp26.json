@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u5-kp26",
+  "title": "游记过渡句表达",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "游记过渡句表达",
+      "question": "将下列词语排成顺畅的过渡句：",
+      "options": [
+        "进入",
+        "沿着",
+        "我们",
+        "溪流",
+        "外洞"
+      ],
+      "answer": "我们,沿着,溪流,进入,外洞",
+      "explanation": "这是一个标准的游记过渡句，交代了主语、路径和到达的地点。"
+    }
+  ],
+  "knowledge": null
+}

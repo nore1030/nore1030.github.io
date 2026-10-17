@@ -1,0 +1,47 @@
+{
+  "id": "politics-g11up-u1-kp2",
+  "title": "公民与法治国家",
+  "bookId": "politics-g11up",
+  "unitNumber": 1,
+  "unitTitle": "法律与生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "公民与法治国家",
+      "question": "有法可依、有法必依、执法必严、违法必究指的是（　）",
+      "options": [
+        "建设社会主义法治国家的要求",
+        "经济发展目标",
+        "文化繁荣路径",
+        "国际关系准则"
+      ],
+      "answer": "建设社会主义法治国家的要求",
+      "explanation": "法治国家要求。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "公民与法治国家",
+      "question": "公民要自觉履行法定义务。",
+      "options": [],
+      "answer": "对",
+      "explanation": "履行义务。"
+    }
+  ],
+  "knowledge": {
+    "point": "公民与法治国家",
+    "core_concept": "法治国家要求有法可依、有法必依、执法必严、违法必究。公民要增强法治意识，自觉履行义务。",
+    "key_formula": "依法治国，建设社会主义法治国家",
+    "common_mistakes": [
+      "认为法治只约束他人。"
+    ],
+    "tips": "人人都在法律之内。"
+  }
+}

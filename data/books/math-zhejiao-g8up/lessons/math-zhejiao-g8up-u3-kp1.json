@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g8up-u3-kp1",
+  "title": "全等三角形",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 3,
+  "unitTitle": "一次函数与全等",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形",
+      "question": "下列不能判定两个三角形全等的是（　）",
+      "options": [
+        "SSA",
+        "SSS",
+        "SAS",
+        "ASA"
+      ],
+      "answer": "SSA",
+      "explanation": "SSA 不能判定。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形",
+      "question": "全等三角形的对应边相等、对应角相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全等性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "全等三角形",
+    "core_concept": "全等三角形对应边相等、对应角相等。判定方法有 SSS、SAS、ASA、AAS、HHL。",
+    "key_formula": "SSS / SAS / ASA / AAS",
+    "common_mistakes": [
+      "把 SSA 当作判定。"
+    ],
+    "tips": "SSA 不能判定。"
+  }
+}

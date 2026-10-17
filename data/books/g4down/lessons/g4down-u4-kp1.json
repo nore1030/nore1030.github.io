@@ -1,0 +1,80 @@
+{
+  "id": "g4down-u4-kp1",
+  "title": "小数的意义与计数单位",
+  "bookId": "g4down",
+  "unitNumber": 4,
+  "unitTitle": "小数的意义和性质",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的意义与计数单位",
+      "question": "0.5 和 0.50 的大小相等，它们的计数单位也相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "0.5 的计数单位是 0.1，0.50 的计数单位是 0.01。虽然大小相等，但计数单位不同。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的意义与计数单位",
+      "question": "100 个 0.01 是多少？",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "0.1"
+      ],
+      "answer": "1",
+      "explanation": "$0.01 \\times 100 = 1$。100 个百分之一是一个一。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的意义与计数单位",
+      "question": "下列各数中，计数单位最小的是哪一个？",
+      "options": [
+        "0.3",
+        "0.25",
+        "0.125",
+        "0.1"
+      ],
+      "answer": "0.125",
+      "explanation": "0.3 和 0.1 的单位是 0.1；0.25 的单位是 0.01；0.125 的单位是 0.001。0.001 最小。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的意义与计数单位",
+      "question": "0.19 里面有 19 个什么？",
+      "options": [
+        "1",
+        "0.1",
+        "0.01",
+        "0.001"
+      ],
+      "answer": "0.01",
+      "explanation": "0.19 的计数单位是 0.01，所以它有 19 个 0.01。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数的意义与计数单位",
+    "core_concept": "理解小数是分数的另一种表现形式。十分之一写成0.1，百分之一写成0.01。每相邻两个计数单位之间的进率都是10。小数部分最高位是十分位制。",
+    "key_formula": "1\\text{ (一个一)} = 10 \\times 0.1 = 100 \\times 0.01",
+    "common_mistakes": [
+      "认为 0.5 和 0.50 的计数单位是一样的",
+      "分不清数位（十分位）和计数单位（0.1）"
+    ],
+    "tips": "记数位顺序表，小数点左边是整数部分（个、十...），右边是小数部分（十分位、百分位...）。"
+  }
+}

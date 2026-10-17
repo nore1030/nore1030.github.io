@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp14",
+  "title": "综合理解",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 10,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合理解",
+      "question": "John: I'm going to be a teacher. Amy: ____.",
+      "options": [
+        "Good luck",
+        "That's sounds great",
+        "Me either",
+        "I am a teacher"
+      ],
+      "answer": "That's sounds great",
+      "explanation": "当别人说出理想时，合适的反馈是表示赞赏。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp6",
+  "title": "词语分类",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语分类",
+      "question": "下列哪组词语不属于大自然的天气现象？",
+      "options": [
+        "雷暴、闪电",
+        "狂风、骤雨",
+        "地震、海啸",
+        "乌云、彩虹"
+      ],
+      "answer": "地震、海啸",
+      "explanation": "地震和海啸通常被视为地质灾害，而非普通气象。"
+    }
+  ],
+  "knowledge": null
+}

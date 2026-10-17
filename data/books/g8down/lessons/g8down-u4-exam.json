@@ -1,0 +1,61 @@
+{
+  "id": "g8down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g8down",
+  "unitNumber": 4,
+  "unitTitle": "一次函数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一次函数的图象与性质",
+      "question": "一次函数 $y=kx+b$ 的图象经过第一、三、四象限，则（　）",
+      "options": [
+        "$k>0,b>0$",
+        "$k>0,b<0$",
+        "$k<0,b>0$",
+        "$k<0,b<0$"
+      ],
+      "answer": "$k>0,b<0$",
+      "explanation": "过一三象限 $k>0$，过四象限 $b<0$。"
+    },
+    {
+      "id": 8,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "正比例函数与一次函数的应用",
+      "question": "已知直线过 $(0,2)$ 与 $(1,5)$，则一次函数解析式为 $y=$ ___",
+      "options": [],
+      "answer": "3x+2",
+      "explanation": "$b=2$，$k=5-2=3$。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "一次函数的图象与性质",
+      "question": "一次函数 $y=-x+4$ 与 $y$ 轴交点的纵坐标是多少？",
+      "options": [],
+      "answer": "4",
+      "explanation": "令 $x=0$，$y=4$。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "函数与变量",
+      "question": "函数的自变量取值范围要使解析式有意义。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如分母不为 0、被开方数非负。"
+    }
+  ],
+  "knowledge": null
+}

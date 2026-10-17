@@ -1,0 +1,52 @@
+{
+  "id": "english-hujiao-g3up-u4-kp2",
+  "title": "人称代词 he / she",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 2 My family, my friends and me — My friends 我的朋友",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人称代词 he / she",
+      "question": "Tom 是男孩名，句子中用 ___ 代替 Tom。",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "His"
+      ],
+      "answer": "He",
+      "explanation": "男性用 he。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人称代词 he / she",
+      "question": "Lily 是女孩名，句子中用 ___ 代替 Lily。",
+      "options": [
+        "She",
+        "He",
+        "It",
+        "Her"
+      ],
+      "answer": "She",
+      "explanation": "女性用 she。"
+    }
+  ],
+  "knowledge": {
+    "point": "人称代词 he / she",
+    "core_concept": "男性用 he（他），女性用 she（她）；he's = he is，she's = she is。",
+    "key_formula": "Tom is a boy. He's my friend.",
+    "common_mistakes": [
+      "男女代词混用。"
+    ],
+    "tips": "先看性别再选代词。"
+  }
+}

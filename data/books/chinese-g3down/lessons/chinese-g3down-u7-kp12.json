@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp12",
+  "title": "阅读理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读理解",
+      "question": "《火烧云》的作者是著名女作家：",
+      "options": [
+        "冰心",
+        "萧红",
+        "林海音",
+        "张洁"
+      ],
+      "answer": "萧红",
+      "explanation": "《火烧云》选自萧红的《呼兰河传》。"
+    }
+  ],
+  "knowledge": null
+}

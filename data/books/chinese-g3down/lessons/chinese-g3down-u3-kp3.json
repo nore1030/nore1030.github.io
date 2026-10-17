@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g3down-u3-kp3",
+  "title": "中国古代科技发明与历史演变",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "中国古代科技发明与历史演变",
+      "question": "在蔡伦改进造纸术之前，西汉时期就已经出现了笨重的麻纸。",
+      "options": [],
+      "answer": "对",
+      "explanation": "西汉时期已经有了麻纸，但由于粗糙且产量低，并不普及。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国古代科技发明与历史演变",
+      "question": "关于蔡伦改进的造纸术，以下描述最准确的是？",
+      "options": [
+        "原料昂贵，平民买不起",
+        "原料容易得到，造纸成本降低",
+        "这种纸非常笨重",
+        "这种纸无法用来写字"
+      ],
+      "answer": "原料容易得到，造纸成本降低",
+      "explanation": "蔡伦用树皮、麻头、破布等原料，使得造纸术得以普及。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国古代科技发明与历史演变",
+      "question": "东汉时期，（___）改进了造纸术，是我国古代四大发明之一。",
+      "options": [],
+      "answer": "蔡伦",
+      "explanation": "蔡伦是造纸术的关键改进者。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国古代科技发明与历史演变",
+    "core_concept": "以《纸的发明》为中心，了解书写载体从笨重（龟甲、竹片）到昂贵（帛）再到粗糙（初期麻纸）最后到蔡伦改进后的“平价且好用纸”的演变历程。重点在于理解蔡伦改进工艺的核心：原料易得（树皮、破布等）和降低成本，从而推动文化普及。",
+    "key_formula": "载体演变：笨重/昂贵 -> 改进工艺 -> 轻便/便宜 -> 文明传播",
+    "common_mistakes": [
+      "误认为纸是蔡伦发明的（实际上蔡伦是‘改进’）。",
+      "无法正确排出造纸原料出现的先后顺序。"
+    ],
+    "tips": "可以画一条时间轴，标注出“商朝-周朝-西汉-东汉”对应的书写材料。"
+  }
+}

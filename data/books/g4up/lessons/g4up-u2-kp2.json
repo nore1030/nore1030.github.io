@@ -1,0 +1,113 @@
+{
+  "id": "g4up-u2-kp2",
+  "title": "平方千米的认识与换算",
+  "bookId": "g4up",
+  "unitNumber": 2,
+  "unitTitle": "公顷和平方千米",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "一个边长是 2000 米的正方形，面积是 2 平方千米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$2000 \\times 2000 = 4000000$（平方米）$= 4$ 平方千米。验算：$2 \\times 2 = 4$ 而不是 2。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "1 平方千米比 1 公顷大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 > 1$。验算：单位进率正确。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "“鸟巢”的占地面积约为 20 公顷，多少个这样的“鸟巢”占地面积约为 1 平方千米？",
+      "options": [
+        "5 个",
+        "10 个",
+        "50 个",
+        "100 个"
+      ],
+      "answer": "5 个",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 \\div 20 = 5$（个）。验算：$20 \\times 5 = 100$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "一块长方形土地，长 500 米，宽 200 米，这块地的面积是（ ）。",
+      "options": [
+        "10 公顷",
+        "1 平方千米",
+        "100 公顷",
+        "10000 平方米"
+      ],
+      "answer": "10 公顷",
+      "explanation": "面积：$500 \\times 200 = 100000$（平方米）；换算：$100000$ 平方米 $= 10$ 公顷。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "1 平方千米增加 1 公顷后是（ ）公顷。",
+      "options": [
+        "2",
+        "11",
+        "101",
+        "1001"
+      ],
+      "answer": "101",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$100 + 1 = 101$（公顷）。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "5 平方千米 = ___ 公顷。",
+      "options": [],
+      "answer": "500",
+      "explanation": "$1$ 平方千米 $= 100$ 公顷，$5 \\times 100 = 500$。验算：$500 \\div 100 = 5$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方千米的认识与换算",
+      "question": "计算：$3 \\times 100 + 50 = ?$",
+      "options": [],
+      "answer": "350",
+      "explanation": "$3$ 平方千米加上 $50$ 公顷等于多少公顷？$3 \\times 100 = 300$，$300 + 50 = 350$。验算：$350 - 50 = 300$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "平方千米的认识与换算",
+    "core_concept": "测量国家、城市等极大的土地面积时，用平方千米作单位。边长是 1000 米（1 千米）的正方形面积是 1 平方千米。它比公顷大得多，1 平方千米等于 100 公顷。",
+    "key_formula": "$1 \\text{平方千米} = 100 \\text{公顷} = 1000000 \\text{平方米}$",
+    "common_mistakes": [
+      "记错平方千米与公顷的进率，常与长度单位千米和米的进率 1000 混淆。",
+      "在多级换算（平方千米到平方米）时漏写零。"
+    ],
+    "tips": "记住进率口诀：平方千米公顷一百倍，公顷变平米万万岁。"
+  }
+}

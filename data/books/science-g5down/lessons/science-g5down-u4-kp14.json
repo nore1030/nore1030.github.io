@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp14",
+  "title": "热传递",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 8,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "热传递",
+      "question": "把冰块放入热水中，热量的流动方向是（）。",
+      "options": [
+        "从冰块传向热水",
+        "从热水传向冰块",
+        "不发生热量传递",
+        "无法判断"
+      ],
+      "answer": "从热水传向冰块",
+      "explanation": "热量从高温物体（热水）传向低温物体（冰块）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp13",
+  "title": "拉力与速度",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拉力与速度",
+      "question": "在探究拉力大小与小车运动速度的关系实验中，为了让小车动起来，最少需要挂（___）。",
+      "options": [
+        "刚好能克服摩擦力的垫圈",
+        "任意数量的垫圈",
+        "重100牛顿的物块",
+        "越多越好的垫圈"
+      ],
+      "answer": "刚好能克服摩擦力的垫圈",
+      "explanation": "只有拉力达到一定数值克服掉初始摩擦力，小车才会启动。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp13",
+  "title": "降水形式",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "降水形式",
+      "question": "下列属于降水形式的是（ ）。",
+      "options": [
+        "雾",
+        "冰雹",
+        "霜",
+        "露水"
+      ],
+      "answer": "冰雹",
+      "explanation": "雨、雪、冰雹都属于大气降水形式。"
+    }
+  ],
+  "knowledge": null
+}

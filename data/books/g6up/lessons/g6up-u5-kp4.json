@@ -1,0 +1,64 @@
+{
+  "id": "g6up-u5-kp4",
+  "title": "扇形的认识与圆心角",
+  "bookId": "g6up",
+  "unitNumber": 5,
+  "unitTitle": "圆",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "扇形的认识与圆心角",
+      "question": "半圆也是一个扇形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "扇形是由圆心角和一段弧以及两条半径围成的图形，半圆是圆心角为180度的扇形。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "扇形的认识与圆心角",
+      "question": "在同一个圆中，哪个扇形最大？",
+      "options": [
+        "圆心角60度的扇形",
+        "圆心角90度的扇形",
+        "圆心角120度的扇形",
+        "圆心角150度的扇形"
+      ],
+      "answer": "圆心角150度的扇形",
+      "explanation": "在同圆中，圆心角越大，扇形面积越大。150度是选项中最大的。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "扇形的认识与圆心角",
+      "question": "一个圆被平均分成4份，每一份扇形的圆心角是多少度？",
+      "options": [
+        "45",
+        "90",
+        "180",
+        "360"
+      ],
+      "answer": "90",
+      "explanation": "$360 \\div 4 = 90$度。"
+    }
+  ],
+  "knowledge": {
+    "point": "扇形的认识与圆心角",
+    "core_concept": "由圆心角的两条半径和一段弧围成的图形叫做扇形。顶点在圆心的角叫圆心角。在同一个圆中，扇形的大小由圆心角的大小决定。圆心角是360度的几分之几，扇形面积就是圆面积的几分之几。",
+    "key_formula": "扇形面积 $=$ 圆面积 $\\times \\frac{n}{360}$（n为圆心角度数）",
+    "common_mistakes": [
+      "认为顶点在圆上的角也是圆心角。",
+      "在比较不同圆中的扇形大小时，只看圆心角而忽略了圆本身的大小（半径）。"
+    ],
+    "tips": "扇形就像切开的一块蛋糕，蛋糕的大小（面积）取决于切开的角度和整块蛋糕的大小。"
+  }
+}

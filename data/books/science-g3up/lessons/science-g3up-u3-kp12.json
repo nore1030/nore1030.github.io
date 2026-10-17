@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp12",
+  "title": "气温计的读数",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气温计的读数",
+      "question": "读取气温计数值时，视线应该（ ）。",
+      "options": [
+        "仰视液柱顶端",
+        "俯视液柱顶端",
+        "与液柱顶端持平",
+        "随意观察"
+      ],
+      "answer": "与液柱顶端持平",
+      "explanation": "平视可以保证读数准确，避免产生误差。"
+    }
+  ],
+  "knowledge": null
+}

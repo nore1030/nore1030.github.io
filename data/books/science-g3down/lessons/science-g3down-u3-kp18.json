@@ -1,0 +1,28 @@
+{
+  "id": "science-g3down-u3-kp18",
+  "title": "月球环境",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 12,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月球环境",
+      "question": "月球上没有（）。",
+      "options": [
+        "土地",
+        "阳光",
+        "引力",
+        "空气"
+      ],
+      "answer": "空气",
+      "explanation": "月球是一颗荒漠、真空的体。由于质量小，月球无法保留大气层。"
+    }
+  ],
+  "knowledge": null
+}

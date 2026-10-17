@@ -1,0 +1,217 @@
+{
+  "id": "science-g1down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 16,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物特征",
+      "question": "动物都需要家，有了家才能平安生活。",
+      "options": [],
+      "answer": "对",
+      "explanation": "栖息地或巢穴是动物生存的基本需求之一。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "蜗牛观察",
+      "question": "轻轻触碰蜗牛的触角，它会把身体缩进壳里。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是动物对外界刺激产生的应激反应。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "动物分类",
+      "question": "只要是生活在水里的生物，我们就都叫它鱼。",
+      "options": [],
+      "answer": "错",
+      "explanation": "水里的生物很多，如螃蟹、乌龟、水草等，只有具备特定结构的才叫鱼。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物的生长",
+      "question": "我们要定期给蜗牛清理粪便，保持环境卫生。",
+      "options": [],
+      "answer": "对",
+      "explanation": "动物生存需要干净卫生的环境。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "蜗牛观察",
+      "question": "蜗牛休眠了，我们应该怎么唤醒它？",
+      "options": [
+        "用火烤",
+        "放入水中浸泡",
+        "放入凉水（不淹没口鼻）",
+        "用剪刀剪"
+      ],
+      "answer": "放入凉水（不淹没口鼻）",
+      "explanation": "适当的水分刺激可以诱导蜗牛苏醒。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鱼的结构",
+      "question": "鱼的身上覆盖着硬硬的片片，那是：",
+      "options": [
+        "鱼皮",
+        "鱼鳞",
+        "鱼毛",
+        "鱼刺"
+      ],
+      "answer": "鱼鳞",
+      "explanation": "鱼鳞具有保护鱼体和减少阻力的作用。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "校园动物观察",
+      "question": "在观察大树下的动物时，不应该：",
+      "options": [
+        "带上记录本",
+        "观察树根处的蚂蚁",
+        "直接把蚂蚁踩死",
+        "数一数有几只虫"
+      ],
+      "answer": "直接把蚂蚁踩死",
+      "explanation": "观察实验需要爱护动物。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的需求",
+      "question": "蜗牛的生活需要：",
+      "options": [
+        "阳光直射",
+        "潮湿和阴暗",
+        "干燥炎热",
+        "水底深处"
+      ],
+      "answer": "潮湿和阴暗",
+      "explanation": "蜗牛为了防止水分蒸发，喜好阴暗潮湿的环境。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "蜗牛的结构",
+      "question": "如果给蜗牛喂不同颜色的蔬菜，它的粪便：",
+      "options": [
+        "都是黑色的",
+        "都是白色的",
+        "和蔬菜颜色相近",
+        "没有颜色"
+      ],
+      "answer": "和蔬菜颜色相近",
+      "explanation": "蜗牛消化系统结构特殊，粪便颜色往往受食物颜色影响。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物特征",
+      "question": "猫、鱼、蜗牛共同的家是哪个星球？",
+      "options": [
+        "月球",
+        "火星",
+        "地球",
+        "太阳"
+      ],
+      "answer": "地球",
+      "explanation": "地球是目前已知唯一适合生物生存的星球。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物特征",
+      "question": "下列哪种行为说明它是有生命的动物？",
+      "options": [
+        "被风吹着跑",
+        "会自己找水喝",
+        "掉在地上不动了",
+        "在电池的作用下跳舞"
+      ],
+      "answer": "会自己找水喝",
+      "explanation": "主动获取营养物质是生命的特征。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "蜗牛观察",
+      "question": "蜗牛在玻璃板上爬行时，我们可以看到它的：",
+      "options": [
+        "骨头",
+        "波浪形的腹足运动",
+        "跳跃动作",
+        "翅膀"
+      ],
+      "answer": "波浪形的腹足运动",
+      "explanation": "在透明介质上可以清晰观察到蜗牛腹足底部的肌肉蠕动。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物分类",
+      "question": "猫有（___）条腿。",
+      "options": [],
+      "answer": "4",
+      "explanation": "猫是哺乳类四足动物。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生活实践",
+      "question": "小明养了3只蜗牛，又养了2只金鱼，他一共养了（___）只小动物。",
+      "options": [],
+      "answer": "5",
+      "explanation": "简单的计数统计考察对动物个体的认知。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园寻找动物",
+      "question": "蚂蚁喜欢在泥土里钻洞，这种地方就是蚂蚁的（___）。",
+      "options": [],
+      "answer": "家",
+      "explanation": "教材中常用“家”来通俗化描述栖息地。"
+    }
+  ],
+  "knowledge": null
+}

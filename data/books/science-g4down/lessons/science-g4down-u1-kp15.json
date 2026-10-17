@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp15",
+  "title": "种子的传播方式",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "种子的传播方式",
+      "question": "苍耳的果实上长有许多倒钩，它传播种子的方式是（）。",
+      "options": [
+        "风力传播",
+        "水力传播",
+        "动物传播",
+        "弹射传播"
+      ],
+      "answer": "动物传播",
+      "explanation": "倒钩可以挂在动物的皮毛上，随动物活动移动到他处。"
+    }
+  ],
+  "knowledge": null
+}

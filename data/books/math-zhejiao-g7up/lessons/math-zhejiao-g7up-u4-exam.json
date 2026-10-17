@@ -1,0 +1,61 @@
+{
+  "id": "math-zhejiao-g7up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 4,
+  "unitTitle": "第4章 代数式",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "整式的加减",
+      "question": "$2(a+3)-(a-1)$ 化简后 $a$ 的系数是多少？",
+      "options": [],
+      "answer": "1",
+      "explanation": "化简得 $a+7$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整式与合并同类项",
+      "question": "单项式 $5a^2b^3$ 的次数是（　）",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "$2+3=5$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "列代数式与代数式的值",
+      "question": "代数式 $3a$ 表示 3 与 $a$ 的乘积。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数字与字母相乘。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "整式与合并同类项",
+      "question": "合并同类项：$4m-7m$ 得（　）",
+      "options": [],
+      "answer": "$-3m$,$3m$,$11m$,$-11m$",
+      "explanation": "$-3m$"
+    }
+  ],
+  "knowledge": null
+}

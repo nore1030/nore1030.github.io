@@ -1,0 +1,66 @@
+{
+  "id": "history-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "history-g7up",
+  "unitNumber": 2,
+  "unitTitle": "秦汉时期",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "汉朝巩固统一",
+      "question": "丝绸之路的最早开辟者（出使西域）是（　）",
+      "options": [
+        "卫青",
+        "张骞",
+        "班超",
+        "甘英"
+      ],
+      "answer": "张骞",
+      "explanation": "张骞出使西域。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "秦的统一与中央集权",
+      "question": "秦始皇统一全国后推行郡县制，加强了中央集权。",
+      "options": [],
+      "answer": "对",
+      "explanation": "郡县制意义。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "汉朝巩固统一",
+      "question": "汉武帝时期“罢黜百家、尊崇儒术”的建议提出者是（　）",
+      "options": [
+        "董仲舒",
+        "司马迁",
+        "主父偃",
+        "桑弘羊"
+      ],
+      "answer": "董仲舒",
+      "explanation": "董仲舒提出该建议。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "秦汉时期",
+      "question": "汉朝时期造纸术得到改进，对世界文明作出贡献。",
+      "options": [],
+      "answer": "对",
+      "explanation": "东汉蔡伦改进造纸术。"
+    }
+  ],
+  "knowledge": null
+}

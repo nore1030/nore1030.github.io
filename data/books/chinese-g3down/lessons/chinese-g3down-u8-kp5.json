@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u8-kp5",
+  "title": "字形辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 3,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "“咳嗽”的“嗽”字是口字旁，与嘴部动作有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "咳嗽是呼吸系统症状，通常通过口腔发出声音，故为口字旁。"
+    }
+  ],
+  "knowledge": null
+}

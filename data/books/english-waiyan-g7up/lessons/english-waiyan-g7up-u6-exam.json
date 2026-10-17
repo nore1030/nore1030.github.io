@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Module 6 A trip to the zoo 动物园之旅",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动物与产地",
+      "question": "「熊猫来自中国。」的英文是（　）",
+      "options": [
+        "Pandas come from China.",
+        "Pandas comes from China.",
+        "Pandas come from Chinaa.",
+        "Panda come from China."
+      ],
+      "answer": "Pandas come from China.",
+      "explanation": "复数用原形。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动物与产地",
+      "question": "「大象」的英文是（　）",
+      "options": [
+        "elephant",
+        "elephent",
+        "elefant",
+        "elephants"
+      ],
+      "answer": "elephant",
+      "explanation": "elephant 大象。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时三单疑问句",
+      "question": "Does he like music? 是正确的一般疑问句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "does 提前。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动物与产地",
+      "question": "「猴子」的英文是（　）",
+      "options": [
+        "monkey",
+        "monky",
+        "monkeyy",
+        "donkey"
+      ],
+      "answer": "monkey",
+      "explanation": "monkey 猴子。"
+    }
+  ],
+  "knowledge": null
+}

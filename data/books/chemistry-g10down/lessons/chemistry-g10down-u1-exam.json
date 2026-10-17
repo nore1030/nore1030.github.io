@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g10down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chemistry-g10down",
+  "unitNumber": 1,
+  "unitTitle": "化学反应与能量",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学反应速率与限度",
+      "question": "对反应 $\\text{N}_2+3\\text{H}_2\\rightleftharpoons2\\text{NH}_3$，增大压强，平衡（　）",
+      "options": [
+        "向正反应方向移动",
+        "向逆反应方向移动",
+        "不移动",
+        "先正后逆"
+      ],
+      "answer": "向正反应方向移动",
+      "explanation": "气体分子数减少的方向。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "化学反应与热能、电能",
+      "question": "化学键断裂需要吸收能量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "断键吸能。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学反应与热能、电能",
+      "question": "下列装置能构成原电池的是（　）",
+      "options": [
+        "两个相同电极插入同一溶液",
+        "两个不同电极插入同一电解质溶液并连成回路",
+        "单个电极",
+        "两电极不接触溶液"
+      ],
+      "answer": "两个不同电极插入同一电解质溶液并连成回路",
+      "explanation": "原电池构成条件。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "化学反应速率与限度",
+      "question": "化学平衡是动态平衡。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平衡为动态。"
+    }
+  ],
+  "knowledge": null
+}

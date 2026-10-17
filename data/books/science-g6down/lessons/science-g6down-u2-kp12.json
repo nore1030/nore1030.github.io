@@ -1,0 +1,59 @@
+{
+  "id": "science-g6down-u2-kp12",
+  "title": "二歧分类法",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 6,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二歧分类法",
+      "question": "二歧分类法是将特征不同的生物（ ）。",
+      "options": [
+        "按大小分类",
+        "分成两个对立的类别",
+        "按颜色分类",
+        "随机分成若干类"
+      ],
+      "answer": "分成两个对立的类别",
+      "explanation": "二歧分类法是确定一个标准，将生物分为有此特征和无此特征的两类。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二歧分类法",
+      "question": "在使用二歧分类法将4种不同的生物完全区分开，最少需要进行（ ）级分类。",
+      "options": [],
+      "answer": "2",
+      "explanation": "第一级分2组，第二级每组再分2个，即可区分出4个物种。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二歧分类法",
+      "question": "确定一个标准，将事物分为两类，再确定标准，直到分完为止，这种方法叫（ ）。",
+      "options": [],
+      "answer": "二歧分类法",
+      "explanation": "二歧分类法是科学分类的基础方法。"
+    }
+  ],
+  "knowledge": {
+    "point": "二歧分类法",
+    "core_concept": "基于特征有无将生物不断一分为二。",
+    "key_formula": "n 级分类可辨别 2 的 n 次方个物种。",
+    "common_mistakes": [
+      "分类标准不明确",
+      "同一级使用了多个分类标准"
+    ],
+    "tips": "标准必须是客观的形态特征，如“是否有毛”。"
+  }
+}

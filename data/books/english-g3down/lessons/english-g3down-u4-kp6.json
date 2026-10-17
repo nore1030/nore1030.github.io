@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp6",
+  "title": "语音知识",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 2,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音知识",
+      "question": "单词 'dog' 和 'box' 中字母 'o' 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "dog和box中的o都发短元音/ɒ/。"
+    }
+  ],
+  "knowledge": null
+}

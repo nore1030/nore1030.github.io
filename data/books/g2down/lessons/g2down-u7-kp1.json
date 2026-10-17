@@ -1,0 +1,75 @@
+{
+  "id": "g2down-u7-kp1",
+  "title": "计数单位与十进制概念",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "一千里面有 10 个一百。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据十进制计数法，10个一百是一千。验算：$100 \\times 10 = 1000$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "10 个一千是（ ）。",
+      "options": [
+        "一百",
+        "一千",
+        "一万",
+        "十万"
+      ],
+      "answer": "一万",
+      "explanation": "相邻两个计数单位间的进率是10，10个一千是一万。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "比最大的三位数多 1 的数是（ ）。",
+      "options": [
+        "999",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "1000",
+      "explanation": "最大三位数是999，$999 + 1 = 1000$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计数单位与十进制概念",
+      "question": "4300 是由 ___ 个百组成的。",
+      "options": [],
+      "answer": "43",
+      "explanation": "4300 里面包含 43 个 100。验算：$43 \\times 100 = 4300$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "计数单位与十进制概念",
+    "core_concept": "万以内的计数单位包括个、十、百、千、万。每相邻两个计数单位之间的进率都是10（即满十进一）。10个一百是一千，10个一千是一万。",
+    "key_formula": "$10 \\times 100 = 1000, 10 \\times 1000 = 10000$",
+    "common_mistakes": [
+      "误认为一万里面有10个一百",
+      "在数数时遗漏某个计数单位"
+    ],
+    "tips": "可以借助拨珠子的方式感受‘满十进一’的过程。"
+  }
+}

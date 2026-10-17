@@ -1,0 +1,66 @@
+{
+  "id": "english-beishida-g3down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-beishida-g3down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 School 校园与物品",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "学习用品",
+      "question": "“尺子”的英文是（　）",
+      "options": [
+        "ruler",
+        "rubber",
+        "book",
+        "pen"
+      ],
+      "answer": "ruler",
+      "explanation": "尺子 ruler。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色与文具搭配",
+      "question": "It's a ___ bag.",
+      "options": [
+        "blue",
+        "blues",
+        "blue a",
+        "bluing"
+      ],
+      "answer": "blue",
+      "explanation": "蓝色作定语。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "学习用品",
+      "question": "book 是书，bag 是书包。",
+      "options": [],
+      "answer": "对",
+      "explanation": "book/bag。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "颜色与文具搭配",
+      "question": "It's a… 用来回答 What's this?。",
+      "options": [],
+      "answer": "对",
+      "explanation": "回答句型。"
+    }
+  ],
+  "knowledge": null
+}

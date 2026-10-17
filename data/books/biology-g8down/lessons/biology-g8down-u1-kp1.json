@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8down-u1-kp1",
+  "title": "传染病与免疫",
+  "bookId": "biology-g8down",
+  "unitNumber": 1,
+  "unitTitle": "人的健康与免疫",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "传染病与免疫",
+      "question": "预防传染病的关键措施之一是（　）",
+      "options": [
+        "控制传染源",
+        "增加人口",
+        "减少锻炼",
+        "多聚集"
+      ],
+      "answer": "控制传染源",
+      "explanation": "预防三措施之一。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "传染病与免疫",
+      "question": "传染病具有传染性和流行性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "传染病特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "传染病与免疫",
+    "core_concept": "传染病由病原体引起，具有传染性、流行性和地方性、发病初期症状。传播途径有空气传播、饮食传播、生物媒介传播等。预防措施包括控制传染源、切断传播途径、保护易感人群。",
+    "key_formula": "控制传染源 + 切断传播途径 + 保护易感人群",
+    "common_mistakes": [
+      "只打疫苗而不注意卫生。"
+    ],
+    "tips": "预防三环节。"
+  }
+}

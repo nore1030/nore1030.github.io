@@ -1,0 +1,39 @@
+{
+  "id": "english-g5up-u1-kp4",
+  "title": "语音：字母y在词尾的发音",
+  "bookId": "english-g5up",
+  "unitNumber": 1,
+  "unitTitle": "What’s he like?",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母y在词尾的发音",
+      "question": "单词 'baby' 和 'happy' 中字母 y 的发音是相同的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在这些单词中，末尾的 y 都发 /i/ 的音。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母y在词尾的发音",
+      "question": "Which word has the same 'y' sound as 'sunny'?",
+      "options": [
+        "my",
+        "fly",
+        "candy",
+        "sky"
+      ],
+      "answer": "candy",
+      "explanation": "sunny 和 candy 的 y 都发 /i/，其余三个发 /ai/。"
+    }
+  ],
+  "knowledge": null
+}

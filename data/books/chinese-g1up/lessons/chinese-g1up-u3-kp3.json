@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g1up-u3-kp3",
+  "title": "j、q、x与ü相拼规则",
+  "bookId": "chinese-g1up",
+  "unitNumber": 3,
+  "unitTitle": "汉语拼音（一）：单韵母与声母",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "j、q、x与ü相拼规则",
+      "question": "小鱼ü见到j、q、x，去掉两点还念ü。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是拼音规则中的重要口诀，j q x不与u相拼，只与ü相拼且去两点。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "j、q、x与ü相拼规则",
+      "question": "下列拼读书写完全正确的一项是：",
+      "options": [
+        "j-ü→jü",
+        "j-ü→ju",
+        "f-ü→fu",
+        "q-ü→qü"
+      ],
+      "answer": "j-ü→ju",
+      "explanation": "j、q、x遇到ü要去掉两点写成ju, qu, xu。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "j、q、x与ü相拼规则",
+      "question": "音节 'qù'（回去）是由哪两个部分组成的？",
+      "options": [
+        "q 和 u",
+        "q 和 ü",
+        "p 和 u",
+        "g 和 u"
+      ],
+      "answer": "q 和 ü",
+      "explanation": "q不能与u拼，这里的u实际上是去掉了两点的ü。"
+    }
+  ],
+  "knowledge": {
+    "point": "j、q、x与ü相拼规则",
+    "core_concept": "这是拼音教学中的难点和特殊规则。声母j、q、x只能与韵母i和ü相拼，不能与u相拼。当它们与ü相拼时，ü头上的两点必须省去，但在读音上依然保持ü的音。目的是为了书写简便且不会产生歧义。",
+    "key_formula": "小ü见到j q x，去掉两点还念ü。",
+    "common_mistakes": [
+      "在ju, qu, xu中错误地把韵母读成u",
+      "在书写nü, lü时错误地去掉了两点"
+    ],
+    "tips": "记忆口诀：小ü很有礼貌，见到j q x大哥哥，摘掉帽子去敬礼。"
+  }
+}

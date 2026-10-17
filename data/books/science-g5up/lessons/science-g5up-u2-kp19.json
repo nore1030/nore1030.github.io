@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp19",
+  "title": "地形特征",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地形特征",
+      "question": "四周高、中间低平的地貌被称为（ ）。",
+      "options": [
+        "山地",
+        "高原",
+        "盆地",
+        "丘陵"
+      ],
+      "answer": "盆地",
+      "explanation": "盆地的地形特征就是四周山岭环绕，中间地形较低平。"
+    }
+  ],
+  "knowledge": null
+}

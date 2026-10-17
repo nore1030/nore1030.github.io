@@ -1,0 +1,50 @@
+{
+  "id": "science-g2up-u1-kp1",
+  "title": "地球家园的组成要素",
+  "bookId": "science-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的地球家园",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球家园的组成要素",
+      "question": "地球家园除了人、动物和植物，还有土壤、岩石和水等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地球家园不仅包括生物，也包括非生物环境。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球家园的组成要素",
+      "question": "下列属于地球家园中的生物是：",
+      "options": [
+        "路边的岩石",
+        "清澈的溪水",
+        "路边的小草",
+        "洁白的云朵"
+      ],
+      "answer": "路边的小草",
+      "explanation": "草具有生长、繁殖等生命特征，属于生物。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球家园的组成要素",
+      "question": "地球家园中，表面覆盖着许多沙土和碎石的部分叫做（___）。",
+      "options": [],
+      "answer": "土壤",
+      "explanation": "土壤是地球表面的疏松层。"
+    }
+  ],
+  "knowledge": null
+}

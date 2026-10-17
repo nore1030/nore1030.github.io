@@ -1,0 +1,63 @@
+{
+  "id": "math-beishida-g1up-u2-kp1",
+  "title": "比多少",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 2,
+  "unitTitle": "比较",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比多少",
+      "question": "小明有 3 支笔，小红有 5 支笔，谁的笔多？（　）",
+      "options": [
+        "小明",
+        "小红",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "小红",
+      "explanation": "5 > 3，小红多。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比多少",
+      "question": "两堆物品一个对一个正好对完，说明（　）",
+      "options": [
+        "同样多",
+        "一堆多",
+        "一堆少",
+        "无法比较"
+      ],
+      "answer": "同样多",
+      "explanation": "对完即相等。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "比多少",
+      "question": "4 和 6 比，较大的数是几？",
+      "options": [],
+      "answer": "6",
+      "explanation": "6 > 4。"
+    }
+  ],
+  "knowledge": {
+    "point": "比多少",
+    "core_concept": "比较多少用一一对应的方法，一个对着一个，有多出来的一方就较多；结果有「多、少、同样多」。",
+    "key_formula": "一一对应比较",
+    "common_mistakes": [
+      "不一一对应就下结论。"
+    ],
+    "tips": "对齐了再比。"
+  }
+}

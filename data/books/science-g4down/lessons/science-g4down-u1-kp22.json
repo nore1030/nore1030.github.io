@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp22",
+  "title": "子叶的结构",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "子叶的结构",
+      "question": "在观察蚕豆种子时，我们可以看到它通常有（）片子叶。",
+      "options": [],
+      "answer": "2",
+      "explanation": "蚕豆属于双子叶植物，有两片肥厚的子叶储存营料。"
+    }
+  ],
+  "knowledge": null
+}

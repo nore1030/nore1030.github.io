@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp21",
+  "title": "询问活动日期",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动日期",
+      "question": "___ is the English test? It's on June 2nd.",
+      "options": [],
+      "answer": "when",
+      "explanation": "提问具体时间使用疑问词when。"
+    }
+  ],
+  "knowledge": null
+}

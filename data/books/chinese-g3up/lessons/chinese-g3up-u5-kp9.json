@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u5-kp9",
+  "title": "字义辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字义辨析",
+      "question": "“我来到草地上，仔细‘观察’。”这里的“察”是什么意思？",
+      "options": [
+        "看，查考",
+        "警察",
+        "形状",
+        "计算"
+      ],
+      "answer": "看，查考",
+      "explanation": "观察的意思是仔细察看（事物或现象）。"
+    }
+  ],
+  "knowledge": null
+}

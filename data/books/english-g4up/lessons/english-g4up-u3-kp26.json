@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp26",
+  "title": "疑问句语序",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "疑问句语序",
+      "question": "连词成句：[name, What, his, is]",
+      "options": [
+        "name",
+        "What",
+        "his",
+        "is"
+      ],
+      "answer": "What,is,his,name",
+      "explanation": "特殊疑问句语序：疑问词What + is + 主语his name。"
+    }
+  ],
+  "knowledge": null
+}

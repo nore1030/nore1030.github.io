@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp10",
+  "title": "修辞手法",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 6,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法",
+      "question": "“三十一刀，三十二刀……他居然忍受了七十二刀。”这句话运用了哪种写法？",
+      "options": [
+        "侧面描写",
+        "神态描写",
+        "动作描写",
+        "数字描写"
+      ],
+      "answer": "数字描写",
+      "explanation": "通过具体的数字记录手术刀数，极力衬托出刘伯承忍受痛苦的惊人意志。"
+    }
+  ],
+  "knowledge": null
+}

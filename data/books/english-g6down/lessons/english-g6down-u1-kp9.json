@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp9",
+  "title": "询问身高",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 5,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问身高",
+      "question": "____ tall are you? - I am 1.65 metres.",
+      "options": [
+        "What",
+        "Who",
+        "How",
+        "How much"
+      ],
+      "answer": "How",
+      "explanation": "How tall是固定搭配，用于询问身高。"
+    }
+  ],
+  "knowledge": null
+}

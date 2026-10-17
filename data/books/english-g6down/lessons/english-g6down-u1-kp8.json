@@ -1,0 +1,50 @@
+{
+  "id": "english-g6down-u1-kp8",
+  "title": "比较级词汇",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 4,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比较级词汇",
+      "question": "My legs are ____ than yours.",
+      "options": [
+        "long",
+        "longer",
+        "tall",
+        "taller"
+      ],
+      "answer": "longer",
+      "explanation": "腿的长度比较用longer，身高用taller。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比较级词汇",
+      "question": "I am 160cm tall. My brother is 165cm. I am ___ than him.",
+      "options": [],
+      "answer": "shorter",
+      "explanation": "160cm比165cm矮。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较级词汇",
+      "question": "Your hair is 20cm. My hair is 15cm. Your hair is ___ than mine.",
+      "options": [],
+      "answer": "longer",
+      "explanation": "形容头发长短用long，比较级longer。"
+    }
+  ],
+  "knowledge": null
+}

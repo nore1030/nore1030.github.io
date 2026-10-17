@@ -1,0 +1,61 @@
+{
+  "id": "physics-g9down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g9down",
+  "unitNumber": 2,
+  "unitTitle": "电学基础",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "电流与电路",
+      "question": "电压是形成电流的原因，电源提供电压。",
+      "options": [],
+      "answer": "对",
+      "explanation": "电压是电流动力。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "电功率与生活用电",
+      "question": "家庭照明电路的电压是（　）",
+      "options": [
+        "220 V",
+        "110 V",
+        "380 V",
+        "36 V"
+      ],
+      "answer": "220 V",
+      "explanation": "照明电压 220 V。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "电流与电路",
+      "question": "导体两端的电压越高，通过它的电流越大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "欧姆定律推论。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "电功率与生活用电",
+      "question": "安全电压不高于 36 V。",
+      "options": [],
+      "answer": "对",
+      "explanation": "安全电压规定。"
+    }
+  ],
+  "knowledge": null
+}

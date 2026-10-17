@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u2-kp5",
+  "title": "字词义辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 4,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“松脂”是一种像油一样的液体，是从松树上流出来的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "松脂由松树产生，是形成琥珀的原材料。"
+    }
+  ],
+  "knowledge": null
+}

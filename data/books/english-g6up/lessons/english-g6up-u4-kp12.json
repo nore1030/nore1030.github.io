@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp12",
+  "title": "Auxiliary verb: does",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 8,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Auxiliary verb: does",
+      "question": "—Does he live on a farm? —No, ________.",
+      "options": [
+        "he does",
+        "he is",
+        "he doesn't",
+        "he isn't"
+      ],
+      "answer": "he doesn't",
+      "explanation": "Does 开头的一般疑问句，否定回答用 No, 主语 + doesn't。"
+    }
+  ],
+  "knowledge": null
+}

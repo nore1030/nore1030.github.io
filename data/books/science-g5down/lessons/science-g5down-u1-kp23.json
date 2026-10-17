@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp23",
+  "title": "植物对环境选择",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植物对环境选择",
+      "question": "香蕉生长在热带，叶子宽大是为了（ ）。",
+      "options": [
+        "收集阳光",
+        "蒸发水分",
+        "抵御寒冷",
+        "增加美观"
+      ],
+      "answer": "蒸发水分",
+      "explanation": "热带雨林水分充足，宽大的叶片有利于水分散失。"
+    }
+  ],
+  "knowledge": null
+}

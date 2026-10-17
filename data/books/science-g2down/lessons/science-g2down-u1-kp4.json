@@ -1,0 +1,71 @@
+{
+  "id": "science-g2down-u1-kp4",
+  "title": "磁极的指向与指南针原理",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁极的指向与指南针原理",
+      "question": "指南针中的红色指针通常指向（    ）。",
+      "options": [
+        "东方",
+        "南方",
+        "西方",
+        "北方"
+      ],
+      "answer": "北方",
+      "explanation": "根据国际惯例和教材，指南针涂红的一端通常表示北极（N），指向北。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁极的指向与指南针原理",
+      "question": "当磁铁自由转动静止后，S极总是指向（    ）。",
+      "options": [
+        "北",
+        "东",
+        "南",
+        "西"
+      ],
+      "answer": "南",
+      "explanation": "S代表South（南），静止后指示南方。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁极的指向与指南针原理",
+      "question": "指南针发源于中国的（    ）。",
+      "options": [
+        "司南",
+        "地动仪",
+        "算盘",
+        "浑天仪"
+      ],
+      "answer": "司南",
+      "explanation": "司南是中国古代利用磁性矿石制成的最早的指南针。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁极的指向与指南针原理",
+      "question": "磁铁指南的一端叫南极，用字母（    ）表示。",
+      "options": [],
+      "answer": "S",
+      "explanation": "S代表South，即南极。"
+    }
+  ],
+  "knowledge": null
+}

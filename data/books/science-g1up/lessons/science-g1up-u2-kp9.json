@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp9",
+  "title": "植物与人类的关系",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物与人类的关系",
+      "question": "下列哪种植物可以作为我们的主食？",
+      "options": [
+        "向日葵",
+        "水稻",
+        "玫瑰",
+        "柳树"
+      ],
+      "answer": "水稻",
+      "explanation": "水稻产出的米饭是人类的主要食物来源。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "physics-g10down-u1-kp1",
+  "title": "平抛运动",
+  "bookId": "physics-g10down",
+  "unitNumber": 1,
+  "unitTitle": "抛体运动与圆周运动",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平抛运动",
+      "question": "小球以 5 m/s 水平抛出，离地高度 20 m，落地时间是多少 s？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "2",
+      "explanation": "$20=\\frac12\\times10t^2$，$t=2$ s。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平抛运动",
+      "question": "上题中小球的水平射程是多少 m？",
+      "options": [],
+      "answer": "10",
+      "explanation": "$x=v_0t=5\\times2=10$ m。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "平抛运动",
+      "question": "平抛运动的落地时间只与抛出高度有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "竖直分运动决定时间。"
+    }
+  ],
+  "knowledge": {
+    "point": "平抛运动",
+    "core_concept": "平抛运动可分解为水平方向匀速直线运动和竖直方向自由落体运动。$x=v_0t$，$y=\\frac12gt^2$，落地时间只由高度决定。",
+    "key_formula": "$t=\\sqrt{\\frac{2h}{g}}$",
+    "common_mistakes": [
+      "认为平抛落地时间与初速度有关。"
+    ],
+    "tips": "分运动独立。"
+  }
+}

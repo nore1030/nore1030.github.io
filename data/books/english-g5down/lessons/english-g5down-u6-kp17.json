@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp17",
+  "title": "名词性物主代词与进行时结合",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词性物主代词与进行时结合",
+      "question": "The books are ________. They are reading at the table.",
+      "options": [
+        "their",
+        "them",
+        "theirs",
+        "they"
+      ],
+      "answer": "theirs",
+      "explanation": "此处需要名词性物主代词作表语，theirs意为“他们的书”。"
+    }
+  ],
+  "knowledge": null
+}

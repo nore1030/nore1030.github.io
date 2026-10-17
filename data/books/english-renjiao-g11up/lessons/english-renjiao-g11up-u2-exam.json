@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-renjiao-g11up",
+  "unitNumber": 2,
+  "unitTitle": "状语从句与名词性从句",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "三大从句综合",
+      "question": "It is important that every student ___ the exam.",
+      "options": [
+        "passes",
+        "pass",
+        "will pass",
+        "passed"
+      ],
+      "answer": "pass",
+      "explanation": "it 作形式主语，从句用 should + 原形。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "语序与一致",
+      "question": "Never ___ such a wonderful place before.",
+      "options": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "did I see"
+      ],
+      "answer": "have I seen",
+      "explanation": "否定副词提前部分倒装。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "三大从句综合",
+      "question": "同位语从句用来解释前面的抽象名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同位语从句。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "语序与一致",
+      "question": "a number of + 复数名词作主语时谓语用复数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "a number of 用复数。"
+    }
+  ],
+  "knowledge": null
+}

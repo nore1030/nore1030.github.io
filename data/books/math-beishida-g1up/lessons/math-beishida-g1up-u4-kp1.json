@@ -1,0 +1,52 @@
+{
+  "id": "math-beishida-g1up-u4-kp1",
+  "title": "按标准分类",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 4,
+  "unitTitle": "分类",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按标准分类",
+      "question": "把铅笔、橡皮、尺子放在一起，是按（　）分",
+      "options": [
+        "用途",
+        "颜色",
+        "大小",
+        "形状"
+      ],
+      "answer": "用途",
+      "explanation": "都是文具。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按标准分类",
+      "question": "整理房间属于（　）",
+      "options": [
+        "分类",
+        "比较",
+        "数数",
+        "测量"
+      ],
+      "answer": "分类",
+      "explanation": "整理即分类。"
+    }
+  ],
+  "knowledge": {
+    "point": "按标准分类",
+    "core_concept": "分类要按统一的标准（如用途、形状、颜色）把物品分成若干组。",
+    "key_formula": "按标准分类",
+    "common_mistakes": [
+      "同一堆里用两个标准混着分。"
+    ],
+    "tips": "一次分类只用一个标准。"
+  }
+}

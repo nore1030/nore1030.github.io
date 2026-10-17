@@ -1,0 +1,36 @@
+{
+  "id": "physics-g10up-u4-kp2",
+  "title": "超重、失重与动力学的应用",
+  "bookId": "physics-g10up",
+  "unitNumber": 4,
+  "unitTitle": "运动和力的关系",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "超重、失重与动力学的应用",
+      "question": "电梯加速上升时，人对地板的压力（　）",
+      "options": [
+        "大于重力",
+        "小于重力",
+        "等于重力",
+        "为零"
+      ],
+      "answer": "大于重力",
+      "explanation": "加速度向上，超重。"
+    }
+  ],
+  "knowledge": {
+    "point": "超重、失重与动力学的应用",
+    "core_concept": "加速度向上（或向上分量）时超重，向下时失重；完全失重时加速度为 $g$。动力学两类基本问题：已知力求运动、已知运动求力。",
+    "key_formula": "$F_N=mg\\pm ma$",
+    "common_mistakes": [
+      "认为超重时重力变大。"
+    ],
+    "tips": "超重失重看加速度方向。"
+  }
+}

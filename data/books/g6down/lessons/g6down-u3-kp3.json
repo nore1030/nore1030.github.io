@@ -1,0 +1,102 @@
+{
+  "id": "g6down-u3-kp3",
+  "title": "圆柱的体积与容积",
+  "bookId": "g6down",
+  "unitNumber": 3,
+  "unitTitle": "圆柱与圆锥",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "两个圆柱的侧面积相等，它们的体积也一定相等。",
+      "options": [],
+      "answer": "错",
+      "explanation": "侧面积由底面周长和高决定，体积由底面积和高决定。侧面积相等不能推导出底面积乘以高也相等。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "把一个底面半径是2分米的圆柱纵向截成两半，表面积增加了16平方分米，原来圆柱的高是多少分米？",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "2",
+      "explanation": "增加的是两个以直径和高为边的长方形面。$16 \times \frac{1}{2} = 8$是一面面积。直径是4，$8 \times \frac{1}{4} = 2$。验算：$2 \times 4 \times 2 = 16$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "一个圆柱形容器，底面积为10平方厘米，内装水，投入一个体积为30立方厘米的铁块（完全淹没），水面升高多少厘米？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "$V \times \frac{1}{S} = 30 \times \frac{1}{10} = 3$。验算：$10 \times 3 = 30$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "两个体积相等的圆柱，高之比是1:4，底面积之比是多少？",
+      "options": [
+        "1:4",
+        "4:1",
+        "1:2",
+        "2:1"
+      ],
+      "answer": "4:1",
+      "explanation": "体积$V=Sh$。$V_1=V_2$，则 $S_1 \times 1 = S_2 \times 4$，$S_1:S_2=4:1$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "一个圆柱的底面积是20平方厘米，高是5厘米，体积是 ___ 立方厘米。",
+      "options": [],
+      "answer": "100",
+      "explanation": "$20 \times 5 = 100$。验算：$100 \times \frac{1}{5} = 20$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱的体积与容积",
+      "question": "计算底面积为50，高为4的圆柱体积：$50 \times 4 = ?$",
+      "options": [],
+      "answer": "200",
+      "explanation": "$50 \times 4 = 200$。验算：$200 \times \frac{1}{4} = 50$。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆柱的体积与容积",
+    "core_concept": "通过将圆柱等分并横向切割拼接，可以转化成长方体。转化后长方体的底面积等于圆柱底面积，高等于圆柱的高。体积公式适用于所有直柱体。求容器容积时应从内部测量尺寸。",
+    "key_formula": "$V = Sh = \text{PI}r^2h$",
+    "common_mistakes": [
+      "已知直径求体积时忘记除以2先求半径。",
+      "体积单位和面积单位混淆。"
+    ],
+    "tips": "理解“转化”思想：形状变了，体积没变。"
+  }
+}

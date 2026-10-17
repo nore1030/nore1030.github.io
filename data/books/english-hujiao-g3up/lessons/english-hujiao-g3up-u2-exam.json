@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Module 1 Getting to know you — How are you? 你好吗",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问身体与情绪 How are you?",
+      "question": "见到朋友，想问他好不好，应说（　）",
+      "options": [
+        "How are you?",
+        "How old are you?",
+        "Who are you?",
+        "What's this?"
+      ],
+      "answer": "How are you?",
+      "explanation": "问身体/情绪用 How are you。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "询问身体与情绪 How are you?",
+      "question": "I'm fine 表示「我很好」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fine = 好的。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情绪表达 happy / sad / tired",
+      "question": "「我很难过」的英文是（　）",
+      "options": [
+        "I'm sad.",
+        "I'm happy.",
+        "I'm hungry.",
+        "I'm fine."
+      ],
+      "answer": "I'm sad.",
+      "explanation": "sad = 难过。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问身体与情绪 How are you?",
+      "question": "— I'm fine, thank you. And you? — ___",
+      "options": [
+        "I'm fine too.",
+        "I'm nine.",
+        "My name is Lily.",
+        "Goodbye."
+      ],
+      "answer": "I'm fine too.",
+      "explanation": "反问 And you? 也要回答。"
+    }
+  ],
+  "knowledge": null
+}

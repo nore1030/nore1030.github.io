@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp10",
+  "title": "近义词辨析",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词辨析",
+      "question": "“经过这次激战，五位壮士胜利完成了掩护任务。”中“掩护”最接近的词语是：",
+      "options": [
+        "保护",
+        "庇护",
+        "掩盖",
+        "包围"
+      ],
+      "answer": "保护",
+      "explanation": "在此句中，掩护指通过战斗动作吸引火力，保护大部队撤离。"
+    }
+  ],
+  "knowledge": null
+}

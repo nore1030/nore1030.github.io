@@ -1,0 +1,30 @@
+{
+  "id": "english-g6up-u2-kp23",
+  "title": "肯定的肯定句规则",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "肯定的肯定句规则",
+      "question": "连词成句：must, We, attention, pay, to, lights",
+      "options": [
+        "must",
+        "We",
+        "attention",
+        "pay",
+        "to",
+        "lights"
+      ],
+      "answer": "We,must,pay,attention,to,lights",
+      "explanation": "We must pay attention to... 我们必须注意..."
+    }
+  ],
+  "knowledge": null
+}

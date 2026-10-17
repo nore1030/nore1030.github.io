@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g10down-u1-kp2",
+  "title": "过去完成时",
+  "bookId": "english-renjiao-g10down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时与过去完成时",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "过去完成时",
+      "question": "By the time we arrived, the movie ___.",
+      "options": [
+        "began",
+        "has begun",
+        "had begun",
+        "was beginning"
+      ],
+      "answer": "had begun",
+      "explanation": "过去的过去。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "过去完成时",
+      "question": "过去完成时表示过去的过去。",
+      "options": [],
+      "answer": "对",
+      "explanation": "过去完成时含义。"
+    }
+  ],
+  "knowledge": {
+    "point": "过去完成时",
+    "core_concept": "过去完成时表示“过去的过去”，即在另一个过去动作之前已经完成。常见标志词有 by the time、before、when、after。",
+    "key_formula": "had + 过去分词",
+    "common_mistakes": [
+      "与现在完成时混淆。"
+    ],
+    "tips": "“过去的过去”。"
+  }
+}

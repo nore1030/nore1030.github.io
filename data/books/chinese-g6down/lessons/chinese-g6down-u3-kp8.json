@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u3-kp8",
+  "title": "理解阅读",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 6,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：‘下午吧，母亲吓唬我说。古怪的是，那个下午我一点儿也不觉得长。’为什么“我”不觉得长？",
+      "options": [
+        "因为那天下午变短了",
+        "因为“我”在睡觉",
+        "因为“我”沉浸在期待中而忘我",
+        "因为母亲在陪“我”玩"
+      ],
+      "answer": "因为“我”沉浸在期待中而忘我",
+      "explanation": "心理学上，当人专注地期待某事或处于兴奋中时，主观感觉时间过得快。"
+    }
+  ],
+  "knowledge": null
+}

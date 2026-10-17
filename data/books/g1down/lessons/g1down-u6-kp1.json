@@ -1,0 +1,172 @@
+{
+  "id": "g1down-u6-kp1",
+  "title": "整十数加减及两位数加减一位数(不进位/不退位)",
+  "bookId": "g1down",
+  "unitNumber": 6,
+  "unitTitle": "100以内的加法和减法（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$40 + 20$ 的结果是 60。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$4 + 2 = 6$，所以 $40 + 20 = 60$。验算：$60 - 20 = 40$ ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "计算 $35 - 2$ 时，应该先算 $30 - 2$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计算 $35 - 2$ 时，应该先算个位上的 $5 - 2 = 3$，再加上 30 得到 33。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$50 + 30$ 的结果是多少？",
+      "options": [
+        "20",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "explanation": "5 个十加 3 个十等于 8 个十，即 80。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "比 70 少 20 的数是：",
+      "options": [
+        "50",
+        "90",
+        "40",
+        "60"
+      ],
+      "answer": "50",
+      "explanation": "$70 - 20 = 50$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "有 30 个苹果，40 个梨。苹果和梨一共有多少个？",
+      "options": [
+        "10",
+        "60",
+        "70",
+        "80"
+      ],
+      "answer": "70",
+      "explanation": "$30 + 40 = 70$（个）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "在 $\\bigcirc$ 里填入合适的符号：$45 + 3 \\bigcirc 45 + 30$",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "+"
+      ],
+      "answer": "<",
+      "explanation": "$48 < 75$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "在 $\\bigcirc$ 里填入合适的符号：$87 - 5 \\bigcirc 87 - 50$",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "-"
+      ],
+      "answer": ">",
+      "explanation": "$82 > 37$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "个位上 $6$ 加 $2$ 得 $8$，再加 $30$ 是：",
+      "options": [
+        "32",
+        "36",
+        "38",
+        "50"
+      ],
+      "answer": "38",
+      "explanation": "$6 + 2 = 8$，$8 + 30 = 38$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "小军有 20 元钱，买一个本子用了 3 元，他还剩 ___ 元。",
+      "options": [],
+      "answer": "17",
+      "explanation": "$20 - 3 = 17$（元）。验算：$17 + 3 = 20$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "仓库里有 90 袋大米，运走了 50 袋，还剩 ___ 袋。",
+      "options": [],
+      "answer": "40",
+      "explanation": "$90 - 50 = 40$（袋）。验算：$40 + 50 = 90$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整十数加减及两位数加减一位数(不进位/不退位)",
+      "question": "$40 + 30 + 9 = ?$",
+      "options": [],
+      "answer": "79",
+      "explanation": "先算 $40 + 30 = 70$，再算 $70 + 9 = 79$。验算：$79 - 9 - 30 = 40$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "整十数加减及两位数加减一位数(不进位/不退位)",
+    "core_concept": "这是100以内计算的基础。整十数加减相当于几个‘十’加减几个‘十’；两位数加减一位数（不进位/不退位）时，要特别注意‘相同数位对齐’，即个位上的数去加减个位上的数，十位上的数保持不变。",
+    "key_formula": "$30 + 20 = 50$, $34 + 2 = 36$",
+    "common_mistakes": [
+      "数位混淆：如把 $34+2$ 算成 $54$（错把 2 加到了十位上）。",
+      "计算结果漏写 0：如 $50-20$ 算出 3。"
+    ],
+    "tips": "记住‘个加个，十加十’。看到整十数，就想成几个十。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp12",
+  "title": "餐具用法搭配",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 8,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "餐具用法搭配",
+      "question": "Use the ___ to cut the beef.",
+      "options": [
+        "spoon",
+        "bowl",
+        "fork",
+        "knife"
+      ],
+      "answer": "knife",
+      "explanation": "切牛肉需要用小刀(knife)。"
+    }
+  ],
+  "knowledge": null
+}

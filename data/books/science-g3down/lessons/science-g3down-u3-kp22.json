@@ -1,0 +1,23 @@
+{
+  "id": "science-g3down-u3-kp22",
+  "title": "影子工具",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 16,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影子工具",
+      "question": "古代人利用阳光下物体影子变化的规律制成的计时仪器叫（）。",
+      "options": [],
+      "answer": "日晷",
+      "explanation": "日晷是利用日影方位计时的一种工具。"
+    }
+  ],
+  "knowledge": null
+}

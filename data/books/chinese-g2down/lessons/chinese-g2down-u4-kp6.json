@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u4-kp6",
+  "title": "标点符号选择",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 5,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "喜鹊弟弟在说：‘鹊！鹊！鹊！’这句话中的‘！’表达了什么？",
+      "options": [
+        "疑惑的语气",
+        "欢快或强烈的情感",
+        "平淡的陈述",
+        "句子的中断"
+      ],
+      "answer": "欢快或强烈的情感",
+      "explanation": "感叹号用于表达强烈的情感，在这里体现了小喜鹊的活力与快乐。"
+    }
+  ],
+  "knowledge": null
+}

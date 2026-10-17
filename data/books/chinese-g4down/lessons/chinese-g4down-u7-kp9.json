@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp9",
+  "title": "咏物言志诗鉴赏",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "咏物言志诗鉴赏",
+      "question": "《墨梅》一诗中，诗人通过赞美墨梅，表达了自己怎样的志趣？",
+      "options": [
+        "追求富贵荣华",
+        "热爱大自然的美景",
+        "不愿同流合污的高洁情操",
+        "思念家乡亲人的情感"
+      ],
+      "answer": "不愿同流合污的高洁情操",
+      "explanation": "“不要人夸好颜色，只留清气满乾坤”表达了诗人高洁的操守。"
+    }
+  ],
+  "knowledge": null
+}

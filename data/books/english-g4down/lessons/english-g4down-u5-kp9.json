@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp9",
+  "title": "名词复数用法",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词复数用法",
+      "question": "These ______ are my father's.",
+      "options": [
+        "pants",
+        "skirt",
+        "dress",
+        "hat"
+      ],
+      "answer": "pants",
+      "explanation": "These are后接复数，pants（裤子）自带复数形式。"
+    }
+  ],
+  "knowledge": null
+}

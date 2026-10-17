@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g9down",
+  "unitNumber": 1,
+  "unitTitle": "小说与回忆性散文",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说阅读",
+      "question": "下列关于人物形象分析的做法，正确的是（　）",
+      "options": [
+        "联系情节与描写综合概括",
+        "只看外貌",
+        "凭个人好恶贴标签",
+        "只看结尾"
+      ],
+      "answer": "联系情节与描写综合概括",
+      "explanation": "综合分析。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "回忆性散文与抒情",
+      "question": "回忆性散文的线索一般是（　）",
+      "options": [
+        "回忆的往事",
+        "时间倒流",
+        "景物变化",
+        "对话推进"
+      ],
+      "answer": "回忆的往事",
+      "explanation": "往事是线索。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说阅读",
+      "question": "环境描写能衬托人物、渲染气氛、推动情节。",
+      "options": [],
+      "answer": "对",
+      "explanation": "环境描写作用。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "回忆性散文与抒情",
+      "question": "散文选材可以广泛，但要有贯穿的情感线索。",
+      "options": [],
+      "answer": "对",
+      "explanation": "形散神聚。"
+    }
+  ],
+  "knowledge": null
+}

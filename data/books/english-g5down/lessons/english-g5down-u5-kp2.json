@@ -1,0 +1,82 @@
+{
+  "id": "english-g5down-u5-kp2",
+  "title": "询问物品归属 (Whose句型)",
+  "bookId": "english-g5down",
+  "unitNumber": 5,
+  "unitTitle": "Whose dog is it?",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "询问物品归属 (Whose句型)",
+      "question": "'Whose' 的意思是'那是谁'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Whose的意思是“谁的”，Who's才是“谁是”。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问物品归属 (Whose句型)",
+      "question": "— ________ hat is this? — It's Mike's.",
+      "options": [
+        "Who",
+        "What",
+        "Whose",
+        "Where"
+      ],
+      "answer": "Whose",
+      "explanation": "询问物品归属用Whose。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问物品归属 (Whose句型)",
+      "question": "— Are these ________? — Yes, they're ours.",
+      "options": [
+        "you",
+        "yours",
+        "your",
+        "mine"
+      ],
+      "answer": "yours",
+      "explanation": "问句意思：这些是你们的吗？用yours。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问物品归属 (Whose句型)",
+      "question": "___ pens are these? They are hers.",
+      "options": [],
+      "answer": "whose",
+      "explanation": "询问谁的钢笔用whose。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问物品归属 (Whose句型)",
+      "question": "连词成句。",
+      "options": [
+        "is",
+        "Whose",
+        "it",
+        "?"
+      ],
+      "answer": "Whose,is,it,?",
+      "explanation": "Whose is it? 是谁的？"
+    }
+  ],
+  "knowledge": null
+}

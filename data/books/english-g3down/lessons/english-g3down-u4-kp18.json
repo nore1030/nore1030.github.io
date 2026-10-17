@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp18",
+  "title": "情景交际",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 14,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情景交际",
+      "question": "当你找不到书包时，你会说：",
+      "options": [
+        "Where is my bag?",
+        "Where is my book?",
+        "It's in the bag.",
+        "Is it a bag?"
+      ],
+      "answer": "Where is my bag?",
+      "explanation": "寻找物品的疑问句式为Where is...?"
+    }
+  ],
+  "knowledge": null
+}

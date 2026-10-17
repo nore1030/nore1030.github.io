@@ -1,0 +1,94 @@
+{
+  "textbook": "大学英语（综合）",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "语法与句式",
+      "knowledge_points": [
+        {
+          "name": "从句与虚拟语气",
+          "description": "掌握名词性从句与虚拟语气。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "非谓语与倒装",
+          "description": "掌握非谓语结构与部分倒装。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "college-english-comprehensive-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "写作与翻译",
+      "knowledge_points": [
+        {
+          "name": "英文写作结构",
+          "description": "掌握段落与短文写作结构。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "英汉互译技巧",
+          "description": "掌握翻译的基本技巧。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "college-english-comprehensive-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "college-english-comprehensive",
+  "grade": 13,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "college-english-comprehensive-u1-kp3",
+      "title": "从句与句式",
+      "unitNumber": 1,
+      "unitTitle": "语法与句式",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "college-english-comprehensive-u2-kp1",
+      "title": "英文写作结构",
+      "unitNumber": 2,
+      "unitTitle": "写作与翻译",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "college-english-comprehensive-u2-kp2",
+      "title": "英汉互译技巧",
+      "unitNumber": 2,
+      "unitTitle": "写作与翻译",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

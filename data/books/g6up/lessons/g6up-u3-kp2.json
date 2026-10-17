@@ -1,0 +1,118 @@
+{
+  "id": "g6up-u3-kp2",
+  "title": "分数除法的计算方法",
+  "bookId": "g6up",
+  "unitNumber": 3,
+  "unitTitle": "分数除法",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "一个非零数除以 $\\frac{1}{2}$，相当于把这个数扩大到原来的 2 倍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\div \\frac{1}{2}$ 等于 $\\times 2$，即扩大到 2 倍。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "计算 $a \\div \\frac{3}{4}$ ($a \\neq 0$)，正确的是：",
+      "options": [
+        "$a \\times \\frac{3}{4}$",
+        "$a \\times \\frac{4}{3}$",
+        "$\\frac{3}{4} \\div a$",
+        "$a + \\frac{4}{3}$"
+      ],
+      "answer": "$a \\times \\frac{4}{3}$",
+      "explanation": "除以一个不为零的数等于乘这个数的倒数。$\\frac{3}{4}$ 的倒数是 $\\frac{4}{3}$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "若 $a \\div \\frac{4}{5} = b \\div \\frac{5}{4}$ ($a, b$ 均不为 0)，则 $a$ 与 $b$ 的关系是：",
+      "options": [
+        "$a > b$",
+        "$a < b$",
+        "$a = b$",
+        "无法确定"
+      ],
+      "answer": "$a < b$",
+      "explanation": "原式可写为 $a \\times \\frac{5}{4} = b \\times \\frac{4}{5}$。因为 $\\frac{5}{4} > \\frac{4}{5}$，根据“乘大数者小”原则，$a < b$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "下列算式中，商大于被除数的是：",
+      "options": [
+        "$12 \\div \\frac{4}{3}$",
+        "$12 \\div \\frac{5}{6}$",
+        "$12 \\div 1$",
+        "$12 \\div \\frac{12}{11}$"
+      ],
+      "answer": "$12 \\div \\frac{5}{6}$",
+      "explanation": "除以一个小于 1 的数（0 除外），商比被除数大。$\\frac{5}{6} < 1$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "把 $\\frac{4}{5}$ 平均分成 4 份，每份是多少？",
+      "options": [
+        "$\\frac{16}{5}$",
+        "$\\frac{1}{5}$",
+        "4",
+        "5"
+      ],
+      "answer": "$\\frac{1}{5}$",
+      "explanation": "$\\frac{4}{5} \\div 4 = \\frac{4}{5} \\times \\frac{1}{4} = \\frac{1}{5}$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "计算：$12 \\div \\frac{3}{4} = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$12 \\div \\frac{3}{4} = 12 \\times \\frac{4}{3} = 16$。验算：$16 \\times \\frac{3}{4} = 12$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法的计算方法",
+      "question": "计算：$20 \\div \\frac{4}{5} = ?$",
+      "options": [],
+      "answer": "25",
+      "explanation": "$20 \\div \\frac{4}{5} = 20 \\times \\frac{5}{4} = 25$。验算：$25 \\times \\frac{4}{5} = 20$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数除法的计算方法",
+    "core_concept": "分数除法的统一法则是：除以一个不为零的数，等于乘这个数的倒数。计算时要注意“一改、二变、三约”：除号改乘号，除数变倒数，能约分的要先约分简便。",
+    "key_formula": "$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}$ ($b, c, d \\neq 0$)",
+    "common_mistakes": [
+      "把被除数也变成了倒数",
+      "除号变乘号了，但除数忘记变倒数"
+    ],
+    "tips": "先约分再计算可以有效减少出错率，特别是多步计算时。"
+  }
+}

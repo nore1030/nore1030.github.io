@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g11up-u2-kp1",
+  "title": "三大从句综合",
+  "bookId": "english-renjiao-g11up",
+  "unitNumber": 2,
+  "unitTitle": "状语从句与名词性从句",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "三大从句综合",
+      "question": "Could you tell me ___ ?",
+      "options": [
+        "where is the post office",
+        "where the post office is",
+        "where was the post office",
+        "the post office where is"
+      ],
+      "answer": "where the post office is",
+      "explanation": "宾语从句用陈述语序。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "三大从句综合",
+      "question": "名词性从句一律使用陈述语序。",
+      "options": [],
+      "answer": "对",
+      "explanation": "语序要点。"
+    }
+  ],
+  "knowledge": {
+    "point": "三大从句综合",
+    "core_concept": "名词性从句包括主语从句、宾语从句、表语从句和同位语从句，一律用陈述语序。状语从句常用时间、条件、让步、结果等连词。",
+    "key_formula": "名词性从句一律陈述语序",
+    "common_mistakes": [
+      "宾语从句保留疑问语序。"
+    ],
+    "tips": "语序是关键。"
+  }
+}

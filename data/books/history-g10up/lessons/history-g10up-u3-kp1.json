@@ -1,0 +1,47 @@
+{
+  "id": "history-g10up-u3-kp1",
+  "title": "列强侵略与民族危机",
+  "bookId": "history-g10up",
+  "unitNumber": 3,
+  "unitTitle": "晚清与近代中国的探索",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列强侵略与民族危机",
+      "question": "中国开始沦为半殖民地半封建社会的标志是（　）",
+      "options": [
+        "《南京条约》",
+        "《马关条约》",
+        "《辛丑条约》",
+        "《天津条约》"
+      ],
+      "answer": "《南京条约》",
+      "explanation": "南京条约的影响。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "列强侵略与民族危机",
+      "question": "《辛丑条约》签订后中国完全沦为半殖民地半封建社会。",
+      "options": [],
+      "answer": "对",
+      "explanation": "辛丑条约的影响。"
+    }
+  ],
+  "knowledge": {
+    "point": "列强侵略与民族危机",
+    "core_concept": "鸦片战争后签订《南京条约》，中国开始沦为半殖民地半封建社会；甲午中日战争后签订《马关条约》，民族危机大大加深；八国联军侵华后签订《辛丑条约》，中国完全沦为半殖民地半封建社会。",
+    "key_formula": "南京—马关—辛丑",
+    "common_mistakes": [
+      "条约影响程度记混。"
+    ],
+    "tips": "依次是开始、加深、完全。"
+  }
+}

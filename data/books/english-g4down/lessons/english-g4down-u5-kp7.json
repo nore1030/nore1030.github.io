@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp7",
+  "title": "衣物词汇辨析",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "衣物词汇辨析",
+      "question": "What colour is your ______? It's white.",
+      "options": [
+        "shirt",
+        "shoes",
+        "socks",
+        "pants"
+      ],
+      "answer": "shirt",
+      "explanation": "问句中用is，说明主语应该是单数，只有shirt符合。"
+    }
+  ],
+  "knowledge": null
+}

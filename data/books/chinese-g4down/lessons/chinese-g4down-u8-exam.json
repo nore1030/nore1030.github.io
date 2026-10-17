@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g4down-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 21,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音",
+      "question": "“丰硕”的“硕”字声母是 sh，不是 s。",
+      "options": [],
+      "answer": "对",
+      "explanation": "硕是翘舌音。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "词语感情色彩",
+      "question": "“自私”是一个褒义词，用来形容一个人很有主见。",
+      "options": [],
+      "answer": "错",
+      "explanation": "自私是贬义词，形容只顾自己利益。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "内容细节",
+      "question": "在《海的女儿》中，小人鱼最后变成了天空中的云朵。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小人鱼最后化成了海上的泡沫。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "句式理解",
+      "question": "“难道这不是一个奇妙的故事吗？”这句话的意思是“这不是一个奇妙的故事”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一个反问句，表示肯定：这是一个奇妙的故事。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字义辨析",
+      "question": "“我就在那个地方”中“就”的意思是：",
+      "options": [
+        "立刻",
+        "已经",
+        "偏偏",
+        "就在（确定位置）"
+      ],
+      "answer": "就在（确定位置）",
+      "explanation": "此处的“就”表示强调地点。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关联词",
+      "question": "（   ）你愿意把快乐分享给别人，你（   ）能得到真正的快乐。",
+      "options": [
+        "因为……所以……",
+        "只要……就……",
+        "虽然……但是……",
+        "如果……就……"
+      ],
+      "answer": "只要……就……",
+      "explanation": "这是一个条件关系句。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近义词语的辨析与运用",
+      "question": "他（   ）了刚才发生的不快，重新和同学们玩了在一起。",
+      "options": [
+        "忘怀",
+        "忘掉",
+        "遗失",
+        "丢弃"
+      ],
+      "answer": "忘掉",
+      "explanation": "忘怀通常出现在否定句中（难以忘怀），此处用忘掉最自然。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《巨人的花园》作者王尔德是哪个国家的？",
+      "options": [
+        "中国",
+        "美国",
+        "英国",
+        "德国"
+      ],
+      "answer": "英国",
+      "explanation": "奥斯卡·王尔德是英国著名作家。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解感悟",
+      "question": "为什么只有在孩子们进园后，巨人的花园才有了春天？",
+      "options": [
+        "孩子带了种子的",
+        "春姑娘只喜欢小孩子",
+        "因为巨人的善意唤醒了美德和生命力",
+        "因为围墙太高挡住了阳光"
+      ],
+      "answer": "因为巨人的善意唤醒了美德和生命力",
+      "explanation": "童话中环境与人物内心世界往往是对应的。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "段落理解",
+      "question": "王葆打算把自己得到宝葫芦的事情告诉谁？",
+      "options": [
+        "爸爸妈妈",
+        "他的老师",
+        "一个人也不告诉",
+        "全班同学"
+      ],
+      "answer": "一个人也不告诉",
+      "explanation": "按照秘密的规则，他必须保守秘密。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拼写填空",
+      "question": "jìn shēng 的汉字书写为（    ）。",
+      "options": [],
+      "answer": "晋升",
+      "explanation": "考查生字表重点词汇。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课内名称",
+      "question": "在《海的女儿》中，小人鱼用她的声音向巫婆换取了（    ）。",
+      "options": [],
+      "answer": "双腿",
+      "explanation": "小人鱼为了见王子，将鱼尾变成了双腿。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近反义词",
+      "question": "连出意思相反的词语。",
+      "options": [
+        "普通",
+        "凋谢",
+        "幸福",
+        "温柔",
+        "痛苦",
+        "粗暴",
+        "奇妙",
+        "绽放"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "普通-奇妙，凋谢-绽放，幸福-痛苦，温柔-粗暴。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文本要素配对",
+      "question": "请将物品与它在童话中代表的象征意义相连。",
+      "options": [
+        "高高的围墙",
+        "绚丽的泡沫",
+        "神奇的葫芦",
+        "金色的光芒",
+        "不切实际的幻想",
+        "自我封闭与自私",
+        "生命的消逝与美丽",
+        "希望与神圣"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "考查对童话意象的理解。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单陈述句",
+      "question": "请通过排序组成关于王葆的句子：",
+      "options": [
+        "王葆",
+        "在小河边",
+        "静静地",
+        "钓鱼"
+      ],
+      "answer": "王葆,在小河边,静静地,钓鱼",
+      "explanation": "主语后接地点和方式。"
+    }
+  ],
+  "knowledge": null
+}

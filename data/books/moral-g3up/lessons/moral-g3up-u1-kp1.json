@@ -1,0 +1,47 @@
+{
+  "id": "moral-g3up-u1-kp1",
+  "title": "认识自我与优点",
+  "bookId": "moral-g3up",
+  "unitNumber": 1,
+  "unitTitle": "成长中的我",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识自我与优点",
+      "question": "正确认识自己应该（　）",
+      "options": [
+        "只看优点",
+        "既看优点也看不足",
+        "只看不足",
+        "不和别人比"
+      ],
+      "answer": "既看优点也看不足",
+      "explanation": "要全面看待自己。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "认识自我与优点",
+      "question": "每个人都有自己的长处和不足。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人无完人。"
+    }
+  ],
+  "knowledge": {
+    "point": "认识自我与优点",
+    "core_concept": "每个人都有自己的长处和不足。认识自己要既看优点也看不足，并努力改进不足。",
+    "key_formula": "扬长补短",
+    "common_mistakes": [
+      "只看到别人的优点而自卑。"
+    ],
+    "tips": "相信自己也能行。"
+  }
+}

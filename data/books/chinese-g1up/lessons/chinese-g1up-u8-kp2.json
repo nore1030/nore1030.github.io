@@ -1,0 +1,102 @@
+{
+  "id": "chinese-g1up-u8-kp2",
+  "title": "常用偏旁与部首对应规律",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 1,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "“草、芽、花”这三个字都带有草字头，它们的意思通常和植物有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "草字头的字大多与花草植物及其生长状态有关。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "“打、拍、拔”这些字都有提手旁，所以它们的意思常与手的动作有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "提手旁代表手部动作，这符合汉字形旁表义的规律。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "下面哪组字的偏旁完全相同？",
+      "options": [
+        "江、河、湖",
+        "江、地、海",
+        "花、妈、草",
+        "说、语、清"
+      ],
+      "answer": "江、河、湖",
+      "explanation": "江、河、湖三字均为三点水旁。B项“地”是土字旁，C项“妈”是女字旁，D项“清”是三点水。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "看到“跑、蹦、跳”这三个字，我们可以猜出它们的意思与（）有关。",
+      "options": [
+        "说话",
+        "脚的动作",
+        "眼睛",
+        "树木"
+      ],
+      "answer": "脚的动作",
+      "explanation": "足字旁代表动作与脚相关。跑、蹦、跳都需要用到脚。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "带有“亻”的字，含义通常和（）有关。",
+      "options": [
+        "人",
+        "天气",
+        "心情",
+        "水"
+      ],
+      "answer": "人",
+      "explanation": "单人旁代表字义与人类的身份、动作或特征有关。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用偏旁与部首对应规律",
+      "question": "“海、洋、江”的偏旁是（）。",
+      "options": [],
+      "answer": "三点水",
+      "explanation": "这三个字左边都是三点水，通常与水有关。"
+    }
+  ],
+  "knowledge": {
+    "point": "常用偏旁与部首对应规律",
+    "core_concept": "汉字大多是形声字，偏旁（部首）往往提示了字的意思范畴。如草字头（艹）多与植物相关，三点水（氵）多与水相关，单人旁（亻）多与人相关，足字旁（⻊）多与脚部动作相关。这有助于归类识字和理解字义。",
+    "key_formula": "形旁表义，声旁表音。",
+    "common_mistakes": [
+      "混淆三点水（氵）和两点水（冫）",
+      "分辨不清提手旁（扌）和木字旁（木）的动作特征"
+    ],
+    "tips": "看到不认识的字，观察左边偏旁，往往能猜出这个字大概讲的是什么内容。"
+  }
+}

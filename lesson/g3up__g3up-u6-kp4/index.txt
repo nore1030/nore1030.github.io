@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+3:I[6811,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ThemeProvider"]
+4:I[1312,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ToastProvider"]
+5:I[5881,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"DailyRewardWatcher"]
+6:I[2812,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"AchievementWatcher"]
+7:I[9392,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"LeagueWatcher"]
+8:I[5341,[],""]
+9:I[25,[],""]
+a:I[7273,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"BottomNav"]
+c:I[5104,[],"OutletBoundary"]
+e:I[7158,[],"AsyncMetadataOutlet"]
+10:I[5104,[],"ViewportBoundary"]
+12:I[5104,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[4431,[],""]
+:HL["/_next/static/media/ee40bb094c99a29a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/b3b5a181ba22c606.css","style"]
+:HL["/_next/static/css/dc83f55f905644ae.css","style"]
+2:T408,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
+})();
+0:{"P":null,"b":"iRd6etU9gyYI8-hGFBUQJ","p":"","c":["","lesson","g3up__g3up-u6-kp4",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","g3up__g3up-u6-kp4","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b5a181ba22c606.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/dc83f55f905644ae.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]}]]}]]}],{"children":["lesson",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["lesson","g3up__g3up-u6-kp4","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+d:null
+16:I[6505,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","8",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
+17:I[8694,["356","static/chunks/app/lesson/%5Blesson%5D/page-2de60fdc8e582095.js"],"default"]
+b:["$","$L17",null,{"lesson":{"id":"g3up-u6-kp4","title":"乘法估算与归一问题解决","bookId":"g3up","unitNumber":6,"unitTitle":"多位数乘一位数","kpIndex":3,"kpTotal":4,"questions":[{"id":13,"type":"choice","score":5,"difficulty":2,"knowledge_point":"乘法估算与归一问题解决","question":"小明买 3 本练习本用了 12 元。照这样计算，买 9 本练习本需要多少钱？","options":["24 元","36 元","48 元","108 元"],"answer":"36 元","explanation":"先求单价：$12 \text{  } / \text{  } 3 = 4$（元）。再求9本总价：$4 \times 9 = 36$（元）。"},{"id":14,"type":"choice","score":5,"difficulty":2,"knowledge_point":"乘法估算与归一问题解决","question":"老师买了 4 枝钢笔用了 32 元。如果用 80 元钱，可以买多少枝这样的钢笔？","options":["8 枝","10 枝","12 枝","20 枝"],"answer":"10 枝","explanation":"先求单价：$32 \text{  } / \text{  } 4 = 8$（元）。再求数量：$80 \text{  } / \text{  } 8 = 10$（枝）。"},{"id":16,"type":"choice","score":5,"difficulty":3,"knowledge_point":"乘法估算与归一问题解决","question":"学校买来 2 叠本子，每叠 20 本。如果把这些本子平均分给 8 个同学，每个同学分多少本？","options":["4 本","5 本","10 本","40 本"],"answer":"5 本","explanation":"总本数：$2 \times 20 = 40$（本）。每人分得：$40 \text{  } / \text{  } 8 = 5$（本）。"},{"id":17,"type":"choice","score":5,"difficulty":1,"knowledge_point":"乘法估算与归一问题解决","question":"估算 $298 \times 3$，结果最接近多少？","options":["600","900","1200","300"],"answer":"900","explanation":"298 接近 300，$300 \times 3 = 900$。"},{"id":21,"type":"fill_blank","score":5,"difficulty":3,"knowledge_point":"乘法估算与归一问题解决","question":"3 名同学 2 小时做了 18 朵花。照这样计算，1 名同学 1 小时做 ___ 朵花。","options":[],"answer":"3","explanation":"先求3人1小时做的：$18 \text{  } / \text{  } 2 = 9$（朵）。再求1人1小时做的：$9 \text{  } / \text{  } 3 = 3$（朵）。或 $18 \text{  } / \text{  } (3 \times 2) = 3$ ✓。"}],"knowledge":{"point":"乘法估算与归一问题解决","core_concept":"遇到“大约”字样时需估算，将多位数看作最接近的整十、整百数。解决“归一问题”时，关键是先通过除法求出单一量（一份是多少），再根据要求进行乘法计算。","key_formula":"总数 \text{  } / \text{  } 数量 = 单一份数","common_mistakes":["估算时找不对近似数，误差过大","两步计算题找不准中间量，运算顺序错误"],"tips":"先读题确定是“求总数”还是“求每份数”，画简单的线段图可以帮助理清思路。"}},"chestSlot":null}]

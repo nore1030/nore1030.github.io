@@ -1,0 +1,165 @@
+{
+  "id": "chinese-g3up-u4-kp1",
+  "title": "依据线索进行阅读预测",
+  "bookId": "chinese-g3up",
+  "unitNumber": 4,
+  "unitTitle": "预测与推想",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "阅读时，我们可以根据文章的题目来预测故事的内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "题目往往包含文章的核心信息，是预测的重要依据。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "预测就是漫无边际的瞎想，不需要任何依据。",
+      "options": [],
+      "answer": "错",
+      "explanation": "预测需要依据插图、题目或生活经验进行合理推断。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "阅读中如果发现实际内容和预测的不一样，我们要修正预测。",
+      "options": [],
+      "answer": "对",
+      "explanation": "预测是一个动态的过程，需要根据实际内容不断调整。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "《总也倒不了的老屋》中，老屋第二次准备倒下时听到了谁的请求？",
+      "options": [
+        "小猫",
+        "老母鸡",
+        "小蜘蛛",
+        "小狗"
+      ],
+      "answer": "老母鸡",
+      "explanation": "老屋第一次帮了小猫，第二次帮了老母鸡孵蛋。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "看到题目《一个豆荚里的五粒豆》，最合理的预测是：",
+      "options": [
+        "讲五颗豆子不同的命运",
+        "讲农民伯伯种地的辛苦",
+        "讲厨师如何做豆子汤",
+        "讲豆荚长得真大"
+      ],
+      "answer": "讲五颗豆子不同的命运",
+      "explanation": "题目说明了主角是五粒豆，通常童话会通过对比描写它们的经历。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "阅读短文：“天空乌云密布，狂风大作，蜻蜓飞得很低。”你预测接下来：",
+      "options": [
+        "太阳出来了",
+        "要下大雨了",
+        "雪花飘下来",
+        "天气很暖和"
+      ],
+      "answer": "要下大雨了",
+      "explanation": "根据生活经验，乌云、狂风、蜻蜓低飞都是下雨的征兆。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "“胡萝卜先生的长胡子沾到了果酱，胡子长得飞快。”由此预测长胡子的作用是：",
+      "options": [
+        "当作围巾",
+        "当作风筝线",
+        "当成面条吃",
+        "没有任何用"
+      ],
+      "answer": "当作风筝线",
+      "explanation": "根据课文内容，长胡子被小男孩剪下一段当作了风筝线。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "《总也倒不了的老屋》中，老屋最后是因为听（ ）讲故事才没倒。 ",
+      "options": [],
+      "answer": "蜘蛛",
+      "explanation": "蜘蛛在老屋门框上织网抓虫，并给它讲故事。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "请根据课文内容，将动物与它们请老屋帮的忙连线。",
+      "options": [
+        "小猫",
+        "老母鸡",
+        "蜘蛛",
+        "小狗",
+        "不想被雨淋",
+        "想找地方孵蛋",
+        "想安心织网",
+        "文中没出现"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "小猫避雨，老母鸡孵蛋，蜘蛛织网，课文中没有小狗请求老屋。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "依据线索进行阅读预测",
+      "question": "请将下列词语排列成一句关于预测的话。",
+      "options": [
+        "预测",
+        "并不是",
+        "随意的",
+        "猜测"
+      ],
+      "answer": "预测,并不是,随意的,猜测",
+      "explanation": "这句话阐述了预测的科学性，它是有依据的。"
+    }
+  ],
+  "knowledge": {
+    "point": "依据线索进行阅读预测",
+    "core_concept": "预测不是漫无边际的想象，而是读者根据文章提供的线索（如题目、插图、关键词）以及自己的生活经验、阅读常识，对故事情节的发展进行推测。预测内容可能与原文一致，也可能不同，重要的是预测的有理有据，并能在阅读过程中根据新信息不断修正自己的看法。",
+    "key_formula": "预测 = 文本线索（图/文/题） + 生活经验/阅读常识",
+    "common_mistakes": [
+      "凭空想象：完全脱离故事线索，乱编结局。",
+      "拒绝修正：即使读到后面发现和预测不符，也不肯改变原有想法。"
+    ],
+    "tips": "先看题目猜大概，再看插图猜人物，根据前文猜后文，读完反思猜对了没。"
+  }
+}

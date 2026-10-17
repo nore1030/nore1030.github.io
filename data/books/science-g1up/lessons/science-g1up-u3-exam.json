@@ -1,0 +1,217 @@
+{
+  "id": "science-g1up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g1up",
+  "unitNumber": 3,
+  "unitTitle": "比较与测量",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察中的直观比较",
+      "question": "比较高矮时，观察者必须蹲下来平视物体的顶部。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平视可以减少视差造成的误差。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "在测量较长的走廊时，用“步”测量比用“拃”测更方便。",
+      "options": [],
+      "answer": "对",
+      "explanation": "测量范围较大时应选择较大的单位工具。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "塑料尺比纸带更容易变形，所以测量不准。",
+      "options": [],
+      "answer": "错",
+      "explanation": "塑料尺硬度大，不易拉伸变形，比纸带更精准。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "所有的测量工具都必须带刻度才能使用。",
+      "options": [],
+      "answer": "错",
+      "explanation": "电子工具（如体温枪）直接显示数字，不一定能看到实体刻度条。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "在测量物体时，为了结果可信，下列哪种做法是对的？",
+      "options": [
+        "随意数一个数字",
+        "测量多次，取相同的结果",
+        "看别人写多少自己就写多少",
+        "只测一次就可以了"
+      ],
+      "answer": "测量多次，取相同的结果",
+      "explanation": "重复试验并取一致或平均值是科学精神的体现。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "下列哪个物体最适合作为测量铅笔长度的标准物？",
+      "options": [
+        "一个一样大的小方块",
+        "一把碎泥土",
+        "一团不规则的棉花",
+        "一个圆形的皮球"
+      ],
+      "answer": "一个一样大的小方块",
+      "explanation": "标准物必须形状固定、大小一致。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "测量水杯里温水的温度，应该选？",
+      "options": [
+        "温度计",
+        "电子称",
+        "三角板",
+        "卷尺"
+      ],
+      "answer": "温度计",
+      "explanation": "温度计是专门测量冷热程度的工具。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察中的直观比较",
+      "question": "要把四根长短不一的木条按从长到短排序，正确的步骤是？",
+      "options": [
+        "统一对齐左端，观察右端",
+        "随便摆放，直接看",
+        "把它们叠成正方形",
+        "给它们涂上颜色"
+      ],
+      "answer": "统一对齐左端，观察右端",
+      "explanation": "必须建立统一的比较基准面（对齐一端）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "用回形针测桌子，我们要怎样排列回形针？",
+      "options": [
+        "散乱放在桌子上",
+        "一个叠在一个上面",
+        "紧挨着排成一条直线",
+        "围成一个圈"
+      ],
+      "answer": "紧挨着排成一条直线",
+      "explanation": "测量长度时，工具轨迹必须为直线且连续。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "从尺子的“0”刻度量到数字“10”，长度是多少？",
+      "options": [
+        "1个单位",
+        "5个单位",
+        "10个单位",
+        "0个单位"
+      ],
+      "answer": "10个单位",
+      "explanation": "刻度值之差（10-0=10）即为长度数值。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "当测量结果不是整数（比如正好在7块和8块积木之间）时，我们应该？",
+      "options": [
+        "随便写一个数",
+        "弃去不写",
+        "记录为“7块半”或“7块多”",
+        "算它是10块"
+      ],
+      "answer": "记录为“7块半”或“7块多”",
+      "explanation": "科学记录要求真实反映客观情况，允许使用近似描述。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "下列关于测量纸带的说法，错误的是？",
+      "options": [
+        "纸带可以测量弯曲的物体",
+        "纸带和尺子的用法是一样的",
+        "纸带可以用不同颜色的纸粘起来",
+        "纸带比回形针测量更慢"
+      ],
+      "answer": "纸带比回形针测量更慢",
+      "explanation": "纸带集成化程度高，一次拉开即可读数，通常比逐个摆放回形针快。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "一把标准的尺子，从刻度2到刻度9，中间的总长度是（___）个单位格。",
+      "options": [],
+      "answer": "7",
+      "explanation": "计算长度公式为：终点刻度减去起点刻度，9-2=7。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "人的双手平伸时，左手中指到右手中指的距离大约相当于（___）个人的身高。",
+      "options": [],
+      "answer": "1",
+      "explanation": "这是一个著名的身体结构规律，臂展约等于身高。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "测量时，每个人的“拃”长短不同。在科学上，这种长短的差异叫做（___）。",
+      "options": [],
+      "answer": "误差",
+      "explanation": "由于工具或人为因素导致的结果不统一称为误差。"
+    }
+  ],
+  "knowledge": null
+}

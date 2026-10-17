@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u3-kp5",
+  "title": "单摆的等时性",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 3,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性",
+      "question": "同一个单摆，摆角越大，摆动一次所需的时间就越长。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在一定摆角范围内，单摆的摆动周期与摆角大小无关，这是单摆的等时性。"
+    }
+  ],
+  "knowledge": null
+}

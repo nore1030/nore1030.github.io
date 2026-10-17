@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4up-u4-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g4up",
+  "unitNumber": 4,
+  "unitTitle": "神话故事",
+  "kpIndex": 4,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“盘古开天地的故事难道不感人吗？”这是一个设问句。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一个反问句，表达肯定的语气。"
+    }
+  ],
+  "knowledge": null
+}

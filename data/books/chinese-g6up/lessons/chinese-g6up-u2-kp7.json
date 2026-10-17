@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp7",
+  "title": "字音辨析",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "下列词语中，加点字读音全部正确的一组是：",
+      "options": [
+        "磅礴（páng） 渲染（xuàn）",
+        "逶迤（wěi） 瞻仰（zhān）",
+        "诞生（dàn） 全神贯注（kuàn）",
+        "围歼（qiān） 擎着（qíng）"
+      ],
+      "answer": "磅礴（páng） 渲染（xuàn）",
+      "explanation": "B项逶迤的逶应读wēi；C项贯注应读guàn；D项围歼应读jiān。"
+    }
+  ],
+  "knowledge": null
+}

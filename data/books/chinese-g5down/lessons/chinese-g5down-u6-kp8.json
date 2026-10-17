@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u6-kp8",
+  "title": "字音字形",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 7,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音字形",
+      "question": "下列词语书写完全正确的一项是：",
+      "options": [
+        "矛循",
+        "赏赐",
+        "船桅",
+        "吓虎"
+      ],
+      "answer": "赏赐",
+      "explanation": "矛循应为矛盾，船桅是对的，吓虎应为吓唬。"
+    }
+  ],
+  "knowledge": null
+}

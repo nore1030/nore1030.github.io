@@ -1,0 +1,66 @@
+{
+  "id": "physics-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g10up",
+  "unitNumber": 1,
+  "unitTitle": "运动的描述",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "速度与加速度",
+      "question": "汽车以 20 m/s 行驶，刹车后 4 s 停止，加速度大小是多少 m/s²？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$a=\\frac{20}{4}=5$ m/s²。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "速度与加速度",
+      "question": "物体做匀减速直线运动时，加速度方向（　）",
+      "options": [
+        "与速度同向",
+        "与速度反向",
+        "与速度垂直",
+        "不确定"
+      ],
+      "answer": "与速度反向",
+      "explanation": "减速时反向。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "速度与加速度",
+      "question": "加速度为零的物体一定静止。",
+      "options": [],
+      "answer": "错",
+      "explanation": "可能做匀速直线运动。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质点、参考系与位移",
+      "question": "某人沿操场跑一圈回到起点，位移大小是（　）",
+      "options": [
+        "一圈周长",
+        "0",
+        "周长的一半",
+        "无法确定"
+      ],
+      "answer": "0",
+      "explanation": "首尾相同，位移为 0。"
+    }
+  ],
+  "knowledge": null
+}

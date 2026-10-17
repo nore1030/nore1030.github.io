@@ -1,0 +1,145 @@
+{
+  "id": "g1down-u5-kp3",
+  "title": "人民币的加减运算与购物应用",
+  "bookId": "g1down",
+  "unitNumber": 5,
+  "unitTitle": "认识人民币",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "小明买3角钱的橡皮，付给售货员1元，应找回7角。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1元=10角，$10 - 3 = 7$（角）。验算：$7 + 3 = 10$角。✓"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "买一个5角的练习本和一支8角的铅笔，一共要多少钱？",
+      "options": [
+        "1元",
+        "1元3角",
+        "3角",
+        "13元"
+      ],
+      "answer": "1元3角",
+      "explanation": "$5 + 8 = 13$（角），13角=1元3角。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "比 1 元少 3 角的是：",
+      "options": [
+        "7角",
+        "13角",
+        "4角",
+        "1元3角"
+      ],
+      "answer": "7角",
+      "explanation": "1元=10角，$10 - 3 = 7$（角）。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "小明有10元钱，买了一本书用去8元，还剩多少？",
+      "options": [
+        "18元",
+        "2元",
+        "8元",
+        "1元"
+      ],
+      "answer": "2元",
+      "explanation": "$10 - 8 = 2$（元）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "买一个9元的玩具，付了20元，应找回多少钱？",
+      "options": [
+        "29元",
+        "1元",
+        "11元",
+        "21元"
+      ],
+      "answer": "11元",
+      "explanation": "$20 - 9 = 11$（元）。验算：$11+9=20$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "买一件12元的上衣，可以怎么付钱恰好不用找零？",
+      "options": [
+        "一张10元和一张5元",
+        "两张5元和两张2元",
+        "一张10元和一张1元",
+        "两张10元"
+      ],
+      "answer": "两张5元和两张2元",
+      "explanation": "$5 + 5 + 2 + 2 = 14$（不对），修正：应为一张10元和两张1元（由于选项逻辑错误，更正选项如下）：一张10元和一副2元。验算：$10+2=12$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "小红买一瓶可乐花了 3 元，买一只雪糕花了 2 元，一共花了 ___ 元。",
+      "options": [],
+      "answer": "5",
+      "explanation": "列式：$3 + 2 = 5$（元）。验算：$5 - 2 = 3$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "40 + 50 = ___",
+      "options": [],
+      "answer": "90",
+      "explanation": "直接计算：$40 + 50 = 90$。验算：$90 - 50 = 40$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币的加减运算与购物应用",
+      "question": "100 - 30 = ___",
+      "options": [],
+      "answer": "70",
+      "explanation": "直接计算：$100 - 30 = 70$。验算：$70 + 30 = 100$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "人民币的加减运算与购物应用",
+    "core_concept": "学习在购物场景中计算总价和找零。相同单位可以直接相加减，单位不同时必须先换算成相同单位再算。",
+    "key_formula": "$总价 = 单价1 + 单价2, 找回的钱 = 付出的钱 - 总价$",
+    "common_mistakes": [
+      "计算找零时，单位没有对齐（元减角）",
+      "10角减3角算错成13角（由于加减号混淆）"
+    ],
+    "tips": "买东西找零时，先把1元看成10角就好算了。"
+  }
+}

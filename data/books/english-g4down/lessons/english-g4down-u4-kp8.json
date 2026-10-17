@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp8",
+  "title": "情态动词表建议",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情态动词表建议",
+      "question": "Look at the green beans. They are _______ long.",
+      "options": [
+        "too",
+        "so",
+        "to",
+        "two"
+      ],
+      "answer": "so",
+      "explanation": "so long表示“很长”，too通常含否定意味（太长了）。"
+    }
+  ],
+  "knowledge": null
+}

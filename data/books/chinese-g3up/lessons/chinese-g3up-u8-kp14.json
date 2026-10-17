@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp14",
+  "title": "关联词运用",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关联词运用",
+      "question": "依次填入括号最合适的一组词：小男孩（  ）没捉灰雀，（  ）他保证灰雀会回来的。",
+      "options": [
+        "虽然……但是……",
+        "因为……所以……",
+        "虽然……肯定……",
+        "不仅……而且……"
+      ],
+      "answer": "虽然……肯定……",
+      "explanation": "根据《灰雀》原文语境，小男孩虽然嘴上不承认，内心里已决定改正。"
+    }
+  ],
+  "knowledge": null
+}

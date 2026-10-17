@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u8-kp4",
+  "title": "字音辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“矩”字的读音是 jǔ，不读 jù。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“矩”是三声，组成词语如“规矩”。"
+    }
+  ],
+  "knowledge": null
+}

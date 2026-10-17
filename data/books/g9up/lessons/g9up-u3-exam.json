@@ -1,0 +1,61 @@
+{
+  "id": "g9up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g9up",
+  "unitNumber": 3,
+  "unitTitle": "圆",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆的基本性质",
+      "question": "圆半径为 10，一条弦长为 16，弦心距是多少？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$\\sqrt{100-64}=6$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "点、直线与圆的位置关系",
+      "question": "三角形的外心是（　）",
+      "options": [
+        "三边垂直平分线交点",
+        "三条中线交点",
+        "三条角平分线交点",
+        "三条高交点"
+      ],
+      "answer": "三边垂直平分线交点",
+      "explanation": "外心到三顶点距离相等。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆中的计算",
+      "question": "扇形弧长为 $4\\pi$、半径为 6，其面积为多少（填 $\\pi$ 的系数）？",
+      "options": [],
+      "answer": "12",
+      "explanation": "$S=\\frac12lr=\\frac12\\times4\\pi\\times6=12\\pi$。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "圆中的计算",
+      "question": "圆锥侧面展开图是扇形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆锥侧面展开为扇形。"
+    }
+  ],
+  "knowledge": null
+}

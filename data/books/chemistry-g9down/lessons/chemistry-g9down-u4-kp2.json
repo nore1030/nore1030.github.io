@@ -1,0 +1,63 @@
+{
+  "id": "chemistry-g9down-u4-kp2",
+  "title": "化学肥料与粗盐提纯",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 4,
+  "unitTitle": "盐 化肥",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学肥料与粗盐提纯",
+      "question": "氮肥的主要作用是（　）",
+      "options": [
+        "促进枝叶生长",
+        "促进根系发达",
+        "增强抗倒伏",
+        "改良土壤"
+      ],
+      "answer": "促进枝叶生长",
+      "explanation": "氮肥促枝叶。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "化学肥料与粗盐提纯",
+      "question": "粗盐提纯中过滤可以除去不溶性杂质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "过滤除去不溶物。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学肥料与粗盐提纯",
+      "question": "蒸发食盐水时，停止加热的时机是（　）",
+      "options": [
+        "水完全蒸干",
+        "出现较多固体",
+        "刚开始沸腾",
+        "溶液变黄"
+      ],
+      "answer": "出现较多固体",
+      "explanation": "防止固体飞溅。"
+    }
+  ],
+  "knowledge": {
+    "point": "化学肥料与粗盐提纯",
+    "core_concept": "氮肥促进枝叶繁茂（尿素、碳酸氢铵），磷肥促进根系发达，钾肥增强抗病虫害能力。粗盐提纯步骤：溶解、过滤、蒸发结晶。",
+    "key_formula": "粗盐提纯 = 溶解 + 过滤 + 蒸发",
+    "common_mistakes": [
+      "蒸发时直接蒸干。"
+    ],
+    "tips": "出现较多固体时停止加热。"
+  }
+}

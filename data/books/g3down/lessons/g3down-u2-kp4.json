@@ -1,0 +1,48 @@
+{
+  "id": "g3down-u2-kp4",
+  "title": "除法的验算",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法的验算",
+      "question": "验算有余数的除法时，可以用：商 $\times$ 除数 $+$ 余数 = 被除数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是有余数除法的标准验算公式。验算：$7 \times 3 + 1 = 22$，$22 \times 3 = 7$ 余 1。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法的验算",
+      "question": "已知 $A \times 4 = 125 \times \times \times 1$，那么 A 的值是多少？",
+      "options": [
+        "501",
+        "500",
+        "499",
+        "625"
+      ],
+      "answer": "501",
+      "explanation": "根据验算公式 $A = 125 \times 4 + 1 = 500 + 1 = 501$。"
+    }
+  ],
+  "knowledge": {
+    "point": "除法的验算",
+    "core_concept": "利用乘法是除法的逆运算来检查结果。没有余数时，商乘除数应等于被除数；有余数时，商乘除数加上余数应等于被除数。",
+    "key_formula": "\text{商} \times \text{除数} + \text{余数} = \text{被除数}",
+    "common_mistakes": [
+      "验算有余数的除法时忘记加余数",
+      "被除数减去余数后再除，逻辑混淆"
+    ],
+    "tips": "验算就像是“原路返回”，乘回去再加上剩下的，一定要能回到原点。"
+  }
+}

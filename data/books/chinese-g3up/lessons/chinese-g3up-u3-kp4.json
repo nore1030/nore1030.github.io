@@ -1,0 +1,60 @@
+{
+  "id": "chinese-g3up-u3-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 3,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，描写秋天景色最恰当的一项是：",
+      "options": [
+        "春光明媚",
+        "烈日灼人",
+        "金桂飘香",
+        "冰天雪地"
+      ],
+      "answer": "金桂飘香",
+      "explanation": "金桂飘香描写的是秋天的气息。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "‘它终于在那牛肚子里旅行了一次。’ 句子中‘终于’的意思是：",
+      "options": [
+        "最后的结果",
+        "刚开始",
+        "一直",
+        "从来不"
+      ],
+      "answer": "最后的结果",
+      "explanation": "终于表示经过种种变化后出现的情况。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列哪组词语中带点字的读音全部正确？",
+      "options": [
+        "切开(qiè) 回答(dá)",
+        "喷香(pèn) 几乎(jǐ)",
+        "卷起(juǎn) 处理(chù)",
+        "挣扎(zhèng) 勉强(qiáng)"
+      ],
+      "answer": "切开(qiè) 回答(dá)",
+      "explanation": "其他选项存在多音字读音错误。"
+    }
+  ],
+  "knowledge": null
+}

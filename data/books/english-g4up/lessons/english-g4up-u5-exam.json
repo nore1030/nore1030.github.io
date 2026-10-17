@@ -1,0 +1,221 @@
+{
+  "id": "english-g4up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 22,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇理解",
+      "question": "'Dinner's ready' 意思是 '午饭准备好了'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Dinner是晚餐，Lunch才是午餐。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇理解",
+      "question": "Noodles 是不可数名词，不能加 s。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Noodle可以加s表示面条，通常以复数形式出现。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "餐具使用",
+      "question": "在中国，我们常用 chopsticks 吃面条。",
+      "options": [],
+      "answer": "对",
+      "explanation": "chopsticks(筷子)是中国传统的进餐工具。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "语法搭配",
+      "question": "I'd like 后面既可以接食物也可以接饮料。",
+      "options": [],
+      "answer": "对",
+      "explanation": "I'd like意为'想要'，通用性强。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词短语",
+      "question": "Wait ___ minute. Dinner is ready.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "/"
+      ],
+      "answer": "a",
+      "explanation": "Wait a minute是固定短语，意为“稍等片刻”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型运用",
+      "question": "—What would you like for dinner? —___",
+      "options": [
+        "I like beef.",
+        "I'd like some beef.",
+        "Yes, please.",
+        "It's nice."
+      ],
+      "answer": "I'd like some beef.",
+      "explanation": "问句使用would like，答句也应用I'd like..."
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词搭配",
+      "question": "Let ___ try it.",
+      "options": [
+        "I",
+        "my",
+        "me",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "Let是动词，后接人称代词宾格形式作宾语。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "I can use chopsticks ___ noodles.",
+      "options": [
+        "for",
+        "to",
+        "on",
+        "at"
+      ],
+      "answer": "for",
+      "explanation": "use sth for sth表示为了某事使用某物。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句首助词",
+      "question": "___ you like a knife and fork?",
+      "options": [
+        "Are",
+        "Can",
+        "Would",
+        "Do"
+      ],
+      "answer": "Would",
+      "explanation": "Would you like...用于征求意见，比Do you want更委婉。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动宾搭配",
+      "question": "—Pass me the ___ please. —Here you are.",
+      "options": [
+        "soup",
+        "milk",
+        "bowl",
+        "water"
+      ],
+      "answer": "bowl",
+      "explanation": "soup, milk, water是液体通常用容器装，bowl(碗)可以直接递。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "助动词",
+      "question": "What ___ you like for dinner?",
+      "options": [],
+      "answer": "would",
+      "explanation": "固定句式What would you like...?"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇拼写",
+      "question": "Show me your ___ (叉子).",
+      "options": [],
+      "answer": "fork",
+      "explanation": "fork意为叉子。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "否定回答",
+      "question": "No, ___ . I'm full.",
+      "options": [],
+      "answer": "thanks",
+      "explanation": "婉拒对方的食物邀请通常用No, thanks。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇翻译",
+      "question": "英汉配对：",
+      "options": [
+        "knife",
+        "spoon",
+        "soup",
+        "ready",
+        "准备好",
+        "汤",
+        "勺子",
+        "小刀"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "knife-小刀，spoon-勺子，soup-汤，ready-准备好。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "肯定句结构",
+      "question": "连词成句：[some, I'd, like, soup]",
+      "options": [
+        "some",
+        "I'd",
+        "like",
+        "soup"
+      ],
+      "answer": "I'd,like,some,soup",
+      "explanation": "主语(I'd)+动词(like)+宾语(some soup)。"
+    }
+  ],
+  "knowledge": null
+}

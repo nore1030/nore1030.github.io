@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp5",
+  "title": "安全用电",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 0,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "安全用电",
+      "question": "我们不能用家里的交流电做电路实验。",
+      "options": [],
+      "answer": "对",
+      "explanation": "家用交流电电压高达220V，远超人体安全电压（36V），电路实验只能使用干电池。"
+    }
+  ],
+  "knowledge": null
+}

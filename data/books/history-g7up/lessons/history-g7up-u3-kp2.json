@@ -1,0 +1,47 @@
+{
+  "id": "history-g7up-u3-kp2",
+  "title": "江南开发与民族交融",
+  "bookId": "history-g7up",
+  "unitNumber": 3,
+  "unitTitle": "三国两晋南北朝",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "江南开发与民族交融",
+      "question": "推动北魏民族交融的重要改革是（　）",
+      "options": [
+        "商鞅变法",
+        "孝文帝改革",
+        "王安石变法",
+        "戊戌变法"
+      ],
+      "answer": "孝文帝改革",
+      "explanation": "孝文帝改革推动交融。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "江南开发与民族交融",
+      "question": "北方人口南迁促进了江南地区的开发。",
+      "options": [],
+      "answer": "对",
+      "explanation": "北民南迁带来技术与劳动力。"
+    }
+  ],
+  "knowledge": {
+    "point": "江南开发与民族交融",
+    "core_concept": "北方人口大量南迁带来劳动力与技术，促进江南地区开发。孝文帝改革推动民族交融，北魏时期推行汉化措施。",
+    "key_formula": "北人南迁 → 江南开发",
+    "common_mistakes": [
+      "认为江南开发始于南方人口增长本身。"
+    ],
+    "tips": "北民南迁是主因。"
+  }
+}

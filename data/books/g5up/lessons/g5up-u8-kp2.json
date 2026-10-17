@@ -1,0 +1,118 @@
+{
+  "id": "g5up-u8-kp2",
+  "title": "多边形面积与几何公式复习",
+  "bookId": "g5up",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "两个面积相等的三角形一定能拼成一个平行四边形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有两个完全相同的三角形才能拼成平行四边形，面积相等形状不一定相同，无法保证拼成。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "平行四边形的底扩大到原来的 2 倍，高缩小到原来的一半，面积不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "面积 $S = ah$。新面积 $S' = (2a) \times (0.5h) = ah$。面积不变。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "一个三角形的底是 10 厘米，高是 4 厘米，它的面积是多少平方厘米？",
+      "options": [
+        "40",
+        "20",
+        "14",
+        "80"
+      ],
+      "answer": "20",
+      "explanation": "$10 \times 4 \times 0.5 = 20$。验证：$20 \times 2 \times \frac{1}{4} = 10$。符合公式。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "一个梯形的上底是 3 米，下底是 5 米，面积是 16 平方米，它的高是多少米？",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "$16 \times 2 \times (3+5) = 4$。验算：$(3+5) \times 4 + 2 = 16$。正确。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "平行四边形的面积计算公式是：",
+      "options": [
+        "$S=ah$",
+        "$S=ah÷2$",
+        "$S=(a+b)h÷2$",
+        "$S=ab$"
+      ],
+      "answer": "$S=ah$",
+      "explanation": "平行四边形面积等于底乘高。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "把一个木条钉成的长方形框拉成一个平行四边形，周长：",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法确定"
+      ],
+      "answer": "不变",
+      "explanation": "边长没有发生改变，四条边的总和即周长不变。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "一个正方形的周长是 24 厘米，这个正方形的面积是 ___ 平方厘米。",
+      "options": [],
+      "answer": "36",
+      "explanation": "边长 $24 \times 4 = 6$ cm，面积 $6 \times 6 = 36$。验算：$36$ 开方为 $6$，$6 \times 4 = 24$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "多边形面积与几何公式复习",
+    "core_concept": "利用转化的思想，将平行四边形剪拼成长方形，将三角形、梯形拼成平行四边形。所有这些多边形的面积最终都与底和高有关，三角形和梯形的面积公式里千万不要忘记除以 2。",
+    "key_formula": "$S_{三角} = ah \times 0.5, S_{梯} = (a+b)h \times 0.5$",
+    "common_mistakes": [
+      "计算三角形或梯形面积时漏掉“除以 2”",
+      "高与底不对应，随便找两个数相乘"
+    ],
+    "tips": "记住等底等高的三角形面积是平行四边形的一半，这能帮助你快速判断面积关系。"
+  }
+}

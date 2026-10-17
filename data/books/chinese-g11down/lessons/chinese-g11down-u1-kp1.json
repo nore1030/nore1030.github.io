@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11down-u1-kp1",
+  "title": "语言文字积累与运用",
+  "bookId": "chinese-g11down",
+  "unitNumber": 1,
+  "unitTitle": "语言文字与文学评论",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "语言文字积累与运用",
+      "question": "语言运用的首要要求是（　）",
+      "options": [
+        "准确、简明、得体",
+        "华丽",
+        "复杂",
+        "含蓄难懂"
+      ],
+      "answer": "准确、简明、得体",
+      "explanation": "语言规范三要求。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "语言文字积累与运用",
+      "question": "锤炼字词能使表达更准确传神。",
+      "options": [],
+      "answer": "对",
+      "explanation": "锤炼字词。"
+    }
+  ],
+  "knowledge": {
+    "point": "语言文字积累与运用",
+    "core_concept": "语言文字运用要注意规范（用词恰当、句式得当、表达简明），要锤炼字词、推敲句式。",
+    "key_formula": "规范 + 简明 + 准确 + 生动",
+    "common_mistakes": [
+      "用词堆砌。"
+    ],
+    "tips": "推敲字词句。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp25",
+  "title": "工程设计",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 19,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程设计",
+      "question": "在一项造船任务中，通常需要经历三轮以上的测试迭代，某小组设计了（___）个方案进行初步筛选比较。",
+      "options": [],
+      "answer": "3",
+      "explanation": "工程实践鼓励提出多个初步方案（常见3个）进行优劣分析。"
+    }
+  ],
+  "knowledge": null
+}

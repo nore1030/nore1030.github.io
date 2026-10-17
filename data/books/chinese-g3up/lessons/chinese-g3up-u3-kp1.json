@@ -1,0 +1,102 @@
+{
+  "id": "chinese-g3up-u3-kp1",
+  "title": "童话的拟人化特点",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 0,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "童话中的动植物可以像人一样说话、哭泣，也有自己的喜怒哀乐。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是童话最基本的特点，通过想象赋予万物人的情感。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "《在那牛肚子里的旅行》讲述的是青头和红头这两只蟋蟀的故事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文主角是蟋蟀青头和红头。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "《卖火柴的小女孩》中，小女孩最后一次擦燃火柴看到了死去的奶奶。",
+      "options": [],
+      "answer": "对",
+      "explanation": "故事描写小女孩在幻象中见到了亲人。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "阅读：‘红头在牛肚子里拼命叫喊：救命啊！’ 这段话体现了：",
+      "options": [
+        "科学事实",
+        "拟人化特点",
+        "实证研究",
+        "古代传说"
+      ],
+      "answer": "拟人化特点",
+      "explanation": "蟋蟀求救是赋予动物化人的行为与情感。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "在《卖火柴的小女孩》中，火柴的光像什么？",
+      "options": [
+        "像太阳",
+        "像美丽的烟火",
+        "像温暖的火炉",
+        "奇异的火光"
+      ],
+      "answer": "奇异的火光",
+      "explanation": "原文中描述擦燃火柴后看到的是奇异的火花。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "童话的拟人化特点",
+      "question": "童话故事结尾通常会告诉我们一个道理，这说明童话具有：",
+      "options": [
+        "逻辑性",
+        "教育意义",
+        "真实性",
+        "复杂性"
+      ],
+      "answer": "教育意义",
+      "explanation": "童话常寓教于乐。"
+    }
+  ],
+  "knowledge": {
+    "point": "童话的拟人化特点",
+    "core_concept": "童话通过丰富的想象，赋予动植物、物品以人的思想、行为和真挚深厚的感情。它通过奇妙的情节展现现实生活中可能存在的各种情感关系和哲理，让读者在不可思议的幻想中感受到成长的力量。",
+    "key_formula": "物 + 人的表情/语言/动作 = 拟人化的童话形象",
+    "common_mistakes": [
+      "只会写小动物说说话，不具备真实的性格特征",
+      "情节设计完全脱离生活逻辑，导致故事不可信"
+    ],
+    "tips": "观察生活中的人是怎么说话做事的，然后把这些特点‘借’给你的动植物主角。"
+  }
+}

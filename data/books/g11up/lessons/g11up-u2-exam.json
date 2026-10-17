@@ -1,0 +1,56 @@
+{
+  "id": "g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g11up",
+  "unitNumber": 2,
+  "unitTitle": "圆锥曲线",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "双曲线与抛物线",
+      "question": "抛物线 $y^2=4x$ 的准线方程是 $x=$ ？（填整数）",
+      "options": [],
+      "answer": "-1",
+      "explanation": "$p=2$，准线 $x=-1$。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "椭圆",
+      "question": "椭圆 $\\frac{x^2}{16}+\\frac{y^2}{7}=1$ 的离心率是多少（填分数如 3/4）？",
+      "options": [],
+      "answer": "3/4",
+      "explanation": "$c^2=9$，$c=3$，$e=\\frac34$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "双曲线与抛物线",
+      "question": "双曲线中 $c^2=a^2+b^2$ 成立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "双曲线基本关系。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "椭圆",
+      "question": "椭圆 $a=5$、$c=3$，离心率是多少（填小数）？",
+      "options": [],
+      "answer": "0.6",
+      "explanation": "$e=\\frac35=0.6$。"
+    }
+  ],
+  "knowledge": null
+}

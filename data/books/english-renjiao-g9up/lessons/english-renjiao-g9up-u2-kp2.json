@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9up-u2-kp2",
+  "title": "情态动词的用法",
+  "bookId": "english-renjiao-g9up",
+  "unitNumber": 2,
+  "unitTitle": "被动语态与情态动词",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词的用法",
+      "question": "Students ___ bring dangerous things to school.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "needn't",
+        "can't"
+      ],
+      "answer": "mustn't",
+      "explanation": "禁止用 mustn't。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词的用法",
+      "question": "情态动词后接动词原形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "后接原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词的用法",
+    "core_concept": "情态动词后接动词原形。may 表示许可或可能，must 表示必须或肯定推测，should 表示建议。否定式一般不加 to，但 mustn't 表示禁止。",
+    "key_formula": "情态动词 + 原形",
+    "common_mistakes": [
+      "情态动词后加 to。"
+    ],
+    "tips": "后接原形。"
+  }
+}

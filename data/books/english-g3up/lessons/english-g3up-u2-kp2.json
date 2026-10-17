@@ -1,0 +1,156 @@
+{
+  "id": "english-g3up-u2-kp2",
+  "title": "颜色词汇与色彩感知",
+  "bookId": "english-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Colours",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "'red' 的中文意思是红色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "red代表红色。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "'blue' 的中文意思是绿色。",
+      "options": [],
+      "answer": "错",
+      "explanation": "blue是蓝色，绿色是green。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "下图中香蕉通常是什么颜色的？",
+      "options": [
+        "red",
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "answer": "yellow",
+      "explanation": "香蕉成熟后是黄色的。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "天空的颜色是：",
+      "options": [
+        "green",
+        "blue",
+        "white",
+        "orange"
+      ],
+      "answer": "blue",
+      "explanation": "天空通常被描述为蓝色。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "草地的颜色是：",
+      "options": [
+        "orange",
+        "red",
+        "green",
+        "brown"
+      ],
+      "answer": "green",
+      "explanation": "草地通常是绿色的。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "黑白相间的动物是：",
+      "options": [
+        "orange and green",
+        "red and blue",
+        "black and white",
+        "brown and yellow"
+      ],
+      "answer": "black and white",
+      "explanation": "描述熊猫或斑马常用的颜色词。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "把黄色和蓝色混合在一起，会变成哪种颜色？",
+      "options": [
+        "red",
+        "orange",
+        "green",
+        "black"
+      ],
+      "answer": "green",
+      "explanation": "黄色加蓝色调色得绿色。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "Show me ________. (出示蓝色给看看)",
+      "options": [],
+      "answer": "blue",
+      "explanation": "蓝色的英文是blue。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "I have an ________ crayon. (我有一支橙色的蜡笔)",
+      "options": [],
+      "answer": "orange",
+      "explanation": "橙色的英文词汇是orange。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "词汇连连看",
+      "options": [
+        "red",
+        "green",
+        "yellow",
+        "white",
+        "白色",
+        "红色",
+        "黄色",
+        "绿色"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "red-红色, green-绿色, yellow-黄色, white-白色。"
+    }
+  ],
+  "knowledge": null
+}

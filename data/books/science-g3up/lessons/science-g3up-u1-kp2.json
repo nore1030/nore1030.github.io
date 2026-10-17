@@ -1,0 +1,66 @@
+{
+  "id": "science-g3up-u1-kp2",
+  "title": "水的沸腾实验与温度计使用",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "读取温度计数值时，视线应与温度计液面持平。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是温度计使用的标准规范，仰视或俯视都会造成误差。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "在标准大气压下，水沸腾时的温度是（）。",
+      "options": [
+        "50℃",
+        "80℃",
+        "100℃",
+        "120℃"
+      ],
+      "answer": "100℃",
+      "explanation": "在标准大气压下，水的沸点是100摄氏度。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "烧杯里的水沸腾时，水面上方会出现很多“白汽”，它们是（）。",
+      "options": [
+        "水蒸气",
+        "小水滴",
+        "烟雾",
+        "空气"
+      ],
+      "answer": "小水滴",
+      "explanation": "水蒸气是肉眼看不见的，“白汽”是水蒸气遇冷凝结成的小水滴。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "当水沸腾后，继续给水加热，水的温度会保持在（）℃不变。",
+      "options": [],
+      "answer": "100",
+      "explanation": "水沸腾时的特点是持续吸热但温度保持不变。"
+    }
+  ],
+  "knowledge": null
+}

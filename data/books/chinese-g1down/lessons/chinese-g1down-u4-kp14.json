@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1down-u4-kp14",
+  "title": "近义词连线",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词连线",
+      "question": "请为下列词语找到意思最接近的伙伴：",
+      "options": [
+        "非常",
+        "快乐",
+        "从此",
+        "到处",
+        "从这以后",
+        "十分",
+        "处处",
+        "开心"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考查小学一年级基础近义词认知。"
+    }
+  ],
+  "knowledge": null
+}

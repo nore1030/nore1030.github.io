@@ -1,0 +1,66 @@
+{
+  "id": "moral-g1up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g1up",
+  "unitNumber": 1,
+  "unitTitle": "我是小学生啦",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "新习惯与守规则",
+      "question": "在校园里排队时，正确的做法是（　）",
+      "options": [
+        "挤到最前面",
+        "排好队不推不挤",
+        "插队",
+        "蹲在地上玩"
+      ],
+      "answer": "排好队不推不挤",
+      "explanation": "排队要守秩序。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "新习惯与守规则",
+      "question": "书本和公物要爱护，不能乱涂乱画。",
+      "options": [],
+      "answer": "对",
+      "explanation": "要爱护书本和公物。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "开学了与爱上学",
+      "question": "上课时要（　）",
+      "options": [
+        "和同桌聊天",
+        "专心听讲积极举手",
+        "趴在桌上睡觉",
+        "随便下座位"
+      ],
+      "answer": "专心听讲积极举手",
+      "explanation": "上课要专心听讲。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "开学了与爱上学",
+      "question": "认识新同学要友好相处。",
+      "options": [],
+      "answer": "对",
+      "explanation": "与同学友好相处。"
+    }
+  ],
+  "knowledge": null
+}

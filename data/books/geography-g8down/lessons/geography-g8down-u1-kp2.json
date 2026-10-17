@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8down-u1-kp2",
+  "title": "因地制宜发展经济",
+  "bookId": "geography-g8down",
+  "unitNumber": 1,
+  "unitTitle": "中国的地理差异与经济发展",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "因地制宜发展经济",
+      "question": "我国重要的商品棉产区是（　）",
+      "options": [
+        "新疆",
+        "东北三省",
+        "海南",
+        "四川盆地"
+      ],
+      "answer": "新疆",
+      "explanation": "新疆产棉。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "因地制宜发展经济",
+      "question": "发展经济要因地制宜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因地制宜。"
+    }
+  ],
+  "knowledge": {
+    "point": "因地制宜发展经济",
+    "core_concept": "北方种小麦、种玉米，南方种水稻；西北发展灌溉农业、畜牧业；青藏发展河谷农业和畜牧业。新疆是重要棉产区。",
+    "key_formula": "因地制宜",
+    "common_mistakes": [
+      "忽略自然条件谈经济。"
+    ],
+    "tips": "经济要适应自然条件。"
+  }
+}

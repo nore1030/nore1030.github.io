@@ -1,0 +1,53 @@
+{
+  "id": "physics-g11up-u1-kp1",
+  "title": "动量与冲量",
+  "bookId": "physics-g11up",
+  "unitNumber": 1,
+  "unitTitle": "动量守恒定律",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "动量与冲量",
+      "question": "质量 2 kg 的物体以 3 m/s 运动，动量是多少 kg·m/s？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$p=mv=2\\times3=6$ kg·m/s。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "动量与冲量",
+      "question": "物体受 5 N 的力作用 4 s，冲量是多少 N·s？",
+      "options": [],
+      "answer": "20",
+      "explanation": "$I=F\\Delta t=5\\times4=20$ N·s。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "动量与冲量",
+      "question": "动量是矢量，方向与速度方向相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "动量有方向。"
+    }
+  ],
+  "knowledge": {
+    "point": "动量与冲量",
+    "core_concept": "动量 $p=mv$ 是矢量，方向与速度相同。冲量 $I=F\\Delta t$，动量定理：物体所受合外力的冲量等于动量的变化量。",
+    "key_formula": "$F\\Delta t=mv_2-mv_1$",
+    "common_mistakes": [
+      "忽略动量的方向性。"
+    ],
+    "tips": "先规定正方向再列式。"
+  }
+}

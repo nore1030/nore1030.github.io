@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u8-kp18",
+  "title": "故事情节",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "故事情节",
+      "question": "老虎和贼听见老爷爷老奶奶说“怕漏”，这里的“漏”指（___）。",
+      "options": [],
+      "answer": "漏雨",
+      "explanation": "老人家怕的是屋顶漏水。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "science-g3up-u1-kp6",
+  "title": "混合物的分离技术",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "混合物的分离技术",
+      "question": "用蒸发皿加热食盐水时，要等水分完全蒸干后再熄灭酒精灯。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应在有大量固体析出时熄灭酒精灯，利用余热蒸干，防止食盐飞溅。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "混合物的分离技术",
+      "question": "要把混在沙子里的食盐分离出来，第一步通常是（）。",
+      "options": [
+        "过滤",
+        "蒸发",
+        "溶解",
+        "曝晒"
+      ],
+      "answer": "溶解",
+      "explanation": "利用食盐易溶于水而沙子不溶的特性，先溶解再通过过滤和蒸发分离。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "混合物的分离技术",
+      "question": "酒精灯的火焰中，温度最高的是（）。",
+      "options": [
+        "内焰",
+        "外焰",
+        "焰心",
+        "都一样"
+      ],
+      "answer": "外焰",
+      "explanation": "外焰与空气接触最充分，燃烧最剧烈，温度最高。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "混合物的分离技术",
+      "question": "在实验室中，我们利用（）的方法将食盐从盐水中分离出来。",
+      "options": [],
+      "answer": "蒸发",
+      "explanation": "通过加热使溶剂水分流失，溶质析出。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "中国的疆域与自然环境",
+      "knowledge_points": [
+        {
+          "name": "中国的疆域与行政区划",
+          "description": "了解中国的疆域、邻国与行政区划。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中国的地形与气候",
+          "description": "掌握地势特征与气候特征。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "geography-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "中国的自然资源与经济发展",
+      "knowledge_points": [
+        {
+          "name": "自然资源与土地利用",
+          "description": "了解自然资源的分类与土地资源特点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中国的经济发展",
+          "description": "了解农业、工业与交通发展差异。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "geography-g8up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "geography-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "geography",
+  "lessons": [
+    {
+      "id": "geography-g8up-u1-kp1",
+      "title": "中国的疆域与行政区划",
+      "unitNumber": 1,
+      "unitTitle": "中国的疆域与自然环境",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "geography-g8up-u1-kp2",
+      "title": "中国的地形与气候",
+      "unitNumber": 1,
+      "unitTitle": "中国的疆域与自然环境",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "geography-g8up-u2-kp1",
+      "title": "自然资源与土地利用",
+      "unitNumber": 2,
+      "unitTitle": "中国的自然资源与经济发展",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "geography-g8up-u2-kp2",
+      "title": "中国的经济发展",
+      "unitNumber": 2,
+      "unitTitle": "中国的自然资源与经济发展",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "physics-g10up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "physics-g10up",
+  "unitNumber": 4,
+  "unitTitle": "运动和力的关系",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "超重、失重与动力学的应用",
+      "question": "质量 50 kg 的人在加速上升的电梯中，加速度 2 m/s²，地板对人的支持力是多少 N？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "600",
+      "explanation": "$F_N=m(g+a)=50\\times12=600$ N。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "超重、失重与动力学的应用",
+      "question": "完全失重状态下的物体加速度等于（　）",
+      "options": [
+        "0",
+        "$g$",
+        "$2g$",
+        "无穷大"
+      ],
+      "answer": "$g$",
+      "explanation": "完全失重加速度为 $g$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "超重、失重与动力学的应用",
+      "question": "超重时物体的重力变大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "重力不变，只是支持力变大。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "牛顿运动定律",
+      "question": "质量 2 kg 的物体在水平面上受 6 N 拉力、2 N 摩擦阻力，加速度是多少 m/s²？",
+      "options": [],
+      "answer": "2",
+      "explanation": "合力 4 N，$a=2$ m/s²。"
+    }
+  ],
+  "knowledge": null
+}

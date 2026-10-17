@@ -1,0 +1,47 @@
+{
+  "id": "history-g7up-u2-kp1",
+  "title": "秦的统一与中央集权",
+  "bookId": "history-g7up",
+  "unitNumber": 2,
+  "unitTitle": "秦汉时期",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "秦的统一与中央集权",
+      "question": "秦朝完成统一的时间是（　）",
+      "options": [
+        "公元前 221 年",
+        "公元前 202 年",
+        "公元前 207 年",
+        "公元前 770 年"
+      ],
+      "answer": "公元前 221 年",
+      "explanation": "公元前 221 年统一。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "秦的统一与中央集权",
+      "question": "秦朝统一了文字、货币和度量衡。",
+      "options": [],
+      "answer": "对",
+      "explanation": "秦朝统一措施。"
+    }
+  ],
+  "knowledge": {
+    "point": "秦的统一与中央集权",
+    "core_concept": "公元前 221 年秦灭六国完成统一，建立中央集权制度：皇帝制度、三公九卿、地方推行郡县制。统一文字为小篆、统一货币与度量衡。",
+    "key_formula": "公元前 221 年统一",
+    "common_mistakes": [
+      "把郡县制当作汉朝首创。"
+    ],
+    "tips": "秦首创郡县制。"
+  }
+}

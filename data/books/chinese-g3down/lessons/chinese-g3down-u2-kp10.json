@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp10",
+  "title": "成语理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语理解",
+      "question": "下列哪个成语不是出自寓言故事？",
+      "options": [
+        "掩耳盗铃",
+        "刻舟求剑",
+        "画蛇添足",
+        "大公无私"
+      ],
+      "answer": "大公无私",
+      "explanation": "大公无私是描述品质的成语，非寓言典故。"
+    }
+  ],
+  "knowledge": null
+}

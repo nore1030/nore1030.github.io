@@ -1,0 +1,145 @@
+{
+  "id": "g6up-u9-kp3",
+  "title": "数理逻辑与模型复习",
+  "bookId": "g6up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "如果甲数与乙数的比是 $3 : 5$，那么甲数就是乙数的 $\\frac{3}{5}$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比的后项相当于分母，前项相当于分子。$3 : 5$ 写成分数形式即为 $\\frac{3}{5}$。验算：$3 \\div 5 = 0.6$，$\\frac{3}{5} = 0.6$，一致。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "扇形统计图可以清楚地表示出各部分数量与总量之间的关系。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是扇形统计图的基本特点，用于显示部分占总体的百分比。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "在一个比中，前项是 8，比值是 $\\frac{1}{2}$，后项是多少？",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "answer": "16",
+      "explanation": "后项 = 前项 $\\div$ 比值。$8 \\div \\frac{1}{2} = 8 \\times 2 = 16$。验算：$8 : 16 = 1 : 2$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "要统计东莞市 12 个月的气温变化情况，选用哪种统计图最合适？",
+      "options": [
+        "条形统计图",
+        "折线统计图",
+        "扇形统计图",
+        "统计表"
+      ],
+      "answer": "折线统计图",
+      "explanation": "折线统计图最适合反映数据的增减变化趋势。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "把 $1 : 0.75$ 化成最简单的整数比是多少？",
+      "options": [
+        "100 : 75",
+        "1 : 3",
+        "4 : 3",
+        "3 : 4"
+      ],
+      "answer": "4 : 3",
+      "explanation": "$1 : 0.75 = 100 : 75 = (100\\div25) : (75\\div25) = 4 : 3$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "六(1)班今天到校 48 人，请假 2 人，今天的出勤率是多少？",
+      "options": [
+        "96%",
+        "48%",
+        "100%",
+        "4%"
+      ],
+      "answer": "96%",
+      "explanation": "出勤率 = 到校人数 / 总人数。$48 \\div (48 + 2) = 48 \\div 50 = 0.96 = 96\\%$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "1, 3, 6, 10, 15, ( )。按照规律，括号里填多少？",
+      "options": [
+        "20",
+        "21",
+        "25",
+        "30"
+      ],
+      "answer": "21",
+      "explanation": "规律是依次加 2, 3, 4, 5...。$15 + 6 = 21$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "加工一批零件，师傅单独做 10 小时完成，徒弟单独做 15 小时完成。师徒合作每小时完成这批零件的几分之几？答案的分子是 1，分母是 ___。",
+      "options": [],
+      "answer": "6",
+      "explanation": "合作效率为 $\\frac{1}{10} + \\frac{1}{15} = \\frac{3}{30} + \\frac{2}{30} = \\frac{5}{30} = \\frac{1}{6}$。分母为 6。验算：$1 \\div 6 = \\frac{1}{6}$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数理逻辑与模型复习",
+      "question": "计算：$12 \\div \\frac{3}{4} = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$12 \\times \\frac{4}{3} = 16$。验算：$16 \\times \\frac{3}{4} = 12$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数理逻辑与模型复习",
+    "core_concept": "复习比的意义、基本性质及化简。掌握按比分配的方法，将总量按比例系数转化为份数解决。同时包括扇形统计图的数据分析和“数与形”结合的规律探索（如点阵、路径问题），培养通过局部规律推导整体模型的逻辑思维。",
+    "key_formula": "一份量 = 总数量 \\div 总份数",
+    "common_mistakes": [
+      "化简比的结果写成了一个数（分数或小数），而没写成比的形式。",
+      "在握手或比赛场次问题中多算了一倍（忘记除以 2）。"
+    ],
+    "tips": "解决按比分配问题时，先把比的所有项相加求出总份数，再计算各部分占比。"
+  }
+}

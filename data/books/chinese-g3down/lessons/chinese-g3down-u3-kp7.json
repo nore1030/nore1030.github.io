@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u3-kp7",
+  "title": "句式转换正误判断",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式转换正误判断",
+      "question": "将“蔡伦改进了造纸术。”改为“被”字句，正确的是？",
+      "options": [
+        "蔡伦把造纸术改进了。",
+        "造纸术被蔡伦改进了。",
+        "造纸术把蔡伦改进了。",
+        "造纸术被改进了蔡伦。"
+      ],
+      "answer": "造纸术被蔡伦改进了。",
+      "explanation": "被字句格式：受动者+被+施动者+动作。"
+    }
+  ],
+  "knowledge": null
+}

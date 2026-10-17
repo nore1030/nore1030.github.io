@@ -1,0 +1,134 @@
+{
+  "id": "g1up-u2-kp1",
+  "title": "上、下、前、后位置关系",
+  "bookId": "g1up",
+  "unitNumber": 2,
+  "unitTitle": "位置",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "在排队时，小明排在小红的前面，那么小红就排在小明的后面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "前和后是相对的关系。如果 A 在 B 前面，则 B 一定在 A 后面。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "天上的飞机在白云的上面，白云就在飞机的下面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "上和下是一对相对的位置关系。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "公路上，小车在卡车的前面，卡车在小车的哪一面？",
+      "options": [
+        "前面",
+        "后面",
+        "上面",
+        "下面"
+      ],
+      "answer": "后面",
+      "explanation": "前后的相对性：如果小车在卡车前面，卡车就是在小车的后面。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "写字时，书本放在桌子的什么位置？",
+      "options": [
+        "下面",
+        "前面",
+        "上面",
+        "后面"
+      ],
+      "answer": "上面",
+      "explanation": "物体承载关系：书放在桌子的表面，即上方。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "在森林里，松鼠住在树洞里，啄木鸟住在松鼠上面的树洞里。松鼠在啄木鸟的哪一面？",
+      "options": [
+        "上面",
+        "下面",
+        "前面",
+        "后面"
+      ],
+      "answer": "下面",
+      "explanation": "啄木鸟在松鼠上面，反过来松鼠就在啄木鸟的下面。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "妈妈把脚垫铺在门口的地板上。脚垫在妈妈脚的哪一面？",
+      "options": [
+        "上面",
+        "下面",
+        "前面",
+        "后面"
+      ],
+      "answer": "下面",
+      "explanation": "人踩在脚垫上，所以脚垫在脚的下面。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "小鹿在小兔的前面，小兔在小鹿的？",
+      "options": [
+        "左面",
+        "右面",
+        "前面",
+        "后面"
+      ],
+      "answer": "后面",
+      "explanation": "前后的相对关系。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "小明前面有 3 人，后面有 4 人，这一队共有 ___ 人。",
+      "options": [],
+      "answer": "8",
+      "explanation": "计算总人数：前面的 3 人 + 后面 4 人 + 小明本人 1 人。算式：$3 + 4 + 1 = 8$。验算：$8 - 3 - 4 = 1$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "上、下、前、后位置关系",
+    "core_concept": "上和下是以高度为参照的方位。上方是指高处，下方是指低处。前和后是以面对的方向或运动方向为参照。面对的、领先的是前，背对的、落后的是后。描述位置时一定要明确“谁在谁的哪一面”。",
+    "key_formula": "确定参照物是辨别位置的前提。",
+    "common_mistakes": [
+      "混淆参照物，将‘A在B的上面’误认为‘B在A的上面’。",
+      "在排队问题中，忽视‘第几个’和‘有几个’的区别。"
+    ],
+    "tips": "记忆口诀：眼前的、前面的；脑后的、后面的。头顶上的、脚踩下的。"
+  }
+}

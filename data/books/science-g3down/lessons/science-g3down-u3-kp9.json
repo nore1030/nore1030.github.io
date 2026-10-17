@@ -1,0 +1,39 @@
+{
+  "id": "science-g3down-u3-kp9",
+  "title": "月相变化规律",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 3,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "月相变化规律",
+      "question": "月相的变化是没有规律的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "月相变化具有周期性，每月变化一次。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月相变化规律",
+      "question": "农历下半月的月相变化规律是（）。",
+      "options": [
+        "由圆变缺",
+        "由缺变圆",
+        "一直是半圆",
+        "没有变化"
+      ],
+      "answer": "由圆变缺",
+      "explanation": "农历一个月中，上半月由缺变圆，下半月由圆变缺。"
+    }
+  ],
+  "knowledge": null
+}

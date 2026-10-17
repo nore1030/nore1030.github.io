@@ -1,0 +1,61 @@
+{
+  "id": "chemistry-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 3,
+  "unitTitle": "物质的量",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "物质的量与摩尔质量",
+      "question": "44 g 二氧化碳的物质的量是多少 mol？",
+      "options": [],
+      "answer": "1",
+      "explanation": "$n=\\frac{44}{44}=1$ mol。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "气体摩尔体积与物质的量浓度",
+      "question": "标准状况下 4.48 L CO₂ 的物质的量是多少 mol？",
+      "options": [],
+      "answer": "0.2",
+      "explanation": "$n=\\frac{4.48}{22.4}=0.2$ mol。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "气体摩尔体积与物质的量浓度",
+      "question": "标准状况下 1 mol 任何气体的体积都约为 22.4 L。",
+      "options": [],
+      "answer": "对",
+      "explanation": "气体摩尔体积。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质的量与摩尔质量",
+      "question": "1 mol 硫酸中含氧原子多少 mol？（　）",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "7"
+      ],
+      "answer": "4",
+      "explanation": "H₂SO₄ 中有 4 个 O。"
+    }
+  ],
+  "knowledge": null
+}

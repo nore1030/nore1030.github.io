@@ -1,0 +1,74 @@
+{
+  "id": "g10up-u1-kp1",
+  "title": "集合的概念与运算",
+  "bookId": "g10up",
+  "unitNumber": 1,
+  "unitTitle": "集合与常用逻辑用语",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "集合的概念与运算",
+      "question": "集合 $\\{1,2,3\\}$ 与 $\\{2,3,4\\}$ 的交集是（　）",
+      "options": [
+        "$\\{1,2,3,4\\}$",
+        "$\\{2,3\\}$",
+        "$\\{1,4\\}$",
+        "$\\varnothing$"
+      ],
+      "answer": "$\\{2,3\\}$",
+      "explanation": "公共元素为 2、3。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "集合的概念与运算",
+      "question": "$A=\\{x\\mid x<3\\}$，$B=\\{x\\mid x>1\\}$，则 $A\\cap B=$（　）",
+      "options": [
+        "$\\{x\\mid1<x<3\\}$",
+        "$\\{x\\mid x<3\\}$",
+        "$\\{x\\mid x>1\\}$",
+        "$\\mathbb R$"
+      ],
+      "answer": "$\\{x\\mid1<x<3\\}$",
+      "explanation": "取公共部分。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "集合的概念与运算",
+      "question": "集合中的元素具有互异性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "集合元素互异。"
+    },
+    {
+      "id": 6,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "集合的概念与运算",
+      "question": "设 $U=\\{1,2,3,4\\}$，$A=\\{1,2\\}$，则 $\\complement_U A=$ ___（用集合表示）",
+      "options": [],
+      "answer": "{3,4}",
+      "explanation": "在全集内去掉 1、2。"
+    }
+  ],
+  "knowledge": {
+    "point": "集合的概念与运算",
+    "core_concept": "集合中的元素具有确定性、互异性、无序性。交集取公共元素，并集取所有元素，补集是在全集内去掉该集合元素的剩余部分。",
+    "key_formula": "$A\\cap B$、$A\\cup B$、$\\complement_U A$",
+    "common_mistakes": [
+      "求并集时遗漏元素或重复计数。"
+    ],
+    "tips": "先化简要简单，再求交并。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8up-u1-kp1",
+  "title": "中国的疆域与行政区划",
+  "bookId": "geography-g8up",
+  "unitNumber": 1,
+  "unitTitle": "中国的疆域与自然环境",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国的疆域与行政区划",
+      "question": "我国陆地面积约为（　）",
+      "options": [
+        "360 万平方千米",
+        "960 万平方千米",
+        "1200 万平方千米",
+        "500 万平方千米"
+      ],
+      "answer": "960 万平方千米",
+      "explanation": "约 960 万平方千米。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的疆域与行政区划",
+      "question": "我国共有 34 个省级行政单位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "省级行政单位 34 个。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国的疆域与行政区划",
+    "core_concept": "中国位于东半球、北半球，亚欧大陆东部、太平洋西岸。陆地面积约 960 万平方千米，居世界第三。全国分为 34 个省级行政单位。",
+    "key_formula": "960 万 km²",
+    "common_mistakes": [
+      "把领海面积与陆地面积混淆。"
+    ],
+    "tips": "陆地面积约 960 万平方千米。"
+  }
+}

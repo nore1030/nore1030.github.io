@@ -1,0 +1,42 @@
+{
+  "id": "g9up-u3-kp3",
+  "title": "圆中的计算",
+  "bookId": "g9up",
+  "unitNumber": 3,
+  "unitTitle": "圆",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆中的计算",
+      "question": "半径为 6、圆心角为 60° 的弧长是多少（结果保留 $\\pi$）？填数字部分（如 2π 则填 2）",
+      "options": [],
+      "answer": "2",
+      "explanation": "$l=\\frac{60\\pi\\times6}{180}=2\\pi$。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆中的计算",
+      "question": "半径为 3、圆心角为 120° 的扇形面积是多少（结果保留 $\\pi$，填 $\\pi$ 的系数）？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$S=\\frac{120\\pi\\times9}{360}=3\\pi$。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆中的计算",
+    "core_concept": "弧长 $l=\\frac{n\\pi r}{180}$，扇形面积 $S=\\frac{n\\pi r^2}{360}=\\frac12 lr$。",
+    "key_formula": "$l=\\frac{n\\pi r}{180}$",
+    "common_mistakes": [
+      "角度与弧度混用。"
+    ],
+    "tips": "牢记分母 180、360。"
+  }
+}

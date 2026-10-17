@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp17",
+  "title": "物品名称",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 13,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品名称",
+      "question": "I have a new ___. (小汽车)",
+      "options": [
+        "cap",
+        "cat",
+        "car",
+        "can"
+      ],
+      "answer": "car",
+      "explanation": "car是小汽车，注意与cap(帽子)区分。"
+    }
+  ],
+  "knowledge": null
+}

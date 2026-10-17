@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2up-u1-kp1",
+  "title": "班级生活与集体荣誉",
+  "bookId": "moral-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的班级",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "班级生活与集体荣誉",
+      "question": "班里获得流动红旗，同学们应该（　）",
+      "options": [
+        "觉得与自已无关",
+        "共同珍惜这份荣誉",
+        "嘲笑其他班",
+        "不以为然"
+      ],
+      "answer": "共同珍惜这份荣誉",
+      "explanation": "班级荣誉要共同珍惜。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "班级生活与集体荣誉",
+      "question": "每个人都可以为班级出力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人人都能为班级做事。"
+    }
+  ],
+  "knowledge": {
+    "point": "班级生活与集体荣誉",
+    "core_concept": "班级是共同的大家庭，每个同学都是班级的一员。班级取得成绩时大家共同自豪，班级需要时主动出力。",
+    "key_formula": "班集体荣誉感",
+    "common_mistakes": [
+      "认为班级荣誉只与班干部有关。"
+    ],
+    "tips": "人人都能为班级出力。"
+  }
+}

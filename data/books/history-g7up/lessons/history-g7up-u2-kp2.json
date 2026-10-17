@@ -1,0 +1,47 @@
+{
+  "id": "history-g7up-u2-kp2",
+  "title": "汉朝巩固统一",
+  "bookId": "history-g7up",
+  "unitNumber": 2,
+  "unitTitle": "秦汉时期",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "汉朝巩固统一",
+      "question": "汉武帝为削弱诸侯王势力采取的措施是（　）",
+      "options": [
+        "推恩令",
+        "郡县制",
+        "分封制",
+        "科举制"
+      ],
+      "answer": "推恩令",
+      "explanation": "推恩令削弱王国。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "汉朝巩固统一",
+      "question": "张骞出使西域为丝绸之路的开辟奠定了基础。",
+      "options": [],
+      "answer": "对",
+      "explanation": "张骞通西域的意义。"
+    }
+  ],
+  "knowledge": {
+    "point": "汉朝巩固统一",
+    "core_concept": "汉武帝政治上颁布推恩令、思想上尊崇儒术、经济上盐铁官营、对外派张骞出使西域，开辟丝绸之路。",
+    "key_formula": "推恩令 + 尊崇儒术",
+    "common_mistakes": [
+      "忽略丝绸之路的开辟意义。"
+    ],
+    "tips": "张骞通西域开辟丝绸之路。"
+  }
+}

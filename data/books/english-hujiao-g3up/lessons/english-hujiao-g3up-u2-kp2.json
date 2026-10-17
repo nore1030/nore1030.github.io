@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3up-u2-kp2",
+  "title": "情绪表达 happy / sad / tired",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Module 1 Getting to know you — How are you? 你好吗",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情绪表达 happy / sad / tired",
+      "question": "「我很开心」的英文是（　）",
+      "options": [
+        "I'm happy.",
+        "I'm sad.",
+        "I'm tired.",
+        "I'm fine."
+      ],
+      "answer": "I'm happy.",
+      "explanation": "happy 表示开心。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "情绪表达 happy / sad / tired",
+      "question": "tired 的意思是「疲倦的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "tired = 累的。"
+    }
+  ],
+  "knowledge": {
+    "point": "情绪表达 happy / sad / tired",
+    "core_concept": "happy 开心、sad 难过、tired 累、hungry 饿。表达：I'm happy. / I'm tired.",
+    "key_formula": "I'm happy. / I'm tired.",
+    "common_mistakes": [
+      "漏掉 be 动词：I happy（×）。"
+    ],
+    "tips": "情绪前要有 am/is/are。"
+  }
+}

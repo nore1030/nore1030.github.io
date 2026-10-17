@@ -1,0 +1,172 @@
+{
+  "id": "g4up-u5-kp1",
+  "title": "平行与垂直的认识",
+  "bookId": "g4up",
+  "unitNumber": 5,
+  "unitTitle": "平行四边形和梯形",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "在同一平面内，两条直线如果不平行就一定相交。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在同一平面内，两条直线的位置关系只有两种：平行或相交。如果不平行，则必然相交。验算：排除不共面的空间直线情况，命题成立。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "两条直线相交成直角时，这两条直线互相垂直。",
+      "options": [],
+      "answer": "对",
+      "explanation": "垂直的定义即为两条直线相交成直角（90度）。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "两条平行线之间的距离处处相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平行线性质：两条平行线之间所有垂线段的长度都相等。验算：从一条直线上任意取点向另一条作垂线，长度一致。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "在同一平面内，过直线外一点可以画几条已知直线的垂线？",
+      "options": [
+        "1条",
+        "2条",
+        "3条",
+        "无数条"
+      ],
+      "answer": "1条",
+      "explanation": "根据垂直的性质，过直线外一点有且只有一条直线与已知直线垂直。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "把两根小棒都摆成和第三根小棒平行，看一看这两根小棒的关系是：",
+      "options": [
+        "互相平行",
+        "互相垂直",
+        "相交但不垂直",
+        "无法确定"
+      ],
+      "answer": "互相平行",
+      "explanation": "平行线的传递性：如果 $a//c$ 且 $b//c$，那么 $a//b$。所以它们互相平行。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "从直线外一点到这条直线所画的所有线段中，最短的是：",
+      "options": [
+        "直线",
+        "平行线",
+        "垂线段",
+        "射线"
+      ],
+      "answer": "垂线段",
+      "explanation": "从直线外一点到这条直线所画的所有线段中，垂直线段最短。这是几何学的基本常识。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "两条直线互相垂直，形成的角有几个直角？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "4个",
+      "explanation": "两条直线垂直相交，其中一个角是90度，那么它的对顶角是90度，邻角也是 180-90=90 度，总共4个直角。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "在两条平行线之间画几条垂直线段，这些线段的长度：",
+      "options": [
+        "都不相等",
+        "有的相等有的不相等",
+        "都相等",
+        "长度逐渐变大"
+      ],
+      "answer": "都相等",
+      "explanation": "平行线间的距离处处相等，因此所有垂直线段的长度都相等。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "如果两条直线都垂直于同一条直线，那么这两条直线：",
+      "options": [
+        "互相垂直",
+        "互相平行",
+        "相交",
+        "重合"
+      ],
+      "answer": "互相平行",
+      "explanation": "在同一平面内，垂直于同一直线的两条直线互相平行。这是判断平行的重要方法。验算：想象直尺两边都垂直于竖杠，则两边平行。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "两条平行线之间的距离是 5 厘米，在这两条直线间作垂直线段，这段垂直线段的长是 ___ 厘米。",
+      "options": [],
+      "answer": "5",
+      "explanation": "平行线间的距离就是其间垂直线段的长度。因为距离是 5 厘米，所以垂直线段长也是 5 厘米。验算：定义匹配 ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行与垂直的认识",
+      "question": "一个平角是 $180$ 度，它包含几个 $90$ 度的直角？计算：$180 \times 1 \text{ (divide) } 90 = ?$",
+      "options": [],
+      "answer": "2",
+      "explanation": "$180 \times 1 \text{ (divide) } 90$ 即 $180 \text{ (divide) } 90 = 2$。验算：$90 \times 2 = 180$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "平行与垂直的认识",
+    "core_concept": "在同一个平面内，不相交的两条直线叫做平行线。当两条直线相交成直角时，这两条直线互相垂直，其中一条直线叫做另一条直线的垂线。要特别注意‘同一平面’这个前提。",
+    "key_formula": "在同一平面内，垂直于同一直线的两条直线互相平行。",
+    "common_mistakes": [
+      "认为不相交的两条直线就是平行线（忽略了同一平面的前提）",
+      "把‘互相垂直’理解为单方面的垂直关系"
+    ],
+    "tips": "可以观察教室里的黑板边框：相邻的两条边是互相垂直的，相对的两条边是互相平行的。"
+  }
+}

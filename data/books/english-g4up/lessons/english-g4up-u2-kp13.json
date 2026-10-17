@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp13",
+  "title": "疑问词",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问词",
+      "question": "-______ is your pencil box? -It's on the desk.",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "answer": "Where",
+      "explanation": "答语在描述方位（on the desk），提问用Where。"
+    }
+  ],
+  "knowledge": null
+}

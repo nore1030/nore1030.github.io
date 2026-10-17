@@ -1,0 +1,117 @@
+{
+  "id": "chinese-g1down-u2-kp3",
+  "title": "季节特征与色彩关联",
+  "bookId": "chinese-g1down",
+  "unitNumber": 2,
+  "unitTitle": "愿望",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "《四个太阳》中，“红红的太阳”是送给冬天的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "红红的太阳能给严寒的冬天带来温暖。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "在《四个太阳》中，送给秋天的太阳是什么颜色的？",
+      "options": [
+        "绿绿的",
+        "金黄的",
+        "红红的",
+        "彩色的"
+      ],
+      "answer": "金黄的",
+      "explanation": "秋天是收获的季节，果园里果实累累，所以是金黄的太阳。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "春天应该画一个什么样的太阳，因为春天是个多彩的季节？",
+      "options": [
+        "红红的",
+        "彩色的",
+        "亮亮的",
+        "蓝蓝的"
+      ],
+      "answer": "彩色的",
+      "explanation": "课文中提到，因为春天是个多彩的季节，所以要画一个彩色的太阳。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "夏天流汗时，最好画个什么颜色的太阳挂在天空？",
+      "options": [
+        "红色",
+        "绿色",
+        "紫色",
+        "粉色"
+      ],
+      "answer": "绿色",
+      "explanation": "绿绿的太阳能带来一片清凉，正符合夏天的需要。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "请将太阳的颜色与对应的季节意境连线。",
+      "options": [
+        "金黄的太阳",
+        "红红的太阳",
+        "绿绿的太阳",
+        "彩色的太阳",
+        "清凉的夏天",
+        "丰收的秋天",
+        "多彩的春天",
+        "温暖的冬天"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "金黄对应秋天丰收，红红对应冬天温暖，绿绿对应夏天清凉，彩色对应春天多彩。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "季节特征与色彩关联",
+      "question": "将词语重新排列，形容夏天的感觉。",
+      "options": [
+        "到处",
+        "一片",
+        "清凉",
+        "绿绿的太阳",
+        "送来"
+      ],
+      "answer": "绿绿的太阳,送来,一片,到处,清凉",
+      "explanation": "考查《四个太阳》中的描述句：“绿绿的太阳照着大地，送来一片清凉”。"
+    }
+  ],
+  "knowledge": {
+    "point": "季节特征与色彩关联",
+    "core_concept": "理解作者如何利用色彩来通感季节的情绪。夏天用绿色代表清凉，秋天用金黄代表成熟，冬天用红色代表温暖，春天用彩色代表复苏。这是一种富有想象力的文学创作手法，能培养学生的逻辑关联能力。",
+    "key_formula": "季节特点 = 视觉颜色 = 心理需求",
+    "common_mistakes": [
+      "将夏天关联到红色（生活中火热联想）而忽视了课文需求的“清凉”逻辑",
+      "记不清春天为什么要画彩色的太阳"
+    ],
+    "tips": "用彩笔画出四个太阳，在旁边写上对应的季节词和感受词。"
+  }
+}

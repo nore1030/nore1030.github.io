@@ -1,0 +1,53 @@
+{
+  "id": "g5down-u4-kp7",
+  "title": "分数和小数的互化",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数和小数的互化",
+      "question": "把 0.45 化成最简分数是：",
+      "options": [
+        "45/100",
+        "9/20",
+        "9/25",
+        "45/10"
+      ],
+      "answer": "9/20",
+      "explanation": "$0.45 = 45/100$。分子分母同时除以最大公因数 5，$45 \\div 5 = 9$，$100 \\div 5 = 20$，得 9/20。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分数和小数的互化",
+      "question": "下列各数中，数值最大的是：",
+      "options": [
+        "0.6",
+        "2/3",
+        "4/5",
+        "0.75"
+      ],
+      "answer": "4/5",
+      "explanation": "统一化成小数：0.6；$2/3 \\approx 0.667$；$4/5 = 0.8$；0.75。0.8 最大。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数和小数的互化",
+    "core_concept": "小数化分数：原来有几位小数，就在 1 后面写几个 0 作分母。分数化小数：利用分数与除法的关系，用分子除以分母，除不尽的按要求保留位数。",
+    "key_formula": "$\\frac{a}{b} = a \\div b$",
+    "common_mistakes": [
+      "分数化小数时分子分母位置颠倒",
+      "小数化分数后没有约分成最简分数"
+    ],
+    "tips": "熟记常用分数如 1/2=0.5, 1/4=0.25, 1/8=0.125 等可以提高计算速度。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "science-g2down-u2-kp4",
+  "title": "人体反应速度的测试与提升",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体反应速度的测试与提升",
+      "question": "在“抓尺子”实验中，抓住尺子的位置越靠下，说明反应（___）。",
+      "options": [
+        "越快",
+        "越慢",
+        "中等",
+        "没变化"
+      ],
+      "answer": "越快",
+      "explanation": "位置越靠下，说明尺子下落的时间越短，反应越迅速。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体反应速度的测试与提升",
+      "question": "经过多次练习，我们抓尺子的能力会（___）。",
+      "options": [
+        "提高",
+        "下降",
+        "不变",
+        "消失"
+      ],
+      "answer": "提高",
+      "explanation": "反复练习可以提高神经系统的协调能力，缩短反应时间。"
+    }
+  ],
+  "knowledge": null
+}

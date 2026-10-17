@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u4-kp18",
+  "title": "Action phrases",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 14,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Action phrases",
+      "question": "匹配下列动作描述与翻译。",
+      "options": [
+        "write an email",
+        "go hiking",
+        "climb mountains",
+        "watch TV",
+        "去远足",
+        "写邮件",
+        "看电视",
+        "爬山"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "A-写邮件, B-去远足, C-爬山, D-看电视"
+    }
+  ],
+  "knowledge": null
+}

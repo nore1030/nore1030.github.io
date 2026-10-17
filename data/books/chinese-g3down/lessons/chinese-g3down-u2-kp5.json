@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u2-kp5",
+  "title": "字形辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 1,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "‘陶罐’的‘罐’字左边是单一的‘缶’字旁。",
+      "options": [],
+      "answer": "对",
+      "explanation": "罐是缶字旁，与瓦器有关。"
+    }
+  ],
+  "knowledge": null
+}

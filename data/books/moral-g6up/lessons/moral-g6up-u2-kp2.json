@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6up-u2-kp2",
+  "title": "热爱祖国与民族团结",
+  "bookId": "moral-g6up",
+  "unitNumber": 2,
+  "unitTitle": "校园生活与热爱祖国",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "热爱祖国与民族团结",
+      "question": "下列做法体现爱国的是（　）",
+      "options": [
+        "维护国家荣誉和利益",
+        "散布谣言",
+        "损坏公物",
+        "崇洋媚外"
+      ],
+      "answer": "维护国家荣誉和利益",
+      "explanation": "爱国体现在日常行动。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "热爱祖国与民族团结",
+      "question": "维护民族团结是每个公民的责任。",
+      "options": [],
+      "answer": "对",
+      "explanation": "民族团结是责任。"
+    }
+  ],
+  "knowledge": {
+    "point": "热爱祖国与民族团结",
+    "core_concept": "要了解祖国历史与文化，维护国家统一，促进民族团结，为国家发展贡献力量。",
+    "key_formula": "心向祖国、情系中华",
+    "common_mistakes": [
+      "崇洋媚外，贬低本国文化。"
+    ],
+    "tips": "文化自信很重要。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g10up",
+  "unitNumber": 2,
+  "unitTitle": "古诗文阅读",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“沛公军霸上”中“军”的活用是（　）",
+      "options": [
+        "名词作动词，驻军",
+        "名词作状语",
+        "使动用法",
+        "意动用法"
+      ],
+      "answer": "名词作动词，驻军",
+      "explanation": "名词活用为动词。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文言句式与翻译",
+      "question": "判断句常用“……者，……也”式表示。",
+      "options": [],
+      "answer": "对",
+      "explanation": "常见判断句式。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“而”作连词时可表示的关系不包括（　）",
+      "options": [
+        "并列",
+        "转折",
+        "承接",
+        "反问"
+      ],
+      "answer": "反问",
+      "explanation": "“而”不表反问。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文言实词与虚词",
+      "question": "古今异义词要按古义理解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如“妻子”古指妻子儿女。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2up-u7-kp10",
+  "title": "动词搭配",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 9,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词搭配",
+      "question": "请为动作选择合适的对象。",
+      "options": [
+        "躲在",
+        "露在",
+        "飘在",
+        "藏在",
+        "云间",
+        "山背后",
+        "外面",
+        "云端"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "根据词语意思和课文惯用表达进行搭配。"
+    }
+  ],
+  "knowledge": null
+}

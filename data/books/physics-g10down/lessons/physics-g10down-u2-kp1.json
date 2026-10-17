@@ -1,0 +1,58 @@
+{
+  "id": "physics-g10down-u2-kp1",
+  "title": "万有引力定律",
+  "bookId": "physics-g10down",
+  "unitNumber": 2,
+  "unitTitle": "万有引力与宇宙航行",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "万有引力定律",
+      "question": "卫星轨道半径增大时，其线速度（　）",
+      "options": [
+        "增大",
+        "减小",
+        "不变",
+        "先增后减"
+      ],
+      "answer": "减小",
+      "explanation": "半径越大线速度越小。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "万有引力定律",
+      "question": "万有引力定律中，引力大小与两物体间距离的平方成反比。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平方反比关系。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "万有引力定律",
+      "question": "某星球表面重力加速度为 8 m/s²，质量 2 kg 的物体在该星球表面重力是多少 N？",
+      "options": [],
+      "answer": "16",
+      "explanation": "$G=mg=2\\times8=16$ N。"
+    }
+  ],
+  "knowledge": {
+    "point": "万有引力定律",
+    "core_concept": "$F=G\\frac{m_1m_2}{r^2}$。卫星绕行星做圆周运动时，万有引力提供向心力，轨道半径越大，周期越大、线速度越小。",
+    "key_formula": "$F=G\\frac{m_1m_2}{r^2}$",
+    "common_mistakes": [
+      "把轨道半径与星球半径混淆。"
+    ],
+    "tips": "近地卫星轨道半径约等于星球半径。"
+  }
+}

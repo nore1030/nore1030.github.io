@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp12",
+  "title": "疑问句回答",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问句回答",
+      "question": "-Who's he? -______",
+      "options": [
+        "He is a boy.",
+        "He is Tim.",
+        "It is a desk.",
+        "She is Lily."
+      ],
+      "answer": "He is Tim.",
+      "explanation": "Who提问身份，主语是he，回答应涉及男性姓名。"
+    }
+  ],
+  "knowledge": null
+}

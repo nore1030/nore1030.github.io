@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp16",
+  "title": "微生物的多样性",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "微生物的多样性",
+      "question": "下列不属于水中微小生物的是（）。",
+      "options": [
+        "水滴中的草履虫",
+        "池塘里的喇叭虫",
+        "溪水里的变形虫",
+        "干稻草上的蝗虫"
+      ],
+      "answer": "干稻草上的蝗虫",
+      "explanation": "蝗虫是昆虫，肉眼可见，不属于微小生物范畴。"
+    }
+  ],
+  "knowledge": null
+}

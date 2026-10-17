@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u8-kp10",
+  "title": "作者作品配对",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 8,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作者作品配对",
+      "question": "请将作家与他们的作品连线。",
+      "options": [
+        "丰子恺",
+        "费奥多罗夫",
+        "刘义庆",
+        "杨万里",
+        "《舟过安仁》",
+        "《手指》",
+        "《世说新语》",
+        "《童年的发现》"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "文学常识考查。"
+    }
+  ],
+  "knowledge": null
+}

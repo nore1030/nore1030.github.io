@@ -1,0 +1,52 @@
+{
+  "id": "english-hujiao-g7up-u1-kp2",
+  "title": "自我介绍与来源",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 My life — Making friends 交朋友",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自我介绍与来源",
+      "question": "— Nice to meet you. — ___",
+      "options": [
+        "Nice to meet you, too.",
+        "How are you?",
+        "I'm fine.",
+        "Goodbye."
+      ],
+      "answer": "Nice to meet you, too.",
+      "explanation": "回应加 too。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自我介绍与来源",
+      "question": "「我来自中国。」的英文是（　）",
+      "options": [
+        "I'm from China.",
+        "I come China.",
+        "I'm in China.",
+        "I from China."
+      ],
+      "answer": "I'm from China.",
+      "explanation": "be from 来自。"
+    }
+  ],
+  "knowledge": {
+    "point": "自我介绍与来源",
+    "core_concept": "I'm from China. 我来自中国；Where are you from? 你来自哪里？",
+    "key_formula": "Where are you from? — I'm from China.",
+    "common_mistakes": [
+      "from 后面接错。"
+    ],
+    "tips": "be from = 来自。"
+  }
+}

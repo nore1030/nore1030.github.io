@@ -1,0 +1,177 @@
+{
+  "id": "g4down-u10-kp1",
+  "title": "知识系统整理与对比",
+  "bookId": "g4down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "在小数点的末尾添上“0”或者去掉“0”，小数的大小不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据小数的性质，在小数的末尾添上“0”或去掉“0”，小数的大小不变。题目中说是“小数点”的末尾，表述错误。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "等腰三角形不可能是钝角三角形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "等腰三角形可能存在钝角，例如顶角为120度，底角各为30代的三角形就是等腰钝角三角形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "三角形任意两边的和大于第三边。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是三角形的基本特性，两边之和大于第三边，两边之差小于第三边。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "下面各数中，去掉 0 而大小不变的是哪个数？",
+      "options": [
+        "5.08",
+        "500",
+        "5.80",
+        "0.58"
+      ],
+      "answer": "5.80",
+      "explanation": "根据小数性质，只有小数末尾的0可以去掉而不改变大小。5.80去掉末尾0变成5.8，大小不变。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "由 3 个十、5 个十分之一和 7 个千分之一组成的数是多少？",
+      "options": [
+        "3.507",
+        "30.57",
+        "30.507",
+        "35.007"
+      ],
+      "answer": "30.507",
+      "explanation": "3个十是30，5个十分之一是0.5，7个千分之一是0.007，合起来是30.507。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "把 0.05 扩大到原数的 100 倍是多少？",
+      "options": [
+        "0.5",
+        "5",
+        "50",
+        "500"
+      ],
+      "answer": "5",
+      "explanation": "0.05 扩大 100 倍即小数点向右移动两位，结果是 5。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "在一个三角形中，已知 $\\angle 1 = 45^\\circ$，$\\angle 2 = 55^\\circ$，那么 $\\angle 3$ 是多少度？",
+      "options": [
+        "100",
+        "80",
+        "90",
+        "70"
+      ],
+      "answer": "80",
+      "explanation": "三角形内角和是 $180^\\circ$。$180 - 45 - 55 = 80$（度）。验算：$45 + 55 + 80 = 180$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "10.02 读作什么？",
+      "options": [
+        "十点二",
+        "十点零二",
+        "一点零二",
+        "十点零零二"
+      ],
+      "answer": "十点零二",
+      "explanation": "小数读法：整数部分按整数读，小数点读作点，小数部分依次读出每个数字。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "4.56 中的“6”在什么位上？",
+      "options": [
+        "十分位",
+        "百分位",
+        "个位",
+        "百分数"
+      ],
+      "answer": "百分位",
+      "explanation": "小数点右边第一位是十分位，第二位是百分位。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "下面哪个图形是对称轴最多的？",
+      "options": [
+        "长方形",
+        "等边三角形",
+        "等腰三角形",
+        "正方形"
+      ],
+      "answer": "正方形",
+      "explanation": "长方形2条，等边三角形3条，等腰三角形1条，正方形4条。正方形最多。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "3 吨 50 千克 = ___ 千克。",
+      "options": [],
+      "answer": "3050",
+      "explanation": "1 吨 = 1000 千克，3 吨 = 3000 千克。$3000 + 50 = 3050$ 千克。验算：$3050 \\div 1000$ 是 3 吨余 50 千克 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "知识系统整理与对比",
+    "core_concept": "本模块旨在梳理全册核心概念。包括小数的性质（末尾添0去0大小不变）、小数点的移动规律（向右移扩大，向左移缩小）；理解三角形的分类与内角和特性，以及轴对称图形和图形平移的特征。通过对比整数与小数的数位顺序表，形成结构化的知识网络。",
+    "key_formula": "三角形内角和 = $180^\\circ$，且任意两边之和 > 第三边。",
+    "common_mistakes": [
+      "混淆“小数点的末尾”与“小数的末尾”，在小数点后面直接加0导致数值改变。",
+      "判断三角形时，忽略两边之和大于第三边的硬性条件。"
+    ],
+    "tips": "制作一个小数和整数的数位对照表，记住小数点右边分别是十分位、百分位、千分位。"
+  }
+}

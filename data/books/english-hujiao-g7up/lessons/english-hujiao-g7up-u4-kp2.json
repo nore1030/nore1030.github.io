@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g7up-u4-kp2",
+  "title": "描述天气句型",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 4,
+  "unitTitle": "Module 2 The natural world — Seasons 季节",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述天气句型",
+      "question": "「夏天很热。」的英文是（　）",
+      "options": [
+        "It's hot in summer.",
+        "I'm hot in summer.",
+        "It hot in summer.",
+        "It's hot on summer."
+      ],
+      "answer": "It's hot in summer.",
+      "explanation": "季节前用 in。"
+    }
+  ],
+  "knowledge": {
+    "point": "描述天气句型",
+    "core_concept": "描述天气用 It's + 形容词：It's sunny today. 询问 What's the weather like today?",
+    "key_formula": "What's the weather like? — It's sunny.",
+    "common_mistakes": [
+      "回答用 I am sunny。（×）"
+    ],
+    "tips": "天气用 it 不用 I。"
+  }
+}

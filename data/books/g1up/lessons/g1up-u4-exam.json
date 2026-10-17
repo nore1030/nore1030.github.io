@@ -1,0 +1,217 @@
+{
+  "id": "g1up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g1up",
+  "unitNumber": 4,
+  "unitTitle": "认识图形（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的辨认",
+      "question": "魔方是正方体形成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "魔方每个角和面都相等，是标准的正方体。验算：外观比对符合 ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "圆柱可以立着放，也可以横着放。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆柱有两个平面和一个曲面，立着放平稳，横着放可滚动。验算：物理形态描述 ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "球体没有平平的面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "球的表面是完全连续的曲面。验算：几何概念验证 ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "长方体和正方体都有 12 条边。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都有 12 条棱。验算：实物数数得 12 ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的辨认",
+      "question": "我们的数学书是什么形状？",
+      "options": [
+        "正方形",
+        "长方形",
+        "长方体",
+        "正方体"
+      ],
+      "answer": "长方体",
+      "explanation": "数学书有厚度，是由 6 个面组成的立体图形，是长方体。注意不要误选平面图形长方形。验算：立体 vs 平面辨析 ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "下面哪种物体可以向四周任意方向滚动？",
+      "options": [
+        "圆柱",
+        "球",
+        "长方体",
+        "正方体"
+      ],
+      "answer": "球",
+      "explanation": "球没有棱角，曲面全对称。验算：滚动方向分析 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "把圆柱横着放，它会怎么运动？",
+      "options": [
+        "滑动",
+        "滚动",
+        "静止不动",
+        "跳动"
+      ],
+      "answer": "滚动",
+      "explanation": "横着放时接触面是曲面，会滚动。验算：受力滚动特征 ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的辨认",
+      "question": "正方体的 6 个面：",
+      "options": [
+        "都不一样大",
+        "有 2 个面一样大",
+        "有 4 个面一样大",
+        "都一样大"
+      ],
+      "answer": "都一样大",
+      "explanation": "正方体特征：6 个面都是大小相同的正方形。验算：定义核对 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "两个长方体拼在一起，最少有几个面露在外面？",
+      "options": [
+        "6 个",
+        "8 个",
+        "10 个",
+        "12 个"
+      ],
+      "answer": "10 个",
+      "explanation": "两个长方体各 6 面，共 12 面。拼在一起时，有两个面重合被遮住。$12 - 2 = 10$。验算：$6 \times 2 - 2 = 10$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "从一个长方体木块上切下一个角，剩下的木块最少有几个面？",
+      "options": [
+        "6 个",
+        "7 个",
+        "5 个",
+        "8 个"
+      ],
+      "answer": "7 个",
+      "explanation": "切掉一个角会由于切痕多出一个面。$6 + 1 = 7$。验算：切削操作空间想象 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "把一个球切成两半，切开的面是什么形状？",
+      "options": [
+        "正方形",
+        "长方形",
+        "圆形",
+        "三角形"
+      ],
+      "answer": "圆形",
+      "explanation": "球的剖面永远是圆形。验算：几何切面分析 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的辨认",
+      "question": "哪种图形的面都是平平的？",
+      "options": [
+        "球",
+        "圆柱",
+        "长方体",
+        "以上都是"
+      ],
+      "answer": "长方体",
+      "explanation": "球是曲面，圆柱有曲面，只有长方体 6 面皆平。验算：排除法 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的辨认",
+      "question": "一间教室有 4 个角，每个角放 1 个球，一共需要 ___ 个球。",
+      "options": [],
+      "answer": "4",
+      "explanation": "列式：$1 \times 4 = 4$（个）。验算：$4 \times 1 = 4$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "把 2 个正方体拼成一个长方体。原本两个正方体一共有 12 个面，拼成后消失了 ___ 个面。",
+      "options": [],
+      "answer": "2",
+      "explanation": "两个面靠在一起，这两个面就都在图形内部不可见了。列式：$消失数量 = 2$。验算：拼成后剩下 $12 - 2 = 10$ 个外部面 ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的拼搭与组合",
+      "question": "计算：$8 + 8 + 8 = ?$",
+      "options": [],
+      "answer": "24",
+      "explanation": "$8 + 8 = 16$，$16 + 8 = 24$。验算：$24 \times 1 = 24$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

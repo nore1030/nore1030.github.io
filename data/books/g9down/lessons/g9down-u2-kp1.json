@@ -1,0 +1,52 @@
+{
+  "id": "g9down-u2-kp1",
+  "title": "比例线段与相似三角形判定",
+  "bookId": "g9down",
+  "unitNumber": 2,
+  "unitTitle": "相似",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比例线段与相似三角形判定",
+      "question": "若 $\\frac ab=\\frac23$，则 $\\frac{a+b}{b}=$（　）",
+      "options": [
+        "$\\frac23$",
+        "$\\frac53$",
+        "$\\frac32$",
+        "$\\frac25$"
+      ],
+      "answer": "$\\frac53$",
+      "explanation": "$\\frac ab+1=\\frac53$。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比例线段与相似三角形判定",
+      "question": "判定两个三角形相似的常用方法是（　）",
+      "options": [
+        "SSA",
+        "AAA",
+        "两角对应相等",
+        "一边成比例"
+      ],
+      "answer": "两角对应相等",
+      "explanation": "AA 判定。"
+    }
+  ],
+  "knowledge": {
+    "point": "比例线段与相似三角形判定",
+    "core_concept": "平行于三角形一边的直线截其他两边，所得三角形与原三角形相似；两角对应相等、两边成比例且夹角相等、三边成比例都可判定相似。",
+    "key_formula": "两角对应相等 ⇒ 相似",
+    "common_mistakes": [
+      "把“夹角”写成“对角”。"
+    ],
+    "tips": "AA 是最常用的判定。"
+  }
+}

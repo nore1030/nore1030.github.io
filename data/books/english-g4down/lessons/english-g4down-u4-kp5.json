@@ -1,0 +1,39 @@
+{
+  "id": "english-g4down-u4-kp5",
+  "title": "这些是什么",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "这些是什么",
+      "question": "What are _______?",
+      "options": [
+        "this",
+        "that",
+        "these",
+        "it"
+      ],
+      "answer": "these",
+      "explanation": "are是be动词复数形式，主语也需用复数代词。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "这些是什么",
+      "question": "What ___ these?",
+      "options": [],
+      "answer": "are",
+      "explanation": "these是复数主语，be动词用are。"
+    }
+  ],
+  "knowledge": null
+}

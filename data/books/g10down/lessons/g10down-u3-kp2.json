@@ -1,0 +1,47 @@
+{
+  "id": "g10down-u3-kp2",
+  "title": "空间点、线、面的位置关系",
+  "bookId": "g10down",
+  "unitNumber": 3,
+  "unitTitle": "立体几何初步",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "空间点、线、面的位置关系",
+      "question": "若直线垂直于平面内两条相交直线，则该直线垂直于该平面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "线面垂直判定。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间点、线、面的位置关系",
+      "question": "两条异面直线是指（　）",
+      "options": [
+        "不同在任何一个平面内的两条直线",
+        "不平行的两条直线",
+        "不相交的两条直线",
+        "分别在两个平面内的两条直线"
+      ],
+      "answer": "不同在任何一个平面内的两条直线",
+      "explanation": "异面直线定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "空间点、线、面的位置关系",
+    "core_concept": "直线与平面平行的判定：平面外一条直线与平面内一条直线平行，则该直线与平面平行。线面垂直的判定：直线垂直于平面内两条相交直线。",
+    "key_formula": "线线平行 ⇒ 线面平行",
+    "common_mistakes": [
+      "忽略“相交直线”这一条件。"
+    ],
+    "tips": "垂直判定要两条相交直线。"
+  }
+}

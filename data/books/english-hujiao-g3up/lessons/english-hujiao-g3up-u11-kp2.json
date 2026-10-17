@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u11-kp2",
+  "title": "表达拥有 I have a…",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 11,
+  "unitTitle": "Module 4 The world around us — Small animals 小动物",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达拥有 I have a…",
+      "question": "「我有一只小鸟。」的英文是（　）",
+      "options": [
+        "I have a bird.",
+        "I have bird.",
+        "I has a bird.",
+        "I have a birds."
+      ],
+      "answer": "I have a bird.",
+      "explanation": "单数前加 a。"
+    }
+  ],
+  "knowledge": {
+    "point": "表达拥有 I have a…",
+    "core_concept": "表达拥有用 I have a / an…；复数 I have two…",
+    "key_formula": "I have a bird. / I have two rabbits.",
+    "common_mistakes": [
+      "I have a birds.（×）"
+    ],
+    "tips": "数量大于 1 名词用复数。"
+  }
+}

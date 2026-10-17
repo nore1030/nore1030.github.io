@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g2down-u7-kp7",
+  "title": "应用题",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 6,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "应用题",
+      "question": "《青蛙卖泥塘》中，小牛给青蛙的建议是：",
+      "options": [
+        "栽一些树",
+        "修一条路",
+        "种一些草",
+        "盖一栋房"
+      ],
+      "answer": "种一些草",
+      "explanation": "小牛认为如果泥塘周围有草就好了。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "应用题",
+      "question": "蜘蛛开店最后想卖什么？",
+      "options": [
+        "口罩",
+        "围巾",
+        "袜子",
+        "帽子"
+      ],
+      "answer": "袜子",
+      "explanation": "蜘蛛最后挂的招牌是“袜子店”。"
+    }
+  ],
+  "knowledge": null
+}

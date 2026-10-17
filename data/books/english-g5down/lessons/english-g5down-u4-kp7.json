@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp7",
+  "title": "介词的使用",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "介词的使用",
+      "question": "在描述具体的日期时，如 'on May 4th'，应该使用介词 on。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在具体的某一天前要用介词on。"
+    }
+  ],
+  "knowledge": null
+}

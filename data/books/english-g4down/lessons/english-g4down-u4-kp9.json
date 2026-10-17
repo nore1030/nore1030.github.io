@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp9",
+  "title": "指代远处的物体",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指代远处的物体",
+      "question": "Are ________ cows? Yes, they are.",
+      "options": [
+        "this",
+        "that",
+        "those",
+        "me"
+      ],
+      "answer": "those",
+      "explanation": "cows是复数，主语需对应复数形式those。"
+    }
+  ],
+  "knowledge": null
+}

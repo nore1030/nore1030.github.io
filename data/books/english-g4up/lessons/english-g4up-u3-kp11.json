@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp11",
+  "title": "have/has动词用法",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "have/has动词用法",
+      "question": "He ______ short hair and big eyes.",
+      "options": [
+        "have",
+        "is",
+        "has",
+        "are"
+      ],
+      "answer": "has",
+      "explanation": "主语是He，表示“拥有”某特征时谓语动词用has。"
+    }
+  ],
+  "knowledge": null
+}

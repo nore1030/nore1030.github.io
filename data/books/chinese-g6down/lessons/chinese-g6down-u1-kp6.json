@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u1-kp6",
+  "title": "词语积累与民俗理解",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语积累与民俗理解",
+      "question": "请将寓意与其对应的习俗或食物连线。",
+      "options": [
+        "年年有余",
+        "步步高升",
+        "团团圆圆",
+        "吉祥如意",
+        "吃饺子",
+        "吃元宵",
+        "吃年糕",
+        "吃鱼"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "鱼谐音余，年糕寓意步步高，元宵象征团圆，饺子形似元宝象征吉祥。"
+    }
+  ],
+  "knowledge": null
+}

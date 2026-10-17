@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8up-u2-kp2",
+  "title": "中国的经济发展",
+  "bookId": "geography-g8up",
+  "unitNumber": 2,
+  "unitTitle": "中国的自然资源与经济发展",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中国的经济发展",
+      "question": "我国南方与北方农业的分界线大致是（　）",
+      "options": [
+        "长江",
+        "黄河",
+        "秦岭—淮河",
+        "南岭"
+      ],
+      "answer": "秦岭—淮河",
+      "explanation": "秦岭—淮河是重要地理分界线。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的经济发展",
+      "question": "我国形成“南稻北麦”的农业格局。",
+      "options": [],
+      "answer": "对",
+      "explanation": "南稻北麦。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国的经济发展",
+    "core_concept": "农业以秦岭—淮河为界分为南方水田农业与北方旱地农业，形成“南稻北麦”格局。工业基地集中在沿海与沿江地区。铁路干线有京广线、京沪线等。",
+    "key_formula": "秦岭—淮河线",
+    "common_mistakes": [
+      "把南北方农业类型记反。"
+    ],
+    "tips": "南稻北麦、南水田北旱地。"
+  }
+}

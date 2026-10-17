@@ -1,0 +1,46 @@
+{
+  "id": "chinese-g1down-u8-kp13",
+  "title": "句式结构",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 12,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式结构",
+      "question": "把这些词语连成一句话。",
+      "options": [
+        "小鱼",
+        "摇着",
+        "尾巴",
+        "在水里",
+        "悠闲地"
+      ],
+      "answer": "小鱼,在水里,摇着,尾巴,悠闲地",
+      "explanation": "主+状+谓+宾的句式。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句式结构",
+      "question": "把词语排列成一句赞美的话。",
+      "options": [
+        "七星瓢虫",
+        "真是",
+        "一位",
+        "了不起的",
+        "医生"
+      ],
+      "answer": "七星瓢虫,真是,一位,了不起的,医生",
+      "explanation": "按感叹句的逻辑顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

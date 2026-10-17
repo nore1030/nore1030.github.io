@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp7",
+  "title": "多音字读音选择",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音选择",
+      "question": "“望着窗外，我兴（ ）奋地叫了起来。”括号里应填：",
+      "options": [
+        "xīng",
+        "xìng",
+        "xīn",
+        "xìn"
+      ],
+      "answer": "xīng",
+      "explanation": "兴奋（xīng fèn）表示振奋。高兴时读作第四声。"
+    }
+  ],
+  "knowledge": null
+}

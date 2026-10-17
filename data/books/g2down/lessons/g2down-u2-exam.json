@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 2,
+  "unitTitle": "表内除法（一）",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "把12个圆圈分成3份，每份一定是4个。",
+      "options": [],
+      "answer": "错",
+      "explanation": "没有说明是“平均分”，分成的3份可能是2、2、8，不一定是4。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "$10 \\div 2 = 5$ 表示把10平均分成2份，每份是5。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是除法算式中“等分”含义的正确表述。验算：$2 \\times 5 = 10$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "所有的乘法口诀都可以写出两个除法算式。",
+      "options": [],
+      "answer": "错",
+      "explanation": "像“二二得四”、“三三得九”等两个乘数相同的口诀只能写出一个除法算式。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "$6 \\div 3 = 2$ 可以表示6里面有2个3。",
+      "options": [],
+      "answer": "对",
+      "explanation": "除法可以表示一个数里包含几个另一个数。$6 \\div 3 = 2$ 表示6里有2个3。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法各部分名称",
+      "question": "除数是2，商是6，被除数是：",
+      "options": [
+        "3",
+        "8",
+        "12",
+        "4"
+      ],
+      "answer": "12",
+      "explanation": "被除数 = 商 $\\times$ 除数。$6 \\times 2 = 12$。验算：$12 \\div 2 = 6$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "把15平均分成3份，每份是多少？列式为：",
+      "options": [
+        "$15-3$",
+        "$15 \\div 3$",
+        "$15 \\times 3$",
+        "$15+3$"
+      ],
+      "answer": "$15 \\div 3$",
+      "explanation": "考查平均分的除法算式表示方法。求每份是多少用除号。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "商店有24个气球，每4个扎成一束，可以扎成几束？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "求24里面有几个4：$24 \\div 4 = 6$。验算：$6 \\times 4 = 24$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "1个小桶可以装5升水，25升水需要几个这样的小桶？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "列式：$25 \\div 5 = 5$。验算：$5 \\times 5 = 25$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "已知 $\\triangle + \\triangle + \\triangle = 12$，且 $\\triangle \\times \\Box = 20$，那么 $\\Box$ 是几？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "由3个三角形相加等于12知 $\\triangle = 12 \\div 3 = 4$。代入第二个算式 $4 \\times \\Box = 20$，则 $\\Box = 20 \\div 4 = 5$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平均分的含义与判断",
+      "question": "一叠纸不到20张，平均分给3个孩子或平均分给5个孩子，都正好分完。这叠纸有多少张？",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "10"
+      ],
+      "answer": "15",
+      "explanation": "数量既是3的倍数又是5的倍数且小于20。只有15满足 condition。验算：$15 \\div 3 = 5$, $15 \\div 5 = 3$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "把20个苹果分给小明和他的4个同学，平均每人分几个？",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": "4",
+      "explanation": "总人数是 $1 + 4 = 5$ 人。列式：$20 \\div 5 = 4$。验算：$4 \\times 5 = 20$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "计算 $4 \\times \\Box = 24$ 时，$\\Box$ 应该是：",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "24"
+      ],
+      "answer": "6",
+      "explanation": "求乘法中的一个因数用除法：$24 \\div 4 = 6$。想：四六二十四。验算正确。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "一根跳绳长3米，12米长的绳子可以剪成 ___ 根跳绳。",
+      "options": [],
+      "answer": "4",
+      "explanation": "列式：$12 \\div 3 = 4$。验算：$4 \\times 3 = 12$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "老师有18个练习本，平均分给一些小朋友，每个小朋友分3本，可以分给 ___ 个小朋友。",
+      "options": [],
+      "answer": "6",
+      "explanation": "列式：$18 \\div 3 = 6$。验算：$6 \\times 3 = 18$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "$16 \\div 2 = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "想：二八十六。商为8。验算：$8 \\times 2 = 16$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

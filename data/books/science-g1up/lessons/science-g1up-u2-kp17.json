@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp17",
+  "title": "植物分类",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物分类",
+      "question": "下列哪种植物生长在水里？",
+      "options": [
+        "向日葵",
+        "凤仙花",
+        "睡莲",
+        "松树"
+      ],
+      "answer": "睡莲",
+      "explanation": "睡莲属于水生植物。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": "g1up-u5-kp1",
+  "title": "6~10各数的认识与组成",
+  "bookId": "g1up",
+  "unitNumber": 5,
+  "unitTitle": "6~10的认识和加减法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "在 6，7，8，9，10 这五个数中，最小的一个数是 6。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在数序中，按从小到大的顺序排是6,7,8,9,10。排在最前面的6最小。验算：6 < 7 < 8 < 9 < 10。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "把 10 个苹果分成两堆，如果一边放 4 个，另一边应该放 5 个。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据10的组成，10可以分成4和6。验算：$4 + 5 = 9$，不等于10。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "和 8 相邻的两个数是哪个选项？",
+      "options": [
+        "7 和 9",
+        "6 和 7",
+        "9 和 10",
+        "5 和 6"
+      ],
+      "answer": "7 和 9",
+      "explanation": "相邻数是指比当前数小1和多1的数。$8 - 1 = 7$，$8 + 1 = 9$。因此是7和9。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "数字 9 可以分成 4 和几？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "根据9的组成，9可以分成4和5。验算：$4 + 5 = 9$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "下面符号填写正确的是：$7 ___ 10$。",
+      "options": [
+        ">",
+        "<",
+        " =",
+        "+"
+      ],
+      "answer": "<",
+      "explanation": "在数序中7排在10的前面，所以 7 小于 10。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "从 1 数到 10，第 7 个数后面的一位数是哪个？",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "第7个数是7，它后面紧跟着的数是8。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "下列哪个数比 8 大且比 10 小？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "answer": "9",
+      "explanation": "在数序 8, 9, 10 中，9 刚好在 8 和 10 之间。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "10 可以分成 2 和 ___。",
+      "options": [],
+      "answer": "8",
+      "explanation": "根据10的组成，2和8合成10。验算：$2 + 8 = 10$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10各数的认识与组成",
+      "question": "7 后面紧邻的一个数是 ___。",
+      "options": [],
+      "answer": "8",
+      "explanation": "按数序排，7之后是8。验算：$7 + 1 = 8$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "6~10各数的认识与组成",
+    "core_concept": "掌握6-10各数的基数含义（表示几个）和序数含义（表示第几个）。重点学习各数的组成与分解（分与合），特别是10的组成（凑十法的基石），如：1和9，2和8，3和7，4和6，5和5。",
+    "key_formula": "数序：$0<1<2<3<4<5<6<7<8<9<10$",
+    "common_mistakes": [
+      "容易混淆“几”和“第几”，例如把第7个数当成总共7个。",
+      "在写数字8或9时笔顺错误，或者在写10时漏掉0。"
+    ],
+    "tips": "可以通过手指操来记忆10的组成，比如伸出双手，弯下一根手指剩下九根，就是1和9组成10。"
+  }
+}

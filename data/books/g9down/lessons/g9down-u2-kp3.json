@@ -1,0 +1,36 @@
+{
+  "id": "g9down-u2-kp3",
+  "title": "位似",
+  "bookId": "g9down",
+  "unitNumber": 2,
+  "unitTitle": "相似",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "位似",
+      "question": "位似图形的对应点连线（　）",
+      "options": [
+        "平行",
+        "交于一点",
+        "垂直",
+        "无法确定"
+      ],
+      "answer": "交于一点",
+      "explanation": "位似中心定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "位似",
+    "core_concept": "位似图形是相似图形，对应点连线交于一点（位似中心）。以原点为位似中心、相似比为 $k$ 时，对应点坐标为原来的 $k$ 倍或 $-k$ 倍。",
+    "key_formula": "$(x,y)\\to(kx,ky)$",
+    "common_mistakes": [
+      "忽略 $-k$ 的情形。"
+    ],
+    "tips": "注意位似中心两侧各有一解。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp6",
+  "title": "家庭成员关系",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 2,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员关系",
+      "question": "'aunt' 是你爸爸的妹妹或姐姐。",
+      "options": [],
+      "answer": "对",
+      "explanation": "aunt 可指姑妈、姨妈、婶婶或舅妈。"
+    }
+  ],
+  "knowledge": null
+}

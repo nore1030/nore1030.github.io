@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp17",
+  "title": "传粉过程",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传粉过程",
+      "question": "为了让花结出果实，花粉必须落在（）上。",
+      "options": [
+        "花瓣",
+        "花丝",
+        "雌蕊柱头",
+        "花萼"
+      ],
+      "answer": "雌蕊柱头",
+      "explanation": "花粉落到雌蕊柱头上的过程叫传粉，是结果的前提。"
+    }
+  ],
+  "knowledge": null
+}

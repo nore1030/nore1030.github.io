@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp17",
+  "title": "综合理解",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合理解",
+      "question": "Today is Monday. Tomorrow is the ______ day of the week.",
+      "options": [
+        "second",
+        "three",
+        "third",
+        "two"
+      ],
+      "answer": "third",
+      "explanation": "周日是第一天，周一是第二天，周二（明天）是第三天third。"
+    }
+  ],
+  "knowledge": null
+}

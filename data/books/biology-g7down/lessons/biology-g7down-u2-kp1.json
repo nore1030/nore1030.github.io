@@ -1,0 +1,63 @@
+{
+  "id": "biology-g7down-u2-kp1",
+  "title": "呼吸系统与血液循环",
+  "bookId": "biology-g7down",
+  "unitNumber": 2,
+  "unitTitle": "人体的呼吸与循环",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "呼吸系统与血液循环",
+      "question": "血液中运输氧气的成分是（　）",
+      "options": [
+        "血浆",
+        "红细胞",
+        "白细胞",
+        "血小板"
+      ],
+      "answer": "红细胞",
+      "explanation": "红细胞含血红蛋白。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "呼吸系统与血液循环",
+      "question": "体循环的起点是（　）",
+      "options": [
+        "左心室",
+        "右心室",
+        "左心房",
+        "右心房"
+      ],
+      "answer": "左心室",
+      "explanation": "体循环起于左心室。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "呼吸系统与血液循环",
+      "question": "肺动脉中流的是静脉血。",
+      "options": [],
+      "answer": "对",
+      "explanation": "肺动脉流静脉血。"
+    }
+  ],
+  "knowledge": {
+    "point": "呼吸系统与血液循环",
+    "core_concept": "呼吸系统由呼吸道和肺组成，肺泡适于气体交换。血液由血浆和血细胞组成，红细胞含血红蛋白运输氧气。血液循环分体循环与肺循环。",
+    "key_formula": "体循环：左心室→主动脉→…→右心房",
+    "common_mistakes": [
+      "认为动脉里一定流动脉血。"
+    ],
+    "tips": "肺动脉里流静脉血。"
+  }
+}

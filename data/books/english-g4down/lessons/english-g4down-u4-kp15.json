@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u4-kp15",
+  "title": "蔬菜词汇",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 13,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蔬菜词汇",
+      "question": "They are long and green. They are green ___.",
+      "options": [],
+      "answer": "beans",
+      "explanation": "豆角是长且绿色的蔬菜。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g10down-u1-kp1",
+  "title": "古诗词鉴赏",
+  "bookId": "chinese-g10down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与文学创作",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "鉴赏古诗词首先要（　）",
+      "options": [
+        "抓住意象把握意境",
+        "数一数有多少句",
+        "查作者生平",
+        "看有没有典故"
+      ],
+      "answer": "抓住意象把握意境",
+      "explanation": "意象是鉴赏切入点。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "古诗词鉴赏必须结合全诗语境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结合语境。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗词鉴赏",
+    "core_concept": "鉴赏要从意象入手，结合全诗把握意境，品味语言的表现力，体会作者情感。",
+    "key_formula": "意象 + 意境 + 情感 + 语言",
+    "common_mistakes": [
+      "脱离文本套用情感。"
+    ],
+    "tips": "一切景语皆情语。"
+  }
+}

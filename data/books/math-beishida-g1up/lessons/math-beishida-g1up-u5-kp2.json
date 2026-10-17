@@ -1,0 +1,36 @@
+{
+  "id": "math-beishida-g1up-u5-kp2",
+  "title": "左右",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 5,
+  "unitTitle": "位置与顺序",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "左右",
+      "question": "通常我们写字的手是（　）",
+      "options": [
+        "右手",
+        "左手",
+        "两只手",
+        "不一定"
+      ],
+      "answer": "右手",
+      "explanation": "大多数人右手写字。"
+    }
+  ],
+  "knowledge": {
+    "point": "左右",
+    "core_concept": "通常写字的手是右手，另一端是左手；左右也是相对的，会随面向改变。",
+    "key_formula": "左 / 右",
+    "common_mistakes": [
+      "以为左右永远固定。"
+    ],
+    "tips": "左右会随方向变。"
+  }
+}

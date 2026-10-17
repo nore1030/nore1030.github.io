@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u8-kp19",
+  "title": "人物与作品配对",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物与作品配对",
+      "question": "请将下列童话人物与其对应的作品连起来。",
+      "options": [
+        "王葆",
+        "小人鱼",
+        "自私的巨人",
+        "稻草人",
+        "《巨人的花园》",
+        "《海的女儿》",
+        "《宝葫芦的秘密》",
+        "《稻草人》"
+      ],
+      "answer": "A-3,B-2,C-1,D-4",
+      "explanation": "考查学生对本单元及课外必读童话的掌握。"
+    }
+  ],
+  "knowledge": null
+}

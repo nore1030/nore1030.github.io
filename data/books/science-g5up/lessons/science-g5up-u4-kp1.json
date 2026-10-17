@@ -1,0 +1,55 @@
+{
+  "id": "science-g5up-u4-kp1",
+  "title": "体质监测与BMI计算",
+  "bookId": "science-g5up",
+  "unitNumber": 4,
+  "unitTitle": "健康生活",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "体质监测与BMI计算",
+      "question": "BMI指数只与体重有关，与身高无关。",
+      "options": [],
+      "answer": "错",
+      "explanation": "BMI的计算公式是重量(kg)除以身高(m)的平方。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "体质监测与BMI计算",
+      "question": "某同学身高1.5米，体重45千克，他的BMI数值大约是？",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "20",
+      "explanation": "45除以(1.5x1.5)=45/2.25=20。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体质监测与BMI计算",
+      "question": "评价身体体质健康状况时，除了身高体重，还要看？",
+      "options": [
+        "肺活量",
+        "握力",
+        "50米跑成绩",
+        "以上都是"
+      ],
+      "answer": "以上都是",
+      "explanation": "体质健康监测是综合性的评价。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "moral-g1down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g1down",
+  "unitNumber": 2,
+  "unitTitle": "我与大家",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诚实守信",
+      "question": "下面哪种表现是诚实的（　）",
+      "options": [
+        "考试偷看",
+        "捡到东西交给老师",
+        "撒谎请假",
+        "抄别人作业"
+      ],
+      "answer": "捡到东西交给老师",
+      "explanation": "拾金不昧是诚实的表现。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分享与合作",
+      "question": "小组合作时要听取大家的意见。",
+      "options": [],
+      "answer": "对",
+      "explanation": "合作要听取意见。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分享与合作",
+      "question": "别人不愿分享时，你应该（　）",
+      "options": [
+        "强行拿走",
+        "礼貌沟通",
+        "生气不理人",
+        "抢过来"
+      ],
+      "answer": "礼貌沟通",
+      "explanation": "要礼貌沟通，不强求。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "诚实守信",
+      "question": "说谎可能会失去别人的信任。",
+      "options": [],
+      "answer": "对",
+      "explanation": "说谎会失去信任。"
+    }
+  ],
+  "knowledge": null
+}

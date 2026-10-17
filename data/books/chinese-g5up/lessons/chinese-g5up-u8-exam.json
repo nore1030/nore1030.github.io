@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g5up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 8,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "文言文读书观点的领悟",
+      "question": "文言文中‘敏’字通常指动作迅速，在‘敏而好学’中指思维敏捷。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这里的敏反映的是才智敏捷。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书籍推荐策略",
+      "question": "推荐一本书时，只要写出书名和作者就可以了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "推荐应包含内容概要、精彩片段及推荐理由。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "群文阅读与书籍推荐策略",
+      "question": "在进行群文阅读时，我们应该寻找不同书籍之间在主题或写法上的关联。",
+      "options": [],
+      "answer": "对",
+      "explanation": "群文阅读的核心是议题式学习，即寻找关联。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文言文读书观点的领悟",
+      "question": "‘悔人不倦’的意思是告诉别人不要感到疲倦。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是“诲”，意为教导。诲人不倦指教导人家不嫌疲倦。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "群文阅读与书籍推荐策略",
+      "question": "小明想向同学推荐《小王子》，以下最有说服力的理由是？",
+      "options": [
+        "这本书是我妈妈给我买的。",
+        "这本书已经在全球卖了很多册。",
+        "它通过唯美的故事告诉我们爱与责任的真谛。",
+        "我已经在两天之内把它读完了。"
+      ],
+      "answer": "它通过唯美的故事告诉我们爱与责任的真谛。",
+      "explanation": "深刻的主题内涵具有更强的推荐价值。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "楷书结构特征赏析",
+      "question": "关于学习书法，下列说法最准确的是？",
+      "options": [
+        "只追求速度，写得快就是写得好。",
+        "书法只需要天赋，不需要刻苦练习。",
+        "临摹欧体字要感受其方整和险峻的结构。",
+        "现在的字都有电脑字体，不需要练书法。"
+      ],
+      "answer": "临摹欧体字要感受其方整和险峻的结构。",
+      "explanation": "了解字体的间架结构特点是书法学习的核心。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "群文阅读与书籍推荐策略",
+      "question": "在读书报告会上，老师建议大家采用由点到面的方式阅读。这里的“点”指什么？",
+      "options": [
+        "每一个字",
+        "书里的插图",
+        "一本经典书籍或一个感点",
+        "标点符号"
+      ],
+      "answer": "一本经典书籍或一个感点",
+      "explanation": "“点”是由点及面阅读法中的起始书籍或话题。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "‘学如逆水行舟，不进则退。’这句名言告诫我们读书要？",
+      "options": [
+        "追求速度",
+        "持之以恒",
+        "随遇而安",
+        "学会放弃"
+      ],
+      "answer": "持之以恒",
+      "explanation": "比喻学习要不断努力，一旦停止就会退步。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文读书观点的领悟",
+      "question": "《论语》中提到的‘默而识之’的‘识’正确读音是？",
+      "options": [
+        "shí",
+        "shì",
+        "zhì",
+        "zhí"
+      ],
+      "answer": "zhì",
+      "explanation": "在“识之”中读zhì，志也，意为记住。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘难道我们不应该像古人那样勤奋读书吗？’这句话是什么句式？",
+      "options": [
+        "陈述句",
+        "感叹句",
+        "反问句",
+        "设问句"
+      ],
+      "answer": "反问句",
+      "explanation": "用疑问的形式表达肯定的意思，带有“难道……不……吗”。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文读书观点的领悟",
+      "question": "孔子说，‘（___）而不厌，诲人不倦’。",
+      "options": [],
+      "answer": "学",
+      "explanation": "考查《小节》中的名句，表达学习不倦。答“学”或“学”均正确。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "楷书结构特征赏析",
+      "question": "欧阳询的楷书以（___）、严谨著称。",
+      "options": [],
+      "answer": "方整",
+      "explanation": "课文描述欧阳询字形的特点词语。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文实词匹配",
+      "question": "请将文言文中的字与其在《古人谈读书》中的意思对应。",
+      "options": [
+        "敏",
+        "识",
+        "厌",
+        "急",
+        "记住",
+        "满足",
+        "勤勉",
+        "要紧"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "敏-勤勉，识-记住，厌-满足，急-要紧。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课内外书籍匹配",
+      "question": "请将书籍题目与其中的主要故事进行匹配。",
+      "options": [
+        "《西游记》",
+        "《草房子》",
+        "《城南旧事》",
+        "《水浒传》",
+        "桑桑的故事",
+        "大闹天宫",
+        "景阳冈打虎",
+        "冬阳童年骆驼队"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "西游记-大闹天宫，草房子-桑桑，城南旧事-骆驼队，水浒传-打虎。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语排序",
+      "question": "请根据朱熹的观点排成一句话。",
+      "options": [
+        "三到之中",
+        "最急",
+        "心到",
+        "谓"
+      ],
+      "answer": "谓,三到之中,心到,最急",
+      "explanation": "出自朱熹《训学斋规》，强调心到的重要性。"
+    }
+  ],
+  "knowledge": null
+}

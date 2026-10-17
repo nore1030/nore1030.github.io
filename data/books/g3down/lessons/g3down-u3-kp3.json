@@ -1,0 +1,209 @@
+{
+  "id": "g3down-u3-kp3",
+  "title": "从复式统计表中获取并分析信息",
+  "bookId": "g3down",
+  "unitNumber": 3,
+  "unitTitle": "复式统计表",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "在复式统计表中，只能横着看数据，不能竖着看数据。",
+      "options": [],
+      "answer": "错",
+      "explanation": "复式统计表既可以横向看同一个项目的不同情况，也可以纵向看同一个类别的不同项目。✓"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "复式统计表比单式统计表更容易进行多组数据的对比分析。",
+      "options": [],
+      "answer": "对",
+      "explanation": "由于数据集中在同一张表中，对比不同类别的数据更加直观。✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "已知三年级男生成绩优的有15人，女生成绩优的有12人，优的总人数是（  ）人。",
+      "options": [
+        "27",
+        "15",
+        "12",
+        "3"
+      ],
+      "answer": "27",
+      "explanation": "$15 + 12 = 27$。验算：$27 - 12 = 15$。✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "如果统计表里第一排是“男生”，第二排是“女生”，那么横向对比可以发现（  ）。",
+      "options": [
+        "同性别差异",
+        "男女生差异",
+        "总人数情况",
+        "天气情况"
+      ],
+      "answer": "男女生差异",
+      "explanation": "横向查看不同行（男生行与女生行）可以对比男女生之间的差异。✓"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "小明统计了两个小组的视力。第一组近视2人，第二组近视5人。哪一组的视力情况较好？",
+      "options": [
+        "第一组",
+        "第二组",
+        "一样好",
+        "无法判断"
+      ],
+      "answer": "第一组",
+      "explanation": "近视人数少的小组视力情况相对较好，$2 < 5$，故第一组较好。✓"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "根据统计表，喜欢看动画片的男生25人，女生20人。全班喜欢看动画片的共有（  ）人。",
+      "options": [
+        "45",
+        "5",
+        "50",
+        "40"
+      ],
+      "answer": "45",
+      "explanation": "$25 + 20 = 45$。验算：$45 - 20 = 25$。✓"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "甲班及格人数42人，乙班及格人数45人。哪班及格人数多？",
+      "options": [
+        "甲班",
+        "乙班",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "乙班",
+      "explanation": "$45 > 42$，乙班人数更多。✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "复式统计表横栏表示“项目”，纵栏表示“性别”，交叉处的格子里填的是（  ）。",
+      "options": [
+        "项目名",
+        "性别名",
+        "对应数据",
+        "标题"
+      ],
+      "answer": "对应数据",
+      "explanation": "表格中心区域填写的是行与列交叉点对应的数值。✓"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "男生喜欢踢足球的有18人，女生喜欢踢足球的有2人。喜欢踢足球的总人数是（  ）人。",
+      "options": [
+        "16",
+        "20",
+        "18",
+        "2"
+      ],
+      "answer": "20",
+      "explanation": "$18 + 2 = 20$。验算：$20 - 2 = 18$。✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "一班有40人，二班有42人，两班总人数和80相比，结果是（  ）。",
+      "options": [
+        "正好等于",
+        "比80少",
+        "比80多",
+        "无法确定"
+      ],
+      "answer": "比80多",
+      "explanation": "$40 + 42 = 82$，$82 > 80$，故比80多。✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "若复式统计表中一共有35人，已知男生18人，那么女生有（  ）人。",
+      "options": [
+        "17",
+        "18",
+        "19",
+        "25"
+      ],
+      "answer": "17",
+      "explanation": "$35 - 18 = 17$。验算：$17 + 18 = 35$。✓"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "复式表中显示：男生15人，总人数32人，则女生有 ___ 人。",
+      "options": [],
+      "answer": "17",
+      "explanation": "列式：$32 - 15 = 17$。验算：$17 + 15 = 32$。答：17。✓"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "某班有50人。统计表显示喜欢游泳的22人，剩下的人都喜欢跑步，喜欢跑步的有 ___ 人。",
+      "options": [],
+      "answer": "28",
+      "explanation": "列式：$50 - 22 = 28$。验算：$28 + 22 = 50$。答：28。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "从复式统计表中获取并分析信息",
+    "core_concept": "通过复式统计表，我们可以进行横向比较（看同一行中不同项目的变化）和纵向比较（看同一项目中不同组别的差异）。这有助于发现数据间的变化规律并做简单的决策预测。",
+    "key_formula": "比较规则：先找对应行，再找对应列，交叉点即为目标值",
+    "common_mistakes": [
+      "看错数据行导致比较结论错误",
+      "无法根据数据进行简单的推理建议"
+    ],
+    "tips": "读表时可以用手指辅助，左手按行，右手按列，交叉点就是你要的数据。"
+  }
+}

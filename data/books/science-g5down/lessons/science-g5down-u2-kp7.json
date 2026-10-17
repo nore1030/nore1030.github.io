@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp7",
+  "title": "船的稳定性",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 1,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "船的稳定性",
+      "question": "船身越窄，船在行驶过程中的稳定性就越高。",
+      "options": [],
+      "answer": "错",
+      "explanation": "船身宽大的船排开水量大，重心低，稳定性相对更高。"
+    }
+  ],
+  "knowledge": null
+}

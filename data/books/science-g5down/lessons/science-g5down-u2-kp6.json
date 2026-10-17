@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp6",
+  "title": "船的历史与动力",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 0,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "船的历史与动力",
+      "question": "独木舟是人类历史上最早出现的船只之一。",
+      "options": [],
+      "answer": "对",
+      "explanation": "独木舟由树干挖空制成，是人类最早的航海工具之一。"
+    }
+  ],
+  "knowledge": null
+}

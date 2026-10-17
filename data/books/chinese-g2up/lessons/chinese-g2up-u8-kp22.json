@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2up-u8-kp22",
+  "title": "拟声词配对",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟声词配对",
+      "question": "请将物品与它们发出的声音连线。",
+      "options": [
+        "铜铃",
+        "流水",
+        "开门",
+        "时钟",
+        "吱呀",
+        "滴答",
+        "叮当",
+        "哗啦"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "铜铃叮当，流水哗啦，开门吱呀，时钟滴答。"
+    }
+  ],
+  "knowledge": null
+}

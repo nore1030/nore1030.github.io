@@ -1,0 +1,66 @@
+{
+  "id": "math-zhejiao-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "实数与数轴",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "无理数与实数",
+      "question": "在数轴上，与原点距离为 3 的点有（　）",
+      "options": [
+        "2 个",
+        "1 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "2 个",
+      "explanation": "±3 两点。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "数轴与绝对值",
+      "question": "若 $|a| = 3$，则 $a = $ （　）",
+      "options": [
+        "3",
+        "−3",
+        "±3",
+        "0"
+      ],
+      "answer": "±3",
+      "explanation": "绝对值有 ±。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "无理数与实数",
+      "question": "实数与数轴上的点一一对应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数轴对应。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "数轴与绝对值",
+      "question": "$|a| = a$ 当且仅当 $a \\ge 0$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "去绝对值条件。"
+    }
+  ],
+  "knowledge": null
+}

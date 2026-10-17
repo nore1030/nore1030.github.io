@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g6down-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g6down",
+  "unitNumber": 6,
+  "unitTitle": "难忘小学生活",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "在搜集图片资料时，只要清晰，不需要注明拍摄的时间和地点。",
+      "options": [],
+      "answer": "错",
+      "explanation": "为了资料的严谨性，注明时间、人物、地点是必要的整理工作。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "活动策划书的撰写",
+      "question": "活动策划书的内容可以根据实际执行情况灵活调整。",
+      "options": [],
+      "answer": "对",
+      "explanation": "策划书是活动的指南，但在实际执行中会有动态调整。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "活动策划书的撰写",
+      "question": "制作毕业纪念册的活动不需要写策划书，直接动手做就可以。",
+      "options": [],
+      "answer": "错",
+      "explanation": "大型综合性学习活动通过撰写策划书可以更有条理地开展。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "写毕业赠言时，字数越多说明感情越深厚。",
+      "options": [],
+      "answer": "错",
+      "explanation": "赠言重在情感真挚，而非字数多少。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "活动策划书的撰写",
+      "question": "在策划书中，我们要写清楚活动的“参与对象”，这是为了：",
+      "options": [
+        "统计饭票数量",
+        "明确谁来参加",
+        "知道谁去买菜",
+        "测量学生身高"
+      ],
+      "answer": "明确谁来参加",
+      "explanation": "参与对象确定了活动的服务范围和规模。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "“您的叮咛，像春雨，点点滴滴。您的目光，像星辰，指引方向。”这是写给谁的赠言？",
+      "options": [
+        "体育教练",
+        "我的同学",
+        "亲爱的老师",
+        "邻居阿姨"
+      ],
+      "answer": "亲爱的老师",
+      "explanation": "叮咛、星辰指引等意象通常用来赞美老师的教导和引领。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "王明在给周老师的信中写道：“老师，您是（___）。”填入最生动的是：",
+      "options": [
+        "我的亲戚",
+        "一个教书的",
+        "辛勤的园丁",
+        "很有名的人"
+      ],
+      "answer": "辛勤的园丁",
+      "explanation": "“辛勤的园丁”是比喻老师最常用且高尚的拟法。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "如果要写一个关于“六年级长跑比赛”的栏目，不应放入的材料是：",
+      "options": [
+        "比赛的照片",
+        "当时的奖牌",
+        "数学课的笔记",
+        "观后感小作文"
+      ],
+      "answer": "数学课的笔记",
+      "explanation": "数学笔记属于学科学习范畴，与长跑比赛主题不符。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "读古人送别诗：“莫愁前路无知己，天下谁人不识君。”这句诗充满：",
+      "options": [
+        "忧伤和孤独",
+        "愤怒和不满",
+        "自信和豪迈",
+        "无奈和乞求"
+      ],
+      "answer": "自信和豪迈",
+      "explanation": "这是高适写给董大的送别诗，意境开阔、激励人心。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "活动策划书的撰写",
+      "question": "在策划书的“准备工作”一项中，一般不包含：",
+      "options": [
+        "购买气球",
+        "制作PPT",
+        "练习演讲",
+        "考试总成绩"
+      ],
+      "answer": "考试总成绩",
+      "explanation": "策划书的准备工作是为活动服务的，考试成绩不属于此项。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "制作纪念册的第一步是（___）素材。",
+      "options": [],
+      "answer": "搜集",
+      "explanation": "没有素材无法整理，故第一步是搜集。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "“劝君更尽一杯酒，西出阳关无（___）。”",
+      "options": [],
+      "answer": "故人",
+      "explanation": "王维《送元二使安西》，表达深厚的离别之情。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "将下列不同时期的成长标签进行身份匹配。 ",
+      "options": [
+        "一年级",
+        "三年级",
+        "五年级",
+        "六年级",
+        "戴上红领巾",
+        "学习游泳",
+        "野炊远足",
+        "筹备毕业礼"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "匹配学生在小学不同成长阶段的典型活动。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "将下列赠言内容与其合适的主题对应。",
+      "options": [
+        "同窗情",
+        "师恩深",
+        "母校魂",
+        "家国志",
+        "书山有路勤为径",
+        "为国奋斗向未来",
+        "伴我长大的摇篮",
+        "你是我的好闺蜜"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "匹配不同维度的赠言主题。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "请排列出制作成长纪念册的正当流程。",
+      "options": [
+        "整理资料",
+        "编排成册",
+        "搜集素材",
+        "设计封面"
+      ],
+      "answer": "搜集素材,整理资料,编排成册,设计封面",
+      "explanation": "制作过程需先有素材再进行后期处理。"
+    }
+  ],
+  "knowledge": null
+}

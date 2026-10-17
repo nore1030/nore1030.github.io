@@ -1,0 +1,31 @@
+{
+  "id": "math-beishida-g7up-u1-kp3",
+  "title": "点、线、面、体",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第一章 丰富的图形世界",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "点、线、面、体",
+      "question": "点动成线，线动成面，面动成体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "点线面体的关系。"
+    }
+  ],
+  "knowledge": {
+    "point": "点、线、面、体",
+    "core_concept": "点动成线、线动成面、面动成体；几何体由面围成，面与面相交成线，线与线相交成点。",
+    "key_formula": "点动成线，线动成面，面动成体",
+    "common_mistakes": [
+      "把「点」当成有大小。"
+    ],
+    "tips": "点没有大小，只有位置。"
+  }
+}

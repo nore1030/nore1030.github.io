@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u8-kp2",
+  "title": "表达喜好 I like…",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 8,
+  "unitTitle": "Module 3 Places and activities — At the fruit shop 在水果店",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达喜好 I like…",
+      "question": "「我喜欢苹果。」的英文是（　）",
+      "options": [
+        "I like apples.",
+        "I like apple.",
+        "I likes apples.",
+        "I'm like apples."
+      ],
+      "answer": "I like apples.",
+      "explanation": "泛指用复数。"
+    }
+  ],
+  "knowledge": {
+    "point": "表达喜好 I like…",
+    "core_concept": "表达喜好 I like apples.（喜欢苹果这类，用复数）；单指一个用 I'd like an apple.",
+    "key_formula": "I like apples. / I'd like an apple.",
+    "common_mistakes": [
+      "I like apple.（泛指要复数）"
+    ],
+    "tips": "泛指一类用复数。"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Module 8 Choosing presents 挑选礼物",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "购物句型 How much…?",
+      "question": "「我想买一个礼物。」的英文是（　）",
+      "options": [
+        "I want to buy a present.",
+        "I want buy a present.",
+        "I want to buying a present.",
+        "I want to bought a present."
+      ],
+      "answer": "I want to buy a present.",
+      "explanation": "want to + 原形。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "礼物词汇 present / gift / birthday",
+      "question": "Happy birthday! 是生日祝福。",
+      "options": [],
+      "answer": "对",
+      "explanation": "生日快乐。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "礼物词汇 present / gift / birthday",
+      "question": "「给朋友的礼物」的英文是（　）",
+      "options": [
+        "a present for my friend",
+        "a present to my friend",
+        "a present of my friend",
+        "a present with my friend"
+      ],
+      "answer": "a present for my friend",
+      "explanation": "for 表给谁。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "购物句型 How much…?",
+      "question": "「它们 50 元。」的英文是（　）",
+      "options": [
+        "They're 50 yuan.",
+        "They 50 yuan.",
+        "It's 50 yuan.",
+        "They are 50 yuans."
+      ],
+      "answer": "They're 50 yuan.",
+      "explanation": "复数主语 they。"
+    }
+  ],
+  "knowledge": null
+}

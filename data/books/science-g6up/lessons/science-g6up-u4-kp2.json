@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u4-kp2",
+  "title": "家庭用能调查与节能逻辑",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "下列能源中属于可再生能源的是（）。",
+      "options": [
+        "煤",
+        "石油",
+        "天然气",
+        "风能"
+      ],
+      "answer": "风能",
+      "explanation": "风能可以自然循环再生，化石能源属于不可再生能源。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "一度电（1kW·h）可以供 100 瓦的灯泡正常工作（）小时。",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "0.1"
+      ],
+      "answer": "10",
+      "explanation": "1000瓦时 / 100瓦 = 10小时。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "某电热水壶功率为 2000 瓦，连续工作 30 分钟。该水壶消耗的电能是（）度。",
+      "options": [],
+      "answer": "1",
+      "explanation": "2000瓦 = 2千瓦；30分钟 = 0.5小时；2 * 0.5 = 1度电。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭用能调查与节能逻辑",
+      "question": "1千瓦时电能通俗的说法是（）度电。",
+      "options": [],
+      "answer": "1",
+      "explanation": "1kW·h等于1度电。"
+    }
+  ],
+  "knowledge": null
+}

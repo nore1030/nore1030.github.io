@@ -1,0 +1,116 @@
+{
+  "id": "english-g5up-u6-kp2",
+  "title": "There be 句型的一般疑问句",
+  "bookId": "english-g5up",
+  "unitNumber": 6,
+  "unitTitle": "In a nature park",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "Are there any rivers? 的否定回答可以是 No, there aren't.",
+      "options": [],
+      "answer": "对",
+      "explanation": "复数一般疑问句的标准简略否定回答方式。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "—Is there a river in the park? —_____",
+      "options": [
+        "Yes, there is.",
+        "Yes, there are.",
+        "No, there is.",
+        "No, it isn't."
+      ],
+      "answer": "Yes, there is.",
+      "explanation": "Is there 开头的疑问句，肯定回答用 Yes, there is."
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "—Are there any people here? —No, _____.",
+      "options": [
+        "there is",
+        "there aren't",
+        "there are",
+        "it isn't"
+      ],
+      "answer": "there aren't",
+      "explanation": "否定回答用No, there aren't."
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "_____ there an apple on the table?",
+      "options": [
+        "Am",
+        "Are",
+        "Is",
+        "Be"
+      ],
+      "answer": "Is",
+      "explanation": "apple是单数且以元音音素开头，用Is there an...。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "___ there a lake in the forest?",
+      "options": [],
+      "answer": "is",
+      "explanation": "单数一般疑问句用is开头。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "将下列单词连成句子（注意大小写和标点）：",
+      "options": [
+        "there",
+        "Is",
+        "lake",
+        "a",
+        "?"
+      ],
+      "answer": "Is,there,a,lake,?",
+      "explanation": "一般疑问句：Is there + 物品 + 地点？"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "There be 句型的一般疑问句",
+      "question": "将下列单词连成句子（注意大小写和标点）：",
+      "options": [
+        "any",
+        "ducks",
+        "Are",
+        "there",
+        "?"
+      ],
+      "answer": "Are,there,any,ducks,?",
+      "explanation": "复数一般疑问句：Are there + any + 复数名词？"
+    }
+  ],
+  "knowledge": null
+}

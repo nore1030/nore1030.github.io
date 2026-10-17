@@ -1,0 +1,97 @@
+{
+  "id": "chinese-g2up-u3-kp1",
+  "title": "等量替换的转化思维",
+  "bookId": "chinese-g2up",
+  "unitNumber": 3,
+  "unitTitle": "儿童生活",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "等量替换的转化思维",
+      "question": "曹冲称象时，是用石头来代替大象重量的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "曹冲利用船在水里的刻度，先装象再装石头，石头的总重就等于大象的重量。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "等量替换的转化思维",
+      "question": "《曹冲称象》中，官员们建议砍一棵大树做秤秤象，曹操的态度是：",
+      "options": [
+        "赞成地拍手",
+        "直摇头",
+        "默不作声",
+        "非常生气"
+      ],
+      "answer": "直摇头",
+      "explanation": "原文提到‘曹操听了直摇头’，说明他认为这些办法都行不通。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "等量替换的转化思维",
+      "question": "‘大象到底有多重呢？’这句话中‘到底’的意思是：",
+      "options": [
+        "到达终点",
+        "结果",
+        "究竟",
+        "彻底"
+      ],
+      "answer": "究竟",
+      "explanation": "‘到底’在这里表示深究，询问确定的情况。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "等量替换的转化思维",
+      "question": "下列哪种行为最符合曹冲的观察力？",
+      "options": [
+        "看见水涨高了",
+        "大声哭泣",
+        "询问爸爸",
+        "低头睡觉"
+      ],
+      "answer": "看见水涨高了",
+      "explanation": "曹冲通过观察船下沉和水位的变化来思考排水量的逻辑。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "等量替换的转化思维",
+      "question": "请将描述曹冲称象步骤的词语按正确顺序排列：",
+      "options": [
+        "在大船上",
+        "把大象",
+        "牵到",
+        "刻下",
+        "划线的标记"
+      ],
+      "answer": "把大象,牵到,在大船上,刻下,划线的标记",
+      "explanation": "按照称象的先后逻辑：先把象牵上去，再刻标记。"
+    }
+  ],
+  "knowledge": {
+    "point": "等量替换的转化思维",
+    "core_concept": "通过《曹冲称象》学习面对无法直接测量的庞然大物时，寻找重量相等的替代物（如石头、沙子）进行间接测量。这种思维核心是将复杂或巨大的问题转化为简单、可操作的小部分，体现了中国古代智慧中宏观观察与微观计量的结合。",
+    "key_formula": "物A重量 = 物B重量（当两者产生的外部效果相同时）",
+    "common_mistakes": [
+      "学生可能不明白为什么要画线，误以为线是用来修饰船的",
+      "混淆称重的逻辑顺序，先称石头再赶象"
+    ],
+    "tips": "可以通过在洗澡盆里放小鸭子观察水面升降来实验理解‘排水量’的概念。"
+  }
+}

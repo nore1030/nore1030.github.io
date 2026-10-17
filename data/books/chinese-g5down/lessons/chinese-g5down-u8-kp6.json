@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u8-kp6",
+  "title": "古古诗词识记",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 4,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古古诗词识记",
+      "question": "'草铺横野六七里，笛弄晚风三四声。'描绘的画面是？",
+      "options": [
+        "乡村丰收景象",
+        "牧童归来的悠闲景象",
+        "战士操练的场景",
+        "城市繁华的情景"
+      ],
+      "answer": "牧童归来的悠闲景象",
+      "explanation": "这是本单元诗词中关于童趣、自然的描写。"
+    }
+  ],
+  "knowledge": null
+}

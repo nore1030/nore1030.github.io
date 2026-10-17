@@ -1,0 +1,103 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 了解彼此 / Getting to know each other",
+      "knowledge_points": [
+        {
+          "name": "问候与介绍",
+          "description": "掌握自我介绍与询问个人信息。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "描述外貌与特征",
+          "description": "用形容词描述他人。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-hujiao-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 日常生活 / Daily life",
+      "knowledge_points": [
+        {
+          "name": "一日作息",
+          "description": "描述日常作息安排。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "家务与兴趣",
+          "description": "谈论家务与兴趣爱好。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-hujiao-g8up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-hujiao-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-hujiao-g8up-u1-kp1",
+      "title": "问候与介绍",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 了解彼此 / Getting to know each other",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-hujiao-g8up-u1-kp2",
+      "title": "描述外貌与特征",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 了解彼此 / Getting to know each other",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-hujiao-g8up-u2-kp1",
+      "title": "一日作息",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 日常生活 / Daily life",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-hujiao-g8up-u2-kp2",
+      "title": "家务与兴趣",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 日常生活 / Daily life",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

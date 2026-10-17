@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1up-u1-kp1",
+  "title": "开学了与爱上学",
+  "bookId": "moral-g1up",
+  "unitNumber": 1,
+  "unitTitle": "我是小学生啦",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "开学了与爱上学",
+      "question": "开学第一天，见到老师应该（　）",
+      "options": [
+        "装作没看见",
+        "主动问好",
+        "大声哭闹",
+        "转身跑开"
+      ],
+      "answer": "主动问好",
+      "explanation": "见到老师要主动问好。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "开学了与爱上学",
+      "question": "上学要按时起床，不迟到。",
+      "options": [],
+      "answer": "对",
+      "explanation": "按时起床才能准时上学。"
+    }
+  ],
+  "knowledge": {
+    "point": "开学了与爱上学",
+    "core_concept": "上学第一天要记住校名、班级，学会向老师问好、与同学友好相处。爱上学就要认真听讲、按时完成作业。",
+    "key_formula": "我是小学生",
+    "common_mistakes": [
+      "上课随便走动、说话。"
+    ],
+    "tips": "上课专心，课间文明休息。"
+  }
+}

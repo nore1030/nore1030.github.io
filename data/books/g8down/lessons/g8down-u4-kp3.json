@@ -1,0 +1,42 @@
+{
+  "id": "g8down-u4-kp3",
+  "title": "正比例函数与一次函数的应用",
+  "bookId": "g8down",
+  "unitNumber": 4,
+  "unitTitle": "一次函数",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "正比例函数与一次函数的应用",
+      "question": "正比例函数 $y=kx$ 过点 $(2,8)$，则 $k=$ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$8=2k$，$k=4$。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "正比例函数与一次函数的应用",
+      "question": "某出租车起步价 9 元含 3 公里，超出部分每公里 2 元，行驶 8 公里车费是多少元？",
+      "options": [],
+      "answer": "19",
+      "explanation": "$9+2\\times(8-3)=19$。"
+    }
+  ],
+  "knowledge": {
+    "point": "正比例函数与一次函数的应用",
+    "core_concept": "正比例函数 $y=kx$ 过原点。已知两点可设 $y=kx+b$ 列方程组求 $k$、$b$。",
+    "key_formula": "$y=kx\\ (k\\ne0)$",
+    "common_mistakes": [
+      "求解析式时代入点坐标出错。"
+    ],
+    "tips": "待定系数法：设—代—解—还原。"
+  }
+}

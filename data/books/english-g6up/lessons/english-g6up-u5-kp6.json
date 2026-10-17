@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp6",
+  "title": "动词三单形式",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 2,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动词三单形式",
+      "question": "在询问职业时，'What do he do?' 是正确的表达方式。",
+      "options": [],
+      "answer": "错",
+      "explanation": "当主语是he时，助动词应用does，正确表达为What does he do?"
+    }
+  ],
+  "knowledge": null
+}

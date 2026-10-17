@@ -1,0 +1,66 @@
+{
+  "id": "moral-g2down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们生活的地方",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "爱护公共环境",
+      "question": "节约用水，正确的做法是（　）",
+      "options": [
+        "洗手时一直开着水龙头",
+        "用完水及时关紧龙头",
+        "用自来水玩水枪",
+        "把水倒着玩"
+      ],
+      "answer": "用完水及时关紧龙头",
+      "explanation": "随手关水龙头。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "爱护公共环境",
+      "question": "垃圾分类投放可以保护环境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "垃圾分类有利环保。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "社区与邻里",
+      "question": "在楼道里应该（　）",
+      "options": [
+        "大声喧哗",
+        "轻声慢步不吵闹",
+        "堆放杂物",
+        "跳绳"
+      ],
+      "answer": "轻声慢步不吵闹",
+      "explanation": "楼道要保持安静整洁。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "社区与邻里",
+      "question": "社区里的公共设施要爱护。",
+      "options": [],
+      "answer": "对",
+      "explanation": "爱护公共设施。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp19",
+  "title": "能量转化",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "能量转化",
+      "question": "从小坡上滚下的铁球撞击木块，木块移动一段距离，这证明运动的铁球（___）。",
+      "options": [
+        "有磁性",
+        "有重力",
+        "有能量",
+        "有弹性"
+      ],
+      "answer": "有能量",
+      "explanation": "做功是能量转化的过程，铁球撞击木块移动说明其具有动能。"
+    }
+  ],
+  "knowledge": null
+}

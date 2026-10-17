@@ -1,0 +1,168 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "成长的节拍",
+      "knowledge_points": [
+        {
+          "name": "中学时代与自我认识",
+          "description": "理解中学生活新变化与正确认识自我。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "梦想与学习",
+          "description": "理解梦想的意义与学会学习。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "友谊与师生交往",
+          "description": "理解友谊特质与师生交往。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "moral-g7up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "青春与情绪",
+      "knowledge_points": [
+        {
+          "name": "青春期的变化与调控情绪",
+          "description": "理解青春期身心变化与情绪管理。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "集体与团队意识",
+          "description": "理解集体的力量与建设良好集体。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "moral-g7up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "法律与法治初步",
+      "knowledge_points": [
+        {
+          "name": "法律与生活",
+          "description": "理解法律的特征与作用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "未成年人的法律保护",
+          "description": "了解对未成年人的特殊保护。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "moral-g7up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "moral-g7up",
+  "grade": 7,
+  "semester": "up",
+  "subject": "moral",
+  "lessons": [
+    {
+      "id": "moral-g7up-u1-kp1",
+      "title": "中学时代与自我认识",
+      "unitNumber": 1,
+      "unitTitle": "成长的节拍",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "moral-g7up-u1-kp2",
+      "title": "梦想与学习",
+      "unitNumber": 1,
+      "unitTitle": "成长的节拍",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "moral-g7up-u1-kp3",
+      "title": "友谊与师生交往",
+      "unitNumber": 1,
+      "unitTitle": "成长的节拍",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g7up-u2-kp1",
+      "title": "青春期的变化与调控情绪",
+      "unitNumber": 2,
+      "unitTitle": "青春与情绪",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g7up-u2-kp2",
+      "title": "集体与团队意识",
+      "unitNumber": 2,
+      "unitTitle": "青春与情绪",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g7up-u3-kp1",
+      "title": "法律与生活",
+      "unitNumber": 3,
+      "unitTitle": "法律与法治初步",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g7up-u3-kp2",
+      "title": "未成年人的法律保护",
+      "unitNumber": 3,
+      "unitTitle": "法律与法治初步",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

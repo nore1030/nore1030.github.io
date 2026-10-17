@@ -1,0 +1,50 @@
+{
+  "id": "english-g6down-u4-kp7",
+  "title": "形容词最高级",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "形容词最高级",
+      "question": "the biggest 表示‘最大的’，双写了字母g。",
+      "options": [],
+      "answer": "对",
+      "explanation": "big是重读闭音节单词，最高级需双写末尾辅音字母再加est。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词最高级",
+      "question": "The sun is the ______ star in our system.",
+      "options": [
+        "hot",
+        "hotter",
+        "hottest",
+        "the hottest"
+      ],
+      "answer": "hottest",
+      "explanation": "形容词最高级前已有the，后面直接填hottest。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词最高级",
+      "question": "Winter is the _____ season of the year in China.",
+      "options": [],
+      "answer": "coldest",
+      "explanation": "冬天是一年中最冷的季节。"
+    }
+  ],
+  "knowledge": null
+}

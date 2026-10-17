@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u2-kp21",
+  "title": "反问句转换",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "反问句转换",
+      "question": "请将词语排成一句有气势的句子。",
+      "options": [
+        "我们",
+        "怎么能",
+        "忘记",
+        "老祖宗的",
+        "教诲呢"
+      ],
+      "answer": "我们,怎么能,忘记,老祖宗的,教诲呢",
+      "explanation": "练习反问句的表达顺序。"
+    }
+  ],
+  "knowledge": null
+}

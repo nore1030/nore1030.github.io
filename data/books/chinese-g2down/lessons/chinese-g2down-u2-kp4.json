@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g2down-u2-kp4",
+  "title": "口语交际中的语气委婉表达",
+  "bookId": "chinese-g2down",
+  "unitNumber": 2,
+  "unitTitle": "劳动与奉献",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "口语交际中的语气委婉表达",
+      "question": "当你需要别人帮助时，说“赶紧过来帮我”是非常有礼貌的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这属于命令语气，不够委婉，应使用请求语气。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口语交际中的语气委婉表达",
+      "question": "如果你想借同学的橡皮，最合适的语气是？",
+      "options": [
+        "橡皮借我吧！",
+        "快把橡皮给我。",
+        "请问，我可以借用一下你的橡皮吗？",
+        "橡皮在那，我要用。"
+      ],
+      "answer": "请问，我可以借用一下你的橡皮吗？",
+      "explanation": "使用“请问”、“吗”等词语更显委婉礼貌。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口语交际中的语气委婉表达",
+      "question": "将词语排列成一句礼貌的话：",
+      "options": [
+        "请问",
+        "去图书馆",
+        "怎么走",
+        "该"
+      ],
+      "answer": "请问,去图书馆,该,怎么走",
+      "explanation": "礼貌问路通常先说请问。"
+    }
+  ],
+  "knowledge": {
+    "point": "口语交际中的语气委婉表达",
+    "core_concept": "学习如何在提出请求、建议或不同意见时，使用恰当的称呼和语气词（如“请、好吗、吧、吗”）。通过调整语序和词汇，将生硬的命令句转化为平和的商量句，不仅能达到沟通的目的，还能体现个人的文明素养。",
+    "key_formula": "称呼 + 请 + 理由 + 询问词(吗/好吗)",
+    "common_mistakes": [
+      "说话太直接，给对方压迫感",
+      "忘记使用礼貌用语"
+    ],
+    "tips": "记住“客气三宝”：开口带个“请”，结尾加个“吗”，中间带个“谢”。"
+  }
+}

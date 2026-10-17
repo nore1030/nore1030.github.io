@@ -1,0 +1,126 @@
+{
+  "id": "chinese-g3down-u3-kp1",
+  "title": "传统节日习俗与古诗内涵",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "《元日》这首诗中描述的“屠苏”指的是一种酒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "屠苏即屠苏酒，古代春节时全家饮用，寓意驱邪避瘟。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "重阳节时，人们会通过赛龙舟、挂艾草的方式来庆祝节日。",
+      "options": [],
+      "answer": "错",
+      "explanation": "赛龙舟和挂艾草是端午节的习俗；重阳节的习俗是登高、插茱萸。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "“独在异乡为异客，每逢佳节倍思亲”描述的是哪个传统节日？",
+      "options": [
+        "中秋节",
+        "春节",
+        "重阳节",
+        "端午节"
+      ],
+      "answer": "重阳节",
+      "explanation": "这是王维《九月九日忆山东兄弟》中的名句，九月九日即重阳节。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "古诗《清明》中，“借问酒家何处有”的下一句是？",
+      "options": [
+        "总把新桃换旧符",
+        "牧童遥指杏花村",
+        "每逢佳节倍思亲",
+        "遍插茱萸少一人"
+      ],
+      "answer": "牧童遥指杏花村",
+      "explanation": "这是杜牧《清明》中的经典诗句。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "“爆竹声中一岁除，春风送暖入（___）。”",
+      "options": [],
+      "answer": "屠苏",
+      "explanation": "出自王安石的《元日》。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "请将传统节日与其对应的风俗活动进行连线。",
+      "options": [
+        "春节",
+        "元宵节",
+        "端午节",
+        "中秋节",
+        "赛龙舟",
+        "贴春联",
+        "吃月饼",
+        "看花灯"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "春节贴春联，元宵节看灯，端午赛船，中秋赏月吃饼。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与古诗内涵",
+      "question": "将下列诗人与诗句对应的节日进行关联。",
+      "options": [
+        "王安石",
+        "杜牧",
+        "王维",
+        "张择端",
+        "清明节",
+        "重阳节",
+        "春节",
+        "《清明上河图》"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "王安石写元日（春节），杜牧写清明，王维写九月九日（重阳），张择端画名画。"
+    }
+  ],
+  "knowledge": {
+    "point": "传统节日习俗与古诗内涵",
+    "core_concept": "本单元通过《古诗三首》展现了春节、清明、重阳三大节日。春节（元日）重点在“换新”，扫除陈旧迎接光明；清明重在“思归与哀悼”，伴随春雨绵绵的凄清感；重阳重在“登高思亲”，通过插茱萸、登高化解身在异乡的孤独。学习时需体会古诗中的节日符号与情感纽带。",
+    "key_formula": "节日名称 + 标志性习俗（如：清明-祭祖、扫墓、折柳）= 诗词意象",
+    "common_mistakes": [
+      "混淆各节日的特定习俗，如将“插茱萸”记为中秋节习俗。",
+      "诗句填空时容易将“曈曈”或“屠苏”等生僻古词写错。"
+    ],
+    "tips": "可以通过建立“节日历卡”的方法，将时间、诗句、习俗一一对应记忆。"
+  }
+}

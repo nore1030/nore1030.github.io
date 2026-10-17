@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g6up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g6up",
+  "unitNumber": 6,
+  "unitTitle": "保护环境",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "《江南春》是一首描写我国北方春天景色的诗。",
+      "options": [],
+      "answer": "错",
+      "explanation": "《江南春》如题所示，描写的是江南水乡的春天。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "“三黑”是《三黑和土地》这篇课文中一个热爱土地的农民形象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三黑是诗歌中的主要人物，通过他的劳动表现了对土地的热爱。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "倡议书的正文部分必须写清楚倡议的内容和具体的建议。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是倡议书最核心的部分，必须详细明确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“水村山郭酒旗风”中，“山郭”指的是山上的凉亭。",
+      "options": [],
+      "answer": "错",
+      "explanation": "山郭是指山城、依山的城镇。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“一水护田将绿绕”中，“绕”字写出了水的什么动态？",
+      "options": [
+        "汹涌澎湃",
+        "温柔环抱",
+        "急速流过",
+        "停滞不前"
+      ],
+      "answer": "温柔环抱",
+      "explanation": "“护”和“绕”运用拟人，体现了水的灵动与温情。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "“如果不加节制地开采，地球上的矿产资源就会枯竭。”这句话中“枯竭”的意思是：",
+      "options": [
+        "形容水变臭了",
+        "干涸、断绝",
+        "变得很稀少",
+        "被深埋地下"
+      ],
+      "answer": "干涸、断绝",
+      "explanation": "在文境中指资源被用光，无法再提供。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "《只有一个地球》告诉我们的观点是：",
+      "options": [
+        "我们可以寻找新的星球",
+        "科学技术是万能的",
+        "必须精心保护地球",
+        "资源可以不断再生"
+      ],
+      "answer": "必须精心保护地球",
+      "explanation": "这是文章的核心落脚点。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“如今直上银河去，同到牵牛织女家。”描述的是哪条河流？",
+      "options": [
+        "长江",
+        "黄河",
+        "珠江",
+        "淮河"
+      ],
+      "answer": "黄河",
+      "explanation": "出自刘禹锡的《浪淘沙》，描写的是黄河。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "在写《节约用水倡议书》时，哪项不是合理的具体措施？",
+      "options": [
+        "随手关紧水龙头",
+        "淘米水浇花",
+        "口渴了不喝水",
+        "提倡盆浴改淋浴"
+      ],
+      "answer": "口渴了不喝水",
+      "explanation": "节约用水是在不影响基本生存需要的前提下科学用水。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "《书湖阴先生壁》中，诗人是通过什么来间接描写湖阴先生的勤劳？",
+      "options": [
+        "家里的藏书",
+        "邻居的夸奖",
+        "院落的整洁",
+        "先生的衣着"
+      ],
+      "answer": "院落的整洁",
+      "explanation": "“净无苔”说明主人经常打扫，为人勤勉、脱俗。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "《只有一个地球》呼吁人类不要指望在破坏了地球后再（______）到其他星球。",
+      "options": [],
+      "answer": "移居",
+      "explanation": "原文重点强调了“移居”的不可能性。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "《江南春》中写寺庙之多，用了一个具体的数字是（______）。",
+      "options": [],
+      "answer": "四百八十",
+      "explanation": "出自诗句“南朝四百八十寺”。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "请将生字与正确的拼音连线。",
+      "options": [
+        "粼",
+        "蔼",
+        "资",
+        "慷",
+        "ǎi",
+        "lín",
+        "kāng",
+        "zī"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察本单元重点生字的读音。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "请将古诗名句与其描写的地点对应。",
+      "options": [
+        "四百八十寺",
+        "万里沙",
+        "花木成畦",
+        "酒旗风",
+        "黄河",
+        "江南",
+        "山郭",
+        "庭院"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "寺庙属江南，黄河多泥沙，山郭随风，成畦在庭院。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "排出一句倡议书中的常用提示语。",
+      "options": [
+        "让我们",
+        "保护",
+        "携起手来",
+        "共同",
+        "大自然"
+      ],
+      "answer": "让我们,携起手来,共同,保护,大自然",
+      "explanation": "这是标准的倡议书结语式表达。"
+    }
+  ],
+  "knowledge": null
+}

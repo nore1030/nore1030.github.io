@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+3:I[6811,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ThemeProvider"]
+4:I[1312,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"ToastProvider"]
+5:I[5881,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"DailyRewardWatcher"]
+6:I[2812,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"AchievementWatcher"]
+7:I[9392,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"LeagueWatcher"]
+8:I[5341,[],""]
+9:I[25,[],""]
+a:I[7273,["7401","static/chunks/7401-b29993f5ba38fed5.js","1864","static/chunks/1864-82f1f5260d3feec0.js","1763","static/chunks/1763-7d871de8b08af7a2.js","8191","static/chunks/8191-870be353731fa24f.js","2907","static/chunks/2907-ab21c7dca273c504.js","7177","static/chunks/app/layout-426eaf9557f4a395.js"],"BottomNav"]
+c:I[5104,[],"OutletBoundary"]
+e:I[7158,[],"AsyncMetadataOutlet"]
+10:I[5104,[],"ViewportBoundary"]
+12:I[5104,[],"MetadataBoundary"]
+13:"$Sreact.suspense"
+15:I[4431,[],""]
+:HL["/_next/static/media/ee40bb094c99a29a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/87dfc6598b12eeb9.css","style"]
+:HL["/_next/static/css/b3b5a181ba22c606.css","style"]
+:HL["/_next/static/css/dc83f55f905644ae.css","style"]
+2:T408,
+(function () {
+  try {
+    var DARK_THEMES = { theme_midnight: "#0F1419", theme_obsidian: "#08090C" };
+    var equipped = "";
+    try {
+      var raw = localStorage.getItem("csf-progress-v1");
+      if (raw) equipped = (JSON.parse(raw).state || {}).equippedTheme || "";
+    } catch (e) {}
+    var mode = localStorage.getItem("csf-theme-mode");
+    var sysDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var cosmeticDark = Object.prototype.hasOwnProperty.call(DARK_THEMES, equipped);
+    var dark = cosmeticDark || mode === "dark" || (mode !== "light" && sysDark);
+    if (dark) {
+      var root = document.documentElement;
+      root.classList.add("theme-dark");
+      root.style.colorScheme = "dark";
+      root.style.backgroundColor = cosmeticDark ? DARK_THEMES[equipped] : "#131F24";
+    }
+  } catch (e) {}
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
+})();
+0:{"P":null,"b":"iRd6etU9gyYI8-hGFBUQJ","p":"","c":["","lesson","science-g2up__science-g2up-u2-kp2",""],"i":false,"f":[[["",{"children":["lesson",{"children":[["lesson","science-g2up__science-g2up-u2-kp2","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/87dfc6598b12eeb9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b3b5a181ba22c606.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/dc83f55f905644ae.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_4a990b","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","body",null,{"className":"min-h-screen bg-bg-soft","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]}]]}]]}],{"children":["lesson",["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["lesson","science-g2up__science-g2up-u2-kp2","d"],["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}],false]],"m":"$undefined","G":["$15",[]],"s":false,"S":true}
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#58CC02"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#131F24"}]]
+d:null
+16:I[6505,[],"IconMark"]
+f:{"metadata":[["$","title","0",{"children":"聪聪学堂"}],["$","meta","1",{"name":"description","content":"全科免费，人人可学的小学AI学习平台"}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"聪聪学堂"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","8",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
+17:I[8694,["356","static/chunks/app/lesson/%5Blesson%5D/page-2de60fdc8e582095.js"],"default"]
+b:["$","$L17",null,{"lesson":{"id":"science-g2up-u2-kp2","title":"常见材料的辨识与特性","bookId":"science-g2up","unitNumber":2,"unitTitle":"材料","kpIndex":1,"kpTotal":7,"questions":[{"id":2,"type":"true_false","score":2,"difficulty":1,"knowledge_point":"常见材料的辨识与特性","question":"棉质毛巾摸起来非常坚硬、光滑。","options":[],"answer":"错","explanation":"棉布材料的特性通常是柔软、吸水、粗糙。"},{"id":6,"type":"choice","score":5,"difficulty":1,"knowledge_point":"常见材料的辨识与特性","question":"下列物品中，由金属材料制成的是（ ）。","options":["塑料盆","铁钥匙","纸飞机","木板凳"],"answer":"铁钥匙","explanation":"钥匙通常由铁或铜等金属制成。"},{"id":8,"type":"choice","score":5,"difficulty":2,"knowledge_point":"常见材料的辨识与特性","question":"这种材料亮晶晶的，敲击声音清脆，它是（ ）。","options":["木材","石头","陶瓷","金属"],"answer":"金属","explanation":"金属具有光泽且敲击声响亮。"},{"id":9,"type":"choice","score":5,"difficulty":1,"knowledge_point":"常见材料的辨识与特性","question":"我们使用的教材封面主要是用（ ）做成的。","options":["纸","玻璃","皮革","橡胶"],"answer":"纸","explanation":"书本的主要材料是纸。"},{"id":11,"type":"choice","score":5,"difficulty":1,"knowledge_point":"常见材料的辨识与特性","question":"雨伞的伞面通常选用的材料是（ ）。","options":["吸水的棉布","不透水的塑料布","厚重的木板","容易生锈的铁片"],"answer":"不透水的塑料布","explanation":"雨伞需要防水，塑料或防水布是最佳选择。"},{"id":15,"type":"choice","score":5,"difficulty":1,"knowledge_point":"常见材料的辨识与特性","question":"我们通常用（ ）材料来制作透明的窗户。","options":["木头","金属","玻璃","水泥"],"answer":"玻璃","explanation":"玻璃具有透光性好的特点。"},{"id":17,"type":"choice","score":5,"difficulty":2,"knowledge_point":"常见材料的辨识与特性","question":"筷子常用的材料比较多。下列材料中，导热最快的是（ ）。","options":["竹子","木头","不锈钢","塑料"],"answer":"不锈钢","explanation":"金属的导热性能优于木材和塑料。"},{"id":20,"type":"fill_blank","score":5,"difficulty":2,"knowledge_point":"常见材料的辨识与特性","question":"常见的材料种类很多，本单元我们重点学习辨认了（ ）种基础材料。","options":[],"answer":"6","explanation":"通常包括木材、金属、塑料、玻璃、纤维（布）、陶瓷等。"}],"knowledge":null},"chestSlot":null}]

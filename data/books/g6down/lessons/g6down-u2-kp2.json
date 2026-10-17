@@ -1,0 +1,75 @@
+{
+  "id": "g6down-u2-kp2",
+  "title": "税率与应纳税额计算",
+  "bookId": "g6down",
+  "unitNumber": 2,
+  "unitTitle": "百分数（二）",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "应纳税额与各种收入的比率叫做税率。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据税率定义，应纳税额 = 营业额 × 税率，即税率 = 应纳税额 ÷ 营业额。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "一家饭店10月份的营业额是 30 万元，如果按营业额的 5% 缴纳营业税，应缴纳多少万元？",
+      "options": [
+        "1.5",
+        "15",
+        "0.15",
+        "3"
+      ],
+      "answer": "1.5",
+      "explanation": "$30 \\times 5\\% = 30 \\times 0.05 = 1.5$（万元）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "某人月工资是 6000 元，超过 5000 元的部分按 3% 缴纳个人所得税，应缴税多少元？",
+      "options": [
+        "180",
+        "150",
+        "30",
+        "3"
+      ],
+      "answer": "30",
+      "explanation": "超过部分为 $6000 - 5000 = 1000$ 元，$1000 \\times 3\\% = 30$ 元。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "税率与应纳税额计算",
+      "question": "计算：$4000 \\times 5\\% = ?$",
+      "options": [],
+      "answer": "200",
+      "explanation": "$4000 \\times 0.05 = 200$。验算：$200 \\div 0.05 = 4000$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "税率与应纳税额计算",
+    "core_concept": "纳税是国家财政收入的主要来源。应纳税额是缴纳的税款。应纳税额与各种收入（销售额、营业额等）的比率叫做税率。解决此类问题需找准单位“1”即总收入。",
+    "key_formula": "$应纳税额 = 总收入 \\times 税率$",
+    "common_mistakes": [
+      "混淆税率和应纳税额，计算时放错位置",
+      "计算个人所得税时未减去起征点（免税额）"
+    ],
+    "tips": "税率计算就是一个求一个数的百分之几是多少的应用题，关键是对应好数据。"
+  }
+}

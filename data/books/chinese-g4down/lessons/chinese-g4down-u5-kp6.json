@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp6",
+  "title": "修辞手法识别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法识别",
+      "question": "“这些石钟乳形状各异，像是天上的云朵。”这句话运用了拟人的修辞。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句话运用了比喻，把石钟乳比作云朵。"
+    }
+  ],
+  "knowledge": null
+}

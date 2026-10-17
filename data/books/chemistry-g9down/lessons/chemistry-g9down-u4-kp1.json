@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g9down-u4-kp1",
+  "title": "常见的盐与复分解反应",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 4,
+  "unitTitle": "盐 化肥",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "下列反应属于复分解反应的是（　）",
+      "options": [
+        "$\\text{Fe}+\\text{CuSO}_4$",
+        "$\\text{NaOH}+\\text{HCl}$",
+        "$\\text{C}+\\text{O}_2$",
+        "$\\text{CaCO}_3\\xrightarrow{\\text{高温}}\\text{CaO}+\\text{CO}_2$"
+      ],
+      "answer": "$\\text{NaOH}+\\text{HCl}$",
+      "explanation": "两种化合物交换成分。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "10.6 g 碳酸钠与足量稀盐酸反应，生成二氧化碳多少 g？[$\\text{Na}_2\\text{CO}_3+2\\text{HCl}=2\\text{NaCl}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$，$\\text{Na}_2\\text{CO}_3$ 为 106，$\\text{CO}_2$ 为 44]",
+      "options": [],
+      "answer": "4.4",
+      "explanation": "$\\frac{10.6}{106}=\\frac{x}{44}$，$x=4.4$ g。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "复分解反应前后元素的化合价一定改变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "复分解反应中化合价不变。"
+    }
+  ],
+  "knowledge": {
+    "point": "常见的盐与复分解反应",
+    "core_concept": "复分解反应是两种化合物互相交换成分生成另外两种化合物的反应，发生条件是有沉淀、气体或水生成。",
+    "key_formula": "$\\text{Na}_2\\text{CO}_3+2\\text{HCl}=2\\text{NaCl}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+    "common_mistakes": [
+      "认为所有复分解反应都能发生。"
+    ],
+    "tips": "看是否有沉淀、气体或水。"
+  }
+}

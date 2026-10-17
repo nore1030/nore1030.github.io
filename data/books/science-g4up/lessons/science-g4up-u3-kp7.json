@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp7",
+  "title": "重力的定义",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "重力的定义",
+      "question": "地球表面的物体都会受到一个向下的拉力，这个力就是重力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地球表面物体受到的垂直向下的力称为重力。"
+    }
+  ],
+  "knowledge": null
+}

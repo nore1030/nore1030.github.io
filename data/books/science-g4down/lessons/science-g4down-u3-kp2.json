@@ -1,0 +1,93 @@
+{
+  "id": "science-g4down-u3-kp2",
+  "title": "矿物的特征与岩石组成",
+  "bookId": "science-g4down",
+  "unitNumber": 3,
+  "unitTitle": "岩石与土壤",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "所有的岩石都是由一种矿物组成的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "岩石是由一种或多种矿物组成的。大多数岩石由多种矿物组成。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "我们要观察矿物的条痕颜色，需要将其放在（）上摩擦。",
+      "options": [
+        "白纸",
+        "玻璃板",
+        "无釉瓷板",
+        "木板"
+      ],
+      "answer": "无釉瓷板",
+      "explanation": "无釉瓷板表面粗糙且颜色较淡，能够有效留存并显示矿物粉末的真实颜色。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "花岗岩主要由石英、长石和（）三种矿物组成。",
+      "options": [
+        "金刚石",
+        "云母",
+        "方解石",
+        "硫磺"
+      ],
+      "answer": "云母",
+      "explanation": "花岗岩是由石英（坚硬透明）、长石（肉红或淡黄）和云母（片状闪光）组成的。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "在鉴定矿物时光泽非常重要，下列光泽中最闪亮的是（）。",
+      "options": [
+        "丝绸光泽",
+        "金属光泽",
+        "玻璃光泽",
+        "蜡烛光泽"
+      ],
+      "answer": "金属光泽",
+      "explanation": "金属光泽反射光的能力最强，如黄铁矿、方铅矿。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "我们要制作矿物标本，第（）步应是将标本装入盒中并贴上标签。",
+      "options": [],
+      "answer": "5",
+      "explanation": "制作标本通常分为：采集、清理、分类、装盒编号、贴标签（第五步）。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "矿物的特征与岩石组成",
+      "question": "石英、长石、云母三种矿物中，透明度最好的是（）。",
+      "options": [],
+      "answer": "石英",
+      "explanation": "石英通常是透明或半透明的，具有玻璃光泽。"
+    }
+  ],
+  "knowledge": null
+}

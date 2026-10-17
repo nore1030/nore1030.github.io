@@ -1,0 +1,23 @@
+{
+  "id": "english-g5up-u3-kp7",
+  "title": "饮食意愿表达",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 2,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "饮食意愿表达",
+      "question": "What would you like to eat? 是询问别人想喝什么。",
+      "options": [],
+      "answer": "错",
+      "explanation": "eat是吃，喝是drink。"
+    }
+  ],
+  "knowledge": null
+}

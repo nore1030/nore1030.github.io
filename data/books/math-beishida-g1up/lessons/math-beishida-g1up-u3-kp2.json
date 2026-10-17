@@ -1,0 +1,53 @@
+{
+  "id": "math-beishida-g1up-u3-kp2",
+  "title": "减法的意义",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 3,
+  "unitTitle": "加与减（一）",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "减法的意义",
+      "question": "计算：5 − 2 = ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "5 − 2 = 3。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "减法的意义",
+      "question": "计算：4 − 1 = ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "4 − 1 = 3。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "减法的意义",
+      "question": "计算：3 − 2 = ？",
+      "options": [],
+      "answer": "1",
+      "explanation": "3 − 2 = 1。"
+    }
+  ],
+  "knowledge": {
+    "point": "减法的意义",
+    "core_concept": "从总数里去掉一部分，求剩下多少，用减法计算：a − b = c。",
+    "key_formula": "$a-b=c$",
+    "common_mistakes": [
+      "减法算式总数与部分颠倒。"
+    ],
+    "tips": "总数减去掉的部分。"
+  }
+}

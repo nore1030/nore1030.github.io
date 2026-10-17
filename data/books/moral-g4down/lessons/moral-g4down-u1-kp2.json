@@ -1,0 +1,47 @@
+{
+  "id": "moral-g4down-u1-kp2",
+  "title": "尊重他人权利",
+  "bookId": "moral-g4down",
+  "unitNumber": 1,
+  "unitTitle": "权利与义务",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "尊重他人权利",
+      "question": "行使自己的权利时，也要（　）",
+      "options": [
+        "尊重他人的权利",
+        "不顾别人",
+        "想怎样就怎样",
+        "强迫别人"
+      ],
+      "answer": "尊重他人的权利",
+      "explanation": "行使权利有边界。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "尊重他人权利",
+      "question": "有说话的自由，也要听别人把话说完。",
+      "options": [],
+      "answer": "对",
+      "explanation": "尊重他人表达。"
+    }
+  ],
+  "knowledge": {
+    "point": "尊重他人权利",
+    "core_concept": "我们有学习的权利，也不能影响别人学习；我们有发言的自由，也要尊重别人说话。行使权利有边界。",
+    "key_formula": "行使权利有边界",
+    "common_mistakes": [
+      "在自习课大声说话影响他人。"
+    ],
+    "tips": "尊重别人也是尊重自己。"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u2-kp1",
+  "title": "指示代词 this / these",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 My family 我的家庭",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / these",
+      "question": "「这是我妈妈。」的英文是（　）",
+      "options": [
+        "This is my mother.",
+        "These is my mother.",
+        "This are my mother.",
+        "This my mother."
+      ],
+      "answer": "This is my mother.",
+      "explanation": "单数用 this is。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / these",
+      "question": "指近处的多个物体，用（　）",
+      "options": [
+        "these",
+        "this",
+        "that",
+        "those"
+      ],
+      "answer": "these",
+      "explanation": "复近 these。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "指示代词 this / these",
+      "question": "this 指近处的单个事物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "单近 this。"
+    }
+  ],
+  "knowledge": {
+    "point": "指示代词 this / these",
+    "core_concept": "this 这个（单数近指）、these 这些（复数近指）；that/those 表远指。",
+    "key_formula": "This is my mother. / These are my parents.",
+    "common_mistakes": [
+      "this 后接复数。"
+    ],
+    "tips": "单近 this，复近 these。"
+  }
+}

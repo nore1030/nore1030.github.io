@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u3-kp5",
+  "title": "诗歌常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 3,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "诗歌常识",
+      "question": "艾青曾说：“诗是人类向未来寄发的信息。”",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是课文《短诗三首》后面的名言积累内容。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g5up-u3-kp13",
+  "title": "特定名词形式",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 8,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "特定名词形式",
+      "question": "He would like some _____ to drink.",
+      "options": [
+        "water",
+        "waters",
+        "a water",
+        "some waters"
+      ],
+      "answer": "water",
+      "explanation": "water是不可数名词。且题干已有some。"
+    }
+  ],
+  "knowledge": null
+}

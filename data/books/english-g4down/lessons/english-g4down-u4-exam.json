@@ -1,0 +1,223 @@
+{
+  "id": "english-g4down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 18,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物复数",
+      "question": "单词 'duck' 的复数是 'ducks'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "直接在末尾加s。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母组合规律",
+      "question": "单词 'ball' 和 'tall' 中 'al' 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在这里都发/ɔː/。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单复数搭配",
+      "question": "我们可以说 'This are horses'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "are horses是复数，主语应该用These。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "不可数名词概念",
+      "question": "英语中 'milk' 是不可数的，不能直接加 's'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "milk属于物质名词，是不可数的。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复数指示代词",
+      "question": "Look! ________ are cows and ________ are sheep over there.",
+      "options": [
+        "This; that",
+        "These; those",
+        "These; that",
+        "This; those"
+      ],
+      "answer": "These; those",
+      "explanation": "cows是近指复数，sheep结合over there判断为远指复数。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对话运用",
+      "question": "-Are these potatoes? -________",
+      "options": [
+        "Yes, they are.",
+        "No, it isn't.",
+        "Yes, it is.",
+        "They are big."
+      ],
+      "answer": "Yes, they are.",
+      "explanation": "复数一般疑问句的标准肯回答用They are。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词复数特殊变化",
+      "question": "There are fifteen ________ on the farm.",
+      "options": [
+        "sheeps",
+        "sheep",
+        "goats",
+        "cow"
+      ],
+      "answer": "sheep",
+      "explanation": "fifteen后接复数，sheep复数不变，goats若对需加s（选项已有），cow需加s。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数量询问回复",
+      "question": "-How many animals are there? -________.",
+      "options": [
+        "Four",
+        "It is big",
+        "They are goats",
+        "Green"
+      ],
+      "answer": "Four",
+      "explanation": "How many 提问数量，回答应为数字。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合理解",
+      "question": "What are those ________?",
+      "options": [
+        "animal",
+        "apple",
+        "potatoes",
+        "tomato"
+      ],
+      "answer": "potatoes",
+      "explanation": "those后接复数，四个选项中只有potatoes是复数形式。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "Mr. Mac likes vegetables. He has many ________.",
+      "options": [
+        "horses",
+        "hens",
+        "carrots",
+        "dogs"
+      ],
+      "answer": "carrots",
+      "explanation": "vegetables（蔬菜）对应的选项只有carrots（胡萝卜）。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色与植物",
+      "question": "They are round and red. They are ___.",
+      "options": [],
+      "answer": "tomatoes",
+      "explanation": "圆圆的红色的蔬菜是西红柿。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "远指代词",
+      "question": "___ are horses over there.",
+      "options": [],
+      "answer": "those",
+      "explanation": "over there指远处，horses是复数，用those。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "农场地点",
+      "question": "Welcome to my ___.",
+      "options": [],
+      "answer": "farm",
+      "explanation": "本单元关键词：农场。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词与名词匹配",
+      "question": "请将单词与其对应的中文意思连线。",
+      "options": [
+        "horse",
+        "cow",
+        "sheep",
+        "goat",
+        "绵羊",
+        "马",
+        "奶牛",
+        "山羊"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "horse-马, cow-奶牛, sheep-绵羊, goat-山羊。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数量提问",
+      "question": "将下列单词连成句子：",
+      "options": [
+        "How",
+        "cows",
+        "have",
+        "many",
+        "do",
+        "you"
+      ],
+      "answer": "How,many,cows,do,you,have",
+      "explanation": "这是询问数量的标准句型。"
+    }
+  ],
+  "knowledge": null
+}

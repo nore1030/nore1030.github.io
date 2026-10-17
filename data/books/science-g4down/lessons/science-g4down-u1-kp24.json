@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp24",
+  "title": "光合作用",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光合作用",
+      "question": "植物在阳光下，利用二氧化碳和水制造养料，并释放（）。",
+      "options": [],
+      "answer": "氧气",
+      "explanation": "光合作用的产物是养料（有机物）和氧气。"
+    }
+  ],
+  "knowledge": null
+}

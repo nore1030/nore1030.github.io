@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp14",
+  "title": "词汇拼写",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 10,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇拼写",
+      "question": "My mother is a ______ . She can sing many songs.",
+      "options": [
+        "singer",
+        "sister",
+        "student",
+        "worker"
+      ],
+      "answer": "singer",
+      "explanation": "会唱歌(sing)的是歌手(singer)。"
+    }
+  ],
+  "knowledge": null
+}

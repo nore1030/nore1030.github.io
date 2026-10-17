@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp15",
+  "title": "词语辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语辨析",
+      "question": "下列词语中，哪一个不是描写人的高尚品质的？",
+      "options": [
+        "视死如归",
+        "刚正不阿",
+        "气急败坏",
+        "厚德载物"
+      ],
+      "answer": "气急败坏",
+      "explanation": "气急败坏是贬义词，形容羞恼愤怒。"
+    }
+  ],
+  "knowledge": null
+}

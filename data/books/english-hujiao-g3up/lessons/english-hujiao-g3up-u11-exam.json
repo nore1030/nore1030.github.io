@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u11-exam",
+  "title": "第 11 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 11,
+  "unitTitle": "Module 4 The world around us — Small animals 小动物",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+      "question": "「鱼」的英文是（　）",
+      "options": [
+        "fish",
+        "fishe",
+        "feesh",
+        "fishs"
+      ],
+      "answer": "fish",
+      "explanation": "fish = 鱼。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达拥有 I have a…",
+      "question": "「我有两只兔子。」的英文是（　）",
+      "options": [
+        "I have two rabbits.",
+        "I have two rabbit.",
+        "I has two rabbits.",
+        "I have a two rabbits."
+      ],
+      "answer": "I have two rabbits.",
+      "explanation": "复数加 -s。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+      "question": "animal 的意思是「动物」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "animal = 动物。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达拥有 I have a…",
+      "question": "— What do you have? — ___",
+      "options": [
+        "I have a dog.",
+        "I'm a dog.",
+        "Yes, I do.",
+        "I like dogs."
+      ],
+      "answer": "I have a dog.",
+      "explanation": "问拥有答 I have…"
+    }
+  ],
+  "knowledge": null
+}

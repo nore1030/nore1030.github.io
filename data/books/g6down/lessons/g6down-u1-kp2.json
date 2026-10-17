@@ -1,0 +1,118 @@
+{
+  "id": "g6down-u1-kp2",
+  "title": "负数的实际应用",
+  "bookId": "g6down",
+  "unitNumber": 1,
+  "unitTitle": "负数",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "负数的实际应用",
+      "question": "如果盈利 500 元记作 +500 元，那么亏损 200 元就记作 -200 元。",
+      "options": [],
+      "answer": "对",
+      "explanation": "盈利和亏损是一对具有相反意义的量，盈利为正，则亏损为负。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "负数的实际应用",
+      "question": "超市运进 50 箱苹果记作 +50 箱，那么“卖出 30 箱”应记作多少箱？",
+      "options": [
+        "30",
+        "-30",
+        "+30",
+        "-20"
+      ],
+      "answer": "-30",
+      "explanation": "运进为正，卖出为相反意义量，记为负。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "负数的实际应用",
+      "question": "潜水艇在海平面以下 100 米处记作 -100 米，它上升 20 米后的海拔高度是多少米？",
+      "options": [
+        "-120 米",
+        "-80 米",
+        "80 米",
+        "120 米"
+      ],
+      "answer": "-80 米",
+      "explanation": "-100 + 20 = -80（米）。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "负数的实际应用",
+      "question": "电梯从 5 层下降 6 层，此时电梯在几层？（假设 1 层下面是地下 1 层，即 -1 层）",
+      "options": [
+        "0 层",
+        "-1 层",
+        "1 层",
+        "-11 层"
+      ],
+      "answer": "-1 层",
+      "explanation": "5 - 6 = -1。注意建筑中通常没有 0 层。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "负数的实际应用",
+      "question": "如果水位上升 2 米记作 +2 米，那么水位下降 3 米后再上升 1 米，水位最终变化记作多少米？",
+      "options": [
+        "+2",
+        "-2",
+        "0",
+        "-4"
+      ],
+      "answer": "-2",
+      "explanation": "-3 + 1 = -2（米）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "负数的实际应用",
+      "question": "小明向东走 50 米记作 +50 米，那么向西走 100 米记作 ___ 米。（仅填负号后的数字）",
+      "options": [],
+      "answer": "100",
+      "explanation": "向东为正，则向西为负，100 米对应数字 100。验算：相反方向数字对应正确。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "负数的实际应用",
+      "question": "计算：|-15| = ?",
+      "options": [],
+      "answer": "15",
+      "explanation": "绝对值表示数到原点的距离，-15 的绝对值是 15。验算：负数的绝对值是其相反数。"
+    }
+  ],
+  "knowledge": {
+    "point": "负数的实际应用",
+    "core_concept": "在生活中，我们经常遇到具有相反意义的量，如：零上温度与零下温度、收入与支出、水位上升与水位下降、海平面以上与以下。如果其中一个量用正数表示，另一个量就用负数表示。",
+    "key_formula": "相反意义的量：若 A 为正，则其相反量为负。",
+    "common_mistakes": [
+      "分不清哪一方该记作正，哪一方记作负（如：把支出记成了正数）。",
+      "计算变化量时混淆了增加和减小的方向。"
+    ],
+    "tips": "解题前先确定‘谁是基准点0’，通常海平面、平均分、标准重量、0度就是那个0。"
+  }
+}

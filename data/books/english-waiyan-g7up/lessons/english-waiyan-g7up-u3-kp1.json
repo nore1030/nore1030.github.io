@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g7up-u3-kp1",
+  "title": "there be 句型",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Module 3 My school 我的学校",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "there be 句型",
+      "question": "「我们班有 30 名学生。」的英文是（　）",
+      "options": [
+        "There are thirty students in our class.",
+        "There is thirty students in our class.",
+        "There are thirty student in our class.",
+        "There have thirty students in our class."
+      ],
+      "answer": "There are thirty students in our class.",
+      "explanation": "复数用 there are。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "there be 句型",
+      "question": "there be 句型表示「某处有某物」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表存在。"
+    }
+  ],
+  "knowledge": {
+    "point": "there be 句型",
+    "core_concept": "there is + 单数/不可数，there are + 复数；否定 there isn't / aren't。",
+    "key_formula": "There are thirty students in our class.",
+    "common_mistakes": [
+      "there is 后接复数名词。"
+    ],
+    "tips": "看后面的名词定单复数。"
+  }
+}

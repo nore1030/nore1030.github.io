@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp13",
+  "title": "介词搭配",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "He has blue ______ on his face.",
+      "options": [
+        "hair",
+        "shoes",
+        "glasses",
+        "bag"
+      ],
+      "answer": "glasses",
+      "explanation": "根据on his face（在他脸上）判断只有眼镜符合。"
+    }
+  ],
+  "knowledge": null
+}

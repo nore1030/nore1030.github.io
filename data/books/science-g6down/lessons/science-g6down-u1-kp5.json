@@ -1,0 +1,23 @@
+{
+  "id": "science-g6down-u1-kp5",
+  "title": "中国著名工程",
+  "bookId": "science-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小小工程师",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国著名工程",
+      "question": "举世瞩目的港珠澳大桥全长（___）千米，是桥、岛、隧为一体的世界级工程。",
+      "options": [],
+      "answer": "55",
+      "explanation": "港珠澳大桥全长约55千米，是目前世界上最长的跨海大桥。"
+    }
+  ],
+  "knowledge": null
+}

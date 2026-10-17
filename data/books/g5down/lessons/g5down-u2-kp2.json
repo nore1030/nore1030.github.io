@@ -1,0 +1,118 @@
+{
+  "id": "g5down-u2-kp2",
+  "title": "2、5、3的倍数特征",
+  "bookId": "g5down",
+  "unitNumber": 2,
+  "unitTitle": "因数与倍数",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "所有的偶数都是合数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "2是偶数，但2只有1和2两个因数，所以2是质数。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "下列数字中，同时是 2 和 5 的倍数的是：",
+      "options": [
+        "102",
+        "115",
+        "110",
+        "122"
+      ],
+      "answer": "110",
+      "explanation": "同时是2和5的倍数，末尾必须是0。110符合条件。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "一个数既是 3 的倍数，又是 5 的倍数，这个数可能是：",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "26"
+      ],
+      "answer": "15",
+      "explanation": "15的各位数字之和是 $1+5=6$（3的倍数），且末尾是5，所以是15。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "一个三位数 52□，如果是 3 的倍数，□里最小填几？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "$5+2+2=9$，9是3的倍数，所以最小填2。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "把 30 个苹果平均分给小朋友，要使每人分得的个数是偶数，人数不可能是：",
+      "options": [
+        "3 人",
+        "5 人",
+        "15 人",
+        "4 人"
+      ],
+      "answer": "4 人",
+      "explanation": "人数必须是30的因数。4不是30的因数，无法平均分。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "最小的偶数是 0，最小的质数是 ___。",
+      "options": [],
+      "answer": "2",
+      "explanation": "质数从2开始，1既不是质数也不是合数。最小质数是2。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "2、5、3的倍数特征",
+      "question": "$2 \times 3 \times 5 = ?$",
+      "options": [],
+      "answer": "30",
+      "explanation": "$2 \times 3 \times 5 = 6 \times 5 = 30$。验算：$30 \times 5 \times 3 = 2$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "2、5、3的倍数特征",
+    "core_concept": "2 的倍数特征：个位上是 0, 2, 4, 6, 8；5 的倍数特征：个位上是 0 或 5；3 的倍数特征：各位数字之和是 3 的倍数。整数中，是 2 的倍数的数叫做偶数（0 也是偶数），不是 2 的倍数的数叫做奇数。",
+    "key_formula": "3 \\text{ 的倍数} \\Rightarrow \\text{各位数字之和} \\div 3 = \\text{整数}$",
+    "common_mistakes": [
+      "通过看个位来判断 3 的倍数（如误认为 13, 16, 19 是 3 的倍数）",
+      "漏掉 0 也是偶数"
+    ],
+    "tips": "同时是 2, 3, 5 的倍数，个位一定是 0，且各位数字之和是 3 的倍数。"
+  }
+}

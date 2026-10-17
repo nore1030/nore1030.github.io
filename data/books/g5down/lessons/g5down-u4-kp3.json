@@ -1,0 +1,64 @@
+{
+  "id": "g5down-u4-kp3",
+  "title": "真分数、假分数与带分数",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "假分数都大于 1。",
+      "options": [],
+      "answer": "错",
+      "explanation": "假分数的分子大于或等于分母，当分子等于分母时，其值等于 1。所以假分数是大于或等于 1 的。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "下列分数中，属于真分数的是：",
+      "options": [
+        "5/4",
+        "4/4",
+        "3/4",
+        "7/4"
+      ],
+      "answer": "3/4",
+      "explanation": "真分数是分子比分母小的分数。3 < 4，所以 3/4 是真分数。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "真分数、假分数与带分数",
+      "question": "在分数 a/7 中，要使它是一个真分数，a 最大是：",
+      "options": [
+        "1",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "真分数的分子必须小于分母。分子 a < 7，最大的整数是 6。"
+    }
+  ],
+  "knowledge": {
+    "point": "真分数、假分数与带分数",
+    "core_concept": "分子比分母小的分数叫做真分数（小于 1）；分子比分母大或分子和分母相等的分数叫做假分数（大于或等于 1）。由整数和真分数合成的数叫做带分数。",
+    "key_formula": "假分数 $\\rightarrow$ 带分数：分子 $\\div$ 分母，商为整数部分，余数为分子",
+    "common_mistakes": [
+      "认为假分数一定大于 1，忽略了等于 1 的情况",
+      "将假分数化成带分数时，余数忘记写在分子位置"
+    ],
+    "tips": "分子是分母倍数的假分数可以化成整数。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp9",
+  "title": "词语搭配",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "下列词语搭配不恰当的一项是：",
+      "options": [
+        "奇妙的世界",
+        "锋利的刀剑",
+        "宁静的海底",
+        "凶猛的雨点"
+      ],
+      "answer": "凶猛的雨点",
+      "explanation": "雨点通常搭配“细小的”或“密集的”，凶猛多用于猛兽。"
+    }
+  ],
+  "knowledge": null
+}

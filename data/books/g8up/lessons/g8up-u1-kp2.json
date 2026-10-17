@@ -1,0 +1,31 @@
+{
+  "id": "g8up-u1-kp2",
+  "title": "三角形的重要线段",
+  "bookId": "g8up",
+  "unitNumber": 1,
+  "unitTitle": "三角形",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "三角形的重要线段",
+      "question": "三角形的三条中线交于一点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三中线交于重心。"
+    }
+  ],
+  "knowledge": {
+    "point": "三角形的重要线段",
+    "core_concept": "三角形有三条中线、三条高、三条角平分线，它们分别交于重心、垂心、内心。",
+    "key_formula": "中线把三角形分成面积相等的两部分",
+    "common_mistakes": [
+      "把高画到延长线外。"
+    ],
+    "tips": "钝角三角形的高可能在形外。"
+  }
+}

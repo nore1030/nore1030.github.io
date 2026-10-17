@@ -1,0 +1,50 @@
+{
+  "id": "english-g4down-u3-kp5",
+  "title": "Activities judgment",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 1,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Activities judgment",
+      "question": "当天气 'hot' 时，我们适合穿 'sweater'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "hot是炎热的，不适合穿sweater（毛衣）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Activities judgment",
+      "question": "It's 26 degrees. It's ____.",
+      "options": [
+        "cold",
+        "cool",
+        "warm",
+        "snowy"
+      ],
+      "answer": "warm",
+      "explanation": "26度属于温暖(warm)的范畴。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Activities judgment",
+      "question": "Can I have some ____ (汤)? Yes, you can.",
+      "options": [],
+      "answer": "soup",
+      "explanation": "汤的对应单词是soup。"
+    }
+  ],
+  "knowledge": null
+}

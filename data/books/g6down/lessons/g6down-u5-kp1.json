@@ -1,0 +1,118 @@
+{
+  "id": "g6down-u5-kp1",
+  "title": "鸽巢原理基础应用",
+  "bookId": "g6down",
+  "unitNumber": 5,
+  "unitTitle": "数学广角——鸽巢问题",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "把5个苹果放进4个抽屉中，总有一个抽屉里至少有2个苹果。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$5 \u0000 4 = 1$（个）......$1$（个），执行 $1 + 1 = 2$。根据鸽巢原理，结论正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "任意从12个出生在同一年的人中，一定有两个人在同一个月出生。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一年有12个月。如果有12个人，最好的情况是每人在不同月份出生。要保证必有两人同月出生，需要 $12 + 1 = 13$ 人。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "将10个笑脸贴纸分给9个小朋友，至少有一个小朋友得到几个贴纸？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "$10 \u0000 9 = 1$......$1$，$1 + 1 = 2$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "要在10个抽屉里放物品，要保证其中一个抽屉里至少有2个物品，最少要放多少个物品？",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "抽屉数 $n=10$，物体数最少为 $10 + 1 = 11$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "向3个杯子里放10颗糖，总有一个杯子里至少有几颗糖？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "$10 \u0000 3 = 3$......$1$，$3 + 1 = 4$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "把7本书放进3个抽屉里，总有一个抽屉里至少有几本书？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "$7 \u0000 3 = 2$......$1$，$2 + 1 = 3$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸽巢原理基础应用",
+      "question": "有 13 个小朋友聚会。其中至少有 ___ 个小朋友在同一个月份出生。",
+      "options": [],
+      "answer": "2",
+      "explanation": "$13 \u0000 12 = 1$......$1$。$1 + 1 = 2$。验算：即便12人分属12个月，第13人必与其中一个重复。"
+    }
+  ],
+  "knowledge": {
+    "point": "鸽巢原理基础应用",
+    "core_concept": "如果把 $n+1$ 个物体放入 $n$ 个抽屉，不管怎么放，总有一个抽屉里至少有 2 个物体。这是一种必然发生的逻辑。我们可以把这些物体看作‘鸽子’，抽屉看作‘巢’。当物体数量超过抽屉数量时，重复是必然的。这种原理不仅适用于物体分配，也适用于生日相同判定、姓氏判断等常见情境。",
+    "key_formula": "物体数 > 抽屉数，则至少数 = 2",
+    "common_mistakes": [
+      "混淆抽屉和物体：不知道该把哪个量看作抽屉（巢），例如把12个月份当成物体。",
+      "分不清‘至少’的含义：误以为是固定在某一个特定的抽屉里有2个。"
+    ],
+    "tips": "首先确定什么是‘抽屉’，通常情况下，题目问什么（比如月份、花色、颜色），什么就是抽屉。"
+  }
+}

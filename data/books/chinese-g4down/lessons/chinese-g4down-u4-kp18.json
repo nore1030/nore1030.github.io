@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u4-kp18",
+  "title": "动作连贯句",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动作连贯句",
+      "question": "请排好母鸡保护小鸡时的动作顺序。",
+      "options": [
+        "它",
+        "放声",
+        "啼叫",
+        "发现",
+        "一点东西"
+      ],
+      "answer": "它,发现,一点东西,放声,啼叫",
+      "explanation": "这是描写母鸡发现食物后呼唤小鸡的动作序列。"
+    }
+  ],
+  "knowledge": null
+}

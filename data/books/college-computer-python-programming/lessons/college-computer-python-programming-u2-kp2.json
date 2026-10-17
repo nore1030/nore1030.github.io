@@ -1,0 +1,47 @@
+{
+  "id": "college-computer-python-programming-u2-kp2",
+  "title": "函数与模块",
+  "bookId": "college-computer-python-programming",
+  "unitNumber": 2,
+  "unitTitle": "流程控制与函数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "函数与模块",
+      "question": "Python 使用缩进来表示代码块。",
+      "options": [],
+      "answer": "对",
+      "explanation": "缩进是语法的一部分。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "函数与模块",
+      "question": "定义函数使用的关键字是（　）",
+      "options": [
+        "function",
+        "def",
+        "func",
+        "define"
+      ],
+      "answer": "def",
+      "explanation": "Python 用 def。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数与模块",
+    "core_concept": "用 def 定义函数，return 返回值。import 导入模块，如 math、random。函数参数可有默认值。",
+    "key_formula": "def f(x): return x*2",
+    "common_mistakes": [
+      "函数中修改全局变量未声明 global。"
+    ],
+    "tips": "尽量用参数与返回值传递数据。"
+  }
+}

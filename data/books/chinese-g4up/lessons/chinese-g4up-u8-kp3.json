@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g4up-u8-kp3",
+  "title": "书信的基本格式",
+  "bookId": "chinese-g4up",
+  "unitNumber": 8,
+  "unitTitle": "历史故事与人生启示",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式",
+      "question": "写信时，正文的第一行要空两格，这和写作文的要求一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "书信正文的开头和普通段落一样，需要首行缩进两格。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式",
+      "question": "书信中的称呼，应该写在信的第一行，末尾要加上后缀（）。",
+      "options": [
+        "逗号",
+        "冒号",
+        "感叹号",
+        "句号"
+      ],
+      "answer": "冒号",
+      "explanation": "书信开头称呼后面必须使用冒号，表示唤起下文。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式",
+      "question": "在信的末尾，署名应该写在日期（）。",
+      "options": [
+        "右方",
+        "左方",
+        "下方",
+        "上方"
+      ],
+      "answer": "上方",
+      "explanation": "正式书信落款中，署名在上一行，日期在下一行。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信的基本格式",
+      "question": "给长辈写信，为了表达敬意，最恰当的祝福语是（）。",
+      "options": [
+        "祝你考试顺利",
+        "祝您身体健康",
+        "开门大吉",
+        "天天开心"
+      ],
+      "answer": "祝您身体健康",
+      "explanation": "对长辈应使用敬语“您”，且身体健康是最常用的得体祝福词。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式",
+      "question": "在书信正文的下一行空两格写“祝你”，再另起一行顶格写“（___）”。",
+      "options": [],
+      "answer": "身体健康",
+      "explanation": "书信祝福语通常采用分行缩进和顶格的特殊排版格式。"
+    }
+  ],
+  "knowledge": {
+    "point": "书信的基本格式",
+    "core_concept": "书信由称呼、问候语、正文、祝福语、署名、日期六部分组成。称呼顶格写，加冒号；问候语另起一行空两格；正文分段写；祝福语分两行写（‘祝你’空两格，‘万事如意’等顶格）；署名和日期写在右下方，署名在上，日期在下。",
+    "key_formula": "顶格称呼加冒号，落款右下名接时",
+    "common_mistakes": [
+      "把署名和日期写反了位置",
+      "在称呼后面漏写了冒号"
+    ],
+    "tips": "可以记一个口诀：头顶称呼冒号跟，问候祝福不能省，名字日期右下沉。"
+  }
+}

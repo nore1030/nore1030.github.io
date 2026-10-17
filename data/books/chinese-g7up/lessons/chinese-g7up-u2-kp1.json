@@ -1,0 +1,63 @@
+{
+  "id": "chinese-g7up-u2-kp1",
+  "title": "说明文阅读",
+  "bookId": "chinese-g7up",
+  "unitNumber": 2,
+  "unitTitle": "说明文与写作",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "说明文阅读",
+      "question": "下列不属于说明方法的是（　）",
+      "options": [
+        "举例子",
+        "列数字",
+        "打比方",
+        "象征"
+      ],
+      "answer": "象征",
+      "explanation": "象征是表现手法。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "“赵州桥长约 50 米”运用的说明方法是（　）",
+      "options": [
+        "列数字",
+        "作比较",
+        "分类别",
+        "举例子"
+      ],
+      "answer": "列数字",
+      "explanation": "用具体数字说明。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "说明文阅读",
+      "question": "说明文的语言要求准确、严密。",
+      "options": [],
+      "answer": "对",
+      "explanation": "说明文语言特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "说明文阅读",
+    "core_concept": "说明文以说明为主要表达方式，常见说明方法有举例子、列数字、打比方、作比较、分类别。说明文语言讲究准确性。",
+    "key_formula": "说明方法 + 作用",
+    "common_mistakes": [
+      "把说明方法当作修辞。"
+    ],
+    "tips": "列数字使说明准确。"
+  }
+}

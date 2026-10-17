@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u9-kp2",
+  "title": "询问位置 Where's my…?",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 9,
+  "unitTitle": "Module 3 Places and activities — In my room 在我的房间",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问位置 Where's my…?",
+      "question": "「我的书包在哪里？」的英文是（　）",
+      "options": [
+        "Where's my bag?",
+        "Where's my bags?",
+        "What's my bag?",
+        "Where are my bag?"
+      ],
+      "answer": "Where's my bag?",
+      "explanation": "单数用 Where's。"
+    }
+  ],
+  "knowledge": {
+    "point": "询问位置 Where's my…?",
+    "core_concept": "询问单数物品位置用 Where's my…?（Where is 的缩写），回答 It's…",
+    "key_formula": "Where's my bag? — It's on the bed.",
+    "common_mistakes": [
+      "Where's 后面接复数物品。"
+    ],
+    "tips": "复数用 Where are…?"
+  }
+}

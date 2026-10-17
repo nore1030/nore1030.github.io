@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9up-u2-kp2",
+  "title": "全面依法治国",
+  "bookId": "moral-g9up",
+  "unitNumber": 2,
+  "unitTitle": "民主与法治",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "全面依法治国",
+      "question": "全面依法治国的基本方式是（　）",
+      "options": [
+        "依法治国",
+        "以德治国代替法律",
+        "人治",
+        "运动"
+      ],
+      "answer": "依法治国",
+      "explanation": "依法治国是基本方式。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "全面依法治国",
+      "question": "全民守法是法治建设的最后一个环节，也是基础。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全民守法是基础。"
+    }
+  ],
+  "knowledge": {
+    "point": "全面依法治国",
+    "core_concept": "全面依法治国是治国理政的基本方式。法治要求科学立法、严格执法、公正司法、全民守法。公民要增强法治意识，自觉守法。",
+    "key_formula": "科学立法 + 严格执法 + 公正司法 + 全民守法",
+    "common_mistakes": [
+      "认为执法可以随意。"
+    ],
+    "tips": "法治四要求。"
+  }
+}

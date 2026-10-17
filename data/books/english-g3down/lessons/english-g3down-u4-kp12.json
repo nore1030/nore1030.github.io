@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp12",
+  "title": "确认位置",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 8,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "确认位置",
+      "question": "— Is it in your bag? — ___",
+      "options": [
+        "Yes, it is.",
+        "No, it is.",
+        "Yes, it isn't.",
+        "No, I don't."
+      ],
+      "answer": "Yes, it is.",
+      "explanation": "Is it...? 的肯定回答是Yes, it is."
+    }
+  ],
+  "knowledge": null
+}

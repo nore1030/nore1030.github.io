@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp23",
+  "title": "弹簧测力计使用",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "弹簧测力计使用",
+      "question": "在使用弹簧测力计前，必须要检查指针是否指在（___）刻度上。",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "最大"
+      ],
+      "answer": "0",
+      "explanation": "使用前需要进行调零。"
+    }
+  ],
+  "knowledge": null
+}

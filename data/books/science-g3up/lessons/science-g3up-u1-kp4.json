@@ -1,0 +1,55 @@
+{
+  "id": "science-g3up-u1-kp4",
+  "title": "物质在水中的溶解限度",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解限度",
+      "question": "只要不停地搅拌，食盐就可以无限制地溶解在水中。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一定量的水中所能溶解的物质是有一定限度的。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解限度",
+      "question": "同样是50毫升水，溶解能力更强的是（）。",
+      "options": [
+        "食盐",
+        "小苏打",
+        "一样强",
+        "无法比较"
+      ],
+      "answer": "食盐",
+      "explanation": "实验证明，在相同体积的水中食盐的溶解量远大于小苏打。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质在水中的溶解限度",
+      "question": "如果水中的盐已经不再溶解了，我们可以通过（）让它继续溶解。",
+      "options": [
+        "不断搅拌",
+        "静置一会儿",
+        "加一点水",
+        "把盐研碎"
+      ],
+      "answer": "加一点水",
+      "explanation": "增加溶剂的量可以溶解更多的溶质。"
+    }
+  ],
+  "knowledge": null
+}

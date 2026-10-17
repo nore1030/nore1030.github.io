@@ -1,0 +1,217 @@
+{
+  "id": "science-g3up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 6,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "水蒸气的颗粒很大，我们可以用眼睛直接看到。",
+      "options": [],
+      "answer": "错",
+      "explanation": "水蒸气分子极小，肉眼不可见。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "测量水温时，温度计的下端可以接触到烧杯的底部。",
+      "options": [],
+      "answer": "错",
+      "explanation": "温度计液泡不能碰到容器壁或底，否则测得的是容器的温度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "两个杯中水量、水温、盐量都相同，搅拌的杯子盐化得快。",
+      "options": [],
+      "answer": "对",
+      "explanation": "搅拌能加快溶质分子扩散，从而加速溶解。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "水结成冰后，它就不再是水这种物质了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "水、冰、水蒸气是同一种物质的三种不同状态。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "在探究“温度与溶解快慢关系”的实验中，不同的条件是（）。",
+      "options": [
+        "食盐的量",
+        "水的量",
+        "水的温度",
+        "搅拌的速度"
+      ],
+      "answer": "水的温度",
+      "explanation": "研究温度影响，必须设定不同的温度作为变量。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "混合物的分离技术",
+      "question": "过滤时，漏斗下端的管口应该（）。",
+      "options": [
+        "悬在烧杯中央",
+        "紧贴烧杯内壁",
+        "插入液面以下",
+        "离开烧杯一段距离"
+      ],
+      "answer": "紧贴烧杯内壁",
+      "explanation": "紧贴内壁可以防止液体溅出，且能加快过滤速度。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质在水中的溶解限度",
+      "question": "小明向一杯水中加了5份食盐直到不能溶解，如果想再多溶解1份盐，他可以（）。",
+      "options": [
+        "加一点水",
+        "拼命搅拌",
+        "把盐磨细",
+        "静置一天"
+      ],
+      "answer": "加一点水",
+      "explanation": "只有改变溶剂总量或极大幅改变温度才能改变溶解的限度。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "冬天自来水管容易被冻裂，主要是因为（）。",
+      "options": [
+        "水管质量不好",
+        "水结冰后体积变大",
+        "水结冰后变重了",
+        "水管受冷收缩了"
+      ],
+      "answer": "水结冰后体积变大",
+      "explanation": "水结冰体积膨胀会产生巨大的压力将管壁撑裂。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水蒸气与蒸发现象",
+      "question": "杯子里的水放置两三天后会变少，是因为发生了（）。",
+      "options": [
+        "渗透",
+        "结冰",
+        "蒸发",
+        "过滤"
+      ],
+      "answer": "蒸发",
+      "explanation": "常温下液态水缓慢变成气态导致水量减少。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解限度",
+      "question": "在做溶解实验时，我们要（）地加入食盐或小苏打比较合适。",
+      "options": [
+        "一股脑全部",
+        "一小份一小份",
+        "越多越好",
+        "不用称量"
+      ],
+      "answer": "一小份一小份",
+      "explanation": "分份加入能更准确地观察到在哪一刻达到饱和。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "往冰块上撒较多食盐，冰块融化速度会（）。",
+      "options": [
+        "变慢",
+        "变快",
+        "不变",
+        "先变慢再变快"
+      ],
+      "answer": "变快",
+      "explanation": "盐可以降低水的凝固点，让冰在更低的温度下融化。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "在探究加快溶解的实验中，搅拌可以加快（）。",
+      "options": [
+        "食盐的量",
+        "溶解的速度",
+        "水的温度",
+        "物质的甜度"
+      ],
+      "answer": "溶解的速度",
+      "explanation": "物理性质的迁移速度受外力（搅拌）影响显著。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "100毫升的水结成冰后，体积通常会扩展到大约（）毫升左右。",
+      "options": [],
+      "answer": "110",
+      "explanation": "水结冰后体积约膨胀九分之一。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "人体的正常体温大约是（）℃。",
+      "options": [],
+      "answer": "37",
+      "explanation": "常识性知识点。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水的沸腾实验与温度计使用",
+      "question": "水受热剧烈变成水蒸气的现象叫做（）。",
+      "options": [],
+      "answer": "沸腾",
+      "explanation": "沸腾是特殊的汽化现象。"
+    }
+  ],
+  "knowledge": null
+}

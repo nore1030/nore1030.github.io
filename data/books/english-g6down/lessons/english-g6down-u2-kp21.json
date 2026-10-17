@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp21",
+  "title": "特殊疑问词",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊疑问词",
+      "question": "________ did you do yesterday afternoon?",
+      "options": [],
+      "answer": "what",
+      "explanation": "问做了什么事用what。"
+    }
+  ],
+  "knowledge": null
+}

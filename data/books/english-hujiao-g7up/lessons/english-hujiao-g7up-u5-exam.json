@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Module 3 Travels — Visiting the moon 探月",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+      "question": "「宇宙飞船」的英文是（　）",
+      "options": [
+        "spaceship",
+        "spaceshep",
+        "space ship",
+        "spaceshipp"
+      ],
+      "answer": "spaceship",
+      "explanation": "spaceship 宇宙飞船。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "there be 与将来计划",
+      "question": "There ___ some water on the moon.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "answer": "is",
+      "explanation": "water 不可数用 is。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "there be 与将来计划",
+      "question": "人类已经登上过月球。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1969 年阿波罗登月。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+      "question": "「登上月球」的英文是（　）",
+      "options": [
+        "land on the moon",
+        "land in the moon",
+        "land the moon",
+        "land on moon"
+      ],
+      "answer": "land on the moon",
+      "explanation": "on the moon。"
+    }
+  ],
+  "knowledge": null
+}

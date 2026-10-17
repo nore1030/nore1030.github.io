@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g2down-u7-kp8",
+  "title": "词义辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 7,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词义辨析",
+      "question": "选出近义词对应正确的一组：",
+      "options": [
+        "忽然—突然",
+        "赶紧—慢慢",
+        "经常—偶尔",
+        "暖和—寒冷"
+      ],
+      "answer": "忽然—突然",
+      "explanation": "忽然和突然都表示事情发生得快。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词义辨析",
+      "question": "请将词语与其表达的意思连线：",
+      "options": [
+        "决定",
+        "改造",
+        "挑选",
+        "欣赏",
+        "改变原样",
+        "做出主张",
+        "享受美景",
+        "精心选择"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考查对本单元重点动词意义的理解。"
+    }
+  ],
+  "knowledge": null
+}

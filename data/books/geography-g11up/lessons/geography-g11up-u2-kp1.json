@@ -1,0 +1,47 @@
+{
+  "id": "geography-g11up-u2-kp1",
+  "title": "区域发展特征",
+  "bookId": "geography-g11up",
+  "unitNumber": 2,
+  "unitTitle": "区域发展与地理信息技术",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "区域发展特征",
+      "question": "区域发展的基本前提是（　）",
+      "options": [
+        "因地制宜",
+        "照搬先进地区经验",
+        "只看经济数据",
+        "忽略环境"
+      ],
+      "answer": "因地制宜",
+      "explanation": "因地制宜。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "区域发展特征",
+      "question": "不同区域的发展条件和路径存在差异。",
+      "options": [],
+      "answer": "对",
+      "explanation": "区域差异。"
+    }
+  ],
+  "knowledge": {
+    "point": "区域发展特征",
+    "core_concept": "区域发展一般经历初期、成长、转型、再生期。区域之间存在自然、经济、社会与文化差异，要因地制宜。",
+    "key_formula": "因地制宜、优势互补",
+    "common_mistakes": [
+      "认为区域发展路径完全相同。"
+    ],
+    "tips": "各有路径。"
+  }
+}

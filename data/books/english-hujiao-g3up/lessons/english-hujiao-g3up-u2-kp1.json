@@ -1,0 +1,52 @@
+{
+  "id": "english-hujiao-g3up-u2-kp1",
+  "title": "询问身体与情绪 How are you?",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Module 1 Getting to know you — How are you? 你好吗",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问身体与情绪 How are you?",
+      "question": "— How are you? — ___",
+      "options": [
+        "I'm fine, thank you.",
+        "I'm nine.",
+        "My name is Tom.",
+        "Yes, I am."
+      ],
+      "answer": "I'm fine, thank you.",
+      "explanation": "问好坏答 I'm fine。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问身体与情绪 How are you?",
+      "question": "回答别人的关心后，应说（　）",
+      "options": [
+        "Thank you.",
+        "Hello.",
+        "Goodbye.",
+        "Sorry."
+      ],
+      "answer": "Thank you.",
+      "explanation": "对关心表示感谢。"
+    }
+  ],
+  "knowledge": {
+    "point": "询问身体与情绪 How are you?",
+    "core_concept": "询问身体/情绪用 How are you?，回答 I'm fine, thank you. / Very well, thanks. 反问 And you?",
+    "key_formula": "How are you? — I'm fine, thank you. And you?",
+    "common_mistakes": [
+      "把 How are you? 当成「你是谁」。"
+    ],
+    "tips": "问「好不好」不是问「是谁」。"
+  }
+}

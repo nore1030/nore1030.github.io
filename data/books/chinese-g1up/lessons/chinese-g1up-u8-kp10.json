@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1up-u8-kp10",
+  "title": "词语搭配",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 9,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "请为词语找到合适的搭档。",
+      "options": [
+        "金色的",
+        "绿色的",
+        "雪白的",
+        "圆圆的",
+        "叶子",
+        "浪花",
+        "月亮",
+        "太阳"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "金色的太阳，绿色的叶子，雪白的浪花，圆圆的月亮。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp13",
+  "title": "语法结构",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语法结构",
+      "question": "If you follow the rules, the teachers will be ______.",
+      "options": [
+        "angry",
+        "happy",
+        "bad",
+        "sad"
+      ],
+      "answer": "happy",
+      "explanation": "遵守规则老师会高兴（happy）。"
+    }
+  ],
+  "knowledge": null
+}

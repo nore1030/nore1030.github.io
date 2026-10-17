@@ -1,0 +1,36 @@
+{
+  "id": "g11up-u3-kp2",
+  "title": "用空间向量求空间角",
+  "bookId": "g11up",
+  "unitNumber": 3,
+  "unitTitle": "空间向量与立体几何",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用空间向量求空间角",
+      "question": "求异面直线所成角时，公式中需要（　）",
+      "options": [
+        "取绝对值",
+        "取相反数",
+        "平方",
+        "开方"
+      ],
+      "answer": "取绝对值",
+      "explanation": "保证为锐角。"
+    }
+  ],
+  "knowledge": {
+    "point": "用空间向量求空间角",
+    "core_concept": "异面直线所成角 $\\theta$ 满足 $\\cos\\theta=\\frac{|\\vec a\\cdot\\vec b|}{|\\vec a||\\vec b|}$；直线与平面所成角用直线方向向量与平面法向量夹角的正弦值表示。",
+    "key_formula": "$\\cos\\theta=\\frac{|\\vec a\\cdot\\vec b|}{|\\vec a||\\vec b|}$",
+    "common_mistakes": [
+      "忘记取绝对值导致角为钝角。"
+    ],
+    "tips": "异面直线夹角为锐角或直角。"
+  }
+}

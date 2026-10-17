@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp5",
+  "title": "植物的生活需求",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的生活需求",
+      "question": "植物的生长只需要阳光，不需要水分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "植物生长需要水分、阳光、空气等多种条件。"
+    }
+  ],
+  "knowledge": null
+}

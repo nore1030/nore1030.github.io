@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp11",
+  "title": "名词及搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词及搭配",
+      "question": "Did you read a _______?",
+      "options": [
+        "football",
+        "magazine",
+        "film",
+        "lamp"
+      ],
+      "answer": "magazine",
+      "explanation": "read搭配书报杂志，magazine符合语境。"
+    }
+  ],
+  "knowledge": null
+}

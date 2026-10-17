@@ -1,0 +1,66 @@
+{
+  "id": "geography-g11up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "geography-g11up",
+  "unitNumber": 1,
+  "unitTitle": "国土安全与地理信息技术",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "国土安全与资源保障",
+      "question": "保障国家粮食安全的重要措施是（　）",
+      "options": [
+        "保护耕地、推进科技增产",
+        "大量进口粮食",
+        "放弃农业",
+        "占用耕地建城"
+      ],
+      "answer": "保护耕地、推进科技增产",
+      "explanation": "粮食安全。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "地理信息技术",
+      "question": "在手机上导航主要用到的技术是（　）",
+      "options": [
+        "GPS",
+        "RS",
+        "GIS 分析建模",
+        "人工测量"
+      ],
+      "answer": "GPS",
+      "explanation": "GPS 定位导航。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "国土安全与资源保障",
+      "question": "海洋权益是国家国土安全的重要组成部分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "海洋权益。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "地理信息技术",
+      "question": "监测台风移动可利用遥感技术。",
+      "options": [],
+      "answer": "对",
+      "explanation": "RS 监测台风。"
+    }
+  ],
+  "knowledge": null
+}

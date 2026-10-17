@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp7",
+  "title": "常见近义词",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 6,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见近义词",
+      "question": "“十分”的近义词是哪一个？",
+      "options": [
+        "几分",
+        "非常",
+        "一点",
+        "一半"
+      ],
+      "answer": "非常",
+      "explanation": "十分和非常都表示程度很深。"
+    }
+  ],
+  "knowledge": null
+}

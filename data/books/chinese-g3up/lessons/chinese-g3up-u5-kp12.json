@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u5-kp12",
+  "title": "标点符号",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“它是在这里捕鱼吗（ ）”这句话末尾应该用什么标点？",
+      "options": [
+        "？",
+        "。",
+        "！",
+        "，"
+      ],
+      "answer": "？",
+      "explanation": "这是一个疑问句，表达疑问语气。"
+    }
+  ],
+  "knowledge": null
+}

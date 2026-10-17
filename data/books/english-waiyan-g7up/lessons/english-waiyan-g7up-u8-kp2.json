@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u8-kp2",
+  "title": "购物句型 How much…?",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Module 8 Choosing presents 挑选礼物",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物句型 How much…?",
+      "question": "询问价格应问（　）",
+      "options": [
+        "How much is it?",
+        "How many is it?",
+        "How much it is?",
+        "What much is it?"
+      ],
+      "answer": "How much is it?",
+      "explanation": "how much 问价。"
+    }
+  ],
+  "knowledge": {
+    "point": "购物句型 How much…?",
+    "core_concept": "询问价格 How much is it? / How much are they?；想买 I want to buy… / I'd like to buy…",
+    "key_formula": "How much is it? — It's 20 yuan.",
+    "common_mistakes": [
+      "how much 后接可数复数物品。"
+    ],
+    "tips": "问价统一 how much。"
+  }
+}

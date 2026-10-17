@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp12",
+  "title": "形容词词义",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形容词词义",
+      "question": "The farm is so _______. I like it.",
+      "options": [
+        "cold",
+        "big",
+        "short",
+        "fat"
+      ],
+      "answer": "big",
+      "explanation": "形容农场通常用big（大）。"
+    }
+  ],
+  "knowledge": null
+}

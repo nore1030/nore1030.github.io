@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g10up-u5-kp2",
+  "title": "英语的传播与变体",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Languages Around the World 世界语言",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "英语的传播与变体",
+      "question": "「口音」的英文是（　）",
+      "options": [
+        "accent",
+        "acsent",
+        "accsent",
+        "ascent"
+      ],
+      "answer": "accent",
+      "explanation": "accent 口音。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "英语的传播与变体",
+      "question": "English is widely used. 意思接近「英语被广泛使用」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "widely used。"
+    }
+  ],
+  "knowledge": {
+    "point": "英语的传播与变体",
+    "core_concept": "English is widely used. 英语被广泛使用；accent 口音；American English 美式英语、British English 英式英语。",
+    "key_formula": "English is an international language.",
+    "common_mistakes": [
+      "widely 写成 wide。"
+    ],
+    "tips": "修饰 used 用副词 widely。"
+  }
+}

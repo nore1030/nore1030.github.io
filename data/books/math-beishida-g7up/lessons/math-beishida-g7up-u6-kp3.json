@@ -1,0 +1,36 @@
+{
+  "id": "math-beishida-g7up-u6-kp3",
+  "title": "统计图的选择",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第六章 数据的收集与整理",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择",
+      "question": "反映一周气温的增减变化，选（　）",
+      "options": [
+        "折线统计图",
+        "条形统计图",
+        "扇形统计图",
+        "表格"
+      ],
+      "answer": "折线统计图",
+      "explanation": "变化看折线。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计图的选择",
+    "core_concept": "条形统计图看数量多少；折线统计图看增减变化；扇形统计图看各部分与总数的关系。",
+    "key_formula": "条形 / 折线 / 扇形",
+    "common_mistakes": [
+      "看占比却用条形图。"
+    ],
+    "tips": "看变化用折线，看占比用扇形。"
+  }
+}

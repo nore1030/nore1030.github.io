@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u6-kp12",
+  "title": "词语搭配",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "一阵（_____）吹过，树上的叶子一动也不动。",
+      "options": [],
+      "answer": "大风",
+      "explanation": "用于描述天气变化的常见词语。"
+    }
+  ],
+  "knowledge": null
+}

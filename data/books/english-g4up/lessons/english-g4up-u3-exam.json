@@ -1,0 +1,221 @@
+{
+  "id": "english-g4up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色与外貌",
+      "question": "My friend has blue hair. 意思是‘我的朋友有蓝色的头发’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "blue是蓝色，hair是头发。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物性别代词",
+      "question": "当介绍一个女生的名字时，可以说：His name is Lucy.",
+      "options": [],
+      "answer": "错",
+      "explanation": "女生的名字前应该用Her而不是His。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "句型逻辑",
+      "question": "He has glasses. 意思是‘他戴着眼镜’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "has/have 在描述穿戴特征时可以表示‘戴着’。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "词性理解",
+      "question": "friendly 是形容词，用来描述人的性格友好。",
+      "options": [],
+      "answer": "对",
+      "explanation": "friendly虽然以ly结尾却是描述人性格的形容词。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊疑问句",
+      "question": "-______ is she? -She is my sister.",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "answer": "Who",
+      "explanation": "根据答句my sister可知是在询问身份，用Who。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三单搭配",
+      "question": "Wu Binbin ______ glasses and his shoes are black.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "are"
+      ],
+      "answer": "has",
+      "explanation": "Wu Binbin是单数主语，表示“有/佩戴”特征用has。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "拼写与拼读",
+      "question": "I have a new ______. I can write on it.",
+      "options": [
+        "nose",
+        "note",
+        "not",
+        "no"
+      ],
+      "answer": "note",
+      "explanation": "根据上下文“能写在上面”判断是便条note。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "选择疑问回答",
+      "question": "-A boy or girl? -______",
+      "options": [
+        "Yes, he is.",
+        "A boy.",
+        "I am ten.",
+        "He is tall."
+      ],
+      "answer": "A boy.",
+      "explanation": "选择疑问句二选一回答其一。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "形容词顺序",
+      "question": "He has ______ hair.",
+      "options": [
+        "short black",
+        "black short",
+        "a short",
+        "shorts"
+      ],
+      "answer": "short black",
+      "explanation": "描述发型时一般按“长短+颜色”顺序排列。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词辨析",
+      "question": "I have a new ______. Her name is Sarah.",
+      "options": [
+        "pencil",
+        "friend",
+        "bag",
+        "desk"
+      ],
+      "answer": "friend",
+      "explanation": "后面提到了Her name，说明前面的主语是人friend。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "代词",
+      "question": "She is my friend. ______ name is Chen Jie.",
+      "options": [],
+      "answer": "her",
+      "explanation": "女性姓名所有格用her。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体部位",
+      "question": "Touching my ______(鼻子) and your face.",
+      "options": [],
+      "answer": "nose",
+      "explanation": "鼻子英文为nose。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合填空",
+      "question": "He ______ (有) a green schoolbag.",
+      "options": [],
+      "answer": "has",
+      "explanation": "单数主语he后接动词has表示拥有。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中英互译",
+      "question": "请将单词与其对应的中文连线。",
+      "options": [
+        "strong",
+        "quiet",
+        "thin",
+        "glasses",
+        "安静的",
+        "瘦的",
+        "眼镜",
+        "强壮的"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "考察本单元重点外貌与性格词汇。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句",
+      "question": "连词成句：[He, has, glasses, blue]",
+      "options": [
+        "He",
+        "has",
+        "glasses",
+        "blue"
+      ],
+      "answer": "He,has,blue,glasses",
+      "explanation": "主语+谓语+特征描述（颜色+名词）。"
+    }
+  ],
+  "knowledge": null
+}

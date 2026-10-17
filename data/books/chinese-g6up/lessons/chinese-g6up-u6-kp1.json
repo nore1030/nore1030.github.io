@@ -1,0 +1,188 @@
+{
+  "id": "chinese-g6up-u6-kp1",
+  "title": "关键句的提取与观点把握",
+  "bookId": "chinese-g6up",
+  "unitNumber": 6,
+  "unitTitle": "保护环境",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "文章的中心句只能出现在文段的开头。",
+      "options": [],
+      "answer": "错",
+      "explanation": "中心句可能在开头（总起），也可能在中间（过渡）或结尾（总结）。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "《只有一个地球》一文的结论是我们要精心地保护地球。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文通过介绍地球的渺小和资源的有限，最后得出了保护地球的结论。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "下列词语中，加点字读音完全正确的一组是：",
+      "options": [
+        "天涯（yá） 晶莹（yín）",
+        "颠簸（bǒ） 既然（jì）",
+        "璀璨（chàn） 恩赐（cì）",
+        "滥用（luàn） 慷慨（kǎi）"
+      ],
+      "answer": "颠簸（bǒ） 既然（jì）",
+      "explanation": "莹读yíng，璨读càn，滥读làn。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "“地球，这位人类的母亲，这个生命的摇篮，是那样的美丽壮观，和蔼可亲。”这句话运用的修辞手法是：",
+      "options": [
+        "夸张",
+        "拟人",
+        "比喻",
+        "排比"
+      ],
+      "answer": "比喻",
+      "explanation": "把地球比作母亲和摇篮，是典型的比喻。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "在《只有一个地球》中，作者提到\"矿产资源\"是为了说明：",
+      "options": [
+        "地球很美丽",
+        "地球很小",
+        "自然资源有限",
+        "人类非常聪明"
+      ],
+      "answer": "自然资源有限",
+      "explanation": "矿产资源属于不可再生资源，用以论证资源有限性。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "阅读语段：“我们要精心地保护地球，保护地球的生态环境。让地球更好地造福于我们的后代吧！”这段话的情感基调是：",
+      "options": [
+        "悲哀期待",
+        "愤怒斥责",
+        "呼唤号召",
+        "平铺直叙"
+      ],
+      "answer": "呼唤号召",
+      "explanation": "通过“我们要...让...吧”表达了强烈的号召性。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "下列关于“珍惜资源”的标语，最恰当的一项是：",
+      "options": [
+        "与其修饰面容，不如重修心田。",
+        "但存方寸地，留与子孙耕。",
+        "诚实是人生最珍贵的财富。",
+        "书山有路勤为径。"
+      ],
+      "answer": "但存方寸地，留与子孙耕。",
+      "explanation": "这句标语强调了保护土地资源服务后代，契合环保主题。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "《只有一个地球》采用了（______）的结构，先说明现状，最后发出呼吁。",
+      "options": [],
+      "answer": "总分总",
+      "explanation": "文章典型的逻辑结构是总领、分述、总结。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "请为下列事物选择恰当的打比方说法。",
+      "options": [
+        "地球",
+        "森林",
+        "湿地",
+        "大气层",
+        "地球的肺",
+        "人类的母亲",
+        "天然护罩",
+        "地球的肾"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "地球是母亲，森林光合作用是肺，湿地过滤是肾，大气层是护罩。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "将下列词语排列成一句保护环境的口号。",
+      "options": [
+        "保护",
+        "环境",
+        "人人有责",
+        "就是",
+        "保护自己"
+      ],
+      "answer": "保护,环境,就是,保护自己,人人有责",
+      "explanation": "这是符合逻辑且通顺的环保宣传语。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "关键句的提取与观点把握",
+      "question": "根据《只有一个地球》的内容，排列句子的逻辑关系。",
+      "options": [
+        "因此",
+        "我们要",
+        "精心",
+        "保护",
+        "地球"
+      ],
+      "answer": "因此,我们要,精心,保护,地球",
+      "explanation": "这是全文的结论句，逻辑连贯。"
+    }
+  ],
+  "knowledge": {
+    "point": "关键句的提取与观点把握",
+    "core_concept": "阅读写景或说明性文章时，要重点关注文章的开头、结尾以及段落的起首句。这些地方往往隐藏着作者的观点或全篇的中心。通过合并各部分的中心意思，就能准确把握作者想要传达的核心价值。在《只有一个地球》中，结论正是在层层论述后在文末点明。",
+    "key_formula": "找中心句 = 首句（总起）+ 尾句（总结）+ 过渡句（承上启下）",
+    "common_mistakes": [
+      "将文中的生动描写误认为是核心观点。",
+      "提取关键句时只摘录一半，导致意思不完整。"
+    ],
+    "tips": "朗读时遇到作者发出的感叹或号召，通常就是关键句所在。"
+  }
+}

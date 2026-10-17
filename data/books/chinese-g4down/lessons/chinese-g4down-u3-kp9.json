@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp9",
+  "title": "语言表达",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 7,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语言表达",
+      "question": "要把“雨后天晴”的感觉写得富有诗意，哪种描述最合适？",
+      "options": [
+        "太阳出来了，地面变干了。",
+        "小雨停了，空气很潮湿。",
+        "赤着脚，携着手，踏着青草，采着露珠。",
+        "地面上有很多积水，踩着很湿。"
+      ],
+      "answer": "赤着脚，携着手，踏着青草，采着露珠。",
+      "explanation": "出自戴望舒的诗，语言生动富有节奏感。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "science-g6down-u2-kp8",
+  "title": "动物的遗传与变异",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 2,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物的遗传与变异",
+      "question": "变异在生物界是普遍存在的，而遗传只发生在特定物种中。",
+      "options": [],
+      "answer": "错",
+      "explanation": "遗传和变异是生物界普遍存在的生命特性。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物的遗传与变异",
+      "question": "下列关于金鱼的说法正确的是（ ）。",
+      "options": [
+        "金鱼是天生的野生品种",
+        "金鱼形态各异是人工选择和变异的结果",
+        "所有金鱼都没有相似之处",
+        "金鱼不会产生变异"
+      ],
+      "answer": "金鱼形态各异是人工选择和变异的结果",
+      "explanation": "人类利用生物的变异，通过人工选育培育出了品种繁多的金鱼。"
+    }
+  ],
+  "knowledge": null
+}

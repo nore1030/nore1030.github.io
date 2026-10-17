@@ -1,0 +1,93 @@
+{
+  "id": "science-g5up-u4-kp3",
+  "title": "血液循环系统的功能与计算",
+  "bookId": "science-g5up",
+  "unitNumber": 4,
+  "unitTitle": "健康生活",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "经常锻炼身体可以增强心脏的功能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "强健的心脏每次搏动泵出的血液更多，有利于身体健康。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "人体负责搬运氧气和养料的器官是？",
+      "options": [
+        "脑",
+        "心脏",
+        "肺",
+        "骨骼"
+      ],
+      "answer": "心脏",
+      "explanation": "心脏泵出的血液在全身流动，负责物质的输送。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "心脏跳动次数与脉搏次数的关系是？",
+      "options": [
+        "它们通常是一致的",
+        "脉搏次数更多",
+        "心脏跳动次数更多",
+        "两者没有关系"
+      ],
+      "answer": "它们通常是一致的",
+      "explanation": "每一轮心脏收缩引起的大血管搏动即为脉搏。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "关于心率，下列说法正确的是？",
+      "options": [
+        "所有人安静时的心率都一样",
+        "运动后心率会减慢",
+        "运动时心率会加快",
+        "睡觉时心率最快"
+      ],
+      "answer": "运动时心率会加快",
+      "explanation": "运动需要更多氧气，心脏会加速跳动以提高供血量。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "若心脏每分钟跳动75次，每搏输出量为80毫升，则该人每分钟输出量为（___）毫升。",
+      "options": [],
+      "answer": "6000",
+      "explanation": "75乘以80等于6000。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "血液循环系统的功能与计算",
+      "question": "人体内唯一一个像“泵”一样工作的器官是（___）。",
+      "options": [],
+      "answer": "心脏",
+      "explanation": "心脏通过收缩和舒张推动血液循环。"
+    }
+  ],
+  "knowledge": null
+}

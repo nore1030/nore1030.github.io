@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp7",
+  "title": "字音辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "下列词语中，加点字读音全部正确的一组是：",
+      "options": [
+        "折（zhē）腾 嚷（rǎng）嚷",
+        "负责（zé） 柜（guǐ）子",
+        "贼（zéi）人 倒（dào）霉",
+        "偏（piān）僻 泄（shì）气"
+      ],
+      "answer": "贼（zéi）人 倒（dào）霉",
+      "explanation": "折腾应读 zhē，柜子读 guì，泄气读 xiè。"
+    }
+  ],
+  "knowledge": null
+}

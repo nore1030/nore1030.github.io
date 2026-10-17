@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp16",
+  "title": "句型补全",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 12,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型补全",
+      "question": "What ____ are your shoes?",
+      "options": [
+        "long",
+        "heavy",
+        "size",
+        "tall"
+      ],
+      "answer": "size",
+      "explanation": "What size是固定短语，询问鞋子的号码。"
+    }
+  ],
+  "knowledge": null
+}

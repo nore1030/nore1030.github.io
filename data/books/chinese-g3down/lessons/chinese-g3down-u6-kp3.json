@@ -1,0 +1,140 @@
+{
+  "id": "chinese-g3down-u6-kp3",
+  "title": "散文语境中的感官与色彩美感",
+  "bookId": "chinese-g3down",
+  "unitNumber": 6,
+  "unitTitle": "多彩童年",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "《肥皂泡》一文中，“轻清透明”是描写肥皂泡样子的词语。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“轻清透明”准确地抓住了肥皂泡质地轻、颜色清、外观亮的特点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "“玲珑骄傲”在文中是形容肥皂泡小巧而充满自信的样子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是拟人化的写法，表现了冰心奶奶对肥皂泡的喜爱之情。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "在《肥皂泡》中，肥皂泡吹得漂亮是因为（ ）。",
+      "options": [
+        "肥皂液浓稠适度",
+        "天气非常寒冷",
+        "扇扇子力气大",
+        "肥皂品质名贵"
+      ],
+      "answer": "肥皂液浓稠适度",
+      "explanation": "文中提到“和弄和弄”使水有了浓度，是吹出漂亮泡泡的前提。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "“若是扇得好，一个大球会分裂成两三个玲珑骄傲的小球。”这里的“玲珑”意思是（ ）。",
+      "options": [
+        "透明的",
+        "精巧细致的",
+        "飞得高的",
+        "圆滚滚的"
+      ],
+      "answer": "精巧细致的",
+      "explanation": "玲珑通常形容东西小而精美。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "下列描写色彩的词语中，哪一个不是出自《肥皂泡》？",
+      "options": [
+        "五色的浮光",
+        "金灿灿",
+        "清透",
+        "乱转"
+      ],
+      "answer": "金灿灿",
+      "explanation": "《肥皂泡》中主要描写浮光和透明色，“金灿灿”多用于描写阳光或油菜花。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "《肥皂泡》的作者是享誉世界的女作家（ ）。",
+      "options": [],
+      "answer": "冰心",
+      "explanation": "冰心，原名谢婉莹，代表作有《繁星》、《春水》。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "请将下列叠词与它修饰的事物正确连线。",
+      "options": [
+        "软悠悠",
+        "轻悠悠",
+        "粘稠",
+        "清澈",
+        "肥皂液",
+        "小溪水",
+        "大泡泡",
+        "飘在天空"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "根据课文描述，大泡泡是软悠悠的，飘在天空是轻悠悠的。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "散文语境中的感官与色彩美感",
+      "question": "连词成句：描写肥皂泡的美丽。",
+      "options": [
+        "美丽的",
+        "是",
+        "肥皂泡",
+        "一种",
+        "色彩斑斓的",
+        "梦"
+      ],
+      "answer": "色彩斑斓的,肥皂泡,是,一种,美丽的,梦",
+      "explanation": "将散文的诗意语言重新排列，体会修饰语的位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "散文语境中的感官与色彩美感",
+    "core_concept": "冰心等作家的散文富有感官之美。通过视觉（颜色：五色浮光、透明）、触觉（软悠悠、轻悠悠）以及听觉的组合，运用叠词和精妙的比喻，营造出一种唯美、轻盈的语境氛围，表达对生活的热爱。",
+    "key_formula": "色彩词 + 叠词 + 形状描写 = 极具美感的画面",
+    "common_mistakes": [
+      "叠词使用不当，如把‘软悠悠’用在坚硬的事物上。",
+      "无法体会作者描写事物时蕴含的情感寄托。"
+    ],
+    "tips": "朗读时要注意节奏，体会叠词带来的韵律感，脑海中要浮现对应的色彩画面。"
+  }
+}

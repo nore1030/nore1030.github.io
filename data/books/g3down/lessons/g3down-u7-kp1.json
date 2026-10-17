@@ -1,0 +1,161 @@
+{
+  "id": "g3down-u7-kp1",
+  "title": "小数的读写法与含义",
+  "bookId": "g3down",
+  "unitNumber": 7,
+  "unitTitle": "小数的初步认识",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "3.5 读作三点五。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小数读法：整数部分按整数读，小数点读作点，小数部分依次读出各个数位。3.5读作三点五。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "0.8 米就是 8 厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "0.8 米表示十分之八米，即 8 分米。8 分米等同于 80 厘米。故原题描述错误。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "2.05 读作（ ）。",
+      "options": [
+        "二点五",
+        "二点零五",
+        "二十点五",
+        "二点零零五"
+      ],
+      "answer": "二点零五",
+      "explanation": "小数点读作“点”，小数部分的“0”必须读出来，5 在百分位读作“五”，故读作二点零五。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "四点八 写作（ ）。",
+      "options": [
+        "48",
+        "40.8",
+        "4.8",
+        "0.48"
+      ],
+      "answer": "4.8",
+      "explanation": "整数部分是 4，点是小数点，小数部分是 8，合起来记作 4.8。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "把 1 米平均分成 10 份，每份是（ ）。",
+      "options": [
+        "1 分米",
+        "1 厘米",
+        "10 分米",
+        "0.01 米"
+      ],
+      "answer": "1 分米",
+      "explanation": "1 米 = 10 分米，平均分成 10 份，每份是 1 分米，也就是 0.1 米。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "5 角用元作单位，写成小数是（ ）元。",
+      "options": [
+        "0.5",
+        "0.05",
+        "5.0",
+        "0.50"
+      ],
+      "answer": "0.5",
+      "explanation": "10 角是 1 元，1 角是 0.1 元，5 角是 0.5 元。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "下面（ ）在 0.1 到 0.2 之间。",
+      "options": [
+        "0.01",
+        "0.15",
+        "0.25",
+        "2.1"
+      ],
+      "answer": "0.15",
+      "explanation": "0.1 相当于 0.10，0.2 相当于 0.20，0.15 位于两者之间。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "十分之三用小数表示是（ ）。",
+      "options": [
+        "0.3",
+        "0.03",
+        "3.0",
+        "0.33"
+      ],
+      "answer": "0.3",
+      "explanation": "十分之几可以用一位小数表示，分子是 3，所以是 0.3。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "50 厘米 = ___ 分米。",
+      "options": [],
+      "answer": "5",
+      "explanation": "因为 10 厘米 = 1 分米，所以 50 厘米中有 5 个 10 厘米，即 5 分米。验算：$5 \\times 10 = 50$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读写法与含义",
+      "question": "2 米 30 厘米 = ___ 厘米。",
+      "options": [],
+      "answer": "230",
+      "explanation": "1 米 = 100 厘米，2 米 = 200 厘米；200 + 30 = 230 厘米。验算：$230 - 30 = 200$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数的读写法与含义",
+    "core_concept": "小数是分数的另一种表现形式。十分之几可以写成一位小数，百分之几写成两位小数。读小数时，整数部分按整数读法，点读作“点”，小数部分按顺序读出每个数字。在长度单位中，1分米=0.1米；在人民币单位中，1角=0.1元。",
+    "key_formula": "1\\text{分米} = 0.1\\text{米}, 1\\text{角} = 0.1\\text{元}",
+    "common_mistakes": [
+      "读小数部分时带上计数单位，如 0.25 误读作零点二十五",
+      "混淆单位换算，如把 5 厘米直接写成 0.5 米"
+    ],
+    "tips": "记准小数点是分界线，左边是整数，右边第一位是十分位，表示几个十分之一。"
+  }
+}

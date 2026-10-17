@@ -1,0 +1,68 @@
+{
+  "id": "chinese-g6up-u6-kp2",
+  "title": "倡议书的格式与写作",
+  "bookId": "chinese-g6up",
+  "unitNumber": 6,
+  "unitTitle": "保护环境",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "写倡议书时，署名应该写在日期的下方。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在倡议书右下角，应该是先写署名，再在署名下方写日期。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "写倡议书的第一行居中应该写：",
+      "options": [
+        "建议",
+        "标题",
+        "称呼",
+        "署名"
+      ],
+      "answer": "标题",
+      "explanation": "倡议书格式第一行应为标题。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "倡议书的格式与写作",
+      "question": "请将倡议书的各部分与其内容对应连线。",
+      "options": [
+        "称呼",
+        "正文",
+        "署名",
+        "日期",
+        "倡议的对象",
+        "具体建议",
+        "倡议者名字",
+        "写书的时间"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "这是标准的倡议书格式对应关系。"
+    }
+  ],
+  "knowledge": {
+    "point": "倡议书的格式与写作",
+    "core_concept": "倡议书是为倡导某项举措而写的应用文。其格式严谨：标题居中；称呼顶格；正文另起一行空两格，需写清倡议背景、具体措施；结尾常用号召性语句；最后在右下角分两行写出署名和日期。",
+    "key_formula": "倡议书 = 标题 + 称呼 + 背景建议 + 号召结语 + 署名日期",
+    "common_mistakes": [
+      "署名和日期的位置写反，或者未右对齐。",
+      "称呼后面漏掉冒号。"
+    ],
+    "tips": "记口诀：标题中间站，称呼顶格看，正文空两格，署名日期右下方。"
+  }
+}

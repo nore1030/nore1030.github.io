@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp14",
+  "title": "音高综合",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音高综合",
+      "question": "吹奏排箫时，管子越短，发出的声音：",
+      "options": [
+        "越高",
+        "越低",
+        "越轻",
+        "越响"
+      ],
+      "answer": "越高",
+      "explanation": "短管内的空气柱短，振动速度快，产生的音高就越高。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u7-kp13",
+  "title": "古诗名句",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句",
+      "question": "借问酒家何处有？牧童遥指（___）。",
+      "options": [],
+      "answer": "杏花村",
+      "explanation": "出自杜牧的《清明》。"
+    }
+  ],
+  "knowledge": null
+}

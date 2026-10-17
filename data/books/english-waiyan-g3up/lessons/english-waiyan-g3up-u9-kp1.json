@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u9-kp1",
+  "title": "be going to 表将来",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 9,
+  "unitTitle": "Module 9 I'm going to do the long jump 打算与志向",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be going to 表将来",
+      "question": "「我打算参加跳远。」的英文是（　）",
+      "options": [
+        "I'm going to do the long jump.",
+        "I going to do the long jump.",
+        "I'm going to does the long jump.",
+        "I'm go to do the long jump."
+      ],
+      "answer": "I'm going to do the long jump.",
+      "explanation": "be going to + 原形。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be going to 表将来",
+      "question": "be going to 中的 to 后面接（　）",
+      "options": [
+        "动词原形",
+        "动词三单",
+        "动词过去式",
+        "动词 -ing"
+      ],
+      "answer": "动词原形",
+      "explanation": "to 后接原形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be going to 表将来",
+      "question": "be going to 表示「打算、将要」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表将来计划。"
+    }
+  ],
+  "knowledge": {
+    "point": "be going to 表将来",
+    "core_concept": "be going to + 动词原形，表示打算/将要做的事。主语决定 be：I am going to… / He is going to…",
+    "key_formula": "I'm going to do the long jump.",
+    "common_mistakes": [
+      "going to 后接三单或过去式。"
+    ],
+    "tips": "to 后面永远用原形。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp4",
+  "title": "植物的基本特征",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 0,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的基本特征",
+      "question": "我们观察校园里的植物时，可以随便把花摘下来回家看。",
+      "options": [],
+      "answer": "错",
+      "explanation": "观察植物要爱护植物，不能随意采摘。"
+    }
+  ],
+  "knowledge": null
+}

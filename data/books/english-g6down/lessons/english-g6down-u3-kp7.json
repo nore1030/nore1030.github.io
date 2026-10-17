@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u3-kp7",
+  "title": "短语识记",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 3,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "短语识记",
+      "question": "'took pictures' 意思是‘照相’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "take pictures的过去式为took pictures。"
+    }
+  ],
+  "knowledge": null
+}

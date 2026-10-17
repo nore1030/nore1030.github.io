@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp26",
+  "title": "力的测量",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "力的测量",
+      "question": "1牛顿的力相当于（___）克物体的重力。",
+      "options": [],
+      "answer": "100",
+      "explanation": "科学常识：1N约为100克物体的重力。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp6",
+  "title": "字词含义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词含义",
+      "question": "“它贪睡，无忧无虑，什么事也不过问。”中“过问”的意思是：",
+      "options": [
+        "过去询问",
+        "关心、干预",
+        "路过问候",
+        "经过询问"
+      ],
+      "answer": "关心、干预",
+      "explanation": "这里的“过问”是指猫对事情不关心的状态。"
+    }
+  ],
+  "knowledge": null
+}

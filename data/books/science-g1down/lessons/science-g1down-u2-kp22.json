@@ -1,0 +1,23 @@
+{
+  "id": "science-g1down-u2-kp22",
+  "title": "蜗牛的取食",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 15,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "蜗牛的取食",
+      "question": "蜗牛嘴里长着成千上万颗小齿，我们把这种结构叫做（___）。",
+      "options": [],
+      "answer": "齿舌",
+      "explanation": "齿舌是蜗牛特有的取食器官。"
+    }
+  ],
+  "knowledge": null
+}

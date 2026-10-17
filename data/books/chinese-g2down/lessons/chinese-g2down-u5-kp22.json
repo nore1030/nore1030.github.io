@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2down-u5-kp22",
+  "title": "动物动作匹配",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物动作匹配",
+      "question": "请将动物与其在《小马过河》里的动作/特征连线。",
+      "options": [
+        "老马",
+        "小马",
+        "老牛",
+        "松鼠",
+        "说水浅",
+        "说水深",
+        "爱动脑",
+        "去磨坊"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "老马教导思考，小马去磨坊，老牛说浅，松鼠说深。"
+    }
+  ],
+  "knowledge": null
+}

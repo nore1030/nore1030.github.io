@@ -1,0 +1,120 @@
+{
+  "id": "science-g3down-u2-kp6",
+  "title": "蚕的生长发育阶段",
+  "bookId": "science-g3down",
+  "unitNumber": 2,
+  "unitTitle": "动物的一生",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕的一生是从蚕宝宝（幼虫）开始的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蚕的一生是从卵开始的。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕的一生中，身体最长的阶段是（）。",
+      "options": [
+        "蚕卵",
+        "五龄幼虫",
+        "蚕蛹",
+        "蚕蛾"
+      ],
+      "answer": "五龄幼虫",
+      "explanation": "五龄幼虫（即将吐丝前）是蚕身体最长的时期。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕宝宝吐丝结茧的目的是（）。",
+      "options": [
+        "保暖",
+        "装饰",
+        "保护蛹",
+        "把自己困住"
+      ],
+      "answer": "保护蛹",
+      "explanation": "结茧是为了保护处于不吃不动状态的蛹。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "喂养蚕宝宝时，不正确的做法是（）。",
+      "options": [
+        "采摘新鲜桑叶",
+        "桑叶上的水要擦干",
+        "房间里喷洒灭蚊剂",
+        "清理蚕沙"
+      ],
+      "answer": "房间里喷洒灭蚊剂",
+      "explanation": "杀虫剂会导致蚕中毒死亡。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕身体两侧的小黑点是它的（）。",
+      "options": [
+        "眼睛",
+        "气门",
+        "足",
+        "花纹"
+      ],
+      "answer": "气门",
+      "explanation": "那是蚕的呼吸器官，叫气门。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕的一生共要经历（___）次蜕皮。",
+      "options": [],
+      "answer": "6",
+      "explanation": "幼虫期4次，蚕茧内2次（蜕皮变蛹和变蛾）。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "像蚕这样，幼虫和成虫在形态构造和生活习性上差异很大的发育过程叫（___）。",
+      "options": [],
+      "answer": "变态发育",
+      "explanation": "生命周期中形态发生剧烈变化的过程称为变态发育。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蚕的生长发育阶段",
+      "question": "蚕宝宝生长过程中，不吃不动像睡觉一样，这叫（___）。",
+      "options": [],
+      "answer": "眠",
+      "explanation": "蚕在蜕皮前会有‘眠’的过程。"
+    }
+  ],
+  "knowledge": null
+}

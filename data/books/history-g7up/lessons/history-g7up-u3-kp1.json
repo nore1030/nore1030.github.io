@@ -1,0 +1,47 @@
+{
+  "id": "history-g7up-u3-kp1",
+  "title": "三国鼎立与西晋统一",
+  "bookId": "history-g7up",
+  "unitNumber": 3,
+  "unitTitle": "三国两晋南北朝",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三国鼎立与西晋统一",
+      "question": "为三国鼎立局面奠定基础的战役是（　）",
+      "options": [
+        "官渡之战",
+        "赤壁之战",
+        "巨鹿之战",
+        "淝水之战"
+      ],
+      "answer": "赤壁之战",
+      "explanation": "赤壁之战奠定三国鼎立。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "三国鼎立与西晋统一",
+      "question": "220 年曹丕建立魏国，定都洛阳。",
+      "options": [],
+      "answer": "对",
+      "explanation": "魏国定都洛阳。"
+    }
+  ],
+  "knowledge": {
+    "point": "三国鼎立与西晋统一",
+    "core_concept": "官渡之战为曹操统一北方奠定基础，赤壁之战奠定三国鼎立局面。220 年曹丕称帝建立魏，之后蜀、吴相继建立。",
+    "key_formula": "官渡之战—赤壁之战",
+    "common_mistakes": [
+      "把赤壁之战当作统一之战。"
+    ],
+    "tips": "赤壁之战奠定三分局面。"
+  }
+}

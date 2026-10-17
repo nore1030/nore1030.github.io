@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u3-kp3",
+  "title": "旋转现象的辨析",
+  "bookId": "g2down",
+  "unitNumber": 3,
+  "unitTitle": "图形的运动（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "钟面上分针从数字12走到数字6是旋转现象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "钟表指针绕中心点做圆周运动，是典型的旋转。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "开门时，门锁把手的转动属于什么运动？",
+      "options": [
+        "平移",
+        "旋转",
+        "向上移动",
+        "对称"
+      ],
+      "answer": "旋转",
+      "explanation": "把手绕着轴心转动，是旋转现象。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "下列运动中，属于旋转的是？",
+      "options": [
+        "滑冰运动员直线滑行",
+        "旋转木马绕着轴动",
+        "电梯上升",
+        "火车匀速行驶"
+      ],
+      "answer": "旋转木马绕着轴动",
+      "explanation": "绕轴运动是典型的旋转特征。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "拧螺丝钉属于哪种运动？",
+      "options": [
+        "平移",
+        "上下滑动",
+        "旋转",
+        "折叠"
+      ],
+      "answer": "旋转",
+      "explanation": "拧的动作是圆周运动，所以是旋转。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "$45 \times 1 = ?$",
+      "options": [],
+      "answer": "45",
+      "explanation": "任何数与1相乘都得原数。验算：$45 \times 1 = 45$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "旋转现象的辨析",
+    "core_concept": "物体绕着一个固定的点或轴做圆周运动，这种现象叫旋转。旋转时，物体的大小和形状虽然不变，但它的指向（方向）会随着转动而发生改变。生活中常见的旋转有：风扇转动、钟表指针挪动、开锁等。",
+    "key_formula": "绕中心点运动 + 改变指向 = 旋转",
+    "common_mistakes": [
+      "分不清旋转中心，认为只要在动就是平移。",
+      "将钟表指针的摆动误认为平移。"
+    ],
+    "tips": "寻找有没有那个“不动的中心点”。如果有东西绕着那个点在转圈，那就是旋转。"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g1down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 15,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "“亮晶晶”可以用来形容夜晚的星星。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“亮晶晶”形容物体明亮闪烁。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：礼貌请求",
+      "question": "借用他人的纸笔，用完了可以直接放回去，不用打招呼。",
+      "options": [],
+      "answer": "错",
+      "explanation": "归还时应打招呼并表示感谢。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "ABB式词语积累",
+      "question": "“胖乎乎”常用来形容小宝宝的小手。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是课文中出现过的词语搭配。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "音序查字法步骤",
+      "question": "查“厨”这个字，音序是“C”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“厨”的音节是chu，首字母是大写C。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：礼貌请求",
+      "question": "你不小心把球踢到了老师脚下，你应该说：",
+      "options": [
+        "老师，帮我踢过来。",
+        "哎呀，挡着我了。",
+        "老师，对不起，请帮我把球拿一下好吗？",
+        "球是我的！"
+      ],
+      "answer": "老师，对不起，请帮我把球拿一下好吗？",
+      "explanation": "既道歉又使用了礼貌请求词汇。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音序查字法步骤",
+      "question": "在音序查字法中，找到“B”后，应按什么顺序找音节“ba”？",
+      "options": [
+        "笔画顺序",
+        "偏旁顺序",
+        "音节表顺序",
+        "字数多少"
+      ],
+      "answer": "音节表顺序",
+      "explanation": "查字典时，找完音序找音节。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“树有了邻居，喜鹊也有了邻居。”使用了什么手法？",
+      "options": [
+        "比喻",
+        "夸张",
+        "拟人",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "把树和喜鹊当作人来写，说他们有邻居。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文细节",
+      "question": "小公鸡捉不到虫子，急得直_____。",
+      "options": [
+        "哭",
+        "跑",
+        "叫",
+        "跳"
+      ],
+      "answer": "哭",
+      "explanation": "根据《小公鸡和小鸭子》课文原文填空。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "“只有”中的“只”读音是：",
+      "options": [
+        "zhī",
+        "zhǐ",
+        "zǐ",
+        "zī"
+      ],
+      "answer": "zhǐ",
+      "explanation": "在“只有、只要”中读第三声。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "你今天怎么这么开心（ ）",
+      "options": [
+        "。",
+        "？",
+        "！",
+        "……"
+      ],
+      "answer": "？",
+      "explanation": "这是一个疑问句，表达疑问语气。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗填空",
+      "question": "不及汪伦送我（___）。",
+      "options": [],
+      "answer": "情",
+      "explanation": "考查《赠汪伦》最后一句的记忆。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁练习",
+      "question": "“河、江、海”这三个字的偏旁都是（___）。",
+      "options": [],
+      "answer": "三点水",
+      "explanation": "它们都与水有关。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物动作搭配",
+      "question": "连一连，看看谁在做什么？",
+      "options": [
+        "小鸭子",
+        "小公鸡",
+        "树",
+        "喜鹊",
+        "捉虫",
+        "游泳",
+        "叫喳喳",
+        "长高"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "根据课文内容，小鸭游泳，公鸡捉虫，树长高，喜鹊叫。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音序查字法步骤",
+      "question": "找出汉字的大写音序。",
+      "options": [
+        "说",
+        "讲",
+        "玩",
+        "很",
+        "J",
+        "W",
+        "S",
+        "H"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "说(S)，讲(J)，玩(W)，很(H)。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语言表达",
+      "question": "连词成句：",
+      "options": [
+        "我们",
+        "是",
+        "好伙伴",
+        "都"
+      ],
+      "answer": "我们,都,是,好伙伴",
+      "explanation": "基本的句式结构练习。"
+    }
+  ],
+  "knowledge": null
+}

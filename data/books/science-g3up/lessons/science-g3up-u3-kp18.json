@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp18",
+  "title": "降雨等级划分",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "降雨等级划分",
+      "question": "24小时总降水量为15毫米，属于（ ）。",
+      "options": [
+        "小雨",
+        "中雨",
+        "大雨",
+        "暴雨"
+      ],
+      "answer": "中雨",
+      "explanation": "10-24.9毫米之间为中雨。"
+    }
+  ],
+  "knowledge": null
+}

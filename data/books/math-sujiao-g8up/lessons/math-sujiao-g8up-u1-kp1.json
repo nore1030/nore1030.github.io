@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g8up-u1-kp1",
+  "title": "全等三角形的性质与判定",
+  "bookId": "math-sujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "全等三角形",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的性质与判定",
+      "question": "判定两个三角形全等的依据不包括（　）",
+      "options": [
+        "AAA",
+        "SSS",
+        "SAS",
+        "ASA"
+      ],
+      "answer": "AAA",
+      "explanation": "AAA 只能判定相似。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的性质与判定",
+      "question": "SSS、SAS、ASA、AAS 均可判定三角形全等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全等判定。"
+    }
+  ],
+  "knowledge": {
+    "point": "全等三角形的性质与判定",
+    "core_concept": "全等三角形对应边相等、对应角相等。判定：SSS、SAS、ASA、AAS。苏教版强调“对应”的规范书写。",
+    "key_formula": "SSS / SAS / ASA / AAS",
+    "common_mistakes": [
+      "对应顶点写错顺序。"
+    ],
+    "tips": "对应字母顺序一致。"
+  }
+}

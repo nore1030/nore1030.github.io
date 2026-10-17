@@ -1,0 +1,77 @@
+{
+  "id": "chinese-g3up-u6-kp1",
+  "title": "围绕中心意思写作",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "“海滨小城真是又整洁又美丽。”这句话可以作为整段话的中心句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "中心句通常概括了全段的主要内容。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "如果以“操场上真热闹”为中心句，下面哪个素材不适合？",
+      "options": [
+        "同学们在踢足球",
+        "几个女生在跳绳",
+        "老师在办公室批改作业",
+        "大家在做老鹰捉小鸡的游戏"
+      ],
+      "answer": "老师在办公室批改作业",
+      "explanation": "老师在办公室与“操场上热闹”这一中心不符。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "描写西沙群岛海水颜色多时采用的词语是（___）。",
+      "options": [],
+      "answer": "五光十色",
+      "explanation": "文中用五光十色来形容海水的多种颜色。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "将下列词语排列成一句赞美西沙群岛的话。",
+      "options": [
+        "西沙群岛",
+        "个",
+        "是",
+        "风景优美",
+        "地方",
+        "的"
+      ],
+      "answer": "西沙群岛,是,个,风景优美,的,地方",
+      "explanation": "主系表结构的陈述句，描述西沙群岛的特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "围绕中心意思写作",
+    "core_concept": "这是小学中年级习作的核心。要求一段话或一篇文章必须由一个明确的中心句导出。中心句通常位于句首，起到总领全文的作用。后续的内容必须紧紧围绕这个“中心”展开，通过颜色、形状、声音、动作等多个细节，将中心意思（如：美丽、整洁、富饶）写具体、写生动。",
+    "key_formula": "中心句（总）+ 细节描写A + 细节描写B + 细节描写C（分）",
+    "common_mistakes": [
+      "所选素材脱离中心句，如写操场热闹却写在教室学习",
+      "中心句概括不准确或缺失"
+    ],
+    "tips": "写作前先想好一个最核心的形容词，然后围绕这个词从不同角度举例子。"
+  }
+}

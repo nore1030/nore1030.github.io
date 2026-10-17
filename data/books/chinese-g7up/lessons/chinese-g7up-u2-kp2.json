@@ -1,0 +1,31 @@
+{
+  "id": "chinese-g7up-u2-kp2",
+  "title": "记叙文写作",
+  "bookId": "chinese-g7up",
+  "unitNumber": 2,
+  "unitTitle": "说明文与写作",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "记叙文写作",
+      "question": "记叙文写作要围绕中心选材、详略得当。",
+      "options": [],
+      "answer": "对",
+      "explanation": "写作要点。"
+    }
+  ],
+  "knowledge": {
+    "point": "记叙文写作",
+    "core_concept": "记叙文写作要中心明确、详略得当、线索清晰，善用描写使内容生动，结尾要有真情实感的升华。",
+    "key_formula": "中心 + 详略 + 描写",
+    "common_mistakes": [
+      "流水账、无中心。"
+    ],
+    "tips": "围绕中心选材。"
+  }
+}

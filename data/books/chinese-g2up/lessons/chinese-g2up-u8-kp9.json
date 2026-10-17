@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp9",
+  "title": "成语辨析",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "成语辨析",
+      "question": "形容一个人受过惊吓，遇到一点动静就非常害怕，可以用哪个成语？",
+      "options": [
+        "神气活现",
+        "惊弓之鸟",
+        "摇首摆尾",
+        "胆小如鼠"
+      ],
+      "answer": "惊弓之鸟",
+      "explanation": "惊弓之鸟比喻被弓箭吓怕了的鸟，指受过惊吓的人遇到动静就恐慌。"
+    }
+  ],
+  "knowledge": null
+}

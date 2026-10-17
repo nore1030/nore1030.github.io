@@ -1,0 +1,183 @@
+{
+  "id": "g2up-u6-kp1",
+  "title": "7、8、9的乘法口诀",
+  "bookId": "g2up",
+  "unitNumber": 6,
+  "unitTitle": "表内乘法（二）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "计算 $8 \\times 9$ 和 $9 \\times 8$ 时，用的是同一句乘法口诀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计算 $8 \\times 9$ 和 $9 \\times 8$ 调换了因数位置，均使用口诀“八九七十二”。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "7的乘法口诀中，每一句口诀的积都比前一句多7。",
+      "options": [],
+      "answer": "对",
+      "explanation": "乘数增加1，积增加另一个因数的值。$7 \\times (n+1) - 7 \\times n = 7$。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "9 乘任何一个数得到的积，个位数字与十位数字的和都是 9（0除外）。",
+      "options": [],
+      "answer": "对",
+      "explanation": "例如：$9 \\times 2 = 18$ ($1+8=9$)，$9 \\times 5 = 45$ ($4+5=9$)。这是9的乘法口诀的特殊规律。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "口诀“七八五十六”可以用来计算下面哪个算式？",
+      "options": [
+        "$7 \\times 7$",
+        "$8 \\times 8$",
+        "$7 \\times 8$",
+        "$7 + 8$"
+      ],
+      "answer": "$7 \\times 8$",
+      "explanation": "口诀“七八五十六”对应 $7 \\times 8$ 或 $8 \\times 7$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "$9 \\times 4$ 的积是多少？",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "45"
+      ],
+      "answer": "36",
+      "explanation": "根据口诀“四九三十六”，积是36。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "下面哪句口诀是错误的？",
+      "options": [
+        "七九六十三",
+        "八九七十一",
+        "九九八十一",
+        "六九五十四"
+      ],
+      "answer": "八九七十一",
+      "explanation": "应该是“八九七十二”，积是72而不是71。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "算式 $8 \\times 7 + 8$ 的结果与下列哪个算式相等？",
+      "options": [
+        "$8 \\times 8$",
+        "$8 \\times 6$",
+        "$7 \\times 7$",
+        "$8 \\times 9$"
+      ],
+      "answer": "$8 \\times 8$",
+      "explanation": "$8 \\times 7$ 表示7个8相加，再加上1个8，总共是8个8相加，即 $8 \\times 8$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "两排桌子，第一排 8 张，第二排 9 张，一共有多少张？",
+      "options": [
+        "17",
+        "72",
+        "81",
+        "64"
+      ],
+      "answer": "17",
+      "explanation": "注意题干是两排不是每排，算式是 $8 + 9 = 17$。不要混淆乘法和加法。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "9 的乘法口诀“五九四十五”，下一个口诀是：",
+      "options": [
+        "五八四十",
+        "六九五十四",
+        "六九六十",
+        "六八四十八"
+      ],
+      "answer": "六九五十四",
+      "explanation": "9的乘法口诀按顺序，五九之后是六九，积增加9，$45+9=54$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "有 8 大格，每大格有 5 个小格，一共有 ___ 个小格。",
+      "options": [],
+      "answer": "40",
+      "explanation": "列式：$8 \\times 5 = 40$。验算：$5 \\times 8 = 40$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "计算：$9 \\times 8 = ?$",
+      "options": [],
+      "answer": "72",
+      "explanation": "$9 \\times 8 = 72$。验算：$8 \\times 9 = 72$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "7、8、9的乘法口诀",
+      "question": "计算：$7 \\times 7 = ?$",
+      "options": [],
+      "answer": "49",
+      "explanation": "$7 \\times 7 = 49$。验算：口诀“七七四十九” ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "7、8、9的乘法口诀",
+    "core_concept": "7、8、9的乘法口诀是在前面学习2-6口诀的基础上进一步深化的知识。7的口诀共有7句，8的口诀8句，9的口诀9句。随着因数变大，积也变大。特别需要通过排列规律来识记，例如9的口诀中，积的个位与十位和始终为9，且十位数总是比乘数小1。",
+    "key_formula": "$7 \\times 8 = 56, 8 \\times 9 = 72, 9 \\times 9 = 81$",
+    "common_mistakes": [
+      "口诀记忆模棱两可，如将“六九五十四”记成“六九五十六”。",
+      "在计算连乘或乘加题目时，由于计算量变大容易出现口算加减法的错误。"
+    ],
+    "tips": "可以通过手势法记忆9的口诀，或利用积的规律：9乘几，积就是几十减几。"
+  }
+}

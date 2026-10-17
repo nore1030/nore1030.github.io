@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u3-kp3",
+  "title": "日食的成因与模拟实验",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 2,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日食的成因与模拟实验",
+      "question": "在制作日食简易模型时，三个大小不同的圆纸片分别代表什么？",
+      "options": [
+        "太阳 地球 月球",
+        "恒星 行星 卫星",
+        "金星 地球 火星",
+        "火星 木星 土星"
+      ],
+      "answer": "太阳 地球 月球",
+      "explanation": "日食模拟实验的核心是模拟日、地、月三者的位置和遮挡。"
+    }
+  ],
+  "knowledge": null
+}

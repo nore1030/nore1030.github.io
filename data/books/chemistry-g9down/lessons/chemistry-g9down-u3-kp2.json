@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g9down-u3-kp2",
+  "title": "常见的碱与中和反应",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 3,
+  "unitTitle": "酸和碱",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "中和 40 g 氢氧化钠需要氯化氢多少 g？[$\\text{NaOH}+\\text{HCl}=\\text{NaCl}+\\text{H}_2\\text{O}$，NaOH 为 40，HCl 为 36.5]",
+      "options": [],
+      "answer": "36.5",
+      "explanation": "$\\frac{40}{40}=\\frac{x}{36.5}$，$x=36.5$ g。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "中和反应的实质是氢离子与氢氧根离子结合生成水。",
+      "options": [],
+      "answer": "对",
+      "explanation": "中和反应实质。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "某溶液 pH=3，则该溶液显（　）",
+      "options": [
+        "酸性",
+        "碱性",
+        "中性",
+        "无法判断"
+      ],
+      "answer": "酸性",
+      "explanation": "pH<7 显酸性。"
+    }
+  ],
+  "knowledge": {
+    "point": "常见的碱与中和反应",
+    "core_concept": "碱能与指示剂、酸、某些盐反应。中和反应是酸与碱作用生成盐和水的反应，实质是 $\\text{H}^++\\text{OH}^-=\\text{H}_2\\text{O}$。$\\text{pH}=7$ 中性，$<7$ 酸性，$>7$ 碱性。",
+    "key_formula": "$\\text{NaOH}+\\text{HCl}=\\text{NaCl}+\\text{H}_2\\text{O}$",
+    "common_mistakes": [
+      "认为 pH 越小酸性越弱。"
+    ],
+    "tips": "pH 越小酸性越强。"
+  }
+}

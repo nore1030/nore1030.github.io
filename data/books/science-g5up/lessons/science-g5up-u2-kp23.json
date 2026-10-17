@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp23",
+  "title": "地球内部圈层数量",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球内部圈层数量",
+      "question": "如果按照主要结构来分，地球内部可以分为（ ）层。",
+      "options": [],
+      "answer": "3",
+      "explanation": "即地壳、地幔、地核三层。"
+    }
+  ],
+  "knowledge": null
+}

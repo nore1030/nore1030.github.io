@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp13",
+  "title": "限定词用法",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "限定词用法",
+      "question": "There are ______ special days in May.",
+      "options": [
+        "a",
+        "some",
+        "any",
+        "the"
+      ],
+      "answer": "some",
+      "explanation": "肯定句中修饰可数名词复数用some。"
+    }
+  ],
+  "knowledge": null
+}

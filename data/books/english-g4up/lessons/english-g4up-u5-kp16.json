@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp16",
+  "title": "情景交际",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 12,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情景交际",
+      "question": "Would you like some soup? —___, I'm full.",
+      "options": [
+        "No, thanks",
+        "Yes, please",
+        "Thanks",
+        "Sure"
+      ],
+      "answer": "No, thanks",
+      "explanation": "后面说I'm full(我饱了)，所以前面应礼貌拒绝。"
+    }
+  ],
+  "knowledge": null
+}

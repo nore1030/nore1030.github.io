@@ -1,0 +1,130 @@
+{
+  "id": "science-g2up-u2-kp2",
+  "title": "常见材料的辨识与特性",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "棉质毛巾摸起来非常坚硬、光滑。",
+      "options": [],
+      "answer": "错",
+      "explanation": "棉布材料的特性通常是柔软、吸水、粗糙。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "下列物品中，由金属材料制成的是（ ）。",
+      "options": [
+        "塑料盆",
+        "铁钥匙",
+        "纸飞机",
+        "木板凳"
+      ],
+      "answer": "铁钥匙",
+      "explanation": "钥匙通常由铁或铜等金属制成。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "这种材料亮晶晶的，敲击声音清脆，它是（ ）。",
+      "options": [
+        "木材",
+        "石头",
+        "陶瓷",
+        "金属"
+      ],
+      "answer": "金属",
+      "explanation": "金属具有光泽且敲击声响亮。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "我们使用的教材封面主要是用（ ）做成的。",
+      "options": [
+        "纸",
+        "玻璃",
+        "皮革",
+        "橡胶"
+      ],
+      "answer": "纸",
+      "explanation": "书本的主要材料是纸。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "雨伞的伞面通常选用的材料是（ ）。",
+      "options": [
+        "吸水的棉布",
+        "不透水的塑料布",
+        "厚重的木板",
+        "容易生锈的铁片"
+      ],
+      "answer": "不透水的塑料布",
+      "explanation": "雨伞需要防水，塑料或防水布是最佳选择。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "我们通常用（ ）材料来制作透明的窗户。",
+      "options": [
+        "木头",
+        "金属",
+        "玻璃",
+        "水泥"
+      ],
+      "answer": "玻璃",
+      "explanation": "玻璃具有透光性好的特点。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "筷子常用的材料比较多。下列材料中，导热最快的是（ ）。",
+      "options": [
+        "竹子",
+        "木头",
+        "不锈钢",
+        "塑料"
+      ],
+      "answer": "不锈钢",
+      "explanation": "金属的导热性能优于木材和塑料。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见材料的辨识与特性",
+      "question": "常见的材料种类很多，本单元我们重点学习辨认了（ ）种基础材料。",
+      "options": [],
+      "answer": "6",
+      "explanation": "通常包括木材、金属、塑料、玻璃、纤维（布）、陶瓷等。"
+    }
+  ],
+  "knowledge": null
+}

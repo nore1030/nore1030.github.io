@@ -1,0 +1,66 @@
+{
+  "id": "moral-g8up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "moral-g8up",
+  "unitNumber": 3,
+  "unitTitle": "维护国家利益与安全",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "国家利益与公民利益",
+      "question": "当个人利益与国家利益发生冲突时，应该（　）",
+      "options": [
+        "把国家利益放在首位",
+        "只顾个人利益",
+        "放弃国家利益",
+        "两者都不管"
+      ],
+      "answer": "把国家利益放在首位",
+      "explanation": "国家利益至上。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护国家安全",
+      "question": "下列不属于维护国家安全做法的是（　）",
+      "options": [
+        "不泄露国家秘密",
+        "发现可疑情况及时报告",
+        "随意传播军事机密",
+        "不参与危害国家安全活动"
+      ],
+      "answer": "随意传播军事机密",
+      "explanation": "泄密危害国家安全。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "国家利益与公民利益",
+      "question": "我国国家的一切权力属于人民。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人民是国家主人。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护国家安全",
+      "question": "树立国家安全意识是每个公民的责任。",
+      "options": [],
+      "answer": "对",
+      "explanation": "国家安全人人有责。"
+    }
+  ],
+  "knowledge": null
+}

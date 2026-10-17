@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11up-u2-kp1",
+  "title": "逻辑思维与论证结构",
+  "bookId": "chinese-g11up",
+  "unitNumber": 2,
+  "unitTitle": "逻辑与思辨性阅读",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "逻辑思维与论证结构",
+      "question": "由一般结论推出特殊结论的推理是（　）",
+      "options": [
+        "演绎推理",
+        "归纳推理",
+        "类比推理",
+        "直觉判断"
+      ],
+      "answer": "演绎推理",
+      "explanation": "一般→特殊为演绎。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "逻辑思维与论证结构",
+      "question": "演绎推理的结论具有必然性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "演绎结论必然。"
+    }
+  ],
+  "knowledge": {
+    "point": "逻辑思维与论证结构",
+    "core_concept": "概念、判断、推理是思维的基本形式。演绎推理由一般到特殊，结论必然为真；归纳推理由特殊到一般，结论或然。",
+    "key_formula": "演绎（必然）vs 归纳（或然）",
+    "common_mistakes": [
+      "认为归纳推理结论必然可靠。"
+    ],
+    "tips": "归纳需验证。"
+  }
+}

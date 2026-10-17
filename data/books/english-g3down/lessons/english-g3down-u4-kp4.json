@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp4",
+  "title": "方位介词辨析",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 0,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方位介词辨析",
+      "question": "'under the desk' 的中文意思是'在桌子下面'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "under表示在...下面，desk是课桌。"
+    }
+  ],
+  "knowledge": null
+}

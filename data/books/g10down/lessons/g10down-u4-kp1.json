@@ -1,0 +1,42 @@
+{
+  "id": "g10down-u4-kp1",
+  "title": "统计与抽样",
+  "bookId": "g10down",
+  "unitNumber": 4,
+  "unitTitle": "统计与概率",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "统计与抽样",
+      "question": "数据 2、4、6、8 的平均数是多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$\\frac{2+4+6+8}{4}=5$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "统计与抽样",
+      "question": "数据 1、2、3、4、5 的方差是多少？",
+      "options": [],
+      "answer": "2",
+      "explanation": "平均数 3，方差 $=\\frac{4+1+0+1+4}{5}=2$。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计与抽样",
+    "core_concept": "简单随机抽样（抽签法、随机数法）、分层抽样是常用方法。平均数、众数、中位数刻画集中趋势；方差、标准差刻画离散程度。",
+    "key_formula": "$\\bar x=\\frac1n\\sum x_i$",
+    "common_mistakes": [
+      "分层抽样时比例算错。"
+    ],
+    "tips": "分层按比例抽取。"
+  }
+}

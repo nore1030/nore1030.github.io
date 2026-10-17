@@ -1,0 +1,55 @@
+{
+  "id": "science-g6up-u3-kp2",
+  "title": "斜面的省力作用与应用",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "斜面的省力作用与应用",
+      "question": "斜面的坡度越小，向上提升重物时就越省力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "斜面坡度越平缓越省力。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "斜面的省力作用与应用",
+      "question": "下列工具中，利用了斜面原理的是（）。",
+      "options": [
+        "天平",
+        "螺钉",
+        "跷跷板",
+        "方向盘"
+      ],
+      "answer": "螺钉",
+      "explanation": "螺钉上的螺纹是变形的斜面。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "斜面的省力作用与应用",
+      "question": "盘山公路转弯多且平缓，主要是为了（）。",
+      "options": [
+        "缩短行驶距离",
+        "增加车辆美观",
+        "降低行驶坡度省力",
+        "防止山坡塌方"
+      ],
+      "answer": "降低行驶坡度省力",
+      "explanation": "盘山公路是斜面的应用，增加距离来换取省力。"
+    }
+  ],
+  "knowledge": null
+}

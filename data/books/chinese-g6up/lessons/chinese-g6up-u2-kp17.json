@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6up-u2-kp17",
+  "title": "课文人物与品质配对",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文人物与品质配对",
+      "question": "请将课文人物名称与其展现的精神品质连线。",
+      "options": [
+        "班长马宝玉",
+        "老班长",
+        "毛泽东",
+        "红军战士",
+        "舍己为人",
+        "临危不惧",
+        "伟人气质",
+        "乐观顽强"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "马宝玉临危不惧；老班长舍己为人；毛泽东具有伟人气质；红军战士革命乐观。"
+    }
+  ],
+  "knowledge": null
+}

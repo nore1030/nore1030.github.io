@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp21",
+  "title": "词汇拼写",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 17,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇拼写",
+      "question": "Put your hand ___ your desk. (在...下面)",
+      "options": [],
+      "answer": "under",
+      "explanation": "under意为在...下面。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "science-g1up-u3-kp3",
+  "title": "使用非标准物体测量",
+  "bookId": "science-g1up",
+  "unitNumber": 3,
+  "unitTitle": "比较与测量",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "用回形针测量桌面长度时，回形针之间必须首尾相连，不能留空隙。",
+      "options": [],
+      "answer": "对",
+      "explanation": "测量时工具必须首尾相连且排成直线，否则测量出的数据不准确。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "如果用同一块小立方体测量，第一张纸条测得是5块，第二张测得是3块，说明什么？",
+      "options": [
+        "第一张纸条比较长",
+        "第二张纸条比较长",
+        "两张纸条一样长",
+        "无法判断长度"
+      ],
+      "answer": "第一张纸条比较长",
+      "explanation": "使用相同单位测量时，测得的数量越多，说明物体越长。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "为什么我们在实验中更推荐用小立方体而不是回形针来测量长度？",
+      "options": [
+        "小立方体比较重",
+        "小立方体每条边都一样长，可以多个叠放",
+        "小立方体是白色的",
+        "回形针太短了"
+      ],
+      "answer": "小立方体每条边都一样长，可以多个叠放",
+      "explanation": "小立方体的规范性比回形针好，容易对齐且能堆叠。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "用不同物体测量同一张桌子，记录结果分别是：10块积木长，15个回形针长。对此描述正确的是？",
+      "options": [
+        "桌子变长了",
+        "积木比回形针长",
+        "回形针比积木长",
+        "数据没用"
+      ],
+      "answer": "积木比回形针长",
+      "explanation": "测得数量越少，说明单个测量工具的单位长度越长。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "使用非标准物体测量",
+      "question": "我们在测量物体的长度时，必须要对齐起点，也就是要对齐（___）线。",
+      "options": [],
+      "answer": "零刻度",
+      "explanation": "测量的规范是起点对齐零刻度线。"
+    }
+  ],
+  "knowledge": null
+}

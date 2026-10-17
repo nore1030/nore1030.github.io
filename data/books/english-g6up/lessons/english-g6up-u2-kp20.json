@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u2-kp20",
+  "title": "英汉配对",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "英汉配对",
+      "question": "请将下列交通工具与其中文意思配对。",
+      "options": [
+        "taxi",
+        "sled",
+        "ferry",
+        "subway",
+        "雪橇",
+        "地铁",
+        "轮渡",
+        "出租车"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "taxi-出租车, sled-雪橇, ferry-轮渡, subway-地铁。"
+    }
+  ],
+  "knowledge": null
+}

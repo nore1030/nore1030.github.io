@@ -1,0 +1,102 @@
+{
+  "id": "g3down-u6-kp3",
+  "title": "经过时间的计算",
+  "bookId": "g3down",
+  "unitNumber": 6,
+  "unitTitle": "年、月、日",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "经过时间的计算",
+      "question": "从上午 8 时到下午 2 时，经过了 4 小时。",
+      "options": [],
+      "answer": "错",
+      "explanation": "下午 2 时是 14 时，$14 - 8 = 6$（小时）。原题说法错误。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "经过时间的计算",
+      "question": "一场电影从 19:20 开始，播出了 100 分钟，结束时刻是？",
+      "options": [
+        "20:20",
+        "21:00",
+        "21:20",
+        "21:40"
+      ],
+      "answer": "21:00",
+      "explanation": "100 分钟 = 1 小时 40 分。19 时 20 分 + 1 小时 40 分 = 21 时 00 分。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "经过时间的计算",
+      "question": "超市 8:30 开始营业，21:30 停止营业，全天营业多长时间？",
+      "options": [
+        "11小时",
+        "12小时",
+        "13小时",
+        "14小时"
+      ],
+      "answer": "13小时",
+      "explanation": "$21:30 - 8:30 = 13$ 小时。全天营业 13 小时。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "经过时间的计算",
+      "question": "妈妈每天 8:00 上班，17:30 下班，中午休息 1 小时 30 分。她每天工作多长时间？",
+      "options": [
+        "8小时",
+        "9小时",
+        "9小时30分",
+        "10小时"
+      ],
+      "answer": "8小时",
+      "explanation": "总在岗时间：$17:30 - 8:00 = 9$ 小时 30 分。扣除休息时间：$9$ 小时 $30$ 分 $- 1$ 小时 $30$ 分 $= 8$ 小时。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "经过时间的计算",
+      "question": "小明下午 2 时 30 分开始写作业，4 时整完成。他写作业用了 ___ 分钟。",
+      "options": [],
+      "answer": "90",
+      "explanation": "4 时即 16 时。$16:00 - 14:30 = 1$ 小时 30 分。$1 \\times 60 + 30 = 90$ 分钟。验算：$14:30 + 90$分 $= 16:00$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "经过时间的计算",
+      "question": "24 - 7 = ?",
+      "options": [],
+      "answer": "17",
+      "explanation": "$24 - 7 = 17$。验算：$17 + 7 = 24$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "经过时间的计算",
+    "core_concept": "计算一段活动持续了多久。可以采用分段法，也可以统一转化成24时计时法后相减。公式为：结束时刻 - 开始时刻 = 经过时间。",
+    "key_formula": "结束时刻 - 开始时刻 = 经过时间",
+    "common_mistakes": [
+      "把时刻和时间单位算混（如结果写成10:00，实际是10小时）",
+      "起始和结束时间不在同一计时法下直接相减"
+    ],
+    "tips": "如果跨越了中午，先全部统一转化成24时计时法再计算，这样最不容易出错。"
+  }
+}

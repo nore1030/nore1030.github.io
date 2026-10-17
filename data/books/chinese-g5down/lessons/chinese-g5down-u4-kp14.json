@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp14",
+  "title": "诗词意境",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 10,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诗词意境",
+      "question": "“黄沙百战穿金甲，不破楼兰终不还。”中“破”的意思是：",
+      "options": [
+        "搞坏",
+        "攻下",
+        "烂掉",
+        "揭穿"
+      ],
+      "answer": "攻下",
+      "explanation": "在这里指攻克敌人的地盘。"
+    }
+  ],
+  "knowledge": null
+}

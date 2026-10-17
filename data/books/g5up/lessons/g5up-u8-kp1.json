@@ -1,0 +1,145 @@
+{
+  "id": "g5up-u8-kp1",
+  "title": "小数乘除法综合应用",
+  "bookId": "g5up",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "一个不为 0 的数乘 0.8，所得的积一定比原来的数小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一个非零数乘以一个小于1的数，积小于原数。$1 \times 0.8 = 0.8 < 1$，结论正确。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "计算 $3.5 \times 2 \times 0.5$ 时，可以先算 $2 \times 0.5$ 比较简便。",
+      "options": [],
+      "answer": "对",
+      "explanation": "利用乘法结合律，先算 $2 \times 0.5 = 1$，再乘 3.5 得到 3.5。计算过程正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "下列算式中，结果最大的算式是：",
+      "options": [
+        "$5.6 \times 0.1$",
+        "$5.6 \times 1$",
+        "$5.6 \times 1.1$",
+        "$5.6 \times 0.9$"
+      ],
+      "answer": "$5.6 \times 1.1$",
+      "explanation": "一个数（非0）乘以大于1的数结果变大。1.1最大，所以积最大。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "在比较符号练习中，$3.2 \times 0.99$ $\rule{1cm}{0.15mm}$ $3.2$，横线上应填：",
+      "options": [
+        ">",
+        "<",
+        " =",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "0.99比1小，所以积比原数小。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "计算 $0.25 \times 3.2 \times 1.25$ 最简便的方法是把 3.2 拆成：",
+      "options": [
+        "$3 + 0.2$",
+        "$0.8 \times 4$",
+        "$8 \times 0.4$",
+        "$2 + 1.2$"
+      ],
+      "answer": "$0.8 \times 4$",
+      "explanation": "$0.25 \times 4$ 和 $0.8 \times 1.25$ 都能凑整，非常简便。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "一个小数由 3 个十和 5 个百分之一组成，这个小数是：",
+      "options": [
+        "30.5",
+        "3.05",
+        "30.05",
+        "3.5"
+      ],
+      "answer": "30.05",
+      "explanation": "3个十是30，5个百分之一是0.05，合起来是30.05。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "王老师去文具店买单价 3.5 元的笔记本，带了 20 元钱，最多能买几本？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "$20 \times 3.5 \times 5 = 17.5$，余 2.5 元。$20 \times 3.5 \times 6 = 21$ 超过了。用去尾法取 5。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "1 吨等于 1000 千克，那么 0.5 吨等于 ___ 千克。",
+      "options": [],
+      "answer": "500",
+      "explanation": "$0.5 \times 1000 = 500$。验算：$500 \times 1000 = 0.5$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "$0.5 \times 40 = ?$",
+      "options": [],
+      "answer": "20",
+      "explanation": "$0.5 \times 40 = \frac{1}{2} \times 40 = 20$。验算：$20 \times 0.5 = 40$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数乘除法综合应用",
+    "core_concept": "小数乘法先按整数乘法算，再看因数中共几位小数，从积的右边起数出几位点上小数点。小数除法要把除数转化成整数，被除数同步移动小数点。计算中注意进一法和去尾法在实际生活中的应用。",
+    "key_formula": "$因数小数位数之和 = 积的小数位数$",
+    "common_mistakes": [
+      "点小数点时数错位数，尤其是在末尾有0的情况下",
+      "小数除法中商的小数点没有和被除数移动后的位置对齐"
+    ],
+    "tips": "计算后可以用估算验证结果的合理性，比如 0.9 乘一个数积一定变小。"
+  }
+}

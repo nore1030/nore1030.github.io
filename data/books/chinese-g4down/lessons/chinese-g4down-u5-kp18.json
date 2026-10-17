@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp18",
+  "title": "近义词选择",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词选择",
+      "question": "选出与“灿烂”意思最相近的词语：",
+      "options": [
+        "绚烂",
+        "昏暗",
+        "微弱",
+        "平淡"
+      ],
+      "answer": "绚烂",
+      "explanation": "灿烂和绚烂都用来形容光彩非常鲜艳、夺目。"
+    }
+  ],
+  "knowledge": null
+}

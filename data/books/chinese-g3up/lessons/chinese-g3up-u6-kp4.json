@@ -1,0 +1,80 @@
+{
+  "id": "chinese-g3up-u6-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“风景优美，物产丰富”中的“优”是什么意思？",
+      "options": [
+        "优良，美好",
+        "多余的",
+        "悠闲",
+        "优待"
+      ],
+      "answer": "优良，美好",
+      "explanation": "在此语境中，“优”表示质量好。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "形容“光彩鲜明耀眼”的词语是：",
+      "options": [
+        "瑰丽",
+        "壮观",
+        "五光十色",
+        "波光粼粼"
+      ],
+      "answer": "五光十色",
+      "explanation": "五光十色形容色彩繁多，光辉灿烂。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "“水光潋滟晴方好”中的“方”字，在这里的意思是：",
+      "options": [
+        "方向",
+        "方法",
+        "正，正好",
+        "方正"
+      ],
+      "answer": "正，正好",
+      "explanation": "方好即正好的意思。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "请将景物与其特点进行配对。",
+      "options": [
+        "西沙群岛",
+        "海滨小城",
+        "小兴安岭",
+        "天门山",
+        "雄伟",
+        "富饶",
+        "整洁",
+        "美丽的大花园"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "根据课文内容对应：西沙群岛富饶，海滨小城整洁，小兴安岭像大花园，天门山雄伟。"
+    }
+  ],
+  "knowledge": null
+}

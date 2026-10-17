@@ -1,0 +1,151 @@
+{
+  "id": "english-g3down-u3-kp2",
+  "title": "描述身体部位的特征表达",
+  "bookId": "english-g3down",
+  "unitNumber": 3,
+  "unitTitle": "At the zoo",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "句子 'It has big eyes.' 的意思是 '它有小眼睛'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "big意思是'大的'，所以是'大眼睛'。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "The rabbit has ________ ears.",
+      "options": [
+        "short",
+        "long",
+        "small",
+        "thin"
+      ],
+      "answer": "long",
+      "explanation": "兔子的耳朵特征是'长的'(long)。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "It ________ a long nose.",
+      "options": [
+        "is",
+        "am",
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "描述某物拥有什么特征部位，主语是It，谓语动词用has。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "Come here, children! Look ________ the elephant.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "固定搭配look at意为'看……'。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "It has ________ small head.",
+      "options": [
+        "a",
+        "an",
+        "/",
+        "two"
+      ],
+      "answer": "a",
+      "explanation": "head是可数名词单数，开头辅音音素用a。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "It has a short tail. It has big eyes. It is ________.",
+      "options": [
+        "a giraffe",
+        "a rabbit",
+        "a monkey",
+        "an elephant"
+      ],
+      "answer": "a rabbit",
+      "explanation": "兔子符合短尾巴和大眼睛的特征。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "It ___ a big body.",
+      "options": [],
+      "answer": "has",
+      "explanation": "主语是it，表示'有'用has。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "将下列身体部位与中文意思连线。",
+      "options": [
+        "tail",
+        "nose",
+        "eye",
+        "body",
+        "眼睛",
+        "身体",
+        "尾巴",
+        "鼻子"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "tail-尾巴, nose-鼻子, eye-眼睛, body-身体。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述身体部位的特征表达",
+      "question": "连词成句：(has, it, nose, a, long)",
+      "options": [
+        "has",
+        "it",
+        "nose",
+        "a",
+        "long"
+      ],
+      "answer": "it,has,a,long,nose",
+      "explanation": "描述物体的固定句型：It has + a + 形容词 + 部位。"
+    }
+  ],
+  "knowledge": null
+}

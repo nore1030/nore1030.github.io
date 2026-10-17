@@ -1,0 +1,102 @@
+{
+  "id": "g3up-u5-kp1",
+  "title": "倍的含义与直观感知",
+  "bookId": "g3up",
+  "unitNumber": 5,
+  "unitTitle": "倍的认识",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "求一个数是另一个数的几倍，答案后面要带单位“倍”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "倍不是单位名称，它是表示两个数量之间的关系，所以计算结果后面不写单位。验算：如 $10 \\div 5 = 2$，结果直接写 2 即可。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "8 里面有 2 个 4，可以说成 8 是 4 的 2 倍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "8 可以分成两个 4，$8 \\div 4 = 2$，即 8 是 4 的 2 倍。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "第一行画 2 个圆，第二行画 6 个圆。第二行圆的个数是第一行的几倍？",
+      "options": [
+        "2 倍",
+        "3 倍",
+        "4 倍",
+        "12 倍"
+      ],
+      "answer": "3 倍",
+      "explanation": "求 6 是 2 的几倍，列式：$6 \\div 2 = 3$。验算：$2 \\times 3 = 6$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "3 的 7 倍可以用哪道算式表示？",
+      "options": [
+        "$3 + 7$",
+        "$7 - 3$",
+        "$3 \\times 7$",
+        "$21 \\div 3$"
+      ],
+      "answer": "$3 \\times 7$",
+      "explanation": "求一个数的几倍是多少，用乘法计算。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "把 2 个苹果看作一份，6 个苹果可以看作这样的几份？",
+      "options": [
+        "2 份",
+        "3 份",
+        "4 份",
+        "12 份"
+      ],
+      "answer": "3 份",
+      "explanation": "$6 \\div 2 = 3$（份）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "倍的含义与直观感知",
+      "question": "有 10 根小棒，每 2 根摆一个五角星，可以摆 ___ 个五角星。",
+      "options": [],
+      "answer": "5",
+      "explanation": "求 10 里面有几个 2。$10 \\div 2 = 5$。验算：$5 \\times 2 = 10$。"
+    }
+  ],
+  "knowledge": {
+    "point": "倍的含义与直观感知",
+    "core_concept": "“倍”是建立在“份”的概念之上的。如果把一个量看作 1 份，另一个量里包含几个这样的一份，我们就说这个量是前者的几倍。它不是具体的单位（如个、只、米），而是两个数之间的一种关系。",
+    "key_formula": "较大的数内含有几份较小的数，就是几倍。",
+    "common_mistakes": [
+      "写结果时习惯性加上“倍”字作为单位，如“答：是 3 倍”写成“3 倍个”",
+      "图中没有对齐就数个数，没有看清哪一个是标准的一份"
+    ],
+    "tips": "学习时多动手圈一圈。比如 6 里面有几个 2？每 2 个圈一个圈，圈了 3 次，就是 3 倍。"
+  }
+}

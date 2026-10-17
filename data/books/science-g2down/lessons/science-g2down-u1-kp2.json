@@ -1,0 +1,50 @@
+{
+  "id": "science-g2down-u1-kp2",
+  "title": "磁铁的非接触吸引与隔物吸铁",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "磁铁的非接触吸引与隔物吸铁",
+      "question": "把磁铁放入水中，它就不能再吸引大头针了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "磁铁在水中仍然具有磁性，可以穿过水吸引铁制品。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁铁的非接触吸引与隔物吸铁",
+      "question": "磁铁隔着（    ）也能吸起铁质物体。",
+      "options": [
+        "厚木板",
+        "很薄的纸",
+        "铁板",
+        "砖头"
+      ],
+      "answer": "很薄的纸",
+      "explanation": "磁铁可以隔着非磁性薄物体吸铁，当物体过厚或隔着强磁性物体时效果会减弱或消失。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁铁的非接触吸引与隔物吸铁",
+      "question": "磁铁能吸引铁的性质，我们科学上称之为（    ）。",
+      "options": [],
+      "answer": "磁性",
+      "explanation": "磁铁能吸引铁、镍、钴等物质的性质叫磁性。"
+    }
+  ],
+  "knowledge": null
+}

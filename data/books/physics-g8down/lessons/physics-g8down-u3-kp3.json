@@ -1,0 +1,31 @@
+{
+  "id": "physics-g8down-u3-kp3",
+  "title": "机械能及其转化",
+  "bookId": "physics-g8down",
+  "unitNumber": 3,
+  "unitTitle": "功和机械能",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "机械能及其转化",
+      "question": "物体自由下落时重力势能转化为动能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "机械能转化。"
+    }
+  ],
+  "knowledge": {
+    "point": "机械能及其转化",
+    "core_concept": "动能与势能可以相互转化；若只有动能和势能相互转化，机械能总量保持不变。",
+    "key_formula": "$E_k+E_p=\\text{常量}$（不计阻力）",
+    "common_mistakes": [
+      "忽略摩擦损耗。"
+    ],
+    "tips": "自由下落：重力势能 → 动能。"
+  }
+}

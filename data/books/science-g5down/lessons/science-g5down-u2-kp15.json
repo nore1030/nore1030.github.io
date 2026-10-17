@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp15",
+  "title": "载重稳定性",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 9,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "载重稳定性",
+      "question": "放置重物时，为了保持船的平稳，应该怎么做？",
+      "options": [
+        "全部放在船头",
+        "全部放在船的一侧",
+        "均匀分布，重心居中",
+        "随意堆放"
+      ],
+      "answer": "均匀分布，重心居中",
+      "explanation": "均匀分布货物可以防止侧翻，保持重心稳定有利于航行。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp20",
+  "title": "天气与气候的区别",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "天气与气候的区别",
+      "question": "下列描述属于气候的是（ ）。",
+      "options": [
+        "昆明四季如春",
+        "今天乌云密布",
+        "昨晚下了一场雨",
+        "此刻窗外微风习习"
+      ],
+      "answer": "昆明四季如春",
+      "explanation": "气候强调长期稳定性，天气强调短时间的瞬间状态。"
+    }
+  ],
+  "knowledge": null
+}

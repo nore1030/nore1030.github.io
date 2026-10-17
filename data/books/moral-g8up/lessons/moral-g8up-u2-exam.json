@@ -1,0 +1,66 @@
+{
+  "id": "moral-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g8up",
+  "unitNumber": 2,
+  "unitTitle": "网络生活与社会诚信",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "合理利用网络",
+      "question": "下列属于健康上网行为的是（　）",
+      "options": [
+        "控制上网时长、拒绝不良信息",
+        "沉迷网络游戏",
+        "浏览暴力色情内容",
+        "随意加陌生好友"
+      ],
+      "answer": "控制上网时长、拒绝不良信息",
+      "explanation": "健康上网。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "诚信与失信后果",
+      "question": "下列行为体现诚信的是（　）",
+      "options": [
+        "如实汇报考试情况",
+        "考试作弊",
+        "虚报成绩骗取荣誉",
+        "冒用他人名义"
+      ],
+      "answer": "如实汇报考试情况",
+      "explanation": "诚信体现在细节。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "合理利用网络",
+      "question": "网络空间也要遵守法律法规。",
+      "options": [],
+      "answer": "对",
+      "explanation": "网络不是法外之地。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "诚信与失信后果",
+      "question": "诚信是良好人格的重要组成部分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诚信重要。"
+    }
+  ],
+  "knowledge": null
+}

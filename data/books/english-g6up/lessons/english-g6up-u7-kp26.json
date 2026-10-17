@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp26",
+  "title": "将来计划",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "将来计划",
+      "question": "请将下列单词连成一句话：",
+      "options": [
+        "are",
+        "Where",
+        "we",
+        "going"
+      ],
+      "answer": "Where,are,we,going",
+      "explanation": "特殊疑问句语序：特殊疑问词 + be + 主语 + doing。"
+    }
+  ],
+  "knowledge": null
+}

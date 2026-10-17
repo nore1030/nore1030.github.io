@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp19",
+  "title": "陈述句",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "陈述句",
+      "question": "将下列单词连成句子：",
+      "options": [
+        "They",
+        "tomatoes",
+        "are",
+        "."
+      ],
+      "answer": "They,are,tomatoes,.",
+      "explanation": "主语+be动词+名词复数。"
+    }
+  ],
+  "knowledge": null
+}

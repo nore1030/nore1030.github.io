@@ -1,0 +1,66 @@
+{
+  "id": "moral-g5down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g5down",
+  "unitNumber": 2,
+  "unitTitle": "公德与法治意识",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护社会公德",
+      "question": "下面哪些属于维护公德的行为（　）",
+      "options": [
+        "排队乘车、垃圾分类",
+        "乱扔垃圾",
+        "插队",
+        "公共场所吸烟"
+      ],
+      "answer": "排队乘车、垃圾分类",
+      "explanation": "文明行为示范。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "法治意识启蒙",
+      "question": "遭遇纠纷要用合法方式解决。",
+      "options": [],
+      "answer": "对",
+      "explanation": "依法解决纠纷。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "法治意识启蒙",
+      "question": "维护自身合法权益的正确途径不包括（　）",
+      "options": [
+        "与对方协商",
+        "请老师家长帮助",
+        "向有关部门反映",
+        "纠集人员报复"
+      ],
+      "answer": "纠集人员报复",
+      "explanation": "报复是违法行为。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护社会公德",
+      "question": "尊重他人是社会公德的重要体现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "尊重他人。"
+    }
+  ],
+  "knowledge": null
+}

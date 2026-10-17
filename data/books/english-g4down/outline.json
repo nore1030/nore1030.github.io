@@ -1,0 +1,770 @@
+{
+  "textbook": "四年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "My school",
+      "knowledge_points": [
+        {
+          "name": "学校场所词汇认读与拼写",
+          "description": "掌握library, teachers' office, playground, art room, computer room, garden等校园场所名词",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "询问与描述场所方位",
+          "description": "运用Where's the...? It's on the first/second floor.以及next to等表达位置",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "确认场所的一般疑问句",
+          "description": "使用Is this the...?/Do you have a...?进行确认及肯定否定回答",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "判断"
+          ]
+        },
+        {
+          "name": "字母组合er在词尾的发音规则",
+          "description": "掌握er在water, tiger, sister, dinner等词尾发/ə/的规律",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "规律探索"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u1-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 2,
+      "title": "What time is it?",
+      "knowledge_points": [
+        {
+          "name": "时间表达与询问",
+          "description": "使用What time is it? It's ... o'clock. 询问并告知时间",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "选择"
+          ]
+        },
+        {
+          "name": "日常活动词汇与短语",
+          "description": "掌握get up, go to school, English class, breakfast等作息相关短语",
+          "difficulty": 1,
+          "question_types": [
+            "连线/匹配",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "It's time for与It's time to句型区分",
+          "description": "区分It's time for + 名词与It's time to + 动词短语的用法逻辑",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "选择"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u2-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 3,
+      "title": "Weather",
+      "knowledge_points": [
+        {
+          "name": "天气形容词的认读",
+          "description": "掌握hot, cold, warm, cool, rainy, sunny, windy, cloudy, snowy等词汇",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "询问天气状况",
+          "description": "熟练运用What's the weather like in (Beijing)?进行城市天气询问",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "应用题"
+          ]
+        },
+        {
+          "name": "基于天气的活动建议",
+          "description": "结合天气判断能否进行户外活动，如Can I go outside? No, you can't.",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u3-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 4,
+      "title": "At the farm",
+      "knowledge_points": [
+        {
+          "name": "农场蔬菜与动物词汇(复数)",
+          "description": "掌握tomatoes, potatoes, horses, cows等词汇及名词变复数的特殊形式如sheep",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "判断"
+          ]
+        },
+        {
+          "name": "these与those指代辨析",
+          "description": "区分近指these与远指those在询问复数物品时的用法",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "画图"
+          ]
+        },
+        {
+          "name": "询问物品数量",
+          "description": "使用How many ... do you have?询问数量并回答",
+          "difficulty": 2,
+          "question_types": [
+            "口算",
+            "填空"
+          ]
+        },
+        {
+          "name": "字母组合ar和al的发音规律",
+          "description": "掌握ar, al在单词中通常发/ɑː/或/ɔː/的规律及其辨析",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "规律探索"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u4-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 5,
+      "title": "My clothes",
+      "knowledge_points": [
+        {
+          "name": "衣物类词汇与动词搭配",
+          "description": "掌握skirt, dress, pants等词汇及put on, hang up等关联动词",
+          "difficulty": 2,
+          "question_types": [
+            "连线/匹配",
+            "填空"
+          ]
+        },
+        {
+          "name": "询问物品归属(所有格)",
+          "description": "使用Whose... is this/are these?及名词所有格Mike's等回答",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "名词性物主代词mine与yours",
+          "description": "初步掌握mine, yours等代词在归属表达中的简单应用",
+          "difficulty": 3,
+          "question_types": [
+            "选择"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u5-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 6,
+      "title": "Shopping",
+      "knowledge_points": [
+        {
+          "name": "询问商品价格",
+          "description": "区分单复数使用How much is this...? / How much are those...?",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "填空"
+          ]
+        },
+        {
+          "name": "描述与评价商品",
+          "description": "运用pretty, expensive, cheap, too big, just right等形容词评价物品",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "字母组合le在词尾的发音",
+          "description": "掌握apple, table, people等词尾le发/l/的规律",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "english-g4down-u6-exam",
+      "examQuestionCount": 15
+    }
+  ],
+  "bookId": "english-g4down",
+  "grade": 4,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-g4down-u1-kp1",
+      "title": "学校场所词汇认读与拼写",
+      "unitNumber": 1,
+      "unitTitle": "My school",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 8
+    },
+    {
+      "id": "english-g4down-u1-kp2",
+      "title": "询问与描述场所方位",
+      "unitNumber": 1,
+      "unitTitle": "My school",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 10
+    },
+    {
+      "id": "english-g4down-u1-kp3",
+      "title": "确认场所的一般疑问句",
+      "unitNumber": 1,
+      "unitTitle": "My school",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 4
+    },
+    {
+      "id": "english-g4down-u1-kp4",
+      "title": "字母组合er在词尾的发音规则",
+      "unitNumber": 1,
+      "unitTitle": "My school",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u2-kp1",
+      "title": "时间表达与询问",
+      "unitNumber": 2,
+      "unitTitle": "What time is it?",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "english-g4down-u2-kp2",
+      "title": "日常活动词汇与短语",
+      "unitNumber": 2,
+      "unitTitle": "What time is it?",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 11
+    },
+    {
+      "id": "english-g4down-u2-kp3",
+      "title": "It's time for与It's time to句型区分",
+      "unitNumber": 2,
+      "unitTitle": "What time is it?",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 6
+    },
+    {
+      "id": "english-g4down-u3-kp4",
+      "title": "Weather vocabulary",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 0,
+      "kpTotal": 13,
+      "questionCount": 9
+    },
+    {
+      "id": "english-g4down-u3-kp5",
+      "title": "Activities judgment",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 1,
+      "kpTotal": 13,
+      "questionCount": 3
+    },
+    {
+      "id": "english-g4down-u3-kp6",
+      "title": "Grammar usage",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 2,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp7",
+      "title": "Asking about weather",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 3,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp8",
+      "title": "Response to permission",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 4,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp9",
+      "title": "Sentence logic",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 5,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp10",
+      "title": "Location preposition",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 6,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp11",
+      "title": "Basic greetings",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 7,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp12",
+      "title": "Weather asking",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 8,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp13",
+      "title": "Vocabulary matching",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 9,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp14",
+      "title": "Adjective matching",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 10,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp15",
+      "title": "Sentence structure",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 11,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u3-kp16",
+      "title": "Permission sentence",
+      "unitNumber": 3,
+      "unitTitle": "Weather",
+      "kpIndex": 12,
+      "kpTotal": 13,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp1",
+      "title": "农场蔬菜与动物词汇(复数)",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 0,
+      "kpTotal": 18,
+      "questionCount": 3
+    },
+    {
+      "id": "english-g4down-u4-kp2",
+      "title": "these与those指代辨析",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 1,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp4",
+      "title": "字母组合ar和al的发音规律",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 2,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp5",
+      "title": "这些是什么",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 3,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g4down-u4-kp6",
+      "title": "名词复数用法",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 4,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp7",
+      "title": "询问数量",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 5,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g4down-u4-kp8",
+      "title": "情态动词表建议",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 6,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp9",
+      "title": "指代远处的物体",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 7,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp10",
+      "title": "农场词汇",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 8,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp11",
+      "title": "对疑问句的回答",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 9,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp12",
+      "title": "形容词词义",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 10,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp13",
+      "title": "动物词汇",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 11,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g4down-u4-kp14",
+      "title": "句子理解",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 12,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp15",
+      "title": "蔬菜词汇",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 13,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp16",
+      "title": "词汇匹配",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 14,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp17",
+      "title": "指代词匹配",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 15,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp18",
+      "title": "提问物主",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 16,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u4-kp19",
+      "title": "陈述句",
+      "unitNumber": 4,
+      "unitTitle": "At the farm",
+      "kpIndex": 17,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp4",
+      "title": "衣物类词汇",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 0,
+      "kpTotal": 18,
+      "questionCount": 4
+    },
+    {
+      "id": "english-g4down-u5-kp5",
+      "title": "单复数搭配",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 1,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp6",
+      "title": "名词所有格",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 2,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g4down-u5-kp7",
+      "title": "衣物词汇辨析",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 3,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp8",
+      "title": "常用动词短语",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 4,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g4down-u5-kp9",
+      "title": "名词复数用法",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 5,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp10",
+      "title": "询问归属",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 6,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp11",
+      "title": "指示代词",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 7,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp12",
+      "title": "名词性物主代词",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 8,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp13",
+      "title": "情景交际",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 9,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp14",
+      "title": "一般疑问句",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 10,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp15",
+      "title": "所有格辨析",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 11,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp16",
+      "title": "代词理解",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 12,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp17",
+      "title": "代词搭配",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 13,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp18",
+      "title": "词义匹配",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 14,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp19",
+      "title": "衣物名称匹配",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 15,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp20",
+      "title": "特殊疑问句",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 16,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u5-kp21",
+      "title": "肯定句",
+      "unitNumber": 5,
+      "unitTitle": "My clothes",
+      "kpIndex": 17,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g4down-u6-kp1",
+      "title": "询问商品价格",
+      "unitNumber": 6,
+      "unitTitle": "Shopping",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 11
+    },
+    {
+      "id": "english-g4down-u6-kp2",
+      "title": "描述与评价商品",
+      "unitNumber": 6,
+      "unitTitle": "Shopping",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 10
+    },
+    {
+      "id": "english-g4down-u6-kp3",
+      "title": "字母组合le在词尾的发音",
+      "unitNumber": 6,
+      "unitTitle": "Shopping",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    }
+  ]
+}

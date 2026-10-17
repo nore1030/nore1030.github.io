@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp14",
+  "title": "固定搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 10,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "固定搭配",
+      "question": "Please ____ it into the hall.",
+      "options": [
+        "get",
+        "take",
+        "bring",
+        "put"
+      ],
+      "answer": "take",
+      "explanation": "take...into 把...带进...。"
+    }
+  ],
+  "knowledge": null
+}

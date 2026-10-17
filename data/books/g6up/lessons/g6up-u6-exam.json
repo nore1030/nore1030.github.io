@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 6,
+  "unitTitle": "百分数（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "一根绳子长 0.9 米，也可以写成 90% 米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "百分数是率，不能带单位名称。0.9 米不能表示为 90% 米。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "甲数比乙数多 20%，则乙数比甲数少 20%。",
+      "options": [],
+      "answer": "错",
+      "explanation": "单位“1”不同。乙比甲少：$20\\% \\div (1 + 20\\%) \\approx 16.7\\%$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "某种商品涨价 10% 后，又降价 10%，价格变得比原价低了。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$1 \\times 1.1 \\times 0.9 = 0.99 < 1$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "一个正方形的边长增加 10%，面积就增加 20%。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$1.1 \\times 1.1 = 1.21$，面积增加了 $1.21 - 1 = 21\\%$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "六一班有 50 人，今天请假 2 人，出勤率是：",
+      "options": [
+        "98%",
+        "96%",
+        "4%",
+        "2%"
+      ],
+      "answer": "96%",
+      "explanation": "出勤人数 $50-2=48$，出勤率 $48 \\div 50 = 96\\%$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "妈妈在银行存入 2000 元，定期二年，年利率是 2.25%。到期后可得利息：",
+      "options": [
+        "45元",
+        "90元",
+        "2090元",
+        "4.5元"
+      ],
+      "answer": "90元",
+      "explanation": "利息 = 本金 $\\times$ 利率 $\\times$ 时间 = $2000 \\times 2.25\\% \\times 2 = 90$ 元。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "甲数比乙数多 25%，则乙数比甲数少：",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "75%"
+      ],
+      "answer": "20%",
+      "explanation": "设乙为 100，甲为 125。$(125-100) \\div 125 = 25 \\div 125 = 20\\%$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "某种运动服原价 200 元，现在打八折出售，现价是：",
+      "options": [
+        "160元",
+        "40元",
+        "180元",
+        "240元"
+      ],
+      "answer": "160元",
+      "explanation": "$200 \\times 80\\% = 160$ 元。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "一套沙发原价 3000 元，现价 2400 元，这套沙发是打几折出售？",
+      "options": [
+        "八五折",
+        "八折",
+        "七五折",
+        "二折"
+      ],
+      "answer": "八折",
+      "explanation": "$2400 \\div 3000 = 0.8 = 80\\%$，即八折。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "1 吨菜籽可以榨油 350 千克，这批菜籽的出油率是：",
+      "options": [
+        "35%",
+        "350%",
+        "3.5%",
+        "0.35%"
+      ],
+      "answer": "35%",
+      "explanation": "1 吨 = 1000 千克，$350 \\div 1000 = 35\\%$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "百分之零点五写作：",
+      "options": [
+        "0.5",
+        "50%",
+        "0.5%",
+        "0.05"
+      ],
+      "answer": "0.5%",
+      "explanation": "直接按读法书写即可。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "六年级有男生 120 人，比女生多 20%。求女生有多少人？",
+      "options": [
+        "100人",
+        "144人",
+        "96人",
+        "150人"
+      ],
+      "answer": "100人",
+      "explanation": "$120 \\div (1 + 20\\%) = 120 \\div 1.2 = 100$ 人。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数的意义与互化",
+      "question": "小明投篮 20 次，投中了 15 次，他的投篮命中率是 ___ %。",
+      "options": [],
+      "answer": "75",
+      "explanation": "$15 \\div 20 = 0.75 = 75\\%$。验算：$20 \\times 75\\% = 15$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "一件上衣原价 200 元，现价 140 元，这是打 ___ 折出售。",
+      "options": [],
+      "answer": "7",
+      "explanation": "$140 \\div 200 = 0.7$。0.7 即七折。验算：$200 \\times 0.7 = 140$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "$500 \\times (1 + 10\\%) = ?$",
+      "options": [],
+      "answer": "550",
+      "explanation": "$500 \\times 1.1 = 550$。验算：$550 \\div 1.1 = 500$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

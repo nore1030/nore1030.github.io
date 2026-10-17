@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g4down-u4-kp3",
+  "title": "冒号的用法与排版规范",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "冒号的用法与排版规范",
+      "question": "冒号在文稿纸上书写时，通常占据一个格子的左下角。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标点符号在硬笔书写中需规范，冒号占一格且靠左下方。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "冒号的用法与排版规范",
+      "question": "下列句子中，冒号使用正确的一项是：",
+      "options": [
+        "它的一举一动：都显得那么高傲。",
+        "鹅的吃饭，非有一人侍候不可：真是架子十足。",
+        "它吃法：必须由三样东西组成。",
+        "它立刻警告：泥干了，快加点水。"
+      ],
+      "answer": "它立刻警告：泥干了，快加点水。",
+      "explanation": "冒号在此处用于引出提示语的内容。"
+    }
+  ],
+  "knowledge": {
+    "point": "冒号的用法与排版规范",
+    "core_concept": "冒号在本单元主要用于提起下文。一种是用于提示语后（如：它立刻警告：……），另一种是用于总括语后，引出具体的分述内容（如：它吃的食物有：水、泥、草）。在书写时，冒号在格子的左下方，不宜写在正中间。",
+    "key_formula": "总结词 + 冒号 + 具体内容（分述）",
+    "common_mistakes": [
+      "在该用句号或逗号的地方错误运用冒号",
+      "文稿纸书写时冒号写在右侧或格子中间"
+    ],
+    "tips": "记住“先总后分”时，中间往往需要一个冒号来连接。"
+  }
+}

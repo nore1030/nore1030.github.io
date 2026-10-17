@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u2-kp7",
+  "title": "标点符号选择",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 6,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "“这是哪儿” 他自言自语道 “我怎么会在这儿呢” 横线处应填：",
+      "options": [
+        "？ ， ？",
+        "？ 。 ？",
+        "， ， 。",
+        "。 ， 。"
+      ],
+      "answer": "？ ， ？",
+      "explanation": "第一句是问句，“他自言自语道”后用逗号，最后一句依然是心里的疑问。"
+    }
+  ],
+  "knowledge": null
+}

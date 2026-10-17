@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp12",
+  "title": "疑问词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问词辨析",
+      "question": "—_______ did you go last weekend? —I went to a park.",
+      "options": [
+        "What",
+        "Where",
+        "How",
+        "Who"
+      ],
+      "answer": "Where",
+      "explanation": "根据回答地点a park，可知提问地点用Where。"
+    }
+  ],
+  "knowledge": null
+}

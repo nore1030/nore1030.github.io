@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp8",
+  "title": "餐具词汇辨析",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 4,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "餐具词汇辨析",
+      "question": "I can use ___ for soup.",
+      "options": [
+        "a fork",
+        "a knife",
+        "a spoon",
+        "chopsticks"
+      ],
+      "answer": "a spoon",
+      "explanation": "喝汤通常用勺子(spoon)。"
+    }
+  ],
+  "knowledge": null
+}

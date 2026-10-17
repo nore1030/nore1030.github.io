@@ -1,0 +1,66 @@
+{
+  "id": "english-g3up-u3-kp3",
+  "title": "身体动作指令表达",
+  "bookId": "english-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Look at me!",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身体动作指令表达",
+      "question": "'Touch your nose.' 的意思是 '拍拍你的手'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Touch your nose 是摸摸你的鼻子。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体动作指令表达",
+      "question": "当你听到指令 'Close your eyes.' 时，你应该：",
+      "options": [
+        "睁开眼睛",
+        "揉揉眼睛",
+        "闭上眼睛",
+        "指指眼睛"
+      ],
+      "answer": "闭上眼睛",
+      "explanation": "close 有关闭的意思，这里指闭眼。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "身体动作指令表达",
+      "question": "选出指令与动作不相符的一项：",
+      "options": [
+        "Clap your hands.",
+        "Wave your arms.",
+        "Open your mouth.",
+        "Shake your eye."
+      ],
+      "answer": "Shake your eye.",
+      "explanation": "眼睛不能 shake (摇晃)，通常是 shake your body。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体动作指令表达",
+      "question": "________ your body. (扭动/摇晃)",
+      "options": [],
+      "answer": "shake",
+      "explanation": "Shake your body 是指摇晃身体。"
+    }
+  ],
+  "knowledge": null
+}

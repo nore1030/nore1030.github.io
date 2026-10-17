@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp19",
+  "title": "课文背诵",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文背诵",
+      "question": "《司马光》中描述司马光砸缸动作的字是：",
+      "options": [],
+      "answer": "持石击瓮",
+      "explanation": "原文为“光持石击瓮破之”。"
+    }
+  ],
+  "knowledge": null
+}

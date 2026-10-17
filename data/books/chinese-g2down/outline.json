@@ -1,0 +1,1036 @@
+{
+  "textbook": "二年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "春天",
+      "knowledge_points": [
+        {
+          "name": "古诗二首的背诵与意象想象",
+          "description": "准确背诵《村居》《咏柳》，借助关键词在脑海中构筑春日画面。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "默写",
+            "应用题"
+          ]
+        },
+        {
+          "name": "比喻与拟人修辞的辨析活用",
+          "description": "理解“二月春风似剪刀”等比喻句，及将春天比作小姑娘的拟人手法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "判断",
+            "填空"
+          ]
+        },
+        {
+          "name": "多感官观察与生动表达",
+          "description": "学习从色彩、气味、声音等角度观察自然，运用重复句式进行仿写。",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "左上与左下包围结构汉字书写",
+          "description": "掌握包围结构汉字的书写规则，注意“撇”和“捺”的伸展。",
+          "difficulty": 2,
+          "question_types": [
+            "操作题",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u1-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 2,
+      "title": "劳动与奉献",
+      "knowledge_points": [
+        {
+          "name": "现代诗歌的问答节奏朗读",
+          "description": "通过寻找雷锋足迹的线索，掌握诗歌问答结构的朗读节奏与情感。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "社会分工与劳动成果的认知",
+          "description": "理解“千人糕”背后的制作环节，体会劳动成果的来之不易。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "ABB式与重叠形容词的语态描写",
+          "description": "掌握“碧绿碧绿”、“葱葱绿绿”等词语结构描写景物特征。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "匹配",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "口语交际中的语气委婉表达",
+          "description": "在不同场景下练习使用礼貌语气沟通，掌握“语气词+问号”的转变。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "应用题"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u2-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 3,
+      "title": "传统文化与识字",
+      "knowledge_points": [
+        {
+          "name": "中国地理版图与民族概念识记",
+          "description": "通过《神州谣》识记黄河、长江等地理景观，理解民族团结含义。",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "判断",
+            "匹配"
+          ]
+        },
+        {
+          "name": "传统节日习俗与时间排序",
+          "description": "按农历时间顺序识记春节、端午等节日及其对应的民俗活动。",
+          "difficulty": 2,
+          "question_types": [
+            "排序/比较",
+            "匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "“贝”字旁与汉字造字意图",
+          "description": "了解汉字演变，理解带有“贝”字旁的字大多与钱财有关。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "烹饪动作动词的分类与应用",
+          "description": "准确辨析“拌、煎、蒸、炸、炖”等动词在饮食文化中的含义。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "匹配"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u3-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 4,
+      "title": "童心与想象",
+      "knowledge_points": [
+        {
+          "name": "拟人化意象的创作与联想",
+          "description": "将彩色铅笔、喜鹊等自然事物赋予生命，构建富有灵气的梦境画面。",
+          "difficulty": 4,
+          "question_types": [
+            "应用题",
+            "填空"
+          ]
+        },
+        {
+          "name": "基于时间顺序的绘本叙事写话",
+          "description": "利用“早上、过了一会儿”等时序词语，描述鸡蛋壳的一日活动。",
+          "difficulty": 4,
+          "question_types": [
+            "应用题",
+            "规律探索"
+          ]
+        },
+        {
+          "name": "全包围与三面包围结构书写规范",
+          "description": "掌握“匹、国”等字内外空间的协调分布与框的方正书写。",
+          "difficulty": 2,
+          "question_types": [
+            "操作题",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u4-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 5,
+      "title": "办法与道理",
+      "knowledge_points": [
+        {
+          "name": "寓言成语的核心内涵理解",
+          "description": "理解“亡羊补牢”和“揠苗助长”所蕴含的补救与规律哲学。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "判断",
+            "应用题"
+          ]
+        },
+        {
+          "name": "多角度观察与客观评价他人",
+          "description": "通过《画杨桃》体会站位不同形状不同的原理，学会尊重事实。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "选择"
+          ]
+        },
+        {
+          "name": "实践验证与独立思考能力",
+          "description": "理解小马过河中“亲自试一试”的重要性，区分不同主体的意见。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "判断"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u5-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 6,
+      "title": "大自然的秘密",
+      "knowledge_points": [
+        {
+          "name": "天然指南针的科学原理辨析",
+          "description": "掌握利用太阳、北极星、大树阴影和积雪辨别方向的方法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "判断"
+          ]
+        },
+        {
+          "name": "太空生活失重现象的因果推论",
+          "description": "了解宇航员睡觉、喝水需固定的原因，理解失重状态下的物理变异。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "地质化石与地理变迁的科普认知",
+          "description": "通过岩石中的雨痕、矿物理解“陆海变换”的科学过程。",
+          "difficulty": 3,
+          "question_types": [
+            "判断",
+            "应用题"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u6-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 7,
+      "title": "改变",
+      "knowledge_points": [
+        {
+          "name": "自我认同与正向思维建立",
+          "description": "理解大象耳朵的特征，领悟“人家是人家，我是我”的独特性。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "选择"
+          ]
+        },
+        {
+          "name": "环境改造与劳动价值体现",
+          "description": "通过青蛙卖泥塘的过程，体会通过劳动改善居住环境的行为意义。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "故事脉络的逻辑梳理与续编",
+          "description": "根据示意图讲述蜘蛛开店的因果，并能发挥想象续编新顾客的故事。",
+          "difficulty": 4,
+          "question_types": [
+            "应用题",
+            "排序/比较"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u7-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 8,
+      "title": "世界之初",
+      "knowledge_points": [
+        {
+          "name": "神话故事的要素提取与复述",
+          "description": "明确羿射九日的起因、经过、结果，并能完整讲述神话情节。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "五行偏旁的汉字归类与识记",
+          "description": "掌握“金木水火土”作为部首时的意义关联及生字归类。",
+          "difficulty": 2,
+          "question_types": [
+            "匹配",
+            "填空"
+          ]
+        },
+        {
+          "name": "近义词语的微妙语境辨析",
+          "description": "区分“突然/忽然”、“马上/立刻”在具体句子中的使用差异。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g2down-u8-exam",
+      "examQuestionCount": 15
+    }
+  ],
+  "bookId": "chinese-g2down",
+  "grade": 2,
+  "semester": "down",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "chinese-g2down-u1-kp1",
+      "title": "古诗二首的背诵与意象想象",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 0,
+      "kpTotal": 8,
+      "questionCount": 5
+    },
+    {
+      "id": "chinese-g2down-u1-kp2",
+      "title": "比喻与拟人修辞的辨析活用",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 1,
+      "kpTotal": 8,
+      "questionCount": 3
+    },
+    {
+      "id": "chinese-g2down-u1-kp3",
+      "title": "多感官观察与生动表达",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 2,
+      "kpTotal": 8,
+      "questionCount": 5
+    },
+    {
+      "id": "chinese-g2down-u1-kp4",
+      "title": "左上与左下包围结构汉字书写",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 3,
+      "kpTotal": 8,
+      "questionCount": 3
+    },
+    {
+      "id": "chinese-g2down-u1-kp5",
+      "title": "字词义辨析",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 4,
+      "kpTotal": 8,
+      "questionCount": 4
+    },
+    {
+      "id": "chinese-g2down-u1-kp6",
+      "title": "多音字",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 5,
+      "kpTotal": 8,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u1-kp7",
+      "title": "阅读理解",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 6,
+      "kpTotal": 8,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u1-kp8",
+      "title": "标点符号",
+      "unitNumber": 1,
+      "unitTitle": "春天",
+      "kpIndex": 7,
+      "kpTotal": 8,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u2-kp1",
+      "title": "现代诗歌的问答节奏朗读",
+      "unitNumber": 2,
+      "unitTitle": "劳动与奉献",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 6
+    },
+    {
+      "id": "chinese-g2down-u2-kp2",
+      "title": "社会分工与劳动成果的认知",
+      "unitNumber": 2,
+      "unitTitle": "劳动与奉献",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 7
+    },
+    {
+      "id": "chinese-g2down-u2-kp3",
+      "title": "ABB式与重叠形容词的语态描写",
+      "unitNumber": 2,
+      "unitTitle": "劳动与奉献",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 7
+    },
+    {
+      "id": "chinese-g2down-u2-kp4",
+      "title": "口语交际中的语气委婉表达",
+      "unitNumber": 2,
+      "unitTitle": "劳动与奉献",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 3
+    },
+    {
+      "id": "chinese-g2down-u3-kp1",
+      "title": "中国地理版图与民族概念识记",
+      "unitNumber": 3,
+      "unitTitle": "传统文化与识字",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 8
+    },
+    {
+      "id": "chinese-g2down-u3-kp2",
+      "title": "传统节日习俗与时间排序",
+      "unitNumber": 3,
+      "unitTitle": "传统文化与识字",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 7
+    },
+    {
+      "id": "chinese-g2down-u3-kp3",
+      "title": "“贝”字旁与汉字造字意图",
+      "unitNumber": 3,
+      "unitTitle": "传统文化与识字",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 4
+    },
+    {
+      "id": "chinese-g2down-u3-kp4",
+      "title": "烹饪动作动词的分类与应用",
+      "unitNumber": 3,
+      "unitTitle": "传统文化与识字",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 4
+    },
+    {
+      "id": "chinese-g2down-u4-kp1",
+      "title": "拟人化意象的创作与联想",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 0,
+      "kpTotal": 9,
+      "questionCount": 7
+    },
+    {
+      "id": "chinese-g2down-u4-kp2",
+      "title": "基于时间顺序的绘本叙事写话",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 1,
+      "kpTotal": 9,
+      "questionCount": 4
+    },
+    {
+      "id": "chinese-g2down-u4-kp3",
+      "title": "全包围与三面包围结构书写规范",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 2,
+      "kpTotal": 9,
+      "questionCount": 5
+    },
+    {
+      "id": "chinese-g2down-u4-kp4",
+      "title": "字词义辨析",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 3,
+      "kpTotal": 9,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u4-kp5",
+      "title": "中性词与褒贬义辨析",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 4,
+      "kpTotal": 9,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u4-kp6",
+      "title": "标点符号选择",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 5,
+      "kpTotal": 9,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u4-kp7",
+      "title": "多音字读音选择",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 6,
+      "kpTotal": 9,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u4-kp8",
+      "title": "近义词辨析",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 7,
+      "kpTotal": 9,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u4-kp9",
+      "title": "理解阅读",
+      "unitNumber": 4,
+      "unitTitle": "童心与想象",
+      "kpIndex": 8,
+      "kpTotal": 9,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp4",
+      "title": "生字读音",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 0,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp5",
+      "title": "词语释义",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 1,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp6",
+      "title": "课文理解",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 2,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp7",
+      "title": "生字结构",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 3,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp8",
+      "title": "寓言内涵",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 4,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp9",
+      "title": "多音字",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 5,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp10",
+      "title": "近义词",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 6,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp11",
+      "title": "古诗理解",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 7,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp12",
+      "title": "短文阅读",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 8,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp13",
+      "title": "标点符号",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 9,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp14",
+      "title": "词语辨析",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 10,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp15",
+      "title": "反义词",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 11,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp16",
+      "title": "词语结构",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 12,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp17",
+      "title": "寓言道理",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 13,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp18",
+      "title": "修辞手法",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 14,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp19",
+      "title": "看拼音写词语",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 15,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp20",
+      "title": "课文填空",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 16,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp21",
+      "title": "部首查字法",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 17,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp22",
+      "title": "动物动作匹配",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 18,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp23",
+      "title": "成语搭配",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 19,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp24",
+      "title": "词语分类",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 20,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp25",
+      "title": "连词成句",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 21,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u5-kp26",
+      "title": "感叹句排序",
+      "unitNumber": 5,
+      "unitTitle": "办法与道理",
+      "kpIndex": 22,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp1",
+      "title": "天然指南针的科学原理辨析",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 0,
+      "kpTotal": 15,
+      "questionCount": 5
+    },
+    {
+      "id": "chinese-g2down-u6-kp2",
+      "title": "太空生活失重现象的因果推论",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 1,
+      "kpTotal": 15,
+      "questionCount": 3
+    },
+    {
+      "id": "chinese-g2down-u6-kp3",
+      "title": "地质化石与地理变迁的科普认知",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 2,
+      "kpTotal": 15,
+      "questionCount": 3
+    },
+    {
+      "id": "chinese-g2down-u6-kp4",
+      "title": "多音字辨析",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 3,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp5",
+      "title": "字义理解",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 4,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp6",
+      "title": "词语分类",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 5,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp7",
+      "title": "理解阅读",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 6,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp8",
+      "title": "近义词辨析",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 7,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp9",
+      "title": "古诗理解",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 8,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp10",
+      "title": "标点符号",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 9,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp11",
+      "title": "古诗填空",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 10,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp12",
+      "title": "词语搭配",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 11,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp13",
+      "title": "词语解释",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 12,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp14",
+      "title": "句式训练",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 13,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u6-kp15",
+      "title": "比喻句式",
+      "unitNumber": 6,
+      "unitTitle": "大自然的秘密",
+      "kpIndex": 14,
+      "kpTotal": 15,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp1",
+      "title": "自我认同与正向思维建立",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 0,
+      "kpTotal": 11,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u7-kp2",
+      "title": "环境改造与劳动价值体现",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 1,
+      "kpTotal": 11,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp3",
+      "title": "故事脉络的逻辑梳理与续编",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 2,
+      "kpTotal": 11,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u7-kp4",
+      "title": "字词积累",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 3,
+      "kpTotal": 11,
+      "questionCount": 8
+    },
+    {
+      "id": "chinese-g2down-u7-kp5",
+      "title": "字词义辨析",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 4,
+      "kpTotal": 11,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp6",
+      "title": "修辞方法识别",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 5,
+      "kpTotal": 11,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp7",
+      "title": "应用题",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 6,
+      "kpTotal": 11,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u7-kp8",
+      "title": "词义辨析",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 7,
+      "kpTotal": 11,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u7-kp9",
+      "title": "标点符号选择",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 8,
+      "kpTotal": 11,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp10",
+      "title": "词语分类",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 9,
+      "kpTotal": 11,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u7-kp11",
+      "title": "词语排序",
+      "unitNumber": 7,
+      "unitTitle": "改变",
+      "kpIndex": 10,
+      "kpTotal": 11,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g2down-u8-kp1",
+      "title": "神话故事的要素提取与复述",
+      "unitNumber": 8,
+      "unitTitle": "世界之初",
+      "kpIndex": 0,
+      "kpTotal": 5,
+      "questionCount": 7
+    },
+    {
+      "id": "chinese-g2down-u8-kp2",
+      "title": "五行偏旁的汉字归类与识记",
+      "unitNumber": 8,
+      "unitTitle": "世界之初",
+      "kpIndex": 1,
+      "kpTotal": 5,
+      "questionCount": 9
+    },
+    {
+      "id": "chinese-g2down-u8-kp3",
+      "title": "近义词语的微妙语境辨析",
+      "unitNumber": 8,
+      "unitTitle": "世界之初",
+      "kpIndex": 2,
+      "kpTotal": 5,
+      "questionCount": 5
+    },
+    {
+      "id": "chinese-g2down-u8-kp4",
+      "title": "识字辨析",
+      "unitNumber": 8,
+      "unitTitle": "世界之初",
+      "kpIndex": 3,
+      "kpTotal": 5,
+      "questionCount": 1
+    },
+    {
+      "id": "chinese-g2down-u8-kp5",
+      "title": "阅读短文",
+      "unitNumber": 8,
+      "unitTitle": "世界之初",
+      "kpIndex": 4,
+      "kpTotal": 5,
+      "questionCount": 1
+    }
+  ]
+}

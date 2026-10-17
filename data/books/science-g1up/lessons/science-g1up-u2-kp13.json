@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp13",
+  "title": "植物的组成部分",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的组成部分",
+      "question": "植物的哪个部分长在土里并吸收水分？",
+      "options": [
+        "花",
+        "根",
+        "叶",
+        "果实"
+      ],
+      "answer": "根",
+      "explanation": "根负责固定植物体并吸收土壤中的水分和养分。"
+    }
+  ],
+  "knowledge": null
+}

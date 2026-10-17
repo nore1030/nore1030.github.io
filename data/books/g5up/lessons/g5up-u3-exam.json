@@ -1,0 +1,217 @@
+{
+  "id": "g5up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g5up",
+  "unitNumber": 3,
+  "unitTitle": "小数除法",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "$0.2 \bdiv 0.2 = 1$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "任何非零数除以它本身都等于 1。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "$3.1415926$ 是循环小数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "该数是一个八位有限小数，没有循环节，也不是无限的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "求商的近似值时，如果要求保留两位小数，应除到千分位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "需要看第三位小数（千分位）来决定是否向百分位进一。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "如果 $A \bdiv 0.1 = B \times 0.1$（A, B均不为0），那么 $A > B$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$A \bdiv 0.1 = 10A$，$B \times 0.1 = 0.1B$。若 $10A = 0.1B$，则 $B = 100A$，所以 $B > A$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "与 $2.58 \bdiv 0.12$ 的结果相等的算式是哪一个？",
+      "options": [
+        "$25.8 \bdiv 1.2$",
+        "$258 \bdiv 1.2$",
+        "$2.58 \bdiv 12$",
+        "$25.8 \bdiv 0.12$"
+      ],
+      "answer": "$25.8 \bdiv 1.2$",
+      "explanation": "被除数和除数同时扩大 10 倍，商不变。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "在 $0.33$, $0.3030...$, $0.303124...$, $0.3131$ 这四个数中，循环小数是哪一个？",
+      "options": [
+        "0.33",
+        "0.3030...",
+        "0.303124...",
+        "0.3131"
+      ],
+      "answer": "0.3030...",
+      "explanation": "只有 0.3030... 既是无限小数又有重复的循环节。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "$2.4 \bdiv 0.12$ 的商是多少？",
+      "options": [
+        "2",
+        "20",
+        "200",
+        "0.2"
+      ],
+      "answer": "20",
+      "explanation": "$2.4 \bdiv 0.12 = 240 \bdiv 12 = 20$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用计算器探索规律",
+      "question": "$1 \bdiv 11$ 商的小数点后第 50 位上的数字是多少？",
+      "options": [
+        "0",
+        "9",
+        "1",
+        "5"
+      ],
+      "answer": "9",
+      "explanation": "$1 \bdiv 11 = 0.0909...$，循环节 09 是两位。$50 \bdiv 2 = 25$ 整除，所以是第二位数字 9。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "保留两位小数：$10 \bdiv 3 \bdiv$ ___",
+      "options": [
+        "3.33",
+        "3.34",
+        "3.3",
+        "3.333"
+      ],
+      "answer": "3.33",
+      "explanation": "$10 \bdiv 3 = 3.333...$，千分位是 3，四舍五入保留两位为 3.33。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "已知 $a \bdiv 0.5 = 8$，那么 $a \bdiv 0.05$ 等于多少？",
+      "options": [
+        "8",
+        "80",
+        "800",
+        "0.8"
+      ],
+      "answer": "80",
+      "explanation": "除数缩小 10 倍，被除数不变，商扩大 10 倍。$8 \times 10 = 80$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用计算器探索规律",
+      "question": "计算 $3 \times 0.7$, $3.3 \times 6.7$, $3.33 \times 66.7$，根据规律，$3.333 \times 666.7$ 的整数部分有几个 2？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "4个",
+      "explanation": "$3 \times 0.7=2.1$, $3.3 \times 6.7=22.11$, $3.33 \times 66.7=222.111$。规律是 $n$个3时整数部分有 $n$个2。故 4 个。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "下面各数中最大的是哪一个？",
+      "options": [
+        "$0.5\bdot{6}$",
+        "$0.\bdot{5}\bdot{6}$",
+        "0.565",
+        "0.56"
+      ],
+      "answer": "$0.5\bdot{6}$",
+      "explanation": "$0.5\bdot{6}=0.5666...$, $0.\bdot{5}\bdot{6}=0.5656...$, $0.565=0.5650$, 其大小比较可知 $0.5666...$ 最大。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "把 72 均分成 12 份，每份是 ___。",
+      "options": [],
+      "answer": "6",
+      "explanation": "$72 \bdiv 12 = 6$。验算：$6 \times 12 = 72$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的近似数（进一法与去尾法）",
+      "question": "装 100 千克苹果，每个筐装 15 千克，至少需要准备 ___ 个筐。",
+      "options": [],
+      "answer": "7",
+      "explanation": "$100 \bdiv 15 = 6.66...$ 个。剩下的也得装一筐，进一法得 7。验算：$6 \times 15 = 90$（不够），$7 \times 15 = 105$（够了）。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "计算：$48 \bdiv 12 = ?$",
+      "options": [],
+      "answer": "4",
+      "explanation": "$48 \bdiv 12 = 4$。验算：$4 \times 12 = 48$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

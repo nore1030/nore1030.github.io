@@ -1,0 +1,47 @@
+{
+  "id": "politics-g10up-u1-kp1",
+  "title": "社会主义从空想到科学",
+  "bookId": "politics-g10up",
+  "unitNumber": 1,
+  "unitTitle": "中国特色社会主义的开创与发展",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会主义从空想到科学",
+      "question": "科学社会主义诞生的标志是（　）",
+      "options": [
+        "《共产党宣言》发表",
+        "十月革命",
+        "巴黎公社成立",
+        "新中国成立"
+      ],
+      "answer": "《共产党宣言》发表",
+      "explanation": "1848 年《共产党宣言》发表。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "社会主义从空想到科学",
+      "question": "唯物史观和剩余价值学说是科学社会主义的理论基石。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两大理论基石。"
+    }
+  ],
+  "knowledge": {
+    "point": "社会主义从空想到科学",
+    "core_concept": "唯物史观和剩余价值学说使社会主义由空想变为科学。1848 年《共产党宣言》发表，标志科学社会主义的诞生。",
+    "key_formula": "两大发现：唯物史观 + 剩余价值学说",
+    "common_mistakes": [
+      "把空想社会主义与科学社会主义混同。"
+    ],
+    "tips": "两大理论基石是标志。"
+  }
+}

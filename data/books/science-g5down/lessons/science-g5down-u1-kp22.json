@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp22",
+  "title": "植物生长",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物生长",
+      "question": "绿豆芽的生长（ ）阳光。",
+      "options": [
+        "不需要",
+        "必须有",
+        "有没有都行",
+        "只在晚上需要"
+      ],
+      "answer": "必须有",
+      "explanation": "种子发芽不一定需要光，但长成幼苗后必须依靠光合作用制造养料。"
+    }
+  ],
+  "knowledge": null
+}

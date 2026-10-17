@@ -1,0 +1,97 @@
+{
+  "id": "g2down-u7-kp5",
+  "title": "整百、整千数加减口算",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$3000 + 400$ 的结果是 7000。",
+      "options": [],
+      "answer": "错",
+      "explanation": "3个千加上4个百结果是3400。验算：$3000 + 400 = 3400$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "计算 $1200 - 500$ 时，可以看作（ ）。",
+      "options": [
+        "12个千减5个千",
+        "12个百减5个百",
+        "12个十减5个十",
+        "12个一减5个一"
+      ],
+      "answer": "12个百减5个百",
+      "explanation": "1200是12个百，500是5个百，相减得7个百，即700。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$800 + 700$ 的结果是多少？",
+      "options": [
+        "150",
+        "1500",
+        "15000",
+        "15"
+      ],
+      "answer": "1500",
+      "explanation": "8个百加7个百是15个百。验算：$1500 - 700 = 800$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "草地上有 200 只羊，又跑来 500 只，现在一共有 ___ 只羊。",
+      "options": [],
+      "answer": "700",
+      "explanation": "$200 + 500 = 700$。验算：$700 - 500 = 200$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$4000 + 5000 = ?$",
+      "options": [],
+      "answer": "9000",
+      "explanation": "$4 + 5 = 9$，所以 4 个千加 5 个千等于 9 个千，即 9000。验算：$9000 - 4000 = 5000$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整百、整千数加减口算",
+      "question": "$1300 - 600 = ?$",
+      "options": [],
+      "answer": "700",
+      "explanation": "$13 - 6 = 7$，所以 13 个百减 6 个百等于 7 个百，即 700。验算：$700 + 600 = 1300$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "整百、整千数加减口算",
+    "core_concept": "把整百、整千数的加减法转化为 20 以内的加减法，只需看作几个百或几个千相加减即可。",
+    "key_formula": "$m00 + n00 = (m+n)00$",
+    "common_mistakes": [
+      "计算结果末尾的0个数写错",
+      "进位或退位计算错误"
+    ],
+    "tips": "把末尾的0先遮住，算出数后再加上相同个数的0。"
+  }
+}

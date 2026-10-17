@@ -1,0 +1,66 @@
+{
+  "id": "science-g2down-u1-kp3",
+  "title": "磁铁的两极及其磁力分布",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "磁铁的两极及其磁力分布",
+      "question": "条形磁铁的中间部分磁力最强。",
+      "options": [],
+      "answer": "错",
+      "explanation": "条形磁铁的两端磁力最强，称为磁极，中间磁力最弱。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁铁的两极及其磁力分布",
+      "question": "条形磁铁的（    ）磁力最弱。",
+      "options": [
+        "南极",
+        "北极",
+        "中间",
+        "两端"
+      ],
+      "answer": "中间",
+      "explanation": "条形磁铁的磁力呈中间弱、两端强的分布特征。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "磁铁的两极及其磁力分布",
+      "question": "一块没有标注南北极的条形磁铁，碎成了三块，这其中的每一块（    ）。",
+      "options": [
+        "都没有磁极了",
+        "只有一个磁极",
+        "都有两个磁极",
+        "中间那块没磁极"
+      ],
+      "answer": "都有两个磁极",
+      "explanation": "任何磁体都同时具有南极和北极，即便断裂也会形成新的磁极对。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁铁的两极及其磁力分布",
+      "question": "普通的条形磁铁一共有（    ）个磁极。",
+      "options": [],
+      "answer": "2",
+      "explanation": "磁铁都有南极和北极，总共2个磁极。"
+    }
+  ],
+  "knowledge": null
+}

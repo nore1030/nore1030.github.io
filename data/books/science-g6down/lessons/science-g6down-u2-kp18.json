@@ -1,0 +1,23 @@
+{
+  "id": "science-g6down-u2-kp18",
+  "title": "动物的变异",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 12,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的变异",
+      "question": "同一种群中的不同个体在形态特征上存在的差异叫做（ ）。",
+      "options": [],
+      "answer": "变异",
+      "explanation": "变异是物种多样性的重要来源之一。"
+    }
+  ],
+  "knowledge": null
+}

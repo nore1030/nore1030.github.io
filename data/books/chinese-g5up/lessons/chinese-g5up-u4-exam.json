@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g5up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "chinese-g5up",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "‘北定中原’中的‘中原’在这里指黄河中下游地区。",
+      "options": [],
+      "answer": "对",
+      "explanation": "中原是中华文化的摇篮，当时指被金兵占领的领土。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "《少年中国说》是梁启超为了鼓舞中国人的斗志而写的一篇散文。",
+      "options": [],
+      "answer": "对",
+      "explanation": "背景是维新变法失败后，梁启超以此激励国人，尤其是年轻人。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "‘天公’在《己亥杂诗》中是指自然界里的老天爷。",
+      "options": [],
+      "answer": "错",
+      "explanation": "‘天公’在这里象征着当时的统治者。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "‘干将发硎，有作其芒’是形容少年的聪明才智像锋利的宝剑开始发光。",
+      "options": [],
+      "answer": "对",
+      "explanation": "干将是名剑名，象征少年富有才华且刚露出锋芒。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "‘暖风熏得游人醉’中，游人是指？",
+      "options": [
+        "来杭州旅游的百姓",
+        "陆游和他的朋友",
+        "忘却国计民生的权贵",
+        "所有的外乡人"
+      ],
+      "answer": "忘却国计民生的权贵",
+      "explanation": "作者在这里运用讽刺手法，批评那些偏安江左的统治者。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "《少年中国说》中运用‘天戴其苍，地履其黄’描述的是？",
+      "options": [
+        "少年的衣着",
+        "国土的壮阔",
+        "天地的颜色",
+        "农业的丰收"
+      ],
+      "answer": "国土的壮阔",
+      "explanation": "这句话通过写少年的顶天立地，衬托少年中国的宏大气度。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "‘我劝天公重抖擞’中‘抖擞’的直接目的是希望？",
+      "options": [
+        "降下大雨",
+        "惩罚贪官",
+        "任用人才",
+        "歌舞升平"
+      ],
+      "answer": "任用人才",
+      "explanation": "下一句是‘不拘一格降人材’，可见其目的是希望各色人才破格涌现。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反差对比在史实叙述中的应用",
+      "question": "作者写圆明园是‘众星拱月’般的布局，主要体现了？",
+      "options": [
+        "月亮很大",
+        "星星很多",
+        "布局的宏大精妙",
+        "夜晚的景色美"
+      ],
+      "answer": "布局的宏大精妙",
+      "explanation": "以此比喻许多小园紧紧环绕在主园周围，体现园林建筑的独特性。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "《示儿》这首诗中，由于‘死元知万事空’，所以全诗的基调是？",
+      "options": [
+        "欢快热烈",
+        "悠闲自得",
+        "悲愤沉郁",
+        "清爽活泼"
+      ],
+      "answer": "悲愤沉郁",
+      "explanation": "陆游临终前的绝笔，充满了对国家命运的忧虑和未能见统一的悲痛。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "反差对比在史实叙述中的应用",
+      "question": "在《圆明园的毁灭》中，哪一部分才是文章的核心目的？",
+      "options": [
+        "学习圆明园的历史",
+        "感叹昔日的富庶",
+        "记住落后就要挨打的教训",
+        "背诵描写精美的段落"
+      ],
+      "answer": "记住落后就要挨打的教训",
+      "explanation": "这是一篇爱国主义教育文章，重在通过毁灭带来的反思。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与爱国情感赏析",
+      "question": "九州生气恃风雷，万马齐喑（___）哀。",
+      "options": [],
+      "answer": "究可",
+      "explanation": "出自《己亥杂诗》，意为这种死气沉沉的局面终究是可悲的。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反差对比在史实叙述中的应用",
+      "question": "圆明园的毁灭，不仅是中国文化史上不可估量的损失，也是（___）文化史上不可估量的损失。",
+      "options": [],
+      "answer": "世界",
+      "explanation": "这是课文的第一句话，界定了这场灾难的国际程度。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反差对比在史实叙述中的应用",
+      "question": "将文章句式与对应的描写重点进行匹配。",
+      "options": [
+        "碧粉瓦黛",
+        "断壁残垣",
+        "蓬莱瑶台",
+        "荒野枯草",
+        "今日寂寥",
+        "今日荒凉",
+        "昔日华丽",
+        "昔日幻想"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "粉黛写华丽，瑶台写幻想之境，而断壁和枯草形容毁灭后的凄凉。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "将《少年中国说》中的排比项与其对应的比喻喻体连线。",
+      "options": [
+        "少年智",
+        "少年富",
+        "少年强",
+        "少年独立",
+        "国独立",
+        "国强",
+        "国智",
+        "国富"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "对应关系是：智-智、富-富、强-强、独立-独立。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "按语感排列：",
+      "options": [
+        "美哉",
+        "少年中国",
+        "我",
+        "与天不老"
+      ],
+      "answer": "美哉,我,少年中国,与天不老",
+      "explanation": "课文结尾的赞叹句，表达了强烈的自豪。 "
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u3-kp7",
+  "title": "句式转换正误判断",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 5,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式转换正误判断",
+      "question": "将“我的心剧烈地跳动起来”改为感叹句，最准确的是：",
+      "options": [
+        "难道我的心在跳动吗？",
+        "我的心跳动得真剧烈啊！",
+        "我的心终于剧烈地跳动了。",
+        "那是一颗剧烈跳动的心。"
+      ],
+      "answer": "我的心跳动得真剧烈啊！",
+      "explanation": "感叹句通常带有感叹语气词如“啊”、“呀”和感叹号，表达强烈的情感。"
+    }
+  ],
+  "knowledge": null
+}

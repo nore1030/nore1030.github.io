@@ -1,0 +1,149 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "一般现在时与现在进行时",
+      "knowledge_points": [
+        {
+          "name": "一般现在时",
+          "description": "掌握一般现在时的构成、用法与疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "现在进行时",
+          "description": "掌握现在进行时的构成与用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-renjiao-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "一般过去时与一般将来时",
+      "knowledge_points": [
+        {
+          "name": "一般过去时",
+          "description": "掌握一般过去时的构成与规则动词变化。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一般将来时",
+          "description": "掌握 will 与 be going to 的用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-renjiao-g8up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "情态动词与比较级",
+      "knowledge_points": [
+        {
+          "name": "情态动词 can / must / should",
+          "description": "掌握常见情态动词的用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "形容词与副词的比较级",
+          "description": "掌握比较级与最高级的构成和用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-renjiao-g8up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-renjiao-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-renjiao-g8up-u1-kp1",
+      "title": "一般现在时",
+      "unitNumber": 1,
+      "unitTitle": "一般现在时与现在进行时",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g8up-u1-kp2",
+      "title": "现在进行时",
+      "unitNumber": 1,
+      "unitTitle": "一般现在时与现在进行时",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g8up-u2-kp1",
+      "title": "一般过去时",
+      "unitNumber": 2,
+      "unitTitle": "一般过去时与一般将来时",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g8up-u2-kp2",
+      "title": "一般将来时",
+      "unitNumber": 2,
+      "unitTitle": "一般过去时与一般将来时",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g8up-u3-kp1",
+      "title": "情态动词 can / must / should",
+      "unitNumber": 3,
+      "unitTitle": "情态动词与比较级",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-renjiao-g8up-u3-kp3",
+      "title": "情态动词与比较级",
+      "unitNumber": 3,
+      "unitTitle": "情态动词与比较级",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 3
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6up-u2-kp1",
+  "title": "学校与班级生活",
+  "bookId": "moral-g6up",
+  "unitNumber": 2,
+  "unitTitle": "校园生活与热爱祖国",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学校与班级生活",
+      "question": "班干部应该（　）",
+      "options": [
+        "以身作则，为同学服务",
+        "只管别人",
+        "自己违反纪律",
+        "拉帮结派"
+      ],
+      "answer": "以身作则，为同学服务",
+      "explanation": "班干部要服务同学。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "学校与班级生活",
+      "question": "班级公约要靠全体同学自觉遵守。",
+      "options": [],
+      "answer": "对",
+      "explanation": "公约靠自觉。"
+    }
+  ],
+  "knowledge": {
+    "point": "学校与班级生活",
+    "core_concept": "班级公约需要共同讨论制定并自觉遵守。班干部要为同学服务，学校生活需要规则与责任。",
+    "key_formula": "共同制定、共同遵守",
+    "common_mistakes": [
+      "班干部只管别人不管自己。"
+    ],
+    "tips": "管理者更要以身作则。"
+  }
+}

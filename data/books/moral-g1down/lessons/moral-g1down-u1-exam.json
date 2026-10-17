@@ -1,0 +1,66 @@
+{
+  "id": "moral-g1down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g1down",
+  "unitNumber": 1,
+  "unitTitle": "好习惯伴成长",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的好习惯",
+      "question": "保护牙齿，应该少吃（　）",
+      "options": [
+        "蔬菜",
+        "甜食",
+        "水果",
+        "米饭"
+      ],
+      "answer": "甜食",
+      "explanation": "甜食多吃容易蛀牙。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "今日事今日毕",
+      "question": "做事拖拉会让事情越积越多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "拖拉会积压任务。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "今日事今日毕",
+      "question": "要养成做事有（　）的好习惯",
+      "options": [
+        "计划",
+        "拖拉",
+        "依赖",
+        "随意"
+      ],
+      "answer": "计划",
+      "explanation": "有计划才能不忙乱。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活中的好习惯",
+      "question": "饭前便后要洗手。",
+      "options": [],
+      "answer": "对",
+      "explanation": "饭前便后洗手防病。"
+    }
+  ],
+  "knowledge": null
+}

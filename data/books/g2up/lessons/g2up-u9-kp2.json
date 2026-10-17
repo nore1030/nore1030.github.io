@@ -1,0 +1,145 @@
+{
+  "id": "g2up-u9-kp2",
+  "title": "表内乘法全表应用",
+  "bookId": "g2up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "3乘6可以写成 $3 \\times 6$，读作3乘6。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据乘法的定义和读法，乘号前面的数是因数，乘号读作“乘”。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "计算 $4 \\times 5$ 和 $20 \\div 5$ 都可以用“四五二十”这句口诀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同一句乘法口诀通常可以解决两道乘法算式和两道除法算式。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "5个3相加是多少？",
+      "options": [
+        "8",
+        "15",
+        "25",
+        "35"
+      ],
+      "answer": "15",
+      "explanation": "$5 \\times 3 = 15$，口诀：三五十五。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "小红买3支钢笔，每支钢笔8元，一共需要付多少元？",
+      "options": [
+        "11",
+        "18",
+        "24",
+        "32"
+      ],
+      "answer": "24",
+      "explanation": "已知单价是8元，数量是3支。列式：$8 \\times 3 = 24$（元）。验算：$24 \\div 3 = 8$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "下列哪个算式的积最大？",
+      "options": [
+        "6 × 7",
+        "5 × 9",
+        "8 × 4",
+        "7 × 7"
+      ],
+      "answer": "7 × 7",
+      "explanation": "$6 \\times 7 = 42$, $5 \\times 9 = 45$, $8 \\times 4 = 32$, $7 \\times 7 = 49$。49是最大的。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "一个正方形的花坛，每条边上放4盆花（四个角都放），一共要放多少盆花？",
+      "options": [
+        "16",
+        "14",
+        "12",
+        "10"
+      ],
+      "answer": "12",
+      "explanation": "正方形有4条边，由于四个角重复计算了，列式：$4 \\times 4 - 4 = 12$（盆）。或者是每边中间2盆，加上4个顶点：$2 \\times 4 + 4 = 12$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "6的8倍是多少？",
+      "options": [
+        "14",
+        "42",
+        "48",
+        "56"
+      ],
+      "answer": "48",
+      "explanation": "求一个数的几倍是多少用乘法。$6 \\times 8 = 48$。口诀：六八四十八。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "小明买回一盒巧克力，如果每天吃4块，吃了7天，还剩2块。这盒巧克力共有 ___ 块。",
+      "options": [],
+      "answer": "30",
+      "explanation": "1.先算吃了的总数：$4 \\times 7 = 28$（块）；2.计算总数：$28 + 2 = 30$（块）。验算：$30 - 2 = 28$，$28 \\div 7 = 4$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "计算：$9 \\times 7 = ?$",
+      "options": [],
+      "answer": "63",
+      "explanation": "$9 \\times 7 = 63$。对应口诀：七九六十三。验算：$63 \\div 7 = 9$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "表内乘法全表应用",
+    "core_concept": "乘法是求几个相同加数和的简便运算。熟练掌握1-9的乘法口诀是基础。不仅要会背诵，更要理解算式中因数和积的含义，并能根据实际情境选择合适的口诀解题。",
+    "key_formula": "因数 \\times 因数 = 积",
+    "common_mistakes": [
+      "口诀记忆模糊，如“六七四十二”记错成“六七三十八”。",
+      "在乘加、乘减混合运算中，没有先算乘法。"
+    ],
+    "tips": "可以采用对口令、找规律等方式记忆，重点加强容易混淆的口诀练习，如六七、七八、九的口诀。"
+  }
+}

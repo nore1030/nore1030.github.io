@@ -1,0 +1,91 @@
+{
+  "id": "g3down-u2-kp5",
+  "title": "商中间或末尾有0的除法",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "0 除以任何数都得 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "0 除以任何“不是 0”的数都得 0。0 不能作除数。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "$60 \times 3$ 的商末尾有几个 0？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "$60 \times 3 = 20$，商的末尾有 1 个 0。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "$804 \times 4$ 的商中间有几个 0？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "$8 \times 4 = 2$，$0 \times 4 = 0$，$4 \times 4 = 1$，结果是 201，中间有 1 个 0。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "下面算式中，商末尾是 0 的是：",
+      "options": [
+        "630 \times 6",
+        "720 \times 4",
+        "450 \times 5",
+        "123 \times 3"
+      ],
+      "answer": "450 \times 5",
+      "explanation": "$450 \times 5 = 90$。$630 \times 6 = 105$，$720 \times 4 = 180$。此处需选商整除且末尾为0的典型。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "计算：$309 \times 3 = ?$",
+      "options": [],
+      "answer": "103",
+      "explanation": "$309 \times 3 = 103$。验算：$103 \times 3 = 309$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "商中间或末尾有0的除法",
+    "core_concept": "0 除以任何不是 0 的数都得 0。在笔算过程中，如果某一位不够商 1，一定要写 0 占位，不能直接跳过。如果被除数末尾有余数且不够除，商的末尾也要补 0。",
+    "key_formula": "0 \times a = 0 (a \neq 0)",
+    "common_mistakes": [
+      "中间不够除时漏掉商 0",
+      "末尾没除尽或刚好除尽时漏写末尾的 0"
+    ],
+    "tips": "数位对齐是关键，哪一位不够商 1，就在哪一位头上点个 0。"
+  }
+}

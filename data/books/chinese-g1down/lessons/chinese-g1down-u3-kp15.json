@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp15",
+  "title": "语言表达",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 14,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语言表达",
+      "question": "连词成句：",
+      "options": [
+        "小鸭子",
+        "正在",
+        "水里",
+        "游泳"
+      ],
+      "answer": "小鸭子,正在,水里,游泳",
+      "explanation": "按照主语+状态+地点的顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

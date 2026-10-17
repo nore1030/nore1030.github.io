@@ -1,0 +1,42 @@
+{
+  "id": "chemistry-g10up-u3-kp1",
+  "title": "物质的量与摩尔质量",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 3,
+  "unitTitle": "物质的量",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "物质的量与摩尔质量",
+      "question": "18 g 水的物质的量是多少 mol？（$M$=18 g/mol）",
+      "options": [],
+      "answer": "1",
+      "explanation": "$n=\\frac{18}{18}=1$ mol。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物质的量与摩尔质量",
+      "question": "1 mol 任何粒子所含粒子数约为 $6.02\\times10^{23}$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "阿伏加德罗常数。"
+    }
+  ],
+  "knowledge": {
+    "point": "物质的量与摩尔质量",
+    "core_concept": "物质的量是衡量粒子数目多少的物理量，单位摩尔(mol)。1 mol 粒子含 $6.02\\times10^{23}$ 个粒子。$n=\\frac m M$。",
+    "key_formula": "$n=\\frac m M=\\frac N{N_A}$",
+    "common_mistakes": [
+      "忽略粒子的种类（原子/分子）。"
+    ],
+    "tips": "看清是分子还是原子。"
+  }
+}

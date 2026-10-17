@@ -1,0 +1,217 @@
+{
+  "id": "g1up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g1up",
+  "unitNumber": 2,
+  "unitTitle": "位置",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "小狗在桌子的下面，说明桌子在小狗的上面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "上下关系是相对的。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "小华用左手拍皮球，说明他拍球的方向在他的右边。",
+      "options": [],
+      "answer": "错",
+      "explanation": "左手拍球，球通常在身体的左侧方位。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "位置关系的综合描述",
+      "question": "只要知道了谁在谁的左边，就能算出这一共有多少人。",
+      "options": [],
+      "answer": "错",
+      "explanation": "仅知道左右关系无法确定具体人数，还需要数量信息。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "早晨太阳从前面升起，我面向太阳，我的后面就是背后。",
+      "options": [],
+      "answer": "对",
+      "explanation": "面向的方向是前，背对的方向是后。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "吃饭时，我们通常用哪只手拿筷子？",
+      "options": [
+        "左手",
+        "右手",
+        "双手",
+        "不用手"
+      ],
+      "answer": "右手",
+      "explanation": "生活常识，大多数习惯用右手拿筷子。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "书包在课桌的下面，课桌在书包的什么位置？",
+      "options": [
+        "下面",
+        "上面",
+        "左边",
+        "右边"
+      ],
+      "answer": "上面",
+      "explanation": "上下位置相对。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "位置关系的综合描述",
+      "question": "小动物排队。小猫在最前面，小狗在最后面，小兔在小猫和小狗中间。谁离小猫近？",
+      "options": [
+        "小兔",
+        "小狗",
+        "一样近",
+        "无法确定"
+      ],
+      "answer": "小兔",
+      "explanation": "中间的物体位置必然在前后两端物体之间，离首端更近于末端。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "小军和小民玩滑梯，小军在滑梯顶上，小民在滑梯下面。谁在上方？",
+      "options": [
+        "小军",
+        "小民",
+        "一样高",
+        "不知道"
+      ],
+      "answer": "小军",
+      "explanation": "顶上即上方。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "位置关系的综合描述",
+      "question": "小芳在小明的左边，小明在小东的左边。谁在最右边？",
+      "options": [
+        "小芳",
+        "小明",
+        "小东",
+        "不知道"
+      ],
+      "answer": "小东",
+      "explanation": "顺序是：左(小芳) -> (小明) -> 右(小东)。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "左、右方位辨认",
+      "question": "老师面向同学站立，老师举起右手，同学应该举起哪只手才能和老师对应（镜子原理）？",
+      "options": [
+        "右手",
+        "左手",
+        "双手",
+        "脚"
+      ],
+      "answer": "左手",
+      "explanation": "面对面时左右相反，老师的右边对应学生的左边。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "红灯在黄灯的左边，绿灯在黄灯的右边。中间的是什么灯？",
+      "options": [
+        "红灯",
+        "黄灯",
+        "绿灯",
+        "没有灯"
+      ],
+      "answer": "黄灯",
+      "explanation": "排列为：红、黄、绿。黄在中间。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "位置关系的综合描述",
+      "question": "五个小朋友排成一横队。从左边数小蓝排第 3，从右边数他排第几？",
+      "options": [
+        "第 2",
+        "第 3",
+        "第 4",
+        "第 5"
+      ],
+      "answer": "第 3",
+      "explanation": "总数 5 人。左数第 3，说明左边有 2 人。右边就是 $5-3=2$ 人。所以从右数也是第 3。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "小明左手拿了 4 个气球，右手拿了 6 个。他两只手一共拿了 ___ 个气球。",
+      "options": [],
+      "answer": "10",
+      "explanation": "加法计算：$4 + 6 = 10$。验算：$10 - 4 = 6$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "上、下、前、后位置关系",
+      "question": "一队小朋友排队，从前往后数，小明排第 4；从后往前数，小明排第 2。这一队共有 ___ 人。",
+      "options": [],
+      "answer": "5",
+      "explanation": "小明前面 3 人，后面 1 人。总数：$3 + 1 + 1 = 5$（人）。验算：$5 - 4 + 1 = 2$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "位置关系的综合描述",
+      "question": "$8 + 2 - 5 = ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "$8 + 2 = 10$，$10 - 5 = 5$。验算：$5 + 5 = 10$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

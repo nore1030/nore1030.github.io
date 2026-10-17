@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp19",
+  "title": "Hobbies sentence",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 15,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Hobbies sentence",
+      "question": "连词成句：[likes, stories, reading, He]",
+      "options": [
+        "likes",
+        "stories",
+        "reading",
+        "He"
+      ],
+      "answer": "He,likes,reading,stories",
+      "explanation": "陈述句语序为主+谓+宾。动词用likes。"
+    }
+  ],
+  "knowledge": null
+}

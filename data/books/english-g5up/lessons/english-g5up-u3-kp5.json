@@ -1,0 +1,39 @@
+{
+  "id": "english-g5up-u3-kp5",
+  "title": "饮食名词词汇",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 0,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "饮食名词词汇",
+      "question": "单词 'sandwich' 的复数形式是 'sandwiches'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "以ch结尾的名词复数需加es。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "饮食名词词汇",
+      "question": "I'd like some _____. They are healthy.",
+      "options": [
+        "salad",
+        "hamburgers",
+        "ice cream",
+        "coke"
+      ],
+      "answer": "salad",
+      "explanation": "salad（沙拉）通常被认为是healthy（健康的）食物。"
+    }
+  ],
+  "knowledge": null
+}

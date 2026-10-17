@@ -1,0 +1,42 @@
+{
+  "id": "math-zhejiao-g7up-u6-kp3",
+  "title": "角与角的度量、余角和补角",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第6章 图形的初步知识",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "角与角的度量、余角和补角",
+      "question": "∠A = 35°，它的余角是多少度？",
+      "options": [],
+      "answer": "55",
+      "explanation": "$90°-35°=55°$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "角与角的度量、余角和补角",
+      "question": "一个角为 110°，它的补角是多少度？",
+      "options": [],
+      "answer": "70",
+      "explanation": "$180°-110°=70°$。"
+    }
+  ],
+  "knowledge": {
+    "point": "角与角的度量、余角和补角",
+    "core_concept": "角由有公共端点的两条射线组成；1° = 60′，1′ = 60″；余角和为 90°，补角和为 180°。",
+    "key_formula": "$1^\\circ=60'$，$1'=60''$",
+    "common_mistakes": [
+      "余角与补角混淆。"
+    ],
+    "tips": "余 90 补 180。"
+  }
+}

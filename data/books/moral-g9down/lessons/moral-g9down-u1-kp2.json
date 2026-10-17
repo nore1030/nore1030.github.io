@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9down-u1-kp2",
+  "title": "中华优秀传统文化",
+  "bookId": "moral-g9down",
+  "unitNumber": 1,
+  "unitTitle": "富强与文明",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中华优秀传统文化",
+      "question": "对待中华优秀传统文化的正确态度是（　）",
+      "options": [
+        "创造性转化、创新性发展",
+        "全部照搬",
+        "全部抛弃",
+        "只取糟粕"
+      ],
+      "answer": "创造性转化、创新性发展",
+      "explanation": "两创方针。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "中华优秀传统文化",
+      "question": "中华优秀传统文化是中华民族的精神命脉。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文化是命脉。"
+    }
+  ],
+  "knowledge": {
+    "point": "中华优秀传统文化",
+    "core_concept": "中华优秀传统文化源远流长、博大精深，是中华民族的精神命脉。要创造性转化、创新性发展，增强文化自信。",
+    "key_formula": "两创：创造性转化、创新性发展",
+    "common_mistakes": [
+      "全盘否定传统文化。"
+    ],
+    "tips": "取其精华、去其糟粕。"
+  }
+}

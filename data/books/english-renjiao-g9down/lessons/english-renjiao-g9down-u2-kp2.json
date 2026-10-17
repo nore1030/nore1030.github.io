@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9down-u2-kp2",
+  "title": "让步与宾语从句",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 2,
+  "unitTitle": "状语从句",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "让步与宾语从句",
+      "question": "___ he is young, he knows a lot.",
+      "options": [
+        "Although",
+        "But",
+        "Because",
+        "So"
+      ],
+      "answer": "Although",
+      "explanation": "中文「虽然」不与「但是」连用。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "让步与宾语从句",
+      "question": "although 不能与 but 同时使用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "连词不能并用。"
+    }
+  ],
+  "knowledge": {
+    "point": "让步与宾语从句",
+    "core_concept": "让步状语从句用 although/though/even if，但与 but 不能同时使用。宾语从句用陈述语序，时态呼应主句。",
+    "key_formula": "although … but ✗",
+    "common_mistakes": [
+      "although 与 but 连用。"
+    ],
+    "tips": "二者不能连用。"
+  }
+}

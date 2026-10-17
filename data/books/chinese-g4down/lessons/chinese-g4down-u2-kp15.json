@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g4down-u2-kp15",
+  "title": "句式结构",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 14,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式结构",
+      "question": "将下列词语排列成一句顺畅的话。",
+      "options": [
+        "是",
+        "一种",
+        "纳米技术",
+        "高新技术",
+        "新型的"
+      ],
+      "answer": "纳米技术,是,一种,新型的,高新技术",
+      "explanation": "主系表结构：纳米技术是高新技术。"
+    }
+  ],
+  "knowledge": null
+}

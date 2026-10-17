@@ -1,0 +1,23 @@
+{
+  "id": "science-g6down-u2-kp6",
+  "title": "植物的遗传与变异",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 0,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的遗传与变异",
+      "question": "亲代绿豆是圆形的，后代绿豆也一定是圆形的，这属于遗传现象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "生物后代与其亲代在形态结构上相似的现象叫做遗传。"
+    }
+  ],
+  "knowledge": null
+}

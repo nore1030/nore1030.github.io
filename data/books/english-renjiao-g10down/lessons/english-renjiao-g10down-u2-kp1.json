@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g10down-u2-kp1",
+  "title": "限制性定语从句",
+  "bookId": "english-renjiao-g10down",
+  "unitNumber": 2,
+  "unitTitle": "定语从句",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "限制性定语从句",
+      "question": "The book ___ you lent me is very interesting.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "先行词指物。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "限制性定语从句",
+      "question": "先行词指人时关系词可用 who。",
+      "options": [],
+      "answer": "对",
+      "explanation": "who 指人。"
+    }
+  ],
+  "knowledge": {
+    "point": "限制性定语从句",
+    "core_concept": "定语从句修饰先行词，关系词有 who/which/that（指人/物）、whose（所属关系）、where（地点）、when（时间）。先行词指人用 who，物用 which/that。",
+    "key_formula": "先行词 + 关系词 + 从句",
+    "common_mistakes": [
+      "先行词指物却用 who。"
+    ],
+    "tips": "看先行词定关系词。"
+  }
+}

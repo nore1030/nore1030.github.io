@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u2-kp5",
+  "title": "句式转换正误判断",
+  "bookId": "chinese-g4up",
+  "unitNumber": 2,
+  "unitTitle": "提问策略",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式转换正误判断",
+      "question": "把“难道这不是一个奇迹吗？”改成陈述句，正确的是：",
+      "options": [
+        "这肯定是一个奇迹。",
+        "这是一个奇迹。",
+        "这难道是一个奇迹？",
+        "这是一个奇迹吗？"
+      ],
+      "answer": "这是一个奇迹。",
+      "explanation": "反问句变陈述句，肯变否，去掉疑问词和问号。"
+    }
+  ],
+  "knowledge": null
+}

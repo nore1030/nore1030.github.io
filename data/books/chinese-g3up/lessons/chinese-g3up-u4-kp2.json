@@ -1,0 +1,122 @@
+{
+  "id": "chinese-g3up-u4-kp2",
+  "title": "多音字的语境辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 4,
+  "unitTitle": "预测与推想",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "“放假”里的“假”读音是 jià。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表示休假、假期的意思时，‘假’读第四声 jià。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "“到处”里的“处”读音是 chǔ。",
+      "options": [],
+      "answer": "错",
+      "explanation": "‘到处’表示地方，应该读作第四声 chù。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "下列词语中“几”字读音为 jī 的是：",
+      "options": [
+        "几个",
+        "几百",
+        "茶几",
+        "几十"
+      ],
+      "answer": "茶几",
+      "explanation": "‘茶几’的‘几’读第一声，表示小桌子；其他项均读第三声，表示数量。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "“爸爸正在书房中（ ）奖。”括号里应填入的读音是：",
+      "options": [
+        "zhōng",
+        "zhòng",
+        "zhōn",
+        "zhòngs"
+      ],
+      "answer": "zhòng",
+      "explanation": "表示射中、被选中的意思时，读第四声 zhòng。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "“处”字在下列哪个词中的读音与其他三个不同？",
+      "options": [
+        "到处",
+        "近处",
+        "处理",
+        "住处"
+      ],
+      "answer": "处理",
+      "explanation": "‘处理’的‘处’读三声 chǔ，其余项均读四声 chù。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "“假”字的两个读音分别是 jiǎ 和（ ）。",
+      "options": [],
+      "answer": "jià",
+      "explanation": "‘假’是多音字，有 jiǎ（虚假）和 jià（假期）两个读音。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字的语境辨析",
+      "question": "请为下列词语中的“中”字选择正确的读音。",
+      "options": [
+        "中国",
+        "中弹",
+        "中间",
+        "中奖",
+        "zhòng",
+        "zhōng",
+        "zhòng",
+        "zhōng"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "中国和中间读 zhōng，中弹和中奖读 zhòng。"
+    }
+  ],
+  "knowledge": {
+    "point": "多音字的语境辨析",
+    "core_concept": "本单元涉及“假、几、中、处”等常见多音字。辨析的关键在于“据义断音”。例如，“假”表示虚伪、假设时读 jiǎ，表示休假、期限时读 jià；“中”表示位置、中间时读 zhōng，表示目标被击中、获奖时读 zhòng。",
+    "key_formula": "辨音原则：看词义，定读音",
+    "common_mistakes": [
+      "将“几乎”的“几”误读为三声（正确为一音）。",
+      "将“放假”的“假”与“真假”的读音混淆。"
+    ],
+    "tips": "可以编顺口溜记忆，如：暑假(jià)里看假(jiǎ)戏，中(zhòng)标要在中(zhōng)间。"
+  }
+}

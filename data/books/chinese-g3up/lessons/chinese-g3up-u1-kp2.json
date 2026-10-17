@@ -1,0 +1,116 @@
+{
+  "id": "chinese-g3up-u1-kp2",
+  "title": "课文阅读与画面想象",
+  "bookId": "chinese-g3up",
+  "unitNumber": 1,
+  "unitTitle": "学校生活",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "诗人泰戈尔把花儿当成了在地下学校上学的孩子，这运用了拟人的修法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "赋予花木人的情感和行为，属于拟人手法。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "阅读《花的学校》片段：“当雷云在天上轰响，六月的阵雨落下的时候，润湿的东风走过荒野，在竹林中吹着口哨。”文中最具新鲜感的词语是：",
+      "options": [
+        "东风",
+        "荒野",
+        "吹着口哨",
+        "雷云"
+      ],
+      "answer": "吹着口哨",
+      "explanation": "把风声想象成吹口哨，极具新鲜感和画面感。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "“妈妈，我真的觉得那些花朵是在地下的学校里上学。”作者这样想的原因最可能是：",
+      "options": [
+        "花朵真的在土里走动",
+        "花儿未开前在土里生长就像在关禁闭",
+        "他看见了泥土里的课桌",
+        "他不喜欢上学"
+      ],
+      "answer": "花儿未开前在土里生长就像在关禁闭",
+      "explanation": "这是富有童心的拟人化想象，将地下生长比作上学规则。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "“绿叶在狂风里簌簌地响，雷云拍着大手。”这里“拍着大手”指的是：",
+      "options": [
+        "风声",
+        "雷声",
+        "雨声",
+        "呼喊声"
+      ],
+      "answer": "雷声",
+      "explanation": "泰戈尔把雷声想象成云在拍手，非常有画面感。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "请将《花的学校》中的拟人行为进行对应。",
+      "options": [
+        "东风",
+        "花朵",
+        "绿叶",
+        "雷云",
+        "拍着大手",
+        "吹着口哨",
+        "簌簌地响",
+        "跑出来"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "东风吹口哨，花朵跑出来，绿叶簌簌响，雷云拍大手。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文阅读与画面想象",
+      "question": "请按句子逻辑排列这句描写景物的拟人句。",
+      "options": [
+        "在竹林中",
+        "润湿的东风",
+        "吹着口哨",
+        "走过荒野"
+      ],
+      "answer": "润湿的东风,走过荒野,在竹林中,吹着口哨",
+      "explanation": "按照课文中的原文顺序排列。"
+    }
+  ],
+  "knowledge": {
+    "point": "课文阅读与画面想象",
+    "core_concept": "在读富有想象力的文章（如《花的学校》）时，能够根据文字描述在脑海中勾勒出具体的动态或静态画面。尤其要理解作者把自然界中的景物赋予人的情感和行为，感受文字背后的童真与美感。",
+    "key_formula": "文字转换画面 = 抓住动词 + 联想生活经历 + 填补想象空间",
+    "common_mistakes": [
+      "无法理解抽象的拟人描写（如：拍着大手的雷云）",
+      "想象画面时脱离文本内容胡乱联想"
+    ],
+    "tips": "可以尝试闭上眼睛，像看电影电影片段一样回想刚才读的内容。"
+  }
+}

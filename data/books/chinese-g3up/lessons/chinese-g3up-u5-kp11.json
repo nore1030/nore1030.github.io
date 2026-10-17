@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u5-kp11",
+  "title": "近义词",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词",
+      "question": "“我在这儿‘发现’了一只翠鸟。”中“发现”的近义词是：",
+      "options": [
+        "察觉",
+        "发生",
+        "发育",
+        "发射"
+      ],
+      "answer": "察觉",
+      "explanation": "发现和察觉都有看出来的意思。"
+    }
+  ],
+  "knowledge": null
+}

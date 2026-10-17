@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8up-u1-kp1",
+  "title": "脊椎动物的主要类群",
+  "bookId": "biology-g8up",
+  "unitNumber": 1,
+  "unitTitle": "动物的主要类群",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "脊椎动物的主要类群",
+      "question": "用鳃呼吸、用鳍游泳的动物是（　）",
+      "options": [
+        "鱼类",
+        "两栖类",
+        "爬行类",
+        "鸟类"
+      ],
+      "answer": "鱼类",
+      "explanation": "鱼类用鳃呼吸。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "脊椎动物的主要类群",
+      "question": "鸟类体表被羽，靠气囊辅助呼吸。",
+      "options": [],
+      "answer": "对",
+      "explanation": "鸟类呼吸特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "脊椎动物的主要类群",
+    "core_concept": "脊椎动物包括鱼纲、两栖纲、爬行纲、鸟纲、哺乳纲。鱼用鳃呼吸靠鳍运动；两栖类幼体用鳃、成体用肺兼皮肤；爬行类用肺、鳞片防水；鸟类体表被羽有气囊辅助呼吸；哺乳类用肺、胎生哺乳。",
+    "key_formula": "五类脊椎动物",
+    "common_mistakes": [
+      "把两栖类当成爬行类。"
+    ],
+    "tips": "两栖类“幼鳃成肺兼皮”。"
+  }
+}

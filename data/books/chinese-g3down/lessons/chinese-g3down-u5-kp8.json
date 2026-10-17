@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u5-kp8",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“每一片叶子都在风中跳起了华尔兹。”这句话运用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "夸张",
+        "排比"
+      ],
+      "answer": "拟人",
+      "explanation": "把叶子当作人来写，赋予其跳舞的动作。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "science-g3down-u3-kp11",
+  "title": "影子变化规律",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 5,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影子变化规律",
+      "question": "在阳光下，由于太阳位置的变化，影子的长度会随着时间发生变化。一天中影子最短的时间是（）。",
+      "options": [
+        "早晨",
+        "中午",
+        "傍晚",
+        "深夜"
+      ],
+      "answer": "中午",
+      "explanation": "太阳高度角越高，影子越短。中午太阳升得最高，所以影子最短。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "影子变化规律",
+      "question": "影子总是在背光的一面，这说明光是（）传播的。",
+      "options": [
+        "曲线",
+        "沿直线",
+        "折射",
+        "漫反射"
+      ],
+      "answer": "沿直线",
+      "explanation": "光沿直线传播时被遮挡物挡住，背后形成阴影。"
+    }
+  ],
+  "knowledge": null
+}

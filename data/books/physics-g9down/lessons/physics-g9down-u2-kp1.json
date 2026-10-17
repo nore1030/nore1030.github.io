@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9down-u2-kp1",
+  "title": "电流与电路",
+  "bookId": "physics-g9down",
+  "unitNumber": 2,
+  "unitTitle": "电学基础",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "电流与电路",
+      "question": "欧姆定律的表达式是（　）",
+      "options": [
+        "$I = U/R$",
+        "$U = IR$",
+        "$R = UI$",
+        "$P = UI$"
+      ],
+      "answer": "$I = U/R$",
+      "explanation": "欧姆定律表达式。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "电流与电路",
+      "question": "导体电阻是导体本身的一种性质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "电阻是属性。"
+    }
+  ],
+  "knowledge": {
+    "point": "电流与电路",
+    "core_concept": "电流由电荷的定向移动形成。欧姆定律 $I = U/R$ 表明导体中的电流跟导体两端电压成正比、跟电阻成反比。",
+    "key_formula": "$I = \\dfrac{U}{R}$",
+    "common_mistakes": [
+      "认为电阻随电压变化。"
+    ],
+    "tips": "电阻是导体属性。"
+  }
+}

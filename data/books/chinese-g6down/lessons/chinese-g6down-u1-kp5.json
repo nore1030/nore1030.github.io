@@ -1,0 +1,122 @@
+{
+  "id": "chinese-g6down-u1-kp5",
+  "title": "节日文化与托物言志",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "“春城无处不飞花，寒食东风御柳斜”描写的是清明节的习俗。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句诗描写的节日是“寒食节”。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "下列词语中，描写春节习俗不恰当的一项是：",
+      "options": [
+        "燃放烟花",
+        "张灯结彩",
+        "赛龙舟",
+        "守岁"
+      ],
+      "answer": "赛龙舟",
+      "explanation": "赛龙舟是端午节的传统习俗。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "《寒食》诗中“谁家”一词的词义逻辑是：",
+      "options": [
+        "指哪一家",
+        "指每一家",
+        "泛指皇親貴族",
+        "不知道是谁家"
+      ],
+      "answer": "泛指皇親貴族",
+      "explanation": "诗中描写御柳、传蜡烛，指的是权贵人家。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "‘终日不成章，泣涕零如雨’反映的是织女的：",
+      "options": [
+        "勤劳心情",
+        "孤独思念",
+        "愤怒情绪",
+        "喜悦之情"
+      ],
+      "answer": "孤独思念",
+      "explanation": "描述织女因思念牛郎而心神不宁、泪如雨下。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "《十五夜望月》中描写桂花的诗句是：“中庭地白树栖（___）”。",
+      "options": [],
+      "answer": "鸦",
+      "explanation": "全句为“中庭地白树栖鸦，冷露无声湿桂花”。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "“迢迢牵牛星，皎皎河汉女”中的“河汉”指的是（___）。",
+      "options": [],
+      "answer": "银河",
+      "explanation": "在古代诗词中，河汉、天河多指银河。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "请将传统节日与其对应的典型民俗连线。",
+      "options": [
+        "春节",
+        "元宵节",
+        "端午节",
+        "中秋节",
+        "赏月",
+        "包粽子",
+        "贴对联",
+        "看花灯"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "春节贴对联，元宵节看花灯，端午节包粽子，中秋节赏月。"
+    }
+  ],
+  "knowledge": {
+    "point": "节日文化与托物言志",
+    "core_concept": "学习传统文学中的民俗背景。通过古诗中提到的特定物像（如禁烟火、银河、桂花），联想到对应的节日（寒食、七夕、中秋），并体会诗人借这些景象表达出的对家乡、对亲人或对自己处境的复杂情感。",
+    "key_formula": "物像（如明月）+ 节日场景 = 诗人情感（如思乡）。",
+    "common_mistakes": [
+      "死记硬背诗句，不理解背后的节日背景",
+      "混淆不同节日的特定象征物，如把吃端午粽子记成春节"
+    ],
+    "tips": "建立一张‘节日-日期-习俗-古诗’的对照表，辅助联想记忆。"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Let's play sports! 运动",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "「跑步」的英文是（　）",
+      "options": [
+        "running",
+        "runing",
+        "run",
+        "runn"
+      ],
+      "answer": "running",
+      "explanation": "双写 n。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "实义动词 like 的一般现在时",
+      "question": "「他喜欢踢足球。」的英文是（　）",
+      "options": [
+        "He likes playing football.",
+        "He like playing football.",
+        "He likes play football.",
+        "He liking playing football."
+      ],
+      "answer": "He likes playing football.",
+      "explanation": "三单 likes。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "favourite 的意思是「最喜欢的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "favourite 最爱。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "「我们做运动吧！」的英文是（　）",
+      "options": [
+        "Let's play sports!",
+        "Let play sports!",
+        "Lets play sport!",
+        "Let's playing sports!"
+      ],
+      "answer": "Let's play sports!",
+      "explanation": "Let's + 原形。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,199 @@
+{
+  "id": "g6down-u2-kp1",
+  "title": "折扣与成数",
+  "bookId": "g6down",
+  "unitNumber": 2,
+  "unitTitle": "百分数（二）",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一件衣服打八折出售，就是按原价的 80% 出售。",
+      "options": [],
+      "answer": "对",
+      "explanation": "打几折就是按原价的百分之几十出售，八折即原价的 80%。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "“成数”通常用于农业收成，三成五就是 3.5%。",
+      "options": [],
+      "answer": "错",
+      "explanation": "成数表示十分之几，三成五表示十分之三点五，即 35%，不是 3.5%。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "某种商品打“七折”出售，指的是现价是原价的多少？",
+      "options": [
+        "7%",
+        "70%",
+        "30%",
+        "0.7%"
+      ],
+      "answer": "70%",
+      "explanation": "打折表示占原价的百分之几十，七折即 70%。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一双皮鞋原价 400 元，现在打九折出售，现价是多少元？",
+      "options": [
+        "360",
+        "40",
+        "440",
+        "320"
+      ],
+      "answer": "360",
+      "explanation": "$400 \\times 90\\% = 360$（元）。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "某粮食产区去年粮食产量是 2000 吨，今年比去年增产二成，今年产量是多少吨？",
+      "options": [
+        "2400",
+        "400",
+        "2200",
+        "1600"
+      ],
+      "answer": "2400",
+      "explanation": "$2000 \\times (1 + 20\\%) = 2000 \\times 1.2 = 2400$（吨）。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一套沙发原价 3000 元，现价 2400 元，这套沙发是打几折出售的？",
+      "options": [
+        "八折",
+        "七折",
+        "六折",
+        "九折"
+      ],
+      "answer": "八折",
+      "explanation": "$2400 \\div 3000 = 0.8 = 80\\%$，即八折。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一本课外书打六五折出售，就是按原价的多少出售？",
+      "options": [
+        "6.5%",
+        "65%",
+        "35%",
+        "0.65%"
+      ],
+      "answer": "65%",
+      "explanation": "六五折即 65%。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "苹果今年减产一成，也就是今年的产量是去年的百分之多少？",
+      "options": [
+        "10%",
+        "110%",
+        "90%",
+        "1%"
+      ],
+      "answer": "90%",
+      "explanation": "减产一成即 $1 - 10\\% = 90\\%$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "一个电饭煲原价 500 元，现价 450 元，现在的价格是原价的百分之几？",
+      "options": [
+        "90%",
+        "10%",
+        "85%",
+        "95%"
+      ],
+      "answer": "90%",
+      "explanation": "$450 \\div 500 = 0.9 = 90\\%$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "某种商品打八五折销售，原价 200 元，现价 ___ 元。",
+      "options": [],
+      "answer": "170",
+      "explanation": "$200 \\times 85\\% = 170$（元）。验算：$170 \\div 0.85 = 200$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "折扣与成数",
+      "question": "某种录音机打八折后售 160 元，其原价是 ___ 元。",
+      "options": [],
+      "answer": "200",
+      "explanation": "$160 \\div 80\\% = 200$（元）。验算：$200 \\times 0.8 = 160$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "某工厂去年产值 500 万元，今年比去年增产一成五，今年产值是 ___ 万元。",
+      "options": [],
+      "answer": "575",
+      "explanation": "$500 \\times (1 + 15\\%) = 500 \\times 1.15 = 575$（万元）。验算：$575 \\div 1.15 = 500$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "折扣与成数",
+      "question": "计算：$800 \\times 75\\% = ?$",
+      "options": [],
+      "answer": "600",
+      "explanation": "$800 \\times 0.75 = 600$。验算：$600 \\div 0.75 = 800$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "折扣与成数",
+    "core_concept": "折扣表示现价是原价的百分之几十。几折就是十分之几，即百分之几十；几几折就是百分之几十几。成数表示一个数是另一个数的十分之几。常用于农业收成，“一成”即 10%，“三成五”即 35%。",
+    "key_formula": "$现价 = 原价 \\times 折扣$; $原价 = 现价 \\div 折扣$",
+    "common_mistakes": [
+      "将“几折”误解为便宜了百分之几十，例如八折误算为省了80%",
+      "成数转换错误，如“三成”写成 3% 而不是 30%"
+    ],
+    "tips": "记住“打几折”就是把原价分成10份，取其中的几份。看到成数直接联想百分数的十位。"
+  }
+}

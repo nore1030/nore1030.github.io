@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u6-kp14",
+  "title": "日常交际",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 10,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "日常交际",
+      "question": "Is this your uncle? ______, he is.",
+      "options": [
+        "Yes",
+        "No",
+        "OK",
+        "True"
+      ],
+      "answer": "Yes",
+      "explanation": "一般疑问句肯定回答，Yes, he is。"
+    }
+  ],
+  "knowledge": null
+}

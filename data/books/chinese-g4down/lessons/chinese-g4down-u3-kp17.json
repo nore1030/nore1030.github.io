@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp17",
+  "title": "句子逻辑",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 15,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子逻辑",
+      "question": "将下列词语排列成一句描写春天的诗句：",
+      "options": [
+        "风",
+        "是绿的",
+        "雨",
+        "也是绿的"
+      ],
+      "answer": "风,是绿的,雨,也是绿的",
+      "explanation": "出自艾青的《绿》，体现诗人奇特而主观的感受。"
+    }
+  ],
+  "knowledge": null
+}

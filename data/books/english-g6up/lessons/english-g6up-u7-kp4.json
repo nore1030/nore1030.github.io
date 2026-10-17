@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp4",
+  "title": "交通出行句型理解",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "交通出行句型理解",
+      "question": "在句型 'How can I get to the Fuxi Museum?' 中，get to 意为‘到达’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "get to 是固定短语，表示到达某地。"
+    }
+  ],
+  "knowledge": null
+}

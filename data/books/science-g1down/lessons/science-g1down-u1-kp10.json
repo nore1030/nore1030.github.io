@@ -1,0 +1,66 @@
+{
+  "id": "science-g1down-u1-kp10",
+  "title": "空气的特征",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "空气的特征",
+      "question": "空气虽然看不见，但是它确实存在于我们周围。",
+      "options": [],
+      "answer": "对",
+      "explanation": "空气占据空间，真实存在于我们的周围。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气的特征",
+      "question": "关于空气的特征，描述错误的是（）。",
+      "options": [
+        "没有气味",
+        "没有固定形状",
+        "有颜色",
+        "可以流动"
+      ],
+      "answer": "有颜色",
+      "explanation": "空气是无色的，观察描述中“有颜色”是错误的。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气的特征",
+      "question": "我们可以用（）来收集空气。",
+      "options": [
+        "渔网",
+        "塑料袋",
+        "筷子",
+        "放大镜"
+      ],
+      "answer": "塑料袋",
+      "explanation": "塑料袋密封性好，可以兜住空气并扎紧口袋进行观察。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气的特征",
+      "question": "我们周围到处都充满了（___）。",
+      "options": [],
+      "answer": "空气",
+      "explanation": "空气无处不在，占据空间。"
+    }
+  ],
+  "knowledge": null
+}

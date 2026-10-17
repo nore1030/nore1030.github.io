@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g7up-u9-kp2",
+  "title": "描述人物",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 9,
+  "unitTitle": "Module 9 People and places 人与地方",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述人物",
+      "question": "「友好的」的英文是（　）",
+      "options": [
+        "friendly",
+        "friend",
+        "friends",
+        "friendlly"
+      ],
+      "answer": "friendly",
+      "explanation": "friendly 友好。"
+    }
+  ],
+  "knowledge": {
+    "point": "描述人物",
+    "core_concept": "tall 高的、short 矮的/短的、friendly 友好的、famous 著名的、kind 善良的。",
+    "key_formula": "She is tall and friendly.",
+    "common_mistakes": [
+      "tall 与 short 混用。"
+    ],
+    "tips": "tall 反 short。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g4down-u2-kp6",
+  "title": "字词辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词辨析",
+      "question": "下列词语中，书写完全正确的一项是：",
+      "options": [
+        "怒吼、澎湃",
+        "推侧、详细",
+        "预放、迟钝",
+        "末期、毫末"
+      ],
+      "answer": "怒吼、澎湃",
+      "explanation": "推测应为“测”，预防应为“防”。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词辨析",
+      "question": "文中的“拂拭”一词，可以用以下哪个词替换而不改变句意？",
+      "options": [
+        "打击",
+        "擦拭",
+        "抚摸",
+        "洗涤"
+      ],
+      "answer": "擦拭",
+      "explanation": "拂拭指轻轻擦去尘土，与擦拭意思相近。"
+    }
+  ],
+  "knowledge": null
+}

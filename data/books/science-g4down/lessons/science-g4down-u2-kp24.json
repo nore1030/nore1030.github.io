@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp24",
+  "title": "电路故障类型",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电路故障类型",
+      "question": "电路中导线没连好导致的断开现象称为（ ）。",
+      "options": [],
+      "answer": "断路",
+      "explanation": "电路断开且电流无法通过的状态叫断路。"
+    }
+  ],
+  "knowledge": null
+}

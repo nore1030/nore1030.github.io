@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g8up-u1-kp2",
+  "title": "全等三角形的应用",
+  "bookId": "math-sujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "全等三角形",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的应用",
+      "question": "利用全等三角形证明线段相等，关键是先（　）",
+      "options": [
+        "证明两个三角形全等",
+        "确定两个线段",
+        "画辅助线",
+        "设未知数"
+      ],
+      "answer": "证明两个三角形全等",
+      "explanation": "全等是核心。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的应用",
+      "question": "书写全等三角形时对应顶点顺序要一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对应顺序。"
+    }
+  ],
+  "knowledge": {
+    "point": "全等三角形的应用",
+    "core_concept": "证明思路：找出全等三角形 → 由全等得到对应边/角相等 → 完成证明。",
+    "key_formula": "找全等 → 得相等 → 证结论",
+    "common_mistakes": [
+      "未写对应边就下结论。"
+    ],
+    "tips": "先证全等再得相等。"
+  }
+}

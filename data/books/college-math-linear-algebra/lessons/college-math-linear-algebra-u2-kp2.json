@@ -1,0 +1,31 @@
+{
+  "id": "college-math-linear-algebra-u2-kp2",
+  "title": "向量组与向量空间",
+  "bookId": "college-math-linear-algebra",
+  "unitNumber": 2,
+  "unitTitle": "线性方程组",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "向量组与向量空间",
+      "question": "含零向量的向量组一定线性相关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "零向量使相关性成立。"
+    }
+  ],
+  "knowledge": {
+    "point": "向量组与向量空间",
+    "core_concept": "若存在不全为零的系数使 $k_1\\alpha_1+\\cdots+k_s\\alpha_s=0$，则向量组线性相关；向量组的秩等于其最大无关组所含向量个数。",
+    "key_formula": "线性相关 ⇔ 存在非零解",
+    "common_mistakes": [
+      "把含零向量的向量组当作线性无关。"
+    ],
+    "tips": "含零向量必线性相关。"
+  }
+}

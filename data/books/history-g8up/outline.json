@@ -1,0 +1,103 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "近代侵略与民族危机",
+      "knowledge_points": [
+        {
+          "name": "鸦片战争与《南京条约》",
+          "description": "了解鸦片战争背景、过程与影响。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "第二次鸦片战争与甲午战争",
+          "description": "了解列强侵略的加深与民族危机。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "history-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "近代化探索",
+      "knowledge_points": [
+        {
+          "name": "洋务运动",
+          "description": "了解洋务运动内容与评价。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "戊戌变法与辛亥革命",
+          "description": "了解维新变法与辛亥革命的成果。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "history-g8up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "history-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "history",
+  "lessons": [
+    {
+      "id": "history-g8up-u1-kp1",
+      "title": "鸦片战争与《南京条约》",
+      "unitNumber": 1,
+      "unitTitle": "近代侵略与民族危机",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g8up-u1-kp2",
+      "title": "第二次鸦片战争与甲午战争",
+      "unitNumber": 1,
+      "unitTitle": "近代侵略与民族危机",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g8up-u2-kp1",
+      "title": "洋务运动",
+      "unitNumber": 2,
+      "unitTitle": "近代化探索",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g8up-u2-kp2",
+      "title": "戊戌变法与辛亥革命",
+      "unitNumber": 2,
+      "unitTitle": "近代化探索",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "chinese-g5up-u1-kp3",
+  "title": "一词多义与词语搭配",
+  "bookId": "chinese-g5up",
+  "unitNumber": 1,
+  "unitTitle": "万物有情",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“白鹭是一首韵在骨子里的散文诗”句中，“韵”字表达了白鹭优美的神采。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在此语境下，“韵”指白鹭散发出的优美、有神韵的气质。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“开花”和“心花怒放”中的“花”意思完全一样。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“开花”是指植物的一种生长状态，“心花怒放”中的“花”喻指心情。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "选出下列加点字注音完全正确的一组：",
+      "options": [
+        "嗜好(shì) 镜匣(xiá)",
+        "榨油(zhà) 便宜(biàn)",
+        "垂蔓(màn) 挨近(ái)",
+        "模样(mó) 竟然(jìng)"
+      ],
+      "answer": "嗜好(shì) 镜匣(xiá)",
+      "explanation": "便宜的便读pián，挨近的挨读āi，模样的小模读mú。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“老师对我们的关怀真是无微不（  ）。”横线处应填入哪一个词？",
+      "options": [
+        "至",
+        "致",
+        "制",
+        "质"
+      ],
+      "answer": "至",
+      "explanation": "“无微不至”指无论如何细微的环节都照顾到，常用“至”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "下列词语中，描写事物外形的词语是哪个？",
+      "options": [
+        "神气十足",
+        "玲珑多姿",
+        "漫不经心",
+        "气急败坏"
+      ],
+      "answer": "玲珑多姿",
+      "explanation": "玲珑多姿描述事物的外观形态精巧。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“体面”在“人要做有用的人，不要做只讲体面”中是什么意思？",
+      "options": [
+        "面子活",
+        "外表好看",
+        "有志气",
+        "光荣"
+      ],
+      "answer": "外表好看",
+      "explanation": "在此句中与“有用”相对，指外表的华丽和吸引人。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "“这里的桂花再香，也比不得家乡旧宅院子里的金桂。”句中“比不得”表达了母亲怎样的情感？",
+      "options": [
+        "家乡的桂花质量更好",
+        "这里的桂花太难闻",
+        "对家乡深深的眷恋",
+        "这里的金桂颜色不对"
+      ],
+      "answer": "对家乡深深的眷恋",
+      "explanation": "这是一种借物抒情的心理，强调家乡的东西总是最好的。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一词多义与词语搭配",
+      "question": "在《落花生》中，父亲把花生和桃子、石榴、苹果进行（   ），突出了花生默默无闻的特点。",
+      "options": [],
+      "answer": "对比",
+      "explanation": "文中将果实挂在枝头的事物与埋在土里的花生对比。"
+    }
+  ],
+  "knowledge": {
+    "point": "一词多义与词语搭配",
+    "core_concept": "词语在不同的句子语境中往往有不同的含义，需要根据上下文判断。例如‘体面’一词，既可以指外表的好看，也可以指做事的尊严或光荣。词语搭配则要求掌握动词、形容词与名词之间习惯性的组合，确保表达的准确性和生动性。",
+    "key_formula": "结合语境辨义 + 查阅词典核实常用搭配",
+    "common_mistakes": [
+      "望文生义，不看具体句子就直接套用词典第一义项",
+      "词语搭配不当，如‘开辟’搭配‘知识’（应为‘开阔’）"
+    ],
+    "tips": "朗读感知是纠正搭配不当的好方法，多积累文中的‘动+名’、‘形+名’组合。"
+  }
+}

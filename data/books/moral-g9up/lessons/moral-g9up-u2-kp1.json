@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9up-u2-kp1",
+  "title": "人民当家作主",
+  "bookId": "moral-g9up",
+  "unitNumber": 2,
+  "unitTitle": "民主与法治",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "人民当家作主",
+      "question": "我国的根本政治制度是（　）",
+      "options": [
+        "人民代表大会制度",
+        "民族区域自治制度",
+        "基层群众自治制度",
+        "多党合作制度"
+      ],
+      "answer": "人民代表大会制度",
+      "explanation": "根本政治制度。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "人民当家作主",
+      "question": "民主协商是公民参与民主生活的重要形式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "民主协商。"
+    }
+  ],
+  "knowledge": {
+    "point": "人民当家作主",
+    "core_concept": "人民代表大会制度是我国的根本政治制度。公民参与民主生活的形式有民主选举、民主协商、民主决策和民主管理。",
+    "key_formula": "根本政治制度 = 人民代表大会制度",
+    "common_mistakes": [
+      "把政协当作国家机关。"
+    ],
+    "tips": "政协是爱国统一战线组织。"
+  }
+}

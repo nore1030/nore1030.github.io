@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp12",
+  "title": "科学记录工具",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学记录工具",
+      "question": "去校园观察植物，下列哪样物品通常不需要带？",
+      "options": [
+        "记录本",
+        "铅笔",
+        "放大镜",
+        "餐具"
+      ],
+      "answer": "餐具",
+      "explanation": "科学考察需要记录和观察工具，餐具与观察实验无关。"
+    }
+  ],
+  "knowledge": null
+}

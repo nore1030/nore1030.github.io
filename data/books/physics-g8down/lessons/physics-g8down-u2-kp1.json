@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8down-u2-kp1",
+  "title": "压强",
+  "bookId": "physics-g8down",
+  "unitNumber": 2,
+  "unitTitle": "压强与浮力",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "压强",
+      "question": "受力面积 $2\\ \\text{m}^2$、压力 200 N，压强是多少 Pa？",
+      "options": [],
+      "answer": "100",
+      "explanation": "$p=\\frac{200}{2}=100$ Pa。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "压强",
+      "question": "下列属于增大压强的是（　）",
+      "options": [
+        "书包宽带",
+        "刀刃磨锋利",
+        "滑雪板",
+        "履带"
+      ],
+      "answer": "刀刃磨锋利",
+      "explanation": "减小受力面积以增大压强。"
+    }
+  ],
+  "knowledge": {
+    "point": "压强",
+    "core_concept": "物体所受压力与受力面积之比叫压强。增大压强可减小受力面积或增大压力。",
+    "key_formula": "$p=\\frac FS$",
+    "common_mistakes": [
+      "受力面积用错（应为接触面积）。"
+    ],
+    "tips": "单位 Pa = N/m²。"
+  }
+}

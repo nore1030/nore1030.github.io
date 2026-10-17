@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp22",
+  "title": "性格词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "性格词汇",
+      "question": "He doesn't talk much. He is ______(安静的).",
+      "options": [],
+      "answer": "quiet",
+      "explanation": "不爱说话描述的是性格安静quiet。"
+    }
+  ],
+  "knowledge": null
+}

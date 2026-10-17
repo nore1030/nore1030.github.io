@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g11up-u2-kp2",
+  "title": "水的电离与溶液酸碱性",
+  "bookId": "chemistry-g11up",
+  "unitNumber": 2,
+  "unitTitle": "水溶液与电离平衡",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "水的电离与溶液酸碱性",
+      "question": "25℃ 时 $K_w = $ （　）",
+      "options": [
+        "$10^{-14}$",
+        "$10^{14}$",
+        "$10^{-7}$",
+        "$10^7$"
+      ],
+      "answer": "$10^{-14}$",
+      "explanation": "常温 Kw=10⁻¹⁴。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "水的电离与溶液酸碱性",
+      "question": "升高温度 $K_w$ 增大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "吸热反应升温。"
+    }
+  ],
+  "knowledge": {
+    "point": "水的电离与溶液酸碱性",
+    "core_concept": "水在 25℃ 时 $K_w = 10^{-14}$，溶液酸碱性由 $\\text{pH}$ 判断。酸碱中和的本质是 $\\text{H}^+ + \\text{OH}^- = \\text{H}_2\\text{O}$。",
+    "key_formula": "$\\text{pH} = -\\lg c(\\text{H}^+)$",
+    "common_mistakes": [
+      "温度变化时仍用 $10^{-14}$。"
+    ],
+    "tips": " Kw 随温度变。"
+  }
+}

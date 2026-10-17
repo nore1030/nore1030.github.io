@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u1-kp7",
+  "title": "古诗作者与篇目",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗作者与篇目",
+      "question": "请将古诗名句与所属诗人连线。",
+      "options": [
+        "纤纤擢素手",
+        "春城无处不飞花",
+        "中庭地白树栖鸦",
+        "迢迢牵牛星",
+        "王建",
+        "无名氏",
+        "韩翃",
+        "古诗十九首"
+      ],
+      "answer": "A-4,B-3,C-1,D-2",
+      "explanation": "纤纤擢素手出自古诗十九首，韩翃写寒食，王建写十五夜望月。"
+    }
+  ],
+  "knowledge": null
+}

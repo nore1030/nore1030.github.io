@@ -1,0 +1,80 @@
+{
+  "id": "g6up-u8-kp2",
+  "title": "等比数列求和的思想",
+  "bookId": "g6up",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——数与形",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "等比数列求和的思想",
+      "question": "在无限求和式子$\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}+\\dots$中，加得项数越多，和越接近1。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过图形分割，每次加上的面积是剩余面积的一半，总和无限逼近整体1 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "等比数列求和的思想",
+      "question": "$\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}+\\frac{1}{16}+\\frac{1}{32}$ 的结果与 1 相比：",
+      "options": [
+        "大于 1",
+        "小于 1",
+        "等于 1",
+        "无法比较"
+      ],
+      "answer": "小于 1",
+      "explanation": "这是逐步接近1的数列，但项数有限，结果必小于1。计算得 $\\frac{31}{32} < 1$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "等比数列求和的思想",
+      "question": "$\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}$ 的结果是多少？",
+      "options": [
+        "0.5",
+        "0.75",
+        "0.875",
+        "1"
+      ],
+      "answer": "0.875",
+      "explanation": "$\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8} = 0.5 + 0.25 + 0.125 = 0.875$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "等比数列求和的思想",
+      "question": "把一个正方形的面积看作1。第一次取其一半，第二次取剩余部分的一半，第三次再取剩余的一半。此时剩余部分的面积是：",
+      "options": [
+        "1/4",
+        "1/8",
+        "1/16",
+        "1/32"
+      ],
+      "answer": "1/8",
+      "explanation": "剩余面积序列为 $1/2, 1/4, 1/8$。第三次剩余即 $1 \\div 2 \\div 2 \\div 2 = 1/8$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "等比数列求和的思想",
+    "core_concept": "当我们把一个整体（如面积为1的正方形）不断对半分割并取走时，取走的面积序列为 $1/2, 1/4, 1/8 \\dots$。通过图形可以直观看到，无论加多少项，这些部分的部和永远填不满整个正方形，但会无限接近于1。这揭示了极限的初步数学思想。",
+    "key_formula": "$\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\dots + \\frac{1}{2^n} = 1 - \\frac{1}{2^n}$",
+    "common_mistakes": [
+      "认为无限加下去和会变的无限大",
+      "计算有限项求和时，分母计算错误"
+    ],
+    "tips": "记住“还差一点就到1”的思想，缺少的那个“点”正好就是最后一项的大小。"
+  }
+}

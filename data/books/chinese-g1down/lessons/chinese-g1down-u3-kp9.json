@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp9",
+  "title": "部首识别",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 8,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "部首识别",
+      "question": "“跳、跑、踢”这些字的部首都是：",
+      "options": [
+        "口字旁",
+        "足字旁",
+        "提手旁",
+        "走字底"
+      ],
+      "answer": "足字旁",
+      "explanation": "这些动作都与脚有关，所以是足字旁。"
+    }
+  ],
+  "knowledge": null
+}

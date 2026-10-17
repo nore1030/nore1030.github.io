@@ -1,0 +1,92 @@
+{
+  "id": "chinese-g4down-u2-kp1",
+  "title": "科普说明文的科学推测",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 0,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "琥珀的形成只需要几百年的时间。",
+      "options": [],
+      "answer": "错",
+      "explanation": "琥珀的形成需要经过几万年、甚至上千万年的漫长过程。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "《琥珀》一文中，小苍蝇落在大松树上的情节纯属文学想象，没有任何科学依据。",
+      "options": [],
+      "answer": "错",
+      "explanation": "文中的描述是根据琥珀中保存的标本形态进行科学推测的。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "在《飞向蓝天的恐龙》中，恐龙演化成鸟类的重要前提是：",
+      "options": [
+        "恐龙学会了吃虫子",
+        "恐龙身上长出了羽毛",
+        "恐龙体态变得庞大",
+        "恐龙学会了游泳"
+      ],
+      "answer": "恐龙身上长出了羽毛",
+      "explanation": "羽毛的出现是恐龙向鸟类演化并具备飞行能力的关键特征。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "在那块透明的琥珀里，我们可以“看到”什么从而推测出很久以前的故事？",
+      "options": [
+        "看到人类的脚印",
+        "看到两个小东西的挣扎形态",
+        "看到大海的颜色",
+        "看到科学家留下的记号"
+      ],
+      "answer": "看到两个小东西的挣扎形态",
+      "explanation": "琥珀中苍蝇和蜘蛛的相对位置让科学家推测当时发生了什么。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "科普说明文的科学推测",
+      "question": "请排序说明琥珀形成的关键条件。",
+      "options": [
+        "长时间",
+        "松脂球",
+        "地壳运动",
+        "掩埋在",
+        "深处"
+      ],
+      "answer": "松脂球,长时间,掩埋在,地壳运动,深处",
+      "explanation": "描述松脂球在漫长时间里由于地壳变动掩埋在地下深处的过程。"
+    }
+  ],
+  "knowledge": {
+    "point": "科普说明文的科学推测",
+    "core_concept": "学生需理解“推测”并非凭空想象，而是依据现有的证据进行合乎情理的解释。例如在《琥珀》中，依据“透明球体中两只虫子”的事实，推测出“松脂滴落”的瞬间过程；在《飞向蓝天的恐龙》中，依据“羽毛化石”的发现，推测出恐龙演化为鸟类的进化链条。",
+    "key_formula": "已知事实 + 逻辑联想 = 科学推测",
+    "common_mistakes": [
+      "将推测等同于瞎编故事",
+      "混淆推测与绝对事实的界限"
+    ],
+    "tips": "寻找文中的关键词如“推测、估计、大约、可能”，体会科学语言的严谨性。"
+  }
+}

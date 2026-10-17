@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g10down-u2-kp2",
+  "title": "非限制性定语从句",
+  "bookId": "english-renjiao-g10down",
+  "unitNumber": 2,
+  "unitTitle": "定语从句",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "非限制性定语从句",
+      "question": "非限制性定语从句的特点是（　）",
+      "options": [
+        "用逗号隔开，作补充说明",
+        "不能删去",
+        "一定修饰主语",
+        "没有先行词"
+      ],
+      "answer": "用逗号隔开，作补充说明",
+      "explanation": "逗号标志。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "非限制性定语从句",
+      "question": "非限制性定语从句删去后主句仍成立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "可删性。"
+    }
+  ],
+  "knowledge": {
+    "point": "非限制性定语从句",
+    "core_concept": "限制性从句不能删去，限定范围；非限制性从句是补充说明，逗号隔开，可删去而不影响主句意思。",
+    "key_formula": "有逗号 = 非限制性",
+    "common_mistakes": [
+      "两者混用。"
+    ],
+    "tips": "逗号是关键标志。"
+  }
+}

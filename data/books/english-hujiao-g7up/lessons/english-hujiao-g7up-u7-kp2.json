@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g7up-u7-kp2",
+  "title": "would like to 表达意愿",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 4 Fun time — School clubs 学校社团",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "would like to 表达意愿",
+      "question": "「我想加入音乐社。」的英文是（　）",
+      "options": [
+        "I'd like to join the music club.",
+        "I'd like join the music club.",
+        "I'd like to joining the music club.",
+        "I like to join the music club."
+      ],
+      "answer": "I'd like to join the music club.",
+      "explanation": "would like to + 原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "would like to 表达意愿",
+    "core_concept": "would like to + 原形表示「想要」；缩写 I'd like to…",
+    "key_formula": "I'd like to join the art club.",
+    "common_mistakes": [
+      "would like 后接三单。"
+    ],
+    "tips": "to 后接原形。"
+  }
+}

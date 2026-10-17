@@ -1,0 +1,61 @@
+{
+  "id": "chemistry-g9up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 3,
+  "unitTitle": "化学方程式",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "质量守恒定律",
+      "question": "8 g 硫完全燃烧生成二氧化硫，需要氧气多少 g？（生成 $\\text{SO}_2$ 为 16 g）",
+      "options": [],
+      "answer": "8",
+      "explanation": "由质量守恒：$16-8=8$ g。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "化学方程式的书写与计算",
+      "question": "6 g 镁完全燃烧，生成氧化镁多少 g？[$2\\text{Mg}+\\text{O}_2\\xrightarrow{\\text{点燃}}2\\text{MgO}$，Mg 为 24，MgO 为 40]",
+      "options": [],
+      "answer": "10",
+      "explanation": "$\\frac{6}{48}=\\frac{x}{80}$，$x=10$ g。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "质量守恒定律",
+      "question": "蜡烛燃烧后质量变小，说明质量守恒定律不成立。",
+      "options": [],
+      "answer": "错",
+      "explanation": "生成的气体逸散，计入后质量守恒。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学方程式的书写与计算",
+      "question": "化学方程式中“$\\uparrow$”表示（　）",
+      "options": [
+        "气体生成",
+        "沉淀生成",
+        "加热",
+        "催化剂"
+      ],
+      "answer": "气体生成",
+      "explanation": "气体符号。"
+    }
+  ],
+  "knowledge": null
+}

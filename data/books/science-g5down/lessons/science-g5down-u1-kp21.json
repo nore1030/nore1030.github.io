@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp21",
+  "title": "生态瓶制作",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生态瓶制作",
+      "question": "增加生态瓶中生物的数量，对非生物环境的要求会（ ）。",
+      "options": [
+        "变低",
+        "变高",
+        "没有变化",
+        "不确定"
+      ],
+      "answer": "变高",
+      "explanation": "生物越多，消耗的氧气和养料越多，对水体及空间的要求相应变高。"
+    }
+  ],
+  "knowledge": null
+}

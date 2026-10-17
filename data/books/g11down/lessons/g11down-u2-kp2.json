@@ -1,0 +1,47 @@
+{
+  "id": "g11down-u2-kp2",
+  "title": "导数与函数单调性、极值",
+  "bookId": "g11down",
+  "unitNumber": 2,
+  "unitTitle": "一元函数的导数及其应用",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "导数与函数单调性、极值",
+      "question": "函数 $f(x)=x^3-3x$ 的单调递增区间是（　）",
+      "options": [
+        "$(-1,1)$",
+        "$(-\\infty,-1)\\cup(1,+\\infty)$",
+        "$(0,+\\infty)$",
+        "$(-\\infty,0)$"
+      ],
+      "answer": "$(-\\infty,-1)\\cup(1,+\\infty)$",
+      "explanation": "$f'=3x^2-3>0$，得 $|x|>1$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "导数与函数单调性、极值",
+      "question": "若 $f'(x_0)=0$，则 $x_0$ 一定是极值点。",
+      "options": [],
+      "answer": "错",
+      "explanation": "如 $f(x)=x^3$ 在 $x=0$ 处。"
+    }
+  ],
+  "knowledge": {
+    "point": "导数与函数单调性、极值",
+    "core_concept": "$f'(x)>0$ 时 $f(x)$ 递增，$f'(x)<0$ 时递减。$f'(x_0)=0$ 且左右异号时 $x_0$ 为极值点。",
+    "key_formula": "$f'(x)>0\\Rightarrow$ 递增",
+    "common_mistakes": [
+      "把 $f'(x_0)=0$ 直接当作极值点。"
+    ],
+    "tips": "需检验左右符号变化。"
+  }
+}

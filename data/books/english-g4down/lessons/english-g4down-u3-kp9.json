@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u3-kp9",
+  "title": "Sentence logic",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 5,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "Sentence logic",
+      "question": "It's cool and ____. Let's fly a kite.",
+      "options": [
+        "snowy",
+        "windy",
+        "hot",
+        "rainy"
+      ],
+      "answer": "windy",
+      "explanation": "放风筝(fly a kite)需要有风(windy)的天气。"
+    }
+  ],
+  "knowledge": null
+}

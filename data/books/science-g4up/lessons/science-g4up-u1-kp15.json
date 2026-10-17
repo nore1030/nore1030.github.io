@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp15",
+  "title": "耳朵功能",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "耳朵功能",
+      "question": "耳廓的主要作用是：",
+      "options": [
+        "收集声波",
+        "产生振动",
+        "传递振动",
+        "转化信号"
+      ],
+      "answer": "收集声波",
+      "explanation": "耳廓形状特殊，主要是为了更好地收集来自各方的声波进入耳道。"
+    }
+  ],
+  "knowledge": null
+}

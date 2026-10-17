@@ -1,0 +1,66 @@
+{
+  "id": "physics-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g9down",
+  "unitNumber": 1,
+  "unitTitle": "内能与热机",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "内能与比热容",
+      "question": "沿海地区昼夜温差比内陆小，主要因为水的（　）",
+      "options": [
+        "比热容大",
+        "密度大",
+        "导热快",
+        "沸点高"
+      ],
+      "answer": "比热容大",
+      "explanation": "水的比热容大。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "内燃机与热机效率",
+      "question": "提高热机效率的途径是（　）",
+      "options": [
+        "使燃料充分燃烧并减少热量损失",
+        "增加散热",
+        "降低燃料热值",
+        "减少做功"
+      ],
+      "answer": "使燃料充分燃烧并减少热量损失",
+      "explanation": "提高效率途径。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "内能与比热容",
+      "question": "热量是热传递过程中转移的能量，不能用“含有”描述。",
+      "options": [],
+      "answer": "对",
+      "explanation": "热量是过程量。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "内燃机与热机效率",
+      "question": "热机效率不可能达到 100%。",
+      "options": [],
+      "answer": "对",
+      "explanation": "存在热损失。"
+    }
+  ],
+  "knowledge": null
+}

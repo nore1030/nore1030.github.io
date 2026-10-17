@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g7up-u7-kp1",
+  "title": "社团词汇 club / join / art / music",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 4 Fun time — School clubs 学校社团",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "社团词汇 club / join / art / music",
+      "question": "「加入」的英文是（　）",
+      "options": [
+        "join",
+        "join in",
+        "take part",
+        "attend"
+      ],
+      "answer": "join",
+      "explanation": "加入组织用 join。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "社团词汇 club / join / art / music",
+      "question": "「美术社」的英文是（　）",
+      "options": [
+        "art club",
+        "art clubs",
+        "arts club",
+        "art's club"
+      ],
+      "answer": "art club",
+      "explanation": "art club。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "社团词汇 club / join / art / music",
+      "question": "club 的意思是「社团、俱乐部」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "club 社团。"
+    }
+  ],
+  "knowledge": {
+    "point": "社团词汇 club / join / art / music",
+    "core_concept": "club 社团、join 加入、art club 美术社、music club 音乐社、basketball club 篮球社。",
+    "key_formula": "join the music club 加入音乐社",
+    "common_mistakes": [
+      "join 与 join in 混淆。"
+    ],
+    "tips": "加入组织用 join。"
+  }
+}

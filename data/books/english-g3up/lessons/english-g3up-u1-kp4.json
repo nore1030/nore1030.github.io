@@ -1,0 +1,54 @@
+{
+  "id": "english-g3up-u1-kp4",
+  "title": "见面问候",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 0,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "见面问候",
+      "question": "当你想告诉别人你叫陈杰时，你可以说：'Hello, Chen Jie.'",
+      "options": [],
+      "answer": "错",
+      "explanation": "Hello, Chen Jie是向陈杰打招呼，介绍自己应使用I'm Chen Jie。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "见面问候",
+      "question": "'Hi' 和 'Hello' 意思相近，都可以用来打招呼。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Hi和Hello都是英语中非正式的打招呼用语。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "见面问候",
+      "question": "将下列英文短语/句子与中文意思连线。",
+      "options": [
+        "Goodbye",
+        "Hello",
+        "My name's",
+        "Me too",
+        "你好",
+        "再见",
+        "我也一样",
+        "我的名字是"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "Goodbye-再见, Hello-你好, My name's-我的名字是, Me too-我也一样。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u3-kp20",
+  "title": "词组翻译",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词组翻译",
+      "question": "Match the English phrases with Chinese meanings.",
+      "options": [
+        "rode a horse",
+        "went camping",
+        "took pictures",
+        "bought gifts",
+        "去露营",
+        "买礼物",
+        "骑马",
+        "照相"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "rode a horse-骑马; went camping-去露营; took pictures-照相; bought gifts-买礼物。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp15",
+  "title": "形容词等级",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词等级",
+      "question": "Who is the ______ girl in your class?",
+      "options": [
+        "tallest",
+        "taller",
+        "tall",
+        "talling"
+      ],
+      "answer": "tallest",
+      "explanation": "班级三者以上对比用最高级tallest。"
+    }
+  ],
+  "knowledge": null
+}

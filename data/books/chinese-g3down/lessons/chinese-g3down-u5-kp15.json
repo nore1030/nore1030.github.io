@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u5-kp15",
+  "title": "修辞句式",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 14,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "修辞句式",
+      "question": "排列出奇妙的想象句：",
+      "options": [
+        "蒲公英",
+        "当做",
+        "降落伞",
+        "被",
+        "蚂蚁"
+      ],
+      "answer": "蒲公英,被,蚂蚁,当做,降落伞",
+      "explanation": "被字句的特殊想象用法。"
+    }
+  ],
+  "knowledge": null
+}

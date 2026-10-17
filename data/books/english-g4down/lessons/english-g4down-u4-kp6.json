@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp6",
+  "title": "名词复数用法",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词复数用法",
+      "question": "I like ________.",
+      "options": [
+        "potato",
+        "potatoes",
+        "potatos",
+        "a potatoes"
+      ],
+      "answer": "potatoes",
+      "explanation": "表示泛指一类事物，potato需用复数形式且es结尾。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g5down-u6-kp22",
+  "title": "词汇翻译",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇翻译",
+      "question": "请将下列英语短语与对应的中文意思匹配。",
+      "options": [
+        "keep clean",
+        "take turns",
+        "keep quiet",
+        "show me",
+        "保持安静",
+        "保持整洁",
+        "给我看看",
+        "轮流"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "keep clean-保持整洁；take turns-轮流；keep quiet-保持安静；show me-给我看看。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "g4down-u7-kp1",
+  "title": "轴对称图形的补全",
+  "bookId": "g4down",
+  "unitNumber": 7,
+  "unitTitle": "图形的运动（二）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "轴对称图形中，对称轴两侧对应的点到对称轴的距离相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据轴对称图形的基本性质，对应点到对称轴的距离是相等的。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "正方形有 4 条对称轴。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正方形有两条对角线对称轴和两条对边中线对称轴，共4条。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "等腰三角形有几条对称轴？",
+      "options": [
+        "1条",
+        "2条",
+        "3条",
+        "4条"
+      ],
+      "answer": "1条",
+      "explanation": "等腰三角形只有一条对称轴，即底边的中垂线。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "下列哪个汉字可以看作是轴对称图形？",
+      "options": [
+        "中",
+        "左",
+        "右",
+        "上"
+      ],
+      "answer": "中",
+      "explanation": "“中”字关于中间竖笔画对称。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "画轴对称图形的另一半时，首先要找什么？",
+      "options": [
+        "对应点",
+        "对应线段",
+        "对称轴",
+        "中心点"
+      ],
+      "answer": "对应点",
+      "explanation": "补全轴对称图形的关键是先确定关键点关于对称轴的对应点。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "圆有几条对称轴？",
+      "options": [
+        "1条",
+        "2条",
+        "4条",
+        "无数条"
+      ],
+      "answer": "无数条",
+      "explanation": "圆的任何一条直径所在的直线都是它的对称轴。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "下列字母中，不是轴对称图形的是哪一个？",
+      "options": [
+        "A",
+        "H",
+        "M",
+        "S"
+      ],
+      "answer": "S",
+      "explanation": "S旋转180度重合，但沿任何轴折叠都无法重合，不是轴对称图形。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "长方形有 ___ 条对称轴。",
+      "options": [],
+      "answer": "2",
+      "explanation": "长方形的长边中点连线和短边中点连线各是一条对称轴，共2条。对角线折叠不重合。"
+    }
+  ],
+  "knowledge": {
+    "point": "轴对称图形的补全",
+    "core_concept": "轴对称图形的核心是‘对应’和‘相等’。画另一半时，先找到原图形各个关键顶点，量出它们到对称轴的格数，然后在对称轴另一侧对应位置标出格数相同的点，最后顺次连接。",
+    "key_formula": "对应点距离 = 对应点到对称轴的格数",
+    "common_mistakes": [
+      "找对应点时，在对称轴同侧画点。",
+      "连接点时顺序错误，导致补出来的图形形状怪异。"
+    ],
+    "tips": "数格点时要细心，建议从上到下，先标点后连线。"
+  }
+}

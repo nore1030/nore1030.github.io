@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g5up-u7-kp11",
+  "title": "表达技巧应用",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 10,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达技巧应用",
+      "question": "连词成句，体现动态之美。",
+      "options": [
+        "无数",
+        "萤火虫",
+        "闪着",
+        "在夜色中",
+        "微光",
+        "飞舞"
+      ],
+      "answer": "无数,萤火虫,在夜色中,闪着,微光,飞舞",
+      "explanation": "这是一句典型的动态描写练习。"
+    }
+  ],
+  "knowledge": null
+}

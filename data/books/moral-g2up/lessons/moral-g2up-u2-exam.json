@@ -1,0 +1,66 @@
+{
+  "id": "moral-g2up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g2up",
+  "unitNumber": 2,
+  "unitTitle": "安全与健康",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "居家与出行安全",
+      "question": "有人受伤需要急救，应拨打（　）",
+      "options": [
+        "110",
+        "119",
+        "120",
+        "122"
+      ],
+      "answer": "120",
+      "explanation": "120 是急救电话。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "居家与出行安全",
+      "question": "不能玩火和触摸电源插座。",
+      "options": [],
+      "answer": "对",
+      "explanation": "玩火触电很危险。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "锻炼与作息",
+      "question": "下面哪种做法有利于健康（　）",
+      "options": [
+        "熬夜打游戏",
+        "每天跑步半小时",
+        "不吃饭减肥",
+        "长时间看手机"
+      ],
+      "answer": "每天跑步半小时",
+      "explanation": "适量运动有益健康。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "锻炼与作息",
+      "question": "小学生每天要保证充足睡眠。",
+      "options": [],
+      "answer": "对",
+      "explanation": "充足睡眠助成长。"
+    }
+  ],
+  "knowledge": null
+}

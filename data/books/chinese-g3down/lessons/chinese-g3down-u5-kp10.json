@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u5-kp10",
+  "title": "词语搭配",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "选出搭配最恰当的一组：",
+      "options": [
+        "奇妙的想象",
+        "奇妙的计算",
+        "奇妙的朋友",
+        "奇妙的作业"
+      ],
+      "answer": "奇妙的想象",
+      "explanation": "符合本单元主题，词语组合最自然。"
+    }
+  ],
+  "knowledge": null
+}

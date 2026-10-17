@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9down-u1-kp2",
+  "title": "内燃机与热机效率",
+  "bookId": "physics-g9down",
+  "unitNumber": 1,
+  "unitTitle": "内能与热机",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "内燃机与热机效率",
+      "question": "汽油机四个冲程中把内能转化为机械能的是（　）",
+      "options": [
+        "做功冲程",
+        "吸气冲程",
+        "压缩冲程",
+        "排气冲程"
+      ],
+      "answer": "做功冲程",
+      "explanation": "做功冲程转化能量。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "内燃机与热机效率",
+      "question": "压缩冲程把机械能转化为内能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "压缩是机械能转内能。"
+    }
+  ],
+  "knowledge": {
+    "point": "内燃机与热机效率",
+    "core_concept": "汽油机四冲程：吸气、压缩、做功、排气。其中只有做功冲程把内能转化为机械能。热机效率等于有用功与总功之比。",
+    "key_formula": "$n = \\dfrac{W_\\text{有用}}{W_\\text{总}} \\times 100\\%$",
+    "common_mistakes": [
+      "认为压缩冲程对外做功。"
+    ],
+    "tips": "只有做功冲程做功。"
+  }
+}

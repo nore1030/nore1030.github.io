@@ -1,0 +1,102 @@
+{
+  "id": "g5up-u7-kp3",
+  "title": "植树问题的综合转化",
+  "bookId": "g5up",
+  "unitNumber": 7,
+  "unitTitle": "数学广角——植树问题",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "时钟敲 3 下要 4 秒，敲 6 下就要 8 秒。",
+      "options": [],
+      "answer": "错",
+      "explanation": "敲 3 下有 2 个间隔，每个间隔 $4 \\div 2 = 2$ 秒。敲 6 下有 5 个间隔，需要 $5 \\times 2 = 10$ 秒。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "小明家住 6 楼，他从 1 楼爬到 2 楼用了 10 秒。照这样计算，他从 1 楼爬到 6 楼需要几秒？",
+      "options": [
+        "60",
+        "50",
+        "40",
+        "70"
+      ],
+      "answer": "50",
+      "explanation": "1楼到2楼是 1 层楼梯。1楼到6楼是 $6 - 1 = 5$ 层楼梯。$5 \\times 10 = 50$ 秒。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "一根木头锯成 4 段要 12 分钟，如果锯成 8 段，需要多少分钟？",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "21"
+      ],
+      "answer": "28",
+      "explanation": "锯 4 段需要 3 次，$12 \\div 3 = 4$ 分钟/次。锯 8 段需要 7 次，$7 \\times 4 = 28$ 分钟。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "5 路公交车路线全长 12 千米，相邻两站距离 1 千米。一共有几个车站？（起点终点都有站）",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "13",
+      "explanation": "两端都有站，车站数 = 间隔数 + 1。间隔数 = $12 \\div 1 = 12$ 个，车站数 = $12 + 1 = 13$ 个。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "把一根木头锯成 6 段，每锯断一次需要 3 分钟。锯完这根木头一共需要 ___ 分钟。",
+      "options": [],
+      "answer": "15",
+      "explanation": "锯成 6 段需要锯 $6 - 1 = 5$ 次。总时间：$5 \\times 3 = 15$（分钟）。验算：$15 \\div 3 = 5$ 次，加上最后一段不需锯，共 6 段✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植树问题的综合转化",
+      "question": "计算：$15 \\times (10 - 1) = ?$",
+      "options": [],
+      "answer": "135",
+      "explanation": "$15 \\times (10 - 1) = 15 \\times 9 = 135$。验算：$135 \\div 9 = 15$✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "植树问题的综合转化",
+    "core_concept": "很多生活问题其实是植树问题的变式。爬楼梯：楼层数相当于棵数，层与层之间的楼梯相当于间隔；锯木头：段数相当于棵数，锯的次数相当于间隔数（两端不栽）；敲钟：敲的次数是棵数，间隔时间是间隔数。",
+    "key_formula": "$爬楼层数 = 到达层数 - 1$；$锯木次数 = 段数 - 1$",
+    "common_mistakes": [
+      "爬楼梯时，认为从1楼到5楼是5层楼梯（实际是4层）。",
+      "敲钟问题中，把敲第一下的动作也当成了间隔时间的开始。"
+    ],
+    "tips": "核心在于找“间隔”。只要找到了“空隙”在哪里，就能转化为数学模型。记住：楼层差、锯口数、敲钟间隔都是“间隔”。"
+  }
+}

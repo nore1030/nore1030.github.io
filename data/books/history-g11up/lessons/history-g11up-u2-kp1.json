@@ -1,0 +1,47 @@
+{
+  "id": "history-g11up-u2-kp1",
+  "title": "中国古代的选官与监察",
+  "bookId": "history-g11up",
+  "unitNumber": 2,
+  "unitTitle": "国家治理与社会变革",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中国古代的选官与监察",
+      "question": "科举制正式确立的标志是（　）",
+      "options": [
+        "隋文帝设分科考试",
+        "隋炀帝设进士科",
+        "唐太宗扩大国学规模",
+        "武则天创立殿试"
+      ],
+      "answer": "隋炀帝设进士科",
+      "explanation": "进士科确立。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中国古代的选官与监察",
+      "question": "科举制打破了世家大族对官场的垄断。",
+      "options": [],
+      "answer": "对",
+      "explanation": "科举意义。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国古代的选官与监察",
+    "core_concept": "选官制度从察举制、九品中正制到科举制，趋向公开、公平。监察从御史台到都察院，趋向制度化。",
+    "key_formula": "察举 → 九品中正 → 科举",
+    "common_mistakes": [
+      "认为科举制始于宋代。"
+    ],
+    "tips": "隋朝创立。"
+  }
+}

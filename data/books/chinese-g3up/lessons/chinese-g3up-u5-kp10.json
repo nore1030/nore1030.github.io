@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u5-kp10",
+  "title": "词语选择",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语选择",
+      "question": "妈妈（   ）地推开门，怕吵醒睡梦中的孩子。",
+      "options": [
+        "悄悄",
+        "飞快",
+        "使劲",
+        "快乐"
+      ],
+      "answer": "悄悄",
+      "explanation": "根据语境“怕吵醒”，应选表示动作轻、无声响的词。"
+    }
+  ],
+  "knowledge": null
+}

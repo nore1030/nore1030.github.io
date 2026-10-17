@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g1down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 5,
+  "unitTitle": "识字（二）",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“朝”读音为 zhāo，对应的是“晚”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "朝夕相对。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "“蝌蚪长大了变成了青蛙”，这属于动物动作动宾短语。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是个完整的叙述句。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "“竹篮子打水——一场空”意思是白忙活了。",
+      "options": [],
+      "answer": "对",
+      "explanation": "竹篮有缝，提不起水。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "给别人打电话可以在任何时间，哪怕是深夜。",
+      "options": [],
+      "answer": "错",
+      "explanation": "不符合文明交往礼仪。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "妈妈说小华的秘密大家都知道了，真是（  ）。",
+      "options": [
+        "芝麻开花——节节高",
+        "小葱拌豆腐——一清二白",
+        "十五个吊桶打水——七上八下",
+        "关门养虎——终有后患"
+      ],
+      "answer": "小葱拌豆腐——一清二白",
+      "explanation": "形容清清楚楚、明明白白。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "《动物儿歌》告诉我们，谁在土里造宫殿？",
+      "options": [
+        "蚂蚁",
+        "蚯蚓",
+        "蜘蛛",
+        "蜻蜓"
+      ],
+      "answer": "蚯蚓",
+      "explanation": "原文：蚯蚓土里造宫殿。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "打电话没听清对方说的话，应该怎么办？",
+      "options": [
+        "大声说：你没吃饭吗？",
+        "直接挂断",
+        "不好意思，请再说一遍好吗？",
+        "随便应付一句"
+      ],
+      "answer": "不好意思，请再说一遍好吗？",
+      "explanation": "体现了沟通中的礼貌表达。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "下列哪组词语最能体现“严寒”对“酷暑”？",
+      "options": [
+        "春天和夏天",
+        "冬天和夏天",
+        "秋天和冬天",
+        "春天和秋天"
+      ],
+      "answer": "冬天和夏天",
+      "explanation": "严寒指冬，酷暑指夏。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "“蝴蝶花间捕食”不对，课文里怎么形容蝴蝶？",
+      "options": [
+        "搬家",
+        "飞舞",
+        "捉迷藏",
+        "结网"
+      ],
+      "answer": "捉迷藏",
+      "explanation": "蝴蝶花间捉迷藏。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "形容“白忙活一场”的歇后语是：",
+      "options": [
+        "竹篮子打水",
+        "芝麻开花",
+        "小葱拌豆腐",
+        "十五个吊桶打水"
+      ],
+      "answer": "竹篮子打水",
+      "explanation": "完整句为：竹篮子打水——一场空。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“和风”对（  ）。",
+      "options": [],
+      "answer": "细雨",
+      "explanation": "课文原句。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "蚂蚁（  ）家。",
+      "options": [],
+      "answer": "搬",
+      "explanation": "考查动作词“搬”。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "请将意思相反的字连起来。",
+      "options": [
+        "古",
+        "圆",
+        "早",
+        "长",
+        "晚",
+        "短",
+        "今",
+        "方"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "古-今，圆-方，早-晚，长-短。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "动词与名词连线。",
+      "options": [
+        "打",
+        "踢",
+        "跳",
+        "拍",
+        "皮球",
+        "高",
+        "足球",
+        "球"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "打球、踢足球、跳高、拍皮球。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "连成一句话：",
+      "options": [
+        "土里",
+        "蚯蚓",
+        "造宫殿",
+        "在"
+      ],
+      "answer": "蚯蚓,在,土里,造宫殿",
+      "explanation": "主+状+动宾结构。"
+    }
+  ],
+  "knowledge": null
+}

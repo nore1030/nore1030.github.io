@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Unit 7 Shopping 购物",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "购物句型 How much…? / try on",
+      "question": "「我想买这件 T 恤。」的英文是（　）",
+      "options": [
+        "I'd like to buy this T-shirt.",
+        "I'd like buy this T-shirt.",
+        "I'd like to buying this T-shirt.",
+        "I like to buy this T-shirt."
+      ],
+      "answer": "I'd like to buy this T-shirt.",
+      "explanation": "would like to + 原形。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "购物句型 How much…? / try on",
+      "question": "「我可以试穿吗？」的英文是（　）",
+      "options": [
+        "Can I try it on?",
+        "Can I try on it?",
+        "Can I try it?",
+        "Can I trying it on?"
+      ],
+      "answer": "Can I try it on?",
+      "explanation": "代词放中间。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "购物词汇 shop / mall / price / cheap",
+      "question": "price 的意思是「价格」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "price 价格。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "购物词汇 shop / mall / price / cheap",
+      "question": "「去购物」的英文是（　）",
+      "options": [
+        "go shopping",
+        "go shop",
+        "go to shopping",
+        "going shopping"
+      ],
+      "answer": "go shopping",
+      "explanation": "go shopping。"
+    }
+  ],
+  "knowledge": null
+}

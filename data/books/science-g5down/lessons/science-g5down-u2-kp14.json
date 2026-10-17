@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp14",
+  "title": "动力演变",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 8,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动力演变",
+      "question": "在船的发展史上，下列动力出现的先后顺序是？",
+      "options": [
+        "人力-自然动力-机械动力",
+        "自然动力-人力-机械动力",
+        "人力-机械动力-自然动力",
+        "机械动力-人力-自然动力"
+      ],
+      "answer": "人力-自然动力-机械动力",
+      "explanation": "最初是手摇独木舟，再利用风帆，之后发明了蒸汽机和内燃机动力。"
+    }
+  ],
+  "knowledge": null
+}

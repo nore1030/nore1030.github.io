@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6up-u2-kp18",
+  "title": "地名与事件配对",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地名与事件配对",
+      "question": "请将下列地点与《长征》中发生的意象连线。",
+      "options": [
+        "金沙水",
+        "大渡桥",
+        "岷山",
+        "五岭",
+        "雪",
+        "拍",
+        "寒",
+        "腾细浪"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "金沙水拍，大渡桥寒，岷山雪，五岭腾细浪。"
+    }
+  ],
+  "knowledge": null
+}

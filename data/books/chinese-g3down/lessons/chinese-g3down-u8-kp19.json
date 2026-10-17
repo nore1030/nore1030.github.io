@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u8-kp19",
+  "title": "近义词匹配",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 17,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词匹配",
+      "question": "请连接意思相近的词语。",
+      "options": [
+        "纳闷",
+        "满意",
+        "恼火",
+        "发愣",
+        "如愿",
+        "疑惑",
+        "发呆",
+        "生气"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "纳闷-疑惑，满意-如愿，恼火-生气，发愣-发呆。"
+    }
+  ],
+  "knowledge": null
+}

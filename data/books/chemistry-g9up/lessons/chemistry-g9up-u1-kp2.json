@@ -1,0 +1,52 @@
+{
+  "id": "chemistry-g9up-u1-kp2",
+  "title": "氧气的性质与制取",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的空气",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "氧气的性质与制取",
+      "question": "检验一瓶气体是氧气的方法是（　）",
+      "options": [
+        "闻气味",
+        "伸入带火星木条",
+        "通入澄清石灰水",
+        "观察颜色"
+      ],
+      "answer": "伸入带火星木条",
+      "explanation": "木条复燃则为氧气。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "氧气的性质与制取",
+      "question": "实验室用过氧化氢制氧气时，二氧化锰的作用是（　）",
+      "options": [
+        "反应物",
+        "生成物",
+        "催化剂",
+        "溶剂"
+      ],
+      "answer": "催化剂",
+      "explanation": "二氧化锰是催化剂。"
+    }
+  ],
+  "knowledge": {
+    "point": "氧气的性质与制取",
+    "core_concept": "氧气能支持燃烧，带火星木条复燃可检验氧气。实验室可用加热高锰酸钾或分解过氧化氢制取氧气，二氧化锰作催化剂。",
+    "key_formula": "$2\\text{H}_2\\text{O}_2\\xrightarrow{\\text{MnO}_2}2\\text{H}_2\\text{O}+\\text{O}_2\\uparrow$",
+    "common_mistakes": [
+      "把催化剂的作用说成“增加生成物质量”。"
+    ],
+    "tips": "催化剂改变速率，本身质量和化学性质不变。"
+  }
+}

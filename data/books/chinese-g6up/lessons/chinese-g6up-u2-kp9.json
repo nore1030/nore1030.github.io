@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp9",
+  "title": "古诗理解",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗理解",
+      "question": "《七律·长征》中，最能体现红军不怕艰险、积极乐观的词语是：",
+      "options": [
+        "等闲",
+        "暖",
+        "金沙",
+        "波浪"
+      ],
+      "answer": "等闲",
+      "explanation": "等闲一词将艰难困苦视为平常，体现了革命浪漫主义和英雄主义。"
+    }
+  ],
+  "knowledge": null
+}

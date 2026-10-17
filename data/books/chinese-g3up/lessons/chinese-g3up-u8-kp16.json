@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp16",
+  "title": "口语交际",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口语交际",
+      "question": "如果你想请教老师一个数学题，哪种开头最礼貌？",
+      "options": [
+        "喂，老师，这题怎么做？",
+        "老师，我现在必须问你个事。",
+        "打扰了，老师。请问您现在有空教我这道题吗？",
+        "帮我看看这道题。"
+      ],
+      "answer": "打扰了，老师。请问您现在有空教我这道题吗？",
+      "explanation": "请教时要使用礼貌用语并征得对方同意。"
+    }
+  ],
+  "knowledge": null
+}

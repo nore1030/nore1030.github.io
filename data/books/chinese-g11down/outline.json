@@ -1,0 +1,103 @@
+{
+  "textbook": "选择性必修下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "语言文字与文学评论",
+      "knowledge_points": [
+        {
+          "name": "语言文字积累与运用",
+          "description": "掌握语言文字的规范与运用。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文学评论与经典阅读",
+          "description": "掌握文学评论的阅读方法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g11down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "整本书阅读与思辨表达",
+      "knowledge_points": [
+        {
+          "name": "整本书阅读方法",
+          "description": "掌握整本书阅读策略。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "思辨性表达",
+          "description": "学习有逻辑地表达观点。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g11down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "chinese-g11down",
+  "grade": 11,
+  "semester": "down",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "chinese-g11down-u1-kp1",
+      "title": "语言文字积累与运用",
+      "unitNumber": 1,
+      "unitTitle": "语言文字与文学评论",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g11down-u1-kp2",
+      "title": "文学评论与经典阅读",
+      "unitNumber": 1,
+      "unitTitle": "语言文字与文学评论",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g11down-u2-kp1",
+      "title": "整本书阅读方法",
+      "unitNumber": 2,
+      "unitTitle": "整本书阅读与思辨表达",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g11down-u2-kp2",
+      "title": "思辨性表达",
+      "unitNumber": 2,
+      "unitTitle": "整本书阅读与思辨表达",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

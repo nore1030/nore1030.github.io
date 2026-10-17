@@ -1,0 +1,28 @@
+{
+  "id": "english-g5up-u3-kp16",
+  "title": "句意理解",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 11,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句意理解",
+      "question": "The fish is too _____. Please give me some water.",
+      "options": [
+        "sweet",
+        "salty",
+        "fresh",
+        "delicious"
+      ],
+      "answer": "salty",
+      "explanation": "因为太salty（咸了），所以需要喝水。"
+    }
+  ],
+  "knowledge": null
+}

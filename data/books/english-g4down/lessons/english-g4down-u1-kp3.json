@@ -1,0 +1,66 @@
+{
+  "id": "english-g4down-u1-kp3",
+  "title": "确认场所的一般疑问句",
+  "bookId": "english-g4down",
+  "unitNumber": 1,
+  "unitTitle": "My school",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "Do you have a library? 的否定回答是 'No, I don't.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "Do you疑问句的否定回答使用don't。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "Is this the music room? Yes, ________.",
+      "options": [
+        "it is",
+        "it isn't",
+        "this is",
+        "is it"
+      ],
+      "answer": "it is",
+      "explanation": "Is this疑问句的肯定回答用Yes, it is。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "Do you have a music room? ________. We have one.",
+      "options": [
+        "No",
+        "Yes, we do",
+        "Yes, we don't",
+        "No, we do"
+      ],
+      "answer": "Yes, we do",
+      "explanation": "根据后一句'We have one'可知回答应是肯定的。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "Is that the art room? No, it ________.",
+      "options": [],
+      "answer": "isn't",
+      "explanation": "一般疑问句Is that...的否定回答是No, it isn't。"
+    }
+  ],
+  "knowledge": null
+}

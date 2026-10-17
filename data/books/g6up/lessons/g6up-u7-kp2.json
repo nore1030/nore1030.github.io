@@ -1,0 +1,193 @@
+{
+  "id": "g6up-u7-kp2",
+  "title": "统计图的选择与数据分析",
+  "bookId": "g6up",
+  "unitNumber": 7,
+  "unitTitle": "扇形统计图",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "如果想看学校五年级各班人数的多少，选择扇形统计图最合适。",
+      "options": [],
+      "answer": "错",
+      "explanation": "查看具体数量的多少，条形统计图更直观。扇形统计图主要看占比。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "从扇形统计图中可以直接看出各部分数据的具体数值。",
+      "options": [],
+      "answer": "错",
+      "explanation": "扇形统计图通常直接给出百分比，具体数值需要通过总量计算。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "为了观察一个病人一天的体温变化趋势，应选择哪种统计图？",
+      "options": [
+        "条形统计图",
+        "折线统计图",
+        "扇形统计图",
+        "统计表"
+      ],
+      "answer": "折线统计图",
+      "explanation": "趋势变化是折线统计图的特长。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "某校学生来源中，本市学生占 80%，外市学生占 20%。应用哪种统计图表示更佳？",
+      "options": [
+        "条形统计图",
+        "折线统计图",
+        "扇形统计图",
+        "无法确定"
+      ],
+      "answer": "扇形统计图",
+      "explanation": "表示比例关系，扇形统计图最直观。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "在一个总人数为 200 人的统计图中，A 部分占 10%，则 A 部分有几人？",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "100"
+      ],
+      "answer": "20",
+      "explanation": "$200 \\times 10\\% = 20$。验算：$20 \\div 200 = 0.1$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "果园里桃树占 45%，苹果树占 35%，其余是梨树。梨树占百分之几？",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "20%",
+      "explanation": "$100\\% - 45\\% - 35\\% = 20\\%$。验算：$45+35+20=100$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "要统计一家餐厅各种菜品销量的占比情况，最好使用哪种图？",
+      "options": [
+        "扇形统计图",
+        "折线统计图",
+        "条形统计图",
+        "复式折线图"
+      ],
+      "answer": "扇形统计图",
+      "explanation": "“占比情况”是关键词。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "已知扇形统计图中 A 部分占 25%，对应的数值是 50。整个圆代表的总量是多少？",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "400"
+      ],
+      "answer": "200",
+      "explanation": "$50 \\div 25\\% = 200$。验算：$200 \\times 25\\% = 50$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "如果总销量是 1000 件，A 商品占 30%，B 商品占 40%，A 比 B 少卖多少件？",
+      "options": [
+        "10",
+        "100",
+        "300",
+        "400"
+      ],
+      "answer": "100",
+      "explanation": "$1000 \\times (40\\% - 30\\%) = 100$。验算：$400 - 300 = 100$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "扇形统计图中，最大的一块表示“足球”，占比 40%。如果“足球”有 80 人，总人数是多少？",
+      "options": [
+        "120",
+        "160",
+        "200",
+        "320"
+      ],
+      "answer": "200",
+      "explanation": "$80 \\div 0.4 = 200$。验算：$200 \\times 0.4 = 80$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "果园有 200 棵树，苹果树占 30%，梨树占 20%，那么苹果树比梨树多 ___ 棵。",
+      "options": [],
+      "answer": "20",
+      "explanation": "苹果 $200 \\times 0.3 = 60$，梨 $200 \\times 0.2 = 40$，$60 - 40 = 20$。验算：$200 \\times (0.3 - 0.2) = 20$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "$120 \\div 40\\% = ?$",
+      "options": [],
+      "answer": "300",
+      "explanation": "$120 \\div 0.4 = 300$。验算：$300 \\times 0.4 = 120$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计图的选择与数据分析",
+    "core_concept": "在实际应用中，要根据需求选择：条形统计图适合比较数量的大小；折线统计图适合观察数量的增减变化趋势；扇形统计图适合查看部分占总体的比例。数据分析时，通常利用“总量 × 百分比 = 部分量”或“部分量 ÷ 百分比 = 总量”来互求。",
+    "key_formula": "部分数量 = 总量 \\times 对应百分比",
+    "common_mistakes": [
+      "在需要比较具体数值大小时错误地选择了扇形统计图。",
+      "在计算总量时，用部分数量乘以百分号，导致结果缩小了一百倍。"
+    ],
+    "tips": "看到“占比”、“百分比”、“比重”等词汇时，优先考虑扇形统计图。"
+  }
+}

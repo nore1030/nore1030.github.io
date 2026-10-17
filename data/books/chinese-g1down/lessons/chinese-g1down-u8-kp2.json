@@ -1,0 +1,79 @@
+{
+  "id": "chinese-g1down-u8-kp2",
+  "title": "动物尾巴的功能性",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 1,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "小壁虎的尾巴断了以后，就再也长不出来了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "壁虎的尾巴具有再生能力，断了之后可以再长出来。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "老牛甩动尾巴是为了表达快乐的心情。",
+      "options": [],
+      "answer": "错",
+      "explanation": "老牛甩尾巴是为了赶走背上的苍蝇。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "鱼儿在水里游动，尾巴的主要作用是（）。",
+      "options": [
+        "掌握方向",
+        "赶蚊子",
+        "看起来好看",
+        "用来睡觉"
+      ],
+      "answer": "掌握方向",
+      "explanation": "鱼的尾巴像舵一样，用来拨水和控制方向。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "请根据课文内容连线。",
+      "options": [
+        "小壁虎",
+        "小鱼",
+        "老牛",
+        "燕子",
+        "拨水",
+        "赶蝇子",
+        "掌握平衡",
+        "再生"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "考查课文中不同动物尾巴的作用。"
+    }
+  ],
+  "knowledge": {
+    "point": "动物尾巴的功能性",
+    "core_concept": "动物的尾巴不仅是身体的一部分，更是生存、防御和移动的重要工具。小鱼的尾巴像船舵，用来拨水控制方向；牛的尾巴像蝇拍，通过不断甩动驱赶苍蝇；燕子的尾巴像剪刀，保持飞行平衡；壁虎的尾巴具有再生功能，断开可以自保和逃命。了解这些科学知识能激发学生观察自然的兴趣。",
+    "key_formula": "鱼尾拨水，牛尾赶蝇，燕尾平衡，壁虎再生。",
+    "common_mistakes": [
+      "不理解“拨水”对鱼的作用",
+      "不知道壁虎尾巴断了还能再长出来"
+    ],
+    "tips": "模仿动物动作，体会尾巴的妙用，记住‘小壁虎、借尾巴、没借到、自己长’的过程。"
+  }
+}

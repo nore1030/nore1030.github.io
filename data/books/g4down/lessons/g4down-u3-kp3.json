@@ -1,0 +1,75 @@
+{
+  "id": "g4down-u3-kp3",
+  "title": "乘法交换律与结合律",
+  "bookId": "g4down",
+  "unitNumber": 3,
+  "unitTitle": "运算定律",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘法交换律与结合律",
+      "question": "$25 \\times 4 \\div 25 \\times 4 = 1$",
+      "options": [],
+      "answer": "错",
+      "explanation": "原式按照从左往右计算：$100 \\div 25 \\times 4 = 4 \\times 4 = 16$。不能随意加括号。故错误。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法交换律与结合律",
+      "question": "$125 \\times 7 \\times 8 = 7 \\times (125 \\times 8)$，运用了：",
+      "options": [
+        "乘法交换律",
+        "乘法结合律",
+        "乘法交换律与结合律",
+        "乘法分配律"
+      ],
+      "answer": "乘法交换律与结合律",
+      "explanation": "125和7交换位置运用了交换律，加括号先算 125 乘 8 运用了结合律。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法交换律与结合律",
+      "question": "计算 $4 \\times 17 \\times 25$ 时，先算哪个比较简便？",
+      "options": [
+        "$4 \\times 17$",
+        "$17 \\times 25$",
+        "$4 \\times 25$",
+        "任意计算"
+      ],
+      "answer": "$4 \\times 25$",
+      "explanation": "$4 \\times 25 = 100$ 是常用的凑整口诀。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法交换律与结合律",
+      "question": "$25 \\times 39 \\times 4 = ?$",
+      "options": [],
+      "answer": "3900",
+      "explanation": "$25 \\times 4 \\times 39 = 100 \\times 39 = 3900$。验算：$3900 \\div 4 = 975, 975 \\div 25 = 39$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘法交换律与结合律",
+    "core_concept": "乘法交换律指两个数相乘，交换因数位置，积不变；结合律指三个数相乘，先把前两个数相乘，或者先把后两个数相乘，积不变。计算中优先结合能凑成 100 或 1000 的组合（如 $25 \times 4$ 或 $125 \times 8$）。",
+    "key_formula": "$a \\times b = b \\times a$ \r\n $(a \\times b) \\times c = a \\times (b \\times c)$",
+    "common_mistakes": [
+      "将拆分因数和分配律混淆。例如 $25 \times 32$ 拆成 $25 \times 4 + 8$（应为 $25 \times 4 \\times 8$）。",
+      "计算 $125 \times 8$ 时数错末尾 0 的个数。"
+    ],
+    "tips": "牢记乘法'好朋友'：$25 \\times 4 = 100$，$125 \\times 8 = 1000$，$5 \\times 2 = 10$。看到 25 找 4，看到 125 找 8。"
+  }
+}

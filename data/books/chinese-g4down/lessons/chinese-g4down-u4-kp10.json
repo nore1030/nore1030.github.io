@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp10",
+  "title": "表达技巧",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达技巧",
+      "question": "相比丰子恺写白鹅，老舍在《母鸡》中主要运用了什么样的结构？",
+      "options": [
+        "先分后总",
+        "先抑后扬",
+        "承上启下",
+        "托物言志"
+      ],
+      "answer": "先抑后扬",
+      "explanation": "文章前部分写讨厌母鸡，后半部分写敬佩母鸡，形成情感对比。"
+    }
+  ],
+  "knowledge": null
+}

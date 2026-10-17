@@ -1,0 +1,47 @@
+{
+  "id": "biology-g11up-u1-kp1",
+  "title": "人体的内环境与稳态",
+  "bookId": "biology-g11up",
+  "unitNumber": 1,
+  "unitTitle": "稳态与调节",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "人体的内环境与稳态",
+      "question": "人体内环境由（　）组成",
+      "options": [
+        "血浆、组织液和淋巴",
+        "血液和淋巴",
+        "细胞内液和组织液",
+        "血浆和组织细胞"
+      ],
+      "answer": "血浆、组织液和淋巴",
+      "explanation": "内环境三成分。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "人体的内环境与稳态",
+      "question": "内环境是细胞与外界环境进行物质交换的媒介。",
+      "options": [],
+      "answer": "对",
+      "explanation": "内环境作用。"
+    }
+  ],
+  "knowledge": {
+    "point": "人体的内环境与稳态",
+    "core_concept": "内环境由血浆、组织液和淋巴组成，是细胞与外界环境进行物质交换的媒介。稳态是指内环境的成分和理化性质保持相对稳定。",
+    "key_formula": "内环境 = 血浆 + 组织液 + 淋巴",
+    "common_mistakes": [
+      "把细胞内液算作内环境。"
+    ],
+    "tips": "内环境指细胞外液。"
+  }
+}

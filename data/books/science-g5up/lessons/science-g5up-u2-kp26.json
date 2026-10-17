@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp26",
+  "title": "侵蚀作用",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "侵蚀作用",
+      "question": "雨水降落在地面上，流走时带走颗粒细小的泥沙，这种现象叫（ ）。",
+      "options": [],
+      "answer": "侵蚀",
+      "explanation": "雨水运动导致的对地表物质的破坏和搬运作用叫侵蚀。"
+    }
+  ],
+  "knowledge": null
+}

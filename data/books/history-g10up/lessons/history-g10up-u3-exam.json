@@ -1,0 +1,66 @@
+{
+  "id": "history-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "history-g10up",
+  "unitNumber": 3,
+  "unitTitle": "晚清与近代中国的探索",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "救亡图存的探索",
+      "question": "新文化运动高举的两面旗帜是（　）",
+      "options": [
+        "自由与平等",
+        "民主与科学",
+        "变法与图强",
+        "自强与求富"
+      ],
+      "answer": "民主与科学",
+      "explanation": "民主与科学。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列强侵略与民族危机",
+      "question": "《马关条约》中割让给日本的是（　）",
+      "options": [
+        "香港岛",
+        "台湾全岛及所有附属各岛屿、澎湖列岛",
+        "辽东半岛（永久）",
+        "山东"
+      ],
+      "answer": "台湾全岛及所有附属各岛屿、澎湖列岛",
+      "explanation": "马关条约割台湾等地。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "救亡图存的探索",
+      "question": "戊戌变法主张建立君主立宪制。",
+      "options": [],
+      "answer": "对",
+      "explanation": "维新派主张君主立宪。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "列强侵略与民族危机",
+      "question": "甲午中日战争的失败大大加深了中国的民族危机。",
+      "options": [],
+      "answer": "对",
+      "explanation": "马关条约影响。"
+    }
+  ],
+  "knowledge": null
+}

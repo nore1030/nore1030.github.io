@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u5-kp4",
+  "title": "词汇逻辑分类",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 0,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇逻辑分类",
+      "question": "单词 'plane', 'train', 'taxi' 都属于交通工具类词汇。",
+      "options": [],
+      "answer": "对",
+      "explanation": "plane(飞机), train(火车), taxi(出租车)均属于交通工具。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp10",
+  "title": "理解阅读",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：海底植物的差异很大，色彩多种多样。有褐色的，有紫色的，还有红色的。最小的单细胞海藻，要用显微镜才能看清楚。最大的海藻可长达二三百米。这段话主要侧重写：",
+      "options": [
+        "颜色多样",
+        "长短不同",
+        "差异很大",
+        "数量繁多"
+      ],
+      "answer": "差异很大",
+      "explanation": "通过颜色和大小两个维度的对比说明海底植物“差异很大”。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "english-g5up-u1-kp2",
+  "title": "询问人物特征的特殊疑问句",
+  "bookId": "english-g5up",
+  "unitNumber": 1,
+  "unitTitle": "What’s he like?",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问人物特征的特殊疑问句",
+      "question": "— ______ is your music teacher? — Mr Young.",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "answer": "Who",
+      "explanation": "回答是人名，询问人物用 Who。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问人物特征的特殊疑问句",
+      "question": "— What's she like? — ______",
+      "options": [
+        "She is 10.",
+        "She is very kind.",
+        "She is a doctor.",
+        "She likes cats."
+      ],
+      "answer": "She is very kind.",
+      "explanation": "What is ... like? 用于询问性格或外貌特征。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问人物特征的特殊疑问句",
+      "question": "— ______ — He is tall and strong.",
+      "options": [
+        "Who is he?",
+        "What's he like?",
+        "How is he?",
+        "Is he friendly?"
+      ],
+      "answer": "What's he like?",
+      "explanation": "描述外貌身材需要用 What's he like 提问。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问人物特征的特殊疑问句",
+      "question": "______ is your English teacher? Mr Smith is.",
+      "options": [],
+      "answer": "who",
+      "explanation": "询问谁是老师用 who。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问人物特征的特殊疑问句",
+      "question": "连词成句：like, he, What, is, ?",
+      "options": [
+        "like",
+        "he",
+        "What",
+        "is",
+        "?"
+      ],
+      "answer": "What,is,he,like,?",
+      "explanation": "句首大写，询问人的特征句型：What is he like?"
+    }
+  ],
+  "knowledge": null
+}

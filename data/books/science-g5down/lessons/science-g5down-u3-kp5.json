@@ -1,0 +1,82 @@
+{
+  "id": "science-g5down-u3-kp5",
+  "title": "温室效应模拟实验与能源利用",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "煤、石油、天然气属于可再生能源。",
+      "options": [],
+      "answer": "错",
+      "explanation": "化石能源属于不可再生能源，用一点少一点。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "二氧化碳气体增多会导致哪种全球性的环境效应？",
+      "options": [
+        "温室效应",
+        "酸雨现象",
+        "泥石流",
+        "沙尘暴"
+      ],
+      "answer": "温室效应",
+      "explanation": "二氧化碳具有保温作用，浓度升高会引起全球气候变暖。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "下列属于清洁再生能源的是哪一种？",
+      "options": [
+        "石油",
+        "天然气",
+        "太阳能",
+        "煤炭"
+      ],
+      "answer": "太阳能",
+      "explanation": "太阳能、风能和水能是可持续利用且污染极小的清洁能源。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "模拟温室效应实验中，透明密封袋的作用相当于大气中的什么？",
+      "options": [
+        "氧气",
+        "温室气体",
+        "云层",
+        "水蒸汽"
+      ],
+      "answer": "温室气体",
+      "explanation": "密封袋能让阳光射入并阻挡热量散出，模拟二氧化碳等气体的保温功能。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "温室效应模拟实验与能源利用",
+      "question": "引起温室效应的主要气体是（___）。",
+      "options": [],
+      "answer": "二氧化碳",
+      "explanation": "化石燃料燃烧产生的大量二氧化碳是主导因素。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u4-kp3",
+  "title": "元音字母u在开音节中的发音",
+  "bookId": "english-g4up",
+  "unitNumber": 4,
+  "unitTitle": "My home",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "元音字母u在开音节中的发音",
+      "question": "以下哪个单词中 'u' 的发音与其他三个不同？",
+      "options": [
+        "use",
+        "cute",
+        "tube",
+        "duck"
+      ],
+      "answer": "duck",
+      "explanation": "use, cute, tube 中的 u 发 /juː/，而 duck 中的 u 发 /ʌ/。"
+    }
+  ],
+  "knowledge": null
+}

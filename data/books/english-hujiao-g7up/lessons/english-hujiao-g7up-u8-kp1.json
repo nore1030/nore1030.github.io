@@ -1,0 +1,79 @@
+{
+  "id": "english-hujiao-g7up-u8-kp1",
+  "title": "收藏词汇 collect / stamp / coin",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Module 4 Fun time — Collecting things 收藏",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "收藏词汇 collect / stamp / coin",
+      "question": "「集邮」的英文是（　）",
+      "options": [
+        "collect stamps",
+        "collect stamp",
+        "collecting stamps",
+        "collects stamps"
+      ],
+      "answer": "collect stamps",
+      "explanation": "collect + 复数。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "收藏词汇 collect / stamp / coin",
+      "question": "「硬币」的英文是（　）",
+      "options": [
+        "coin",
+        "coins",
+        "coint",
+        "coyn"
+      ],
+      "answer": "coin",
+      "explanation": "coin 硬币。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "收藏词汇 collect / stamp / coin",
+      "question": "「邮票」的英文是（　）",
+      "options": [
+        "stamp",
+        "stamps",
+        "stampe",
+        "stemp"
+      ],
+      "answer": "stamp",
+      "explanation": "stamp 邮票。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "收藏词汇 collect / stamp / coin",
+      "question": "collect 的意思是「收集」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "collect 收集。"
+    }
+  ],
+  "knowledge": {
+    "point": "收藏词汇 collect / stamp / coin",
+    "core_concept": "collect 收集、stamp 邮票、coin 硬币、collection 收藏品。",
+    "key_formula": "collect stamps 集邮",
+    "common_mistakes": [
+      "collect 写成 colect。"
+    ],
+    "tips": "双写 l？不，collect 一个 l，注意拼写 c-o-l-l-e-c-t。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp10",
+  "title": "词义辨析",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "We read pictures and stories in a ______.",
+      "options": [
+        "maths book",
+        "pencil box",
+        "storybook",
+        "ruler"
+      ],
+      "answer": "storybook",
+      "explanation": "故事书（storybook）里包含图画和故事。"
+    }
+  ],
+  "knowledge": null
+}

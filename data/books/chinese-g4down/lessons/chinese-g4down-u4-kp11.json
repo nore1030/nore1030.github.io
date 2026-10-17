@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u4-kp11",
+  "title": "古诗名句",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句",
+      "question": "采得百花成蜜后，为谁辛苦为谁（    ）？",
+      "options": [],
+      "answer": "甜",
+      "explanation": "出自罗隐的《蜂》。"
+    }
+  ],
+  "knowledge": null
+}

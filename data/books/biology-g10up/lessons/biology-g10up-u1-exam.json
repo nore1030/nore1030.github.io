@@ -1,0 +1,61 @@
+{
+  "id": "biology-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g10up",
+  "unitNumber": 1,
+  "unitTitle": "组成细胞的分子",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "蛋白质与核酸",
+      "question": "蛋白质结构多样性的原因不包括（　）",
+      "options": [
+        "氨基酸种类不同",
+        "氨基酸数目不同",
+        "氨基酸排列顺序不同",
+        "氨基酸都含氨基和羧基"
+      ],
+      "answer": "氨基酸都含氨基和羧基",
+      "explanation": "这是共性不是多样性原因。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "糖类、脂质与水盐",
+      "question": "核酸的基本单位是核苷酸。",
+      "options": [],
+      "answer": "对",
+      "explanation": "核苷酸是核酸单体。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "蛋白质与核酸",
+      "question": "50 个氨基酸形成 1 条肽链，失去水分子多少个？",
+      "options": [],
+      "answer": "49",
+      "explanation": "失水数 = 肽键数 = 49。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "糖类、脂质与水盐",
+      "question": "自由水比例越高，细胞代谢越旺盛。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自由水与代谢相关。"
+    }
+  ],
+  "knowledge": null
+}

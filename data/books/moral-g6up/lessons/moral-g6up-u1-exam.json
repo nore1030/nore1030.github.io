@@ -1,0 +1,66 @@
+{
+  "id": "moral-g6up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g6up",
+  "unitNumber": 1,
+  "unitTitle": "阅读与成长",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "阅读习惯与读书方法",
+      "question": "略读的方法主要用于（　）",
+      "options": [
+        "快速把握文章大意",
+        "逐字逐句分析",
+        "背诵全文",
+        "抄写全文"
+      ],
+      "answer": "快速把握文章大意",
+      "explanation": "略读重在抓大意。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "学习中的思考",
+      "question": "合作探究要各抒己见、求同存异。",
+      "options": [],
+      "answer": "对",
+      "explanation": "求同存异。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学习中的思考",
+      "question": "遇到学习困难，正确的态度是（　）",
+      "options": [
+        "主动请教并分析原因",
+        "放弃科目",
+        "抄作业",
+        "怪老师"
+      ],
+      "answer": "主动请教并分析原因",
+      "explanation": "主动求解。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "阅读习惯与读书方法",
+      "question": "广泛阅读有助于拓宽视野。",
+      "options": [],
+      "answer": "对",
+      "explanation": "阅读拓视野。"
+    }
+  ],
+  "knowledge": null
+}

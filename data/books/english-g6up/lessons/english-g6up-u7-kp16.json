@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp16",
+  "title": "爱好表达",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "爱好表达",
+      "question": "He likes ______ stories and singing.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "to reads"
+      ],
+      "answer": "reading",
+      "explanation": "like doing sth. 表示长期稳定的爱好。"
+    }
+  ],
+  "knowledge": null
+}

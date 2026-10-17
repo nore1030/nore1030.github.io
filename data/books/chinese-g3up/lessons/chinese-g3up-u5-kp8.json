@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u5-kp8",
+  "title": "文学常识",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《搭船的鸟》描写的是一只翠鸟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文详细描写了翠鸟的样子和捕鱼的过程。"
+    }
+  ],
+  "knowledge": null
+}

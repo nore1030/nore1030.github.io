@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u5-kp3",
+  "title": "分类归纳观察所得",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分类归纳观察所得",
+      "question": "描写翠鸟外形时，写了它红色的脚，还有翠绿的（___）。",
+      "options": [],
+      "answer": "羽毛",
+      "explanation": "原文提到：它的羽毛是翠绿的。"
+    }
+  ],
+  "knowledge": {
+    "point": "分类归纳观察所得",
+    "core_concept": "在观察复杂事物时，不能杂乱无章。应学习从多个维度进行分类，例如外形（头、身、羽毛）、颜色（翠绿、蓝色）、习性（捕食、栖息）。通过有条理的归纳，可以将观察到的碎片信息整合为系统、全面的认识，这在写作说明性或描写性文字时至关重要。",
+    "key_formula": "归纳 = 确定维度 + 对应特征描述",
+    "common_mistakes": [
+      "描写顺序混乱，一会儿写头一会儿写尾",
+      "分类标准不统一，导致内容重叠"
+    ],
+    "tips": "用树状图或表格来整理观察笔记，把颜色归一类，动作归一类。"
+  }
+}

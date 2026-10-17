@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u8-kp17",
+  "title": "词语理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语理解",
+      "question": "《慢性子裁缝和急性子顾客》中，顾客想要把衣服改成（___）。",
+      "options": [],
+      "answer": "春装",
+      "explanation": "顾客反复更改要求，最后提出要改成春装。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9up-u1-kp2",
+  "title": "人称代词、物主代词与冠词",
+  "bookId": "english-renjiao-g9up",
+  "unitNumber": 1,
+  "unitTitle": "一般现在时与一般过去时复习",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "人称代词、物主代词与冠词",
+      "question": "This is ___ book; the one over there is ___ .",
+      "options": [
+        "my; my",
+        "my; mine",
+        "mine; my",
+        "mine; mine"
+      ],
+      "answer": "my; mine",
+      "explanation": "my 后接名词，mine 单独用。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "人称代词、物主代词与冠词",
+      "question": "there be 句型遵循就近原则。",
+      "options": [],
+      "answer": "对",
+      "explanation": "就近原则。"
+    }
+  ],
+  "knowledge": {
+    "point": "人称代词、物主代词与冠词",
+    "core_concept": "形容词性物主代词后接名词，名词性物主代词单独使用；a/an 看读音，the 表特指；there be 遵循就近原则。",
+    "key_formula": "物主代词后接名词",
+    "common_mistakes": [
+      "my 与 mine 混用。"
+    ],
+    "tips": "后接名词用形容词性。"
+  }
+}

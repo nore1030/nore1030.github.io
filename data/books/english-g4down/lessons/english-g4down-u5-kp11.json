@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp11",
+  "title": "指示代词",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指示代词",
+      "question": "Are ______ your socks?",
+      "options": [
+        "these",
+        "this",
+        "that",
+        "it"
+      ],
+      "answer": "these",
+      "explanation": "socks是复数，由此匹配复数指示代词these。"
+    }
+  ],
+  "knowledge": null
+}

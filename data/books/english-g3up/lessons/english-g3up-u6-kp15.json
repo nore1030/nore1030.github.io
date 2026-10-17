@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp15",
+  "title": "词义辨析",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "I have _____ gifts. (我有8件礼物)",
+      "options": [
+        "seven",
+        "nine",
+        "eight",
+        "ten"
+      ],
+      "answer": "eight",
+      "explanation": "数字8的英文是eight。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "g2down-u10-kp3",
+  "title": "实际问题的综合解决",
+  "bookId": "g2down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "在有余数的除法中，余数一定要比除数小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是除法的基本性质，如果余数大于或等于除数，说明商小了，还能再分。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "一袋盐重 500 克，两袋同样的盐重（ ）。",
+      "options": [
+        "502 克",
+        "1000 克",
+        "1 千克",
+        "以上都是"
+      ],
+      "answer": "1 千克",
+      "explanation": "$500 + 500 = 1000$ 克，1000 克 = 1 千克。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "54 个同学去划船，每条船坐 8 人，至少要租（ ）条船。",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "answer": "7",
+      "explanation": "$54 \times 8 = 6$（条）……6（人）。剩下的 6 人也需要 1 条船，所以 $6 + 1 = 7$ 条。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "小红、小丽、小军参加投篮比赛，小红不是第一名，小丽是第一名，那么第三名是（ ）。",
+      "options": [
+        "小红",
+        "小丽",
+        "小军",
+        "无法确定"
+      ],
+      "answer": "小红",
+      "explanation": "小丽第一名。小红不是第一且只有三人，小红可能是第二或第三。若加上条件：小军是第二，则小红是第三。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "比较大小：$2999 \text{ } 3001$，圆圈里应填（ ）。",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "2999 比 3000 小，3001 比 3000 大，所以 $2999 < 3001$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "一个西瓜大约重 4（ ）。",
+      "options": [
+        "克",
+        "千克",
+        "厘米",
+        "米"
+      ],
+      "answer": "千克",
+      "explanation": "生活常识，西瓜属于较重物体，用千克作单位。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实际问题的综合解决",
+      "question": "小明有 20 元钱，买了 3 支笔，每支 6 元，还剩 ___ 元。",
+      "options": [],
+      "answer": "2",
+      "explanation": "先算花的钱：$3 \times 6 = 18$（元）；再算剩下的钱：$20 - 18 = 2$（元）。验算：$18 + 2 = 20$。"
+    }
+  ],
+  "knowledge": {
+    "point": "实际问题的综合解决",
+    "core_concept": "能够从题目中提取关键数学信息，利用加、减、乘、除解决两步计算的实际问题。特别是在解决租船、乘车等问题时，要根据实际情况决定余数的处理（“进一法”或“去尾法”）。同时学会分析逻辑推理题和社会统计数据。",
+    "key_formula": "总价 = 单价 \\times 数量",
+    "common_mistakes": [
+      "在租船问题中计算出余数后，忘记在商的基础上加 1",
+      "漏掉题目中的隐藏信息，如“小明和 3 个好朋友”总共是 4 人"
+    ],
+    "tips": "读题时用笔划出关键词，解决完问题后想一想结果是否符合生活常理。"
+  }
+}

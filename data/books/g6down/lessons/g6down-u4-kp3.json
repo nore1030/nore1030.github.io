@@ -1,0 +1,75 @@
+{
+  "id": "g6down-u4-kp3",
+  "title": "比例尺的应用",
+  "bookId": "g6down",
+  "unitNumber": 4,
+  "unitTitle": "比例",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比例尺的应用",
+      "question": "比例尺是一个比，它没有单位名称。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比例尺是图上距离与实际距离的比，单位统一后相除，比值不带单位。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例尺的应用",
+      "question": "把一个长 4 毫米的零件画在图纸上长 8 厘米，这幅图的比例尺是多少？",
+      "options": [
+        "$1:2$",
+        "$1:20$",
+        "$20:1$",
+        "$2:1$"
+      ],
+      "answer": "$20:1$",
+      "explanation": "8 厘米 = 80 毫米。比例尺 = 图上距离 : 实际距离 = $80:4 = 20:1$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比例尺的应用",
+      "question": "在比例尺是 $1:5000000$ 的地图上，量得两地间距离是 6 厘米，这两地实际距离是多少千米？",
+      "options": [
+        "30",
+        "300",
+        "3000",
+        "3"
+      ],
+      "answer": "300",
+      "explanation": "$6 \times 5000000 = 30000000$ 厘米 = 300 千米。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比例尺的应用",
+      "question": "比例尺 $1:2000$ 表示实际距离是图上距离的 ___ 倍。",
+      "options": [],
+      "answer": "2000",
+      "explanation": "比例尺 $1:2000$ 意为图上 1 厘米代表实际 2000 厘米，即 2000 倍。验算：$2000 \times 1 = 2000$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "比例尺的应用",
+    "core_concept": "图上距离与实际距离的比。注意比例尺没有单位，计算时必须先将图上距离和实际距离化成相同的单位（通常化成厘米）。",
+    "key_formula": "$\text{比例尺} = \frac{\text{图上距离}}{\text{实际距离}}$",
+    "common_mistakes": [
+      "单位换算不熟练，少写或多写 0（1千米=100000厘米）",
+      "将比例尺的前后项颠倒"
+    ],
+    "tips": "放大比例尺前项大（如$20:1$），缩小比例尺后项大（如$1:5000$）。"
+  }
+}

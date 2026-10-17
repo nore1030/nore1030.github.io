@@ -1,0 +1,118 @@
+{
+  "id": "g2up-u1-kp2",
+  "title": "厘米的认识与使用",
+  "bookId": "g2up",
+  "unitNumber": 1,
+  "unitTitle": "长度单位",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "测量物体的长度时，必须从尺子的1刻度线开始写起。",
+      "options": [],
+      "answer": "错",
+      "explanation": "测量物体长度时通常应从0刻度线开始，如果从1开始，结果需要减去1。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "食指宽大约是 1 （ ）。",
+      "options": [
+        "厘米",
+        "米",
+        "分",
+        "克"
+      ],
+      "answer": "厘米",
+      "explanation": "手宽、手指宽等较小的长度通常用厘米作单位。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "一把小尺子断了，从刻度2厘米处开始量，到刻度8厘米处结束，这个物体的长度是（ ）。",
+      "options": [
+        "8厘米",
+        "2厘米",
+        "6厘米",
+        "10厘米"
+      ],
+      "answer": "6厘米",
+      "explanation": "$8 - 2 = 6$（厘米）。验算：$6 + 2 = 8$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "测量数学书的长度，用（ ）作单位比较合适。",
+      "options": [
+        "厘米",
+        "米",
+        "千克",
+        "元"
+      ],
+      "answer": "厘米",
+      "explanation": "数学书长度较短，厘米是合适的长度单位。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "在尺子上，从刻度 0 到刻度 5 是（ ）厘米。",
+      "options": [
+        "0",
+        "5",
+        "4",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "$5 - 0 = 5$ 厘米。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "一根铅笔原来长 18 厘米，用去了一些后还剩 8 厘米，用去了 ___ 厘米。",
+      "options": [],
+      "answer": "10",
+      "explanation": "列式：$18 - 8 = 10$。验算：$10 + 8 = 18$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "厘米的认识与使用",
+      "question": "计算：$40 + 7 = ?$",
+      "options": [],
+      "answer": "47",
+      "explanation": "$40 + 7 = 47$。验算：$47 - 7 = 40$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "厘米的认识与使用",
+    "core_concept": "厘米是测量较短物体长度的常用单位，可以用字母“cm”表示。测量时，要把刻度尺的“0”刻度对准物体的左端，观察物体右端对着刻度几，就是几厘米。",
+    "key_formula": "长度 = 右端对应刻度 - 左端对应刻度",
+    "common_mistakes": [
+      "测量时从尺子的最边缘（没有刻度的地方）开始量",
+      "没有对准0刻度，却直接读出右端的数值"
+    ],
+    "tips": "找找身体上的1厘米：食指的宽度大约就是1厘米。"
+  }
+}

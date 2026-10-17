@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp18",
+  "title": "提问物主",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "提问物主",
+      "question": "将下列单词连成句子：",
+      "options": [
+        "these",
+        "Are",
+        "carrots",
+        "?"
+      ],
+      "answer": "Are,these,carrots,?",
+      "explanation": "一般疑问句结构：Be动词+主语+其他？"
+    }
+  ],
+  "knowledge": null
+}

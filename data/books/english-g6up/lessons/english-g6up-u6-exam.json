@@ -1,0 +1,230 @@
+{
+  "id": "english-g6up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 18,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单词辨析",
+      "question": "'wrong' 的意思是'错误的'，也可以在'What's wrong?'中表示'怎么了'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "wrong可以指错误，也可以指身体或情绪不适。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单词辨析",
+      "question": "'worried' 表示'担心的'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "worried是形容词，表示忧虑或担心。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动词词组",
+      "question": "'do more exercise' 的意思是'做更多的练习'，只能指数学题复习。",
+      "options": [],
+      "answer": "错",
+      "explanation": "do exercise通常指体育锻炼。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "情境逻辑",
+      "question": "If you are angry, you should chase the cat.",
+      "options": [],
+      "answer": "错",
+      "explanation": "生气时不应该追逐猫，而应该冷静。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形容词辨析",
+      "question": "I am ______ because my cat is lost.",
+      "options": [
+        "happy",
+        "sad",
+        "excited",
+        "well"
+      ],
+      "answer": "sad",
+      "explanation": "宠物丢了会感到伤心。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "建议句型",
+      "question": "You ______ be angry. You should take a breath.",
+      "options": [
+        "shouldn't",
+        "can",
+        "should",
+        "must"
+      ],
+      "answer": "shouldn't",
+      "explanation": "你不应该（shouldn't）生气。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "条件句",
+      "question": "If you are ______ , you can wear more clothes.",
+      "options": [
+        "warm",
+        "cold",
+        "hot",
+        "cool"
+      ],
+      "answer": "cold",
+      "explanation": "感到冷（cold）才会多穿衣服。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情境交际",
+      "question": "—What's wrong? —______",
+      "options": [
+        "I'm happy.",
+        "I have a cold.",
+        "I'm a student.",
+        "I like apples."
+      ],
+      "answer": "I have a cold.",
+      "explanation": "What's wrong回答不适或生病的情况。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词组辨析",
+      "question": "My father is ______ with the cat for breaking the vase.",
+      "options": [
+        "happy",
+        "angry",
+        "worried",
+        "afraid"
+      ],
+      "answer": "angry",
+      "explanation": "猫打破花瓶，爸爸会生气。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情绪状态",
+      "question": "Tomorrow is my birthday. I am ______ !",
+      "options": [
+        "excited",
+        "sad",
+        "angry",
+        "ill"
+      ],
+      "answer": "excited",
+      "explanation": "生日快到了通常感到兴奋（excited）。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊疑问句",
+      "question": "______ should I do if I feel sad?",
+      "options": [
+        "How",
+        "When",
+        "What",
+        "Where"
+      ],
+      "answer": "What",
+      "explanation": "What should I do? 表示我该做什么？"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词拼写",
+      "question": "He is in the hospital. He must see a ______ .",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "看医生的名词是doctor。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形容词拼写",
+      "question": "She is ______ of the big dog. (害怕)",
+      "options": [],
+      "answer": "afraid",
+      "explanation": "害怕的单词是afraid。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "建议与动作匹配",
+      "question": "匹配动作与效果：",
+      "options": [
+        "count to ten",
+        "see a doctor",
+        "take a breath",
+        "wear warm clothes",
+        "feel better",
+        "calm down",
+        "get healthy",
+        "stay warm"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "count to ten-冷静；see a doctor-恢复健康；take a breath-感觉好点；wear warm clothes-保暖。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "原因与结果匹配",
+      "question": "匹配起因与心情：",
+      "options": [
+        "lose a pen",
+        "go to a park",
+        "father is ill",
+        "bad weather",
+        "unhappy",
+        "worried",
+        "sad",
+        "happy"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "丢笔-伤心；去公园-开心；父亲生病-担心；天气不好-不开心。"
+    }
+  ],
+  "knowledge": null
+}

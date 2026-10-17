@@ -1,0 +1,71 @@
+{
+  "id": "science-g3up-u2-kp5",
+  "title": "空气作为物质的典型特征总结",
+  "bookId": "science-g3up",
+  "unitNumber": 2,
+  "unitTitle": "空气",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "空气作为物质的典型特征总结",
+      "question": "我们在石头缝隙、空瓶子中都能找到空气。",
+      "options": [],
+      "answer": "对",
+      "explanation": "空气无处不在，流动性强，能充满各种缝隙。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "空气作为物质的典型特征总结",
+      "question": "空气是什么颜色的？",
+      "options": [
+        "白色",
+        "无色",
+        "浅蓝色",
+        "透明红色"
+      ],
+      "answer": "无色",
+      "explanation": "空气的典型物理特征是无色、透明、无味。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "空气作为物质的典型特征总结",
+      "question": "下列哪个容器最容易收集到一瓶空气？",
+      "options": [
+        "底部漏掉的杯子",
+        "盖严盖子的空瓶",
+        "没盖盖子的空瓶",
+        "装满水的杯子"
+      ],
+      "answer": "没盖盖子的空瓶",
+      "explanation": "没盖盖子的空瓶本身就装满了空气。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气作为物质的典型特征总结",
+      "question": "空气和水有什么共同点？",
+      "options": [
+        "都有固定形状",
+        "都能量化质量",
+        "都不能流动",
+        "都不能压缩"
+      ],
+      "answer": "都能量化质量",
+      "explanation": "空气和水都是物质，都具有质量。"
+    }
+  ],
+  "knowledge": null
+}

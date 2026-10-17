@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g10down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g10down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与文学创作",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "“明月松间照，清泉石上流”主要描绘的是（　）",
+      "options": [
+        "清幽宁静的山林月夜",
+        "热闹的集市",
+        "战场",
+        "田园丰收"
+      ],
+      "answer": "清幽宁静的山林月夜",
+      "explanation": "诗句意境。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "文学写作与修改",
+      "question": "议论文写作要（　）",
+      "options": [
+        "提出明确观点并用事例论证",
+        "只抒情不讲理",
+        "堆砌辞藻",
+        "结构松散"
+      ],
+      "answer": "提出明确观点并用事例论证",
+      "explanation": "议论文要素。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古诗词鉴赏",
+      "question": "炼字题要答出字义、妙处与情感。",
+      "options": [],
+      "answer": "对",
+      "explanation": "炼字答题规范。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "文学写作与修改",
+      "question": "文章结构应完整、条理清晰。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结构完整。"
+    }
+  ],
+  "knowledge": null
+}

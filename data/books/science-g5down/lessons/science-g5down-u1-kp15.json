@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp15",
+  "title": "光合作用",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光合作用",
+      "question": "绿豆芽的根会朝着什么方向生长？（ ）",
+      "options": [
+        "有水的方向",
+        "有光的方向",
+        "空气充足的方向",
+        "垂直向上"
+      ],
+      "answer": "有水的方向",
+      "explanation": "植物的根具有向水性，这是植物为了寻找生长所需水分产生的适应性。"
+    }
+  ],
+  "knowledge": null
+}

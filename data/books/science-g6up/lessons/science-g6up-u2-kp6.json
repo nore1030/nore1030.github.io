@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u2-kp6",
+  "title": "地球公转的特点与周期",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球公转时，地轴的倾斜方向会随着季节的变化而不断改变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地球在公转过程中，地轴倾斜的方向保持不变，始终指向北极星附近。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球在公转轨道上距离太阳最远时，北半球处于（    ）。",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "夏季",
+      "explanation": "地球公转轨道是椭圆，北半球夏季时地球位于远日点附近，四季成因主要是地轴倾斜导致阳光直射点变化。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球绕太阳公转的方向是（    ）。",
+      "options": [
+        "自东向西",
+        "自西向东",
+        "自南向北",
+        "自北向南"
+      ],
+      "answer": "自西向东",
+      "explanation": "地球自转和公转的方向都是自西向东。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球公转的特点与周期",
+      "question": "地球绕太阳公转完整的一周，需要的时间大约是（    ）天。",
+      "options": [],
+      "answer": "365",
+      "explanation": "地球公转周期为一年，约为365天（精确为365.25天）。"
+    }
+  ],
+  "knowledge": null
+}

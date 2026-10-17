@@ -1,0 +1,371 @@
+{
+  "textbook": "一年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "数一数",
+      "knowledge_points": [
+        {
+          "name": "数数的方法",
+          "description": "学会按顺序数数。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "数量的表示",
+          "description": "会用数表示数量。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "比一比",
+      "knowledge_points": [
+        {
+          "name": "比多少",
+          "description": "会用一一对应比多少。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "比长短、高矮、轻重",
+          "description": "会比较多种属性。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "分一分",
+      "knowledge_points": [
+        {
+          "name": "按标准分一分",
+          "description": "会按标准给物品分组。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "分一分与整理",
+          "description": "体会分类整理的好处。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u3-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 4,
+      "title": "认位置",
+      "knowledge_points": [
+        {
+          "name": "上下、前后",
+          "description": "会用上下、前后描述位置。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "左右",
+          "description": "会辨认左右。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u4-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 5,
+      "title": "认识10以内的数",
+      "knowledge_points": [
+        {
+          "name": "1~10 的认识与顺序",
+          "description": "会读写 1~10 并按顺序排列。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "0 的认识与大小比较",
+          "description": "认识 0 并会比较大小。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u5-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 6,
+      "title": "认识图形（一）",
+      "knowledge_points": [
+        {
+          "name": "立体图形",
+          "description": "认识长方体、正方体、圆柱、球。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "有趣的拼搭",
+          "description": "会搭积木、滚一滚、堆一堆。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u6-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 7,
+      "title": "分与合",
+      "knowledge_points": [
+        {
+          "name": "2~10 的分与合",
+          "description": "掌握数的分与合。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "分与合的应用",
+          "description": "会用分与合算加减法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u7-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 8,
+      "title": "10以内的加法和减法",
+      "knowledge_points": [
+        {
+          "name": "10 以内的加法",
+          "description": "掌握 10 以内加法。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "10 以内的减法",
+          "description": "掌握 10 以内减法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "连加、连减与加减混合",
+          "description": "会算两步式题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "math-sujiao-g1up-u8-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "math-sujiao-g1up",
+  "grade": 1,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "math-sujiao-g1up-u1-kp1",
+      "title": "数数的方法",
+      "unitNumber": 1,
+      "unitTitle": "数一数",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u1-kp2",
+      "title": "数量的表示",
+      "unitNumber": 1,
+      "unitTitle": "数一数",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u2-kp1",
+      "title": "比多少",
+      "unitNumber": 2,
+      "unitTitle": "比一比",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u2-kp2",
+      "title": "比长短、高矮、轻重",
+      "unitNumber": 2,
+      "unitTitle": "比一比",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u3-kp1",
+      "title": "按标准分一分",
+      "unitNumber": 3,
+      "unitTitle": "分一分",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u3-kp2",
+      "title": "分一分与整理",
+      "unitNumber": 3,
+      "unitTitle": "分一分",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u4-kp1",
+      "title": "上下、前后",
+      "unitNumber": 4,
+      "unitTitle": "认位置",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "math-sujiao-g1up-u4-kp2",
+      "title": "左右",
+      "unitNumber": 4,
+      "unitTitle": "认位置",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "math-sujiao-g1up-u5-kp1",
+      "title": "1~10 的认识与顺序",
+      "unitNumber": 5,
+      "unitTitle": "认识10以内的数",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u5-kp2",
+      "title": "0 的认识与大小比较",
+      "unitNumber": 5,
+      "unitTitle": "认识10以内的数",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "math-sujiao-g1up-u6-kp1",
+      "title": "立体图形",
+      "unitNumber": 6,
+      "unitTitle": "认识图形（一）",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "math-sujiao-g1up-u7-kp1",
+      "title": "2~10 的分与合",
+      "unitNumber": 7,
+      "unitTitle": "分与合",
+      "kpIndex": 0,
+      "kpTotal": 1,
+      "questionCount": 4
+    },
+    {
+      "id": "math-sujiao-g1up-u8-kp1",
+      "title": "10 以内的加法",
+      "unitNumber": 8,
+      "unitTitle": "10以内的加法和减法",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 4
+    },
+    {
+      "id": "math-sujiao-g1up-u8-kp2",
+      "title": "10 以内的减法",
+      "unitNumber": 8,
+      "unitTitle": "10以内的加法和减法",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-yilin-g7up-u7-kp1",
+  "title": "购物词汇 shop / mall / price / cheap",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Unit 7 Shopping 购物",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物词汇 shop / mall / price / cheap",
+      "question": "「多少钱」的英文是（　）",
+      "options": [
+        "How much is it?",
+        "How many is it?",
+        "How much it is?",
+        "What price is it?"
+      ],
+      "answer": "How much is it?",
+      "explanation": "how much 问价。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物词汇 shop / mall / price / cheap",
+      "question": "「便宜的」的英文是（　）",
+      "options": [
+        "cheap",
+        "chip",
+        "cheep",
+        "sheap"
+      ],
+      "answer": "cheap",
+      "explanation": "cheap 便宜。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "购物词汇 shop / mall / price / cheap",
+      "question": "expensive 的意思是「昂贵的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "expensive 贵。"
+    }
+  ],
+  "knowledge": {
+    "point": "购物词汇 shop / mall / price / cheap",
+    "core_concept": "shop 商店、shopping mall 购物中心、price 价格、cheap 便宜的、expensive 昂贵的。",
+    "key_formula": "go shopping 去购物",
+    "common_mistakes": [
+      "cheap 与 chip 混淆。"
+    ],
+    "tips": "cheap 便宜。"
+  }
+}

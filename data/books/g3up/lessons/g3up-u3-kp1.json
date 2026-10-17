@@ -1,0 +1,145 @@
+{
+  "id": "g3up-u3-kp1",
+  "title": "毫米、分米的认识与换算",
+  "bookId": "g3up",
+  "unitNumber": 3,
+  "unitTitle": "测量",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "1 厘米里面有 10 个 1 毫米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据长度单位换算，1 厘米 = 10 毫米，所以有 10 个 1 毫米。验算：$1 \times 10 = 10$ ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "测量钢笔的长度用“分米”作单位比用“千米”作单位更合适。",
+      "options": [],
+      "answer": "对",
+      "explanation": "钢笔长度约 15 厘米，即 1.5 分米，千米是测量长距离的单位，不合适。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "一本数学书的厚度约是 6 ( )。",
+      "options": [
+        "毫米",
+        "厘米",
+        "分米",
+        "米"
+      ],
+      "answer": "毫米",
+      "explanation": "由于数学书比较薄，厘米太大（6厘米太厚），分米和米更不可能，毫米最符合实际。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "2 分米等于多少厘米？",
+      "options": [
+        "2 厘米",
+        "20 厘米",
+        "200 厘米",
+        "2000 厘米"
+      ],
+      "answer": "20 厘米",
+      "explanation": "1 分米 = 10 厘米，2 分米就是 $2 \times 10 = 20$ 厘米。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "一根绳子长 3 分米，剪去 10 厘米，还剩多少？",
+      "options": [
+        "2 厘米",
+        "2 分米",
+        "20 分米",
+        "3 分米"
+      ],
+      "answer": "2 分米",
+      "explanation": "3 分米 = 30 厘米。$30 - 10 = 20$ 厘米。20 厘米 = 2 分米。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "有三条丝带。第一条长 50 毫米，第二条长 6 厘米，第三条长 1 分米。哪条最长？",
+      "options": [
+        "第一条",
+        "第二条",
+        "第三条",
+        "一样长"
+      ],
+      "answer": "第三条",
+      "explanation": "换算成厘米比较：第一条 5 厘米；第二条 6 厘米；第三条 10 厘米。$10 > 6 > 5$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "把一个 1 分米长的木条平均分成 10 段，每段长 ( )。",
+      "options": [
+        "1 分米",
+        "1 厘米",
+        "1 毫米",
+        "10 厘米"
+      ],
+      "answer": "1 厘米",
+      "explanation": "1 分米 = 10 厘米。$10 \times 10 = 1$ 厘米。验算：$1 \times 10 = 10$ 厘米 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "一张身份证的厚度大约是 1 毫米，10 张身份证叠在一起的厚度大约是 ___ 厘米。",
+      "options": [],
+      "answer": "1",
+      "explanation": "$1 \times 10 = 10$ 毫米。10 毫米 = 1 厘米。验算：$10 \times 1 = 10$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "$40 + 60 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$40 + 60 = 100$。验算：$100 - 60 = 40$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "毫米、分米的认识与换算",
+    "core_concept": "当测量较短物体的长度或要求测量结果更精准时，常用毫米(mm)作单位。分米(dm)是比厘米大而比米小的长度单位。1分米等于10厘米，1厘米等于10毫米。通过手势（如拇指和食指叉开约1分米，硬币厚度约1毫米）建立量感。",
+    "key_formula": "$1dm = 10cm$, $1cm = 10mm$, $1dm = 100mm$",
+    "common_mistakes": [
+      "忽视分米和毫米之间的百倍关系，误记为10。",
+      "在尺子上数刻度时，错把起点划线当成1毫米而非0刻度。"
+    ],
+    "tips": "记住“大变小，乘进率；小变大，除以进率”。可以用手指代表单位，相邻手指间距是10。"
+  }
+}

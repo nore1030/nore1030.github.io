@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g3up-u5-kp21",
+  "title": "词语排序",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语排序",
+      "question": "请将下列词语排列成一句通顺的话：",
+      "options": [
+        "翠鸟",
+        "一只",
+        "船头",
+        "站在",
+        "彩色的小"
+      ],
+      "answer": "一只,彩色的小,翠鸟,站在,船头",
+      "explanation": "按照主谓宾结构：一只彩色的小翠鸟（主语）在船头（状语）站着。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语排序",
+      "question": "请排列出蒲公英花朵的变化规律：",
+      "options": [
+        "花瓣合拢",
+        "草地变绿",
+        "傍晚时分"
+      ],
+      "answer": "傍晚时分,花瓣合拢,草地变绿",
+      "explanation": "按照时间顺序和因果关系排列。"
+    }
+  ],
+  "knowledge": null
+}

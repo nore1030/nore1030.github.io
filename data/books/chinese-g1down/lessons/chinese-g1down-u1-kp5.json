@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g1down-u1-kp5",
+  "title": "汉语拼音字母表",
+  "bookId": "chinese-g1down",
+  "unitNumber": 1,
+  "unitTitle": "识字（一）",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音字母表",
+      "question": "汉语拼音字母“G”的小写字母是“q”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "G的小写是g，q是大写Q的小写。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉语拼音字母表",
+      "question": "字母表顺序中，J KL ( ) N，括号里应该填：",
+      "options": [
+        "I",
+        "M",
+        "O",
+        "P"
+      ],
+      "answer": "M",
+      "explanation": "按照字母表顺序：J、K、L、M、N。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "汉语拼音字母表",
+      "question": "下列大写字母与小写字母对应错误的一组是：",
+      "options": [
+        "A—a",
+        "D—b",
+        "E—e",
+        "F—f"
+      ],
+      "answer": "D—b",
+      "explanation": "D的小写是d，b是大写字母B的小写。"
+    }
+  ],
+  "knowledge": {
+    "point": "汉语拼音字母表",
+    "core_concept": "汉语拼音字母表是学习音序查字法的基础。一年级下册要求学生不仅会背诵小写字母，更要熟练掌握大写字母的形式及其与小写字母的对应关系，并能按照顺序进行准确排列。",
+    "key_formula": "字母顺序 = A B C D E F G...",
+    "common_mistakes": [
+      "将b和d、p和q的大写形式混淆",
+      "大写字母L、G、M的写法不标准"
+    ],
+    "tips": "可以借用英文字母歌的旋律来背诵汉语拼音字母表，同时注意区分语文读音与英语读音。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8down-u2-kp2",
+  "title": "知识产权与创新",
+  "bookId": "moral-g8down",
+  "unitNumber": 2,
+  "unitTitle": "婚姻家庭与知识产权",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "知识产权与创新",
+      "question": "下列属于知识产权的是（　）",
+      "options": [
+        "发明专利",
+        "银行存款",
+        "体力劳动",
+        "普通友情"
+      ],
+      "answer": "发明专利",
+      "explanation": "专利属知识产权。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "知识产权与创新",
+      "question": "未经作者许可大量复制其作品属于侵权行为。",
+      "options": [],
+      "answer": "对",
+      "explanation": "侵权行为。"
+    }
+  ],
+  "knowledge": {
+    "point": "知识产权与创新",
+    "core_concept": "知识产权包括著作权、专利权、商标权等。尊重知识产权、鼓励创新，是建设创新型国家的要求。",
+    "key_formula": "著作权 + 专利权 + 商标权",
+    "common_mistakes": [
+      "认为引用不需要注明来源。"
+    ],
+    "tips": "使用他人作品要注明。"
+  }
+}

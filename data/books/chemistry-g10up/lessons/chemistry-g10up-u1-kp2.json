@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g10up-u1-kp2",
+  "title": "氧化还原反应",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 1,
+  "unitTitle": "物质及其变化",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "氧化还原反应",
+      "question": "下列反应属于氧化还原反应的是（　）",
+      "options": [
+        "$\\text{NaOH}+\\text{HCl}$",
+        "$\\text{Fe}+\\text{CuSO}_4$",
+        "$\\text{CaCO}_3\\xrightarrow{\\text{高温}}$",
+        "$\\text{CO}_2+\\text{H}_2\\text{O}$"
+      ],
+      "answer": "$\\text{Fe}+\\text{CuSO}_4$",
+      "explanation": "有化合价变化。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "氧化还原反应",
+      "question": "氧化还原反应中，还原剂被氧化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "还原剂失电子被氧化。"
+    }
+  ],
+  "knowledge": {
+    "point": "氧化还原反应",
+    "core_concept": "本质是电子转移（得失或偏移）。化合价升高被氧化、作还原剂；化合价降低被还原、作氧化剂。",
+    "key_formula": "升失氧（还原剂）、降得还（氧化剂）",
+    "common_mistakes": [
+      "把氧化剂与还原剂判断颠倒。"
+    ],
+    "tips": "口诀：升失氧还。"
+  }
+}

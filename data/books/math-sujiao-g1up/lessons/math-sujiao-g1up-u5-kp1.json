@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g1up-u5-kp1",
+  "title": "1~10 的认识与顺序",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 5,
+  "unitTitle": "认识10以内的数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "1~10 的认识与顺序",
+      "question": "「0」表示（　）",
+      "options": [
+        "一个也没有",
+        "1 个",
+        "很多",
+        "最大"
+      ],
+      "answer": "一个也没有",
+      "explanation": "0 表示没有。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "1~10 的认识与顺序",
+      "question": "按顺序填数：7、8、___、10，横线上是几？",
+      "options": [],
+      "answer": "9",
+      "explanation": "8 后面是 9。"
+    }
+  ],
+  "knowledge": {
+    "point": "1~10 的认识与顺序",
+    "core_concept": "1~10 依次增大；后面的数比前面的数大，前面的数比后面的数小。",
+    "key_formula": "1 < 2 < 3 < … < 10",
+    "common_mistakes": [
+      "顺序记混。"
+    ],
+    "tips": "顺着数越来越大。"
+  }
+}

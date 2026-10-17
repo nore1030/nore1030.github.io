@@ -1,0 +1,39 @@
+{
+  "id": "science-g5down-u3-kp6",
+  "title": "分析实际环境问题的多元决策",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分析实际环境问题的多元决策",
+      "question": "在解决环境问题时，我们需要平衡不同群体的利益并达成共识。",
+      "options": [],
+      "answer": "对",
+      "explanation": "复杂的环境问题需要多方参与，寻求经济与环保的平衡点。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分析实际环境问题的多元决策",
+      "question": "在治理城中湖的过程中，禁止在湖边建工厂的主要目的是什么？",
+      "options": [
+        "保护工人安全",
+        "从源头减少水污染",
+        "节省工业用电",
+        "增加捕鱼产量"
+      ],
+      "answer": "从源头减少水污染",
+      "explanation": "工业废水是大型水体最主要的污染来源之一。"
+    }
+  ],
+  "knowledge": null
+}

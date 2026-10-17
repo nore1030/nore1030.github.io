@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp9",
+  "title": "字形书写",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字形书写",
+      "question": "下面词语中，书写完全正确的一项是：",
+      "options": [
+        "进升",
+        "介绍",
+        "搂抱",
+        "辛副"
+      ],
+      "answer": "介绍",
+      "explanation": "进升应为晋升，辛副应为幸福。"
+    }
+  ],
+  "knowledge": null
+}

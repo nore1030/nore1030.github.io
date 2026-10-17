@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 5,
+  "unitTitle": "圆",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "圆心确定圆的位置，半径确定圆的大小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是圆的基本性质：圆心定位，半径定法。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "圆的认识与特征",
+      "question": "直径是圆内最长的线段。",
+      "options": [],
+      "answer": "对",
+      "explanation": "经过圆心的线段是直径，它是圆内所有线段中最长的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "圆的周长计算",
+      "question": "两个圆的周长相等，它们的面积也一定相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "周长相等则半径相等，半径相等则面积相等。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "扇形的认识与圆心角",
+      "question": "顶点在圆心的角叫做圆心角。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆心角的理论定义即顶点在圆心，两条边是圆的半径。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的面积公式推导与应用",
+      "question": "在一个边长为4厘米的正方形里画一个最大的圆，这个圆的直径是多少厘米？",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "正方形内最大圆的直径等于正方形的边长。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的认识与特征",
+      "question": "把一个圆沿直径对折，得到的半圆有几条对称轴？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "无数"
+      ],
+      "answer": "1",
+      "explanation": "半圆只有一条对称轴，即通过圆心且垂直于直径的直线。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的周长计算",
+      "question": "车轮滚动一周，所行的路程是求车轮的什么？",
+      "options": [
+        "半径",
+        "直径",
+        "周长",
+        "面积"
+      ],
+      "answer": "周长",
+      "explanation": "轮子转动一周的长度等于它的圆周长。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的周长计算",
+      "question": "钟面上的分针长10厘米，经过1小时，分针尖端走过的路程是多少厘米？（π取3.14）",
+      "options": [
+        "31.4",
+        "62.8",
+        "314",
+        "20"
+      ],
+      "answer": "62.8",
+      "explanation": "分针走1小时是一圈，$C = 2 \\times 3.14 \\times 10 = 62.8$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "圆的面积公式推导与应用",
+      "question": "等底等高的长方形和圆相比，面积关系如何？",
+      "options": [
+        "长方形大",
+        "圆大",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "无法比较",
+      "explanation": "圆没有底和高的概念，通常与正方形比较。此题考查概念界定。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的面积公式推导与应用",
+      "question": "一个圆的周长是12.56厘米，它的面积是多少平方厘米？",
+      "options": [
+        "12.56",
+        "6.28",
+        "3.14",
+        "25.12"
+      ],
+      "answer": "12.56",
+      "explanation": "$r = 12.56 \\div 6.28 = 2$，$S = 3.14 \\times 2^2 = 12.56$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的认识与特征",
+      "question": "圆内最长的线段是什么？",
+      "options": [
+        "半径",
+        "直径",
+        "弧线",
+        "切线"
+      ],
+      "answer": "直径",
+      "explanation": "直径通过圆心，是圆内最长的线段。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的周长计算",
+      "question": "小明沿直径为8米的圆周跑了半圈，他跑了多少米？",
+      "options": [
+        "25.12",
+        "12.56",
+        "8",
+        "4"
+      ],
+      "answer": "12.56",
+      "explanation": "$C = 3.14 \\times 8 = 25.12$，半圈为 $12.56$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的周长计算",
+      "question": "一个圆的直径是5厘米，周长是 ___ 厘米。（结果取整）",
+      "options": [],
+      "answer": "16",
+      "explanation": "$3.14 \\times 5 = 15.7$，取整为16。验算：$16 \\div 5 \\approx 3.2$ 符合π范围。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆的面积公式推导与应用",
+      "question": "半径是2米的圆，它的面积是 ___ 平方米。（结果取整）",
+      "options": [],
+      "answer": "13",
+      "explanation": "$3.14 \\times 2 \\times 2 = 12.56$, 取整为13。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆的认识与特征",
+      "question": "计算半径：$d = 100, r = d \\div 2 = ?$",
+      "options": [],
+      "answer": "50",
+      "explanation": "$100 \\div 2 = 50$。验算：$50 \\times 2 = 100$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

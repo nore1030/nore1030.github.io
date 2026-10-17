@@ -1,0 +1,39 @@
+{
+  "id": "english-g5up-u6-kp4",
+  "title": "语音：字母组合ou的发音规律",
+  "bookId": "english-g5up",
+  "unitNumber": 6,
+  "unitTitle": "In a nature park",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母组合ou的发音规律",
+      "question": "单词 'house' 和 'mouse' 中字母组合 'ou' 的发音是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "它们都发 /aʊ/。 "
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母组合ou的发音规律",
+      "question": "Which word has the same sound as 'sound'?",
+      "options": [
+        "young",
+        "count",
+        "soup",
+        "touch"
+      ],
+      "answer": "count",
+      "explanation": "sound和count中ou都发/aʊ/。"
+    }
+  ],
+  "knowledge": null
+}

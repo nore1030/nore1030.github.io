@@ -1,0 +1,36 @@
+{
+  "id": "college-math-advanced-math-u3-kp2",
+  "title": "定积分的应用",
+  "bookId": "college-math-advanced-math",
+  "unitNumber": 3,
+  "unitTitle": "积分",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "定积分的应用",
+      "question": "$\\int_0^1 x^2dx$ 的几何意义是（　）",
+      "options": [
+        "曲边梯形面积",
+        "直线长度",
+        "体积",
+        "周长"
+      ],
+      "answer": "曲边梯形面积",
+      "explanation": "定积分表示面积。"
+    }
+  ],
+  "knowledge": {
+    "point": "定积分的应用",
+    "core_concept": "由 $y=f(x)$、$x=a$、$x=b$ 及 $x$ 轴围成的曲边梯形面积为 $\\int_a^b|f(x)|dx$。",
+    "key_formula": "$S=\\int_a^b|f(x)|dx$",
+    "common_mistakes": [
+      "忽略函数在区间内变号。"
+    ],
+    "tips": "先讨论符号或加绝对值。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g3down-u2-kp6",
+  "title": "寓言内涵",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "寓言内涵",
+      "question": "《陶罐和铁罐》中，铁罐看不起陶罐是因为它觉得陶罐太易碎。",
+      "options": [],
+      "answer": "对",
+      "explanation": "铁罐仗着自己坚硬，奚落陶罐易碎。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "寓言内涵",
+      "question": "寓言故事一般比较短小，但背后往往隐藏着深刻的道理。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是寓言的主要特点：小故事，大道理。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "寓言内涵",
+      "question": "《守株待兔》中的农夫最终的结果是：",
+      "options": [
+        "发财了",
+        "又捡到一只兔",
+        "田地荒芜了",
+        "成了富翁"
+      ],
+      "answer": "田地荒芜了",
+      "explanation": "他不干活只等兔子，导致庄稼全死了。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "寓言内涵",
+      "question": "《鹿角和鹿腿》中，鹿最后觉悟到：",
+      "options": [
+        "角不如腿有用",
+        "腿比角好看",
+        "美丽和实用都重要",
+        "角是没用的"
+      ],
+      "answer": "美丽和实用都重要",
+      "explanation": "鹿通过逃生意识到两者都有价值。"
+    }
+  ],
+  "knowledge": null
+}

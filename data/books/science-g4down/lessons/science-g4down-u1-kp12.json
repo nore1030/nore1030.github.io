@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp12",
+  "title": "植物生长所需条件",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物生长所需条件",
+      "question": "凤仙花在生长过程中，叶片交叉生长主要是为了（）。",
+      "options": [
+        "更加美观",
+        "保持平衡",
+        "获得更多阳光",
+        "防止雨水淋湿"
+      ],
+      "answer": "获得更多阳光",
+      "explanation": "叶片交叉生长（叶磨）可以最大限度地接收阳光进行光合作用。"
+    }
+  ],
+  "knowledge": null
+}

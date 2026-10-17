@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g6up-u2-kp5",
+  "title": "词语理解",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语理解",
+      "question": "“万水千山只等闲”中，“等闲”的意思是“随便、平常、不在乎”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "等闲一词在意境中表达了红军将艰难险阻看作平常事的大无畏精神。"
+    }
+  ],
+  "knowledge": null
+}

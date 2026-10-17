@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g10up-u1-kp1",
+  "title": "牛津版块结构",
+  "bookId": "english-yilin-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Extended reading 与牛津版块学习法",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "牛津版块结构",
+      "question": "译林版教材中的 Extended reading 栏目主要用于（　）",
+      "options": [
+        "阅读策略训练",
+        "单词背诵",
+        "口语考试",
+        "语法填空"
+      ],
+      "answer": "阅读策略训练",
+      "explanation": "Extended reading 训练阅读。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "牛津版块结构",
+      "question": "译林版教材注重培养学习策略。",
+      "options": [],
+      "answer": "对",
+      "explanation": "策略培养。"
+    }
+  ],
+  "knowledge": {
+    "point": "牛津版块结构",
+    "core_concept": "译林版每单元设 Extended reading 栏目，含 Reading for gist、Reading for details 等阅读技巧训练。",
+    "key_formula": "先主旨后细节",
+    "common_mistakes": [
+      "只读细节不抓主旨。"
+    ],
+    "tips": "先主旨后细节。"
+  }
+}

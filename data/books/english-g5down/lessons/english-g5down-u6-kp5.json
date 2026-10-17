@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u6-kp5",
+  "title": "公共场所准则",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 1,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "公共场所准则",
+      "question": "在图书馆我们要“Talk loudly”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在图书馆应保持安静，应为Talk quietly。"
+    }
+  ],
+  "knowledge": null
+}

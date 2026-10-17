@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp6",
+  "title": "动词过去式拼写",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动词过去式拼写",
+      "question": "动词 'read' 的过去式拼写依然是 'read'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "read的过去式是不规则变化，拼写保持原样但读音改变。"
+    }
+  ],
+  "knowledge": null
+}

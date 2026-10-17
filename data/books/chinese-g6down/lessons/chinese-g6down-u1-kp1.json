@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g6down-u1-kp1",
+  "title": "详写与略写的处理技巧",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "详写与略写的处理技巧",
+      "question": "作文时，为了让文章内容丰富，所有的情节都应该写得一样详细。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应根据表达中心的需要，详写重点，略写次要部分。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "详写与略写的处理技巧",
+      "question": "在《北京的春节》中，作者“详写”的内容不包括以下哪项？",
+      "options": [
+        "腊八",
+        "除夕",
+        "元宵节",
+        "正月十九"
+      ],
+      "answer": "正月十九",
+      "explanation": "正月十九属于略写部分，是一笔带过。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "详写与略写的处理技巧",
+      "question": "关于详略得当，下列说法错误的是：",
+      "options": [
+        "详写必须笔墨细腻",
+        "略写可以完全不写",
+        "略写是详写的补充",
+        "详略由文章主旨决定"
+      ],
+      "answer": "略写可以完全不写",
+      "explanation": "略写不是不写，而是用简练的语言概括，它是必不可少的。"
+    }
+  ],
+  "knowledge": {
+    "point": "详写与略写的处理技巧",
+    "core_concept": "这是六年级习作的核心。即在写作前确立中心思想，凡是极能表现中心的内容要“浓墨重彩”详写，通过细节描写让内容生动；凡是与中心关系稍远但必须交代的则“一笔带过”略写。如《北京的春节》中，为了表现热闹，详写除夕、元宵，略写正月初六后的日子。",
+    "key_formula": "详写＝动作＋对话＋心理＋环境；略写＝概述＋短句。",
+    "common_mistakes": [
+      "记流水账，眉毛胡子一把抓，每个环节字数一样多",
+      "错把次要内容当成主要的写，导致偏题"
+    ],
+    "tips": "写作前列提纲，在重点项后面打星号，时刻提醒自己这一段要写具体。"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "science-g5up-u4-kp2",
+  "title": "运动系统的协作机制",
+  "bookId": "science-g5up",
+  "unitNumber": 4,
+  "unitTitle": "健康生活",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "运动系统的协作机制",
+      "question": "骨骼可以独立完成运动，不需要肌肉参与。",
+      "options": [],
+      "answer": "错",
+      "explanation": "人体的运动需要骨、关节和肌肉的协同配合。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "运动系统的协作机制",
+      "question": "在手臂伸直的过程中，上臂肌肉的状态是？",
+      "options": [
+        "肌肉收缩",
+        "肌肉舒张",
+        "肌肉消失",
+        "没有变化"
+      ],
+      "answer": "肌肉舒张",
+      "explanation": "伸肘时，肱二头肌处于舒张状态。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "运动系统的协作机制",
+      "question": "支撑我们身体，保护内脏器官的构造是？",
+      "options": [
+        "皮肤",
+        "骨骼",
+        "血管",
+        "神经"
+      ],
+      "answer": "骨骼",
+      "explanation": "骨骼具有支撑、保护和运动的作用。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "运动系统的协作机制",
+      "question": "骨与骨之间能活动的连接称为？",
+      "options": [
+        "肌肉",
+        "关节",
+        "韧带",
+        "皮肤"
+      ],
+      "answer": "关节",
+      "explanation": "关节是运动的支点。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "运动系统的协作机制",
+      "question": "骨骼、关节和（___）组成了人体的运动系统。",
+      "options": [],
+      "answer": "肌肉",
+      "explanation": "运动系统三大组成部分：骨、关节、肌肉。"
+    }
+  ],
+  "knowledge": null
+}

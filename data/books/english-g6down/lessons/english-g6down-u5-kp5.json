@@ -1,0 +1,50 @@
+{
+  "id": "english-g6down-u5-kp5",
+  "title": "冠词搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 1,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "冠词搭配",
+      "question": "在单词 'eraser' 前面表示 '一个' 时，应该用 'a'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "eraser以元音音素开头，应用an。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "冠词搭配",
+      "question": "I would like ____ apple and ____ milk.",
+      "options": [
+        "a; some",
+        "an; some",
+        "an; a",
+        "a; a"
+      ],
+      "answer": "an; some",
+      "explanation": "apple是元音音素开头用an；milk是不可数名词用some。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "冠词搭配",
+      "question": "There is ____ orange on the table.",
+      "options": [],
+      "answer": "an",
+      "explanation": "orange以元音音素开头，用an。"
+    }
+  ],
+  "knowledge": null
+}

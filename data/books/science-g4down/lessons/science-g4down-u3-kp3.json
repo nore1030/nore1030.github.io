@@ -1,0 +1,66 @@
+{
+  "id": "science-g4down-u3-kp3",
+  "title": "土壤的成分与分层现象",
+  "bookId": "science-g4down",
+  "unitNumber": 3,
+  "unitTitle": "岩石与土壤",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "土壤里除了沙和黏土，还有空气、水和腐殖质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "土壤是由不同大小的固体颗粒（沙和黏土）、空气、水分以及植物残体腐烂形成的腐殖质组成的。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "把土壤放入水中，发现有气泡冒出，这说明土壤中含有（）。",
+      "options": [
+        "水分",
+        "腐殖质",
+        "空气",
+        "黏土"
+      ],
+      "answer": "空气",
+      "explanation": "气泡是因为土壤颗粒间的空气溢出形成的。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "搅拌土壤水悬浮液并静置后，沉淀在最下层的颗粒是（）。",
+      "options": [
+        "黏土",
+        "粉沙",
+        "沙砾",
+        "腐殖质"
+      ],
+      "answer": "沙砾",
+      "explanation": "根据重力沉降规律，颗粒大而重的沙砾会首先沉到杯底。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "土壤的成分与分层现象",
+      "question": "土壤中动植物腐烂后产生的黑色物质叫作（）。",
+      "options": [],
+      "answer": "腐殖质",
+      "explanation": "腐殖质是地球表层非常肥沃的部分，能为植物提供养分。"
+    }
+  ],
+  "knowledge": null
+}

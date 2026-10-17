@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u2-kp15",
+  "title": "课文填空",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文填空",
+      "question": "《守株待兔》出自《___________》一书。",
+      "options": [],
+      "answer": "韩非子",
+      "explanation": "基础文学常识记忆。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "chinese-g2down-u1-kp4",
+  "title": "左上与左下包围结构汉字书写",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 3,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "左上与左下包围结构汉字书写",
+      "question": "“底”和“原”都是左上包围结构的字，书写时包围部分的撇要写得舒展。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“底”和“原”属于左上包围，撇画舒展能使字形大方。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "左上与左下包围结构汉字书写",
+      "question": "“递”字书写时应该先写里面的“弟”，再写外面的走之底。",
+      "options": [],
+      "answer": "对",
+      "explanation": "左下包围的字通常遵循先里后外的笔顺规则。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "左上与左下包围结构汉字书写",
+      "question": "“处”字的偏旁是（ ）。",
+      "options": [],
+      "answer": "夂",
+      "explanation": "“处”是半包围结构，部首是折文儿（夂）。"
+    }
+  ],
+  "knowledge": {
+    "point": "左上与左下包围结构汉字书写",
+    "core_concept": "掌握“底、原”（左上包围）和“递、处”（左下包围）的结构规则。左上包围的字通常先外后里，左下包围的字（如带走之底的）通常先里后外。关键在于外包围部分的“撇”或“捺”要向外伸展，给内部留足空间。",
+    "key_formula": "包围规则：外围撇捺要舒展，内部结构靠中间。",
+    "common_mistakes": [
+      "走之底的字（如“递”）先把外面写了，导致结构失调。",
+      "包围部分写得太小，把整个字挤得很难看。"
+    ],
+    "tips": "书写此类字时，可以想象外围部分是一个宽敞的屋檐，要让屋檐写得大一点，里面的零件才能安家。"
+  }
+}

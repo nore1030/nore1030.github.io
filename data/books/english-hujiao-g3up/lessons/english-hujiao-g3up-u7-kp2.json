@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u7-kp2",
+  "title": "方位介词 on / in / under",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 7,
+  "unitTitle": "Module 3 Places and activities — In the classroom 在教室里",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "方位介词 on / in / under",
+      "question": "「它在桌子上。」的英文是（　）",
+      "options": [
+        "It's on the desk.",
+        "It's in the desk.",
+        "It's under the desk.",
+        "It's a desk."
+      ],
+      "answer": "It's on the desk.",
+      "explanation": "在表面用 on。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "方位介词 on / in / under",
+      "question": "「书包在椅子下面。」应说（　）",
+      "options": [
+        "The bag is under the chair.",
+        "The bag is on the chair.",
+        "The bag is in the chair.",
+        "The bag is a chair."
+      ],
+      "answer": "The bag is under the chair.",
+      "explanation": "under = 在……下面。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方位介词 on / in / under",
+      "question": "in 表示「在……里面」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "in = 在里面。"
+    }
+  ],
+  "knowledge": {
+    "point": "方位介词 on / in / under",
+    "core_concept": "on 在……上面、in 在……里面、under 在……下面。句型 Where is…? It's on the desk.",
+    "key_formula": "It's on the desk. / It's in the bag.",
+    "common_mistakes": [
+      "on 与 in 混用。"
+    ],
+    "tips": "接触表面用 on，包在里面用 in。"
+  }
+}

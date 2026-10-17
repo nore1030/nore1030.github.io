@@ -1,0 +1,47 @@
+{
+  "id": "college-physics-mechanics-electromagnetism-u2-kp1",
+  "title": "库仑定律与电场强度",
+  "bookId": "college-physics-mechanics-electromagnetism",
+  "unitNumber": 2,
+  "unitTitle": "静电场",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "库仑定律与电场强度",
+      "question": "点电荷在电场中受力 2×10⁻³ N，电荷量为 1×10⁻⁶ C，电场强度是多少 N/C？",
+      "options": [],
+      "answer": "2000",
+      "explanation": "$E=\\frac Fq=\\frac{2\\times10^{-3}}{1\\times10^{-6}}=2000$ N/C。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "库仑定律与电场强度",
+      "question": "电场强度是（　）",
+      "options": [
+        "矢量",
+        "标量",
+        "只能是正数",
+        "与电荷无关的标量"
+      ],
+      "answer": "矢量",
+      "explanation": "E 是矢量，有方向。"
+    }
+  ],
+  "knowledge": {
+    "point": "库仑定律与电场强度",
+    "core_concept": "库仑定律 $F=k\\frac{q_1q_2}{r^2}$，适用于真空中点电荷。电场强度 $E=\\frac Fq$，是描述电场的物理量，与试探电荷无关。",
+    "key_formula": "$E=\\frac Fq$",
+    "common_mistakes": [
+      "认为电场强度与试探电荷有关。"
+    ],
+    "tips": "E 由场源决定。"
+  }
+}

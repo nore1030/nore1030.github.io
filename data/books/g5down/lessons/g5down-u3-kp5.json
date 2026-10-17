@@ -1,0 +1,64 @@
+{
+  "id": "g5down-u3-kp5",
+  "title": "容积与不规则物体体积测量",
+  "bookId": "g5down",
+  "unitNumber": 3,
+  "unitTitle": "长方体和正方体",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "容积与不规则物体体积测量",
+      "question": "计算一个木箱的容积，通常要从木箱的外面测量其数据。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计算容积需要测量容器内部的数据，因为容器壁本身有厚度。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "容积与不规则物体体积测量",
+      "question": "一个矿泉水瓶的容积大约是 500 什么？",
+      "options": [
+        "升",
+        "毫升",
+        "立方米",
+        "立方分米"
+      ],
+      "answer": "毫升",
+      "explanation": "日常矿泉水瓶规格通常为 500 毫升（mL）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "容积与不规则物体体积测量",
+      "question": "将一个石块放入盛有 500 毫升水的量杯中（水未溢出），水面上升到 750 毫升，石块体积是多少立方厘米？",
+      "options": [
+        "250",
+        "1250",
+        "750",
+        "500"
+      ],
+      "answer": "250",
+      "explanation": "$750 - 500 = 250$ 毫升，因为 $1$ 毫升 = $1$ 立方厘米，所以体积为 250。"
+    }
+  ],
+  "knowledge": {
+    "point": "容积与不规则物体体积测量",
+    "core_concept": "容积指容器内部空间大小。不规则物体（如石块）丢进水里，上升那部分水的体积就是该物体的体积（排水法）。",
+    "key_formula": "$V_{\\text{物}} = S_{\\text{容}} \\times h_{\\text{升}}$",
+    "common_mistakes": [
+      "计算容积时用了外部测量数据",
+      "混淆1升水等于1立方厘米（实为1立方分米）"
+    ],
+    "tips": "排水法计算秘籍：物体的体积 = 放入后高度 - 放入前高度 × 底面积。"
+  }
+}

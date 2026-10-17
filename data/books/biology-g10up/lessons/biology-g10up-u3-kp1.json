@@ -1,0 +1,47 @@
+{
+  "id": "biology-g10up-u3-kp1",
+  "title": "酶与ATP",
+  "bookId": "biology-g10up",
+  "unitNumber": 3,
+  "unitTitle": "细胞的能量供应和利用",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "酶与ATP",
+      "question": "关于酶的叙述正确的是（　）",
+      "options": [
+        "酶都是蛋白质",
+        "酶具有专一性",
+        "酶只能催化一次",
+        "酶在高温下活性更高"
+      ],
+      "answer": "酶具有专一性",
+      "explanation": "酶有专一性。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "酶与ATP",
+      "question": "ATP 是细胞的直接能源物质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "ATP 直接供能。"
+    }
+  ],
+  "knowledge": {
+    "point": "酶与ATP",
+    "core_concept": "酶是活细胞产生的具有催化作用的有机物，具有高效性、专一性，作用条件温和。ATP 是细胞的直接能源物质，远离腺苷的高能磷酸键易断裂释放能量。",
+    "key_formula": "$\\text{ATP}\\rightleftharpoons\\text{ADP}+\\text{Pi}+$ 能量",
+    "common_mistakes": [
+      "把酶都当作蛋白质（少数为 RNA）。"
+    ],
+    "tips": "绝大多数酶是蛋白质。"
+  }
+}

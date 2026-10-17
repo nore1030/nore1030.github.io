@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp14",
+  "title": "篇章阅读理解",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 12,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "篇章阅读理解",
+      "question": "“金沙水拍云崖暖”中的“暖”字表达了红军战士怎样的心情？",
+      "options": [
+        "天气炎热",
+        "水温极高",
+        "巧渡金沙江后的喜悦",
+        "阳光明媚"
+      ],
+      "answer": "巧渡金沙江后的喜悦",
+      "explanation": "这里的暖是心理层面的，表达了成功渡江后的轻快与喜悦。"
+    }
+  ],
+  "knowledge": null
+}

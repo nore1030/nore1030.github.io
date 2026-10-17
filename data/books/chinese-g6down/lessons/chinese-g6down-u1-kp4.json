@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g6down-u1-kp4",
+  "title": "“先总后分”的逻辑结构",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "“先总后分”的逻辑结构",
+      "question": "《藏戏》一文开头连用三个排比反问句，起到了先总括藏戏特点的作用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文章通过三个反问句开篇，突出了藏戏戴面具、没舞台、三五天没演完的特点。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "“先总后分”的逻辑结构",
+      "question": "这种“先概括叙述，后分项介绍”的写法主要好处是：",
+      "options": [
+        "文字优美",
+        "节约纸张",
+        "条理清晰",
+        "充满神秘感"
+      ],
+      "answer": "条理清晰",
+      "explanation": "先总后分能让读者迅速把握事物的整体面貌。"
+    }
+  ],
+  "knowledge": {
+    "point": "“先总后分”的逻辑结构",
+    "core_concept": "一种经典的说明或叙事结构。开头部分用概括性的语言（甚至是反问、排比等修辞句）点明事物的核心特征或文章主旨，起到‘总领全文’的作用，后面再分设段落分别从不同角度详细论证或描述。",
+    "key_formula": "总（全貌/观点）+ 分1（特征A）+ 分2（特征B）+ 分3（特征C）。",
+    "common_mistakes": [
+      "总起句与后面分述的内容不匹配",
+      "分述部分之间逻辑混乱，没有并列关系"
+    ],
+    "tips": "背诵《藏戏》开头的三段，感受其先声夺人的气势和逻辑。"
+  }
+}

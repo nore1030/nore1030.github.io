@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u5-kp4",
+  "title": "字母组合-ng和-nk的发音规律",
+  "bookId": "english-g5down",
+  "unitNumber": 5,
+  "unitTitle": "Whose dog is it?",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母组合-ng和-nk的发音规律",
+      "question": "单词 'sing' 和 'pink' 中字母组合的发音完全相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "sing发/ŋ/，pink发/ŋk/，两者不同。"
+    }
+  ],
+  "knowledge": null
+}

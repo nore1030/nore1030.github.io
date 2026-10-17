@@ -1,0 +1,66 @@
+{
+  "id": "moral-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g8up",
+  "unitNumber": 1,
+  "unitTitle": "走进社会与规则",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "个人的成长与社会",
+      "question": "积极参与社会公益活动，对个人的意义是（　）",
+      "options": [
+        "提升责任意识和能力",
+        "浪费时间",
+        "可以获得奖品",
+        "与己无关"
+      ],
+      "answer": "提升责任意识和能力",
+      "explanation": "参与公益提升自我。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "规则与自由",
+      "question": "遵守社会规则是公民的基本义务。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守规则是义务。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "规则与自由",
+      "question": "下面哪种行为是在规则允许范围内的自由（　）",
+      "options": [
+        "依法表达自己的意见",
+        "散布谣言扰乱秩序",
+        "损坏公共设施",
+        "闯红灯"
+      ],
+      "answer": "依法表达自己的意见",
+      "explanation": "合法表达是正当自由。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "个人的成长与社会",
+      "question": "养成亲社会行为有利于形成正确价值观。",
+      "options": [],
+      "answer": "对",
+      "explanation": "亲社会行为意义。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "g4up-u2-kp3",
+  "title": "面积单位的综合应用",
+  "bookId": "g4up",
+  "unitNumber": 2,
+  "unitTitle": "公顷和平方千米",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "学校多功能教室的面积大约是 2 公顷。",
+      "options": [],
+      "answer": "错",
+      "explanation": "2 公顷是 $20000$ 平方米，教室面积通常在 $100$ 至 $200$ 平方米左右。验算：单位量级不符。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "北京市的面积大约是 16410（ ）。",
+      "options": [
+        "平方米",
+        "公顷",
+        "平方千米",
+        "平方分米"
+      ],
+      "answer": "平方千米",
+      "explanation": "描述大城市的土地面积通常使用“平方千米”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "一个足球场的面积约是 7000（ ）。",
+      "options": [
+        "平方米",
+        "公顷",
+        "平方千米",
+        "平方分米"
+      ],
+      "answer": "平方米",
+      "explanation": "足球场边长约 $100$ 米和 $70$ 米，面积约 $7000$ 平方米。若填公顷则过大。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "比较大小：30 公顷（ ）3 平方千米。",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "$3$ 平方千米 $= 300$ 公顷，$30 < 300$。验算：进率是 $100$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "修一段长 20 千米、宽 50 米的高速公路，占地面积是（ ）。",
+      "options": [
+        "100 公顷",
+        "100 平方千米",
+        "10 公顷",
+        "1000 公顷"
+      ],
+      "answer": "100 公顷",
+      "explanation": "$20$ 千米 $= 20000$ 米；面积：$20000 \\times 50 = 1000000$（平方米）；换算：$1000000$ 平方米 $= 100$ 公顷。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "如果 1 平方米能站 12 人，那么 1 公顷能站（ ）人。",
+      "options": [
+        "1200",
+        "12000",
+        "120000",
+        "1200000"
+      ],
+      "answer": "120000",
+      "explanation": "$1$ 公顷 $= 10000$ 平方米，$12 \\times 10000 = 120000$（人）。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积单位的综合应用",
+      "question": "一间教室的长是 10 米，宽是 5 米，___ 间这样的教室面积是 1 公顷。",
+      "options": [],
+      "answer": "200",
+      "explanation": "教室面积：$10 \\times 5 = 50$（平方米）。$1$ 公顷 $= 10000$ 平方米。数量：$10000 \\div 50 = 200$（间）。验算：$200 \\times 50 = 10000$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "面积单位的综合应用",
+    "core_concept": "根据物体实际大小选择合适的单位：课桌用平方分米，教室用平方米，公园/广场用公顷，城市/国家/行政区用平方千米。",
+    "key_formula": "$\\text{长} \\times \\text{宽} = \\text{面积}$ (注意先统一长宽单位)",
+    "common_mistakes": [
+      "不看单位直接相乘，如长 500 米乘以宽 2 千米。",
+      "生活经验不足，将学校面积填成平方千米。"
+    ],
+    "tips": "做题时先看清单位，如果是大数换小数就乘进率，小数换大数就除以进率。"
+  }
+}

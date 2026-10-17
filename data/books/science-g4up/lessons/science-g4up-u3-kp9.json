@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp9",
+  "title": "摩擦力的作用",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "摩擦力的作用",
+      "question": "摩擦力总是阻碍物体向前运动，所以是有害的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "摩擦力有益也有害，走路时的摩擦力就是有益的。"
+    }
+  ],
+  "knowledge": null
+}

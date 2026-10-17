@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g11up-u2-kp1",
+  "title": "弱电解质的电离平衡",
+  "bookId": "chemistry-g11up",
+  "unitNumber": 2,
+  "unitTitle": "水溶液与电离平衡",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "弱电解质的电离平衡",
+      "question": "醋酸属于（　）",
+      "options": [
+        "弱电解质",
+        "强电解质",
+        "非电解质",
+        "单质"
+      ],
+      "answer": "弱电解质",
+      "explanation": "醋酸弱电解质。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "弱电解质的电离平衡",
+      "question": "弱电解质在溶液中部分电离。",
+      "options": [],
+      "answer": "对",
+      "explanation": "部分电离。"
+    }
+  ],
+  "knowledge": {
+    "point": "弱电解质的电离平衡",
+    "core_concept": "强电解质完全电离，弱电解质部分电离并存在电离平衡。用电离常数 $K_a$、$K_b$ 衡量电离程度，温度升高 $K_a$ 增大。",
+    "key_formula": "$K_a = \\dfrac{c(\\text{H}^+)\\cdot c(\\text{A}^-)}{c(\\text{HA})}$",
+    "common_mistakes": [
+      "认为弱电解质不电离。"
+    ],
+    "tips": "部分电离。"
+  }
+}

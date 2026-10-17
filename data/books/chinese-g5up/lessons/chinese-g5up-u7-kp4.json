@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u7-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 3,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "《山居秋暝》中“随意春芳歇”的“歇”字的意思是？",
+      "options": [
+        "休息",
+        "停止",
+        "消逝",
+        "声响"
+      ],
+      "answer": "消逝",
+      "explanation": "歇：消逝。指春天的芳华凋谢消逝了。"
+    }
+  ],
+  "knowledge": null
+}

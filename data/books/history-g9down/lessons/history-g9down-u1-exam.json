@@ -1,0 +1,66 @@
+{
+  "id": "history-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "history-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现代中国的建设",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "社会主义制度的建立与探索",
+      "question": "我国进入社会主义初级阶段的标志是（　）",
+      "options": [
+        "三大改造完成",
+        "十一届三中全会",
+        "新中国成立",
+        "抗美援朝"
+      ],
+      "answer": "三大改造完成",
+      "explanation": "1956 年进入初级阶段。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与中国特色社会主义",
+      "question": "改革开放后形成的对外开放格局不包括（　）",
+      "options": [
+        "经济特区",
+        "沿海开放城市",
+        "沿江、沿边、内陆开放",
+        "完全封闭"
+      ],
+      "answer": "完全封闭",
+      "explanation": "不是封闭格局。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "社会主义制度的建立与探索",
+      "question": "“一五计划”的重点是发展重工业。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一五计划重点。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与中国特色社会主义",
+      "question": "中国特色社会主义进入新时代。",
+      "options": [],
+      "answer": "对",
+      "explanation": "新时代。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "science-g3down-u3-kp6",
+  "title": "天体特征对比",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 0,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "天体特征对比",
+      "question": "太阳和月球都能自己发光。",
+      "options": [],
+      "answer": "错",
+      "explanation": "太阳是恒星，能发光发热；月球是卫星，反射太阳光。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天体特征对比",
+      "question": "月球表面高低不平的地貌结构被称为（）。",
+      "options": [
+        "山脉",
+        "海洋",
+        "环形山",
+        "大峡谷"
+      ],
+      "answer": "环形山",
+      "explanation": "月球表面最显著的特征是密集的环形山。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "g11up-u3-kp1",
+  "title": "空间向量的运算与坐标表示",
+  "bookId": "g11up",
+  "unitNumber": 3,
+  "unitTitle": "空间向量与立体几何",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "空间向量的运算与坐标表示",
+      "question": "$\\vec a=(1,0,2)$，$\\vec b=(2,1,0)$，则 $\\vec a\\cdot\\vec b=$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$1\\times2+0\\times1+2\\times0=2$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "空间向量的运算与坐标表示",
+      "question": "向量 $(2,-1,2)$ 的模是多少？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$\\sqrt{4+1+4}=3$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "空间向量的运算与坐标表示",
+      "question": "空间向量垂直的充要条件是数量积为 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "垂直条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "空间向量的运算与坐标表示",
+    "core_concept": "空间向量坐标形式的数量积 $\\vec a\\cdot\\vec b=x_1x_2+y_1y_2+z_1z_2$；模 $|\\vec a|=\\sqrt{x^2+y^2+z^2}$。垂直条件为数量积为 0。",
+    "key_formula": "$\\vec a\\cdot\\vec b=x_1x_2+y_1y_2+z_1z_2$",
+    "common_mistakes": [
+      "漏掉 $z$ 分量。"
+    ],
+    "tips": "三维都要算。"
+  }
+}

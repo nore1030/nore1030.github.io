@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g1down-u4-kp15",
+  "title": "句子结构",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 14,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构",
+      "question": "将词语排成一句连贯的话：",
+      "options": [
+        "天上的",
+        "像",
+        "美丽的",
+        "云朵",
+        "棉花糖"
+      ],
+      "answer": "天上的,云朵,像,美丽的,棉花糖",
+      "explanation": "考查比喻句的语序组合。"
+    }
+  ],
+  "knowledge": null
+}

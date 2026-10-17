@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp18",
+  "title": "句式结构",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式结构",
+      "question": "将下列词语排列成一句描写荷兰的句子：",
+      "options": [
+        "那是",
+        "一片",
+        "宽阔的",
+        "牧场"
+      ],
+      "answer": "那是,一片,宽阔的,牧场",
+      "explanation": "按照主语、量词、形容词、名词的顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

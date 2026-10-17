@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u1-kp15",
+  "title": "持有表达",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 11,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "持有表达",
+      "question": "I ___ a pen.",
+      "options": [],
+      "answer": "have",
+      "explanation": "表达“我有...”用I have...。"
+    }
+  ],
+  "knowledge": null
+}

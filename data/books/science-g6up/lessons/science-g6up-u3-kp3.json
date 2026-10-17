@@ -1,0 +1,71 @@
+{
+  "id": "science-g6up-u3-kp3",
+  "title": "杠杆的三个作用点极其平衡原理",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "杠杆的三个作用点极其平衡原理",
+      "question": "在使用杠杆撬动重物时，当用力点到支点的距离大于阻力点到支点的距离时，该杠杆（）。",
+      "options": [
+        "省力",
+        "费力",
+        "不省力也不费力",
+        "无法判断"
+      ],
+      "answer": "省力",
+      "explanation": "动力臂大于阻力臂时，杠杆省力。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "杠杆的三个作用点极其平衡原理",
+      "question": "实验室常用的镊子属于（）杠杆。",
+      "options": [
+        "省力",
+        "费力",
+        "不省力也不费力",
+        "等臂"
+      ],
+      "answer": "费力",
+      "explanation": "镊子的用力点在支点和阻力点之间，动力臂小于阻力臂。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "杠杆的三个作用点极其平衡原理",
+      "question": "杠杆上起支撑作用的点叫做（）。",
+      "options": [
+        "用力点",
+        "阻力点",
+        "支撑点",
+        "支点"
+      ],
+      "answer": "支点",
+      "explanation": "杠杆三个要素分别是支点、用力点、阻力点。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "杠杆的三个作用点极其平衡原理",
+      "question": "一套杠杆装置中，如果有（）个支点，这个杠杆才能正常工作。",
+      "options": [],
+      "answer": "1",
+      "explanation": "标准的单一杠杆有一个轴心点或支承点。"
+    }
+  ],
+  "knowledge": null
+}

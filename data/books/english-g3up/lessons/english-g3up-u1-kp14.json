@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u1-kp14",
+  "title": "综合运用",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 10,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合运用",
+      "question": "Sarah: ______? \nZoom: My name's Zoom.",
+      "options": [
+        "I'm Sarah",
+        "Hello, Zoom",
+        "What's your name",
+        "Are you Zoom"
+      ],
+      "answer": "What's your name",
+      "explanation": "根据答句My name's...可知问句是询问姓名。"
+    }
+  ],
+  "knowledge": null
+}

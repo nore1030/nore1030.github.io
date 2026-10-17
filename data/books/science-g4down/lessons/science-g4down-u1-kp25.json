@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp25",
+  "title": "茎的形态",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "茎的形态",
+      "question": "凤仙花的茎直立生长于地面，这种茎被称为（）。",
+      "options": [],
+      "answer": "直立茎",
+      "explanation": "按生长方式分类，凤仙花的茎属于直立茎。"
+    }
+  ],
+  "knowledge": null
+}

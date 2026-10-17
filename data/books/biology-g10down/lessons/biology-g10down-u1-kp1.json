@@ -1,0 +1,58 @@
+{
+  "id": "biology-g10down-u1-kp1",
+  "title": "孟德尔分离定律",
+  "bookId": "biology-g10down",
+  "unitNumber": 1,
+  "unitTitle": "遗传因子的发现",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "孟德尔分离定律",
+      "question": "$Aa\\times Aa$ 后代中显性表现型的比例是（　）",
+      "options": [
+        "$\\frac14$",
+        "$\\frac12$",
+        "$\\frac34$",
+        "1"
+      ],
+      "answer": "$\\frac34$",
+      "explanation": "显性占 3/4。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "孟德尔分离定律",
+      "question": "$Aa\\times aa$ 后代中 aa 的比例是多少（填分数）？",
+      "options": [],
+      "answer": "1/2",
+      "explanation": "测交后代 1:1。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "孟德尔分离定律",
+      "question": "测交是让 F₁ 与隐性纯合子杂交。",
+      "options": [],
+      "answer": "对",
+      "explanation": "测交定义。"
+    }
+  ],
+  "knowledge": {
+    "point": "孟德尔分离定律",
+    "core_concept": "孟德尔用豌豆杂交实验提出遗传因子假说。F₁ 自交后代性状分离比为 3:1，测交后代为 1:1。分离定律适用于一对等位基因。",
+    "key_formula": "$Aa\\times Aa\\to3:1$",
+    "common_mistakes": [
+      "把表现型比例与基因型比例混淆。"
+    ],
+    "tips": "基因型比 1:2:1，表现型比 3:1。"
+  }
+}

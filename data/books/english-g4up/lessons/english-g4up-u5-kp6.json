@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp6",
+  "title": "语音规律",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 2,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语音规律",
+      "question": "在 me, we, he 单词中，字母 e 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这些单词中的e都发长元音/i:/。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u4-kp21",
+  "title": "词汇配对",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇配对",
+      "question": "请将下列单词与对应的中文意思连线。",
+      "options": [
+        "grass",
+        "star",
+        "dream",
+        "internet",
+        "星星",
+        "互联网",
+        "草地",
+        "梦想"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "grass草地，star星星，dream梦想，internet互联网。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "g5down-u6-kp4",
+  "title": "加法运算律在分数中的应用",
+  "bookId": "g5down",
+  "unitNumber": 6,
+  "unitTitle": "分数的加法和减法",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "加法运算律在分数中的应用",
+      "question": "整数加法的交换律、结合律对于分数加法不适用。",
+      "options": [],
+      "answer": "错",
+      "explanation": "整数加法的运算律对分数加法同样适用，可以使计算简便。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加法运算律在分数中的应用",
+      "question": "$\\frac{5}{9} + \\frac{3}{7} + \\frac{4}{9}$ 简便计算的第一步通常是：",
+      "options": [
+        "先算前两个",
+        "先算后两个",
+        "将 \\frac{5}{9} 与 \\frac{4}{9} 相加",
+        "全部通分"
+      ],
+      "answer": "将 \\frac{5}{9} 与 \\frac{4}{9} 相加",
+      "explanation": "利用加法交换律和结合律，同分母分数先加可以凑成整数1。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加法运算律在分数中的应用",
+      "question": "计算 $\\frac{5}{6} - (\\frac{1}{6} + \\frac{2}{5})$ 时，第一步脱括号后式子变为：",
+      "options": [
+        "\\frac{5}{6} - \\frac{1}{6} + \\frac{2}{5}",
+        "\\frac{5}{6} - \\frac{1}{6} - \\frac{2}{5}",
+        "\\frac{5}{6} + \\frac{1}{6} - \\frac{2}{5}",
+        "\\frac{5}{6} + \\frac{1}{6} + \\frac{2}{5}"
+      ],
+      "answer": "\\frac{5}{6} - \\frac{1}{6} - \\frac{2}{5}",
+      "explanation": "减去两个数的和等于连续减去这两个数。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加法运算律在分数中的应用",
+      "question": "$\\frac{3}{8} + \\frac{5}{12} + \\frac{5}{8}$ 运用结合律可以简算为：",
+      "options": [
+        "(\\frac{3}{8} + \\frac{5}{8}) + \\frac{5}{12}",
+        "(\\frac{3}{8} + \\frac{5}{12}) + \\frac{5}{8}",
+        "\\frac{3}{8} + (\\frac{5}{12} + \\frac{5}{8})",
+        "以上计算都不能简便"
+      ],
+      "answer": "(\\frac{3}{8} + \\frac{5}{8}) + \\frac{5}{12}",
+      "explanation": "同分母结合可以凑成1。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加法运算律在分数中的应用",
+      "question": "计算（填整数）：$(\\frac{2}{3} + \\frac{1}{7}) + \\frac{1}{3} + \\frac{6}{7} = ?$",
+      "options": [],
+      "answer": "2",
+      "explanation": "原式 $= (\\frac{2}{3} + \\frac{1}{3}) + (\\frac{1}{7} + \\frac{6}{7}) = 1 + 1 = 2$。验算：分别通分计算亦得2 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "加法运算律在分数中的应用",
+    "core_concept": "整数加法的交换律 $a+b=b+a$ 和结合律 $(a+b)+c=a+(b+c)$ 在分数运算中同样适用。利用这些定律，我们可以把同分母的分数或者能凑成整数的分数结合在一起优先计算，从而大大提高计算速度和准确率。",
+    "key_formula": "$a + b + c = (a + c) + b$ (当 $a$ 和 $c$ 是同分母时)",
+    "common_mistakes": [
+      "在使用减法性质去括号时忘了变号，如 $a-(b+c)$ 误写为 $a-b+c$。",
+      "胡乱结合，没有观察到分数分母的特征就盲目套用定律。"
+    ],
+    "tips": "计算前先“看、想、算”：看分母，想组合，最后再动笔。"
+  }
+}

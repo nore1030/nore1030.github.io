@@ -1,0 +1,111 @@
+{
+  "id": "chinese-g5down-u6-kp2",
+  "title": "推测人物思维过程",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 1,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "推测人物思维过程",
+      "question": "《田忌赛马》中，田忌用下等马对齐威王的上等马是正确的策略。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是孙膑策略的关键，用最差的马消耗对方最强的马。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "推测人物思维过程",
+      "question": "阅读：孙膑对田忌说：“将军，我有个办法，保证能让您在比赛中获胜。”这体现了孙膑：",
+      "options": [
+        "喜欢说大话",
+        "爱出风头",
+        "善于观察分析",
+        "运气比较好"
+      ],
+      "answer": "善于观察分析",
+      "explanation": "孙膑通过观察发现了转输为赢的方法，体现了他的思维品质。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "推测人物思维过程",
+      "question": "《跳水》中，水手们笑话孩子，间接导致：",
+      "options": [
+        "孩子很开心",
+        "孩子感到羞涩",
+        "孩子失去了理智而走向横木",
+        "猴子更加温顺"
+      ],
+      "answer": "孩子失去了理智而走向横木",
+      "explanation": "水手的笑声激起了孩子的自尊心和愤怒，使其陷入险境。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "推测人物思维过程",
+      "question": "孙膑建议田忌调换赛马顺序的逻辑基础是：",
+      "options": [
+        "马的力量变强了",
+        "齐威王变笨了",
+        "马的脚力等级差别不大",
+        "田忌的马跑得更快了"
+      ],
+      "answer": "马的脚力等级差别不大",
+      "explanation": "前提是双方同等级的马脚力相近，调换才有赢的可能。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "推测人物思维过程",
+      "question": "《田忌赛马》中，为田忌献计的人是（___）。",
+      "options": [],
+      "answer": "孙膑",
+      "explanation": "孙膑是著名的军事家，他提出了这个策略。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "推测人物思维过程",
+      "question": "请将下列人物与他解决问题的关键方法连接起来：",
+      "options": [
+        "孙膑",
+        "楚人",
+        "船长",
+        "孩子",
+        "以己之长对人之短",
+        "举枪逼迫",
+        "叫卖夸口",
+        "纵身一跳"
+      ],
+      "answer": "A-1,B-3,C-2,D-4",
+      "explanation": "孙膑利用长处对短处，楚人叫卖，船长逼孩子跳水，孩子最终跳水。"
+    }
+  ],
+  "knowledge": {
+    "point": "推测人物思维过程",
+    "core_concept": "这是一种高阶思维能力，通过文本中的动作、语言推断人物在危急时刻或策略选择时的心理推导逻辑。例如孙膑之所以敢变马序，是因为他观察到了对方马匹速度的细微差距；船长之所以逼子跳水，是因为他在极短时间内权衡了摔在甲板（必死）与跳入水中（生机）的胜算。",
+    "key_formula": "行为推导公式：观察实情+分析利弊+做出决策。",
+    "common_mistakes": [
+      "仅从表面判定人物性格（如严厉、聪明），而忽略了逻辑推演步骤",
+      "无法说清《田忌赛马》赢两场的具体逻辑路径"
+    ],
+    "tips": "复述故事时，试着带入人物角色，思考“当时他看到了什么才决定这么做”。"
+  }
+}

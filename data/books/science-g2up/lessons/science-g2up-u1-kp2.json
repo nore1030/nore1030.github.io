@@ -1,0 +1,39 @@
+{
+  "id": "science-g2up-u1-kp2",
+  "title": "土壤与生物的生存关系",
+  "bookId": "science-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的地球家园",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "土壤与生物的生存关系",
+      "question": "土壤里不仅生活着小动物，还生活着许多植物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "土壤为多种动植物提供了生存空间和养分。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "土壤与生物的生存关系",
+      "question": "在观察土壤里的动植物时，我们应该：",
+      "options": [
+        "把动物带回家",
+        "直接拔掉植物",
+        "保持安静不惊扰",
+        "随意去踩踏"
+      ],
+      "answer": "保持安静不惊扰",
+      "explanation": "科学观察要尊重生命，尽量减少对环境的影响。"
+    }
+  ],
+  "knowledge": null
+}

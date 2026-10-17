@@ -1,0 +1,61 @@
+{
+  "id": "physics-g11up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g11up",
+  "unitNumber": 1,
+  "unitTitle": "动量守恒定律",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "动量守恒定律",
+      "question": "静止的物体炸裂为 2 kg 和 3 kg 两块，2 kg 的以 3 m/s 飞出，3 kg 的速度大小是多少 m/s？",
+      "options": [],
+      "answer": "2",
+      "explanation": "动量守恒 $0=2\\times3+3v$，$v=-2$ m/s，大小为 2 m/s。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动量与冲量",
+      "question": "动量定理中动量的变化量方向与（　）相同",
+      "options": [
+        "合外力冲量方向",
+        "速度方向",
+        "重力方向",
+        "位移方向"
+      ],
+      "answer": "合外力冲量方向",
+      "explanation": "冲量决定动量变化方向。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "动量守恒定律",
+      "question": "碰撞过程中动量守恒，但动能不一定守恒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "非弹性碰撞动能减少。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "动量与冲量",
+      "question": "质量 4 kg、速度 2 m/s 的物体，动量是多少 kg·m/s？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$p=8$ kg·m/s。"
+    }
+  ],
+  "knowledge": null
+}

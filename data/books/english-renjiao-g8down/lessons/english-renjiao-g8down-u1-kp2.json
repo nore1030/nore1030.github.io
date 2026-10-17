@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8down-u1-kp2",
+  "title": "非延续性动词与延续性动词",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "非延续性动词与延续性动词",
+      "question": "He has lived here ___ 2019.",
+      "options": [
+        "for",
+        "since",
+        "in",
+        "at"
+      ],
+      "answer": "since",
+      "explanation": "since + 时间点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "非延续性动词与延续性动词",
+      "question": "非延续性动词不能直接与 for/since 连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "需改换表达。"
+    }
+  ],
+  "knowledge": {
+    "point": "非延续性动词与延续性动词",
+    "core_concept": "非延续性动词（去、买、离开、开始）不能与表示一段时间的 for/since 连用，要换成对应的延续性表达。",
+    "key_formula": "延续性表达 = 状态/持续动词",
+    "common_mistakes": [
+      "说 have bought for two weeks。"
+    ],
+    "tips": "改用持续性表达。"
+  }
+}

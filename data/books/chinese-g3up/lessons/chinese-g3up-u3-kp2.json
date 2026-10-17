@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g3up-u3-kp2",
+  "title": "修改符号的规范使用",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 1,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修改符号的规范使用",
+      "question": "在修改习作时，‘对调符号’可以用来交换两个相邻词语的位置。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对调符号专门用于修正位置颠倒的词句。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修改符号的规范使用",
+      "question": "‘改正符号’通常是由一个小圆圈或方框连出的引线指向修改后的内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是改正符号的标准写法。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修改符号的规范使用",
+      "question": "当你想在句子中间增加一个词语时，应该使用以下哪种符号？",
+      "options": [
+        "删除号",
+        "增补号",
+        "对调号",
+        "改正号"
+      ],
+      "answer": "增补号",
+      "explanation": "增加内容需要使用增补符号。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "修改符号的规范使用",
+      "question": "句子‘我很高兴发现了一朵。’少了一个宾语，修改时应在末尾：",
+      "options": [
+        "加删除号",
+        "加改正号",
+        "加增补号‘野花’",
+        "加对调号"
+      ],
+      "answer": "加增补号‘野花’",
+      "explanation": "补充缺失的内容。"
+    }
+  ],
+  "knowledge": {
+    "point": "修改符号的规范使用",
+    "core_concept": "这是提升作文质量的必备技能。主要包括三种：1. 改正符号，用于把错别字或词改成对的；2. 增补符号，在缺少字词的地方通过‘尖号’补写；3. 删除号，把多余的部分像圈小气球一样圈掉并划线走。",
+    "key_formula": "多余删、错误改、少处补、顺序反了连起来",
+    "common_mistakes": [
+      "修改符号画得太乱，老师看不清要改哪里",
+      "分不清改正号和增补号的使用场景"
+    ],
+    "tips": "修改时要把符号画在对应的字词上方，补写的字要工整地写在符号的开口处。"
+  }
+}

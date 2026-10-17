@@ -1,0 +1,52 @@
+{
+  "id": "math-sujiao-g1up-u2-kp1",
+  "title": "比多少",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 2,
+  "unitTitle": "比一比",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比多少",
+      "question": "比较多少最常用的方法是（　）",
+      "options": [
+        "一一对应",
+        "比颜色",
+        "比大小",
+        "比形状"
+      ],
+      "answer": "一一对应",
+      "explanation": "一个对一个。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比多少",
+      "question": "小明有 3 支笔，小红有 5 支笔，（　）的笔多",
+      "options": [
+        "小明",
+        "小红",
+        "一样多",
+        "无法比较"
+      ],
+      "answer": "小红",
+      "explanation": "5 > 3。"
+    }
+  ],
+  "knowledge": {
+    "point": "比多少",
+    "core_concept": "比较多少把一个对一个地对起来，谁有多出来的部分谁就较多，否则同样多。",
+    "key_formula": "一一对应",
+    "common_mistakes": [
+      "不对齐就比较。"
+    ],
+    "tips": "对齐再比。"
+  }
+}

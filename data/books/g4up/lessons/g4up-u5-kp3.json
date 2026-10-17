@@ -1,0 +1,188 @@
+{
+  "id": "g4up-u5-kp3",
+  "title": "平行四边形与梯形的特征",
+  "bookId": "g4up",
+  "unitNumber": 5,
+  "unitTitle": "平行四边形和梯形",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "长方形和正方形都是特殊的平行四边形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平行四边形定义是两组对边分别平行。长方形和正方形满足此条件，且角为直角，因此是特殊的平行四边形。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "梯形的一组对边平行，另一组对边一定不平行。",
+      "options": [],
+      "answer": "对",
+      "explanation": "梯形的定义是“只有”一组对边平行。如果另一组也平行，它就变成平行四边形了。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "平行四边形的对边：",
+      "options": [
+        "相等但不平行",
+        "垂直但不相等",
+        "平行且相等",
+        "不平行也不相等"
+      ],
+      "answer": "平行且相等",
+      "explanation": "平行四边形的特征是两组对边分别平行且相等。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "只有一组对边平行的四边形是：",
+      "options": [
+        "长方形",
+        "正方形",
+        "平行四边形",
+        "梯形"
+      ],
+      "answer": "梯形",
+      "explanation": "根据梯形的定义，只有一组对边平行的四边形叫做梯形。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "电动伸缩门是利用了平行四边形的什么特性？",
+      "options": [
+        "稳定性",
+        "容易变形",
+        "不容易变形",
+        "四个角都是直角"
+      ],
+      "answer": "容易变形",
+      "explanation": "平行四边形具有不稳定性（易变形），伸缩门正是利用这一特性实现伸缩。三角形才具有稳定性。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "等腰梯形的两条腰：",
+      "options": [
+        "互相平行",
+        "互相垂直",
+        "相等",
+        "不相等"
+      ],
+      "answer": "相等",
+      "explanation": "两腰相等的梯形叫做等腰梯形。其名称本身定义了腰相等。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "平行四边形有几条高？",
+      "options": [
+        "1条",
+        "2条",
+        "4条",
+        "无数条"
+      ],
+      "answer": "无数条",
+      "explanation": "我们可以从一边的任意一点向对边作垂线，边上有无数个点，所以可以作无数条高。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "一个四边形的两组对边分别平行，它一定不是哪种图形？",
+      "options": [
+        "长方形",
+        "正方形",
+        "平行四边形",
+        "梯形"
+      ],
+      "answer": "梯形",
+      "explanation": "两组对边分别平行符合平行四边形的定义。梯形只有一组对边平行，所以绝对不可能是梯形。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "一个围栏的长方形周长是 20 米，如果把它拉成一个平行四边形，周长会有什么变化？",
+      "options": [
+        "周长变长",
+        "周长变短",
+        "周长不变",
+        "无法判断"
+      ],
+      "answer": "周长不变",
+      "explanation": "拉动过程中，四条边的长度没有发生改变，因此周长之和保持不变。变化的是面积（变小）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "平行四边形有 ___ 组对边分别平行。",
+      "options": [],
+      "answer": "2",
+      "explanation": "平行四边形的定义是两组对边分别平行。故填 2。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "一个等腰梯形的上底是 5 厘米，下底是 7 厘米，腰是 6 厘米，它的周长是 ___ 厘米。",
+      "options": [],
+      "answer": "24",
+      "explanation": "列式：$5 + 7 + 6 \times 2 = 5 + 7 + 12 = 24$。等腰梯形两腰相等，所以两腰共 12 厘米，加上底和下底。验算：$24 - 12 - 7 = 5$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平行四边形与梯形的特征",
+      "question": "计算一个平行四边形相邻两边之和：$15 + 25 = ?$",
+      "options": [],
+      "answer": "40",
+      "explanation": "$15 + 25 = 40$。验算：$40 - 25 = 15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "平行四边形与梯形的特征",
+    "core_concept": "两组对边分别平行的四边形是平行四边形；只有一组对边平行的四边形是梯形。平行四边形容易变形，具有不稳定性。正方形和长方形都是特殊的平行四边形。",
+    "key_formula": "平行四边形的周长 = (长边 + 短边) \\times 2",
+    "common_mistakes": [
+      "认为梯形有 2 条高（实际上有无数条）",
+      "混淆平行四边形和梯形的定义，特别是对‘只有’二字的理解"
+    ],
+    "tips": "通过‘包含关系图’记忆：四边形包含平行四边形和梯形，平行四边形包含长方形，长方形包含正方形。"
+  }
+}

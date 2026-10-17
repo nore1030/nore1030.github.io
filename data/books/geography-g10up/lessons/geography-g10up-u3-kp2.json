@@ -1,0 +1,31 @@
+{
+  "id": "geography-g10up-u3-kp2",
+  "title": "自然灾害与防灾减灾",
+  "bookId": "geography-g10up",
+  "unitNumber": 3,
+  "unitTitle": "地貌、植被与自然灾害",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "自然灾害与防灾减灾",
+      "question": "滑坡和泥石流属于地质灾害。",
+      "options": [],
+      "answer": "对",
+      "explanation": "属地质灾害。"
+    }
+  ],
+  "knowledge": {
+    "point": "自然灾害与防灾减灾",
+    "core_concept": "常见气象灾害有台风、寒潮、洪涝、干旱；地质灾害有地震、滑坡、泥石流。防灾要建立监测预警系统、加强宣传教育、提高防灾意识。",
+    "key_formula": "监测 + 预警 + 防灾",
+    "common_mistakes": [
+      "认为灾害完全不可预防。"
+    ],
+    "tips": "预防为主、防治结合。"
+  }
+}

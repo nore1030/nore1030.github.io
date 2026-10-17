@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u4-kp16",
+  "title": "逻辑顺序",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 15,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑顺序",
+      "question": "将下列实验步骤排列成正确的过程。",
+      "options": [
+        "捉来蜜蜂",
+        "带到远处",
+        "放飞蜜蜂",
+        "数回来的蜜蜂"
+      ],
+      "answer": "捉来蜜蜂,带到远处,放飞蜜蜂,数回来的蜜蜂",
+      "explanation": "按照法布尔实验的先后逻辑排序。"
+    }
+  ],
+  "knowledge": null
+}

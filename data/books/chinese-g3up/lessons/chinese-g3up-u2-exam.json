@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g3up",
+  "unitNumber": 2,
+  "unitTitle": "金秋时节",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "‘赠刘景文’中的刘景文是诗人的名字。",
+      "options": [],
+      "answer": "错",
+      "explanation": "刘景文是苏轼的好友，这首诗是写给他的。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "‘明朗’的意思是光亮而清澈。",
+      "options": [],
+      "answer": "对",
+      "explanation": "明朗指光亮；清楚。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "《夜书所见》中，‘江上秋风动客情’的‘动’是触动的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "秋风触动了诗人的思乡之情。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "‘层林尽染’通常是描写冬天的景象。",
+      "options": [],
+      "answer": "错",
+      "explanation": "描写的是秋天山上的树木全部变色。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "在‘它们排列得并不整齐’这句话中，‘排列’一词可以通过哪种方法更好地理解？",
+      "options": [
+        "查字典",
+        "观察图画",
+        "联系生活中的队伍",
+        "以上方法都可以"
+      ],
+      "answer": "以上方法都可以",
+      "explanation": "结合多种辅助手段能更形象地理解词义。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "‘秋天的雨，是一把钥匙。’句子中的修辞方法是：",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "设问"
+      ],
+      "answer": "比喻",
+      "explanation": "把秋雨比作钥匙。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "‘远上寒山石径斜’中，‘斜’读音正确的是：",
+      "options": [
+        "xié",
+        "xiá",
+        "xiě",
+        "xiè"
+      ],
+      "answer": "xié",
+      "explanation": "现代汉语统一读音为xié。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "读句子：‘它的气味非常好闻。’，其中‘好闻’的近义词是：",
+      "options": [
+        "好看",
+        "芬芳",
+        "难闻",
+        "响亮"
+      ],
+      "answer": "芬芳",
+      "explanation": "形容气味好闻常用芬芳。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "下列不是描写秋天的景物是：",
+      "options": [
+        "金色的田野",
+        "通红的枫叶",
+        "飞舞的落叶",
+        "盛开的荷花"
+      ],
+      "answer": "盛开的荷花",
+      "explanation": "盛开的荷花是夏季的景象。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "结合课文内容，‘铺满金色巴掌的水泥道’中，‘金色巴掌’指的是什么？",
+      "options": [
+        "枫叶",
+        "梧桐树叶",
+        "银杏叶",
+        "小朋友的手"
+      ],
+      "answer": "梧桐树叶",
+      "explanation": "文中明确提到法国梧桐落叶像金色巴掌。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "‘绚丽多彩’中，‘绚丽’的意思是：",
+      "options": [],
+      "answer": "灿烂美丽",
+      "explanation": "绚丽常用来形容颜色华丽。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意象与季节感知",
+      "question": "‘萧萧梧叶送寒声’中，‘梧叶’是指哪种树的叶子？",
+      "options": [],
+      "answer": "梧桐树",
+      "explanation": "梧叶即梧桐树叶。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "将下列动词与合适的颜色关联。",
+      "options": [
+        "扇走了",
+        "飘来了",
+        "画出了",
+        "涂上了",
+        "夏天的炎热",
+        "秋天的凉爽",
+        "丰收的图画",
+        "金色的颜料"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "根据《秋天的雨》课文内容匹配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "将近义词进行配对。",
+      "options": [
+        "温和",
+        "欢快",
+        "仔细",
+        "洁净",
+        "温柔",
+        "欢乐",
+        "认真",
+        "干净"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考察近义词积累。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多种方法理解难懂词语",
+      "question": "把词语排列成一个描写景物的句子。",
+      "options": [
+        "菊花",
+        "在秋风中",
+        "频频",
+        "点头"
+      ],
+      "answer": "菊花,在秋风中,频频,点头",
+      "explanation": "运用拟人手法描写秋天的花。"
+    }
+  ],
+  "knowledge": null
+}

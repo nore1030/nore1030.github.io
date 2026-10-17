@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp16",
+  "title": "词汇理解",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 12,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇理解",
+      "question": "'Excuse me' 的正确中文意思是：",
+      "options": [
+        "对不起",
+        "请问/打扰一下",
+        "没关系",
+        "谢谢你"
+      ],
+      "answer": "请问/打扰一下",
+      "explanation": "Excuse me常用语客气的打扰或询问。"
+    }
+  ],
+  "knowledge": null
+}

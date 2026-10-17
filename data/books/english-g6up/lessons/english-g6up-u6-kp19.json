@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u6-kp19",
+  "title": "核心词汇英汉匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心词汇英汉匹配",
+      "question": "将下列短语与中文意思匹配：",
+      "options": [
+        "be angry",
+        "be afraid",
+        "see a doctor",
+        "wear warm clothes",
+        "害怕",
+        "穿暖和的衣服",
+        "看医生",
+        "生气"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "be angry-生气; be afraid-害怕; see a doctor-看医生; wear warm clothes-穿暖和的衣服。"
+    }
+  ],
+  "knowledge": null
+}

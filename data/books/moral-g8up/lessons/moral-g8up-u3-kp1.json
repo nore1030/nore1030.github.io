@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8up-u3-kp1",
+  "title": "国家利益与公民利益",
+  "bookId": "moral-g8up",
+  "unitNumber": 3,
+  "unitTitle": "维护国家利益与安全",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "国家利益与公民利益",
+      "question": "我国的国家性质是（　）",
+      "options": [
+        "人民民主专政的社会主义国家",
+        "君主立宪国家",
+        "联邦制国家",
+        "议会共和国家"
+      ],
+      "answer": "人民民主专政的社会主义国家",
+      "explanation": "我国国体。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "国家利益与公民利益",
+      "question": "国家利益与人民利益在根本上是一致的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根本一致。"
+    }
+  ],
+  "knowledge": {
+    "point": "国家利益与公民利益",
+    "core_concept": "我国是人民民主专政的社会主义国家，人民是国家的主人。国家利益与人民利益在根本上是一致的。",
+    "key_formula": "国家利益与人民利益相一致",
+    "common_mistakes": [
+      "认为二者总是对立。"
+    ],
+    "tips": "根本上一致。"
+  }
+}

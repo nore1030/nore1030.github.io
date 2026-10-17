@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp7",
+  "title": "陈述句时态",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "陈述句时态",
+      "question": "'I cleaned my room yesterday.' 是正确的一般过去时句子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "含有过去时间状语yesterday，动词使用过去式cleaned。"
+    }
+  ],
+  "knowledge": null
+}

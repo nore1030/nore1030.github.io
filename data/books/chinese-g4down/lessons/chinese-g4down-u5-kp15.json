@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp15",
+  "title": "词语搭配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "寻找能与“空气”最恰当搭配的描写词语：",
+      "options": [
+        "宽阔的",
+        "清新的",
+        "狭窄的",
+        "突兀的"
+      ],
+      "answer": "清新的",
+      "explanation": "清新通常用来形容空气，指新鲜。宽阔形容空间，狭窄形容通道。"
+    }
+  ],
+  "knowledge": null
+}

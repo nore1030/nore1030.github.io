@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp18",
+  "title": "修辞手法",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法",
+      "question": "“杨桃难道不像五角星吗？”这句话的意思是：",
+      "options": [
+        "杨桃很像五角星",
+        "杨桃不像五角星",
+        "我不认识五角星",
+        "杨桃就是五角星"
+      ],
+      "answer": "杨桃很像五角星",
+      "explanation": "反问句表示肯定的强调。"
+    }
+  ],
+  "knowledge": null
+}

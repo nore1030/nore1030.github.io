@@ -1,0 +1,52 @@
+{
+  "id": "biology-g10up-u1-kp2",
+  "title": "糖类、脂质与水盐",
+  "bookId": "biology-g10up",
+  "unitNumber": 1,
+  "unitTitle": "组成细胞的分子",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "糖类、脂质与水盐",
+      "question": "细胞中含量最多的化合物是（　）",
+      "options": [
+        "蛋白质",
+        "水",
+        "糖类",
+        "脂质"
+      ],
+      "answer": "水",
+      "explanation": "水含量最多。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "糖类、脂质与水盐",
+      "question": "作为储能物质的脂质主要是（　）",
+      "options": [
+        "磷脂",
+        "脂肪",
+        "胆固醇",
+        "维生素 D"
+      ],
+      "answer": "脂肪",
+      "explanation": "脂肪是储能物质。"
+    }
+  ],
+  "knowledge": {
+    "point": "糖类、脂质与水盐",
+    "core_concept": "糖类是主要能源物质，脂肪是良好储能物质，蛋白质是生命活动的主要承担者，核酸控制遗传变异。水是含量最多的化合物。",
+    "key_formula": "细胞中含量最多：水",
+    "common_mistakes": [
+      "把蛋白质当含量最多的化合物。"
+    ],
+    "tips": "最多的是水，最多的有机物是蛋白质。"
+  }
+}

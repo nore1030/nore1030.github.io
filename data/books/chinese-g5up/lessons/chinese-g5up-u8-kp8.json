@@ -1,0 +1,45 @@
+{
+  "id": "chinese-g5up-u8-kp8",
+  "title": "词语排序",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 7,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语排序",
+      "question": "请将词语排列成一句关于读书重要性的完整句子。",
+      "options": [
+        "书籍",
+        "人类进步的",
+        "是",
+        "阶梯"
+      ],
+      "answer": "书籍,是,人类进步的,阶梯",
+      "explanation": "这是高尔基的名言，主谓宾结构清晰。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语排序",
+      "question": "请将词语排列，说明欧阳询楷书的特点。",
+      "options": [
+        "欧阳询的",
+        "楷书",
+        "严谨",
+        "结构",
+        "方整"
+      ],
+      "answer": "欧阳询的,楷书,结构,方整,严谨",
+      "explanation": "描述书法作品风格的常见句式。"
+    }
+  ],
+  "knowledge": null
+}

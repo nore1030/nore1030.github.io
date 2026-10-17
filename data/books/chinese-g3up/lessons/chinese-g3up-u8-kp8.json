@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp8",
+  "title": "礼貌请教",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "礼貌请教",
+      "question": "向别人请教问题时，如果对方正在忙，我们应该立刻大点声引起他的注意。",
+      "options": [],
+      "answer": "错",
+      "explanation": "请教应选择合适的时机，如果对方正忙，应等对方忙完或另约时间。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp19",
+  "title": "方位词应用",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 15,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "方位词应用",
+      "question": "The book is ___ the desk. (在书桌上面)",
+      "options": [],
+      "answer": "on",
+      "explanation": "在...表面上用on。"
+    }
+  ],
+  "knowledge": null
+}

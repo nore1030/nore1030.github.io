@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp11",
+  "title": "动词短语",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词短语",
+      "question": "Sam is ______ his football.",
+      "options": [
+        "sit on",
+        "looking for",
+        "talk about",
+        "goes to"
+      ],
+      "answer": "looking for",
+      "explanation": "寻找足球用look for，此处用现在进行时。"
+    }
+  ],
+  "knowledge": null
+}

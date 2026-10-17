@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g8up-u1-kp1",
+  "title": "人物介绍与外貌",
+  "bookId": "english-yilin-g8up",
+  "unitNumber": 1,
+  "unitTitle": "单元话题：学校生活与自我认知",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人物介绍与外貌",
+      "question": "This is my sister. She ___ short hair.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "answer": "has",
+      "explanation": "第三人称单数用 has。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "人物介绍与外貌",
+      "question": "介绍人物可用 This is… 引出。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍句型。"
+    }
+  ],
+  "knowledge": {
+    "point": "人物介绍与外貌",
+    "core_concept": "译林版（牛津译林）按 Unit 组织，每单元含 Story time、Grammar time 等板块。介绍人物常用 This is… / He is… / She has…",
+    "key_formula": "介绍句型",
+    "common_mistakes": [
+      "第三人称单数漏 -s。"
+    ],
+    "tips": "注意主谓一致。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "biology-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g8down",
+  "unitNumber": 1,
+  "unitTitle": "人的健康与免疫",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "传染病与免疫",
+      "question": "下列属于切断传播途径的是（　）",
+      "options": [
+        "勤洗手、戴口罩",
+        "隔离病人",
+        "接种疫苗",
+        "加强锻炼"
+      ],
+      "answer": "勤洗手、戴口罩",
+      "explanation": "切断传播途径。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "人体的三道防线与免疫",
+      "question": "抗体主要分布在（　）",
+      "options": [
+        "血浆和淋巴中",
+        "皮肤表面",
+        "骨骼中",
+        "肌肉中"
+      ],
+      "answer": "血浆和淋巴中",
+      "explanation": "抗体在体液中。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "传染病与免疫",
+      "question": "接种疫苗属于保护易感人群。",
+      "options": [],
+      "answer": "对",
+      "explanation": "接种疫苗保护易感人群。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "人体的三道防线与免疫",
+      "question": "艾滋病主要破坏人体的免疫系统。",
+      "options": [],
+      "answer": "对",
+      "explanation": "艾滋病危害免疫系统。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "chinese-g6down-u5-kp3",
+  "title": "科幻想象与逻辑构建",
+  "bookId": "chinese-g6down",
+  "unitNumber": 5,
+  "unitTitle": "科学精神",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "科幻想象与逻辑构建",
+      "question": "科幻作品中的想象可以完全脱离科学事实，不需要任何逻辑。",
+      "options": [],
+      "answer": "错",
+      "explanation": "科幻想象应基于科学基础，并展开合理的逻辑构建。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科幻想象与逻辑构建",
+      "question": "阅读语段：“20年后的教室，桌椅能根据学生的身高自动调节。”这个想象的依据是：",
+      "options": [
+        "魔法的加持",
+        "生理发育的需求",
+        "心情的起伏",
+        "天气的变化"
+      ],
+      "answer": "生理发育的需求",
+      "explanation": "这是基于现实中儿童成长发育需求的合理逻辑设定。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "科幻想象与逻辑构建",
+      "question": "请连词成句，描述未来的科学生活：",
+      "options": [
+        "纳米机器人",
+        "将",
+        "在身体里",
+        "修补",
+        "受损细胞"
+      ],
+      "answer": "纳米机器人,将,在身体里,修补,受损细胞",
+      "explanation": "考察对科学词汇的组合能力。"
+    }
+  ],
+  "knowledge": {
+    "point": "科幻想象与逻辑构建",
+    "core_concept": "科幻作文与纯幻想作文的区别在于其“科学属性”。好的科幻作品应基于已知的科学事实（如火星重力、纳米技术）进行外延性想象。这种想象必须符合内部逻辑，不能依靠魔法，而是科技手段。通过这种练习，学生能锻炼严谨的逻辑推导能力。",
+    "key_formula": "现有科学原理 + 跨越式想象 + 合理的生活逻辑",
+    "common_mistakes": [
+      "把科幻写成玄幻。如：宇宙飞船是用咒语启动的。",
+      "逻辑断层。想象出了先进技术，但对人类生活的影响没有合理闭环。"
+    ],
+    "tips": "先定一个核心科技（如意识上传），再从衣食住行四个方面具体描述其带来的变化。"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "g6up-u3-kp3",
+  "title": "分数除法应用：已知部分求整体",
+  "bookId": "g6up",
+  "unitNumber": 3,
+  "unitTitle": "分数除法",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "甲数比乙数多 $\\frac{1}{5}$，则乙数比甲数少 $\\frac{1}{5}$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "设乙数为 5，甲数即为 6。乙比甲少 $(6-5) \\div 6 = \\frac{1}{6}$，而不是 $\\frac{1}{5}$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "一袋面粉吃了 15 千克，正好是这袋面粉的 $\\frac{3}{4}$，这袋面粉重多少千克？",
+      "options": [
+        "20",
+        "12",
+        "11",
+        "25"
+      ],
+      "answer": "20",
+      "explanation": "$15 \\div \\frac{3}{4} = 15 \\times \\frac{4}{3} = 20$（千克）。验算：$20 \\times \\frac{3}{4} = 15$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "一件衣服降价 $\\frac{1}{10}$ 后是 90 元，原价是多少元？",
+      "options": [
+        "81",
+        "100",
+        "99",
+        "110"
+      ],
+      "answer": "100",
+      "explanation": "原价看作“1”，现价是 $1 - \\frac{1}{10} = \\frac{9}{10}$。$90 \\div \\frac{9}{10} = 100$（元）。验算：$100 \\times (1 - 0.1) = 90$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "小明有 40 张邮票，比小红多 $\\frac{1}{4}$，小红有几张？",
+      "options": [
+        "30",
+        "32",
+        "50",
+        "48"
+      ],
+      "answer": "32",
+      "explanation": "设小红为 $x$。$(1 + \\frac{1}{4})x = 40 \\Rightarrow \\frac{5}{4}x = 40 \\Rightarrow x = 32$。验算：$32 \\times (1 + \\frac{1}{4}) = 32 + 8 = 40$ ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "一根绳子剪去 $\\frac{1}{3}$ 后还剩 12 米，这根绳子原来长多少米？",
+      "options": [
+        "18",
+        "8",
+        "36",
+        "4"
+      ],
+      "answer": "18",
+      "explanation": "$12 \\div (1 - \\frac{1}{3}) = 12 \\div \\frac{2}{3} = 18$（米）。验算：$18 - 18 \\times \\frac{1}{3} = 18 - 6 = 12$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "小明有 12 本故事书，是科技书数量的 $\\frac{2}{3}$，科技书有 ___ 本。",
+      "options": [],
+      "answer": "18",
+      "explanation": "$12 \\div \\frac{2}{3} = 12 \\times \\frac{3}{2} = 18$。验算：$18 \\times \\frac{2}{3} = 12$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数除法应用：已知部分求整体",
+      "question": "水结成冰体积增加 $\\frac{1}{10}$，现在有 11 立方分米的冰，化成水后的体积是 ___ 立方分米。",
+      "options": [],
+      "answer": "10",
+      "explanation": "$11 \\div (1 + \\frac{1}{10}) = 11 \\div \\frac{11}{10} = 10$。验算：$10 + 10 \\times 0.1 = 11$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数除法应用：已知部分求整体",
+    "core_concept": "当题目给出“一个数的几分之几是多少”求“这个数”时，这个数就是单位“1”。可以用除法（对应量 $\\div$ 对应分率 = 单位“1”）解决，也可以设方程求解。",
+    "key_formula": "部分量 $\\div$ 分率 = 单位“1” 的量",
+    "common_mistakes": [
+      "找错单位“1”，误用乘法计算",
+      "对应量与对应分率没找准（如已知增加的部分，却除以原来的分率）"
+    ],
+    "tips": "画线段图分析是解决此类问题的关键，能直观看出量率对应关系。"
+  }
+}

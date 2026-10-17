@@ -1,0 +1,64 @@
+{
+  "id": "g2up-u1-kp1",
+  "title": "统一长度单位的必要性",
+  "bookId": "g2up",
+  "unitNumber": 1,
+  "unitTitle": "长度单位",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "统一长度单位的必要性",
+      "question": "我们现在测量课桌的长度，全国小朋友用的单位都是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了结果一致，必须使用统一的长度单位。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统一长度单位的必要性",
+      "question": "古代人们用手作为测量工具，不同的人量出的结果往往不同，是因为（ ）。",
+      "options": [
+        "手的大小不同",
+        "工具太高级",
+        "心情不一样",
+        "计算错误"
+      ],
+      "answer": "手的大小不同",
+      "explanation": "人的手掌各异，标准不统一导致测量结果不同。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统一长度单位的必要性",
+      "question": "下面哪个不是长度单位？",
+      "options": [
+        "米",
+        "厘米",
+        "岁",
+        "毫米"
+      ],
+      "answer": "岁",
+      "explanation": "岁是年龄单位，不是长度单位。"
+    }
+  ],
+  "knowledge": {
+    "point": "统一长度单位的必要性",
+    "core_concept": "在古代，人们用身体部位（如手掌、脚掌）作为长度单位，但由于每个人身体大小不同，测量同一物体得到的结果也不一样。为了方便交流和准确测量，必须使用统一的长度单位，如米和厘米。",
+    "key_formula": "测量标准必须统一",
+    "common_mistakes": [
+      "认为用任何物体测量同一个物体得到的结果数字都应该一样",
+      "忽略单位名称直接比较数字大小"
+    ],
+    "tips": "想象一下，如果买衣服时裁缝用大的手量，你用小的手量，衣服就不合身了，所以我们要用尺子。"
+  }
+}

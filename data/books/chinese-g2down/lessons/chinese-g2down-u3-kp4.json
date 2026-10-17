@@ -1,0 +1,84 @@
+{
+  "id": "chinese-g2down-u3-kp4",
+  "title": "烹饪动作动词的分类与应用",
+  "bookId": "chinese-g2down",
+  "unitNumber": 3,
+  "unitTitle": "传统文化与识字",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "烹饪动作动词的分类与应用",
+      "question": "“蒸”馒头和“炸”油条所使用的烹饪方法是一样的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蒸是利用水蒸气加热，炸是放入热油中成熟，方式不同。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "烹饪动作动词的分类与应用",
+      "question": "厨房里的“凉拌三丝”主要用到了哪个动作？",
+      "options": [
+        "煮",
+        "拌",
+        "烤",
+        "爆"
+      ],
+      "answer": "拌",
+      "explanation": "凉拌菜的关键动作是“拌”。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "烹饪动作动词的分类与应用",
+      "question": "如果要形容菜肴在锅里快速翻动并加入少量调味料，最合适的词是：",
+      "options": [
+        "炒",
+        "炖",
+        "蒸",
+        "煮"
+      ],
+      "answer": "炒",
+      "explanation": "炒是烹饪中最基础的快速翻动成熟的方法。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "烹饪动作动词的分类与应用",
+      "question": "请将食物与它主要的制作方式连线。",
+      "options": [
+        "小馒头",
+        "炸薯条",
+        "烤红薯",
+        "拌黄瓜",
+        "火烤",
+        "水蒸",
+        "凉拌",
+        "油炸"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "馒头主蒸；薯条主炸；红薯主烤；黄瓜主拌。"
+    }
+  ],
+  "knowledge": {
+    "point": "烹饪动作动词的分类与应用",
+    "core_concept": "中华饮食文化博大精深，汉字中有大量表示烹饪方式的动词。带“火”部（或四点底）的字多与用火加工有关，如煎、蒸、炸、煮。需要准确区分不同动作的水油比例和火候区别。",
+    "key_formula": "火字旁/灬 = 烧煮加热。",
+    "common_mistakes": [
+      "区分不清“蒸”与“煮”的区别（是否有水直接接触）",
+      "写不准“蒸”字的四点底"
+    ],
+    "tips": "走进厨房看一看妈妈做菜的过程：多水的是煮，隔水的是蒸，多油的是炸。"
+  }
+}

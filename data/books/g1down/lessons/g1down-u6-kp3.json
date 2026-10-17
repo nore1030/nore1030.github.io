@@ -1,0 +1,91 @@
+{
+  "id": "g1down-u6-kp3",
+  "title": "含小括号的混合运算",
+  "bookId": "g1down",
+  "unitNumber": 6,
+  "unitTitle": "100以内的加法和减法（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "算式 $10 - (2 + 3)$ 应先算加法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据运算顺序，有小括号的要先算小括号里面的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "$15 - 5 - 2$ 与 $15 - (5 - 2)$ 的计算结果相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$15 - 5 - 2 = 8$，而 $15 - (5 - 2) = 15 - 3 = 12$。结果不同。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "计算 $12 - (3 + 4)$，第一步算什么？",
+      "options": [
+        "12 - 3",
+        "3 + 4",
+        "12 + 4",
+        "12 - 4"
+      ],
+      "answer": "3 + 4",
+      "explanation": "有括号先算括号里的。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "算式 $34 - (10 + 4)$ 的结果是多少？",
+      "options": [
+        "20",
+        "28",
+        "40",
+        "48"
+      ],
+      "answer": "20",
+      "explanation": "$10 + 4 = 14$，$34 - 14 = 20$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的混合运算",
+      "question": "图书角有 20 本书，上午借出 5 本，下午借出 2 本。还剩多少本？列式正确的是：",
+      "options": [
+        "20 - 5 + 2",
+        "20 - (5 + 2)",
+        "20 + 5 + 2",
+        "20 - (5 - 2)"
+      ],
+      "answer": "20 - (5 + 2)",
+      "explanation": "总数减去借出的总和，即 $20 - (5 + 2)$。"
+    }
+  ],
+  "knowledge": {
+    "point": "含小括号的混合运算",
+    "core_concept": "小括号是改变运算顺序的‘红绿灯’。在算式里，如果有小括号，必须先算小括号里面的，不管里面是加法还是减法。",
+    "key_formula": "$a - (b + c)$",
+    "common_mistakes": [
+      "习惯性从左往右算：如 $10-(2+3)$ 算成 $10-2+3=11$。",
+      "看漏括号：直接忽略括号进行计算。"
+    ],
+    "tips": "算式里有小括号，先算括号里，再算括号外。"
+  }
+}

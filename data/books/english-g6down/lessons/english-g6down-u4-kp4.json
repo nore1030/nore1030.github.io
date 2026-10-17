@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u4-kp4",
+  "title": "There be 句型时态",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 0,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "There be 句型时态",
+      "question": "描述过去的客观存在，我们使用 There was 或 There were。",
+      "options": [],
+      "answer": "对",
+      "explanation": "There be句型根据描述的时间决定时态，过去用was/were。"
+    }
+  ],
+  "knowledge": null
+}

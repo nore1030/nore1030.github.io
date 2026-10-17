@@ -1,0 +1,58 @@
+{
+  "id": "college-math-linear-algebra-u2-kp1",
+  "title": "线性方程组的解法",
+  "bookId": "college-math-linear-algebra",
+  "unitNumber": 2,
+  "unitTitle": "线性方程组",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "线性方程组的解法",
+      "question": "方程组有唯一解的充要条件是（　）",
+      "options": [
+        "$r(A)=r(A|b)=n$",
+        "$r(A)<n$",
+        "$r(A)<r(A|b)$",
+        "$|A|=0$"
+      ],
+      "answer": "$r(A)=r(A|b)=n$",
+      "explanation": "唯一解判定。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "线性方程组的解法",
+      "question": "解方程组 $\\begin{cases}x+y=3\\\\x-y=1\\end{cases}$，$x=$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "两式相加 $2x=4$，$x=2$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "线性方程组的解法",
+      "question": "齐次线性方程组一定有解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "至少有零解。"
+    }
+  ],
+  "knowledge": {
+    "point": "线性方程组的解法",
+    "core_concept": "用初等行变换把增广矩阵化为行阶梯形求解。$r(A)=r(A|b)=n$ 有唯一解；$r(A)=r(A|b)<n$ 有无穷多解；$r(A)<r(A|b)$ 无解。",
+    "key_formula": "$r(A)=r(A|b)=n$ ⇒ 唯一解",
+    "common_mistakes": [
+      "忘记比较秩与未知数个数。"
+    ],
+    "tips": "先求秩再判断。"
+  }
+}

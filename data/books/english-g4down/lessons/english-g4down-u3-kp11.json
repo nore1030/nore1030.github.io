@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u3-kp11",
+  "title": "Basic greetings",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 7,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Basic greetings",
+      "question": "Time to go to bed. ____!",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good night",
+        "Goodbye"
+      ],
+      "answer": "Good night",
+      "explanation": "睡觉前说晚安(Good night)。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "math-sujiao-g1up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 1,
+  "unitTitle": "数一数",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数数的方法",
+      "question": "「第 3 个」表示的是（　）",
+      "options": [
+        "顺序",
+        "数量",
+        "总数",
+        "多少"
+      ],
+      "answer": "顺序",
+      "explanation": "第几表顺序。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数量的表示",
+      "question": "10 比 9 大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "10 > 9。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数数的方法",
+      "question": "数一堆小球，最好的办法是（　）",
+      "options": [
+        "边数边做标记",
+        "看一眼就说",
+        "随便数",
+        "猜"
+      ],
+      "answer": "边数边做标记",
+      "explanation": "做标记防重漏。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数量的表示",
+      "question": "7 前面的一个数是（　）",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "9"
+      ],
+      "answer": "6",
+      "explanation": "7 前面是 6。"
+    }
+  ],
+  "knowledge": null
+}

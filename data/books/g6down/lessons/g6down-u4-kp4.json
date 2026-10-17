@@ -1,0 +1,59 @@
+{
+  "id": "g6down-u4-kp4",
+  "title": "图形的放大与缩小",
+  "bookId": "g6down",
+  "unitNumber": 4,
+  "unitTitle": "比例",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形的放大与缩小",
+      "question": "一个正方形按 $2:1$ 放大后，它的面积也扩大到原来的 2 倍。",
+      "options": [],
+      "answer": "错",
+      "explanation": "图形按 $n:1$ 放大，边长扩大 $n$ 倍，面积扩大 $n^2$ 倍。$2 \times 2 = 4$，面积应扩大 4 倍。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的放大与缩小",
+      "question": "把一个等边三角形按 $3:1$ 放大，放大后的三角形是什么三角形？",
+      "options": [
+        "等腰三角形",
+        "直角三角形",
+        "等边三角形",
+        "钝角三角形"
+      ],
+      "answer": "等边三角形",
+      "explanation": "图形的放大与缩小只改变量的大小，不改变形状，故仍为等边三角形。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的放大与缩小",
+      "question": "一个长方形长 5 厘米，宽 3 厘米，按 $4:1$ 放大后，新长方形的周长是 ___ 厘米。",
+      "options": [],
+      "answer": "64",
+      "explanation": "原周长为 $(5+3) \times 2 = 16$ 厘米。按 $4:1$ 放大，周长也扩大 4 倍。$16 \times 4 = 64$。验算：新长为 20，新宽为 12，$(20+12) \times 2 = 64$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形的放大与缩小",
+    "core_concept": "按比例改变图形的大小，但不改变形状。边长扩大 $n$ 倍，周长扩大 $n$ 倍，面积扩大 $n^2$ 倍。",
+    "key_formula": "$\text{新边长} = \text{旧边长} \times \text{比例}$",
+    "common_mistakes": [
+      "误认为面积也按照边长比例相同倍数扩大",
+      "画图时只扩大长而忘记扩大宽"
+    ],
+    "tips": "图形变了大小没变脸，关键抓住各边对应的比值相同。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-g6up-u1-kp2",
+  "title": "特定地点的方位描述",
+  "bookId": "english-g6up",
+  "unitNumber": 1,
+  "unitTitle": "How can I get there?",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "特定地点的方位描述",
+      "question": "'next to' 表示在...后面。",
+      "options": [],
+      "answer": "错",
+      "explanation": "next to 表示紧邻、在...旁边，而 behind 才是后面。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "特定地点的方位描述",
+      "question": "The post office is ______ the cinema. They are side by side.",
+      "options": [
+        "next to",
+        "on",
+        "at",
+        "in"
+      ],
+      "answer": "next to",
+      "explanation": "side by side 描述的是相邻关系，用 next to。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特定地点的方位描述",
+      "question": "The park is ______ to the library.",
+      "options": [
+        "near",
+        "next",
+        "behind",
+        "front"
+      ],
+      "answer": "next",
+      "explanation": "固定搭配 next to。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特定地点的方位描述",
+      "question": "The hospital is ______ the bookstore. (在...后面)",
+      "options": [],
+      "answer": "behind",
+      "explanation": "behind 表示在...后面。"
+    }
+  ],
+  "knowledge": null
+}

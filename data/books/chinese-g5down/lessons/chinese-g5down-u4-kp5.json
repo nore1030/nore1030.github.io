@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp5",
+  "title": "字形辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 1,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "“绷带”的“绷”字左边是一个“纟”旁。",
+      "options": [],
+      "answer": "对",
+      "explanation": "绷带是丝织品，所以是绞丝旁。"
+    }
+  ],
+  "knowledge": null
+}

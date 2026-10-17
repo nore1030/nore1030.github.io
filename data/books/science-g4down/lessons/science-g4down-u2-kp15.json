@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp15",
+  "title": "导体导电性测试",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "导体导电性测试",
+      "question": "实验发现铅笔芯能让电路检测器亮起来，说明铅笔芯是（ ）。",
+      "options": [
+        "导体",
+        "绝缘体",
+        "半导体",
+        "电源"
+      ],
+      "answer": "导体",
+      "explanation": "能导电的物体被称为导体。"
+    }
+  ],
+  "knowledge": null
+}

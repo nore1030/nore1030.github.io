@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g3down-u2-kp1",
+  "title": "颜色词",
+  "bookId": "english-waiyan-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 颜色与物品",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词",
+      "question": "“红色”的英语是（　）",
+      "options": [
+        "red",
+        "black",
+        "green",
+        "white"
+      ],
+      "answer": "red",
+      "explanation": "红色 red。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词",
+      "question": "yellow 的意思是黄色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "黄色 yellow。"
+    }
+  ],
+  "knowledge": {
+    "point": "颜色词",
+    "core_concept": "red, yellow, blue, green, black, white, orange, pink, purple。",
+    "key_formula": "颜色词",
+    "common_mistakes": [
+      "把 purple 当作紫色之外的色。"
+    ],
+    "tips": "purple 是紫色。"
+  }
+}

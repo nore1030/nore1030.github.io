@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g10up-u2-kp1",
+  "title": "时态复习与语篇填空",
+  "bookId": "english-yilin-g10up",
+  "unitNumber": 2,
+  "unitTitle": "语法与词汇拓展",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "时态复习与语篇填空",
+      "question": "做语篇填空时判断时态的主要依据是（　）",
+      "options": [
+        "上下文与时间标志",
+        "单词长度",
+        "句子长短",
+        "标点符号"
+      ],
+      "answer": "上下文与时间标志",
+      "explanation": "上下文判断时态。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "时态复习与语篇填空",
+      "question": "语篇填空要联系全文语境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "联系语境。"
+    }
+  ],
+  "knowledge": {
+    "point": "时态复习与语篇填空",
+    "core_concept": "语篇填空要结合上下文与语法线索判断时态、人称与数。",
+    "key_formula": "上下文 + 语法线索",
+    "common_mistakes": [
+      "孤立看单句。"
+    ],
+    "tips": "结合上下文判断。"
+  }
+}

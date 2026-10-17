@@ -1,0 +1,101 @@
+{
+  "id": "chinese-g3up-u6-kp3",
+  "title": "形声字的构字规律",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“鲨、鲤、鲫”这三个字都带有“鱼”字旁，意思都与鱼类有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“鱼”字旁是形旁，表示字的意思与鱼类有关。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“蜻、蜓、蚂、蚁”这些字都是由形旁和声旁组成的形声字。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这些字左边是虫字旁表意，右边是声旁表音。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“蝌、蚪”两个字的偏旁都是“虫”，因为它们属于昆虫。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蝌蚪属于两栖动物，虽然带虫字旁，但分类并不属于昆虫类。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "下列哪组词语的偏旁都与“水”有关？",
+      "options": [
+        "江河湖海",
+        "花红柳绿",
+        "松柏杨树",
+        "远近高低"
+      ],
+      "answer": "江河湖海",
+      "explanation": "江河湖海都带有三点水，与水相关。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“螃、蟹、蜈、蚣”这些字共同的偏旁是（___）。",
+      "options": [],
+      "answer": "虫",
+      "explanation": "这些字由于都与昆虫或节肢动物有关，故偏旁为“虫”。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形声字的构字规律",
+      "question": "根据偏旁选择对应的字词含义。",
+      "options": [
+        "鸟字旁",
+        "虫字旁",
+        "鱼字旁",
+        "贝字旁",
+        "昆虫类",
+        "禽鸟类",
+        "钱财类",
+        "水族类"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "根据形旁表义的基础规律进行分类。"
+    }
+  ],
+  "knowledge": {
+    "point": "形声字的构字规律",
+    "core_concept": "形声字由形旁和声旁组成。形旁代表汉字的意义范畴，声旁代表汉字的读音。掌握了这一规律，可以帮助学生在阅读时“见词知意”，通过偏旁快速判断字的意思。例如，“虫”字旁的往往是昆虫或节肢动物，“鱼”字旁的多是水生动物。",
+    "key_formula": "形旁（表义）+ 声旁（表音）= 形声字",
+    "common_mistakes": [
+      "将偏旁与实际生物分类混淆，如认为虫字旁的都是昆虫",
+      "忽视声旁对读音的提示作用"
+    ],
+    "tips": "编一个偏旁分类小口诀，如：‘虫’字边虫子多，‘鱼’字边游水间。"
+  }
+}

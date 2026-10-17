@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp8",
+  "title": "量词搭配",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词搭配",
+      "question": "选出搭配不当的一项：",
+      "options": [
+        "一堆粽子",
+        "一颗枣",
+        "一头桥",
+        "一座山"
+      ],
+      "answer": "一头桥",
+      "explanation": "桥的量词应该是“座”或“条”，不能用“头”。"
+    }
+  ],
+  "knowledge": null
+}

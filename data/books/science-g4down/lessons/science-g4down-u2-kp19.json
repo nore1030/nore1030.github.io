@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp19",
+  "title": "故障逻辑排查",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "故障逻辑排查",
+      "question": "如果电路检测器的灯泡坏了，它检测导线时（ ）。",
+      "options": [
+        "一直发光",
+        "一直不亮",
+        "有时亮",
+        "炸裂"
+      ],
+      "answer": "一直不亮",
+      "explanation": "检测器本身如果有故障，则无法完成检测任务。"
+    }
+  ],
+  "knowledge": null
+}

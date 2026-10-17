@@ -1,0 +1,32 @@
+{
+  "id": "english-g4up-u2-kp20",
+  "title": "核心词汇译义",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心词汇译义",
+      "question": "将下列英文与中文意思连线。",
+      "options": [
+        "storybook",
+        "English book",
+        "schoolbag",
+        "key",
+        "英语书",
+        "钥匙",
+        "书包",
+        "故事书"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "A故事书，B英语书，C书包，D钥匙。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g4down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g4down",
+  "unitNumber": 1,
+  "unitTitle": "乡村生活",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：转述",
+      "question": "当转述的话内容很长时，我们可以只转述最主要的信息。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了效率和准确，转述应抓住核心要点。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "‘清平乐’读音为 qīng píng yuè，其中‘乐’字代表音乐或音律。",
+      "options": [],
+      "answer": "对",
+      "explanation": "词牌名中的‘乐’读音为yuè。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "关键语句的理解与情感体会",
+      "question": "《乡下人家》一文主要按照空间转换的顺序来描写景象的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "由门前到屋后，到院子里，体现了空间挪移。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘小小的天窗会使你的想象锋利起来。’中‘锋利’一词形容想象力敏锐。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是生动的文学化表达，意指想象力变得锐利、深刻。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘那洁白的旗，就是从南方飞回来的大雁。’采用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "反问",
+        "排比"
+      ],
+      "answer": "比喻",
+      "explanation": "将大雁排成的队列比作洁白的旗。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "关键语句的理解与情感体会",
+      "question": "《天窗》中说，天窗是孩子们‘唯一的慰藉’，原因在于：",
+      "options": [
+        "天窗很大很漂亮",
+        "孩子们可以从天窗爬出去玩",
+        "通过天窗能产生无限的神奇想象",
+        "天窗能透进新鲜的空气"
+      ],
+      "answer": "通过天窗能产生无限的神奇想象",
+      "explanation": "当孩子被关在屋里，天窗是联通外面世界的唯一孔道，激发了无限慰藉。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键语句的理解与情感体会",
+      "question": "下列哪一项不属于《乡下人家》描写的画面？",
+      "options": [
+        "瓜架挂瓜",
+        "花开等闲",
+        "鸡鸭觅食",
+        "商场购物"
+      ],
+      "answer": "商场购物",
+      "explanation": "商场购物属于城市生活，非田园画卷。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "‘日长篱落无人过，惟有蜻蜓蛱蝶飞。’描写的是初夏乡村的什么特点？",
+      "options": [
+        "热闹",
+        "宁静",
+        "忧愁",
+        "繁忙"
+      ],
+      "answer": "宁静",
+      "explanation": "无人经过，只有飞虫，体现了白天乡村的沉静。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘桃花水’被作者描述为春天的‘明镜’，这是因为桃花水：",
+      "options": [
+        "很清澈",
+        "很冰冷",
+        "很多水流",
+        "颜色发红"
+      ],
+      "answer": "很清澈",
+      "explanation": "只有水面清澈如镜才能映照出岸边的景物。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键语句的理解与情感体会",
+      "question": "‘乡下人家，不论什么时候，不论什么季节，都有一道独特、迷人的风景。’这句话在文中起什么作用？",
+      "options": [
+        "总结全文",
+        "引出话题",
+        "承上启下",
+        "描写细节"
+      ],
+      "answer": "总结全文",
+      "explanation": "这是文章的中心句，对全文内容进行了概括升华。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "《宿新市徐公店》中，黄蝶飞入（___）无处寻。",
+      "options": [],
+      "answer": "菜花丛",
+      "explanation": "原文：飞入菜花无处寻。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘探出头来’形容的是（___）生长出来的样子。",
+      "options": [],
+      "answer": "春笋",
+      "explanation": "课文描述：成群地从土里探出头来。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "田园古诗词鉴赏",
+      "question": "连接古诗作者与其作品名称。",
+      "options": [
+        "杨万里",
+        "范成大",
+        "辛弃疾",
+        "杜甫",
+        "宿新市徐公店",
+        "四时田园杂兴",
+        "清平乐村居",
+        "绝句"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查文学常识记忆。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "将修辞手法与对应的句子连线。",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "反问",
+        "天窗是慰藉",
+        "竹笋探出头",
+        "那花那草那人",
+        "难道不美吗"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查对基础修辞手法的识别。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "连词成句：描写三月桃花水的形态。",
+      "options": [
+        "三月的",
+        "桃花水",
+        "春天的",
+        "是",
+        "明镜"
+      ],
+      "answer": "三月的,桃花水,是,春天的,明镜",
+      "explanation": "根据课文原文结构排列。"
+    }
+  ],
+  "knowledge": null
+}

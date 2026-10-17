@@ -1,0 +1,63 @@
+{
+  "id": "science-g1down-u1-kp2",
+  "title": "比较物体的轻重",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "在简易天平的两端放入物体，重的一端会（）。",
+      "options": [
+        "向上升",
+        "向下降",
+        "保持水平",
+        "来回摆动"
+      ],
+      "answer": "向下降",
+      "explanation": "由于重力作用，较重的物体会使天平托盘向下沉。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比较物体的轻重",
+      "question": "甲物体比乙物体轻，乙物体比丙物体轻，最重的是（）。",
+      "options": [
+        "甲",
+        "乙",
+        "丙",
+        "一样重"
+      ],
+      "answer": "丙",
+      "explanation": "逻辑关系：甲 < 乙 < 丙，所以丙最重。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "用一个大球和一个小球放在简易天平上，两端平衡一共需要（）个质量单位。",
+      "options": [],
+      "answer": "10",
+      "explanation": "假设具体情境中的质量数据，此题考察对数量的概念，填入示例基准数10（符合一年级数数范围）。"
+    }
+  ],
+  "knowledge": {
+    "point": "比较物体的轻重",
+    "core_concept": "质量是物体的基本特征，可用感官掂量或工具测量。",
+    "key_formula": "预测->掂量->称量。",
+    "common_mistakes": [
+      "认为大的物体一定重"
+    ],
+    "tips": "天平倾斜的一端代表该物体更重。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp15",
+  "title": "反义词",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词",
+      "question": "“马棚里住着一匹老马。”中“老”的反义词是：",
+      "options": [
+        "旧",
+        "少",
+        "幼",
+        "小"
+      ],
+      "answer": "小",
+      "explanation": "在动物年龄语境下，老对应小或幼，通常课文中老马对小马。"
+    }
+  ],
+  "knowledge": null
+}

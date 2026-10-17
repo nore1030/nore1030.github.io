@@ -1,0 +1,217 @@
+{
+  "id": "g5up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "g5up",
+  "unitNumber": 5,
+  "unitTitle": "简易方程",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "$a \\times a$ 可以简写成 $a^2$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$a^2$ 表示两个 $a$ 相乘，是正确的缩写形式。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "等式两边同时乘一个数，等式一定成立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是等式的性质2。注意除法时不能除以0，但乘法没有这个限制。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "方程 $x \\div 0.5 = 10$ 的解是 $x = 20$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "解法：$x = 10 \\times 0.5 = 5$。验算：$5 \\div 0.5 = 10$。原题设解为 20 是错误的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "列方程解决实际问题（ax±b=c类型）",
+      "question": "已知 $a+b=15$，如果 $a=8$，那么 $b=7$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "代入 $a$ 值：$8+b=15$，解得 $b=7$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "如果 $x+1.5 = y+2.5$，那么 $x$ 与 $y$ 的关系是（    ）。",
+      "options": [
+        "x > y",
+        "x < y",
+        "x = y",
+        "无法确定"
+      ],
+      "answer": "x > y",
+      "explanation": "等式两边同时减去 1.5 得到 $x = y + 1$。因为 $y+1$ 比 $y$ 大，所以 $x > y$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "当 $x = 2$ 时，$x^2$ 与 $2x$ 的大小关系是（    ）。",
+      "options": [
+        "x^2 > 2x",
+        "x^2 < 2x",
+        "x^2 = 2x",
+        "无法比较"
+      ],
+      "answer": "x^2 = 2x",
+      "explanation": "$x^2 = 2 \\times 2 = 4$；$2x = 2 \\times 2 = 4$。两者相等。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "一本练习本 $a$ 元，一支铅笔 $b$ 元，买 3 本练习本和 2 支铅笔一共（    ）元。",
+      "options": [
+        "3a+2b",
+        "2a+3b",
+        "5ab",
+        "3+a+2+b"
+      ],
+      "answer": "3a+2b",
+      "explanation": "3 本练习本是 $3a$ 元，2 支铅笔是 $2b$ 元，总价相加。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列方程解决稍复杂的实际问题（和倍、行程问题）",
+      "question": "妈妈买了 5 千克苹果和 8 千克梨，一共用了 76 元。已知苹果每千克 8 元，梨每千克多少元？设梨每千克 $x$ 元，方程是（    ）。",
+      "options": [
+        "5×8+8x=76",
+        "5x+8×8=76",
+        "76-8x=5",
+        "5+8+x=76"
+      ],
+      "answer": "5×8+8x=76",
+      "explanation": "总钱数 $=$ 苹果钱 $+$ 梨钱。即 $5 \\times 8 + 8x = 76$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "已知 $15 - x = 8$，求 $x$。下列说法正确的是（    ）。",
+      "options": [
+        "x=23",
+        "x=7",
+        "x=15",
+        "x=8"
+      ],
+      "answer": "x=7",
+      "explanation": "$15 - 7 = 8$，代入成立。计算过程：$x = 15 - 8 = 7$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "列方程解决稍复杂的实际问题（和倍、行程问题）",
+      "question": "学校买来 8 个足球和 10 个篮球，共付了 600 元。每个足球 35 元，每个篮球多少元？（结果为整数）",
+      "options": [
+        "32",
+        "28",
+        "30",
+        "25"
+      ],
+      "answer": "32",
+      "explanation": "设篮球 $x$ 元。$8 \\times 35 + 10x = 600$。$280 + 10x = 600$，$10x = 320$，$x = 32$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列方程解决稍复杂的实际问题（和倍、行程问题）",
+      "question": "动物园里猴子的只数是熊猫的 4 倍，猴子比熊猫多 30 只。熊猫有多少只？",
+      "options": [
+        "10",
+        "15",
+        "8",
+        "12"
+      ],
+      "answer": "10",
+      "explanation": "设熊猫 $x$ 只，则猴子 $4x$ 只。$4x - x = 30$，$3x = 30$，$x = 10$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "一个两位数，十位上的数字是 $a$，个位上的数字是 $b$。这个两位数是（    ）。",
+      "options": [
+        "ab",
+        "a+b",
+        "10a+b",
+        "10b+a"
+      ],
+      "answer": "10a+b",
+      "explanation": "十位上的数字表示几个十，所以是 $10a$，加上个位是 $10a+b$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "已知 $2x + 7 = 37$，那么 $x$ 的值是 ___。",
+      "options": [],
+      "answer": "15",
+      "explanation": "$2x = 37 - 7 = 30$。$x = 30 \\div 2 = 15$。验算：$2 \\times 15 + 7 = 37$。正确。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用字母表示数与简写规则",
+      "question": "小红有 20 元钱，买了 $n$ 支单价为 3 元的铅笔，还剩 ___ 元。（用含有字母的式子表示，填入 $20-3n$ 中的数字 3 后的字母前面的数字）",
+      "options": [],
+      "answer": "3",
+      "explanation": "虽然是字母题，但要求填固定数字。此处考查式子结构 $20 - 3n$ 中的 3。总价 = 单价 $\\times$ 数量。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "计算方程的解：$5x - 13 = 27, x = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$5x = 27 + 13 = 40$。$x = 40 \\div 5 = 8$。验算：$5 \\times 8 - 13 = 40 - 13 = 27$。正确。"
+    }
+  ],
+  "knowledge": null
+}

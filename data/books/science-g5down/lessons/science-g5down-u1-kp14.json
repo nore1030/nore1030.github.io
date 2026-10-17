@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp14",
+  "title": "对比实验设计",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对比实验设计",
+      "question": "为了排除偶然性，种子发芽实验中每个盒子通常放（ ）粒种子。",
+      "options": [
+        "1",
+        "至少3",
+        "0",
+        "100"
+      ],
+      "answer": "至少3",
+      "explanation": "放多粒种子可以避免因种子本身发育不良导致实验失败，增加实验的准确性。"
+    }
+  ],
+  "knowledge": null
+}

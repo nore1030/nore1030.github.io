@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp4",
+  "title": "动词过去式规则变化",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动词过去式规则变化",
+      "question": "单词 'stay' 的过去式是 'stayed'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "规则动词过去式直接在词尾加-ed。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u2-kp13",
+  "title": "古诗常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 12,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗常识",
+      "question": "请将诗句的前后半句连接起来。",
+      "options": [
+        "儿童急走追黄蝶",
+        "日长篱落无人过",
+        "梅子金黄杏子肥",
+        "篱落疏疏一径深",
+        "飞入菜花无处寻",
+        "树头新绿未成阴",
+        "惟有蜻蜓蛱蝶飞",
+        "麦花雪白菜花稀"
+      ],
+      "answer": "A-1,B-3,C-4,D-2",
+      "explanation": "考察课外及课内古诗掌握情况。A-1和D-2出自《宿新市徐公店》，B-3和C-4出自《四时田园杂兴》。"
+    }
+  ],
+  "knowledge": null
+}

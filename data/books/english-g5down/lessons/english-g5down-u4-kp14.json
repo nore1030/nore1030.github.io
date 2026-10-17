@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp14",
+  "title": "基数词与序数词",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "基数词与序数词",
+      "question": "I have ______ pens. The ______ one is blue.",
+      "options": [
+        "three; three",
+        "third; third",
+        "three; third",
+        "third; three"
+      ],
+      "answer": "three; third",
+      "explanation": "第一空表示数量用基数词，第二空表示顺序用序数词。"
+    }
+  ],
+  "knowledge": null
+}

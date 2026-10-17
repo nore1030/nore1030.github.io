@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g9up-u1-kp1",
+  "title": "空气的组成",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的空气",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "空气的组成",
+      "question": "空气中体积分数最大的气体是（　）",
+      "options": [
+        "氧气",
+        "氮气",
+        "二氧化碳",
+        "稀有气体"
+      ],
+      "answer": "氮气",
+      "explanation": "氮气约占 78%。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "空气的组成",
+      "question": "空气中氧气的体积分数约为 21%。",
+      "options": [],
+      "answer": "对",
+      "explanation": "空气组成。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "空气的组成",
+      "question": "100 L 空气中氧气约有多少 L？",
+      "options": [],
+      "answer": "21",
+      "explanation": "$100\\times21\\%=21$ L。"
+    }
+  ],
+  "knowledge": {
+    "point": "空气的组成",
+    "core_concept": "空气按体积分数约为：氮气 78%、氧气 21%、稀有气体 0.94%、二氧化碳 0.03%、其他 0.03%。",
+    "key_formula": "$V(\\text{N}_2):V(\\text{O}_2)\\approx4:1$",
+    "common_mistakes": [
+      "把体积分数当作质量分数。"
+    ],
+    "tips": "空气成分均指体积分数。"
+  }
+}

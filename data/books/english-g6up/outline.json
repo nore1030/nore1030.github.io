@@ -1,0 +1,1409 @@
+{
+  "textbook": "六年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "How can I get there?",
+      "knowledge_points": [
+        {
+          "name": "公共场所词汇识别",
+          "description": "掌握科学博物馆、邮局、书店、电影院、医院等场所词汇的拼写与认读",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "特定地点的方位描述",
+          "description": "运用near, next to, behind等介词描述建筑物之间的相对位置关系",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "判断",
+            "操作题"
+          ]
+        },
+        {
+          "name": "询问地点与路线的句型",
+          "description": "掌握Where is the...? Is there a...? 及 How can I get there? 的询问方式",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "指路指令与方位短语",
+          "description": "掌握turn left, turn right, go straight, crossing等指路动词短语及祈使句用法",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "画图",
+            "应用题"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u1-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 2,
+      "title": "Ways to go to school",
+      "knowledge_points": [
+        {
+          "name": "交通工具及出行方式表达",
+          "description": "掌握by bus, by plane, by subway, on foot等交通方式的分类与表达",
+          "difficulty": 1,
+          "question_types": [
+            "连线/匹配",
+            "填空",
+            "选择"
+          ]
+        },
+        {
+          "name": "频度副词在出行习惯中的应用",
+          "description": "运用always, usually, often, sometimes描述个人出行习惯与频率",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "排序/比较",
+            "应用题"
+          ]
+        },
+        {
+          "name": "交通标志与安全规则",
+          "description": "识别红绿灯含义及Stop, Don't go等安全标识，掌握交通安全守则句型",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "填空",
+            "选择"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u2-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 3,
+      "title": "My weekend plan",
+      "knowledge_points": [
+        {
+          "name": "be going to 结构表示计划",
+          "description": "掌握be going to + 动词原形结构，描述即将发生的动作或未来的打算",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "选择",
+            "应用题"
+          ]
+        },
+        {
+          "name": "计划相关的活动词汇与时间状语",
+          "description": "掌握visit, see a film等活动词组及tomorrow, next week等时间表达",
+          "difficulty": 1,
+          "question_types": [
+            "连线/匹配",
+            "填空"
+          ]
+        },
+        {
+          "name": "询问并交流未来行程安排",
+          "description": "运用疑问词What/Where/When对未来的计划进行多维度提问与回答",
+          "difficulty": 4,
+          "question_types": [
+            "填空",
+            "应用题",
+            "操作题"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u3-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 4,
+      "title": "I have a pen pal",
+      "knowledge_points": [
+        {
+          "name": "个人兴趣爱好表达 (Hobbies)",
+          "description": "掌握like + doing句型及各类型爱好词汇（reading stories, singing等）",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "一般现在时第三人称单数陈述",
+          "description": "掌握主语为He/She时，动词加-s/-es的规律及lives, teaches, does等变形式",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "判断",
+            "规律探索"
+          ]
+        },
+        {
+          "name": "询问他人信息的特殊疑问句",
+          "description": "运用What are his hobbies? 与 Does he live in...? 进行他人信息的获取调查",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "操作题"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u4-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 5,
+      "title": "What does he do?",
+      "knowledge_points": [
+        {
+          "name": "职业名词与工作场所对应",
+          "description": "识别pilot, scientist等职业，并与university, gym等工作场所进行关联",
+          "difficulty": 2,
+          "question_types": [
+            "连线/匹配",
+            "填空",
+            "选择"
+          ]
+        },
+        {
+          "name": "职业及通勤方式的询问",
+          "description": "掌握What does he do? Where does he work? 及 How does he go to work?",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "职业规划与个人兴趣的逻辑关联",
+          "description": "根据If you like..., you can be a... 句式进行职业建议与规划表达",
+          "difficulty": 4,
+          "question_types": [
+            "排序/比较",
+            "填空",
+            "应用题"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u5-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 6,
+      "title": "How do you feel?",
+      "knowledge_points": [
+        {
+          "name": "情绪与心理状态形容词",
+          "description": "准确辨析并使用angry, afraid, sad, worried, happy等描述心理状态",
+          "difficulty": 1,
+          "question_types": [
+            "连线/匹配",
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "针对负面情绪提出缓解建议",
+          "description": "掌握You should... 句型及take a deep breath, see a doctor等建议动作",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "应用题"
+          ]
+        },
+        {
+          "name": "条件句中表达情绪调节",
+          "description": "理解并运用If...(you feel angry), what should I/you do? 句式进行情景分析",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "判断",
+            "案例分析"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u6-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 7,
+      "title": "Recycle & Summary",
+      "knowledge_points": [
+        {
+          "name": "寓言故事要素拆解与理解",
+          "description": "识别叙事中Setting, Characters, Plot三要素，并理解故事寓意",
+          "difficulty": 4,
+          "question_types": [
+            "排序/比较",
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "综合语言功能句型总结",
+          "description": "全面复习关于问路、交通、计划、爱好、职业、情绪的综合表达",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "语音语调与连读技巧",
+          "description": "掌握句子中的重音、自然停顿及辅音元音间的连读技巧",
+          "difficulty": 2,
+          "question_types": [
+            "操作题",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "english-g6up-u7-exam",
+      "examQuestionCount": 15
+    }
+  ],
+  "bookId": "english-g6up",
+  "grade": 6,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-g6up-u1-kp1",
+      "title": "公共场所词汇识别",
+      "unitNumber": 1,
+      "unitTitle": "How can I get there?",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 7
+    },
+    {
+      "id": "english-g6up-u1-kp2",
+      "title": "特定地点的方位描述",
+      "unitNumber": 1,
+      "unitTitle": "How can I get there?",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 4
+    },
+    {
+      "id": "english-g6up-u1-kp3",
+      "title": "询问地点与路线的句型",
+      "unitNumber": 1,
+      "unitTitle": "How can I get there?",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 5
+    },
+    {
+      "id": "english-g6up-u1-kp4",
+      "title": "指路指令与方位短语",
+      "unitNumber": 1,
+      "unitTitle": "How can I get there?",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 7
+    },
+    {
+      "id": "english-g6up-u2-kp4",
+      "title": "交通工具词汇",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 0,
+      "kpTotal": 20,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u2-kp5",
+      "title": "交通信号含义",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 1,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp6",
+      "title": "语法规则",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 2,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp7",
+      "title": "地点词汇",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 3,
+      "kpTotal": 20,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u2-kp8",
+      "title": "介词搭配",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 4,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp9",
+      "title": "交通安全",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 5,
+      "kpTotal": 20,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u2-kp10",
+      "title": "词义辨析",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 6,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp11",
+      "title": "疑问句",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 7,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp12",
+      "title": "频度副词",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 8,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp13",
+      "title": "动词短语",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 9,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp14",
+      "title": "固定搭配",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 10,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp15",
+      "title": "代词",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 11,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp16",
+      "title": "主谓一致",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 12,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp17",
+      "title": "词汇拼写",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 13,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp18",
+      "title": "疑问词",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 14,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp19",
+      "title": "句型转换",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 15,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp20",
+      "title": "英汉配对",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 16,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp21",
+      "title": "祈使句配对",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 17,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp22",
+      "title": "特殊疑问句",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 18,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u2-kp23",
+      "title": "肯定的肯定句规则",
+      "unitNumber": 2,
+      "unitTitle": "Ways to go to school",
+      "kpIndex": 19,
+      "kpTotal": 20,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp4",
+      "title": "时间状语辨析",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 0,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp5",
+      "title": "词组含义",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 1,
+      "kpTotal": 21,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u3-kp6",
+      "title": "be going to 语法",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 2,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp7",
+      "title": "疑问词含义",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 3,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp8",
+      "title": "词汇搭配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 4,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp9",
+      "title": "人称代词与be动词匹配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 5,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp10",
+      "title": "动词形式",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 6,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp11",
+      "title": "地点搭配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 7,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp12",
+      "title": "疑问词辨析",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 8,
+      "kpTotal": 21,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u3-kp13",
+      "title": "固定搭配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 9,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp14",
+      "title": "时间状语",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 10,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp15",
+      "title": "常见物词汇",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 11,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp16",
+      "title": "交际用语",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 12,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp17",
+      "title": "将来时间表达",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 13,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp18",
+      "title": "be going to 结构",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 14,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp19",
+      "title": "活动词组",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 15,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp20",
+      "title": "具体计划",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 16,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp21",
+      "title": "计划活动匹配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 17,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp22",
+      "title": "时间状语匹配",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 18,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp23",
+      "title": "疑问句序",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 19,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u3-kp24",
+      "title": "陈述句序",
+      "unitNumber": 3,
+      "unitTitle": "My weekend plan",
+      "kpIndex": 20,
+      "kpTotal": 21,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp4",
+      "title": "Hobbies vocabulary",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 0,
+      "kpTotal": 17,
+      "questionCount": 3
+    },
+    {
+      "id": "english-g6up-u4-kp5",
+      "title": "Grammar: Subject-verb agreement",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 1,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp6",
+      "title": "Grammar: Interrogative sentence",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 2,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp7",
+      "title": "Hobbies",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 3,
+      "kpTotal": 17,
+      "questionCount": 5
+    },
+    {
+      "id": "english-g6up-u4-kp8",
+      "title": "Vocabulary: hobbies",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 4,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp9",
+      "title": "Third person singular",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 5,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp10",
+      "title": "Interrogative pronoun",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 6,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp11",
+      "title": "Translation",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 7,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp12",
+      "title": "Auxiliary verb: does",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 8,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp13",
+      "title": "Verb form",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 9,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp14",
+      "title": "Question word",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 10,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp15",
+      "title": "Third person singular verb",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 11,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp16",
+      "title": "Auxiliary verb",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 12,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp17",
+      "title": "Vocabulary: activities",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 13,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp18",
+      "title": "Action phrases",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 14,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp19",
+      "title": "Hobbies sentence",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 15,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u4-kp20",
+      "title": "Question sentence",
+      "unitNumber": 4,
+      "unitTitle": "I have a pen pal",
+      "kpIndex": 16,
+      "kpTotal": 17,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp4",
+      "title": "职业名词词义",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 0,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp5",
+      "title": "工作地点辨析",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 1,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp6",
+      "title": "动词三单形式",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 2,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp7",
+      "title": "职业与爱好的关联",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 3,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp8",
+      "title": "交通方式表达",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 4,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp9",
+      "title": "代词与谓语一致性",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 5,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp10",
+      "title": "职业词汇辨析",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 6,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp11",
+      "title": "介词搭配",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 7,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp12",
+      "title": "短语理解",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 8,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp13",
+      "title": "询问地点",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 9,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp14",
+      "title": "词汇拼写",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 10,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp15",
+      "title": "主谓一致",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 11,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp16",
+      "title": "逻辑推理",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 12,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp17",
+      "title": "疑问词辨析",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 13,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp18",
+      "title": "职业规划",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 14,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp19",
+      "title": "职业词汇",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 15,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp20",
+      "title": "动词形式",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 16,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp21",
+      "title": "地点词汇",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 17,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp22",
+      "title": "固定搭配",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 18,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp23",
+      "title": "词汇中英匹配",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 19,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp24",
+      "title": "职业与工作内容匹配",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 20,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u5-kp25",
+      "title": "核心句型",
+      "unitNumber": 5,
+      "unitTitle": "What does he do?",
+      "kpIndex": 21,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp4",
+      "title": "情绪形容词词义",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 0,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u6-kp5",
+      "title": "建议类动词短语",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 1,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u6-kp6",
+      "title": "语法搭配",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 2,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp7",
+      "title": "情绪形容词辨析",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 3,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp8",
+      "title": "情境交际",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 4,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u6-kp9",
+      "title": "词义理解",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 5,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp10",
+      "title": "建议短语",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 6,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp11",
+      "title": "动词短语",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 7,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp12",
+      "title": "逻辑理解",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 8,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp13",
+      "title": "语法结构",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 9,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp14",
+      "title": "反义词/对应词",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 10,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp15",
+      "title": "综合情境",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 11,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp16",
+      "title": "情绪单词拼写",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 12,
+      "kpTotal": 18,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g6up-u6-kp17",
+      "title": "建议短语表达",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 13,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp18",
+      "title": "身体健康与建议",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 14,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp19",
+      "title": "核心词汇英汉匹配",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 15,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp20",
+      "title": "情境建议匹配",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 16,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u6-kp21",
+      "title": "询问情绪句型",
+      "unitNumber": 6,
+      "unitTitle": "How do you feel?",
+      "kpIndex": 17,
+      "kpTotal": 18,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp4",
+      "title": "交通出行句型理解",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 0,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp5",
+      "title": "职业词汇理解",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 1,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp6",
+      "title": "寓言故事要素",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 2,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp7",
+      "title": "连读技巧",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 3,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp8",
+      "title": "词义辨析",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 4,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp9",
+      "title": "近况询问常用语",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 5,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp10",
+      "title": "建议引导词",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 6,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp11",
+      "title": "场所及交通方式配套",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 7,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp12",
+      "title": "综合问路表达",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 8,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp13",
+      "title": "寓言故事理解",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 9,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp14",
+      "title": "句意选择",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 10,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp15",
+      "title": "打算与计划",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 11,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp16",
+      "title": "爱好表达",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 12,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp17",
+      "title": "情绪识别",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 13,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp18",
+      "title": "语音与停顿",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 14,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp19",
+      "title": "问候基本功",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 15,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp20",
+      "title": "交通规则",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 16,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp21",
+      "title": "职业词汇",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 17,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp22",
+      "title": "个人兴趣",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 18,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp23",
+      "title": "职业英汉配对",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 19,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp24",
+      "title": "情绪英汉配对",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 20,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp25",
+      "title": "交通建议",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 21,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g6up-u7-kp26",
+      "title": "将来计划",
+      "unitNumber": 7,
+      "unitTitle": "Recycle & Summary",
+      "kpIndex": 22,
+      "kpTotal": 23,
+      "questionCount": 1
+    }
+  ]
+}

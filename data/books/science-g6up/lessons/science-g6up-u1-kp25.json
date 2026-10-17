@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp25",
+  "title": "放大镜术语",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "放大镜术语",
+      "question": "放大镜的镜片呈现中央厚、边缘薄的特点，学名叫做（）。",
+      "options": [],
+      "answer": "凸透镜",
+      "explanation": "凸透镜是科学术语，代表这种特定形状的透镜。"
+    }
+  ],
+  "knowledge": null
+}

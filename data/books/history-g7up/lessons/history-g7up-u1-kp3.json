@@ -1,0 +1,47 @@
+{
+  "id": "history-g7up-u1-kp3",
+  "title": "春秋战国与社会变革",
+  "bookId": "history-g7up",
+  "unitNumber": 1,
+  "unitTitle": "史前时期与早期国家",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "春秋战国与社会变革",
+      "question": "商鞅变法发生在（　）",
+      "options": [
+        "齐国",
+        "秦国",
+        "楚国",
+        "魏国"
+      ],
+      "answer": "秦国",
+      "explanation": "商鞅在秦国变法。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "春秋战国与社会变革",
+      "question": "孔子是儒家学派创始人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "孔子创立儒家。"
+    }
+  ],
+  "knowledge": {
+    "point": "春秋战国与社会变革",
+    "core_concept": "春秋时期铁器牛耕出现推动生产力发展；战国时期商鞅变法使秦国富强。百家争鸣中孔子创立儒家、老子创立道家。",
+    "key_formula": "商鞅变法：废井田、开阡陌、奖励耕战",
+    "common_mistakes": [
+      "把孔子主张说成“法治”"
+    ],
+    "tips": "孔子讲“仁”，法家讲“法治”。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "english-g4down-u3-kp15",
+  "title": "Sentence structure",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 11,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Sentence structure",
+      "question": "连词成句：[the, What, weather, is, like]",
+      "options": [
+        "the",
+        "What",
+        "weather",
+        "is",
+        "like"
+      ],
+      "answer": "What,is,the,weather,like",
+      "explanation": "询问天气的固定句式：What is the weather like?"
+    }
+  ],
+  "knowledge": null
+}

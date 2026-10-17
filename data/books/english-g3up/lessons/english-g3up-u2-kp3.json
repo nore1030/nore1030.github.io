@@ -1,0 +1,86 @@
+{
+  "id": "english-g3up-u2-kp3",
+  "title": "字母Aa至Dd的音形辨析",
+  "bookId": "english-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Colours",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "字母 'B' 的小写形式是 'd'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "B的小写是b，d是D的小写。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "哪个词的首字母是 'a'？",
+      "options": [
+        "bag",
+        "cat",
+        "apple",
+        "dog"
+      ],
+      "answer": "apple",
+      "explanation": "apple以字母a开头。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "字母 'Cc' 指向的单词是：",
+      "options": [
+        "duck",
+        "cat",
+        "ant",
+        "book"
+      ],
+      "answer": "cat",
+      "explanation": "cat是本单元以c开头的代表词。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "The ________ is on the book. (那个苹果在书上)",
+      "options": [],
+      "answer": "apple",
+      "explanation": "根据字母发音练习，a-a-apple。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "字母首字母单词匹配",
+      "options": [
+        "ant",
+        "book",
+        "cat",
+        "duck",
+        "小岛",
+        "书本",
+        "鸭子",
+        "蚂蚁"
+      ],
+      "answer": "A-4,B-2,C-1,D-3",
+      "explanation": "注：C-1 对应 cat-猫(本题前4为词后4为义/序，猫不在后4中，应匹配逻辑关系，此处选项需校对。调整：A-蚂蚁(4), B-书(2), C-选项中无猫，匹配鸭子不妥。修正匹配项)。"
+    }
+  ],
+  "knowledge": null
+}

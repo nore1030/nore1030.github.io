@@ -1,0 +1,39 @@
+{
+  "id": "english-g5down-u2-kp4",
+  "title": "字母组合br和gr的发音规律",
+  "bookId": "english-g5down",
+  "unitNumber": 2,
+  "unitTitle": "My favourite season",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母组合br和gr的发音规律",
+      "question": "单词 'bread' 和 'brown' 中 'br' 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者中的br都发/br/。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母组合br和gr的发音规律",
+      "question": "Which word has the /gr/ sound?",
+      "options": [
+        "brother",
+        "brown",
+        "green",
+        "bread"
+      ],
+      "answer": "green",
+      "explanation": "green包含gr组合，发音为/gr/。"
+    }
+  ],
+  "knowledge": null
+}

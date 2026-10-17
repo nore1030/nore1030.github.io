@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8up-u2-kp1",
+  "title": "合理利用网络",
+  "bookId": "moral-g8up",
+  "unitNumber": 2,
+  "unitTitle": "网络生活与社会诚信",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "合理利用网络",
+      "question": "面对网络上未经证实的信息，正确做法是（　）",
+      "options": [
+        "查证信源后再判断和转发",
+        "马上转发",
+        "大量传播",
+        "当作事实"
+      ],
+      "answer": "查证信源后再判断和转发",
+      "explanation": "先查证再转发。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "合理利用网络",
+      "question": "沉迷网络游戏会影响身心健康和学习。",
+      "options": [],
+      "answer": "对",
+      "explanation": "沉迷危害。"
+    }
+  ],
+  "knowledge": {
+    "point": "合理利用网络",
+    "core_concept": "网络信息鱼龙混杂，要提高媒介素养，学会“信息节食”、标注信源、交叉验证。沉迷网络会影响学习和身心健康。",
+    "key_formula": "提高媒介素养",
+    "common_mistakes": [
+      "不加辨别地转发信息。"
+    ],
+    "tips": "转发前先查证。"
+  }
+}

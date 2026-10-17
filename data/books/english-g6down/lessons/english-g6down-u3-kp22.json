@@ -1,0 +1,29 @@
+{
+  "id": "english-g6down-u3-kp22",
+  "title": "过去时陈述句",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "过去时陈述句",
+      "question": "Put the words in order: [went, Sanya, I, to, .]",
+      "options": [
+        "went",
+        "Sanya",
+        "I",
+        "to",
+        "."
+      ],
+      "answer": "I,went,to,Sanya,.",
+      "explanation": "主语+谓语+地点：我去了三亚。"
+    }
+  ],
+  "knowledge": null
+}

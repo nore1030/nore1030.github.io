@@ -1,0 +1,50 @@
+{
+  "id": "science-g1down-u2-kp7",
+  "title": "动物的基本特征",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 0,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物的基本特征",
+      "question": "玩具狗也能像真狗一样长大、生小宝宝。",
+      "options": [],
+      "answer": "错",
+      "explanation": "玩具狗是非生物，不具备生物的生长和繁殖特征。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物的基本特征",
+      "question": "人也是动物，因为我们也需要空气、水和食物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人属于生物中的动物类，具有动物的基本生存需求。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的基本特征",
+      "question": "下列哪一项是真狗和玩具狗最大的不同？",
+      "options": [
+        "真狗有生命，会呼吸",
+        "玩具狗会叫",
+        "真狗有白色的毛",
+        "玩具狗有四个轮子"
+      ],
+      "answer": "真狗有生命，会呼吸",
+      "explanation": "生命特征是生物与非生物的本质区别。"
+    }
+  ],
+  "knowledge": null
+}

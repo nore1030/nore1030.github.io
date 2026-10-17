@@ -1,0 +1,31 @@
+{
+  "id": "physics-g9up-u3-kp3",
+  "title": "伏安法测电阻与安全用电",
+  "bookId": "physics-g9up",
+  "unitNumber": 3,
+  "unitTitle": "电压、电阻与欧姆定律",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "伏安法测电阻与安全用电",
+      "question": "连接电路时开关应处于断开状态。",
+      "options": [],
+      "answer": "对",
+      "explanation": "安全操作规范。"
+    }
+  ],
+  "knowledge": {
+    "point": "伏安法测电阻与安全用电",
+    "core_concept": "伏安法测电阻用电压表测电压、电流表测电流，多次测量取平均值减小误差；家庭电路中用电器并联，开关接在火线上。",
+    "key_formula": "$R=\\frac UI$",
+    "common_mistakes": [
+      "连接电路时开关未断开。"
+    ],
+    "tips": "连接电路前开关必须断开。"
+  }
+}

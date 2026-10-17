@@ -1,0 +1,50 @@
+{
+  "id": "english-g6down-u3-kp12",
+  "title": "动词过去式",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词过去式",
+      "question": "I ___ a horse last Saturday.",
+      "options": [
+        "ride",
+        "rode",
+        "rid",
+        "rides"
+      ],
+      "answer": "rode",
+      "explanation": "last Saturday提示过去时，ride变rode。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词过去式",
+      "question": "We ___ (eat) fresh food last night.",
+      "options": [],
+      "answer": "ate",
+      "explanation": "eat的过去式是ate。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词过去式",
+      "question": "She ___ (see) a film yesterday.",
+      "options": [],
+      "answer": "saw",
+      "explanation": "see的过去式是saw。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "science-g5down-u4-kp7",
+  "title": "热对流",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "热对流",
+      "question": "在烧杯底部加热水时，热水会向上流动，冷水会向下流动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "液体受热后体积膨胀，密度减小而上升，上部冷液体密度大而下沉，形成对流。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "热对流",
+      "question": "为了让房间快点凉快下来，空调扇叶应向上拨动，是因为冷空气会（）。",
+      "options": [
+        "向上流动",
+        "向下流动",
+        "向左流动",
+        "水平流动"
+      ],
+      "answer": "向下流动",
+      "explanation": "冷空气密度大，会向下沉，从而形成对流使全屋降温。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "热对流",
+      "question": "在探究水的热对流实验中，我们在水中加入红墨水是为了（）。",
+      "options": [
+        "增加水的重量",
+        "使水变鲜艳",
+        "方便观察水的流动",
+        "加快水的加热速度"
+      ],
+      "answer": "方便观察水的流动",
+      "explanation": "红墨水作为示踪剂，能清晰显示冷热水流动的轨迹。"
+    }
+  ],
+  "knowledge": null
+}

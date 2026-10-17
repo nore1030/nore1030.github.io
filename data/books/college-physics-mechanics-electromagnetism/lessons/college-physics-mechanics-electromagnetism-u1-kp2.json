@@ -1,0 +1,42 @@
+{
+  "id": "college-physics-mechanics-electromagnetism-u1-kp2",
+  "title": "功、能与守恒定律",
+  "bookId": "college-physics-mechanics-electromagnetism",
+  "unitNumber": 1,
+  "unitTitle": "质点力学",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "功、能与守恒定律",
+      "question": "质量 1 kg 物体速度从 3 m/s 增到 5 m/s，合外力做功多少 J？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$\\Delta E_k=\\frac12\\times1\\times(25-9)=8$ J。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "功、能与守恒定律",
+      "question": "只有保守力做功时机械能守恒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "守恒条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "功、能与守恒定律",
+    "core_concept": "合力做功等于动能变化。只有保守力做功时机械能守恒；有摩擦时机械能转化为内能。",
+    "key_formula": "$W=\\Delta E_k$",
+    "common_mistakes": [
+      "漏算摩擦生热。"
+    ],
+    "tips": "先判断是否只有保守力做功。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u4-kp6",
+  "title": "字音辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 5,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "下面带点词语读音正确的一项是？",
+      "options": [
+        "干燥 (zào)",
+        "大概 (kài)",
+        "逆风 (lì)",
+        "腹部 (fǔ)"
+      ],
+      "answer": "干燥 (zào)",
+      "explanation": "概读 gài，逆读 nì，腹读 fù。"
+    }
+  ],
+  "knowledge": null
+}

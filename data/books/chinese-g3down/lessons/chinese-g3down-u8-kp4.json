@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u8-kp4",
+  "title": "字意辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字意辨析",
+      "question": "在《慢性子裁缝和急性子顾客》中，“性子”的“性”读音是 xìng。",
+      "options": [],
+      "answer": "对",
+      "explanation": "性子（xìng zi）中的性表示性格、脾气。"
+    }
+  ],
+  "knowledge": null
+}

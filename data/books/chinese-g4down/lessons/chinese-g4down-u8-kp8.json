@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp8",
+  "title": "多音字辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字辨析",
+      "question": "下列词语中，加点字“冲”的发音与其他三项不同的是：",
+      "options": [
+        "冲床",
+        "冲劲",
+        "冲着",
+        "冲刷"
+      ],
+      "answer": "冲刷",
+      "explanation": "“冲刷”发音为 chōng，其他三项皆为 chòng。"
+    }
+  ],
+  "knowledge": null
+}

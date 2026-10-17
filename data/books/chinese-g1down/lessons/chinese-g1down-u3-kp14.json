@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1down-u3-kp14",
+  "title": "动宾搭配",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动宾搭配",
+      "question": "帮词语找朋友，连一连。",
+      "options": [
+        "踢",
+        "跳",
+        "打",
+        "听",
+        "皮球",
+        "足球",
+        "音乐",
+        "绳"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "踢足球，跳绳，打皮球，听音乐。"
+    }
+  ],
+  "knowledge": null
+}

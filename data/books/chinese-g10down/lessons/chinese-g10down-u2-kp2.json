@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g10down-u2-kp2",
+  "title": "语言文字积累",
+  "bookId": "chinese-g10down",
+  "unitNumber": 2,
+  "unitTitle": "现代文阅读与语言文字运用",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "语言文字积累",
+      "question": "成语使用最忌讳的是（　）",
+      "options": [
+        "望文生义",
+        "恰当使用",
+        "结合语境",
+        "注意褒贬"
+      ],
+      "answer": "望文生义",
+      "explanation": "望文生义是常见错误。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "语言文字积累",
+      "question": "表达得体要考慮对象与场合。",
+      "options": [],
+      "answer": "对",
+      "explanation": "得体要求。"
+    }
+  ],
+  "knowledge": {
+    "point": "语言文字积累",
+    "core_concept": "语言运用要准确、简明、连贯、得体。成语使用要避免望文生义与褒贬误用。",
+    "key_formula": "准确 + 简明 + 连贯 + 得体",
+    "common_mistakes": [
+      "望文生义用成语。"
+    ],
+    "tips": "成语要看语境。"
+  }
+}

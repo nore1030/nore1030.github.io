@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Module 2 The natural world — The earth 我们的地球",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "环保词汇 protect / pollute / recycle",
+      "question": "「环境」的英文是（　）",
+      "options": [
+        "environment",
+        "envirnment",
+        "environmant",
+        "enviroment"
+      ],
+      "answer": "environment",
+      "explanation": "environment 环境。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 should / must",
+      "question": "「我们不应该污染环境。」的英文是（　）",
+      "options": [
+        "We shouldn't pollute the environment.",
+        "We shouldn't pollutes the environment.",
+        "We shouldn't to pollute the environment.",
+        "We don't should pollute the environment."
+      ],
+      "answer": "We shouldn't pollute the environment.",
+      "explanation": "shouldn't + 原形。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 should / must",
+      "question": "should 表示「应该」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表建议。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "环保词汇 protect / pollute / recycle",
+      "question": "为了环保，饮料瓶可以（　）",
+      "options": [
+        "recycle",
+        "pollute",
+        "waste",
+        "litter"
+      ],
+      "answer": "recycle",
+      "explanation": "回收利用。"
+    }
+  ],
+  "knowledge": null
+}

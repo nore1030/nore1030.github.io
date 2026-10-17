@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的空气",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空气的组成",
+      "question": "测定空气中氧气含量的实验中，能替代红磷的物质应满足（　）",
+      "options": [
+        "能与氧气反应且生成物为固体",
+        "易溶于水",
+        "与氮气反应",
+        "燃烧生成气体"
+      ],
+      "answer": "能与氧气反应且生成物为固体",
+      "explanation": "保证气体减少量等于氧气量。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "氧气的性质与制取",
+      "question": "加热 31.6 g 高锰酸钾，理论上生成氧气的物质的量为 0.1 mol，其质量是多少 g？（氧气摩尔质量 32 g/mol）",
+      "options": [],
+      "answer": "3.2",
+      "explanation": "$m=nM=0.1\\times32=3.2$ g。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "氧气的实验室制法操作",
+      "question": "用向上排空气法收集氧气是因为氧气密度比空气大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "密度大于空气。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "氧气的性质与制取",
+      "question": "下列属于氧气化学性质的是（　）",
+      "options": [
+        "无色无味",
+        "不易溶于水",
+        "支持燃烧",
+        "密度比空气大"
+      ],
+      "answer": "支持燃烧",
+      "explanation": "支持燃烧是化学性质。"
+    }
+  ],
+  "knowledge": null
+}

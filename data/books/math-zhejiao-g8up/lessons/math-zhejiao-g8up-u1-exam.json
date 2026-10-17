@@ -1,0 +1,61 @@
+{
+  "id": "math-zhejiao-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "平方根与实数",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "$\\sqrt{16}=4$，而 $\\sqrt{16}$ 的算术平方根是 4。",
+      "options": [],
+      "answer": "对",
+      "explanation": "算术平方根。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "立方根与无理数",
+      "question": "下列各数中无理数是（　）",
+      "options": [
+        "$\\sqrt{2}$",
+        "0.5",
+        "3",
+        "$\\frac{2}{3}$"
+      ],
+      "answer": "$\\sqrt{2}$",
+      "explanation": "$\\sqrt{2}$ 是无理数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "只有 $a \\ge 0$ 时 $a$ 才有平方根。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平方根存在条件。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "立方根与无理数",
+      "question": "$\\sqrt{2}$ 是无理数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "无理数。"
+    }
+  ],
+  "knowledge": null
+}

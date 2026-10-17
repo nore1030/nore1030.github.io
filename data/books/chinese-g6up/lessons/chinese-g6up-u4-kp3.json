@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g6up-u4-kp3",
+  "title": "心理活动的细腻刻画",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 2,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "《穷人》一课中，桑娜的内心矛盾充分展现了她善良淳朴的品质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "桑娜在生活艰难的情况下收留邻居的孩子，其内心的挣扎更能映衬出品德的高尚。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "《穷人》一文中‘桑娜脸色苍白，神情激动。’这段描写属于：",
+      "options": [
+        "动作描写",
+        "神态描写反映心理",
+        "语言描写",
+        "环境描写"
+      ],
+      "answer": "神态描写反映心理",
+      "explanation": "通过脸色和神态的描写，间接表现了桑娜紧张和担忧的内心世界。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "‘他会说什么呢？这是闹着玩的吗？自己的五个孩子已经够他受的了……’这里运用了性格描写中的（___）描写。",
+      "options": [],
+      "answer": "心理",
+      "explanation": "这是典型的内心独白，属于心理描写。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "心理活动的细腻刻画",
+      "question": "将描写桑娜心理忐忑的词语排成句。",
+      "options": [
+        "她的",
+        "跳得",
+        "厉害",
+        "心"
+      ],
+      "answer": "她的,心,跳得,厉害",
+      "explanation": "考查简单的现代文陈述句语序。"
+    }
+  ],
+  "knowledge": {
+    "point": "心理活动的细腻刻画",
+    "core_concept": "心理描写是小说塑造人物个性的重要手段。它包括内心独白、梦境描写或通过神态肢体间接反映内心。在《穷人》中，作者运用了大量的心理描写来表现桑娜在收留孩子后的忐忑、矛盾和勇敢，这种‘内心的风暴’比外在的争吵更具震撼力，能深刻揭示人性底色。",
+    "key_formula": "心理描写 = 展现性格 + 揭示品质 + 解释动机",
+    "common_mistakes": [
+      "学生常混淆神态描写与心理描写，如看到‘脸色苍白’就认为是心理描写。",
+      "续写小说时，心理描写生硬，只会写‘他想’，不会通过矛盾挣扎来写。"
+    ],
+    "tips": "寻找‘……’省略号和问句，这些地方通常是内心犹豫徘徊的真实体现。"
+  }
+}

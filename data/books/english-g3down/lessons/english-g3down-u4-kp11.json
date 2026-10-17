@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp11",
+  "title": "指示代词",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 7,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指示代词",
+      "question": "Look! The cat is ___ the chair. (在椅子下面)",
+      "options": [
+        "on",
+        "in",
+        "under",
+        "to"
+      ],
+      "answer": "under",
+      "explanation": "under表示在...正下方。"
+    }
+  ],
+  "knowledge": null
+}

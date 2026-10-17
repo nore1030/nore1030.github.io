@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u1-kp6",
+  "title": "阅读理解",
+  "bookId": "chinese-g1down",
+  "unitNumber": 1,
+  "unitTitle": "识字（一）",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读理解",
+      "question": "读古诗《画》：远看山有色，近听水无声。春去花还在，人来鸟不惊。诗中提到的反义词不包括：",
+      "options": [
+        "远——近",
+        "有——无",
+        "去——来",
+        "大——小"
+      ],
+      "answer": "大——小",
+      "explanation": "诗中有远近、有无、去来，并没有提到大小。"
+    }
+  ],
+  "knowledge": null
+}

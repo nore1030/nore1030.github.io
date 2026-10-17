@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g6down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 12,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《鲁滨逊漂流记》是英国作家丹尼尔·笛福的作品。",
+      "options": [],
+      "answer": "对",
+      "explanation": "丹尼尔·笛福被称为“英国小说之父”。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多角度评价人物形象",
+      "question": "鲁滨逊在荒岛上非常悲观，他一直认为自己注定要死在岛上。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然有过消极念头，但他迅速调整心态，想办法改善生活环境。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多角度评价人物形象",
+      "question": "尼尔斯骑在大鹅背上不仅看到了瑞典的风光，心智也得到了成长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这不仅是一次地理旅行，更是一场心灵的洗礼。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "对比翻译法与语言特色",
+      "question": "多读不同国家的文学名著，可以让我们更开阔地了解世界。",
+      "options": [],
+      "answer": "对",
+      "explanation": "名著是了解异国文化、社会生活的窗口。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语言特色",
+      "question": "下列哪句话最能体现名著中“心理活动”的描写？",
+      "options": [
+        "他走进屋子坐了下来。",
+        "天空阴沉沉的，快要下雨了。",
+        "他心里矛盾极了：是去救人呢，还是逃跑？",
+        "桌子上放着一块发霉的面包。"
+      ],
+      "answer": "他心里矛盾极了：是去救人呢，还是逃跑？",
+      "explanation": "心理描写直接展示人物内心的挣扎或想法。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "缩写课文《鲁滨逊漂流记》梗概时，下列做法错误的是：",
+      "options": [
+        "删减次要的细节描写",
+        "保留核心的人物和情节",
+        "改变原著的故事顺序",
+        "理清故事的因果关系"
+      ],
+      "answer": "改变原著的故事顺序",
+      "explanation": "梗概应忠实于原著的情节逻辑和发展顺序。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "对比翻译法与语言特色",
+      "question": "不同译本对“Friday”的翻译不同，这提醒我们在阅读名著时要注意：",
+      "options": [
+        "翻译者的名字",
+        "出版日期",
+        "语言的独特性与翻译的多样性",
+        "字数的多寡"
+      ],
+      "answer": "语言的独特性与翻译的多样性",
+      "explanation": "引导学生通过翻译对比，更深层次地理解文学作品。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式转换",
+      "question": "将“鲁滨逊克服了重重困难。”改为反问句，正确的是：",
+      "options": [
+        "鲁滨逊怎么能不克服重重困难呢？",
+        "鲁滨逊克服重重困难了吗？",
+        "鲁滨逊必须要克服困难。",
+        "鲁滨逊一定能克服困难！"
+      ],
+      "answer": "鲁滨逊怎么能不克服重重困难呢？",
+      "explanation": "双重否定加反问表示强烈的肯定。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多角度评价人物形象",
+      "question": "对比鲁滨逊和汤姆·索亚，他们共同的特质是：",
+      "options": [
+        "都喜欢在荒岛生活",
+        "都有极强的探险精神和勇气",
+        "都非常听父母的话",
+        "都喜欢调皮捣蛋"
+      ],
+      "answer": "都有极强的探险精神和勇气",
+      "explanation": "这两部名著的人物都体现了对未知世界的探索和面对困难的勇敢。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "下列句子中标点符号使用正确的一项是：",
+      "options": [
+        "他想：我完了？",
+        "“救命啊！”他高声呼喊着。",
+        "这里有麦子。稻子。和一些杂豆。",
+        "快跑。别回头。"
+      ],
+      "answer": "“救命啊！”他高声呼喊着。",
+      "explanation": "引号和感叹号的使用符合对话与情感表达规范。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "《鲁滨逊漂流记》的节选部分由“梗概”和“（ ）”两部分组成。",
+      "options": [],
+      "answer": "精彩片段",
+      "explanation": "课文的编排结构是先大致了解全局，再精读片段。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度评价人物形象",
+      "question": "尼尔斯骑的那只雄鹅名字叫（ ）。",
+      "options": [],
+      "answer": "莫顿",
+      "explanation": "莫顿是带尼尔斯游历瑞典的关键角色。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情节特征连线",
+      "question": "请将书籍名称与其核心情节关键词连线：",
+      "options": [
+        "《鲁滨逊漂流记》",
+        "《尼尔斯骑鹅旅行记》",
+        "《汤姆·索亚历险记》",
+        "《爱丽丝漫游奇境》",
+        "游历地下世界",
+        "孤岛艰难求生",
+        "骑鹅俯瞰祖国",
+        "墓地见证凶案"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "考查学生对课内外名著情节的辨析力。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "请将动词与对应的名词进行连线：",
+      "options": [
+        "挖掘",
+        "驯养",
+        "度过",
+        "磨炼",
+        "山洞",
+        "野羊",
+        "难关",
+        "意志"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查课文中关于鲁滨逊生活劳动的常用词汇。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "语言表达",
+      "question": "请将下列词语排列成一句关于鲁滨逊生活状态的话：",
+      "options": [
+        "他",
+        "并没有",
+        "对生活",
+        "失去",
+        "信心"
+      ],
+      "answer": "他,并没有,对生活,失去,信心",
+      "explanation": "考察基础语序和人物形象总结。"
+    }
+  ],
+  "knowledge": null
+}

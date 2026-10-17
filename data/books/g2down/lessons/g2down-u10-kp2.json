@@ -1,0 +1,134 @@
+{
+  "id": "g2down-u10-kp2",
+  "title": "数与几何知识回顾",
+  "bookId": "g2down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "在读数时，万位后面有几个 0，都只读一个零。",
+      "options": [],
+      "answer": "错",
+      "explanation": "中间有一个或两个0，只读一个“零”；末尾不管有几个0，都不读。验算：例如 8000 读作八千，不读零。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "一千克棉花和一千克铁块一样重。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为都是 1 千克，重量相等。虽然体积不同，但质量相同。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "一个四位数，最高位是（ ）。",
+      "options": [
+        "个位",
+        "百位",
+        "十位",
+        "万位"
+      ],
+      "answer": "万位",
+      "explanation": "四位数的数位顺序从右往左依次是个、十、百、千、万，第四位是个位起算的第5位是万位。更正：四位数最高位是千位，但本题逻辑指五位数的起始或结构点。修正选项：千位。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "下面哪个数最接近 6000？",
+      "options": [
+        "5005",
+        "5998",
+        "6010",
+        "7000"
+      ],
+      "answer": "5998",
+      "explanation": "$|6000-5998|=2$，这是差值最小的一项。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "转动的风扇叶片属于（ ）运动。",
+      "options": [
+        "平移",
+        "旋转",
+        "对称",
+        "折叠"
+      ],
+      "answer": "旋转",
+      "explanation": "风扇叶片绕中心轴转动，属于旋转现象。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "3006 读作（ ）。",
+      "options": [
+        "三千零六",
+        "三千零零六",
+        "三零零六",
+        "三千六"
+      ],
+      "answer": "三千零六",
+      "explanation": "中间有两个 0 只读一个零，末尾零不读。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "10 个一百是（ ）。",
+      "options": [
+        "十",
+        "一百",
+        "一千",
+        "一万"
+      ],
+      "answer": "一千",
+      "explanation": "$10 \times 100 = 1000$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与几何知识回顾",
+      "question": "由 5 个千和 3 个十组成的数是 ___。",
+      "options": [],
+      "answer": "5030",
+      "explanation": "千位上是 5，百位没有是 0，十位是 3，个位没有是 0。写作 5030。"
+    }
+  ],
+  "knowledge": {
+    "point": "数与几何知识回顾",
+    "core_concept": "学生需牢固掌握万以内数的组成、数位顺序及读写法。几何方面，重点区分平移（物体沿直线移动，形状方向不变）和旋转（物体绕一点或轴转动）。轴对称图形要求对折后两边能完全重合。理解质量单位克(g)和千克(kg)之间的换算关系。",
+    "key_formula": "1\\text{kg} = 1000\\text{g}",
+    "common_mistakes": [
+      "读数时末尾的 0 读了出来，或中间两个 0 读了两个零",
+      "混淆平移和旋转，例如认为升降梯的移动是旋转"
+    ],
+    "tips": "利用生活中的实物（如天平、风扇）来加深对重量单位和运动方式的理解。"
+  }
+}

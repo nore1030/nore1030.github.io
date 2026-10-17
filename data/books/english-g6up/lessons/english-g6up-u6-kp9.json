@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp9",
+  "title": "词义理解",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "I failed the math test. I am very ______.",
+      "options": [
+        "happy",
+        "proud",
+        "sad",
+        "excited"
+      ],
+      "answer": "sad",
+      "explanation": "考试不及格通常感到伤心（sad）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-hujiao-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-hujiao-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 我的家人 / My family",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称呼",
+      "question": "“爸爸”的英语是（　）",
+      "options": [
+        "father",
+        "uncle",
+        "brother",
+        "teacher"
+      ],
+      "answer": "father",
+      "explanation": "爸爸 father。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形容词描述",
+      "question": "She ___ long hair.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "are"
+      ],
+      "answer": "has",
+      "explanation": "第三人称单数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称呼",
+      "question": "介绍家人可以说 This is my mother.",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍家人。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "形容词描述",
+      "question": "描述家人外貌要用合适的形容词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "形容词描述。"
+    }
+  ],
+  "knowledge": null
+}

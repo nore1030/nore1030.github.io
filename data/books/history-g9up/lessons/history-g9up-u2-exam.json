@@ -1,0 +1,66 @@
+{
+  "id": "history-g9up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "history-g9up",
+  "unitNumber": 2,
+  "unitTitle": "近代社会与革命道路",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "近代社会生活与教育文化",
+      "question": "近代新式学堂兴起促进了（　）",
+      "options": [
+        "近代教育改革",
+        "科举废除的唯一原因",
+        "经济发展",
+        "城市化"
+      ],
+      "answer": "近代教育改革",
+      "explanation": "新式学堂促改革。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "革命道路的探索",
+      "question": "中国近代化探索的顺序是（　）",
+      "options": [
+        "器物—制度—思想",
+        "思想—制度—器物",
+        "制度—器物—思想",
+        "思想—器物—制度"
+      ],
+      "answer": "器物—制度—思想",
+      "explanation": "层层深入。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "近代社会生活与教育文化",
+      "question": "剪辫、易服是近代社会习俗变革的表现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "习俗变革。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "革命道路的探索",
+      "question": "辛亥革命推翻了君主专制制度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "辛亥革命意义。"
+    }
+  ],
+  "knowledge": null
+}

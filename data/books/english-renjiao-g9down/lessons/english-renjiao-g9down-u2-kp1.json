@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9down-u2-kp1",
+  "title": "时间、条件与结果状语从句",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 2,
+  "unitTitle": "状语从句",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "时间、条件与结果状语从句",
+      "question": "If it ___ tomorrow, we will stay at home.",
+      "options": [
+        "will rain",
+        "rains",
+        "rained",
+        "is raining"
+      ],
+      "answer": "rains",
+      "explanation": "主将从现。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "时间、条件与结果状语从句",
+      "question": "在 if 引导的条件状语从句中用一般现在时表将来。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主将从现。"
+    }
+  ],
+  "knowledge": {
+    "point": "时间、条件与结果状语从句",
+    "core_concept": "时间状语从句用 when、while、as soon as、until 等；条件状语从句用 if、unless；结果状语从句用 so…that、such…that。主句将来时，从句一般用一般现在时。",
+    "key_formula": "主将从现",
+    "common_mistakes": [
+      "从句用 will。"
+    ],
+    "tips": "主将从现。"
+  }
+}

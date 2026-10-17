@@ -1,0 +1,32 @@
+{
+  "id": "science-g3up-u3-kp10",
+  "title": "云的识别",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "云的识别",
+      "question": "阴天时，云量通常占据了整个天空的四分之三以上。",
+      "options": [],
+      "answer": "对",
+      "explanation": "气象学规定云量覆盖天空80%及以上为阴天。"
+    }
+  ],
+  "knowledge": {
+    "point": "云的识别",
+    "core_concept": "根据云量判断天气，根据形态区分类型。",
+    "key_formula": "云量：晴(<1/4)、多云(1/4-3/4)、阴(>3/4)。形态：积云、层云、卷云。",
+    "common_mistakes": [
+      "分不清多云和阴天",
+      "认为卷云会带大暴雨"
+    ],
+    "tips": "高大的积雨云常伴随强降水，卷云出现通常预示着晴好天气。"
+  }
+}

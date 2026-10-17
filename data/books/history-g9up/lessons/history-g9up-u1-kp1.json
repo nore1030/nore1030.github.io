@@ -1,0 +1,47 @@
+{
+  "id": "history-g9up-u1-kp1",
+  "title": "古代科技思想文化",
+  "bookId": "history-g9up",
+  "unitNumber": 1,
+  "unitTitle": "古代文明与近代转型",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "古代科技思想文化",
+      "question": "提出“仁”思想的是（　）",
+      "options": [
+        "孔子",
+        "老子",
+        "墨子",
+        "韩非"
+      ],
+      "answer": "孔子",
+      "explanation": "孔子主张仁。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "古代科技思想文化",
+      "question": "活字印刷术由毕昇发明。",
+      "options": [],
+      "answer": "对",
+      "explanation": "毕昇发明活字印刷。"
+    }
+  ],
+  "knowledge": {
+    "point": "古代科技思想文化",
+    "core_concept": "战国时期诸子百家争鸣，儒家、道家、墨家、法家观点各异。古代科技有四大发明、张衡地动仪、祖冲之圆周率等。",
+    "key_formula": "百家争鸣 + 四大发明",
+    "common_mistakes": [
+      "把诸子百家与宗教混为一谈。"
+    ],
+    "tips": "诸子是思想家。"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "chinese-g4up-u7-kp2",
+  "title": "人物气节与品质赏析",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 0,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "梅兰芳蓄须是为了拒绝给侵略者登台演戏，表现了他的民族气节。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蓄须是梅兰芳先生反抗日本侵略者的重要手段。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "课文中提到“周恩来站了起来，清晰而坚定地回答道：‘为中华之崛起而读书！’”这句话应读出的语气是：",
+      "options": [
+        "好奇地询问",
+        "委婉地陈述",
+        "庄重且有力",
+        "愤怒地反击"
+      ],
+      "answer": "庄重且有力",
+      "explanation": "这展现了少年的远大志向，需读得清晰坚定。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "在《梅兰芳蓄须》中，梅兰芳为了不再演戏，在自己身上打了（   ）。",
+      "options": [],
+      "answer": "防疫针",
+      "explanation": "梅兰芳通过这种方式让自己发高烧，以躲避演出。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "请连词成句，描述梅兰芳的爱国行为：",
+      "options": [
+        "梅兰芳",
+        "蓄须吃药",
+        "宁愿",
+        "拒绝",
+        "日本人",
+        "登台演戏"
+      ],
+      "answer": "梅兰芳,宁愿,蓄须吃药,拒绝,日本人,登台演戏",
+      "explanation": "逻辑严密的句式，表达其坚定的态度。"
+    }
+  ],
+  "knowledge": null
+}

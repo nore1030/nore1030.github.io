@@ -1,0 +1,118 @@
+{
+  "id": "g1up-u4-kp2",
+  "title": "立体图形的特征分类",
+  "bookId": "g1up",
+  "unitNumber": 4,
+  "unitTitle": "认识图形（一）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "圆柱上下两个面都是圆圆的，而且大小一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆柱的特征是上下两个底面是完全相同的圆。验算：符合圆柱几何定义 ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "正方体是四四方方的，无法滚动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正方体由 6 个正方形组成，平平的，不能像球或圆柱那样滚动。验算：平面图形不具备滚动属性 ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "圆柱有几个平平的面？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "0 个"
+      ],
+      "answer": "2 个",
+      "explanation": "圆柱的上下两个底面是平平的圆，侧面是曲面。验算：$1 + 1 = 2$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "要把物体叠得很高又不倒下来，选哪种形状最好？",
+      "options": [
+        "球",
+        "长方体",
+        "圆柱横放",
+        "都有可能"
+      ],
+      "answer": "长方体",
+      "explanation": "长方体有平滑的大面，稳定性最强，适合堆叠。球易滚动不稳。验算：物理稳定性分析 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "侧面看上去是一个长方形，这个物体不可能是：",
+      "options": [
+        "长方体",
+        "圆柱",
+        "正方体",
+        "球"
+      ],
+      "answer": "球",
+      "explanation": "球从任何方向看都是圆的，不可能是长方形。验算：排除法确定 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "下列哪个物体既能滑动（平移）又能滚动？",
+      "options": [
+        "正方体",
+        "球",
+        "圆柱",
+        "长方体"
+      ],
+      "answer": "圆柱",
+      "explanation": "圆柱立着放只能滑动，横着放可以滚动。验算：多状态运动分析 ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "立体图形的特征分类",
+      "question": "小明有 2 个圆柱和 3 个长方体。他一共有 ___ 个几何图形物体。",
+      "options": [],
+      "answer": "5",
+      "explanation": "根据题意，计算物体总数。列式：$2 + 3 = 5$（个）。验算：$5 - 3 = 2$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "立体图形的特征分类",
+    "core_concept": "根据图形的运动特征和形状特征进行分类。球可以向任何方向滚动；圆柱横放可以滚动，竖放只能滑动；长方体和正方体只能滑动，堆叠时最稳定。这有助于培养学生的空间观测能力。",
+    "key_formula": "能滚动（含曲面）：圆柱、球；不能滚动（全平面）：长方体、正方体。",
+    "common_mistakes": [
+      "误认为圆柱只能滚动，忘记了它竖着放时是可以平稳滑动的。",
+      "认为所有圆圆的图形都能向四面八方滚动（其实圆柱只能向两个方向滚动）。"
+    ],
+    "tips": "记忆口诀：球儿圆圆滚得快，圆柱柱子站得稳，长方正方平平脸，堆高不倒最合群。"
+  }
+}

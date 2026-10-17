@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8up-u1-kp2",
+  "title": "无脊椎动物与分类",
+  "bookId": "biology-g8up",
+  "unitNumber": 1,
+  "unitTitle": "动物的主要类群",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "无脊椎动物与分类",
+      "question": "身体分节、有外骨骼的动物是（　）",
+      "options": [
+        "节肢动物",
+        "环节动物",
+        "线形动物",
+        "软体动物"
+      ],
+      "answer": "节肢动物",
+      "explanation": "节肢动物有外骨骼。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "无脊椎动物与分类",
+      "question": "动物分类可以依据形态结构和生活习性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分类依据多样。"
+    }
+  ],
+  "knowledge": {
+    "point": "无脊椎动物与分类",
+    "core_concept": "无脊椎动物包括腔肠动物、扁形动物、线形动物、环节动物、软体动物、节肢动物等。分类依据有形态结构、生活习性、亲缘关系。",
+    "key_formula": "节肢动物：外骨骼 + 附肢分节",
+    "common_mistakes": [
+      "把环节动物与节肢动物混淆。"
+    ],
+    "tips": "蚯蚓属环节动物。"
+  }
+}

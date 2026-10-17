@@ -1,0 +1,75 @@
+{
+  "id": "g5up-u3-kp4",
+  "title": "循环小数的相关概念",
+  "bookId": "g5up",
+  "unitNumber": 3,
+  "unitTitle": "小数除法",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "无限小数一定都是循环小数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "无限小数包括无限循环小数和无限不循环小数，如圆周率 $\\pi$ 是无限不循环小数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "$0.6666$ 是一个循环小数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "循环小数必须是无限的。$0.6666$ 是一个四位小数，属于有限小数。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "$5.3 \bdiv 11$ 的商用循环小数表示，正确的是哪一个？",
+      "options": [
+        "$0.4\bdot{8}\bdot{1}$",
+        "$0.\bdot{4}\bdot{8}$",
+        "$0.48181...$",
+        "$0.481...$"
+      ],
+      "answer": "$0.4\bdot{8}\bdot{1}$",
+      "explanation": "$5.3 \bdiv 11 = 0.48181...$，循环节是 81，所以记作 $0.4\bdot{8}\bdot{1}$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "循环小数的相关概念",
+      "question": "$3.2525...$ 的循环节是多少？",
+      "options": [
+        "25",
+        "325",
+        "52",
+        "2"
+      ],
+      "answer": "25",
+      "explanation": "循环小数中依次不断重复出现的数字叫做循环节，此题中 25 重复出现。"
+    }
+  ],
+  "knowledge": {
+    "point": "循环小数的相关概念",
+    "core_concept": "一个数的小数部分，从某一位起，一个数字或者几个数字依次不断重复出现，这样的小数叫循环小数。重复出现的数字叫循环节。可以只写一个循环节，在首位和末位数字上面点上小圆点表示。",
+    "key_formula": "循环小数记法：$0.333... = 0.\bdot{3}$",
+    "common_mistakes": [
+      "把有限小数误认为是循环小数",
+      "写循环记法时点错了位置"
+    ],
+    "tips": "循环小数必须是无限的。循环节是指最先开始重复的一段数字。"
+  }
+}

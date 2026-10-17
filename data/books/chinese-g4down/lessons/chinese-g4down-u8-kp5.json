@@ -1,0 +1,34 @@
+{
+  "id": "chinese-g4down-u8-kp5",
+  "title": "文学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《宝葫芦的秘密》作者是著名作家张天翼。",
+      "options": [],
+      "answer": "对",
+      "explanation": "张天翼是《宝葫芦的秘密》和《大林和小林》的作者。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《海的女儿》是安徒生童话中的经典名篇。",
+      "options": [],
+      "answer": "对",
+      "explanation": "安徒生是丹麦著名童话作家，《海的女儿》是其代表作。"
+    }
+  ],
+  "knowledge": null
+}

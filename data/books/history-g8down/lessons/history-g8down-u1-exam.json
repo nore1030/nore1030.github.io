@@ -1,0 +1,66 @@
+{
+  "id": "history-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "history-g8down",
+  "unitNumber": 1,
+  "unitTitle": "近代化探索与民族复兴",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代化探索的历程",
+      "question": "在中国近代化历程中，学习制度的主要事件是（　）",
+      "options": [
+        "戊戌变法和辛亥革命",
+        "洋务运动",
+        "新文化运动",
+        "义和团运动"
+      ],
+      "answer": "戊戌变法和辛亥革命",
+      "explanation": "制度学习阶段。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "五四运动与中国共产党成立",
+      "question": "五四运动中开始登上政治舞台的是（　）",
+      "options": [
+        "工人阶级",
+        "资产阶级",
+        "地主阶级",
+        "农民阶级"
+      ],
+      "answer": "工人阶级",
+      "explanation": "工人阶级登上舞台。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代化探索的历程",
+      "question": "新文化运动高举民主与科学的旗帜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "民主与科学。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "五四运动与中国共产党成立",
+      "question": "五四运动促进了马克思主义在中国的传播。",
+      "options": [],
+      "answer": "对",
+      "explanation": "传播马克思主义。"
+    }
+  ],
+  "knowledge": null
+}

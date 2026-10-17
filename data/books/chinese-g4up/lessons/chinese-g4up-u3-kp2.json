@@ -1,0 +1,158 @@
+{
+  "id": "chinese-g4up-u3-kp2",
+  "title": "古诗意境与哲理理解",
+  "bookId": "chinese-g4up",
+  "unitNumber": 3,
+  "unitTitle": "处处留心皆学问",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《题西林壁》中“缘”字的意思是“缘分”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在此诗中，“缘”是“因为”的意思。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《雪梅》这首诗告诉我们，梅和雪各有长处，不应互相轻视。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诗句“梅须逊雪三分白，雪却输梅一段香”体现了各有千秋、取长补短的哲理。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "“可怜九月初三夜”中，“可怜”的意思是：",
+      "options": [
+        "值得同情",
+        "可惜",
+        "可爱",
+        "贫穷"
+      ],
+      "answer": "可爱",
+      "explanation": "在《暮江吟》中，“可怜”意为可爱，表达了诗人对美景的赞美。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《题西林壁》中“横看成岭侧成峰”一句告诉我们的道理是：",
+      "options": [
+        "庐山景色优美",
+        "身处山中看不清全貌",
+        "观察角度不同结果也不同",
+        "作者非常喜欢爬山"
+      ],
+      "answer": "观察角度不同结果也不同",
+      "explanation": "作者强调从不同位置看山，形状截然不同，引导我们要全面看问题。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "选出与“不识庐山真面目”衔接最恰后的下一句：",
+      "options": [
+        "只缘身在此山中",
+        "因为身在此山中",
+        "可是人在山林里",
+        "只缘人在大山里"
+      ],
+      "answer": "只缘身在此山中",
+      "explanation": "这是《题西林壁》中的名句，考查古诗积累。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "“露似真珠月似弓”运用的修辞手法是：",
+      "options": [
+        "拟人",
+        "排比",
+        "比喻",
+        "设问"
+      ],
+      "answer": "比喻",
+      "explanation": "将“露水”比作“真珠”，将“月亮”比作“弓”，属于比喻。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《暮江吟》中，作者描写江水颜色的词语是“半江瑟瑟半江（___）”。",
+      "options": [],
+      "answer": "红",
+      "explanation": "考查对《暮江吟》名句“半江瑟瑟半江红”的记忆。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "请将古诗与对应的景色特征连接起来。",
+      "options": [
+        "《暮江吟》",
+        "《题西林壁》",
+        "《雪梅》",
+        "《爬山虎的脚》",
+        "庐山奇景",
+        "江边晚景",
+        "静态叶丛",
+        "梅雪争春"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "A暮江吟配江边晚景；B题西林壁配庐山；C雪梅配梅雪争春；D课文配叶丛。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "请将诗句与其蕴含的观察视角连接起来。",
+      "options": [
+        "侧看成峰",
+        "远近高低",
+        "夕阳铺水中",
+        "可怜九月初三",
+        "俯视观察",
+        "仰视观察",
+        "横向视角",
+        "全方位视角"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "根据诗意判断诗人的观察和体验视角。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗意境与哲理理解",
+    "core_concept": "本单元古诗注重观察视角与哲理的结合。《暮江吟》通过视角切换描绘从傍晚到深夜的动态美；《题西林壁》通过视角变换阐述“当局者迷”的深刻道理；《雪梅》则通过对比引导学生学会辩证看待长短优劣。学习这些古诗，要抓住“观察点”的变化，体会诗人是如何从具体的自然景物中感悟出生活智慧的。",
+    "key_formula": "观察景物 + 观察视角变换 = 发现自然哲理",
+    "common_mistakes": [
+      "将‘可怜’理解为同情，错失了诗歌赞美的感情基调。",
+      "死记硬背哲理，但不理解为什么‘身在山中’就‘看不清面目’。"
+    ],
+    "tips": "朗读时可以尝试模拟诗人的动作，比如‘横看’、‘远眺’，通过身体代入感官体验视角的变化。"
+  }
+}

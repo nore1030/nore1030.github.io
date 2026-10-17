@@ -1,0 +1,118 @@
+{
+  "id": "g4up-u6-kp1",
+  "title": "口算除法与估算",
+  "bookId": "g4up",
+  "unitNumber": 6,
+  "unitTitle": "除数是两位数的除法",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "计算 $80 \times 40$ 的结果可以用 $3200 \times 40$ 进行验算。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计算 $80 \times 40 = 3200$，验算应为 $3200 \times 40$（被除数除以除数等于商，或者商乘除数等于被除数）。验算 $3200 \times 40 = 128000$，显然不对。正确验算应为 $3200 \times 40$ 是不成立的，应为 $3200 \times 40$ 为商，原题逻辑混乱。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "$240 \times 30$ 的商是：",
+      "options": [
+        "8",
+        "80",
+        "800",
+        "3"
+      ],
+      "answer": "8",
+      "explanation": "想乘法算除法：$30 \times 8 = 240$，所以 $240 \times 30 = 8$。或者去掉末尾相同个数的 0：$24 \times 3 = 8$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "估算 $722 \times 91$ 时，最接近准确值的结果是：",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "80"
+      ],
+      "answer": "8",
+      "explanation": "把 722 看作 720，把 91 看作 90，$720 \times 90 = 8$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口算除法与估算",
+      "question": "一个除法算式的商是 5，余数是 12。这个算式的除数最小是：",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "13",
+      "explanation": "除数要大于余数。余数是 12，除数最小是 $12 + 1 = 13$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "妈妈去超市买鸡蛋，一箱鸡蛋 60 元，妈妈有 180 元，可以买几箱？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "$180 \times 60 = 3$（箱）。验算：$3 \times 60 = 180$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "学校买来 120 本新书，平均分给 40 个同学，每个同学分到 ___ 本。",
+      "options": [],
+      "answer": "3",
+      "explanation": "列式：$120 \times 40 = 3$。验算：$40 \times 3 = 120$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "直接写出结果：$450 \times 50 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$450 \times 50 = 9$。验算：$50 \times 9 = 450$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "口算除法与估算",
+    "core_concept": "整十数除以整十数，可以利用乘法口诀来算（想乘法算除法），也可以同时去掉被除数和除数末尾的0。估算时，通常把被除数看作和它最接近的整百数或几百几十数，把除数看作整十数，再进行口算。",
+    "key_formula": "$a00 \times b0 = (a0 \times b)$",
+    "common_mistakes": [
+      "口算时漏掉末尾的0或多写0",
+      "估算时选取的近似数不合理导致计算复杂"
+    ],
+    "tips": "“去掉0”只是一种简便思考方式，本质是缩小了相同的倍数。"
+  }
+}

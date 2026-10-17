@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g4up-u2-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g4up",
+  "unitNumber": 2,
+  "unitTitle": "提问策略",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "阅读《夜间飞行的秘密》，画线词语“横七竖八”的意思是什么？",
+      "options": [
+        "形容东西很多",
+        "形容杂乱无章",
+        "形容非常有规律",
+        "形容数量极少"
+      ],
+      "answer": "形容杂乱无章",
+      "explanation": "文中描述绳子排布乱，选项中杂乱无章最为符合。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "“忽如一夜春风来，千树万树梨花开。”诗句中“梨花”是指什么？",
+      "options": [
+        "美丽的梨树花",
+        "洁白的雪花",
+        "柳絮",
+        "白云"
+      ],
+      "answer": "洁白的雪花",
+      "explanation": "这是《呼风唤雨的世纪》引用的诗句，比喻现代科学成就如雪花般纷纷呈现。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列词语与它们的意思正确连接。",
+      "options": [
+        "洞察",
+        "潜伏",
+        "依赖",
+        "奥秘",
+        "深奥的秘密",
+        "观察得透彻",
+        "依靠",
+        "隐藏"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "考查课文核心词组的词义理解。"
+    }
+  ],
+  "knowledge": null
+}

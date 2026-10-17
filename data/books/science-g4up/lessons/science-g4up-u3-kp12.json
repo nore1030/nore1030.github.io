@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp12",
+  "title": "力的单位",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "力的单位",
+      "question": "在科学上，力的单位是（___）。",
+      "options": [
+        "牛顿",
+        "米",
+        "千克",
+        "摄氏度"
+      ],
+      "answer": "牛顿",
+      "explanation": "国际单位制中，力的单位以牛顿命名。"
+    }
+  ],
+  "knowledge": null
+}

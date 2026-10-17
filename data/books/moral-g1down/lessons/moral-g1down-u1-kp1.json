@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1down-u1-kp1",
+  "title": "生活中的好习惯",
+  "bookId": "moral-g1down",
+  "unitNumber": 1,
+  "unitTitle": "好习惯伴成长",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的好习惯",
+      "question": "下面做法正确的是（　）",
+      "options": [
+        "饭前不洗手",
+        "早晚都刷牙",
+        "挑食只吃肉",
+        "睡前吃糖"
+      ],
+      "answer": "早晚都刷牙",
+      "explanation": "早晚刷牙护牙齿。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活中的好习惯",
+      "question": "不能挑食偏食，要样样都吃。",
+      "options": [],
+      "answer": "对",
+      "explanation": "挑食影响健康。"
+    }
+  ],
+  "knowledge": {
+    "point": "生活中的好习惯",
+    "core_concept": "饭前便后洗手、早晚刷牙、按时睡觉起床、不挑食偏食，这些都是生活好习惯。",
+    "key_formula": "讲卫生、不挑食",
+    "common_mistakes": [
+      "饭前不洗手直接吃饭。"
+    ],
+    "tips": "好习惯要坚持。"
+  }
+}

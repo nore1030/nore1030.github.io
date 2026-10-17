@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp11",
+  "title": "阅读理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 7,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "‘池水清清的，像一面镜子。’这句话运用的修辞手法是：",
+      "options": [
+        "拟人",
+        "排比",
+        "比喻",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "把池水比作镜子。"
+    }
+  ],
+  "knowledge": null
+}

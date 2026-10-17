@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1up-u1-kp2",
+  "title": "新习惯与守规则",
+  "bookId": "moral-g1up",
+  "unitNumber": 1,
+  "unitTitle": "我是小学生啦",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "新习惯与守规则",
+      "question": "课间不能在走廊里追逐打闹。",
+      "options": [],
+      "answer": "对",
+      "explanation": "追逐打闹容易发生危险。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "新习惯与守规则",
+      "question": "下面哪种做法是整理书包的好习惯（　）",
+      "options": [
+        "让妈妈每天帮我装",
+        "前一天晚上自己按课表整理",
+        "把书全部堆在书包里",
+        "不带作业本"
+      ],
+      "answer": "前一天晚上自己按课表整理",
+      "explanation": "自己整理书包是好习惯。"
+    }
+  ],
+  "knowledge": {
+    "point": "新习惯与守规则",
+    "core_concept": "校园里要遵守规则：排好队、不追逐打闹、爱护书本和公物。好的生活习惯包括早睡早起、自己整理书包。",
+    "key_formula": "守规则、讲卫生",
+    "common_mistakes": [
+      "让父母代整理书包。"
+    ],
+    "tips": "自己的事情学着做。"
+  }
+}

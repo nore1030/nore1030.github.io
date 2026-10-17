@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g1down-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 13,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "益虫捕食领域归类",
+      "question": "青蛙害虫和益虫都吃，所以它不是益虫。",
+      "options": [],
+      "answer": "错",
+      "explanation": "青蛙主要吃田间的害虫，是人类的好朋友。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "偏旁归类识字法",
+      "question": "“狮、猫、猩”都是反犬旁，说明它们都是兽类。",
+      "options": [],
+      "answer": "对",
+      "explanation": "反犬旁（犭）起源于“狗”的形状，代表哺乳纲动物或兽类。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "科普常识",
+      "question": "朝霞不出门，晚霞行千里。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是一句气象谚语，讲的是天气的预兆。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "字形辨析",
+      "question": "“惊”和“怕”都是心字底的字。",
+      "options": [],
+      "answer": "错",
+      "explanation": "它们是竖心旁，而不是心字底。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "科普常识",
+      "question": "下雨前，蚂蚁会发生什么行为？",
+      "options": [
+        "搬家",
+        "唱歌",
+        "睡觉",
+        "游泳"
+      ],
+      "answer": "搬家",
+      "explanation": "民间谚语说：蚂蚁搬家蛇过道，大雨不久要来到。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "老牛的尾巴就像一把（）。",
+      "options": [
+        "扇子",
+        "苍蝇拍",
+        "剪刀",
+        "雨伞"
+      ],
+      "answer": "苍蝇拍",
+      "explanation": "老牛用尾巴赶苍蝇。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "短文理解",
+      "question": "兰兰过桥时看到了流水、游鱼。这描写的是哪种桥？",
+      "options": [
+        "独木桥",
+        "潜水桥",
+        "立交桥",
+        "石拱桥"
+      ],
+      "answer": "潜水桥",
+      "explanation": "出自课文《兰兰过桥》，潜水桥能看到水下景象。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“熟”字在“成熟”中的读音是（）。",
+      "options": [
+        "shú",
+        "shóu",
+        "sú",
+        "shuo"
+      ],
+      "answer": "shú",
+      "explanation": "正规读音为shú。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词",
+      "question": "“高兴”的反义词是（）。",
+      "options": [
+        "开心",
+        "快乐",
+        "伤心",
+        "兴奋"
+      ],
+      "answer": "伤心",
+      "explanation": "高兴和伤心是一对反义词。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式结构",
+      "question": "“多么”可以用在下面哪个句子里？",
+      "options": [
+        "你是谁？",
+        "这里（ ）美丽啊！",
+        "他走过来。",
+        "我写完作业。"
+      ],
+      "answer": "这里（ ）美丽啊！",
+      "explanation": "“多么”常用于感叹句中。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁基础",
+      "question": "“鸡、鸭、鹅”的共同偏旁是（___）字旁。",
+      "options": [],
+      "answer": "鸟",
+      "explanation": "都是禽类，含有鸟字旁。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文填空",
+      "question": "燕子捉（___）的害虫。",
+      "options": [],
+      "answer": "空中",
+      "explanation": "燕子捕捉空中的飞虫。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "请将动词和名词正确连线。",
+      "options": [
+        "捉",
+        "借",
+        "甩",
+        "抬",
+        "尾巴",
+        "害虫",
+        "重物",
+        "绳子"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考察动词搭配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物尾巴的功能性",
+      "question": "动物们用尾巴做什么？",
+      "options": [
+        "小鱼",
+        "牛儿",
+        "燕子",
+        "壁虎",
+        "挡苍蝇",
+        "拨水",
+        "逃生",
+        "掌握平衡"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "燕子飞行时用尾巴平衡。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式结构",
+      "question": "连词成句。",
+      "options": [
+        "棉花姑娘",
+        "生病了",
+        "叶子上",
+        "长满了",
+        "蚜虫"
+      ],
+      "answer": "棉花姑娘,生病了,叶子上,长满了,蚜虫",
+      "explanation": "按照课文原句排序。"
+    }
+  ],
+  "knowledge": null
+}

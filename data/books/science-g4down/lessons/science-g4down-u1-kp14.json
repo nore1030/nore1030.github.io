@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp14",
+  "title": "花的结构",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "花的结构",
+      "question": "凤仙花由花萼、花瓣、雄蕊和雌蕊四部分组成，它属于（）。",
+      "options": [
+        "不完全花",
+        "完全花",
+        "单性花",
+        "雌花"
+      ],
+      "answer": "完全花",
+      "explanation": "四部分俱全的花被称为完全花。"
+    }
+  ],
+  "knowledge": null
+}

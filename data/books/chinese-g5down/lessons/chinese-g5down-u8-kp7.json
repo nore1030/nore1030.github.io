@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u8-kp7",
+  "title": "标点符号选择",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 5,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "'难道你是想说我不好看吗（ ）'此处应该填入哪种标点？",
+      "options": [
+        "。",
+        "！",
+        "？",
+        "……"
+      ],
+      "answer": "？",
+      "explanation": "疑问句句尾使用问号。"
+    }
+  ],
+  "knowledge": null
+}

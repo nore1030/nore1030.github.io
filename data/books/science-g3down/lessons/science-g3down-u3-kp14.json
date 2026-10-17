@@ -1,0 +1,28 @@
+{
+  "id": "science-g3down-u3-kp14",
+  "title": "月相规律",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 8,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月相规律",
+      "question": "我们通常在农历（）的时候能看到满月。",
+      "options": [
+        "初一",
+        "初七",
+        "十五",
+        "二十"
+      ],
+      "answer": "十五",
+      "explanation": "每逢农历十五或十六，太阳和月球位于地球两侧，月面全部朝向地球。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "moral-g5up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g5up",
+  "unitNumber": 2,
+  "unitTitle": "情感与家庭",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "亲情与沟通",
+      "question": "父母工作忙时，我们应当（　）",
+      "options": [
+        "体谅并自己做力所能及的事",
+        "无理取闹",
+        "故意添乱",
+        "不写作业"
+      ],
+      "answer": "体谅并自己做力所能及的事",
+      "explanation": "体谅父母。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "感恩与回报",
+      "question": "感恩不一定要用昂贵的东西表达。",
+      "options": [],
+      "answer": "对",
+      "explanation": "贵在心意。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "感恩与回报",
+      "question": "我们应该用（　）来回报父母",
+      "options": [
+        "优异成绩与懂事",
+        "攀比消费",
+        "顶撞他们",
+        "任性要求"
+      ],
+      "answer": "优异成绩与懂事",
+      "explanation": "懂事是最好的回报。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "亲情与沟通",
+      "question": "家庭成员之间应该相互尊重。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相互尊重。"
+    }
+  ],
+  "knowledge": null
+}

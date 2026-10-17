@@ -1,0 +1,63 @@
+{
+  "id": "math-sujiao-g1up-u4-kp1",
+  "title": "上下、前后",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 4,
+  "unitTitle": "认位置",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上下、前后",
+      "question": "国旗挂在黑板的（　）方",
+      "options": [
+        "上",
+        "下",
+        "前",
+        "后"
+      ],
+      "answer": "上",
+      "explanation": "国旗在上方。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "上下、前后",
+      "question": "我在妈妈的前面，妈妈就在我的（　）",
+      "options": [
+        "后面",
+        "前面",
+        "上面",
+        "左面"
+      ],
+      "answer": "后面",
+      "explanation": "前后相对。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "上下、前后",
+      "question": "上和下是相对的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相对位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "上下、前后",
+    "core_concept": "上下：位置高的为上、低的为下；前后：面对的一方为前、背对的一方为后。",
+    "key_formula": "上 / 下 / 前 / 后",
+    "common_mistakes": [
+      "不说参照物就说上下。"
+    ],
+    "tips": "先说明以谁为参照。"
+  }
+}

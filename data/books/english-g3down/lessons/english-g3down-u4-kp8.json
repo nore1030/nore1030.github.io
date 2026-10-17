@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp8",
+  "title": "习惯表达",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 4,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "习惯表达",
+      "question": "当你想祝别人玩得开心时，可以说：'Have a good time!'",
+      "options": [],
+      "answer": "对",
+      "explanation": "Have a good time意为玩得开心。"
+    }
+  ],
+  "knowledge": null
+}

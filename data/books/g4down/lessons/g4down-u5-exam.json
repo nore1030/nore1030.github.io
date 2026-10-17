@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 5,
+  "unitTitle": "三角形",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三角形的分类",
+      "question": "直角三角形中只有一个直角。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如果有两个直角，内角和就超过 180 度了（$90+90=180$），无法形成三角形。验算：$90+90+1=181 > 180$。 ✓"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "三角形三边关系定理",
+      "question": "只要两条边的和大于第三边，就一定能围成三角形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须是“任意”两条边的和大于第三边。验算：定义必须严谨。 ✓"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三角形的定义、高与稳定性",
+      "question": "由三条线段组成的图形叫做三角形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "定义应为“由三条线段围成（首尾相接）”，组成不代表首尾相接。 ✓"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "六边形可以分割成4个三角形，所以内角和是720度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "从一个顶点出发可以引出3条对角线，分成4个三角形。$180 \\times 4 = 720$。 ✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的分类",
+      "question": "等边三角形也是一种特殊的什么三角形？",
+      "options": [
+        "等腰三角形",
+        "直角三角形",
+        "钝角三角形",
+        "不等边三角形"
+      ],
+      "answer": "等腰三角形",
+      "explanation": "三边相等的等边三角形符合两边相等的等腰三角形定义。 ✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三角形的内角和",
+      "question": "在一个等腰三角形中，顶角是底角的2倍，这个三角形是什么三角形？",
+      "options": [
+        "锐角三角形",
+        "直角三角形",
+        "钝角三角形",
+        "等边三角形"
+      ],
+      "answer": "直角三角形",
+      "explanation": "底角为1份，顶角为2份，总共4份。$180 \\div 4 = 45$，顶角 $45 \\times 2 = 90$。所以是直角三角形。 ✓"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的内角和",
+      "question": "一个三角形的三个内角都相等，它是？",
+      "options": [
+        "直角三角形",
+        "等边三角形",
+        "等腰直角三角形",
+        "钝角三角形"
+      ],
+      "answer": "等边三角形",
+      "explanation": "三个内角相等均为60度，三条边也相等，即为等边三角形。 ✓"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的定义、高与稳定性",
+      "question": "画三角形的高时，通常使用哪种工具更标准？",
+      "options": [
+        "量角器",
+        "三角尺",
+        "圆规",
+        "剪刀"
+      ],
+      "answer": "三角尺",
+      "explanation": "利用三角尺的直角边可以画垂线。 ✓"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "要把一个六边形分成若干个三角形，从一个顶点出发可以引几条对角线？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3",
+      "explanation": "$n-3$ 公式。$6 - 3 = 3$。由此分成4个三角形。 ✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的稳定性",
+      "question": "窗户推拉不灵活，木工师傅在窗框上斜钉一根木条，是应用了三角形的？",
+      "options": [
+        "对称性",
+        "稳定性",
+        "美观性",
+        "易变形性"
+      ],
+      "answer": "稳定性",
+      "explanation": "斜钉木条形成三角形，利用其稳定性固定窗框。 ✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三角形三边关系定理",
+      "question": "用长3, 3, 5, 5厘米的四根小棒，可以摆出几个形状不同的等腰三角形？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "组合一(3,3,5):$3+3>5$成；组合二(5,5,3):$5+5>3$成。故2个。 ✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的分类",
+      "question": "大三角形的内角和与小三角形的内角和相比？",
+      "options": [
+        "一样大",
+        "大三角形大",
+        "小三角形大",
+        "无法比"
+      ],
+      "answer": "一样大",
+      "explanation": "所有三角形内角和均为180度。 ✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的内角和",
+      "question": "等腰三角形的一个底角是70度，它的顶角是 ___ 度。",
+      "options": [],
+      "answer": "40",
+      "explanation": "$180 - 70 \\times 2 = 40$。验算：$70 + 70 + 40 = 180$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "八边形的内角和是 ___ 度。",
+      "options": [],
+      "answer": "1080",
+      "explanation": "$(8-2) \\times 180 = 1080$。验算：$1080 \\div 180 = 6$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的内角和",
+      "question": "$180 - 110 - 35 = ?$",
+      "options": [],
+      "answer": "35",
+      "explanation": "$180 - 110 = 70$，$70 - 35 = 35$。验算：$35 + 35 + 110 = 180$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

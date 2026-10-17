@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp7",
+  "title": "理解阅读",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：要是你在野外迷了路，可千万别慌张。大自然有许多天然的指南针，会帮助你辨别方向。文中“天然”的意思是？",
+      "options": [
+        "非常漂亮",
+        "自然生成的",
+        "昂贵的",
+        "奇怪的"
+      ],
+      "answer": "自然生成的",
+      "explanation": "天然指自然界本身就有的，非人工制造。"
+    }
+  ],
+  "knowledge": null
+}

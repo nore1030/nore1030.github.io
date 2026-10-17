@@ -1,0 +1,44 @@
+{
+  "id": "science-g3down-u3-kp12",
+  "title": "地球形状证据",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 6,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球形状证据",
+      "question": "在海边观察进港的帆船时，最先看到的是（）。",
+      "options": [
+        "整只船",
+        "船底",
+        "桅杆",
+        "海浪"
+      ],
+      "answer": "桅杆",
+      "explanation": "因为地球是球性的，进港的船先出桅杆，出港的船先匿船身。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球形状证据",
+      "question": "在月食时，地球投射在月球上的影子总是（）边缘。",
+      "options": [
+        "直线",
+        "锯齿状",
+        "圆弧形",
+        "方形"
+      ],
+      "answer": "圆弧形",
+      "explanation": "这是地球是球体的重要科学证据之一。"
+    }
+  ],
+  "knowledge": null
+}

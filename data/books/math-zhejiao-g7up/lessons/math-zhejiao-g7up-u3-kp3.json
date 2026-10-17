@@ -1,0 +1,53 @@
+{
+  "id": "math-zhejiao-g7up-u3-kp3",
+  "title": "立方根与实数的运算",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "第3章 实数",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "立方根与实数的运算",
+      "question": "计算：$\\sqrt[3]{8} = $ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$\\sqrt[3]{8} = 2$，因为 2 的立方是 8。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "立方根与实数的运算",
+      "question": "计算：$\\sqrt[3]{27} = $ ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$\\sqrt[3]{27} = 3$，因为 3 的立方是 27。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "立方根与实数的运算",
+      "question": "计算：$\\sqrt[3]{-27} = $ ？",
+      "options": [],
+      "answer": "-3",
+      "explanation": "$\\sqrt[3]{-27} = -3$，因为 -3 的立方是 -27。"
+    }
+  ],
+  "knowledge": {
+    "point": "立方根与实数的运算",
+    "core_concept": "若 $x^3=a$，则 $x$ 叫 $a$ 的立方根，记 $\\sqrt[3]a$；任何实数都有且只有一个立方根。实数大小比较：正数 > 0 > 负数，原点右边越大。",
+    "key_formula": "$\\sqrt[3]a$",
+    "common_mistakes": [
+      "认为负数没有立方根。"
+    ],
+    "tips": "负数有立方根。"
+  }
+}

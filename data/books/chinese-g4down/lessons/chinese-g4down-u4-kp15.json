@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u4-kp15",
+  "title": "动物特征匹配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物特征匹配",
+      "question": "将动物与其在文章中体现出的性格特点相连。",
+      "options": [
+        "白鹅",
+        "猫",
+        "母鸡",
+        "白公鹅",
+        "慈爱勇敢",
+        "高傲十足",
+        "海军上将",
+        "古怪可爱"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "根据丰子恺、老舍、叶·诺索夫的课文内容进行性格匹配。"
+    }
+  ],
+  "knowledge": null
+}

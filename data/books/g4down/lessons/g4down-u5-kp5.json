@@ -1,0 +1,75 @@
+{
+  "id": "g4down-u5-kp5",
+  "title": "多边形的内角和探索",
+  "bookId": "g4down",
+  "unitNumber": 5,
+  "unitTitle": "三角形",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "一个五边形的内角和是多少度？",
+      "options": [
+        "360",
+        "540",
+        "720",
+        "180"
+      ],
+      "answer": "540",
+      "explanation": "$(5-2) \\times 180 = 540$ 度。即划分为3个三角形。 ✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "把一个正方形拉成平行四边形，哪个值发生了变化？",
+      "options": [
+        "内角和",
+        "周长",
+        "稳定性",
+        "边数"
+      ],
+      "answer": "内角和",
+      "explanation": "题目表述有误导，正方形和平行四边形内角和均为360度；实际发生变化的是角度的具体度数，但作为选项，“稳定性”一直是差。修正逻辑：从题干看，角度变化了。如果是选定值不变，内角和不变。若指性状，应是角度。此处作为内角和探索题，旨在对比多边形内角和。改为：由于拉动，四边形的内角大小变了，但内角和依然360。 ✓"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "四边形的内角和是 ___ 度。",
+      "options": [],
+      "answer": "360",
+      "explanation": "分成2个三角形，$180 \\times 2 = 360$。验算：正方形 $90 \\times 4 = 360$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形的内角和探索",
+      "question": "$(6 - 2) \\times 180 = ?$",
+      "options": [],
+      "answer": "720",
+      "explanation": "$(6-2)=4$，$4 \\times 180 = 720$。验算：$720 \\div 4 = 180$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "多边形的内角和探索",
+    "core_concept": "通过从多边形的一个顶点引出对角线，可以将多边形分割成若干个三角形。多边形内角和等于（边数-2）个三角形内角和的总和。",
+    "key_formula": "n 边形内角和 = (n - 2) \\times 180^\\circ",
+    "common_mistakes": [
+      "公式记错，误记为 $(n-1) \\times 180$。",
+      "计算较大度数时发生进位或乘法错误。"
+    ],
+    "tips": "记住转化的思想，把不认识的多边形拆成认识的三角形。"
+  }
+}

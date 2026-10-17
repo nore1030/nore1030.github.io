@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp26",
+  "title": "装片制作",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "装片制作",
+      "question": "制作装片时，为了让细胞形态不重叠，需要将显微镜下的观察材料（）。",
+      "options": [],
+      "answer": "展开",
+      "explanation": "洋葱表皮若叠在一起无法看清单个细胞，必须用镊子充分展开。"
+    }
+  ],
+  "knowledge": null
+}

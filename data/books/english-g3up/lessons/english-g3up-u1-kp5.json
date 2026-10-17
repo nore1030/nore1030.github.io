@@ -1,0 +1,75 @@
+{
+  "id": "english-g3up-u1-kp5",
+  "title": "词汇识记",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 1,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇识记",
+      "question": "单词 'pencil' 的中文意思是 '铅笔'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "pencil意为铅笔，pen意为钢笔。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇识记",
+      "question": "你想让同学展示他的书，你会说：'Show me your _______.'",
+      "options": [
+        "bag",
+        "book",
+        "pen",
+        "ruler"
+      ],
+      "answer": "book",
+      "explanation": "book意为书。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇识记",
+      "question": "以下哪一个单词是“蜡笔”的意思？",
+      "options": [
+        "pencil",
+        "crayon",
+        "ruler",
+        "eraser"
+      ],
+      "answer": "crayon",
+      "explanation": "crayon表示蜡笔。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇识记",
+      "question": "将下列英文单词与对应的中文意思连线。",
+      "options": [
+        "ruler",
+        "bag",
+        "book",
+        "pencil",
+        "书包",
+        "尺子",
+        "铅笔",
+        "书"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "ruler-尺子, bag-书包, book-书, pencil-铅笔。"
+    }
+  ],
+  "knowledge": null
+}

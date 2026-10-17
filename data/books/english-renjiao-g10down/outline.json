@@ -1,0 +1,103 @@
+{
+  "textbook": "必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现在完成时与过去完成时",
+      "knowledge_points": [
+        {
+          "name": "现在完成时",
+          "description": "掌握现在完成时与 since/for。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "过去完成时",
+          "description": "掌握过去完成时的构成与用法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-renjiao-g10down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "定语从句",
+      "knowledge_points": [
+        {
+          "name": "限制性定语从句",
+          "description": "掌握定语从句的关系词选择。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "非限制性定语从句",
+          "description": "区分限制性与非限制性定语从句。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-renjiao-g10down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-renjiao-g10down",
+  "grade": 10,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-renjiao-g10down-u1-kp1",
+      "title": "现在完成时",
+      "unitNumber": 1,
+      "unitTitle": "现在完成时与过去完成时",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g10down-u1-kp2",
+      "title": "过去完成时",
+      "unitNumber": 1,
+      "unitTitle": "现在完成时与过去完成时",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g10down-u2-kp1",
+      "title": "限制性定语从句",
+      "unitNumber": 2,
+      "unitTitle": "定语从句",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-renjiao-g10down-u2-kp2",
+      "title": "非限制性定语从句",
+      "unitNumber": 2,
+      "unitTitle": "定语从句",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

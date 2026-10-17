@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u7-kp9",
+  "title": "词语积累",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 8,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "词语积累",
+      "question": "形容水滴掉落在物体上的清脆声音，常用的词是（___）。",
+      "options": [],
+      "answer": "滴答",
+      "explanation": "“滴答”是模拟水滴声最常见的象声词。"
+    }
+  ],
+  "knowledge": null
+}

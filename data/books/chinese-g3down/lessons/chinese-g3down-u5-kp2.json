@@ -1,0 +1,79 @@
+{
+  "id": "chinese-g3down-u5-kp2",
+  "title": "角色变身的情节构思",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "角色变身的情节构思",
+      "question": "《我变成了一棵树》中，“我”变成树是因为不想在吃饭的时候被打扰。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文开头交代了“我”变树的动机是希望躲避妈妈催促吃饭。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "角色变身的情节构思",
+      "question": "在奇妙的想象中，我们可以写树木在跳舞，小鸟在下棋。",
+      "options": [],
+      "answer": "对",
+      "explanation": "拟人化是想象故事中常用的表达方式。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角色变身的情节构思",
+      "question": "如果你变成了一个云朵，你最想做的事情是：",
+      "options": [
+        "在地上跑步",
+        "在天空变魔术",
+        "在水里游泳",
+        "在屋檐下挂着"
+      ],
+      "answer": "在天空变魔术",
+      "explanation": "云朵的特质是变化多端，符合逻辑。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角色变身的情节构思",
+      "question": "如果你变成这些事物，你会做什么？请匹配。",
+      "options": [
+        "变成云",
+        "变成鱼",
+        "变成鸟",
+        "变成树",
+        "遮风挡雨",
+        "自在游动",
+        "空中俯瞰",
+        "随风飘荡"
+      ],
+      "answer": "A-4,B-2,C-3,D-1",
+      "explanation": "根据事物属性想象合理的行为动作。"
+    }
+  ],
+  "knowledge": {
+    "point": "角色变身的情节构思",
+    "core_concept": "以第一人称代入非生物或异类角色（如变树、变动物），通过视角的转换观察世界。在构思时，要运用拟人化的手法，将人类的喜怒哀乐赋予变身后的物体，同时利用该物体独特的物理形态（如树的枝桠、根须）制造独特的情节冲突或惊喜。",
+    "key_formula": "情节 = 变身动机 + 身体特征产生的趣事 + 现实回归",
+    "common_mistakes": [
+      "变身后忘记了主角原本的身份背景",
+      "没有利用新身体的生理特征来制造故事情节"
+    ],
+    "tips": "写作时闭上眼，想象自己的身体变成了那种事物，你的手会变成什么？脚会变成什么？你能感觉到什么？"
+  }
+}

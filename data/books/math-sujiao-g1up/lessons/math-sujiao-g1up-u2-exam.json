@@ -1,0 +1,71 @@
+{
+  "id": "math-sujiao-g1up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 2,
+  "unitTitle": "比一比",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比多少",
+      "question": "3 和 3 比较，结果是（　）",
+      "options": [
+        "同样多",
+        "多",
+        "少",
+        "无法比较"
+      ],
+      "answer": "同样多",
+      "explanation": "两数相等。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比长短、高矮、轻重",
+      "question": "比较高矮时两人要站在同一水平面上。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同一平面。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比长短、高矮、轻重",
+      "question": "一个苹果和一个西瓜比，（　）",
+      "options": [
+        "西瓜重",
+        "苹果重",
+        "一样重",
+        "无法比较"
+      ],
+      "answer": "西瓜重",
+      "explanation": "西瓜更重。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比多少",
+      "question": "4 个苹果和 6 个梨比，（　）",
+      "options": [
+        "苹果多",
+        "梨多",
+        "同样多",
+        "无法比较"
+      ],
+      "answer": "梨多",
+      "explanation": "6 > 4。"
+    }
+  ],
+  "knowledge": null
+}

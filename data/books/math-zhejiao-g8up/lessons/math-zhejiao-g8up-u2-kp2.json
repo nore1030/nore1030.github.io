@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g8up-u2-kp2",
+  "title": "数轴与绝对值",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "实数与数轴",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数轴与绝对值",
+      "question": "$|-5|$ 的值是（　）",
+      "options": [
+        "−5",
+        "5",
+        "−25",
+        "无意义"
+      ],
+      "answer": "5",
+      "explanation": "绝对值非负。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "数轴与绝对值",
+      "question": "任何实数的绝对值都不小于 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "绝对值非负。"
+    }
+  ],
+  "knowledge": {
+    "point": "数轴与绝对值",
+    "core_concept": "数轴上原点表示数 0，右边为正数，左边为负数。数 $a$ 在数轴上对应的点到原点的距离叫 $|a|$。",
+    "key_formula": "$|a| \\ge 0$",
+    "common_mistakes": [
+      "认为 $|-5|=-5$。"
+    ],
+    "tips": "绝对值非负。"
+  }
+}

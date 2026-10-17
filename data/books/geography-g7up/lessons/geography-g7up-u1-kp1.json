@@ -1,0 +1,63 @@
+{
+  "id": "geography-g7up-u1-kp1",
+  "title": "地球与经纬网",
+  "bookId": "geography-g7up",
+  "unitNumber": 1,
+  "unitTitle": "地球和地图",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球与经纬网",
+      "question": "纬线指示的方向是（　）",
+      "options": [
+        "东西方向",
+        "南北方向",
+        "东北方向",
+        "垂直方向"
+      ],
+      "answer": "东西方向",
+      "explanation": "纬线指示东西。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球与经纬网",
+      "question": "南北半球的分界线是（　）",
+      "options": [
+        "本初子午线",
+        "赤道",
+        "20°W",
+        "160°E"
+      ],
+      "answer": "赤道",
+      "explanation": "赤道划分南北半球。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地球与经纬网",
+      "question": "经线的长度都相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "经线等长。"
+    }
+  ],
+  "knowledge": {
+    "point": "地球与经纬网",
+    "core_concept": "地球是两极稍扁、赤道略鼓的不规则球体。纬线指示东西方向，经线指示南北方向。赤道是南北半球分界线，20°W 与 160°E 组成东西半球分界线。",
+    "key_formula": "纬度 0°~90°，经度 0°~180°",
+    "common_mistakes": [
+      "把东西半球界线说成 0° 和 180° 经线。"
+    ],
+    "tips": "东西半球界线为 20°W、160°E。"
+  }
+}

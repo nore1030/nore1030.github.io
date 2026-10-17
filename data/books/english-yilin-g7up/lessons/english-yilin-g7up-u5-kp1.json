@@ -1,0 +1,63 @@
+{
+  "id": "english-yilin-g7up-u5-kp1",
+  "title": "节日词汇 Halloween / Christmas / Spring Festival",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Let's celebrate! 庆祝",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+      "question": "「万圣节」的英文是（　）",
+      "options": [
+        "Halloween",
+        "Hallowean",
+        "Hallowen",
+        "Hallowween"
+      ],
+      "answer": "Halloween",
+      "explanation": "Halloween 万圣节。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+      "question": "「圣诞节」的英文是（　）",
+      "options": [
+        "Christmas",
+        "Christms",
+        "Cristmas",
+        "Christamas"
+      ],
+      "answer": "Christmas",
+      "explanation": "Christmas 圣诞。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+      "question": "celebrate 的意思是「庆祝」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "celebrate 庆祝。"
+    }
+  ],
+  "knowledge": {
+    "point": "节日词汇 Halloween / Christmas / Spring Festival",
+    "core_concept": "Halloween 万圣节、Christmas 圣诞节、Spring Festival 春节；celebrate 庆祝。",
+    "key_formula": "at Halloween / at Christmas",
+    "common_mistakes": [
+      "节日前一律用 at 不对。"
+    ],
+    "tips": "Christmas/Halloween 用 at，Day 用 on。"
+  }
+}

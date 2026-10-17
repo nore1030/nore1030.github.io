@@ -1,0 +1,122 @@
+{
+  "textbook": "必修1",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "中国特色社会主义的开创与发展",
+      "knowledge_points": [
+        {
+          "name": "社会主义从空想到科学",
+          "description": "了解科学社会主义的创立与意义。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "只有社会主义才能救中国",
+          "description": "理解中国的社会主义道路选择。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "只有中国特色社会主义才能发展中国",
+          "description": "理解改革开放与中国特色社会主义。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "politics-g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "新时代与中国梦",
+      "knowledge_points": [
+        {
+          "name": "中国特色社会主义新时代",
+          "description": "理解新时代的内涵与主要矛盾。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "实现中华民族伟大复兴的中国梦",
+          "description": "理解中国梦的本质与实现路径。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "politics-g10up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "politics-g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "politics",
+  "lessons": [
+    {
+      "id": "politics-g10up-u1-kp1",
+      "title": "社会主义从空想到科学",
+      "unitNumber": 1,
+      "unitTitle": "中国特色社会主义的开创与发展",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "politics-g10up-u1-kp2",
+      "title": "只有社会主义才能救中国",
+      "unitNumber": 1,
+      "unitTitle": "中国特色社会主义的开创与发展",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "politics-g10up-u1-kp3",
+      "title": "只有中国特色社会主义才能发展中国",
+      "unitNumber": 1,
+      "unitTitle": "中国特色社会主义的开创与发展",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "politics-g10up-u2-kp1",
+      "title": "中国特色社会主义新时代",
+      "unitNumber": 2,
+      "unitTitle": "新时代与中国梦",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "politics-g10up-u2-kp2",
+      "title": "实现中华民族伟大复兴的中国梦",
+      "unitNumber": 2,
+      "unitTitle": "新时代与中国梦",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

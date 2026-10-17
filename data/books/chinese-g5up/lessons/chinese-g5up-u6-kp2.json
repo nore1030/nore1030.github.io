@@ -1,0 +1,97 @@
+{
+  "id": "chinese-g5up-u6-kp2",
+  "title": "文章线索的识别与作用",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "《父爱之舟》一课是以“舟”为线索，串联起作者对往事的回忆。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文以“舟”作为情感载体和叙事线索，体现了父亲对儿子的关爱。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "《父爱之舟》中，父亲摇着小船送“我”考学的场景，体现的情感是：",
+      "options": [
+        "对远行的担忧",
+        "对仕途的向往",
+        "对家庭的无奈",
+        "深沉而细微的父爱"
+      ],
+      "answer": "深沉而细微的父爱",
+      "explanation": "船是连接父子的纽带，承载着深沉的父爱。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "《父爱之舟》中，父亲带我在旅馆住宿，被（___）咬得全身红肿。",
+      "options": [],
+      "answer": "臭虫",
+      "explanation": "细节描写中提到旅馆条件艰苦，有很多臭虫。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "将课文名称与对应的情感载体连线。",
+      "options": [
+        "《慈母情深》",
+        "《父爱之舟》",
+        "《“精彩极了”和“糟糕透了”》",
+        "《假如没有灰尘》",
+        "摇橹船",
+        "毛票",
+        "光线",
+        "诗作"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察课文核心事物线索或关键物。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文章线索的识别与作用",
+      "question": "将下列词语排列成一句关于父爱的感悟。",
+      "options": [
+        "父爱",
+        "是",
+        "大海里",
+        "航行的",
+        "一叶",
+        "扁舟"
+      ],
+      "answer": "父爱,是,大海里,航行的,一叶,扁舟",
+      "explanation": "结合《父爱之舟》的主题进行比喻句构成。"
+    }
+  ],
+  "knowledge": {
+    "point": "文章线索的识别与作用",
+    "core_concept": "线索是贯穿全文的脉络。在表现亲情的文章中，线索通常是一个具有特殊意义的实物（如《父爱之舟》中的“船”），它将零散的故事情节串联起来，并承载着深厚的情感寄托，使文章结构严谨，主题突出。",
+    "key_formula": "核心实物 = 表层叙事线索 + 深层情感寄托",
+    "common_mistakes": [
+      "将文中的次要人物误认为是线索。",
+      "只看到事物的表面，看不出其象征的亲情内涵。"
+    ],
+    "tips": "寻找文中反复出现的词语或贯穿始终的事物，那通常就是线索。"
+  }
+}

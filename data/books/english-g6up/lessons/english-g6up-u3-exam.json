@@ -1,0 +1,230 @@
+{
+  "id": "english-g6up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 21,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇理解",
+      "question": "'dictionary' 的中文意思是词典。",
+      "options": [],
+      "answer": "对",
+      "explanation": "dictionary解为字典、词典。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "词性转换",
+      "question": "动词 visit 后面不能直接接地点或人。",
+      "options": [],
+      "answer": "错",
+      "explanation": "visit可以直接接宾语，如visit my aunt, visit Beijing。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语义逻辑",
+      "question": "我们通常晚上(evening)去看电影(see a film)。",
+      "options": [],
+      "answer": "对",
+      "explanation": "语境逻辑成立。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "将来时态",
+      "question": "表示计划打算做某事，只能用 will，不能用 be going to。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在小学阶段，be going to 是表示计划最核心的结构。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句意理解",
+      "question": "I'm going to ______ computer lessons next week.",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "had"
+      ],
+      "answer": "have",
+      "explanation": "be going to 后面必须使用动词原形。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "交际用语",
+      "question": "Can I help you? — ______.",
+      "options": [
+        "Yes, I want a book",
+        "I like you",
+        "No, thanks",
+        "No, I can help you"
+      ],
+      "answer": "Yes, I want a book",
+      "explanation": "商店或服务性用语的礼貌回答。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语法层次",
+      "question": "Why ______ you going to the library?",
+      "options": [
+        "is",
+        "are",
+        "do",
+        "will"
+      ],
+      "answer": "are",
+      "explanation": "根据 going 判断前面的 be 动词应搭配 you，故用 are。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "特殊疑问句",
+      "question": "______ is your father going to the park? — At 9 o'clock.",
+      "options": [
+        "What",
+        "Where",
+        "What time",
+        "How"
+      ],
+      "answer": "What time",
+      "explanation": "提问具体的时间点（几点钟）应用 What time。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词组搭配",
+      "question": "I want to ______ my teacher.",
+      "options": [
+        "visiting",
+        "visit",
+        "see",
+        "watch"
+      ],
+      "answer": "visit",
+      "explanation": "探望某人常用visit。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合理解",
+      "question": "I have ______ today. I'm going to relax at home.",
+      "options": [
+        "many plans",
+        "no plans",
+        "a plan",
+        "a trip"
+      ],
+      "answer": "no plans",
+      "explanation": "根据在家休息推断是没有计划。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "主谓一致",
+      "question": "My sister and I ______ going to the cinema.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "explanation": "主语是二人，复数，用 are。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "提问词",
+      "question": "____ are you going? To the supermarket.",
+      "options": [],
+      "answer": "where",
+      "explanation": "对地点提问用 where。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品名称",
+      "question": "I'm going to the bookstore to buy a ____ (字典).",
+      "options": [],
+      "answer": "dictionary",
+      "explanation": "词典/字典是 dictionary。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "特殊名词匹配",
+      "question": "将词汇与中文意思连线。",
+      "options": [
+        "word book",
+        "postcard",
+        "trip",
+        "dictionary",
+        "旅行",
+        "单词书",
+        "词典",
+        "明信片"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "word book-单词书, postcard-明信片, trip-旅行, dictionary-词典。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动作与人物关系",
+      "question": "将活动与相关物品连线。",
+      "options": [
+        "draw pictures",
+        "write a story",
+        "read a poem",
+        "learn kung fu",
+        "诗歌",
+        "绘画",
+        "功夫",
+        "故事"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "draw画图，write写故事，read读诗，learn学功夫。"
+    }
+  ],
+  "knowledge": null
+}

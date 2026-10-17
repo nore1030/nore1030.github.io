@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp10",
+  "title": "控制反冲力",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "控制反冲力",
+      "question": "气球驱动小车时，小车运行的方向与喷气方向相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "反冲力的方向与喷出气体的方向相反。"
+    }
+  ],
+  "knowledge": null
+}

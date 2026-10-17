@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp14",
+  "title": "过渡句辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "过渡句辨析",
+      "question": "下列哪个句子最适合作为进入景点的过渡句？",
+      "options": [
+        "这里的风景真美丽。",
+        "我们吃完饭就开始休息了。",
+        "转过石角，我们便来到了孔隙口。",
+        "今天的天气阳光明媚。"
+      ],
+      "answer": "转过石角，我们便来到了孔隙口。",
+      "explanation": "这个句子明确交待了地点的转换，起到了承上启下的连接作用。"
+    }
+  ],
+  "knowledge": null
+}

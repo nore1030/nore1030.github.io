@@ -1,0 +1,39 @@
+{
+  "id": "english-g4down-u6-kp3",
+  "title": "字母组合le在词尾的发音",
+  "bookId": "english-g4down",
+  "unitNumber": 6,
+  "unitTitle": "Shopping",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母组合le在词尾的发音",
+      "question": "单词 apple, table, people 结尾处 le 的发音规律相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在人教版PEP四年级下册中，这些词结尾的le都发/l/音。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母组合le在词尾的发音",
+      "question": "下列哪个单词中 le 的发音与其他三个不同？",
+      "options": [
+        "little",
+        "bubble",
+        "uncle",
+        "let"
+      ],
+      "answer": "let",
+      "explanation": "little, bubble, uncle 的 le 在词尾发/l/，而 let 里的 l 是声母。"
+    }
+  ],
+  "knowledge": null
+}

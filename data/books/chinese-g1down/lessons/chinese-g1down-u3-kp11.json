@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1down-u3-kp11",
+  "title": "古诗填空",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 10,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗填空",
+      "question": "李白乘舟将欲行，忽闻岸上（___）声。",
+      "options": [],
+      "answer": "踏歌",
+      "explanation": "出自古诗《赠汪伦》，踏歌是古代边唱歌边用脚踏地打拍子的形式。"
+    }
+  ],
+  "knowledge": null
+}

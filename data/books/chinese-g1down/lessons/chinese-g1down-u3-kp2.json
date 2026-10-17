@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g1down-u3-kp2",
+  "title": "口语交际：礼貌请求",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口语交际：礼貌请求",
+      "question": "向别人借东西时，应该先说“请”，再说“谢谢”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "礼貌请求需要使用礼貌用语，这体现了对他人的尊重。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口语交际：礼貌请求",
+      "question": "你想去同学家玩，怎么跟妈妈说最礼貌？",
+      "options": [
+        "我要去小明家！",
+        "妈，快送我去小明家。",
+        "妈妈，我可以去小明家玩吗？",
+        "小明让我去他家。"
+      ],
+      "answer": "妈妈，我可以去小明家玩吗？",
+      "explanation": "“可以……吗”是商量的语气，最礼貌。"
+    }
+  ],
+  "knowledge": {
+    "point": "口语交际：礼貌请求",
+    "core_concept": "在生活中，当我们需要别人帮助时，要使用恰当的语态和辞令。首先要观察对方是否有空，然后使用礼貌用语，说明请求原因，最后表示感谢。态度要诚恳，语气要委婉，不要强迫别人。",
+    "key_formula": "称呼 + 请（或可以吗）+ 谢",
+    "common_mistakes": [
+      "说话冷冰冰，像下命令",
+      "忘了说感谢的话"
+    ],
+    "tips": "多用商量的口气，把“给我”换成“请给我”。"
+  }
+}

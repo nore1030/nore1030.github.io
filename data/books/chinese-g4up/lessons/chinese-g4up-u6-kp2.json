@@ -1,0 +1,70 @@
+{
+  "id": "chinese-g4up-u6-kp2",
+  "title": "人物心理活动的揣摩",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 1,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "“我的心像揣了一只小兔，怦怦直跳”这句话描写了人物紧张的心理。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“怦怦直跳”和“揣了小兔”生动地表现了人物内心的紧张不安。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "“他在场边走来走去”是一个动作描写，反映了他内心的焦急。",
+      "options": [],
+      "answer": "对",
+      "explanation": "动作是心理的外化，走来走去直观表现了焦急或坐立难安的状态。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "“他的脸一下子红到了耳根，低着头，不敢看老师的眼睛。”这段话描写的情绪是：",
+      "options": [
+        "愤怒",
+        "惭愧",
+        "兴奋",
+        "惊讶"
+      ],
+      "answer": "惭愧",
+      "explanation": "“红到耳根”和“低着头不敢看”是典型不好意思、惭愧的表现。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "《一只窝囊的大老虎》中，我登台表演时的心情用一个字形容是：（___）",
+      "options": [],
+      "answer": "怕",
+      "explanation": "内心非常紧张害怕，形容这种心理状态最准确的一个字是“怕”。"
+    }
+  ],
+  "knowledge": {
+    "point": "人物心理活动的揣摩",
+    "core_concept": "心理活动是人物性格的灵魂。除了直接刻画（如：我想……），作者更多地通过动作描写（手心出汗）、神态描写（俏脸通红）或环境描写（风阴冷地吹）来侧面烘托人物的内心世界。学生需要学会从这些表象中“读懂”人物到底是害怕、兴奋还是惭愧。",
+    "key_formula": "动作/神态/语言 + 生活经验 = 人物内心。",
+    "common_mistakes": [
+      "容易把动作描写和心理描写混为一谈。",
+      "推断人物心理不结合语境，导致情感推导偏差。"
+    ],
+    "tips": "尝试把自己置换到文中情境，问自己：如果是我，这时候在想什么？"
+  }
+}

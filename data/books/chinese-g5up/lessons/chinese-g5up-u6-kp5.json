@@ -1,0 +1,39 @@
+{
+  "id": "chinese-g5up-u6-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“难道母爱不是世界上最伟大的吗？”这是一个设问句。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一个反问句，只有问没有答。设问句是自问自答。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“那层层叠叠的褶皱，像是一道道岁月留下的沟壑。”这句话运用的修辞手法是：",
+      "options": [
+        "拟人",
+        "排比",
+        "比喻",
+        "夸张"
+      ],
+      "answer": "比喻",
+      "explanation": "将褶皱比作沟壑，属于比喻。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u4-kp11",
+  "title": "对疑问句的回答",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 9,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对疑问句的回答",
+      "question": "-Are these tomatoes? -_______.",
+      "options": [
+        "Yes, it is",
+        "No, they aren't",
+        "Yes, they is",
+        "No, it isn't"
+      ],
+      "answer": "No, they aren't",
+      "explanation": "these引导的疑问句，回答主语统一用they。"
+    }
+  ],
+  "knowledge": null
+}

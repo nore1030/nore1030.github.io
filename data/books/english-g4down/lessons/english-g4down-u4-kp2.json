@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u4-kp2",
+  "title": "these与those指代辨析",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 1,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "these与those指代辨析",
+      "question": "'These' 指代较远处的复数物体。",
+      "options": [],
+      "answer": "错",
+      "explanation": "these是近指，those才是远指。"
+    }
+  ],
+  "knowledge": null
+}

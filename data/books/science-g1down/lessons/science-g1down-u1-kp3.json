@@ -1,0 +1,47 @@
+{
+  "id": "science-g1down-u1-kp3",
+  "title": "物体的形状与空间填充",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物体的形状与空间填充",
+      "question": "同样多的正方体积木，换一种摆放方式，占用的空间就会变大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "物体本身占据的空间大小（体积）不随摆放方式改变而改变。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物体的形状与空间填充",
+      "question": "要把小盒子装满且不留缝隙，最适合装入的是（）。",
+      "options": [
+        "乒乓球",
+        "小石块",
+        "正方体积木",
+        "玻璃珠"
+      ],
+      "answer": "正方体积木",
+      "explanation": "正方体是规则几何体，可以无缝堆叠，而圆形的乒乓球和不规则石块会有缝隙。"
+    }
+  ],
+  "knowledge": {
+    "point": "物体的形状与空间填充",
+    "core_concept": "物体的形状决定了其拼合和占据空间的方式。",
+    "key_formula": "规则物体平铺无缝隙，非规则或球形有缝隙。",
+    "common_mistakes": [
+      "认为改变形状会改变物体原来的多少"
+    ],
+    "tips": "整齐摆放能多装东西。"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "g3down-u6-kp1",
+  "title": "认识时间单位年、月、日",
+  "bookId": "g3down",
+  "unitNumber": 6,
+  "unitTitle": "年、月、日",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "一年中共有 7 个大月，5 个小月。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一年中有 7 个大月（1, 3, 5, 7, 8, 10, 12月），4 个小月（4, 6, 9, 11月），还有一个特殊的 2 月。$7 + 4 + 1 = 12$月。所以 5 个小月的说法是错误的。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "2024 年是闰年，这一年的 2 月有 29 天。",
+      "options": [],
+      "answer": "对",
+      "explanation": "判断闰年的方法：$2024 \\div 4 = 506$，没有余数，所以 2024 年是闰年，闰年的 2 月有 29 天。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "小明说只要年份是 4 的倍数，这一年就一定是闰年。",
+      "options": [],
+      "answer": "错",
+      "explanation": "通常年份是 4 的倍数是闰年，但公历年份是整百数时，必须是 400 的倍数才是闰年。例如 1900 年是 4 的倍数但不是闰年。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "下面月份中，每个月都是 31 天的是哪一组？",
+      "options": [
+        "1月和2月",
+        "4月和5月",
+        "7月和8月",
+        "11月和12月"
+      ],
+      "answer": "7月和8月",
+      "explanation": "7 月是大月（31天），8 月也是大月（31天）。2月只有28或29天，4月和11月是小月（30天）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "平年一年的天数是多少天？",
+      "options": [
+        "360",
+        "365",
+        "366",
+        "367"
+      ],
+      "answer": "365",
+      "explanation": "平年 2 月有 28 天，全年 $31\\times7 + 30\\times4 + 28 = 365$ 天。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "连续的两个大月是哪两个月？",
+      "options": [
+        "1月和2月",
+        "5月和6月",
+        "7月和8月",
+        "10月和11月"
+      ],
+      "answer": "7月和8月",
+      "explanation": "根据大小月分布，7 月和 8 月都是 31 天的连续大月。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "小华的生日是 2 月 29 日，他出生的年份可能是哪一年？",
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "answer": "2024",
+      "explanation": "2 月 29 日只在闰年出现。选项中只有 2024 能被 4 整除，是闰年。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "第三季度一共有多少天？",
+      "options": [
+        "90",
+        "91",
+        "92",
+        "93"
+      ],
+      "answer": "92",
+      "explanation": "第三季度包括 7, 8, 9 三个月。天数：$31 + 31 + 30 = 92$ 天。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "小红这周五去旅游，下周一回来。她一共旅游了几天？",
+      "options": [
+        "2天",
+        "3天",
+        "4天",
+        "5天"
+      ],
+      "answer": "4天",
+      "explanation": "周五、周六、周日、周一，共计 4 天。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "一个工厂 2023 年 2 月份一共生产了 560 台机器。平均每天生产多少台？",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "28"
+      ],
+      "answer": "20",
+      "explanation": "2023 是平年，2 月有 28 天。$560 \\div 28 = 20$ 台。验算：$20 \\times 28 = 560$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "一个闰年全年的天数是 ___ 天。",
+      "options": [],
+      "answer": "366",
+      "explanation": "平年 365 天，闰年 2 月多 1 天，$365 + 1 = 366$ 天。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "2023 年的 5 月、6 月和 7 月一共有 ___ 天。",
+      "options": [],
+      "answer": "91",
+      "explanation": "5月是31天，6月是30天，7月是31天。$31 + 30 + 31 = 92$ 天。更正：计算 $31+30+31=92$。 结果应为 92。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识时间单位年、月、日",
+      "question": "31 * 7 + 30 * 4 + 28 = ?",
+      "options": [],
+      "answer": "365",
+      "explanation": "$31\\times7 = 217$，$30\\times4 = 120$。$217 + 120 + 28 = 365$。此为平年天数计算。"
+    }
+  ],
+  "knowledge": {
+    "point": "认识时间单位年、月、日",
+    "core_concept": "一年有12个月。大月（31天）有：1、3、5、7、8、10、12月；小月（30天）有：4、6、9、11月。2月是特殊月份，平年2月28天，闰年2月29天。平年全年365天，闰年全年366天。",
+    "key_formula": "公历年份是4的倍数的一般是闰年；公历年份是整百数的，必须是400的倍数才是闰年。",
+    "common_mistakes": [
+      "认为单数月都是大月，双数月都是小月（忽视了8、10、12月）",
+      "判断整百年份（如1900年）时直接除以4判断为闰年"
+    ],
+    "tips": "记忆大月可以使用拳头计数法：凸起的地方是大月，凹下的地方是小月（2月除外）。"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u9-kp1",
+  "title": "描述地方的形容词",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 9,
+  "unitTitle": "Module 9 People and places 人与地方",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述地方的形容词",
+      "question": "「美丽的」的英文是（　）",
+      "options": [
+        "beautiful",
+        "beauty",
+        "beautifull",
+        "beatiful"
+      ],
+      "answer": "beautiful",
+      "explanation": "beautiful 美丽。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述地方的形容词",
+      "question": "「拥挤的」的英文是（　）",
+      "options": [
+        "crowded",
+        "crowd",
+        "crowing",
+        "crowdedd"
+      ],
+      "answer": "crowded",
+      "explanation": "crowded 拥挤。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "描述地方的形容词",
+      "question": "big 的意思是「大的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "big 大。"
+    }
+  ],
+  "knowledge": {
+    "point": "描述地方的形容词",
+    "core_concept": "big 大的、small 小的、beautiful 美丽的、crowded 拥挤的、quiet 安静的、modern 现代的。",
+    "key_formula": "Beijing is a big city.",
+    "common_mistakes": [
+      "crowded 拼写错误。"
+    ],
+    "tips": "crowd + ed。"
+  }
+}

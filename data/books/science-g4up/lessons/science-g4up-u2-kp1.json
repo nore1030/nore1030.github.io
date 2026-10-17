@@ -1,0 +1,82 @@
+{
+  "id": "science-g4up-u2-kp1",
+  "title": "人体呼吸系统与过程",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 0,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "吸气时，空气通过鼻腔、气管进入肺部，此时胸腔扩张。",
+      "options": [],
+      "answer": "对",
+      "explanation": "吸气时，膈肌收缩下降，肋间肌收缩，胸廓扩大，肺部扩张进入空气。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "我们呼吸时，每次呼出的气体与吸入的气体相比，变化最大的是（）。",
+      "options": [
+        "氧气减少，二氧化碳增多",
+        "氧气增多，二氧化碳减少",
+        "完全没有氧气了",
+        "氮气显著增加"
+      ],
+      "answer": "氧气减少，二氧化碳增多",
+      "explanation": "人体呼吸过程本质是氧气与二氧化碳的交换过程。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "下列不属于呼吸器官的是（）。",
+      "options": [
+        "气管",
+        "肺",
+        "鼻腔",
+        "胃"
+      ],
+      "answer": "胃",
+      "explanation": "胃属于消化器官，而非呼吸器官。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "人运动后呼吸次数增加，其原因是（）。",
+      "options": [
+        "人变得兴奋",
+        "需要更多氧气",
+        "心脏跳得慢了",
+        "肺变大了"
+      ],
+      "answer": "需要更多氧气",
+      "explanation": "运动消耗大量能量，需要更多氧气参与转化。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "人体进行气体交换的主要场所是（）。",
+      "options": [],
+      "answer": "肺",
+      "explanation": "肺是呼吸系统的核心，负责血液与外界的气体交换。"
+    }
+  ],
+  "knowledge": null
+}

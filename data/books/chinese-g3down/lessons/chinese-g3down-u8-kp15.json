@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp15",
+  "title": "逻辑推理",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逻辑推理",
+      "question": "故事中“顾客又跳起来了”，这里的“跳”体现了顾客：",
+      "options": [
+        "非常开心",
+        "身体轻盈",
+        "性格急躁",
+        "正在锻炼"
+      ],
+      "answer": "性格急躁",
+      "explanation": "“跳”这个动作细腻地描写出了急性子顾客沉不住气的性格特点。"
+    }
+  ],
+  "knowledge": null
+}

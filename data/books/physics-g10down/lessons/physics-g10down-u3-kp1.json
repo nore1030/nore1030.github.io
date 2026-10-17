@@ -1,0 +1,53 @@
+{
+  "id": "physics-g10down-u3-kp1",
+  "title": "功、功率与动能定理",
+  "bookId": "physics-g10down",
+  "unitNumber": 3,
+  "unitTitle": "机械能守恒定律",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功、功率与动能定理",
+      "question": "质量 2 kg 的物体速度从 2 m/s 增大到 6 m/s，合外力做功是多少 J？",
+      "options": [],
+      "answer": "32",
+      "explanation": "$\\Delta E_k=\\frac12\\times2\\times(36-4)=32$ J。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "功、功率与动能定理",
+      "question": "功率越大，做功一定越多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "还取决于时间。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功、功率与动能定理",
+      "question": "力 20 N 使物体沿力的方向移动 5 m，做功是多少 J？",
+      "options": [],
+      "answer": "100",
+      "explanation": "$W=Fs=100$ J。"
+    }
+  ],
+  "knowledge": {
+    "point": "功、功率与动能定理",
+    "core_concept": "合外力做的功等于物体动能的变化量：$W_\\text{合}=\\frac12mv_2^2-\\frac12mv_1^2$。$P=\\frac Wt=Fv$。",
+    "key_formula": "$W_\\text{合}=\\Delta E_k$",
+    "common_mistakes": [
+      "忘记摩擦力做负功。"
+    ],
+    "tips": "先算合外力功。"
+  }
+}

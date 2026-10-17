@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g9up-u2-kp1",
+  "title": "分子、原子与离子",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 2,
+  "unitTitle": "物质构成的奥秘",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分子、原子与离子",
+      "question": "化学变化中的最小粒子是（　）",
+      "options": [
+        "分子",
+        "原子",
+        "电子",
+        "质子"
+      ],
+      "answer": "原子",
+      "explanation": "原子在化学变化中不可再分。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "分子、原子与离子",
+      "question": "在原子中，质子数一定等于中子数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "质子数等于核外电子数，不一定等于中子数。"
+    }
+  ],
+  "knowledge": {
+    "point": "分子、原子与离子",
+    "core_concept": "分子是保持物质化学性质的最小粒子，原子是化学变化中的最小粒子。原子由质子、中子、电子构成，核电荷数=质子数=核外电子数。",
+    "key_formula": "核电荷数 = 质子数 = 核外电子数",
+    "common_mistakes": [
+      "认为原子不可再分（化学变化中不可分）。"
+    ],
+    "tips": "化学变化中原子种类不变。"
+  }
+}

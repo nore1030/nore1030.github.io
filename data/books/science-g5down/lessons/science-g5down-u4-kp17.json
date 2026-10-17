@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp17",
+  "title": "保温原理",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "保温原理",
+      "question": "穿羽绒服感到暖和，是因为羽绒（）。",
+      "options": [
+        "能产生热量",
+        "是热的良导体",
+        "能减少热量的散失",
+        "吸收了外界的热量"
+      ],
+      "answer": "能减少热量的散失",
+      "explanation": "羽绒中含有大量空气，是热的不良导体，能减少身体热量散失。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp20",
+  "title": "传声实验",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传声实验",
+      "question": "潜水员在水下能听到岸上的说话声，说明声音可以在（）中传播。",
+      "options": [
+        "固体",
+        "液体",
+        "真空中",
+        "只有空气"
+      ],
+      "answer": "液体",
+      "explanation": "声音通过空气传到水面，再经水传至潜水员耳中，证明了液体的导声性。"
+    }
+  ],
+  "knowledge": null
+}

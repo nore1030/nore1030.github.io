@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp26",
+  "title": "特殊疑问句语序",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "特殊疑问句语序",
+      "question": "把给出的单词排成一句话。",
+      "options": [
+        "What",
+        "you",
+        "do",
+        "did"
+      ],
+      "answer": "What,did,you,do",
+      "explanation": "特殊疑问句结构：特殊疑问词+did+主语+动词原形？"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "physics-g8down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g8down",
+  "unitNumber": 2,
+  "unitTitle": "压强与浮力",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "压强",
+      "question": "质量 60 kg 的人双脚站立，受力面积 $0.04\\ \\text{m}^2$，对地压强是多少 Pa？（$g$ 取 10 N/kg）",
+      "options": [],
+      "answer": "15000",
+      "explanation": "$F=600$ N，$p=\\frac{600}{0.04}=15000$ Pa。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阿基米德原理与浮沉条件",
+      "question": "物体浸没在水中下沉时，浮力（　）",
+      "options": [
+        "大于重力",
+        "小于重力",
+        "等于重力",
+        "为零"
+      ],
+      "answer": "小于重力",
+      "explanation": "下沉条件。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "液体的压强",
+      "question": "液体压强公式 $p=$ ___",
+      "options": [],
+      "answer": "ρgh",
+      "explanation": "$p=\\rho gh$。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "阿基米德原理与浮沉条件",
+      "question": "浸在液体中的物体所受浮力等于它排开液体所受的重力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "阿基米德原理。"
+    }
+  ],
+  "knowledge": null
+}

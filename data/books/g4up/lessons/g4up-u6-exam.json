@@ -1,0 +1,217 @@
+{
+  "id": "g4up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "g4up",
+  "unitNumber": 6,
+  "unitTitle": "除数是两位数的除法",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "一个除法算式的被除数是 320，除数是 40，商是 80。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$320 \times 40 = 8$，不是 80。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "被除数和除数同时乘一个不为 0 的数，商不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "商不变性质：$(a \times c) \times (b \times c) = a \times b$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "$800 \times 25 = (800 \times 4) \times (25 \times 4) = 3200 \times 100 = 32$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "运用商不变规律，被除数和除数同时乘 4，计算变简便。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "口算除法与估算",
+      "question": "估算结果一定比实际结果大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "估算可能偏大也可能偏小，取决于将数看大还是看小。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "商不变规律中，被除数乘 10，要使商不变，除数应该：",
+      "options": [
+        "乘 10",
+        "除以 10",
+        "加 10",
+        "减 10"
+      ],
+      "answer": "乘 10",
+      "explanation": "商不变性质要求同时扩大或缩小相同倍数。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "$400 \times 50$ 的商是：",
+      "options": [
+        "8",
+        "80",
+        "800",
+        "5"
+      ],
+      "answer": "8",
+      "explanation": "$40 \times 5 = 8$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "$4800 \times 1200$ 的结果与下列哪个式子的结果相等？",
+      "options": [
+        "48 \times 12",
+        "480 \times 12",
+        "480 \times 120",
+        "4 \times 1"
+      ],
+      "answer": "48 \times 12",
+      "explanation": "同时去掉两个 0，商不变。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口算除法与估算",
+      "question": "一辆汽车每小时跑 80 千米，行 400 千米需要多少小时？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "50"
+      ],
+      "answer": "5",
+      "explanation": "$400 \times 80 = 5$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "在 $A \times B = 20$ 中，如果 $A \times 2$，$B \times 4$，现在的商是：",
+      "options": [
+        "10",
+        "40",
+        "20",
+        "5"
+      ],
+      "answer": "10",
+      "explanation": "$20 \times 2 = 40$（被除数变商变），$40 \times 4 = 10$（除数变商反向变）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "一个除法算式的商是 15。如果被除数乘 4，除数除以 2，现在的商是：",
+      "options": [
+        "15",
+        "30",
+        "120",
+        "60"
+      ],
+      "answer": "120",
+      "explanation": "$15 \times 4 \times 2 = 120$。被除数乘 4 使得商乘 4，除数除以 2 使得商乘 2。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "口算 $210 \times 30$，先想：",
+      "options": [
+        "21 \times 3",
+        "2 \times 3",
+        "210 \times 3",
+        "20 \times 3"
+      ],
+      "answer": "21 \times 3",
+      "explanation": "整十数相除，可以去掉末尾相同个数的 0 简化为一位数除法。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "商的变化规律及简便运算",
+      "question": "$700 \times 40 = 17 \times \times 20$，如果把被除数和除数同时除以 10，余数是：",
+      "options": [
+        "20",
+        "2",
+        "200",
+        "无法确定"
+      ],
+      "answer": "2",
+      "explanation": "商不变，但余数随之缩小。$20 \times 10 = 2$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算除法之试商与调商",
+      "question": "王老师带 600 元去买足球，每个足球 35 元，他最多能买 ___ 个足球。",
+      "options": [],
+      "answer": "17",
+      "explanation": "$600 \times 35 = 17 \times \times 5$。验算：$35 \times 17 + 5 = 595 + 5 = 600$。所以最多买 17 个。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "每层楼梯有 18 级台阶，小红从底楼走到 5 楼，一共走了 ___ 级台阶。",
+      "options": [],
+      "answer": "72",
+      "explanation": "5 楼距离底楼有 4 层。列式：$18 \times (5-1) = 72$。验算：$72 \times 4 = 18$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法与估算",
+      "question": "直接写出结果：$360 \times 40 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$360 \times 40 = 9$。验算：$40 \times 9 = 360$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

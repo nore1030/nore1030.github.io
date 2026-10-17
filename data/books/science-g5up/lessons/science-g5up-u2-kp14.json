@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp14",
+  "title": "火山喷发",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "火山喷发",
+      "question": "火山喷发物中，流出地表的熔岩来自于（ ）。",
+      "options": [
+        "地壳",
+        "地幔",
+        "地核",
+        "大气"
+      ],
+      "answer": "地幔",
+      "explanation": "岩浆主要存在于地幔上部，通过地壳薄弱处喷出形成流向地表的熔岩。"
+    }
+  ],
+  "knowledge": null
+}

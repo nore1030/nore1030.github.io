@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u8-kp21",
+  "title": "句子结构",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构",
+      "question": "请将下列词语排成一句通顺的话：",
+      "options": [
+        "急性子顾客",
+        "在",
+        "裁缝店里",
+        "又",
+        "跳了起来"
+      ],
+      "answer": "急性子顾客,在,裁缝店里,又,跳了起来",
+      "explanation": "主语+地点+动作的结构。"
+    }
+  ],
+  "knowledge": null
+}

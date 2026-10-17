@@ -1,0 +1,66 @@
+{
+  "id": "moral-g6up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g6up",
+  "unitNumber": 2,
+  "unitTitle": "校园生活与热爱祖国",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学校与班级生活",
+      "question": "班级公约的制定应该（　）",
+      "options": [
+        "全班同学共同讨论",
+        "班长一人决定",
+        "老师指定就行",
+        "抽签决定"
+      ],
+      "answer": "全班同学共同讨论",
+      "explanation": "共同参与制定公约。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "热爱祖国与民族团结",
+      "question": "热爱祖国是每个公民应有的情感。",
+      "options": [],
+      "answer": "对",
+      "explanation": "爱国情感。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "热爱祖国与民族团结",
+      "question": "下列不属于维护国家统一表现的是（　）",
+      "options": [
+        "支持国家统一大业",
+        "反对分裂国家的行为",
+        "传播分裂言论",
+        "遵守国家法律法规"
+      ],
+      "answer": "传播分裂言论",
+      "explanation": "分裂言论危害统一。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "学校与班级生活",
+      "question": "在学校里，规则是顺利开展活动的重要保证。",
+      "options": [],
+      "answer": "对",
+      "explanation": "规则保秩序。"
+    }
+  ],
+  "knowledge": null
+}

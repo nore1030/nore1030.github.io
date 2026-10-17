@@ -1,0 +1,42 @@
+{
+  "id": "physics-g10up-u2-kp2",
+  "title": "自由落体与运动图象",
+  "bookId": "physics-g10up",
+  "unitNumber": 2,
+  "unitTitle": "匀变速直线运动",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "自由落体与运动图象",
+      "question": "自由落体 2 s 内下落高度是多少 m？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "20",
+      "explanation": "$h=\\frac12\\times10\\times4=20$ m。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "自由落体与运动图象",
+      "question": "自由落体运动的加速度与物体质量无关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同一地点 $g$ 相同。"
+    }
+  ],
+  "knowledge": {
+    "point": "自由落体与运动图象",
+    "core_concept": "自由落体是初速度为 0、加速度为 $g$ 的匀加速运动，$h=\\frac12gt^2$，$v=gt$。$v-t$ 图象的斜率表示加速度，面积表示位移。",
+    "key_formula": "$h=\\frac12gt^2$",
+    "common_mistakes": [
+      "把图象面积当作速度。"
+    ],
+    "tips": "面积即位移。"
+  }
+}

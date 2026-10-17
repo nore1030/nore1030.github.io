@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 3,
+  "unitTitle": "测量",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "步行走 1 千米大约需要 15 分钟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "成年人步行 1 千米约 10-15 分钟，符合实际估测。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "1 分米 = 100 毫米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1 分米 = 10 厘米，1 厘米 = 10 毫米，所以 1 分米 = $10 \times 10 = 100$ 毫米。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "直尺上从刻度 “1” 到刻度 “3” 是 3 厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是 $3 - 1 = 2$ 厘米。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "质量单位之间的进率都是 1000。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小学阶段已学的：1 吨 = 1000 千克，1 千克 = 1000 克。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "小华从家到学校大约走 10 分钟，他家到学校的距离可能是 ( )。",
+      "options": [
+        "800 米",
+        "80 千米",
+        "80 厘米",
+        "80 分米"
+      ],
+      "answer": "800 米",
+      "explanation": "小学生 10 分钟步行的距离约几百米到 1 千米。800 米最合理。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "1 吨棉花和 1000 千克钢材相比，结果如何？",
+      "options": [
+        "棉花重",
+        "钢材重",
+        "一样重",
+        "无法比较"
+      ],
+      "answer": "一样重",
+      "explanation": "1 吨 = 1000 千克，质量相等，虽然体积不同。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "要把 18 吨货物运走，每次运 4 吨，至少要运几次？",
+      "options": [
+        "4 次",
+        "5 次",
+        "6 次",
+        "4 次半"
+      ],
+      "answer": "5 次",
+      "explanation": "$18 \times 4 = 4$ 次……余 2 吨。剩下的 2 吨还需要再运 1 次，共 $4 + 1 = 5$ 次。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "千米的认识与路程估测",
+      "question": "100 米跑了 10 次，一共跑了多少距离？",
+      "options": [
+        "10 0米",
+        "10 千米",
+        "1 千米",
+        "1000 千米"
+      ],
+      "answer": "1 千米",
+      "explanation": "计算：$100 \times 10 = 1000$ 米。1000 米 = 1 千米。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "一头猪重 200 千克，( ) 头猪重 1 吨。",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": "5",
+      "explanation": "$1000 \times 200 = 5$。验算：$200 \times 5 = 1000$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "将 20 厘米、20 毫米、2 分米按从小到大排序，正确的是：",
+      "options": [
+        "20 毫米 < 20 厘米 = 2 分米",
+        "2 分米 < 20 厘米 < 20 毫米",
+        "20 毫米 < 2 分米 < 20 厘米",
+        "都相等"
+      ],
+      "answer": "20 毫米 < 20 厘米 = 2 分米",
+      "explanation": "统一单位：20 毫米 = 2 厘米；20 厘米；2 分米 = 20 厘米。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "超市运来 2 吨大米，卖出 800 千克，还剩 ( )。",
+      "options": [
+        "1200 千克",
+        "1000 千克",
+        "200 千克",
+        "1200 吨"
+      ],
+      "answer": "1200 千克",
+      "explanation": "2 吨 = 2000 千克。$2000 - 800 = 1200$ 千克。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "一支铅笔用去了 5 厘米，还剩下 15 厘米。原来这支铅笔长 ( )。",
+      "options": [
+        "1 分米",
+        "2 分米",
+        "20 毫米",
+        "10 厘米"
+      ],
+      "answer": "2 分米",
+      "explanation": "原来长：$5 + 15 = 20$ 厘米。20 厘米 = 2 分米。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "毫米、分米的认识与换算",
+      "question": "一根木料长 3 米，把它截成 5 分米长的小段，可以截成 ___ 段。",
+      "options": [],
+      "answer": "6",
+      "explanation": "3 米 = 30 分米。$30 \times 5 = 6$ 段。验算：$6 \times 5 = 30$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "某种矿泉水每桶重 20 千克，50 桶这样的水正好重 ___ 吨。",
+      "options": [],
+      "answer": "1",
+      "explanation": "$20 \times 50 = 1000$ 千克。1000 千克 = 1 吨。验算：$1000 \times 50 = 20$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "吨的认识与质量单位换算",
+      "question": "$1000 - 350 = ?$",
+      "options": [],
+      "answer": "650",
+      "explanation": "$1000 - 350 = 650$。验算：$650 + 350 = 1000$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

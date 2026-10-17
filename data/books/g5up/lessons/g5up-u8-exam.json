@@ -1,0 +1,217 @@
+{
+  "id": "g5up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "g5up",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "$2.5 \times 4 = 10$",
+      "options": [],
+      "answer": "对",
+      "explanation": "$2.5 \times 4 = 10$。计算正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "等底等高的两个三角形面积相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三角形面积 $S = ah \times 0.5$，字母相同，面积必相等。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "无限小数一定比有限小数大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如无限小数 $0.111...$ 小于有限小数 $0.2$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "直角三角形的面积等于两条直角边长度相乘所得积的一半。",
+      "options": [],
+      "answer": "对",
+      "explanation": "直角三角形中一条直角边为底，另一条即为高，符合公式。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "平行四边形的底是 6 分米，高是 4 分米，与它等底等高的三角形面积是多少平方分米？",
+      "options": [
+        "24",
+        "12",
+        "10",
+        "48"
+      ],
+      "answer": "12",
+      "explanation": "三角形面积是平行四边形的一半。$6 \times 4 \times 0.5 = 12$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "小华有 $x$ 支铅笔，小明有 5 支，两人共有多少支？",
+      "options": [
+        "$5x$",
+        "$x-5$",
+        "$x+5$",
+        "$x \times 5$"
+      ],
+      "answer": "$x+5$",
+      "explanation": "求总数用加法，即 $x+5$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "梯形的上底增加 3 厘米，下底减少 3 厘米，高不变，面积会：",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "不变",
+      "explanation": "上底加下底的和 $(a+3)+(b-3) = a+b$，和不变，所以面积不变。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "如果 $2x+3=13$，那么 $4x+1$ 的值是：",
+      "options": [
+        "20",
+        "21",
+        "10",
+        "41"
+      ],
+      "answer": "21",
+      "explanation": "由 $2x=10$ 得 $x=5$。代入 $4 \times 5 + 1 = 21$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "一个三角形的面积是 48 平方厘米，底是 12 厘米，高是多少厘米？",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "$48 \times 2 \times 12 = 8$。验算：$12 \times 8 \times 0.5 = 48$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "甲数是 $a$，乙数比甲数的 3 倍少 5，乙数是多少？",
+      "options": [
+        "$3a-5$",
+        "$3a+5$",
+        "$a \times 3$",
+        "$(a-5) \times 3$"
+      ],
+      "answer": "$3a-5$",
+      "explanation": "甲数的 3 倍是 $3a$，少 5 即减去 5。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多边形面积与几何公式复习",
+      "question": "梯形的面积公式是：",
+      "options": [
+        "$(a+b)h \times 0.5$",
+        "$ah$",
+        "$ah \times 0.5$",
+        "$ab$"
+      ],
+      "answer": "$(a+b)h \times 0.5$",
+      "explanation": "梯形面积等于（上底+下底）乘高除以 2。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "果园里有苹果树 120 棵，比梨树的 2 倍多 20 棵，梨树有多少棵？",
+      "options": [
+        "50",
+        "70",
+        "260",
+        "220"
+      ],
+      "answer": "50",
+      "explanation": "设梨树 $x$ 棵。$2x + 20 = 120$，$2x = 100$，$x = 50$。验算：$50 \times 2 + 20 = 120$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "如果 $x = 8$，那么 $2x + 4 = $ ___。",
+      "options": [],
+      "answer": "20",
+      "explanation": "$2 \times 8 + 4 = 16 + 4 = 20$。验算：$20 - 4 = 16$，$16 \times 2 = 8$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "要把 15.5 千克的油分装在容量为 2 千克的瓶子里，至少需要 ___ 个瓶子。",
+      "options": [],
+      "answer": "8",
+      "explanation": "$15.5 \times 2 = 7.75$，因为是装油，最后剩下的也需要一个瓶子，进一法取 8。验算：$7 \times 2 = 14 < 15.5$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘除法综合应用",
+      "question": "$1.2 \times 5 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$1.2 \times 5 = 6$。验算：$6 \times 5 = 1.2$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

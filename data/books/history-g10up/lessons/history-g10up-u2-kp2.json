@@ -1,0 +1,47 @@
+{
+  "id": "history-g10up-u2-kp2",
+  "title": "宋元明清的制度与社会变化",
+  "bookId": "history-g10up",
+  "unitNumber": 2,
+  "unitTitle": "隋唐至明清的繁荣与危机",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "宋元明清的制度与社会变化",
+      "question": "元朝在地方实行的制度是（　）",
+      "options": [
+        "郡县制",
+        "行省制",
+        "分封制",
+        "三省六部制"
+      ],
+      "answer": "行省制",
+      "explanation": "元朝行省制。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "宋元明清的制度与社会变化",
+      "question": "清朝设立军机处，标志君主专制发展到顶峰。",
+      "options": [],
+      "answer": "对",
+      "explanation": "军机处标志专制顶峰。"
+    }
+  ],
+  "knowledge": {
+    "point": "宋元明清的制度与社会变化",
+    "core_concept": "宋朝加强中央集权（分割相权、设转运使）。元朝实行行省制。明朝废丞相、设内阁，清朝设立军机处，君主专制达到顶峰。明清时期出现资本主义萌芽。",
+    "key_formula": "明废丞相，清设军机处",
+    "common_mistakes": [
+      "把内阁当作法定行政机构。"
+    ],
+    "tips": "内阁是顾问机构。"
+  }
+}

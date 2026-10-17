@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp8",
+  "title": "植物的生命特征",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "植物的生命特征",
+      "question": "塑料花不需要浇水也能长大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "塑料花不是生物，它是不会生长的。"
+    }
+  ],
+  "knowledge": null
+}

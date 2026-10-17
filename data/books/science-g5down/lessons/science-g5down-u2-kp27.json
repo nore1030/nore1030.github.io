@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp27",
+  "title": "动力设备",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 21,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动力设备",
+      "question": "利用电池和马达连接的、可以拨动水流转动的动力装置叫（___）。",
+      "options": [],
+      "answer": "螺旋桨",
+      "explanation": "螺旋桨通过旋转将马达的扭矩转化为水的推力。"
+    }
+  ],
+  "knowledge": null
+}

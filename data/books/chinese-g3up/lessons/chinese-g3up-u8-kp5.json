@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp5",
+  "title": "词义理解",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "“众皆弃去”中的“皆”是“完全、全都不”的意思。",
+      "options": [],
+      "answer": "错",
+      "explanation": "皆在文言文里是“全，都”的意思（肯定含义）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "g3up-u1-kp1",
+  "title": "秒的认识与量感建立",
+  "bookId": "g3up",
+  "unitNumber": 1,
+  "unitTitle": "时、分、秒",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "钟面上走得最快的是秒针，它走1小格是1秒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "钟面上有时针、分针和秒针。秒针最细最长，走动速度最快，它每走过1小格代表时间经过了1秒。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "小明系好红领巾大约需要20分钟。",
+      "options": [],
+      "answer": "错",
+      "explanation": "系红领巾是一个较短的动作，通常只需要20秒左右，20分钟时间太长了，不符合常理。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "眨一下眼睛的时间大约是1（    ）。",
+      "options": [
+        "时",
+        "分",
+        "秒",
+        "米"
+      ],
+      "answer": "秒",
+      "explanation": "眨眼是非常瞬间的动作，建立时间量感可知，应用“秒”做单位。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "秒针从数字“3”走到数字“6”，经过了（    ）秒。",
+      "options": [
+        "3",
+        "15",
+        "30",
+        "6"
+      ],
+      "answer": "15",
+      "explanation": "秒针走1大格是5秒。从“3”到“6”走了3个大格，即 $3 \\times 5 = 15$ 秒。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "100米赛跑，小悦用了16秒，小华用了18秒，谁跑得快？",
+      "options": [
+        "小悦",
+        "小华",
+        "一样快",
+        "无法确定"
+      ],
+      "answer": "小悦",
+      "explanation": "赛跑中用时越少说明速度越快。$16 < 18$，所以用时16秒的小悦跑得快。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "分针走1小格，秒针走（    ）。",
+      "options": [
+        "1小格",
+        "1大格",
+        "1圈",
+        "60圈"
+      ],
+      "answer": "1圈",
+      "explanation": "1分=60秒。分针走1小格是1分，秒针走1圈正好是60秒，即1分。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "秒的认识与量感建立",
+      "question": "唱一遍《义勇军进行曲》的时间大约是（    ）。",
+      "options": [
+        "45秒",
+        "45分",
+        "45时",
+        "4秒"
+      ],
+      "answer": "45秒",
+      "explanation": "根据常识，国歌长度约为45秒至50秒，分或时作为单位显然不合理。"
+    }
+  ],
+  "knowledge": {
+    "point": "秒的认识与量感建立",
+    "core_concept": "秒是比分更小的时间单位。钟面上最长、走得最快的是秒针。秒针走1小格是1秒，走1圈是60秒，也就是1分。建立秒的量感可以通过‘眨一下眼’、‘数一个数’或‘心跳一次’等动作来感知。",
+    "key_formula": "秒针走1小格 = 1秒，走1圈 = 60秒",
+    "common_mistakes": [
+      "混淆时针、分针、秒针的形态和功能。",
+      "对秒的长度估测错误，例如认为剥一个橘子需要1秒。"
+    ],
+    "tips": "观察钟表，跟着秒针的节奏拍手或数数，帮助建立节奏感。"
+  }
+}

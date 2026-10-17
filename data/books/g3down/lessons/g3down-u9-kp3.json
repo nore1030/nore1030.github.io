@@ -1,0 +1,53 @@
+{
+  "id": "g3down-u9-kp3",
+  "title": "统计图表与数据解读",
+  "bookId": "g3down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图表与数据解读",
+      "question": "在复式统计表中，要了解班级同学最喜欢的运动，主要看表中的哪一部分？",
+      "options": [
+        "标题",
+        "制表日期",
+        "数据内容",
+        "备注"
+      ],
+      "answer": "数据内容",
+      "explanation": "统计表中的核心是数据，通过数据反映具体情况。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图表与数据解读",
+      "question": "复式统计表与单式统计表相比，最大的优点是：",
+      "options": [
+        "更美观",
+        "数据更多",
+        "便于比较",
+        "更好填"
+      ],
+      "answer": "便于比较",
+      "explanation": "复式统计表将多个项目放在一张表内，最核心的优势是方便进行横向或纵向对比分析。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计图表与数据解读",
+    "core_concept": "了解复式统计表的结构，能根据统计表中的数据回答简单的问题并进行简单的预测和分析。学会横向和纵向对比数据，发现数据背后的规律。",
+    "key_formula": "总数 $=$ 各部分数据之和",
+    "common_mistakes": [
+      "看错行或列，导致提取数据错误",
+      "在计算合计项时发生计算失误"
+    ],
+    "tips": "读表时先看标题和标题行、标题列，明确数据代表的意义，再进行计算。"
+  }
+}

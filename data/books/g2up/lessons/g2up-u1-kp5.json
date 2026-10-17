@@ -1,0 +1,23 @@
+{
+  "id": "g2up-u1-kp5",
+  "title": "米的认识 with 单位换算",
+  "bookId": "g2up",
+  "unitNumber": 1,
+  "unitTitle": "长度单位",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "米的认识 with 单位换算",
+      "question": "1 米 = ___ 厘米。",
+      "options": [],
+      "answer": "100",
+      "explanation": "根据教材定义，1米等于100个1厘米。验算：$100 \\div 1 = 100$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 9,
+  "unitTitle": "数学广角——集合",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "集合思想与韦恩图应用",
+      "question": "韦恩图中两个圆圈完全不相交，表示两个集合没有共同的元素。",
+      "options": [],
+      "answer": "对",
+      "explanation": "不相交意味着没有重叠区域，即没有共有元素。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "身份证号码的第 1 到 6 位代表一个人的出生日期。",
+      "options": [],
+      "answer": "错",
+      "explanation": "前 6 位是行政区划代码，第 7 到 14 位才是出生日期。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "学号‘20230105’中，‘2023’可能代表入学年份。",
+      "options": [],
+      "answer": "对",
+      "explanation": "编码通常包含年份信息，2023 位于开头常代表年份。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "把两根 8 厘米的木棒接在一起，重叠 2 厘米，接好后的总长是 14 厘米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$8 + 8 - 2 = 14$ 厘米。验算：$14 + 2 = 16 = 8 \times 2$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "身份证号 11010119900307123X，其中的最后一位“X”代表数字几？",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "11"
+      ],
+      "answer": "10",
+      "explanation": "在身份证校验码计算中，如果余数是 10，则用罗马数字 X 表示。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "一队小朋友排队，从前数小方第 8，从后数小方第 8，这一队共有多少人？",
+      "options": [
+        "16",
+        "15",
+        "14",
+        "17"
+      ],
+      "answer": "15",
+      "explanation": "$8 + 8 - 1 = 15$人。小方被计算了两遍。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "某生的学号是 20210231，表示 2021 年入学的 2 班 31 号。那么 2022 年入学的 4 班 15 号编码应是：",
+      "options": [
+        "2022415",
+        "20220415",
+        "220415",
+        "202204015"
+      ],
+      "answer": "20220415",
+      "explanation": "年份 2022 + 班级 04 + 序号 15 = 20220415。位数应保持统一。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "妈妈买回 10 个苹果和 8 个梨。有 2 个水果既是红色的又是苹果。红色的苹果属于：",
+      "options": [
+        "只属于苹果集合",
+        "只属于红色集合",
+        "属于苹果与红色的重叠部分",
+        "不属于任何集合"
+      ],
+      "answer": "属于苹果与红色的重叠部分",
+      "explanation": "因为它具备两个集合的特征，应放在韦恩图的中间交集处。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "三(1)班有 45 人，订阅《故事会》的有 28 人，订阅《漫画大王》的有 25 人。每人至少订阅其中一种。两样都订的有几人？",
+      "options": [
+        "8",
+        "53",
+        "7",
+        "17"
+      ],
+      "answer": "8",
+      "explanation": "重叠 = 两个集合和 - 总人数。$28 + 25 = 53$，$53 - 45 = 8$人。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "银行卡密码通常由 6 位数字组成，这属于：",
+      "options": [
+        "身份编码",
+        "验证编码",
+        "顺序编码",
+        "位置编码"
+      ],
+      "answer": "验证编码",
+      "explanation": "密码用于身份验证和安全校验。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "两份名单，A 名单 15 人，B 名单 12 人。合并后去重共 20 人，请问 B 名单里有多少人不在 A 名单里？",
+      "options": [
+        "5",
+        "8",
+        "7",
+        "12"
+      ],
+      "answer": "5",
+      "explanation": "重叠人数 = $15 + 12 - 20 = 7$人。B 名单独有人数 = $12 - 7 = 5$人。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字编码的含义与规则",
+      "question": "报警电话是多少？",
+      "options": [
+        "110",
+        "119",
+        "120",
+        "114"
+      ],
+      "answer": "110",
+      "explanation": "常识：110 是我国的公安报警电话。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "把两段长分别为 40 厘米的铁链焊接在一起，重叠部分长 5 厘米。焊接后的铁链总长是 ___ 厘米。",
+      "options": [],
+      "answer": "75",
+      "explanation": "列式：$40 + 40 - 5 = 75$。验算：$75 + 5 = 80 = 40 \times 2$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "集合思想与韦恩图应用",
+      "question": "一个班有 30 人，喜欢足球的有 18 人，喜欢篮球的有 15 人。如果每人至少喜欢其中一种，两样都喜欢的有 ___ 人。",
+      "options": [],
+      "answer": "3",
+      "explanation": "列式：$18 + 15 - 30 = 3$。验算：$18 + 15 = 33$，$30 + 3 = 33$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "重叠问题的计算逻辑",
+      "question": "计算：$50 + 40 - 30 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$50 + 40 = 90$，$90 - 30 = 60$。确认结果为 60。"
+    }
+  ],
+  "knowledge": null
+}

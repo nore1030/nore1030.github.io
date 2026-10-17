@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp17",
+  "title": "移步换景规律",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "移步换景规律",
+      "question": "习作《我的校园》如果按移步换景写，正确的顺序是？",
+      "options": [
+        "教学楼—草操场—校门—花园",
+        "校门—教学楼—操场—花园",
+        "操场—校门—花园—教学楼",
+        "花园—操场—校门—教学楼"
+      ],
+      "answer": "校门—教学楼—操场—花园",
+      "explanation": "按照进校的游览路径顺序写作是最符合移步换景逻辑的。"
+    }
+  ],
+  "knowledge": null
+}

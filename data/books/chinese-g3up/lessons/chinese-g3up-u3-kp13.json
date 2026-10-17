@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u3-kp13",
+  "title": "童话语言风格",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 12,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "童话语言风格",
+      "question": "请根据课文内容排序：一只红红的小蟋蟀求救的话。",
+      "options": [
+        "救命啊",
+        "我在",
+        "肚子里",
+        "牛的"
+      ],
+      "answer": "救命啊,我在,牛的,肚子里",
+      "explanation": "模拟红头遇险时的紧急呼救。"
+    }
+  ],
+  "knowledge": null
+}

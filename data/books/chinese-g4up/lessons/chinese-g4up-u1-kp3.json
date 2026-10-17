@@ -1,0 +1,81 @@
+{
+  "id": "chinese-g4up-u1-kp3",
+  "title": "边读边想象画面",
+  "bookId": "chinese-g4up",
+  "unitNumber": 1,
+  "unitTitle": "自然之美",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "边读边想象画面",
+      "question": "在读课文时，如果脑海中浮现出画面，会帮助我们更好地理解课文。",
+      "options": [],
+      "answer": "对",
+      "explanation": "想象画面是本单元的核心语文要素，能让静态文字变生动。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "边读边想象画面",
+      "question": "“细细的溪水流着，灰白色的鹅卵石布满河床。”读到这句，你最可能联想到的画面是？",
+      "options": [
+        "海边冲浪的惊险",
+        "山间小溪的清亮",
+        "波涛汹涌的瀑布",
+        "辽阔无边的草原"
+      ],
+      "answer": "山间小溪的清亮",
+      "explanation": "从“细细的溪水”和“鹅卵石”可以联想到山涧清爽的景色。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "边读边想象画面",
+      "question": "阅读“月儿是那样明亮，月光是那样柔和”，你脑海中浮现的色调是？",
+      "options": [
+        "火红色",
+        "银白色",
+        "金黄色",
+        "翠绿色"
+      ],
+      "answer": "银白色",
+      "explanation": "柔和明亮的月光通常被想象为洁净的银白色。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "边读边想象画面",
+      "question": "请将下列关于《繁星》的描写词语连成句子：",
+      "options": [
+        "柔和的",
+        "静寂的",
+        "夜里",
+        "我望着",
+        "星群"
+      ],
+      "answer": "静寂的,夜里,我望着,柔和的,星群",
+      "explanation": "通过修辞组合，表现作者对星空的细腻感受。"
+    }
+  ],
+  "knowledge": {
+    "point": "边读边想象画面",
+    "core_concept": "这是阅读写景类文章最核心的策略。要求学生在朗读时，不仅看到汉字，还要在大脑中完成“数字化建模”。不仅有视觉的颜色（白浪），还有听觉的高低（隆隆声），甚至有气味（泥土芬芳）。",
+    "key_formula": "视觉 + 听觉 + 嗅觉 + 想象 = 完整的画面。",
+    "common_mistakes": [
+      "只识字不入心，读完后无法描述文字描述的景象。",
+      "想象太随意，脱离了文本提供的关键词。"
+    ],
+    "tips": "闭上眼睛听老师朗读，尝试用自己的话描绘出脑海中出现的颜色和声音。"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "chinese-g5down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g5down",
+  "unitNumber": 1,
+  "unitTitle": "童年往事",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘昼出耘田夜绩麻’中的‘昼’指白天气，‘绩麻’指在麻地里干活。",
+      "options": [],
+      "answer": "错",
+      "explanation": "绩麻是指把麻搓成线，而不是在麻地里干活。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "体会课文表达的思想感情",
+      "question": "《梅花魂》全文以梅花为线索，重点刻画了外祖父的思乡之情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "梅花是文章的魂，贯穿始终，寄托情感。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "《稚子弄冰》中‘金盆脱晓冰’描写了早晨起来玩冰的情景。",
+      "options": [],
+      "answer": "对",
+      "explanation": "‘脱晓冰’意为拂晓时分取出冰块。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "《祖父的园子》主要描写了园中丰富的动植物知识，属于说明文。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一篇借物抒情的散文，重点在于表达情感而非传授知识。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体会课文表达的思想感情",
+      "question": "《梅花魂》中，外祖父教‘我’背诵古诗，最不可能背诵的是：",
+      "options": [
+        "春草明年绿，王孙归不归",
+        "独在异乡为异客，每逢佳节倍思亲",
+        "欲穷千里目，更上一层楼",
+        "自在飞花轻似梦，无边丝雨细如愁"
+      ],
+      "answer": "欲穷千里目，更上一层楼",
+      "explanation": "外祖父教的是带愁绪的唐诗宋词，表达的是思乡之苦，而《登鹳雀楼》是励志诗。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体会课文表达的思想感情",
+      "question": "下列哪组词语最能概括萧红笔下‘园子’的特点？",
+      "options": [
+        "神秘、忧伤",
+        "荒凉、破败",
+        "生机、自由",
+        "严谨、规范"
+      ],
+      "answer": "生机、自由",
+      "explanation": "祖父的园子里植物自由生长，孩子无拘无束。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘清、蜻、顷’的意思分别与什么有关？",
+      "options": [
+        "水、草、土",
+        "水、虫、地",
+        "气、虫、页",
+        "心、虫、火"
+      ],
+      "answer": "水、虫、地",
+      "explanation": "清由三点水构成，蜻为虫字旁，顷常用于描述地亩。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "‘他在一棵树下乘凉，我也在一棵树下乘凉。’这种写法展现了：",
+      "options": [
+        "‘我’很懒惰",
+        "祖父对‘我’的管教不严",
+        "‘我’对祖父的模仿与亲密感",
+        "太阳光太刺眼了"
+      ],
+      "answer": "‘我’对祖父的模仿与亲密感",
+      "explanation": "这种并列的结构写出了祖孙相处时的和谐与温馨。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体会课文表达的思想感情",
+      "question": "‘月是故乡明’，这句话出自谁的哪首诗？",
+      "options": [
+        "李白《静夜思》",
+        "杜甫《月夜忆舍弟》",
+        "孟浩然《春晓》",
+        "刘方平《月夜》"
+      ],
+      "answer": "杜甫《月夜忆舍弟》",
+      "explanation": "这是名句出处的文化常识考察。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "习作：把情感写具体",
+      "question": "给‘那一刻，我真惭愧’起草习作大纲，哪组细节最能打动人？",
+      "options": [
+        "我吃了一个苹果，苹果很甜。",
+        "我低下头，脸上火辣辣的，不敢看他的眼睛。",
+        "我走在路上，天很蓝，云很快。",
+        "妈妈说了一句特别长的话。"
+      ],
+      "answer": "我低下头，脸上火辣辣的，不敢看他的眼睛。",
+      "explanation": "通过动作和神态描写具体表现了内心的惭愧。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘敲成玉磬穿林响’中，这里的‘玉磬’是指（___）。",
+      "options": [],
+      "answer": "冰块",
+      "explanation": "诗人把敲冰的声音比作玉磬，这里代指冰块。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "（___）村落映平川，山色葱茏入瑞烟。",
+      "options": [],
+      "answer": "草满",
+      "explanation": "考察对《村晚》首句的记忆。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "借物/事抒情的方法",
+      "question": "请将描写方法与其对应的例句匹配。",
+      "options": [
+        "动作描写",
+        "语言描写",
+        "环境描写",
+        "心理描写",
+        "满园的庄稼长得极快",
+        "哪怕是一根草我也喜欢",
+        "爷爷把铲头递给了我",
+        "‘这哪是种瓜呀？’"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "匹配相应的描写方法。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "请连接古诗题目与描写的季节。",
+      "options": [
+        "《四时田园杂兴》",
+        "《稚子弄冰》",
+        "《村晚》",
+        "《游园不值》",
+        "夏季",
+        "冬季",
+        "夏季",
+        "春季"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "通过内容判断古诗对应的季节。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体会课文表达的思想感情",
+      "question": "排出一句关于梅花品格的经典描述。",
+      "options": [
+        "唯有",
+        "愈是",
+        "愈是",
+        "寒冷",
+        "精神",
+        "风欺雪压"
+      ],
+      "answer": "愈是,寒冷,愈是,风欺雪压,唯有,精神",
+      "explanation": "此处为缩略表达梅花气节的语序重组。"
+    }
+  ],
+  "knowledge": null
+}

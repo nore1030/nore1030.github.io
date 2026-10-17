@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp22",
+  "title": "植物的生长阶段",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物的生长阶段",
+      "question": "一棵完整的向日葵一生会经历（___）个主要阶段（种子、幼苗、开花、结果）。",
+      "options": [],
+      "answer": "4",
+      "explanation": "向日葵的生命周期主要包括这四个核心阶段。"
+    }
+  ],
+  "knowledge": null
+}

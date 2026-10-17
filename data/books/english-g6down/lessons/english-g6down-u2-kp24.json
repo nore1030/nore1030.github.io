@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u2-kp24",
+  "title": "动词原形与过去式对应",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词原形与过去式对应",
+      "question": "请将单词原形与其过去式对应。",
+      "options": [
+        "wash",
+        "study",
+        "do",
+        "go",
+        "did",
+        "went",
+        "studied",
+        "washed"
+      ],
+      "answer": "A-4,B-3,C-1,D-2",
+      "explanation": "对应规则：wash-washed, study-studied, do-did, go-went。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp8",
+  "title": "年龄询问",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "年龄询问",
+      "question": "回答年龄时可以使用 'I'm nine years old.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是询问年龄的标准答语。"
+    }
+  ],
+  "knowledge": null
+}

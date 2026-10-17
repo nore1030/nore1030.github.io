@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u5-kp1",
+  "title": "请求用语 Can I…?",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 5 Can I have an ice cream? 请求与许可",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "请求用语 Can I…?",
+      "question": "「我可以吃个冰淇淋吗？」的英文是（　）",
+      "options": [
+        "Can I have an ice cream?",
+        "Can I has an ice cream?",
+        "Can I have a ice cream?",
+        "I can have an ice cream?"
+      ],
+      "answer": "Can I have an ice cream?",
+      "explanation": "元音音素前用 an。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "请求用语 Can I…?",
+      "question": "肯定回答别人的请求，应说（　）",
+      "options": [
+        "Yes, you can.",
+        "Yes, I can.",
+        "Yes, you do.",
+        "Yes, please do."
+      ],
+      "answer": "Yes, you can.",
+      "explanation": "问 you 答 you。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "请求用语 Can I…?",
+      "question": "Can I come in? 是在请求许可。",
+      "options": [],
+      "answer": "对",
+      "explanation": "请求进门。"
+    }
+  ],
+  "knowledge": {
+    "point": "请求用语 Can I…?",
+    "core_concept": "请求许可用 Can I…?，肯定 Yes, you can. / Yes, here you are. 否定 No, you can't. But you can have a cake.",
+    "key_formula": "Can I have an ice cream? — Yes, here you are.",
+    "common_mistakes": [
+      "请求时用 Give me…（不礼貌）。"
+    ],
+    "tips": "礼貌请求带 please 更好。"
+  }
+}

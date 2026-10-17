@@ -1,0 +1,75 @@
+{
+  "id": "g1up-u9-kp3",
+  "title": "多步实际问题的解决",
+  "bookId": "g1up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "小明前面有 3 人，后面有 4 人，这一排一共有 7 人。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计算总人数要加上小明自己：$3 + 4 + 1 = 8$（人）。验算：$8-3-4=1$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "操场上有 8 个小朋友在玩，又来了 4 个，走了 2 个。现在有多少个？",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer": "10",
+      "explanation": "列式：$8 + 4 - 2 = 10$。验算：$10 + 2 - 4 = 8$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "小红要做 14 朵红花，已经做了 4 朵，还要做几朵？",
+      "options": [
+        "18",
+        "10",
+        "14",
+        "4"
+      ],
+      "answer": "10",
+      "explanation": "总数 14，已做 4。列式：$14 - 4 = 10$。验算：$10 + 4 = 14$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步实际问题的解决",
+      "question": "树上原来有 7 只鸟，飞走了 2 只，又飞来了 5 只。树上现在有 ___ 只鸟。",
+      "options": [],
+      "answer": "10",
+      "explanation": "列式：$7 - 2 + 5 = 10$。验算：$10 - 5 + 2 = 7$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "多步实际问题的解决",
+    "core_concept": "学会从文字中提取关键信息，区分“前、后、左、右”的位置关系。处理排队问题时，要注意“包含”和“不包含”目标本人的情况。理解“增加了、又来了”用加法，“飞走了、吃掉了”用减法。",
+    "key_formula": "总人数 = 前面人数 + 后面人数 + 1（自己）",
+    "common_mistakes": [
+      "排队问题漏加自己：如计算前后总共人数时直接加数字",
+      "不理解“捉迷藏”模型：忽略捉迷藏中必须有1个人是寻找者"
+    ],
+    "tips": "遇到排队题，养成动笔画小圆圈代表人的好习惯，防止漏算或多算。"
+  }
+}

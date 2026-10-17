@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u4-kp2",
+  "title": "动作词汇 jump / run / swim / fly",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 4 I can jump 我能行",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动作词汇 jump / run / swim / fly",
+      "question": "「它会飞。」的英文是（　）",
+      "options": [
+        "It can fly.",
+        "It can flies.",
+        "It can to fly.",
+        "It can't fly."
+      ],
+      "answer": "It can fly.",
+      "explanation": "can + 原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "动作词汇 jump / run / swim / fly",
+    "core_concept": "jump 跳、run 跑、swim 游泳、fly 飞；jump far 跳得远、run fast 跑得快。",
+    "key_formula": "I can jump far. / It can fly.",
+    "common_mistakes": [
+      "far 与 fast 混用。"
+    ],
+    "tips": "far 管距离，fast 管速度。"
+  }
+}

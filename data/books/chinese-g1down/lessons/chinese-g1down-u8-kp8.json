@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp8",
+  "title": "标点符号",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 7,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“你吃过早饭了吗（ ）” 括号里应该填什么标点？",
+      "options": [
+        "！",
+        "。",
+        "，",
+        "？"
+      ],
+      "answer": "？",
+      "explanation": "这是一个疑问句。"
+    }
+  ],
+  "knowledge": null
+}

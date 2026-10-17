@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6up-u2-kp16",
+  "title": "词语释义配对",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 14,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语释义配对",
+      "question": "请将下列词语与它们对应的意思连线。",
+      "options": [
+        "瞻仰",
+        "擎",
+        "磅礴",
+        "逶迤",
+        "举起",
+        "恭敬地看",
+        "形容山脉弯曲绵延",
+        "气势雄伟"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "瞻仰-恭敬地看；擎-举；磅礴-气势雄伟；逶迤-弯曲绵延。"
+    }
+  ],
+  "knowledge": null
+}

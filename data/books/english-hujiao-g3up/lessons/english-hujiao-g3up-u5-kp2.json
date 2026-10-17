@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u5-kp2",
+  "title": "介绍家人 This is my…",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 2 My family, my friends and me — My family 我的家庭",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍家人 This is my…",
+      "question": "「这是我爸爸。」的英文是（　）",
+      "options": [
+        "This is my father.",
+        "This is my mother.",
+        "He is my father.",
+        "This my father."
+      ],
+      "answer": "This is my father.",
+      "explanation": "介绍家人用 This is my…"
+    }
+  ],
+  "knowledge": {
+    "point": "介绍家人 This is my…",
+    "core_concept": "介绍家人用 This is my father / mother / brother / sister。复数 these are…",
+    "key_formula": "This is my father. / These are my parents.",
+    "common_mistakes": [
+      "介绍多人还用 this is。"
+    ],
+    "tips": "多个用 these are。"
+  }
+}

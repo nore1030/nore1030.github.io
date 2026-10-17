@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u10-exam",
+  "title": "第 10 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 10,
+  "unitTitle": "Module 10 Spring Festival 春节",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "春节词汇",
+      "question": "「灯笼」的英文是（　）",
+      "options": [
+        "lantern",
+        "lantarn",
+        "lanternn",
+        "lentern"
+      ],
+      "answer": "lantern",
+      "explanation": "lantern 灯笼。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "节日活动表达",
+      "question": "「年夜饭」的英文是（　）",
+      "options": [
+        "New Year's dinner",
+        "New Year dinner",
+        "the New Year's dinners",
+        "New Years' dinner"
+      ],
+      "answer": "New Year's dinner",
+      "explanation": "固定表达。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "节日活动表达",
+      "question": "春节是中国重要的传统节日。",
+      "options": [],
+      "answer": "对",
+      "explanation": "传统节日。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "节日活动表达",
+      "question": "「我们打算看烟花。」的英文是（　）",
+      "options": [
+        "We're going to watch fireworks.",
+        "We going to watch fireworks.",
+        "We're going to watch firework.",
+        "We're going to watching fireworks."
+      ],
+      "answer": "We're going to watch fireworks.",
+      "explanation": "be going to + 原形。"
+    }
+  ],
+  "knowledge": null
+}

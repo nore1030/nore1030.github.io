@@ -1,0 +1,66 @@
+{
+  "id": "english-beishida-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-beishida-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 校园与学习",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学校场所与科目",
+      "question": "“化学”的英文是（　）",
+      "options": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "History"
+      ],
+      "answer": "Chemistry",
+      "explanation": "化学 Chemistry。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时的疑问与否定",
+      "question": "She ___ like English.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "answer": "doesn't",
+      "explanation": "第三人称单数否定。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "学校场所与科目",
+      "question": "playground 指操场。",
+      "options": [],
+      "answer": "对",
+      "explanation": "操场。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时的疑问与否定",
+      "question": "一般现在时否定句用 don't/doesn't + 动词原形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "否定结构。"
+    }
+  ],
+  "knowledge": null
+}

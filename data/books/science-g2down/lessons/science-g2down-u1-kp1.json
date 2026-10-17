@@ -1,0 +1,87 @@
+{
+  "id": "science-g2down-u1-kp1",
+  "title": "磁铁能吸引什么",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "磁铁能吸引什么",
+      "question": "磁铁不仅能吸引铁，还能吸引铜、铝等所有的金属。",
+      "options": [],
+      "answer": "错",
+      "explanation": "磁铁主要吸引铁、钴、镍。铜、铝等金属是不能被磁铁吸引的。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁铁能吸引什么",
+      "question": "下列物品中，磁铁能够吸引的是（    ）。",
+      "options": [
+        "橡皮擦",
+        "木筷子",
+        "回形针",
+        "纸盒"
+      ],
+      "answer": "回形针",
+      "explanation": "回形针通常是铁制的，属于磁性物质。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁铁能吸引什么",
+      "question": "生活中，我们可以利用磁铁来寻找（    ）。",
+      "options": [
+        "掉在土地里的钥匙",
+        "洒在桌子上的水",
+        "飞进屋子的蝴蝶",
+        "散落在草地上的木屑"
+      ],
+      "answer": "掉在土地里的钥匙",
+      "explanation": "钥匙通常含有铁质成分，可以用磁铁吸引出来。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁铁能吸引什么",
+      "question": "关于磁铁，下列说法正确的是（    ）。",
+      "options": [
+        "磁铁只有条形的",
+        "磁铁掉在地上碎了就没有磁极了",
+        "磁铁可以吸起回形针",
+        "磁铁无法吸引镍"
+      ],
+      "answer": "磁铁可以吸起回形针",
+      "explanation": "磁铁形状多样，磁化作用与碎裂与否无关（碎了依旧有两极），且能吸镍。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁铁能吸引什么",
+      "question": "如果在教室里找磁铁制品，我们会发现它们主要出现在（    ）。",
+      "options": [
+        "黑板边框",
+        "塑料椅子",
+        "玻璃窗户",
+        "红领巾"
+      ],
+      "answer": "黑板边框",
+      "explanation": "黑板边框通常含有铁或其他磁性金属，教学中也常用磁铁吸附教具。"
+    }
+  ],
+  "knowledge": null
+}

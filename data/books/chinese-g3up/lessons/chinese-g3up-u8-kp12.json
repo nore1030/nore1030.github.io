@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp12",
+  "title": "人物心理",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物心理",
+      "question": "列宁说：“多好的灰雀呀，可惜再也飞不回来了。”这句话表达了列宁：",
+      "options": [
+        "对灰雀丢失的愤怒",
+        "对男孩说谎的严厉指责",
+        "对灰雀的喜爱和惋惜之情",
+        "想吓唬男孩"
+      ],
+      "answer": "对灰雀的喜爱和惋惜之情",
+      "explanation": "列宁通过表达惋惜，侧面触动男孩，体现了他的慈爱。"
+    }
+  ],
+  "knowledge": null
+}

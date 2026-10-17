@@ -1,0 +1,36 @@
+{
+  "id": "biology-g7up-u2-kp3",
+  "title": "生物体的结构层次",
+  "bookId": "biology-g7up",
+  "unitNumber": 2,
+  "unitTitle": "细胞与生物体的结构层次",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生物体的结构层次",
+      "question": "植物体的结构层次不包括（　）",
+      "options": [
+        "细胞",
+        "组织",
+        "器官",
+        "系统"
+      ],
+      "answer": "系统",
+      "explanation": "植物无系统层次。"
+    }
+  ],
+  "knowledge": {
+    "point": "生物体的结构层次",
+    "core_concept": "植物体层次：细胞→组织→器官→植物体；动物体层次：细胞→组织→器官→系统→动物体。",
+    "key_formula": "动物多“系统”层次",
+    "common_mistakes": [
+      "把植物也说成有系统层次。"
+    ],
+    "tips": "植物无系统层次。"
+  }
+}

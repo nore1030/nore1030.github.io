@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g8up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-renjiao-g8up",
+  "unitNumber": 3,
+  "unitTitle": "情态动词与比较级",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 can / must / should",
+      "question": "You ___ be late for school again.",
+      "options": [
+        "mustn't",
+        "must",
+        "can't",
+        "should"
+      ],
+      "answer": "mustn't",
+      "explanation": "禁止迟到用 mustn't。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词与比较级",
+      "question": "Tom is the ___ boy in his class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "the tallest"
+      ],
+      "answer": "the tallest",
+      "explanation": "三者以上用最高级。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 can / must / should",
+      "question": "should 表示“应该、建议”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "should 表应该。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词与比较级",
+      "question": "最高级前通常要加 the。",
+      "options": [],
+      "answer": "对",
+      "explanation": "最高级加 the。"
+    }
+  ],
+  "knowledge": null
+}

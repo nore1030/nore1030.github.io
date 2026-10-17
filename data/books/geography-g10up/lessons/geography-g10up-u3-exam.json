@@ -1,0 +1,66 @@
+{
+  "id": "geography-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "geography-g10up",
+  "unitNumber": 3,
+  "unitTitle": "地貌、植被与自然灾害",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "自然灾害与防灾减灾",
+      "question": "减轻滑坡危害的合理措施是（　）",
+      "options": [
+        "加固坡体、监测预警",
+        "坡脚开挖",
+        "大量灌溉",
+        "坡顶堆载"
+      ],
+      "answer": "加固坡体、监测预警",
+      "explanation": "工程与监测结合。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "常见地貌类型",
+      "question": "我国西南地区喀斯特地貌分布广泛。",
+      "options": [],
+      "answer": "对",
+      "explanation": "石灰岩广布。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "自然灾害与防灾减灾",
+      "question": "台风常带来狂风暴雨，也可能缓解旱情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "台风利弊并存。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "常见地貌类型",
+      "question": "冲积扇一般形成在（　）",
+      "options": [
+        "河流出山口",
+        "河流入海口",
+        "河流源头",
+        "沙漠腹地"
+      ],
+      "answer": "河流出山口",
+      "explanation": "出山口堆积形成冲积扇。"
+    }
+  ],
+  "knowledge": null
+}

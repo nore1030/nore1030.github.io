@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u2-kp11",
+  "title": "植物的变异",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 5,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的变异",
+      "question": "“一母生九子，连母十个样”这句话描述的主要是（ ）现象。",
+      "options": [
+        "遗传",
+        "变异",
+        "进化",
+        "发育"
+      ],
+      "answer": "变异",
+      "explanation": "这句话说明了同胞兄弟之间以及与亲代之间的差异，属于变异。"
+    }
+  ],
+  "knowledge": null
+}

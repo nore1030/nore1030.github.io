@@ -1,0 +1,80 @@
+{
+  "id": "g5down-u5-kp3",
+  "title": "生活中的旋转现象应用",
+  "bookId": "g5down",
+  "unitNumber": 5,
+  "unitTitle": "图形的运动（三）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的旋转现象应用",
+      "question": "下列哪种现象属于旋转现象？",
+      "options": [
+        "升降电梯的运行",
+        "风扇叶片的转动",
+        "拉开抽屉",
+        "推拉窗户的开关"
+      ],
+      "answer": "风扇叶片的转动",
+      "explanation": "电梯、抽屉、推拉窗均属于平移现象，风扇叶片绕轴转动是旋转现象。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的旋转现象应用",
+      "question": "收费站的道闸杆上升时，主要是绕哪个部分进行旋转的？",
+      "options": [
+        "杆的顶端",
+        "杆的中央",
+        "固定转轴的一端",
+        "地面"
+      ],
+      "answer": "固定转轴的一端",
+      "explanation": "道闸杆是以固定其转动的轴为中心进行旋转运动的。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的旋转现象应用",
+      "question": "跷跷板的运动属于什么现象？",
+      "options": [
+        "平移",
+        "旋转",
+        "放大",
+        "对称"
+      ],
+      "answer": "旋转",
+      "explanation": "跷跷板绕中间的支点上下摆动，属于旋转运动。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活中的旋转现象应用",
+      "question": "吊扇有 3 个叶片，每个叶片之间夹角相等。每个夹角是 ___ 度。",
+      "options": [],
+      "answer": "120",
+      "explanation": "圆周 360 度平分给 3 个叶片间隔。$360 \times 3 = 120$。验算：$120 \times 3 = 360$✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "生活中的旋转现象应用",
+    "core_concept": "生活中存在大量旋转运动，如钟表的指针、转动的风车、道闸杆的升降、汽车方向盘等。识别此类现象需要看物体是否绕着一个固定不动的点或轴进行弧线运动。",
+    "key_formula": "旋转现象判断准则：有点、有角、形状及大小守恒。",
+    "common_mistakes": [
+      "将跷跷板运动误认为是平移，其实它是绕中心支点的往复旋转。",
+      "认为旋转一定要转够一整圈，实际上任何弧度转动都算旋转。"
+    ],
+    "tips": "生活中如果是划直线的运动大多是平移，如果是划圆弧或绕弯的运动通常是旋转。"
+  }
+}

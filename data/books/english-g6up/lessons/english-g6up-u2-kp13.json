@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp13",
+  "title": "动词短语",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词短语",
+      "question": "Please ___ at a red light.",
+      "options": [
+        "go",
+        "stop",
+        "slow down",
+        "run"
+      ],
+      "answer": "stop",
+      "explanation": "红灯停（stop）。"
+    }
+  ],
+  "knowledge": null
+}

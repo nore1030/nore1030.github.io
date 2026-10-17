@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp22",
+  "title": "固定搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 18,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "固定搭配",
+      "question": "I go to work ______ foot.",
+      "options": [],
+      "answer": "on",
+      "explanation": "步行用固定搭配on foot。"
+    }
+  ],
+  "knowledge": null
+}

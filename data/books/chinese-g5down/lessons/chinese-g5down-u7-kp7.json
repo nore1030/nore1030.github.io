@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g5down-u7-kp7",
+  "title": "字词含义",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词含义",
+      "question": "《牧场之国》中“这就是真正的荷兰”在文中多次出现，其主要作用是：",
+      "options": [
+        "强调对荷兰牧场风光的赞美",
+        "为了凑字数",
+        "说明荷兰有很多个别名",
+        "介绍荷兰的地理位置"
+      ],
+      "answer": "强调对荷兰牧场风光的赞美",
+      "explanation": "反复强调是为了抒发对这种宁静、和谐之美的强烈赞叹。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词含义",
+      "question": "威尼斯的小艇行动起来轻快、灵活，（ ）像蛇一样。",
+      "options": [
+        "仿佛",
+        "但是",
+        "如果",
+        "因为"
+      ],
+      "answer": "仿佛",
+      "explanation": "此处为比喻句，需要填入表示相似的关联词。"
+    }
+  ],
+  "knowledge": null
+}

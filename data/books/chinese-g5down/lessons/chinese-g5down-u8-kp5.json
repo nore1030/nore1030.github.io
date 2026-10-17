@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g5down-u8-kp5",
+  "title": "字词义辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 3,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "下列词语中，描写人幽默机智的一项是？",
+      "options": [
+        "老实巴交",
+        "循规蹈矩",
+        "妙语连珠",
+        "木讷寡言"
+      ],
+      "answer": "妙语连珠",
+      "explanation": "妙语连珠形容说话精彩，契合幽默的主题。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列词语与正确的意思连线。",
+      "options": [
+        "甚",
+        "诣",
+        "设",
+        "示",
+        "摆放",
+        "给……看",
+        "很",
+        "拜访"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "甚：很；诣：拜访；设：摆放；示：看。"
+    }
+  ],
+  "knowledge": null
+}

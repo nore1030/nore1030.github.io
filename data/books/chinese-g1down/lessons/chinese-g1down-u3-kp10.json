@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp10",
+  "title": "短文阅读",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "短文阅读",
+      "question": "小鸭子会游泳，小公鸡不会。他们一起去玩，谁会帮谁？",
+      "options": [
+        "谁也不帮",
+        "小鸭子帮小公鸡",
+        "小公鸡帮小鸭子",
+        "小草帮他们"
+      ],
+      "answer": "小鸭子帮小公鸡",
+      "explanation": "基于课文内容以及常识，能游泳的动物会帮助不能游泳的动物。"
+    }
+  ],
+  "knowledge": null
+}

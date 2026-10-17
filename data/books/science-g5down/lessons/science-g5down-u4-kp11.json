@@ -1,0 +1,50 @@
+{
+  "id": "science-g5down-u4-kp11",
+  "title": "水的状态变化",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的状态变化",
+      "question": "下列现象中，属于蒸发过程的是（）。",
+      "options": [
+        "湿衣服晾干了",
+        "草叶上出现露水",
+        "河面结冰了",
+        "冰棍冒“白气”"
+      ],
+      "answer": "湿衣服晾干了",
+      "explanation": "水从液态变为气态的过程叫蒸发。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的状态变化",
+      "question": "在常压下，水加热到沸腾时的温度大约是（）℃。",
+      "options": [],
+      "answer": "100",
+      "explanation": "在标准大气压下，水的沸点是100摄氏度。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的状态变化",
+      "question": "水开始结冰时的温度通常是（）℃。",
+      "options": [],
+      "answer": "0",
+      "explanation": "在标准大气压下，水的冰点是0摄氏度。"
+    }
+  ],
+  "knowledge": null
+}

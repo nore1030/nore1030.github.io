@@ -1,0 +1,155 @@
+{
+  "id": "chinese-g3up-u1-kp1",
+  "title": "阅读中的新鲜感词句",
+  "bookId": "chinese-g3up",
+  "unitNumber": 1,
+  "unitTitle": "学校生活",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "“湿润的东风走过荒野，在竹林中吹着口哨。”这句话没有新鲜感。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是富有想象力的拟人句，非常有新鲜感。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "下列哪组词语最能体现《大青树下的小学》安静的课堂氛围？",
+      "options": [
+        "鸦雀无声",
+        "欢蹦乱跳",
+        "热闹非凡",
+        "手舞足蹈"
+      ],
+      "answer": "鸦雀无声",
+      "explanation": "文中描写窗外安静时可用初鸦雀无声。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "“这时候，窗外十分安静，树枝不摇了，鸟儿不叫了，蝴蝶停在花朵上，好像都在听同学们读课文。”这段话表达了作者什么样的感情？",
+      "options": [
+        "对学校安静环境的讨厌",
+        "对同学们认真读书的赞美",
+        "对蝴蝶和鸟儿的好奇",
+        "对树枝不动的感觉"
+      ],
+      "answer": "对同学们认真读书的赞美",
+      "explanation": "通过拟人化的景物描写衬托学生读书的认真。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "下列哪种搭配属于课文中“新鲜感”的词语运用？",
+      "options": [
+        "古老的铜钟",
+        "洁白的墙壁",
+        "狂风吹着",
+        "绿色的草地"
+      ],
+      "answer": "古老的铜钟",
+      "explanation": "带有特定文化色彩和校园特色的描写。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "读句子：“同学们向在校园里欢唱的小鸟打招呼。”这句新鲜感在于：",
+      "options": [
+        "描写了小鸟",
+        "描写了招呼",
+        "把鸟儿当作朋友互动",
+        "描写了校园"
+      ],
+      "answer": "把鸟儿当作朋友互动",
+      "explanation": "体现了人与自然的和谐，具有童趣。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "我国是一个多民族国家，课文中提到了傣族、阿昌族、德昂族和（___）族。",
+      "options": [],
+      "answer": "景颇",
+      "explanation": "课文开篇提到的四个少数民族之一。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "《大青树下的小学》中，作者描写了那棵（___）的大青树和古老的铜钟。",
+      "options": [],
+      "answer": "粗壮",
+      "explanation": "课文中对大青树的修饰词。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "请根据《大青树下的小学》内容进行搭配。",
+      "options": [
+        "鲜艳的",
+        "古老的",
+        "洁白的",
+        "可爱的",
+        "粉墙",
+        "服装",
+        "小鸟",
+        "铜钟"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "鲜艳的服装、古老的铜钟、洁白的粉墙、可爱的小鸟。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读中的新鲜感词句",
+      "question": "将下列词语排成描写在大青树下小学里的快乐瞬间叙述句。",
+      "options": [
+        "大家",
+        "穿戴不同",
+        "来到了",
+        "漂亮的",
+        "学校"
+      ],
+      "answer": "大家,穿戴不同,来到了,漂亮的,学校",
+      "explanation": "逻辑顺序为：谁-特征-做了什么。"
+    }
+  ],
+  "knowledge": {
+    "point": "阅读中的新鲜感词句",
+    "core_concept": "关注课文中那些语言通俗形象、用法独特或具有画面感的词句。例如运用了拟人、比喻等修辞，或者使用了生动的形容词、特殊的句式。学习这些句子不仅能帮助理解内容，还能丰富自己的语言积累，提高语感。",
+    "key_formula": "发现新鲜感 = 观察词语搭配 + 想象画面色彩 + 体会修辞情趣",
+    "common_mistakes": [
+      "将普通陈述句误认为新鲜感词句",
+      "只摘写句子却无法理解其中关键词的妙处"
+    ],
+    "tips": "朗读时遇到让你觉得“眼前一亮”的描绘，就用波浪线画出来，多读几遍并摘抄。"
+  }
+}

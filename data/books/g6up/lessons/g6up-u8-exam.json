@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——数与形",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "从1开始的前10个奇数的和是100。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$10^2=100$。验算：$1+3+5+7+9+11+13+15+17+19=100$ ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "$2+4+6+8$ 的结果可以用 $4^2$ 计算。",
+      "options": [],
+      "answer": "错",
+      "explanation": "平方数规律仅适用于从1开始的连续奇数，这是偶数。验算：$2+4+6+8=20 \\neq 16$ ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "$1+3+5+7+5+3+1 = 4^2+3^2$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "前4个奇数和是 $4^2$，剩余部分 $5+3+1$ 是前3个奇数和 $3^2$。验算：$16+9=25$ ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "第n个正方形点阵的总点数一定是偶数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "总点数为 $n^2$，当n为奇数时，$n^2$ 为奇数，例如 $3^2=9$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "观察序列：1, 3, 6, 10, 15...。这是由三角形排列产生的数字，那么第6个数是多少？",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "25"
+      ],
+      "answer": "21",
+      "explanation": "规律为 $n(n+1) \\div 2$。第6个数是 $6 \\times 7 \\div 2 = 21$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "若前n个奇数之和为144，则n的值是：",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "answer": "12",
+      "explanation": "$12^2 = 144$。验算：$12 \\times 12 = 144$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "用1, 3, 5, 7, 9五个奇数围成一个正方形点阵，如果再围一层，需要增加多少个点？",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "当前是第5层（9个点），下一层是下一个奇数，即11 ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "在 100 以内的数中，有多少个是“正方形数”（即1, 4, 9...）？",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "10",
+      "explanation": "$1, 4, 9, 16, 25, 36, 49, 64, 81, 100$，共10个 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "$1+3+5+\\dots+(2n-1) = 400$，则n为：",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": "20",
+      "explanation": "$n^2 = 400$，故 $n = 20$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "等比数列求和的思想",
+      "question": "一个圆形蛋糕，每次吃掉剩下的一半。吃了4次后，还剩多少？",
+      "options": [
+        "1/4",
+        "1/8",
+        "1/16",
+        "1/32"
+      ],
+      "answer": "1/16",
+      "explanation": "剩余量为 $(1/2)^4 = 1/16$ ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "正方形数 4 和 9 之间相差多少？",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": "5",
+      "explanation": "差值为 $9 - 4 = 5$，正好是第3个奇数 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "摆第10个三角形阵需要55个圆点，摆第11个需要多少个？",
+      "options": [
+        "60",
+        "65",
+        "66",
+        "70"
+      ],
+      "answer": "66",
+      "explanation": "第11个需要增加11个点，$55 + 11 = 66$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "从1开始连续100个奇数相加，和是 ___。",
+      "options": [],
+      "answer": "10000",
+      "explanation": "列式：$100 \\times 100 = 10000$。验算：$100^2 = 10000$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "计算 $1+3+5+7+9+11+9+7+5+3+1 = $ ___。",
+      "options": [],
+      "answer": "61",
+      "explanation": "前6项和 $6^2=36$，后5项和 $5^2=25$。列式：$36+25=61$。验算：$36+25=61$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数形结合规律（奇数和）",
+      "question": "计算：$13 \\times 13 = ?$",
+      "options": [],
+      "answer": "169",
+      "explanation": "$13 \\times 13 = 169$。验算：$169 \\div 13 = 13$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

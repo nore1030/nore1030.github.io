@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp15",
+  "title": "主谓一致",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 11,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "主谓一致",
+      "question": "She ______ to work by bus.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "to go"
+      ],
+      "answer": "goes",
+      "explanation": "主语为She，一般现在时谓语动词用三单形式goes。"
+    }
+  ],
+  "knowledge": null
+}

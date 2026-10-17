@@ -1,0 +1,44 @@
+{
+  "id": "science-g5up-u3-kp2",
+  "title": "水钟的设计与水位控制",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 1,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水钟的设计与水位控制",
+      "question": "对于受水型水钟，为了保持滴水速度均匀，最有效的方法是什么？",
+      "options": [
+        "增加容器的厚度",
+        "减小容器的直径",
+        "保持溢水孔不断流出多余的水使水位恒定",
+        "将水柱调高"
+      ],
+      "answer": "保持溢水孔不断流出多余的水使水位恒定",
+      "explanation": "水流速度受水位压力影响，保持固定水位可以确保压力稳定，从而实现匀速。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水钟的设计与水位控制",
+      "question": "水位的高低对于泄水型水钟的滴漏速度有什么影响？",
+      "options": [
+        "水位越高，滴漏越慢",
+        "水位越低，滴漏越快",
+        "水位越高，滴漏越快",
+        "没有影响"
+      ],
+      "answer": "水位越高，滴漏越快",
+      "explanation": "水位越高，水流到底部孔口的压力越大，流速越快。"
+    }
+  ],
+  "knowledge": null
+}

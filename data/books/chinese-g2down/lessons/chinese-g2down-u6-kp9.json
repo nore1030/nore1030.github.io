@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp9",
+  "title": "古诗理解",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 8,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗理解",
+      "question": "《晓出净慈寺送林子方》描写的季节是：",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "夏季",
+      "explanation": "诗中提到了接天莲叶和映日荷花，是夏季景观。"
+    }
+  ],
+  "knowledge": null
+}

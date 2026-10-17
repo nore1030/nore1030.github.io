@@ -1,0 +1,194 @@
+{
+  "id": "g1down-u4-kp1",
+  "title": "100以内数的数数与组成",
+  "bookId": "g1down",
+  "unitNumber": 4,
+  "unitTitle": "100以内数的认识",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "10个十是100。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计数单位换算：10个一是1个十，10个十是1个百，即100。验算：$10 \\times 10 = 100$ ✓。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "和79相邻的两个数是80和81。",
+      "options": [],
+      "answer": "错",
+      "explanation": "相邻数是它的前一个和后一个。79的前一个是78，后一个是80。所以是78和80。 ✓。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "八十八写作：",
+      "options": [
+        "8",
+        "808",
+        "88",
+        "18"
+      ],
+      "answer": "88",
+      "explanation": "八十八由8个十和8个一组成，十位写8，个位写8。结果是88。 ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "由5个十和3个一组成的数是：",
+      "options": [
+        "35",
+        "53",
+        "503",
+        "8"
+      ],
+      "answer": "53",
+      "explanation": "5个十是50，3个一是3，合起来是53。 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "从37数到42，一共数了几个数？",
+      "options": [
+        "5个",
+        "6个",
+        "7个",
+        "4个"
+      ],
+      "answer": "6个",
+      "explanation": "数一数：37, 38, 39, 40, 41, 42。一共6个数。算式：$42 - 37 + 1 = 6$。 ✓。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "最小的两位数是：",
+      "options": [
+        "1",
+        "10",
+        "11",
+        "99"
+      ],
+      "answer": "10",
+      "explanation": "最小的一位数是1，最小的两位数是10，最大的两位数是99。 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "最大的两位数减去最大的一位数，差是多少？",
+      "options": [
+        "90",
+        "80",
+        "1",
+        "9"
+      ],
+      "answer": "90",
+      "explanation": "最大两位数是99，最大一位数是9。$99 - 9 = 90$。 ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "计数器上，十位上有3颗珠子，个位上一个也没有。这个数是：",
+      "options": [
+        "3",
+        "30",
+        "33",
+        "13"
+      ],
+      "answer": "30",
+      "explanation": "十位3颗表示3个十，个位没有表示0。组成的数是30。 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "78里面有 ___ 个一和7个十。",
+      "options": [],
+      "answer": "8",
+      "explanation": "78的十位是7，表示7个十；个位是8，表示8个一。验算：$7 \\times 10 + 8 = 78$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "一个数个位是0，十位是4，这个数加5得 ___ 。",
+      "options": [],
+      "answer": "45",
+      "explanation": "这个数是40。列式：$40 + 5 = 45$。验算：$45 - 5 = 40$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "小明有34个苹果，每10个装一袋，可以装满 ___ 袋。",
+      "options": [],
+      "answer": "3",
+      "explanation": "34里面有3个十和4个一。每个袋子装10个（即1个十），所以可以装满3袋，余4个。验算：$3 \\times 10 + 4 = 34$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "$40 + 7 = ?$",
+      "options": [],
+      "answer": "47",
+      "explanation": "$40 + 7 = 47$。根据数的组成，4个十和7个一合起来是47。验算：$47 - 7 = 40$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "$86 - 6 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "$86 - 6 = 80$。从8个十和6个一中减去6个一，剩下8个十。验算：$80 + 6 = 86$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "100以内数的数数与组成",
+    "core_concept": "10个一是1个十，10个十是1个百。两位数由几个十和几个一组成。数数时，数到几十九（如39）后，下一个数是整十数（如40），这叫“拐弯数”。",
+    "key_formula": "几十几 = 几个十 + 几个一",
+    "common_mistakes": [
+      "数数时忽略拐弯数，如数完39跳到30。",
+      "混淆10个十和10个一的关系。"
+    ],
+    "tips": "数数时可以借助手指或小棒，每满10根捆成一捆，帮助理解“十”的概念。"
+  }
+}

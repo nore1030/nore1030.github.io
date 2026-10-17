@@ -1,0 +1,23 @@
+{
+  "id": "science-g3down-u3-kp7",
+  "title": "地球形状的认知",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 1,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球形状的认知",
+      "question": "人类第一位进入太空的人通过观察发现地球是圆的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加加林在太空中看到地球是一个蓝色的星球。"
+    }
+  ],
+  "knowledge": null
+}

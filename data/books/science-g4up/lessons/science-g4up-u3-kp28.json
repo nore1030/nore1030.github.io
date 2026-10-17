@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp28",
+  "title": "反冲力特征",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反冲力特征",
+      "question": "气球喷气时，产生一个和喷气方向相反的推力，这个力叫（___）。",
+      "options": [],
+      "answer": "反冲力",
+      "explanation": "反冲力的基本定义。"
+    }
+  ],
+  "knowledge": null
+}

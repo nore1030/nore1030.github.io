@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp15",
+  "title": "植物多样性",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物多样性",
+      "question": "关于校园里的植物，下列说法正确的是？",
+      "options": [
+        "都是一样的",
+        "种类很多",
+        "不会枯萎",
+        "不需要阳光"
+      ],
+      "answer": "种类很多",
+      "explanation": "校园内分布着乔木、灌木、草本等多种植物。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp4",
+  "title": "职业名词词义",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 0,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "职业名词词义",
+      "question": "'pilot' 的意思是'飞行员'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "pilot是本单元核心职业词汇，意为飞行员。"
+    }
+  ],
+  "knowledge": null
+}

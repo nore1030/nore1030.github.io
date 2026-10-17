@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6down-u2-kp5",
+  "title": "词义辨析",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 4,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "鲁滨逊在一个（   ）的荒岛上生活了二十多年。",
+      "options": [
+        "荒芜",
+        "荒僻",
+        "荒凉",
+        "荒唐"
+      ],
+      "answer": "荒凉",
+      "explanation": "描述缺乏人烟、贫瘠的环境，用“荒凉”最贴切。"
+    }
+  ],
+  "knowledge": null
+}

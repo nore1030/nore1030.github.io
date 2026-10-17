@@ -1,0 +1,50 @@
+{
+  "id": "english-g5up-u3-kp8",
+  "title": "饮食偏好表达",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 3,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "饮食偏好表达",
+      "question": "My favourite food is onions. 这句话表达的是我最喜欢的食物是洋葱。",
+      "options": [],
+      "answer": "对",
+      "explanation": "favourite意为最喜欢的。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "饮食偏好表达",
+      "question": "—What's your favourite drink? —_____.",
+      "options": [
+        "Milk",
+        "Bread",
+        "Cakes",
+        "Apples"
+      ],
+      "answer": "Milk",
+      "explanation": "问题问的是drink（饮料），选项中只有milk符合。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "饮食偏好表达",
+      "question": "—What's your _____ food? —Carrots.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "询问最喜欢的食物用favourite。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1up-u8-kp11",
+  "title": "量词搭配",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 10,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "量词搭配",
+      "question": "请选出合适的量词进行连线。",
+      "options": [
+        "一只",
+        "一个",
+        "一头",
+        "一颗",
+        "黄牛",
+        "苹果",
+        "小鸟",
+        "枣"
+      ],
+      "answer": "A-3,B-2,C-1,D-4",
+      "explanation": "一只小鸟，一个苹果，一头黄牛，一颗枣。"
+    }
+  ],
+  "knowledge": null
+}

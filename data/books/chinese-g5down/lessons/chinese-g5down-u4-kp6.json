@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp6",
+  "title": "课文理解",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 2,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "课文理解",
+      "question": "《青山处处埋忠骨》中，毛主席忍痛决定将毛岸英烈士葬在朝鲜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "毛主席为了中朝友谊，克制了个人情感，决定将儿子安葬在朝鲜。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "history-g11up-u2-kp2",
+  "title": "近代中国社会变革与思想解放",
+  "bookId": "history-g11up",
+  "unitNumber": 2,
+  "unitTitle": "国家治理与社会变革",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代中国社会变革与思想解放",
+      "question": "新文化运动的核心口号是（　）",
+      "options": [
+        "民主与科学",
+        "实业救国",
+        "自强求富",
+        "变法维新"
+      ],
+      "answer": "民主与科学",
+      "explanation": "民主科学。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代中国社会变革与思想解放",
+      "question": "维新派主张君主立宪，革命派主张民主共和。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两派主张。"
+    }
+  ],
+  "knowledge": {
+    "point": "近代中国社会变革与思想解放",
+    "core_concept": "维新派主张君主立宪，革命派主张民主共和。新文化运动提倡民主与科学，马克思主义传播后中国革命面貌焕然一新。",
+    "key_formula": "改良 → 革命 → 思想启蒙",
+    "common_mistakes": [
+      "把改良与革命混为一谈。"
+    ],
+    "tips": "主张不同。"
+  }
+}

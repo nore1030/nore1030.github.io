@@ -1,0 +1,32 @@
+{
+  "id": "science-g4down-u2-kp8",
+  "title": "导体与绝缘体",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 3,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "导体与绝缘体",
+      "question": "人体的导电性能很好，所以湿的手不能去按开关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人体和水都是导体，湿手操作开关极易发生触电危险。"
+    }
+  ],
+  "knowledge": {
+    "point": "导体与绝缘体",
+    "core_concept": "物体根据导电性能分为容易导电和不容易导电两类。",
+    "key_formula": "金属一般是导体，木头橡胶塑料常为绝缘体",
+    "common_mistakes": [
+      "认为铅笔芯（石墨）是绝缘体",
+      "认为干木头湿了也是绝缘体"
+    ],
+    "tips": "潮湿的物体往往会变成导体，安全用电务必保持干燥。"
+  }
+}

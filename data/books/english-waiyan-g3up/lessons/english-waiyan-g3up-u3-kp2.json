@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u3-kp2",
+  "title": "动物词汇 duck / naughty",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 3 These ducks are very naughty 淘气的鸭子",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动物词汇 duck / naughty",
+      "question": "「淘气的」的英文是（　）",
+      "options": [
+        "naughty",
+        "naughtyy",
+        "nauti",
+        "naugthy"
+      ],
+      "answer": "naughty",
+      "explanation": "naughty = 淘气的。"
+    }
+  ],
+  "knowledge": {
+    "point": "动物词汇 duck / naughty",
+    "core_concept": "duck 鸭子（复 ducks）、naughty 淘气的、cute 可爱的、lovely 可爱的。",
+    "key_formula": "These ducks are very naughty!",
+    "common_mistakes": [
+      "duck 复数写成 duckes。"
+    ],
+    "tips": "一般名词直接加 -s。"
+  }
+}

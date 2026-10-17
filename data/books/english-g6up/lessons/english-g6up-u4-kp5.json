@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u4-kp5",
+  "title": "Grammar: Subject-verb agreement",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 1,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Grammar: Subject-verb agreement",
+      "question": "在句子 'He likes singing.' 中，likes 是动词 like 的三单形式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "当主语是 He 时，动词 like 需要变为三单形式 likes。"
+    }
+  ],
+  "knowledge": null
+}

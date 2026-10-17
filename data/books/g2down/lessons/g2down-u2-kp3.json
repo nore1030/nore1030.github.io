@@ -1,0 +1,80 @@
+{
+  "id": "g2down-u2-kp3",
+  "title": "除法各部分名称",
+  "bookId": "g2down",
+  "unitNumber": 2,
+  "unitTitle": "表内除法（一）",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法各部分名称",
+      "question": "在算式 $15 \\div 5 = 3$ 中，5是商。",
+      "options": [],
+      "answer": "错",
+      "explanation": "15是被除数，5是除数，3是商。故5是商的说法错误。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法各部分名称",
+      "question": "在除法算式中，除号前面的数叫做：",
+      "options": [
+        "除数",
+        "商",
+        "被除数",
+        "积"
+      ],
+      "answer": "被除数",
+      "explanation": "根据除法各部分名称定义，除号前面的是被除数，除号后面的是除数。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法各部分名称",
+      "question": "被除数是30，除数是5，商是几？",
+      "options": [
+        "6",
+        "25",
+        "35",
+        "150"
+      ],
+      "answer": "6",
+      "explanation": "列式：$30 \\div 5 = 6$。验算：$6 \\times 5 = 30$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法各部分名称",
+      "question": "在除法算式中，等于号后面的数叫做：",
+      "options": [
+        "和",
+        "差",
+        "积",
+        "商"
+      ],
+      "answer": "商",
+      "explanation": "除法运算的结果叫做商。"
+    }
+  ],
+  "knowledge": {
+    "point": "除法各部分名称",
+    "core_concept": "除法算式中，参与运算的数都有自己的名字：除号前面的叫被除数，表示要分的总数；除号后面的叫除数，表示平均分的份数或每份数；结果叫商。",
+    "key_formula": "被除数 $\\div$ 除数 = 商",
+    "common_mistakes": [
+      "混淆除数和被除数的位置。",
+      "将除法的结果称呼为‘积’（乘法结果）或‘差’（减法结果）。"
+    ],
+    "tips": "可以记为：‘大数（通常是）在前是被除，小人（除数）在后去干活，结果商量（商）出来了。’"
+  }
+}

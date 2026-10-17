@@ -1,0 +1,102 @@
+{
+  "id": "g5up-u6-kp3",
+  "title": "梯形的面积计算",
+  "bookId": "g5up",
+  "unitNumber": 6,
+  "unitTitle": "多边形的面积",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "梯形的面积计算",
+      "question": "梯形的面积等于平行四边形面积的一半。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有当梯形与平行四边形等底、高相等，且这个平行四边形是由两个完全一样的该梯形拼成时才成立。描述不完整。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "梯形的面积计算",
+      "question": "一个梯形的上底是 4 厘米，下底是 6 厘米，高是 5 厘米，它的面积是多少平方厘米？",
+      "options": [
+        "50",
+        "30",
+        "25",
+        "20"
+      ],
+      "answer": "25",
+      "explanation": "$(4+6) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$（平方厘米）。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "梯形的面积计算",
+      "question": "两个完全一样的梯形拼成一个平行四边形，梯形的面积与平行四边形的面积比较，哪个说法正确？",
+      "options": [
+        "梯形是平行四边形的一半",
+        "梯形是平行四边形的 2 倍",
+        "两者相等",
+        "无法比较"
+      ],
+      "answer": "梯形是平行四边形的一半",
+      "explanation": "拼成的平行四边形由两个梯形构成，所以每个梯形面积是其一半。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "梯形的面积计算",
+      "question": "一个梯形的高是 10 厘米，如果上底增加 3 厘米，下底减少 3 厘米，面积会如何？",
+      "options": [
+        "增加",
+        "减少",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "不变",
+      "explanation": "上底加下底的和没变，$(a+3) + (b-3) = a+b$，所以面积不变。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "梯形的面积计算",
+      "question": "一堆圆木，最上层有 3 根，最下层有 7 根，一共有 5 层。这堆圆木一共有 ___ 根。",
+      "options": [],
+      "answer": "25",
+      "explanation": "圆木堆积符合梯形规律：$(3+7) \\times 5 \\div 2 = 10 \\times 5 \\div 2 = 25$。验算：$3+4+5+6+7 = 25$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "梯形的面积计算",
+      "question": "计算：$(15 + 25) \\times 4 \\div 2 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "$15 + 25 = 40$，$40 \\times 4 = 160$，$160 \\div 2 = 80$。验算：$80 \\times 2 = 160$，$160 \\div 4 = 40$，$40 - 15 = 25$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "梯形的面积计算",
+    "core_concept": "两个完全一样的梯形可以拼成一个平行四边形。拼成的平行四边形的底等于梯形的“上底+下底”，高就等于梯形的高。梯形面积就是这个平行四边形的一半。",
+    "key_formula": "$S = (a + b)h \\div 2$",
+    "common_mistakes": [
+      "忘记除以 2",
+      "上底和下底没有先相加就开始乘除计算"
+    ],
+    "tips": "计算圆木堆堆数时，最上层根数相当于上底，最下层根数相当于下底，层数就是高。"
+  }
+}

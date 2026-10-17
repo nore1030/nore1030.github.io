@@ -1,0 +1,109 @@
+{
+  "id": "science-g6up-u4-kp1",
+  "title": "能量的形式识别与转化",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 0,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "能量是看不见、摸不着的，所以它并不真实存在。",
+      "options": [],
+      "answer": "错",
+      "explanation": "能量虽然抽象，但可以通过运动、发光、发热等现象观察到其作用，是客观存在的。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "反复弯折铁丝，铁丝弯折处会发热，这是将机械能转化为了（）。",
+      "options": [
+        "化学能",
+        "热能",
+        "光能",
+        "电能"
+      ],
+      "answer": "热能",
+      "explanation": "摩擦和克服阻力做功常将机械能转化为热能。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "电灯泡发光时，消耗的能量主要是（）。",
+      "options": [
+        "电能",
+        "化学能",
+        "机械能",
+        "原子能"
+      ],
+      "answer": "电能",
+      "explanation": "电灯是将电能转化为光能和热能的装置。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "使用手摇发电机发电时，能量的转化过程是（）。",
+      "options": [
+        "电能转化为动能",
+        "动能转化为电能",
+        "光能转化为电能",
+        "化学能转化为电能"
+      ],
+      "answer": "动能转化为电能",
+      "explanation": "发电机是将机械能（动能）转化为电能的装置。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "正在公路上行驶的汽车具有（）。",
+      "options": [
+        "动能",
+        "静止能",
+        "原子能",
+        "引力能"
+      ],
+      "answer": "动能",
+      "explanation": "运动的物体都具有动能。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "植物进行光合作用，是将太阳能转化为（）。",
+      "options": [],
+      "answer": "化学能",
+      "explanation": "植物利用光能制造有机物并储存化学能。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量的形式识别与转化",
+      "question": "我们使用的电能大部分是通过（）把其他形式的能量转化而来的。",
+      "options": [],
+      "answer": "发电机",
+      "explanation": "发电机是能量转化的核心装置。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g3down-u4-kp3",
+  "title": "动词的精准运用与动态观察",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 2,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "《蜜蜂》一文中，作者用“推、爬、飞”等动词生动地写出了蜜蜂受惊时的状态。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中使用连续动词准确还原了蜜蜂身体的灵活性。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "“没过多久，它们就会搏斗起来”中，“搏斗”一词体现了观察的动态美。",
+      "options": [],
+      "answer": "对",
+      "explanation": "用拟人化的动词描述了虾的激烈动作。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "下列哪组词语最能体现《小虾》中动作的连贯性？",
+      "options": [
+        "游来游去、划动、舞动",
+        "安静、漂亮、透明",
+        "大虾、小虾、长须",
+        "缸里、水边、植物"
+      ],
+      "answer": "游来游去、划动、舞动",
+      "explanation": "这三个词体现了动作的动态过程。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "“蜜蜂逆风而飞，飞行得很低，几乎要触到地面的草丛了。”中“触”字改为什么更精准？",
+      "options": [
+        "撞",
+        "贴",
+        "挨",
+        "触已经非常精准"
+      ],
+      "answer": "触已经非常精准",
+      "explanation": "触体现了轻微接触，符合蜜蜂当时的飞行状态。"
+    }
+  ],
+  "knowledge": {
+    "point": "动词的精准运用与动态观察",
+    "core_concept": "动态观察是指对事物在运动状态下的变化进行细微捕捉。在表达时，要善于使用一系列准确的动词（连动式）来还原场景。例如，描写小虾时使用“一翘、一摆、一跳”，能让画面活起来。",
+    "key_formula": "生动表达=多个精准动词+观察到的形态变化。",
+    "common_mistakes": [
+      "动词贫乏，反复使用“看、走、去”等泛化词语。",
+      "观察不够仔细，无法捕捉到动作变化的瞬间。"
+    ],
+    "tips": "在观察时，闭上眼睛回想动作的每一个小变化，给每一个变化配上一个最贴切的动作词。"
+  }
+}

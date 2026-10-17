@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g4up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g4up",
+  "unitNumber": 2,
+  "unitTitle": "提问策略",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "筛选有价值的问题",
+      "question": "筛选问题时，我们需要把对理解课文没有帮助的简单问题剔除。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了深入理解，应优先关注能引发思考的高质量问题。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "蝙蝠在夜间飞行时，是靠眼睛来避开障碍物的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蝙蝠是靠嘴发出超声波，由耳朵接收回声来定位的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "多角度尝试提问",
+      "question": "针对课题提问是一种低级的提问方式，无助于理解全文。",
+      "options": [],
+      "answer": "错",
+      "explanation": "针对课题提问是捕捉文章核心主旨的重要途径。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "“呼风唤雨”在课文中形容人类利用自然的能力很强。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中用这个词形象表现了科学技术的巨大力量。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "《夜间飞行的秘密》中，科学家三次实验证明了蝙蝠夜间飞行靠的是（   ）。",
+      "options": [
+        "敏锐的视觉",
+        "嘴和耳朵的配合",
+        "灵活的翅膀",
+        "高超的记忆力"
+      ],
+      "answer": "嘴和耳朵的配合",
+      "explanation": "这是文章最核心的科学实验结论。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“人类在上百万年的历史中一直定居在一个地方。”句子中“定居”的近义词是：",
+      "options": [
+        "搬家",
+        "居住",
+        "旅行",
+        "动摇"
+      ],
+      "answer": "居住",
+      "explanation": "定居意为相对固定地居住在某地。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "选出与“舒服”意思最接近的词：",
+      "options": [
+        "舒畅",
+        "紧急",
+        "痛苦",
+        "马虎"
+      ],
+      "answer": "舒畅",
+      "explanation": "两个词都代表心理或生理上的愉悦状态。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "筛选有价值的问题",
+      "question": "阅读文章《蝴蝶的家》，下列哪个问题能够引导我们深入探讨人与自然的关系？",
+      "options": [
+        "蝴蝶的翅膀上有花纹吗？",
+        "麦田在哪里？",
+        "为什么作者如此关切雨中的蝴蝶？",
+        "蝴蝶飞行时有没有声音？"
+      ],
+      "answer": "为什么作者如此关切雨中的蝴蝶？",
+      "explanation": "这个问题探讨作者的情感寄托，上升到人文关怀层面。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多角度尝试提问",
+      "question": "阅读语段：“20世纪是一个呼风唤雨的世纪。”这句话在全文中的作用是（  ）。",
+      "options": [
+        "点明主旨",
+        "总结全文",
+        "引起下文",
+        "埋下伏笔"
+      ],
+      "answer": "点明主旨",
+      "explanation": "首句开宗明义，确定了全文的基调。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“地球不再像是一个遥不可及的荒原，而是一个小小的小村庄。”这句话用了什么修辞？",
+      "options": [
+        "排比",
+        "比喻",
+        "拟人",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "把地球比作村庄，形象说明了科技拉近了人们的距离。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度尝试提问",
+      "question": "在阅读中产生的，如果不影响对课文内容的理解，可以适当（    ）。",
+      "options": [],
+      "answer": "忽略",
+      "explanation": "提问也要分主次，为了阅读效率，非核心问题可以先放下。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "蝙蝠发出超声波就像雷达发出的（    ）。",
+      "options": [],
+      "answer": "无线电波",
+      "explanation": "无线电波是雷达工作的核心物理媒介。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列近义词进行配对。",
+      "options": [
+        "发明",
+        "改观",
+        "探索",
+        "改善",
+        "创造",
+        "改变",
+        "寻求",
+        "完善"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查对相近动词的使用语境认知。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学实验逻辑与原理解析",
+      "question": "请将五粒豌豆的最终“命运”连接起来。",
+      "options": [
+        "第一粒",
+        "第二粒",
+        "第三四粒",
+        "第五粒",
+        "飞进水沟",
+        "飞向世界",
+        "给孩子带来希望",
+        "被鸽子吃掉"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "回顾《一个豆荚里的五粒豆》的具体故事情节。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多角度尝试提问",
+      "question": "请将词语排成关于“提问”好处的句子。",
+      "options": [
+        "提问",
+        "理解",
+        "可以",
+        "帮助",
+        "我们"
+      ],
+      "answer": "提问,可以,帮助,我们,理解",
+      "explanation": "这是对本单元核心策略意义的表述。"
+    }
+  ],
+  "knowledge": null
+}

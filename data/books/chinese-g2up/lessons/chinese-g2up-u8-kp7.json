@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp7",
+  "title": "动物称呼",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动物称呼",
+      "question": "在《纸船和风筝》里，松鼠把纸船漂到了山下。",
+      "options": [],
+      "answer": "对",
+      "explanation": "松鼠家住山上，小熊家住山下，松鼠通过溪流漂纸船给小熊。"
+    }
+  ],
+  "knowledge": null
+}

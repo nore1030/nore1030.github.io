@@ -1,0 +1,80 @@
+{
+  "id": "g5up-u5-kp4",
+  "title": "列方程解决实际问题（ax±b=c类型）",
+  "bookId": "g5up",
+  "unitNumber": 5,
+  "unitTitle": "简易方程",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "列方程解决实际问题（ax±b=c类型）",
+      "question": "商店运来 8 袋大米，每袋 $x$ 千克，一共是 200 千克。要求每袋多少千克，下列方程正确的是（    ）。",
+      "options": [
+        "x+8=200",
+        "200-x=8",
+        "8x=200",
+        "x÷8=200"
+      ],
+      "answer": "8x=200",
+      "explanation": "数量关系：每袋重量 $\\times$ 袋数 $=$ 总重量。即 $8x = 200$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列方程解决实际问题（ax±b=c类型）",
+      "question": "一个三角形的底是 10 厘米，面积是 30 平方厘米，高是 $x$ 厘米。下列方程正确的是（    ）。",
+      "options": [
+        "10x=30",
+        "10x÷2=30",
+        "10+x=30",
+        "10÷x=30"
+      ],
+      "answer": "10x÷2=30",
+      "explanation": "三角形面积公式：底 $\\times$ 高 $\\div 2 =$ 面积。代入得 $10 \\times x \\div 2 = 30$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "列方程解决实际问题（ax±b=c类型）",
+      "question": "羽毛球每筒 12 个，王老师买了几筒后又买了 3 个散装的，正好 27 个。王老师买了（    ）筒。",
+      "options": [
+        "2",
+        "3",
+        "12",
+        "24"
+      ],
+      "answer": "2",
+      "explanation": "设买了 $x$ 筒。$12x + 3 = 27$，$12x = 24$，$x = 2$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "列方程解决实际问题（ax±b=c类型）",
+      "question": "练习本每本 2 元，小明买了 $x$ 本，付给营业员 50 元，找回 30 元。小明买了 ___ 本。",
+      "options": [],
+      "answer": "10",
+      "explanation": "方程：$50 - 2x = 30$。$2x = 20$，$x = 10$。验算：$2 \\times 10 = 20$，$50 - 20 = 30$。符合题意。"
+    }
+  ],
+  "knowledge": {
+    "point": "列方程解决实际问题（ax±b=c类型）",
+    "core_concept": "通过设定未知数 $x$，将文字中的等量关系转化成数学方程。关键在于寻找题目中的“总量=分量+分量”或“大数-小数=差”的等量关系。这类题通常包含一个固定量和一个随数量变化的量。",
+    "key_formula": "单价 \\times 数量 + 剩下的 = 总钱数",
+    "common_mistakes": [
+      "设未知数时忘记写单位名称",
+      "列出的方程中逻辑混乱，如用总数去加分量"
+    ],
+    "tips": "先找关键句，找出谁和谁相等，再用字母替代那个不知道的量。"
+  }
+}

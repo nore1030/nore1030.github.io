@@ -1,0 +1,47 @@
+{
+  "id": "politics-g11up-u2-kp2",
+  "title": "诉讼与非诉讼解决方式",
+  "bookId": "politics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "法律与生活（续）",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "诉讼与非诉讼解决方式",
+      "question": "下列不属于非诉讼解决方式的是（　）",
+      "options": [
+        "诉讼",
+        "调解",
+        "仲裁",
+        "和解"
+      ],
+      "answer": "诉讼",
+      "explanation": "诉讼是诉讼方式。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "诉讼与非诉讼解决方式",
+      "question": "我国实行两审终审制。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两审终审。"
+    }
+  ],
+  "knowledge": {
+    "point": "诉讼与非诉讼解决方式",
+    "core_concept": "纠纷解决有和解、调解、仲裁、诉讼等方式。诉讼要符合法定管辖与程序要求。",
+    "key_formula": "和解 / 调解 / 仲裁 / 诉讼",
+    "common_mistakes": [
+      "认为诉讼是唯一途径。"
+    ],
+    "tips": "有多种途径。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp5",
+  "title": "字义辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 4,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字义辨析",
+      "question": "“小鸭子（  ）地游到小公鸡身边。”括号里填哪个词最合适？",
+      "options": [
+        "飞快",
+        "快乐",
+        "吃力",
+        "难过"
+      ],
+      "answer": "飞快",
+      "explanation": "课文中描写小鸭子去救小公鸡时用的是“飞快地”。"
+    }
+  ],
+  "knowledge": null
+}

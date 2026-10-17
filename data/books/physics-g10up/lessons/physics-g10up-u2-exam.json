@@ -1,0 +1,61 @@
+{
+  "id": "physics-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g10up",
+  "unitNumber": 2,
+  "unitTitle": "匀变速直线运动",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "匀变速直线运动规律",
+      "question": "物体从静止开始以 4 m/s² 加速，速度达到 20 m/s 需要多少秒？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$t=\\frac{20}{4}=5$ s。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "自由落体与运动图象",
+      "question": "物体自由下落 45 m 需要多少秒？（$g$ 取 10 m/s²）",
+      "options": [],
+      "answer": "3",
+      "explanation": "$45=\\frac12\\times10t^2$，$t^2=9$，$t=3$ s。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "匀变速直线运动规律",
+      "question": "$v-t$ 图象中图线与时间轴围成的面积表示位移。",
+      "options": [],
+      "answer": "对",
+      "explanation": "图象面积意义。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自由落体与运动图象",
+      "question": "关于自由落体运动，正确的是（　）",
+      "options": [
+        "初速度为 0、加速度为 g",
+        "速度保持不变",
+        "加速度逐渐增大",
+        "与质量成正比"
+      ],
+      "answer": "初速度为 0、加速度为 g",
+      "explanation": "自由落体定义。"
+    }
+  ],
+  "knowledge": null
+}

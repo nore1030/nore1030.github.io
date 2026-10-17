@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp8",
+  "title": "字音辨析",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“奶酪”的“酪”字读音是 luò。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“酪”的正确读音是 lào。"
+    }
+  ],
+  "knowledge": null
+}

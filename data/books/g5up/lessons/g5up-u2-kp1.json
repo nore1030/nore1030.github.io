@@ -1,0 +1,145 @@
+{
+  "id": "g5up-u2-kp1",
+  "title": "用数对表示具体情境中的位置",
+  "bookId": "g5up",
+  "unitNumber": 2,
+  "unitTitle": "位置",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "数对 $(3, 5)$ 和 $(5, 3)$ 表示的是同一个位置。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数对中前一个数表示列，后一个数表示行。$(3, 5)$ 表示第 3 列第 5 行，$(5, 3)$ 表示第 5 列第 3 行，位置不同。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "在教室里，小明坐在第 2 列第 4 行，用数对表示是 $(2, 4)$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据数对的书写规则（列, 行），第 2 列第 4 行应表示为 $(2, 4)$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "小华在教室里的位置用数对表示是 $(4, 3)$，他坐在第几列？",
+      "options": [
+        "第 3 列",
+        "第 4 列",
+        "第 7 列",
+        "第 1 列"
+      ],
+      "answer": "第 4 列",
+      "explanation": "数对 $(a, b)$ 中，$a$ 表示列，$b$ 表示行。所以 $(4, 3)$ 表示第 4 列。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "如果用 $(2, 1)$ 表示张平的位置，那么 $(2, 5)$ 表示的同学与张平在：",
+      "options": [
+        "同一列",
+        "同一行",
+        "不同列也不同行",
+        "无法确定"
+      ],
+      "answer": "同一列",
+      "explanation": "两个数对的第一个数字都是 2，说明他们都在第 2 列。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "音乐课上，老师请坐在 $(a, 4)$ 这一行的同学起立，下列哪位同学应该起立？",
+      "options": [
+        "小明 (4, 3)",
+        "小红 (3, 4)",
+        "小刚 (5, 5)",
+        "小芳 (4, 2)"
+      ],
+      "answer": "小红 (3, 4)",
+      "explanation": "一行代表数对的第二个数字相同。$(a, 4)$ 表示第 4 行的所有人，小红的坐标 $(3, 4)$ 第二个数字是 4。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "小军坐在教室的第 3 列第 2 行，用 $(3, 2)$ 表示。小红坐在小军正后方的一个位置，小红的位置可能是：",
+      "options": [
+        "(2, 2)",
+        "(4, 2)",
+        "(3, 1)",
+        "(3, 3)"
+      ],
+      "answer": "(3, 3)",
+      "explanation": "正后方意味着列数不变，行数增加。选项中只有 $(3, 3)$ 满足列数相同且行数更大。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "数对 $(4, 6)$ 中，6 表示的是：",
+      "options": [
+        "第 6 列",
+        "第 6 行",
+        "第 4 行",
+        "距离"
+      ],
+      "answer": "第 6 行",
+      "explanation": "按照数对习惯，第一个数表示列，第二个数表示行。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "小明的位置是 $(3, 4)$，小华坐在小明后面两排且同一列，小华的位置用数对表示第二个数字是 ___。",
+      "options": [],
+      "answer": "6",
+      "explanation": "小明在第 4 行，后面两排即 $4 + 2 = 6$。验算：$6 - 2 = 4$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用数对表示具体情境中的位置",
+      "question": "计算：$12 \times 5 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$12 \times 5 = 60$。验算：$60 \times 2 \times \frac{1}{2} = 60$ 或 $60 \times \frac{1}{5} = 12$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "用数对表示具体情境中的位置",
+    "core_concept": "在具体情境中，我们通常把竖排叫做列，横排叫做行。确定第几列一般从左往右数，确定第几行一般从前往后数。数对的书写格式是用括号把列数和行数括起来，中间用逗号隔开，即（列数，行数）。",
+    "key_formula": "$(列, 行)$",
+    "common_mistakes": [
+      "混淆列和行的顺序，错误地写成（行，列）。",
+      "观察方位错误，没有按照从左往右、从前往后的标准顺序计数。"
+    ],
+    "tips": "记忆口诀：先横（列）后纵（行），括号括起逗号分。"
+  }
+}

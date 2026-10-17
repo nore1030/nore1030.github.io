@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u5-kp24",
+  "title": "动词搭配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词搭配",
+      "question": "请将描写太阳升起的动词与对应状态连线。",
+      "options": [
+        "冲破",
+        "跳出",
+        "躲进",
+        "由于",
+        "海面",
+        "云层",
+        "原因",
+        "黑暗"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "冲破黑暗，跳出海面，躲进云层。由于-原因属于逻辑连词配对。"
+    }
+  ],
+  "knowledge": null
+}

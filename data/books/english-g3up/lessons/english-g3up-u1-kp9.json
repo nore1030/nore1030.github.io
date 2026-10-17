@@ -1,0 +1,39 @@
+{
+  "id": "english-g3up-u1-kp9",
+  "title": "冠词用法",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 5,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "冠词用法",
+      "question": "I have _______ eraser and _______ crayon.",
+      "options": [
+        "a; an",
+        "an; a",
+        "a; a",
+        "an; an"
+      ],
+      "answer": "an; a",
+      "explanation": "eraser以元音开头用an，crayon以辅音开头用a。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "冠词用法",
+      "question": "I have ___ eraser.",
+      "options": [],
+      "answer": "an",
+      "explanation": "eraser是元音音素开头的单词，用an。"
+    }
+  ],
+  "knowledge": null
+}

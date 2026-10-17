@@ -1,0 +1,217 @@
+{
+  "id": "science-g2up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常用材料辨识",
+      "question": "陶瓷碗摔在地上不容易碎。",
+      "options": [],
+      "answer": "错",
+      "explanation": "陶瓷材料虽然坚硬但很脆，易碎。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "材料来源",
+      "question": "木材是来自自然界的天然材料。",
+      "options": [],
+      "answer": "对",
+      "explanation": "木材直接取自树木，是天然材料。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "材料演变",
+      "question": "泥板书在古代书写起来非常轻便且容易保存。",
+      "options": [],
+      "answer": "错",
+      "explanation": "泥板书不仅沉重，而且容易碎裂，并不轻便。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "综合应用",
+      "question": "不同的材料有不同的特点，我们可以根据需求选择材料。",
+      "options": [],
+      "answer": "对",
+      "explanation": "材料的选择取决于物品需要实现的功能。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人工世界",
+      "question": "下列物品的材料中，哪种是经过人类加工后变成的（ ）。",
+      "options": [
+        "河滩上的鹅卵石",
+        "森林里的腐殖土",
+        "工厂里造出的纸",
+        "山洞里的石钟乳"
+      ],
+      "answer": "工厂里造出的纸",
+      "explanation": "纸是典型的通过原材料加工而成的人工材料。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书的演变",
+      "question": "在宣纸上写毛笔字，墨迹会散开，说明宣纸（ ）。",
+      "options": [
+        "非常坚硬",
+        "不吸水",
+        "有吸水性",
+        "很重"
+      ],
+      "answer": "有吸水性",
+      "explanation": "纸的吸水性让墨汁渗入。 "
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多材料组合",
+      "question": "普通的雨伞手柄通常用塑料制成，这主要是因为塑料（ ）。",
+      "options": [
+        "很重",
+        "容易导电",
+        "手感舒适且轻便",
+        "非常昂贵"
+      ],
+      "answer": "手感舒适且轻便",
+      "explanation": "塑料手柄轻、不导热且易塑形。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见材料性质",
+      "question": "我们在实验室用放大镜观察材料，发现木材表面往往有（ ）。",
+      "options": [
+        "金属光泽",
+        "花纹或年轮",
+        "很多气泡",
+        "透明的划痕"
+      ],
+      "answer": "花纹或年轮",
+      "explanation": "年轮和木纹是天然木材的特征。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "材料属性",
+      "question": "用指甲在木块和铁块上划，哪种更容易留下明显的痕迹？",
+      "options": [
+        "铁块",
+        "一样的",
+        "木块",
+        "都划不出痕迹"
+      ],
+      "answer": "木块",
+      "explanation": "铁的硬度比木材大，木材更容易受损留下痕迹。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "回收利用",
+      "question": "将旧报纸送到造纸厂加工成新纸，这属于（ ）。",
+      "options": [
+        "乱扔垃圾",
+        "回收利用",
+        "毁坏树木",
+        "收集古董"
+      ],
+      "answer": "回收利用",
+      "explanation": "这是材料的再加工利用过程。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "材料应用",
+      "question": "电线的外面包裹着一层塑料，这是利用了塑料（ ）的特点。",
+      "options": [
+        "便宜",
+        "好看",
+        "不导电",
+        "很软"
+      ],
+      "answer": "不导电",
+      "explanation": "利用塑料的绝缘性来保障用电安全。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "材料演变",
+      "question": "以下书写材料出现的先后顺序，排列正确的是（ ）。",
+      "options": [
+        "竹简、泥板、纸",
+        "泥板、竹简、纸",
+        "纸、竹简、泥板",
+        "竹简、纸、泥板"
+      ],
+      "answer": "泥板、竹简、纸",
+      "explanation": "早期使用泥板或龟甲，后使用竹简，再出现造纸术。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "材料实验",
+      "question": "把两张同样的纸中的一张折成瓦楞纸，实验表明，同样负重下，平纸可能在放（ ）个垫圈时就弯曲了。",
+      "options": [],
+      "answer": "1",
+      "explanation": "单张平纸支撑力极弱，一般1个垫圈就会使其变形。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "历史常识",
+      "question": "我国古代造纸术是世界四大发明之一。蔡伦生活在距今约（ ）个世纪之前。",
+      "options": [],
+      "answer": "19",
+      "explanation": "蔡伦生活在东汉，约为公元1世纪末2世纪初。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "材料演变",
+      "question": "在蔡伦之前，人们最早把文字刻在动物的（ ）上。",
+      "options": [],
+      "answer": "骨头",
+      "explanation": "甲骨文就是刻在龟甲或兽骨上的文字。"
+    }
+  ],
+  "knowledge": null
+}

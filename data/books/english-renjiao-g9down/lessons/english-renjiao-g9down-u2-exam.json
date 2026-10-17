@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g9down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 2,
+  "unitTitle": "状语从句",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "时间、条件与结果状语从句",
+      "question": "I will call you as soon as I ___ at the airport.",
+      "options": [
+        "arrive",
+        "will arrive",
+        "arrived",
+        "am arriving"
+      ],
+      "answer": "arrive",
+      "explanation": "as soon as 引导时间状语从句。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "让步与宾语从句",
+      "question": "He told me that he ___ to Beijing the day before.",
+      "options": [
+        "has gone",
+        "had gone",
+        "goes",
+        "go"
+      ],
+      "answer": "had gone",
+      "explanation": "主句过去时，从句用过去完成时。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "时间、条件与结果状语从句",
+      "question": "so…that 与 such…that 都可引导结果状语从句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结果状语从句。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "让步与宾语从句",
+      "question": "宾语从句必须使用陈述语序。",
+      "options": [],
+      "answer": "对",
+      "explanation": "语序要点。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g5down-u6-kp23",
+  "title": "动词ing形式对应",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词ing形式对应",
+      "question": "将动词原形与-ing形式匹配。",
+      "options": [
+        "dance",
+        "read",
+        "running",
+        "dancing",
+        "跑",
+        "跳舞",
+        "阅读",
+        "run"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "此题考查单词对应关系，dance对应dancing，read对应阅读，running对应run。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6up-u4-kp9",
+  "title": "环境描写类型",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 8,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "环境描写类型",
+      "question": "请将环境描写及其对应的作用连线。",
+      "options": [
+        "黑色的风暴",
+        "温暖的火炉",
+        "清新的早晨",
+        "残破的小屋",
+        "象征生活的温馨",
+        "象征危险的预兆",
+        "预示新生活的开始",
+        "衬托生活的贫穷"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "黑色风暴象征危险，火炉象征温馨，早晨预示希望，小屋衬托贫穷。"
+    }
+  ],
+  "knowledge": null
+}

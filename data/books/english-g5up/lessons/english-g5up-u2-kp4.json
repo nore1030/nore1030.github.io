@@ -1,0 +1,39 @@
+{
+  "id": "english-g5up-u2-kp4",
+  "title": "语音：字母组合ee和ea的发音",
+  "bookId": "english-g5up",
+  "unitNumber": 2,
+  "unitTitle": "My week",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母组合ee和ea的发音",
+      "question": "单词 'beef' 和 'tea' 中划线部分发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "ee 和 ea 在这些单词中都发长元音 /i:/。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母组合ee和ea的发音",
+      "question": "Which word has a different sound?",
+      "options": [
+        "feet",
+        "meet",
+        "bread",
+        "tea"
+      ],
+      "answer": "bread",
+      "explanation": "bread 中的 ea 发 /e/，其他发 /i:/。"
+    }
+  ],
+  "knowledge": null
+}

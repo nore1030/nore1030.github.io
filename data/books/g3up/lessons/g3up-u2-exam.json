@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 2,
+  "unitTitle": "万以内的加法和减法（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "口算 $46 + 32$ 时，可以先算 $46 + 30 = 76$，再算 $76 + 2 = 78$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$46+32=78$。口算步骤拆分正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "笔算加减法时，必须从百位开始算起。",
+      "options": [],
+      "answer": "错",
+      "explanation": "笔算加减法应该从个位开始算起，方便进位或退位。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "计算 $810 - 450$ 时，十位 1 减 5 不够减，向百位借 1 当 10，十位成了 11 减 5 等于 6。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$810 - 450 = 360$。退位计算过程正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "$2\text{?}$ 加上 $3\text{?}$ 的和一定是五十多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如 $29 + 39 = 68$，和是六十多。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "小蜜蜂采了 420 毫升花粉，又采了 280 毫升。一共采了多少毫升？",
+      "options": [
+        "600",
+        "700",
+        "680",
+        "720"
+      ],
+      "answer": "700",
+      "explanation": "$420 + 280 = 700$。验算：$700 - 280 = 420$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "妈妈买了 25 个苹果，梨比苹果多 16 个。梨有多少个？",
+      "options": [
+        "9",
+        "31",
+        "41",
+        "42"
+      ],
+      "answer": "41",
+      "explanation": "$25 + 16 = 41$。验算：$41 - 16 = 25$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用估算解决实际问题",
+      "question": "电影院共有 800 个座位。一年级有 392 人，二年级有 405 人，两个年级同时进去看电影，坐得下吗？",
+      "options": [
+        "坐得下",
+        "坐不下",
+        "正好坐满",
+        "无法计算"
+      ],
+      "answer": "坐得下",
+      "explanation": "$392 \rightarrow 390$，$405 \rightarrow 400$。$390 + 400 = 790$。因为 $790 < 800$，且实际值 $392 + 405 = 797$ 仍然小于 800，所以坐得下。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "计算 $90 - 43$ 时，先把 43 分成 40 和 3。$90 - 40 = 50$，$50 - 3 = (\text{?})$。",
+      "options": [
+        "47",
+        "53",
+        "43",
+        "57"
+      ],
+      "answer": "47",
+      "explanation": "$90 - 43 = 47$。验算：$47 + 43 = 90$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用估算解决实际问题",
+      "question": "下面各数中最接近 600 的数是哪一个？",
+      "options": [
+        "512",
+        "591",
+        "602",
+        "698"
+      ],
+      "answer": "602",
+      "explanation": "$602 - 600 = 2$；$600 - 591 = 9$。2 最小，所以 602 最接近。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "两个三位数相加，和是几位数？",
+      "options": [
+        "一定是三位数",
+        "一定是四位数",
+        "三位数或四位数",
+        "两位数"
+      ],
+      "answer": "三位数或四位数",
+      "explanation": "$100 + 100 = 200$ (三位数)，$500 + 600 = 1100$ (四位数)。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "仓库里有 850 筐苹果，第一天运走 280 筐，第二天运走 340 筐。两天共运走多少筐？",
+      "options": [
+        "620",
+        "560",
+        "230",
+        "520"
+      ],
+      "answer": "620",
+      "explanation": "$280 + 340 = 620$。注意题目问的是“一共运走”，不需要用 850 去减。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "已知 $\triangle + 24 = 63$，$\triangle - \bigcirc = 15$。$\bigcirc$ 是多少？",
+      "options": [
+        "39",
+        "24",
+        "15",
+        "54"
+      ],
+      "answer": "24",
+      "explanation": "$\triangle = 63 - 24 = 39$。$\bigcirc = 39 - 15 = 24$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "小明家离学校 450 米，早晨上学走了 120 米发现忘了带作业本，又回家去取。这天早晨他去学校一共走了 ___ 米。",
+      "options": [],
+      "answer": "690",
+      "explanation": "走了 120 米返回：$120 + 120 = 240$ 米。再加上去学校的 450 米：$240 + 450 = 690$ 米。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "水果店昨天卖出 48 箱梨，今天卖出 35 箱梨。这两天一共卖出 ___ 箱梨。",
+      "options": [],
+      "answer": "83",
+      "explanation": "$48 + 35 = 83$。验算：$83 - 35 = 48$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加减两位数的口算",
+      "question": "直接写出得数：$84 - 56 = ?$",
+      "options": [],
+      "answer": "28",
+      "explanation": "$84 - 56 = 28$。验算：$28 + 56 = 84$。"
+    }
+  ],
+  "knowledge": null
+}

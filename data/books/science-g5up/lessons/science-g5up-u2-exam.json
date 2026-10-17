@@ -1,0 +1,217 @@
+{
+  "id": "science-g5up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长白山天池成因",
+      "question": "长白山天池是由于风的长期吹蚀作用而形成的湖泊。",
+      "options": [],
+      "answer": "错",
+      "explanation": "长白山天池是火山喷发后形成的火山口湖。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球年龄",
+      "question": "地球表面的形态自古以来就是这个样子，从来没有发生过变化。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地表形态在不断变化，既有剧烈的也有缓慢的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地核状态",
+      "question": "地球中心的地核温度非常高，压力也非常大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "地核厚度大，其内部处于极高温极高压状态。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "植被保护",
+      "question": "修筑梯田可以有效地减缓雨水对土地的侵蚀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "梯田减缓了流水速度，使水分有更多时间下渗，减少水土流失。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "岩石性质",
+      "question": "岩石中经常发现古代动植物的遗迹和化石的是（ ）。",
+      "options": [
+        "沉积岩",
+        "岩浆岩",
+        "变质岩",
+        "花岗岩"
+      ],
+      "answer": "沉积岩",
+      "explanation": "化石只能在沉积岩中保存，高温形成的岩浆岩会将其烧毁。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地震避险",
+      "question": "如果在高层建筑中遇到地震，应该选择（ ）。",
+      "options": [
+        "乘电梯下楼",
+        "直接跳楼",
+        "躲在开阔草地",
+        "寻找坚固家具旁躲避"
+      ],
+      "answer": "寻找坚固家具旁躲避",
+      "explanation": "高层不宜乘电梯（易卡住）或跳楼，应就近寻找承重墙角或结实家具处躲避。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "弯曲变褶皱",
+      "question": "在模拟实验中，用手从两侧向中间挤压多层毛巾，毛巾会拱起，这模拟的是（ ）的形成。",
+      "options": [
+        "平原",
+        "裂谷",
+        "褶皱山脉",
+        "火山碎屑"
+      ],
+      "answer": "褶皱山脉",
+      "explanation": "板块水平挤压导致岩层发生弯曲、隆起，形成褶皱山脉。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "风蚀作用细节",
+      "question": "形态各异的风蚀石经常呈现出上部宽大、下部细窄的形状，主要原因在于（ ）。",
+      "options": [
+        "下面的人经常去摸",
+        "靠近地面的风沙侵蚀力更强",
+        "上部的岩石更坚硬",
+        "下部的岩石更坚硬"
+      ],
+      "answer": "靠近地面的风沙侵蚀力更强",
+      "explanation": "含沙风流在近地面高度搬运的沙粒多、冲击力大，对基座磨蚀更快。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地表结构",
+      "question": "我们生活在地球的哪一个圈层上？",
+      "options": [
+        "地核",
+        "地壳",
+        "地幔",
+        "软流层"
+      ],
+      "answer": "地壳",
+      "explanation": "地壳是地球岩石圈的表层，是人类活动的家园。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "大陆漂移假说",
+      "question": "提出“大陆漂移假说”的科学家是（ ）。",
+      "options": [
+        "牛顿",
+        "爱因斯坦",
+        "魏格纳",
+        "伽利略"
+      ],
+      "answer": "魏格纳",
+      "explanation": "德国科学家魏格纳根据非洲和南美洲海岸线吻合等证据提出了大陆漂移说。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "岩石分类",
+      "question": "由于地壳运动，岩石在高温高压环境下发生性质变化，形成的岩石是（ ）。",
+      "options": [
+        "岩浆岩",
+        "变质岩",
+        "沉积岩",
+        "砾岩"
+      ],
+      "answer": "变质岩",
+      "explanation": "原有岩石经过变质作用形成的岩石称为变质岩。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地形图颜色",
+      "question": "在地形地球仪或地形图上，蓝色通常代表（ ）。",
+      "options": [
+        "森林",
+        "陆地",
+        "荒漠",
+        "水域"
+      ],
+      "answer": "水域",
+      "explanation": "地图中蓝色代表海洋、湖泊等水体。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "大陆数量",
+      "question": "目前地球上公认有（ ）大洲。",
+      "options": [],
+      "answer": "7",
+      "explanation": "分别是亚洲、欧洲、非洲、北美洲、南美洲、大洋洲、南极洲。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "海洋覆盖率",
+      "question": "地球表面约有（ ）%的面积被海洋覆盖。",
+      "options": [],
+      "answer": "71",
+      "explanation": "地球表面大部分是水，约占71%。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风化作用",
+      "question": "由于温度变化、水和生物的作用，使岩石发生破碎的现象叫（ ）。",
+      "options": [],
+      "answer": "风化",
+      "explanation": "风化是地表岩石在各种因素下物理碎裂或化学变化的过程。"
+    }
+  ],
+  "knowledge": null
+}

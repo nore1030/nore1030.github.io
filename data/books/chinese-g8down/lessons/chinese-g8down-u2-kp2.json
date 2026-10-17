@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8down-u2-kp2",
+  "title": "小说情节梳理",
+  "bookId": "chinese-g8down",
+  "unitNumber": 2,
+  "unitTitle": "小说与写作",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说情节梳理",
+      "question": "小说情节发展的基本结构是（　）",
+      "options": [
+        "开端、发展、高潮、结局",
+        "总—分—总",
+        "起承转合",
+        "引论—本论—结论"
+      ],
+      "answer": "开端、发展、高潮、结局",
+      "explanation": "情节四阶段。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说情节梳理",
+      "question": "前文埋下的线索在后面会有照应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "伏笔与照应。"
+    }
+  ],
+  "knowledge": {
+    "point": "小说情节梳理",
+    "core_concept": "情节一般有开端、发展、高潮、结局。阅读时要关注伏笔与照应，它们使情节更严谨。",
+    "key_formula": "开端—发展—高潮—结局",
+    "common_mistakes": [
+      "把伏笔当作无关细节略过。"
+    ],
+    "tips": "关注伏笔与照应。"
+  }
+}

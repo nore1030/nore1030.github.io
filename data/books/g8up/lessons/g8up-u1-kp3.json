@@ -1,0 +1,42 @@
+{
+  "id": "g8up-u1-kp3",
+  "title": "多边形及其内角和",
+  "bookId": "g8up",
+  "unitNumber": 1,
+  "unitTitle": "三角形",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多边形及其内角和",
+      "question": "四边形的内角和为 ___°。",
+      "options": [],
+      "answer": "360",
+      "explanation": "$(4-2)\\times180°=360°$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "多边形及其内角和",
+      "question": "五边形的内角和是多少度？",
+      "options": [],
+      "answer": "540",
+      "explanation": "$(5-2)\\times180°=540°$。"
+    }
+  ],
+  "knowledge": {
+    "point": "多边形及其内角和",
+    "core_concept": "$n$ 边形内角和为 $(n-2)\\times180°$，外角和恒为360°。",
+    "key_formula": "$(n-2)\\times180°$",
+    "common_mistakes": [
+      "把外角和与内角和混淆。"
+    ],
+    "tips": "外角和与边数无关。"
+  }
+}

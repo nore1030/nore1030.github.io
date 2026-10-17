@@ -1,0 +1,61 @@
+{
+  "id": "physics-g8down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "physics-g8down",
+  "unitNumber": 3,
+  "unitTitle": "功和机械能",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功与功率",
+      "question": "起重机把 500 N 的货物匀速提升 6 m，做的功是多少 J？",
+      "options": [],
+      "answer": "3000",
+      "explanation": "$W=Gh=500\\times6=3000$ J。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功与功率",
+      "question": "功率为 2000 W 的机器工作 5 s，做功是多少 J？",
+      "options": [],
+      "answer": "10000",
+      "explanation": "$W=Pt=2000\\times5=10000$ J。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "机械能及其转化",
+      "question": "滚摆上升过程中，动能（　）",
+      "options": [
+        "增大",
+        "减小",
+        "不变",
+        "先减小后增大"
+      ],
+      "answer": "减小",
+      "explanation": "上升时动能转化为重力势能。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "功与功率",
+      "question": "有力作用在物体上，且物体沿力的方向移动了距离，该力一定做了功。",
+      "options": [],
+      "answer": "对",
+      "explanation": "做功的两个必要因素。"
+    }
+  ],
+  "knowledge": null
+}

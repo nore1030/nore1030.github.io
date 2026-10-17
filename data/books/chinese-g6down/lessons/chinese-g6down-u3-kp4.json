@@ -1,0 +1,78 @@
+{
+  "id": "chinese-g6down-u3-kp4",
+  "title": "融情于事",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 2,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "融情于事",
+      "question": "在《那个星期天》中，作者通过描写早晨、报纸等细节，表现了“我”漫长的等待过程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中刻画了阳光的移动、母亲洗衣服的动作等细节，真实地写出了“我”在那个星期天焦急等待的心情。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "融情于事",
+      "question": "“我踏着一块块垫脚石，跳过地上的小水洼”这属于通过动作描写来侧面反映人物欢快的心情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "欢快的跳跃动作是人物心情愉悦的直接体现，这就是融情于具体的动作细节中。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "融情于事",
+      "question": "下列哪个细节描写最能体现“内心的焦急”？",
+      "options": [
+        "他慢条斯理地喝着茶",
+        "他在庭院里悠闲地散步",
+        "他不停地看表并由于走动发出声响",
+        "他静静地坐在窗前看书"
+      ],
+      "answer": "他不停地看表并由于走动发出声响",
+      "explanation": "看表和走动是焦急者常见的下意识动作，通过行为描写体现内心。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "融情于事",
+      "question": "《那个星期天》中，“我”的心情经历了由期待到（___）的变化。",
+      "options": [],
+      "answer": "失望",
+      "explanation": "那个星期天，由于母亲没能实现带“我”出去玩的诺言，“我”十分失望。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "融情于事",
+      "question": "请将下列词语排列成一句描写动作的句子：",
+      "options": [
+        "我",
+        "一动不动",
+        "坐在",
+        "凳子上",
+        "焦急地"
+      ],
+      "answer": "我,一动不动,坐在,凳子上,焦急地",
+      "explanation": "合理的语序应是主语+修饰语+动作，表达焦虑的情绪。"
+    }
+  ],
+  "knowledge": null
+}

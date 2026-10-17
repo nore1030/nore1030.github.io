@@ -1,0 +1,116 @@
+{
+  "id": "chinese-g1up-u5-kp2",
+  "title": "多音字“一”的变调规律",
+  "bookId": "chinese-g1up",
+  "unitNumber": 5,
+  "unitTitle": "课文（一）：感受自然与生活",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "“一（yī）片”中“一”的读音是第一声。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“一”在第四声（片）前应变调为第二声（yí）。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "在词语“一群”中，“一”的读音是？",
+      "options": [
+        "yī",
+        "yí",
+        "yì",
+        "yi"
+      ],
+      "answer": "yì",
+      "explanation": "“一”在第二声（群）前变调为第四声（yì）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "“一会儿”中“一”的读音变调规律与下列哪个词相同？",
+      "options": [
+        "一个",
+        "第一",
+        "一起",
+        "一片"
+      ],
+      "answer": "一片",
+      "explanation": "“一会儿”和“一片”中的“一”都是在第四声前，变调为第二声。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "单独数数“一、二、三”时，“一”读什么音？",
+      "options": [
+        "yī",
+        "yí",
+        "yì",
+        "yi"
+      ],
+      "answer": "yī",
+      "explanation": "“一”单独使用或在数数时读原音第一声。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "选出“一”读音全是第四声（yì）的一组：",
+      "options": [
+        "一串、一边",
+        "一天、一心",
+        "一年、一条",
+        "一回、一人"
+      ],
+      "answer": "一天、一心",
+      "explanation": "当“一”在第一、二、三声字前时，变调为第四声。A项边是第一声，但串是第四声（变二声）；C、D均为第二声字前。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字“一”的变调规律",
+      "question": "请根据读音为“一”字词语寻找正确的拼音。",
+      "options": [
+        "一群",
+        "一片",
+        "数一数",
+        "第一",
+        "yī",
+        "yí",
+        "yì",
+        "yi"
+      ],
+      "answer": "A-3,B-2,C-4,D-1",
+      "explanation": "一群(yì)、一片(yí)、数一数(yi轻声)、第一(yī原音)。"
+    }
+  ],
+  "knowledge": {
+    "point": "多音字“一”的变调规律",
+    "core_concept": "“一”字在不同的语境下读音会发生变化：单独念或在词尾念原音（第一声）；在第四声字前读第二声；在第一、二、三声字前读第四声；在动词中间读轻声。一年级重点在于结合词语环境感悟音变。",
+    "key_formula": "四声前变二，非四前变四，单数念原音",
+    "common_mistakes": [
+      "把“一个”读成第一声",
+      "分不清“一群”和“一片”中一的读音区别"
+    ],
+    "tips": "记口诀：一二三声前变四，四声字前变二声。"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "english-g3down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 22,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常识与英文",
+      "question": "当你想询问路时，应先说 'Excuse me'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Excuse me用于引起他人注意或问路时的礼貌开头。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "拼写检查",
+      "question": "单词 'chair' 的意思是 '球'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "chair是椅子，ball才是球。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语音知识",
+      "question": "单词 'orange' 的第一个字母 'o' 发音与 'box' 相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都发短元音/ɒ/。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "语法判断",
+      "question": "'Where are my ruler?' 这是一个正确的句子。",
+      "options": [],
+      "answer": "错",
+      "explanation": "ruler是单数，应该用is而不是are。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "肯定回答",
+      "question": "— Is it in your desk? — ___",
+      "options": [
+        "Yes, it is.",
+        "No, it is.",
+        "Yes, it isn't.",
+        "It is a desk."
+      ],
+      "answer": "Yes, it is.",
+      "explanation": "主语为it的一般疑问句肯定回答为Yes, it is."
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "否定回答",
+      "question": "— Is the ball under the chair? — ___",
+      "options": [
+        "Yes, I am.",
+        "No, it isn't.",
+        "No, it is.",
+        "Yes, it isn't."
+      ],
+      "answer": "No, it isn't.",
+      "explanation": "否定回答需用No...not结构。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇辨析",
+      "question": "Let's go ___!",
+      "options": [
+        "home",
+        "house",
+        "the home",
+        "to home"
+      ],
+      "answer": "home",
+      "explanation": "go home是固定搭配，home前不加to。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "方位方位",
+      "question": "Look! The boat is ___ the water.",
+      "options": [
+        "on",
+        "under",
+        "in",
+        "at"
+      ],
+      "answer": "on",
+      "explanation": "小船在水面上行驶，用on。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句意理解",
+      "question": "Which one is different? (找不同类词)",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "desk"
+      ],
+      "answer": "desk",
+      "explanation": "in/on/under是介词，desk是名词。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情景应用",
+      "question": "当你发现自己找不到球了，你应该说：",
+      "options": [
+        "Where is my ball?",
+        "I like your ball.",
+        "It's a ball.",
+        "Is it a ball?"
+      ],
+      "answer": "Where is my ball?",
+      "explanation": "寻物句型Where is...?"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介词填空",
+      "question": "The cat is ___ the box. (在盒子里面)",
+      "options": [],
+      "answer": "in",
+      "explanation": "in表示在容器内部。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人称代词",
+      "question": "Where is the ball? ___ is under the chair.",
+      "options": [],
+      "answer": "it",
+      "explanation": "指代物体单数用it。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "礼貌语",
+      "question": "___ me, where is my book?",
+      "options": [],
+      "answer": "excuse",
+      "explanation": "Excuse me用于礼貌地提问。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇配对",
+      "question": "将下列物品与对应中文匹配。",
+      "options": [
+        "chair",
+        "ball",
+        "cap",
+        "boat",
+        "球",
+        "帽子",
+        "小船",
+        "椅子"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "chair-椅子, ball-球, cap-帽子, boat-小船。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句",
+      "question": "连词成句：",
+      "options": [
+        "It",
+        "is",
+        "under",
+        "the",
+        "desk",
+        "."
+      ],
+      "answer": "It,is,under,the,desk,.",
+      "explanation": "陈述句结构：主语+is+介词短语。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g1down-u5-kp4",
+  "title": "歇后语积累与应用",
+  "bookId": "chinese-g1down",
+  "unitNumber": 5,
+  "unitTitle": "识字（二）",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "“十五个吊桶打水——七上八下”形容心里很慌，不安定。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是本单元语文园地中要求掌握的歇后语，比喻心情忐忑。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "小明第一次参加比赛，心里（  ），总是静不下来。",
+      "options": [
+        "芝麻开花——节节高",
+        "小葱拌豆腐——一清二白",
+        "十五个吊桶打水——七上八下",
+        "竹篮子打水——一场空"
+      ],
+      "answer": "十五个吊桶打水——七上八下",
+      "explanation": "形容心里忐忑不安。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "歇后语积累与应用",
+      "question": "芝麻开花——（  ）。",
+      "options": [],
+      "answer": "节节高",
+      "explanation": "歇后语积累。"
+    }
+  ],
+  "knowledge": {
+    "point": "歇后语积累与应用",
+    "core_concept": "歇后语是中国民间常见的语言形式，由‘前一部分（引子）+ 后一部分（注解）’组成，通常幽默形象。本单元要求掌握语文园地中出现的四个经典歇后语，并能理解其在生活语境中的含义。",
+    "key_formula": "形象比喻 —— 揭示含义",
+    "common_mistakes": [
+      "只记前半句，忘了后半句的含义",
+      "歇后语应用环境张冠李戴"
+    ],
+    "tips": "把歇后语像顺口溜一样背诵，并想象竹篮打水、芝麻开花的画面来增强记忆。"
+  }
+}

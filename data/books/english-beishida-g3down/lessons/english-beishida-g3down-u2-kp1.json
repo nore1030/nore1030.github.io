@@ -1,0 +1,47 @@
+{
+  "id": "english-beishida-g3down-u2-kp1",
+  "title": "家庭成员",
+  "bookId": "english-beishida-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Family 家庭与身体",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "“奶奶”的英文是（　）",
+      "options": [
+        "grandma",
+        "grandpa",
+        "aunt",
+        "mother"
+      ],
+      "answer": "grandma",
+      "explanation": "奶奶 grandma。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "family 指家庭。",
+      "options": [],
+      "answer": "对",
+      "explanation": "家庭。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭成员",
+    "core_concept": "family 单元集中学习 father, mother, grandpa, grandma, brother, sister。",
+    "key_formula": "This is my…",
+    "common_mistakes": [
+      "把 grandpa 与 grandma 混淆。"
+    ],
+    "tips": "注意对应。"
+  }
+}

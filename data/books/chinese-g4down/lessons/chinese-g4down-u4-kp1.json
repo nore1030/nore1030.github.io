@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g4down-u4-kp1",
+  "title": "明贬实褒的表达方式",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 0,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "明贬实褒的表达方式",
+      "question": "在老舍的《猫》中，作者说猫性格“古怪”，实际上是表达对猫的喜爱之情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“古怪”一词在此处是明贬实褒，体现了猫性格独特可爱。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "明贬实褒的表达方式",
+      "question": "“它要是高兴，能比谁都温柔可亲。”这是一句明贬实褒的话。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句话是直接描写温顺，不含贬义词语，属于直接赞美。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "明贬实褒的表达方式",
+      "question": "在《白鹅》中，作者称呼白鹅为“鹅老爷”，体现了作者怎样的情感？",
+      "options": [
+        "讨厌鹅的傲慢",
+        "对鹅的调侃与喜爱",
+        "不满鹅的架子大",
+        "害怕白鹅咬人"
+      ],
+      "answer": "对鹅的调侃与喜爱",
+      "explanation": "“鹅老爷”运用了拟人化的称呼，带有戏谑和亲昵的感觉。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "明贬实褒的表达方式",
+      "question": "“这真是一只（  ）的母鸡！”在课文结尾，作者这样感叹。",
+      "options": [
+        "讨人厌",
+        "令人生厌",
+        "英雄",
+        "美丽"
+      ],
+      "answer": "英雄",
+      "explanation": "文章结尾作者从讨厌转为敬佩，赞美母鸡是英雄。"
+    }
+  ],
+  "knowledge": {
+    "point": "明贬实褒的表达方式",
+    "core_concept": "作者在描写喜爱的动物时，表面上使用一些看似贬义的词语，如“古怪”、“高傲”、“鹅老爷”、“讨厌”，实际上在这些词语中蕴含着深厚的喜爱、亲昵和赞赏之情。这种表达方式能使文章语言更加风趣幽默，情感表达更显委婉、耐人寻味。",
+    "key_formula": "贬义词语 + 宠溺语气 = 强烈的表达喜爱之情",
+    "common_mistakes": [
+      "误认为作者真的讨厌这些动物",
+      "在仿写时只学会了贬义词，却没能通过语境体现出喜爱的温度"
+    ],
+    "tips": "朗读时注意带上调皮、宠溺的语气，就能听出作者其实是在“反向表白”。"
+  }
+}

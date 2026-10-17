@@ -1,0 +1,66 @@
+{
+  "id": "science-g4up-u2-kp6",
+  "title": "口腔的消化功能",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 5,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口腔的消化功能",
+      "question": "舌头在口腔消化的过程中只起到搅拌食物的作用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "舌头主要负责搅拌食物并将其输送到食道口，同时协助感受味道。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口腔的消化功能",
+      "question": "牙齿中主要起切割食物作用的是（）。",
+      "options": [
+        "臼齿",
+        "犬齿",
+        "门齿",
+        "槽牙"
+      ],
+      "answer": "门齿",
+      "explanation": "门齿像菜刀负责切割，犬齿撕碎，臼齿磨碎。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "口腔的消化功能",
+      "question": "咀嚼馒头会感到甜，是因为唾液使其中的（）发生了变化。",
+      "options": [
+        "脂肪",
+        "淀粉",
+        "蛋白质",
+        "维生素"
+      ],
+      "answer": "淀粉",
+      "explanation": "唾液淀粉酶能将淀粉转化为有甜味的麦芽糖。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口腔的消化功能",
+      "question": "一个成年人的牙齿通常有（）颗左右。",
+      "options": [],
+      "answer": "32",
+      "explanation": "成年人牙齿数量通常在28到32颗之间。"
+    }
+  ],
+  "knowledge": null
+}

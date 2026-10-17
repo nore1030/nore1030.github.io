@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8down-u3-kp1",
+  "title": "形容词与副词比较级复习",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 3,
+  "unitTitle": "比较级与宾语从句",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "形容词与副词比较级复习",
+      "question": "This pencil is ___ than that one.",
+      "options": [
+        "as long as",
+        "as longer as",
+        "longer",
+        "as long"
+      ],
+      "answer": "as long as",
+      "explanation": "同长度用 as…as。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "形容词与副词比较级复习",
+      "question": "最高级后可用 in 或 of 标明比较范围。",
+      "options": [],
+      "answer": "对",
+      "explanation": "范围用 in/of。"
+    }
+  ],
+  "knowledge": {
+    "point": "形容词与副词比较级复习",
+    "core_concept": "比较级常与 than 连用；两者相等用 as…as；不等用 not as…as。最高级前常用 the，后接 in/of 表范围。",
+    "key_formula": "as + 原级 + as",
+    "common_mistakes": [
+      "the more, the better 结构用错。"
+    ],
+    "tips": "the 比较级, the 比较级。"
+  }
+}

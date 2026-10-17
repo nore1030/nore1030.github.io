@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp8",
+  "title": "微生物的分布",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "微生物的分布",
+      "question": "在空气中、土壤中及动植物体内都生活着微生物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "微生物在地球上分布极其广泛，存在于各种环境中。"
+    }
+  ],
+  "knowledge": null
+}

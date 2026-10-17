@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g11down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g11down",
+  "unitNumber": 2,
+  "unitTitle": "整本书阅读与思辨表达",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "整本书阅读方法",
+      "question": "读整本书时做批注的主要作用是（　）",
+      "options": [
+        "记录思考、加深理解",
+        "凑字数",
+        "便于抄答案",
+        "装饰书页"
+      ],
+      "answer": "记录思考、加深理解",
+      "explanation": "批注助理解。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "思辨性表达",
+      "question": "「水在 100℃ 时沸腾」属于（　）",
+      "options": [
+        "事实判断",
+        "价值判断",
+        "审美判断",
+        "道德判断"
+      ],
+      "answer": "事实判断",
+      "explanation": "可验证为事实判断。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "整本书阅读方法",
+      "question": "整本书阅读要把握全书的主线与结构。",
+      "options": [],
+      "answer": "对",
+      "explanation": "抓主线。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "思辨性表达",
+      "question": "论证要靠证据和推理支撑，不能只靠断言。",
+      "options": [],
+      "answer": "对",
+      "explanation": "论证要素。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u1-kp14",
+  "title": "光的原理应用",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 9,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "光的原理应用",
+      "question": "医生戴在额头上的额镜利用了光的（___）原理将光汇聚在病人口腔中。",
+      "options": [],
+      "answer": "反射",
+      "explanation": "额镜是凹面镜，利用光的反射原理将光线汇聚。"
+    }
+  ],
+  "knowledge": null
+}

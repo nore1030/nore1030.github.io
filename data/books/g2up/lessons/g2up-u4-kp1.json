@@ -1,0 +1,59 @@
+{
+  "id": "g2up-u4-kp1",
+  "title": "乘法的初步认识",
+  "bookId": "g2up",
+  "unitNumber": 4,
+  "unitTitle": "表内乘法（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘法的初步认识",
+      "question": "$4 + 4 + 4$ 改写成乘法算式是 $4 \\times 3$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$4 + 4 + 4$ 是 3 个 4 相加，根据乘法的定义，可以写成 $4 \\times 3$。验算：$4+4+4=12$，$4 \\times 3=12$，结果一致。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘法的初步认识",
+      "question": "在乘法算式 $3 \\times 6 = 18$ 中，18 叫做和。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在乘法算式中，相乘的两个数叫做乘数，得到的结果叫做“积”。18 是积，而不是和。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘法的初步认识",
+      "question": "求 3 个 5 相加的和是多少，下列算式错误的是：",
+      "options": [
+        "5 + 5 + 5",
+        "5 \\times 3",
+        "3 \\times 5",
+        "3 + 3 + 3 + 3 + 3"
+      ],
+      "answer": "3 + 3 + 3 + 3 + 3",
+      "explanation": "3 个 5 相加是 $5+5+5$，对应乘法 $5 \\times 3$ 或 $3 \\times 5$。而 $3+3+3+3+3$ 是 5 个 3 相加。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘法的初步认识",
+    "core_concept": "乘法是求几个相同加数和的简便运算。例如 $5+5+5$ 可以写成 $5 \\times 3$ 或 $3 \\times 5$。乘号左右两边的数叫“乘数”，计算出的结果叫“积”。",
+    "key_formula": "相同加数 \\times 加数的个数 = 积",
+    "common_mistakes": [
+      "将不同加数的算式（如 $2+3+2$）改写成乘法",
+      "混淆乘数和积的概念，把积说成和"
+    ],
+    "tips": "记住“乘法是加法的简便运算”，看到连加就要想到能不能变乘法。"
+  }
+}

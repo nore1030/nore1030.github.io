@@ -1,0 +1,80 @@
+{
+  "id": "g6down-u2-kp3",
+  "title": "利率与利息计算",
+  "bookId": "g6down",
+  "unitNumber": 2,
+  "unitTitle": "百分数（二）",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "存款的时间越长，银行的年利率就一定越高。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然通常情况下长期存款利率高，但利率是由国家银行规定的，并不存在“一定”的必然逻辑关系，且需看具体的金融政策。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "小力将 5000 元存入银行，定期两年，年利率是 2.10%。到期时他可以取出利息多少元？",
+      "options": [
+        "210",
+        "105",
+        "5210",
+        "420"
+      ],
+      "answer": "210",
+      "explanation": "利息 = 本金 $\\times$ 利率 $\\times$ 时间。$5000 \\times 2.10\\% \\times 2 = 105 \\times 2 = 210$（元）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "存入银行 1000 元，存期一年，年利率 1.50%，到期后一共可以取回多少元？",
+      "options": [
+        "1015",
+        "15",
+        "1150",
+        "985"
+      ],
+      "answer": "1015",
+      "explanation": "本息合计 = $1000 + 1000 \\times 1.50\\% \\times 1 = 1000 + 15 = 1015$（元）。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利率与利息计算",
+      "question": "爸爸存了 20000 元，定期五年，年利率为 2.75%，到期可得利息多少元？",
+      "options": [
+        "550",
+        "2750",
+        "1100",
+        "22750"
+      ],
+      "answer": "2750",
+      "explanation": "$20000 \\times 2.75\\% \\times 5 = 20000 \\times 0.0275 \\times 5 = 550 \\times 5 = 2750$（元）。"
+    }
+  ],
+  "knowledge": {
+    "point": "利率与利息计算",
+    "core_concept": "存入银行的钱叫本金，取款时银行多付的钱叫利息。单位时间内的利息与本金的比率叫利率。利息不仅取决于本金和利率，还取决于存款的时间长短。",
+    "key_formula": "$利息 = 本金 \\times 利率 \\times 存期$",
+    "common_mistakes": [
+      "忽视存款时间，直接用本金乘以利率",
+      "求“一共取回多少钱”时漏加本金"
+    ],
+    "tips": "计算本息合计时，可以用 $本金 \\times (1 + 利率 \\times 存期)$ 进行简便运算。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp7",
+  "title": "人物形象",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物形象",
+      "question": "司马光打破水缸救出伙伴，表现了他的勇敢与机智。",
+      "options": [],
+      "answer": "对",
+      "explanation": "司马光在危急时刻能想出破瓮救人的办法，确实又勇敢又聪明。"
+    }
+  ],
+  "knowledge": null
+}

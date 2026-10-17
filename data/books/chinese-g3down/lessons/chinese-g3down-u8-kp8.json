@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g3down-u8-kp8",
+  "title": "词语搭配",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "填入句子横线处最恰当的词语是：裁缝给顾客_____了一件棉袄。",
+      "options": [
+        "缝补",
+        "裁剪",
+        "折叠",
+        "清洗"
+      ],
+      "answer": "裁剪",
+      "explanation": "裁缝的主要工作是裁布缝衣，结合语境应选裁剪。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "请将人物与对应的动作特征连接起来。",
+      "options": [
+        "急性子",
+        "慢性子",
+        "小枣核",
+        "老婆婆",
+        "劝架",
+        "蹦跳",
+        "干活",
+        "叹气"
+      ],
+      "answer": "A-2,B-4,C-3,D-1",
+      "explanation": "急性子易激动蹦跳，慢性子爱叹气，枣核能干活，老婆婆在故事中劝架。"
+    }
+  ],
+  "knowledge": null
+}

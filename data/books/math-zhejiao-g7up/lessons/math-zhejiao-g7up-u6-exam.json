@@ -1,0 +1,66 @@
+{
+  "id": "math-zhejiao-g7up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第6章 图形的初步知识",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "线段的长短比较与和差",
+      "question": "两点之间，（　）最短",
+      "options": [
+        "线段",
+        "直线",
+        "射线",
+        "曲线"
+      ],
+      "answer": "线段",
+      "explanation": "两点之间线段最短。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "角与角的度量、余角和补角",
+      "question": "1° 等于（　）",
+      "options": [
+        "60′",
+        "100′",
+        "10′",
+        "360′"
+      ],
+      "answer": "60′",
+      "explanation": "1 度 = 60 分。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "角与角的度量、余角和补角",
+      "question": "∠1 = 25°，∠2 = 65°，两角之和是多少度？",
+      "options": [],
+      "answer": "90",
+      "explanation": "$25°+65°=90°$，互为余角。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "角与角的度量、余角和补角",
+      "question": "角的大小与画出边的长短无关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "看张口大小。"
+    }
+  ],
+  "knowledge": null
+}

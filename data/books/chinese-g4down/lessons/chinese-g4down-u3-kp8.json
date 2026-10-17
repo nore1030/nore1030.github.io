@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp8",
+  "title": "修辞手法",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 6,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法",
+      "question": "“到下过小雨的营地去吧，那里有泥土的清香。”这句诗运用的感官视角是：",
+      "options": [
+        "视觉",
+        "触觉",
+        "嗅觉",
+        "听觉"
+      ],
+      "answer": "嗅觉",
+      "explanation": "“清香”是通过鼻子闻到的气味。"
+    }
+  ],
+  "knowledge": null
+}

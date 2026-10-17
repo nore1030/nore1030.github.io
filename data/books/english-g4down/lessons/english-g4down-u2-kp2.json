@@ -1,0 +1,171 @@
+{
+  "id": "english-g4down-u2-kp2",
+  "title": "日常活动词汇与短语",
+  "bookId": "english-g4down",
+  "unitNumber": 2,
+  "unitTitle": "What time is it?",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "breakfast 的意思是“晚餐”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "breakfast 意为“早餐”，dinner 才是“晚餐”。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "go to school 的意思是“去上学”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "go to school 是常用固定搭配。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "o'clock 必须用在点钟（整点）之后。",
+      "options": [],
+      "answer": "对",
+      "explanation": "o'clock 意为“……点钟”，常接在整点数字后。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "I have ____ at 7:00 a.m.",
+      "options": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "supper"
+      ],
+      "answer": "breakfast",
+      "explanation": "早上七点通常是吃早餐的时间。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "Time ____ go to school.",
+      "options": [
+        "to",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "explanation": "Time to + 动词，省去了 It's。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "Let's drink some milk. It's time for ____.",
+      "options": [
+        "English class",
+        "breakfast",
+        "music class",
+        "PE class"
+      ],
+      "answer": "breakfast",
+      "explanation": "喝牛奶通常发生在早餐或晚餐，选项中 breakfast 最合适。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "I __ up at 6:30.",
+      "options": [
+        "go",
+        "get",
+        "have",
+        "do"
+      ],
+      "answer": "get",
+      "explanation": "get up 是固定搭配，意为“起床”。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "It's 12:00. It's time for ___.",
+      "options": [],
+      "answer": "lunch",
+      "explanation": "中午 12 点通常是午餐时间。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "It's 8:00. Let's go to ___.",
+      "options": [],
+      "answer": "school",
+      "explanation": "八点钟通常是上学的时间。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "请将英语短语与对应的中文意思连线。",
+      "options": [
+        "lunch",
+        "English class",
+        "music class",
+        "dinner",
+        "英语课",
+        "晚餐",
+        "午餐",
+        "音乐课"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "lunch-午餐；English class-英语课；music class-音乐课；dinner-晚餐。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常活动词汇与短语",
+      "question": "请将英语短语与对应的中文意思连线。",
+      "options": [
+        "get up",
+        "go home",
+        "go to bed",
+        "over",
+        "去上学",
+        "起床",
+        "上床睡觉",
+        "结束"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "注意选项中有 go home/school 的混淆，但此题主要测试起床、回家睡觉和结束的动作。"
+    }
+  ],
+  "knowledge": null
+}

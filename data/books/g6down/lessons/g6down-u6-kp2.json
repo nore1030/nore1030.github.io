@@ -1,0 +1,98 @@
+{
+  "id": "g6down-u6-kp2",
+  "title": "图形与几何的综合运用",
+  "bookId": "g6down",
+  "unitNumber": 6,
+  "unitTitle": "整理和复习",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "圆柱的侧面展开后一定是长方形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "当圆柱的底面周长与高相等时，侧面展开图是正方形。正方形是特殊的长方形，但说法过于绝对。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "一个等腰三角形的一个底角是 40 度，其顶角是多少度？",
+      "options": [
+        "40",
+        "100",
+        "140",
+        "70"
+      ],
+      "answer": "100",
+      "explanation": "$180 - 40 \\times 2 = 180 - 80 = 100$ 。验算：$100 + 40 + 40 = 180$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "一个圆柱体和一个圆锥体等底等高，圆锥的体积是 12 立方厘米，圆柱的体积是多少？",
+      "options": [
+        "4",
+        "12",
+        "24",
+        "36"
+      ],
+      "answer": "36",
+      "explanation": "$V_{圆柱} = 3 \\times V_{圆锥} = 3 \\times 12 = 36$。单位为立方厘米。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "一个正方体的棱长总和是 24 厘米，这个正方体的体积是多少立方厘米？",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "24"
+      ],
+      "answer": "8",
+      "explanation": "棱长 $= 24 \\div 12 = 2$ 厘米。体积 $= 2^3 = 8$ 立方厘米。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "要把一个直径是 2 分米的圆柱木料锯成两个较小的圆柱，表面积会增加多少平方分米？（$\\pi$ 取 3.14）",
+      "options": [
+        "3.14",
+        "6.28",
+        "12.56",
+        "2"
+      ],
+      "answer": "6.28",
+      "explanation": "增加两个底面积。半径 $= 1$ 分米。$3.14 \\times 1^2 \\times 2 = 6.28$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何的综合运用",
+      "question": "一个正方形果园的周长是 400 米，它的面积是 ___ 平方米。",
+      "options": [],
+      "answer": "10000",
+      "explanation": "边长 $= 400 \\div 4 = 100$ 米。面积 $= 100 \\times 100 = 10000$ 平方米。验算：$\\sqrt{10000} = 100$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

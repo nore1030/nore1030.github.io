@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp6",
+  "title": "序数词的构成",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "序数词的构成",
+      "question": "'second' 变序数词直接在 two 后面加 nd。",
+      "options": [],
+      "answer": "错",
+      "explanation": "two对应的序数词是second，属于不规则变化。"
+    }
+  ],
+  "knowledge": null
+}

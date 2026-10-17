@@ -1,0 +1,28 @@
+{
+  "id": "english-g5up-u3-kp14",
+  "title": "语法：favourite",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 9,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语法：favourite",
+      "question": "Beef is _____ favourite food.",
+      "options": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "answer": "my",
+      "explanation": "这里需要形容词性物主代词my来修饰名词food。"
+    }
+  ],
+  "knowledge": null
+}

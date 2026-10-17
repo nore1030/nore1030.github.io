@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp16",
+  "title": "诗歌语言的组织",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 14,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "诗歌语言的组织",
+      "question": "请根据记忆，将《繁星（一五九）》中的诗句排列成句。",
+      "options": [
+        "心中的风雨来了",
+        "我只躲到你的怀里",
+        "天上的风雨来了",
+        "鸟儿躲到它的巢里"
+      ],
+      "answer": "天上的风雨来了,鸟儿躲到它的巢里,心中的风雨来了,我只躲到你的怀里",
+      "explanation": "通过对比天上的风雨和心中的风雨，表达对母亲的依恋。"
+    }
+  ],
+  "knowledge": null
+}

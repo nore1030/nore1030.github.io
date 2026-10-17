@@ -1,0 +1,61 @@
+{
+  "id": "chemistry-g9up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 2,
+  "unitTitle": "物质构成的奥秘",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学式与化合价",
+      "question": "下列化学式书写正确的是（　）",
+      "options": [
+        "$\\text{NaCl}_2$",
+        "$\\text{NaCl}$",
+        "$\\text{Na}_2\\text{Cl}$",
+        "$\\text{NaCl}_3$"
+      ],
+      "answer": "$\\text{NaCl}$",
+      "explanation": "钠 +1 价、氯 -1 价，化简为 NaCl。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "分子、原子与离子",
+      "question": "某原子核外电子数为 17，则其质子数是多少？",
+      "options": [],
+      "answer": "17",
+      "explanation": "原子中质子数 = 核外电子数。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "元素与元素符号",
+      "question": "同种元素的原子核电荷数相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "元素定义。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学式与化合价",
+      "question": "在 $\\text{Na}_2\\text{CO}_3$ 中碳元素的化合价是 ___。",
+      "options": [],
+      "answer": "+4",
+      "explanation": "$2\\times(+1)+x+3\\times(-2)=0$，$x=+4$。"
+    }
+  ],
+  "knowledge": null
+}

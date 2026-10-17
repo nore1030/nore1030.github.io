@@ -1,0 +1,86 @@
+{
+  "id": "g2down-u4-kp3",
+  "title": "除法算式的规律整理",
+  "bookId": "g2down",
+  "unitNumber": 4,
+  "unitTitle": "表内除法（二）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "在除法算式中，除数不能为 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据除法的意义，除数表示分的份数或每份的数量，0 不能做除数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "被除数增加，商一定也增加。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有在除数不变的情况下，被除数增加，商才会增加。如果除数也变化，规律则不同。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "$81 \bdiv 9 \bigcirc 72 \bdiv 8$，$\bigcirc$ 里应填什么符号？",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": "＝",
+      "explanation": "$81 \bdiv 9 = 9$，$72 \bdiv 8 = 9$。$9 = 9$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "如果 $\triangle \times 7 = 42$，那么 $\triangle \times 9$ 是多少？",
+      "options": [
+        "54",
+        "45",
+        "63",
+        "36"
+      ],
+      "answer": "54",
+      "explanation": "先由 $\triangle \times 7 = 42$ 求出 $\triangle = 42 \bdiv 7 = 6$。再算 $6 \times 9 = 54$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "除法算式的规律整理",
+      "question": "已知 $A \bdiv 8 = 9$，那么 $A - 20$ 的结果是 ___。",
+      "options": [],
+      "answer": "52",
+      "explanation": "先算 $A$：$8 \times 9 = 72$。再算 $72 - 20 = 52$。验算：$52 + 20 = 72$，$72 \bdiv 8 = 9$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "除法算式的规律整理",
+    "core_concept": "通过对除法表的观察可以发现规律：当除数不变时，被除数越大，商就越大；当被除数不变时，除数越小，商反而越大。理解这些规律有助于快速判断计算结果的合理性。",
+    "key_formula": "被除数 \\div 除数 = 商 \\leftrightarrow 商 \\times 除数 = 被除数",
+    "common_mistakes": [
+      "错误认为被除数大商就一定大，忽略了除数的影响",
+      "在填空或比较大小时，只看数字不看符号"
+    ],
+    "tips": "被除数越大商越大（除数不动），除数越大商越小（被除数不动）。"
+  }
+}

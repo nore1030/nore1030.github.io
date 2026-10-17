@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp11",
+  "title": "多音字辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字辨析",
+      "question": "“在这个混乱的场面中，哈尔威船长巍然屹立。”句子中“混”的读音是：",
+      "options": [
+        "hún",
+        "hùn",
+        "hūn",
+        "hǔn"
+      ],
+      "answer": "hùn",
+      "explanation": "“混乱”的“混”读音为第四声。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6up-u4-kp8",
+  "title": "小说作者匹配",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 7,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小说作者匹配",
+      "question": "将下列作品与对应的作者进行连线。",
+      "options": [
+        "《穷人》",
+        "《桥》",
+        "《童年》",
+        "《爱的教育》",
+        "列夫·托尔斯泰",
+        "谈歌",
+        "高尔基",
+        "亚米契斯"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查文学常识，本单元《穷人》作者是托尔斯泰，《桥》作者是谈歌。"
+    }
+  ],
+  "knowledge": null
+}

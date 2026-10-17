@@ -1,0 +1,64 @@
+{
+  "id": "g7up-u1-kp3",
+  "title": "有理数的乘除与乘方",
+  "bookId": "g7up",
+  "unitNumber": 1,
+  "unitTitle": "有理数",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "有理数的乘除与乘方",
+      "question": "计算：-4 × 6 = ？",
+      "options": [],
+      "answer": "-24",
+      "explanation": "-4 × 6 = -24。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "有理数的乘除与乘方",
+      "question": "计算：-15 × -3 = ？",
+      "options": [],
+      "answer": "45",
+      "explanation": "-15 × -3 = 45。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "有理数的乘除与乘方",
+      "question": "计算：12 × -4 = ？",
+      "options": [],
+      "answer": "-48",
+      "explanation": "12 × -4 = -48。"
+    },
+    {
+      "id": 11,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的乘除与乘方",
+      "question": "计算：$(-2)^3=$ ？",
+      "options": [],
+      "answer": "-8",
+      "explanation": "$(-2)^3=-8$，负数的奇次幂为负。"
+    }
+  ],
+  "knowledge": {
+    "point": "有理数的乘除与乘方",
+    "core_concept": "两数相乘同号得正、异号得负，绝对值相乘。除以非零数等于乘它的倒数。$a^n$ 表示 $n$ 个 $a$ 相乘。",
+    "key_formula": "$a\\div b=a\\times\\frac1b\\ (b\\ne0)$",
+    "common_mistakes": [
+      "$-2^2=-4$ 与 $(-2)^2=4$ 混淆。"
+    ],
+    "tips": "先定符号，再算绝对值。"
+  }
+}

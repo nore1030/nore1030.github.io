@@ -1,0 +1,116 @@
+{
+  "id": "chinese-g1down-u6-kp3",
+  "title": "气象谚语辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 6,
+  "unitTitle": "夏天",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "气象谚语辨析",
+      "question": "“朝霞不出门，晚霞行千里”意思是早晨出霞会有雨。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是一句气象谚语，早晨出霞预示天气要变坏，不宜出门。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气象谚语辨析",
+      "question": "如果看到“蚂蚁搬家蛇过道”，接下来的天气最可能是？",
+      "options": [
+        "大晴天",
+        "大风天",
+        "大雨将至",
+        "下雪天"
+      ],
+      "answer": "大雨将至",
+      "explanation": "这是民间的气象谚语，预示着就要下大雨了。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气象谚语辨析",
+      "question": "“有雨山戴帽，无雨半山腰”，这里的“帽”指的是？",
+      "options": [
+        "草帽",
+        "白云",
+        "积雪",
+        "雨伞"
+      ],
+      "answer": "白云",
+      "explanation": "云块盖住山头就像戴了帽子，预示天要下雨。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气象谚语辨析",
+      "question": "“晚霞行千里”意味着明天很可能是？",
+      "options": [
+        "晴天",
+        "雷阵雨",
+        "雾霾天",
+        "大雪"
+      ],
+      "answer": "晴天",
+      "explanation": "晚霞预示着云层逐渐消散，明天是适合远行的大晴天。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气象谚语辨析",
+      "question": "将上半句与下半句用线连起来。",
+      "options": [
+        "朝霞",
+        "晚霞",
+        "有雨",
+        "无雨",
+        "行千里",
+        "不出门",
+        "半山腰",
+        "山戴帽"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "对应谚语：朝霞不出门，晚霞行千里；有雨山戴帽，无雨半山腰。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "气象谚语辨析",
+      "question": "请将谚语重新排列组合。",
+      "options": [
+        "蚂蚁",
+        "搬家",
+        "要下雨了",
+        "蛇过道"
+      ],
+      "answer": "蚂蚁,搬家,蛇过道,要下雨了",
+      "explanation": "这是流传最广的民间气象谚语。"
+    }
+  ],
+  "knowledge": {
+    "point": "气象谚语辨析",
+    "core_concept": "气象谚语是民间长期观察自然总结出来的经验。本单元重点理解云、光（霞）与雨的关系。通过学习谚语，培养学生用简洁、朗朗上口的语言描述天气规律的能力。",
+    "key_formula": "对偶记忆法：朝霞对晚霞，戴帽对腰间，形成对比理解记忆。",
+    "common_mistakes": [
+      "将“朝霞不出门”记成“朝霞走千里”，不理解霞光方位对天气的意义。",
+      "对“山戴帽”这种形象化描述理解不清晰。"
+    ],
+    "tips": "看到彩霞时观察时间，如果是早上（朝），就要准备雨具；如果是傍晚（晚），明天可以出门玩。"
+  }
+}

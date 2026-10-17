@@ -1,0 +1,229 @@
+{
+  "id": "chinese-g1up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chinese-g1up",
+  "unitNumber": 3,
+  "unitTitle": "汉语拼音（一）：单韵母与声母",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "单韵母 'e' 的发音口形是扁扁的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "发e音时，嘴角向两边展开，口形是扁的。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "j、q、x与ü相拼规则",
+      "question": "看到 'xu' 这个音节，我们要知道它里面的韵母其实是 'ü'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "x只与ü拼，不与u拼，所以xu中的u是去掉点的ü。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "j、q、x与ü相拼规则",
+      "question": "音节 'l-ü' 拼合时，也要把 ü 的两点去掉写成 'lu'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "l和n与ü相拼时不能去掉两点，因为l和n也能和u相拼，去掉会产生歧义。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "一声平，二声扬，三声拐弯，四声降。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是汉语拼音四声调的基本规则。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "下面哪个字的读音里有单韵母 'i'？",
+      "options": [
+        "打",
+        "衣",
+        "不",
+        "我"
+      ],
+      "answer": "衣",
+      "explanation": "衣的读音是yī，包含单韵母i。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两拼音节的拼读方法",
+      "question": "把 'p' 和 'à' 拼在一起读什么？",
+      "options": [
+        "怕",
+        "爸",
+        "马",
+        "塔"
+      ],
+      "answer": "怕",
+      "explanation": "p-à -> pà，对应汉字'怕'。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两拼音节的拼读方法",
+      "question": "看到一位大佛，'佛'字的声母是：",
+      "options": [
+        "b",
+        "p",
+        "m",
+        "f"
+      ],
+      "answer": "f",
+      "explanation": "佛的读音是fó，声母是f。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "在单韵母 'u' 上加第二声，正确的是：",
+      "options": [
+        "ū",
+        "ú",
+        "ǔ",
+        "ù"
+      ],
+      "answer": "ú",
+      "explanation": "二声向上扬。 "
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "单韵母 ü 的样子像什么？",
+      "options": [
+        "像个圆圈",
+        "像个小棒",
+        "像小鱼吐泡泡",
+        "像个门洞"
+      ],
+      "answer": "像小鱼吐泡泡",
+      "explanation": "ü上面的两点像小鱼吐的泡泡。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "儿歌：'公鸡喔喔，嘴巴( ____ )'，应该填哪个词？",
+      "options": [
+        "张大",
+        "合拢",
+        "圆圆",
+        "扁扁"
+      ],
+      "answer": "圆圆",
+      "explanation": "发o音时嘴巴缩圆。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两拼音节的拼读方法",
+      "question": "我会填：m — ( ____ ) — mǎ。",
+      "options": [],
+      "answer": "ǎ",
+      "explanation": "m和ǎ相拼得到mǎ。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "按声调顺序，'ā' 的后面一个声调是 ( ____ )。",
+      "options": [],
+      "answer": "á",
+      "explanation": "一声后面是二声。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两拼音节的拼读方法",
+      "question": "把音节和汉字连起来。",
+      "options": [
+        "mǎ",
+        "bà",
+        "mù",
+        "pí",
+        "木",
+        "马",
+        "皮",
+        "爸"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "mǎ-马, bà-爸, mù-木, pí-皮。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单韵母及其四声调认读",
+      "question": "连线声调名称与符号。",
+      "options": [
+        "第一声",
+        "第二声",
+        "第三声",
+        "第四声",
+        "ˇ",
+        "ˋ",
+        "ˉ",
+        "ˊ"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "一声ˉ，二声ˊ，三声ˇ，四声ˋ。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两拼音节的拼读方法",
+      "question": "连词成句：",
+      "options": [
+        "打鼓",
+        "在",
+        "小兔"
+      ],
+      "answer": "小兔,在,打鼓",
+      "explanation": "句子逻辑为：谁在做什么。"
+    }
+  ],
+  "knowledge": null
+}

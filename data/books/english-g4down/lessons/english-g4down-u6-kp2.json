@@ -1,0 +1,156 @@
+{
+  "id": "english-g4down-u6-kp2",
+  "title": "描述与评价商品",
+  "bookId": "english-g4down",
+  "unitNumber": 6,
+  "unitTitle": "Shopping",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "'expensive'的意思是'便宜的'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "expensive 是‘昂贵的’，其反义词是 cheap (便宜的)。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "当衣服尺寸正好时，我们可以说 'It's too small.'",
+      "options": [],
+      "answer": "错",
+      "explanation": "尺寸正好应该说 'It's just right.' 而不是 too small (太小了)。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "These gloves are 5 yuan. They are ________.",
+      "options": [
+        "expensive",
+        "cheap",
+        "big",
+        "long"
+      ],
+      "answer": "cheap",
+      "explanation": "5元的价格对于手套来说通常是‘便宜的’ (cheap)。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "This dress is ________. I like it very much.",
+      "options": [
+        "pretty",
+        "too small",
+        "cold",
+        "too long"
+      ],
+      "answer": "pretty",
+      "explanation": "因为‘非常喜欢’，所以应该填褒义词 'pretty' (漂亮的)。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "That skirt is 500 yuan. It's ________.",
+      "options": [
+        "cheap",
+        "just right",
+        "expensive",
+        "short"
+      ],
+      "answer": "expensive",
+      "explanation": "500元属于高价，因此是昂贵的 (expensive)。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "Size 7 is ________ for me. It fits me well.",
+      "options": [
+        "too big",
+        "too small",
+        "just right",
+        "very expensive"
+      ],
+      "answer": "just right",
+      "explanation": "fits me well 表示合身，所以是‘正合适’。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "The shoes are $100. They are too ___.",
+      "options": [],
+      "answer": "expensive",
+      "explanation": "100美元较贵，填形容词 expensive。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "The gloves are 5 yuan. They are ___.",
+      "options": [],
+      "answer": "cheap",
+      "explanation": "价格低，填 cheap。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述与评价商品",
+      "question": "将下列词汇与对应的中文意思连线。",
+      "options": [
+        "expensive",
+        "cheap",
+        "pretty",
+        "sock",
+        "便宜的",
+        "漂亮的",
+        "昂贵的",
+        "短袜"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "expensive-昂贵的；cheap-便宜的；pretty-漂亮的；sock-短袜。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述与评价商品",
+      "question": "连词成句：They,big,too,are",
+      "options": [
+        "They",
+        "big",
+        "too",
+        "are"
+      ],
+      "answer": "They,are,too,big",
+      "explanation": "主语(They) + 系动词(are) + 程度副词(too) + 形容词(big)。"
+    }
+  ],
+  "knowledge": null
+}

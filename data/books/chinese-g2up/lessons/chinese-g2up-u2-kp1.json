@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g2up-u2-kp1",
+  "title": "量词的正确使用",
+  "bookId": "chinese-g2up",
+  "unitNumber": 2,
+  "unitTitle": "识字",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "我们可以说“一支欢笑的人群”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "量词搭配不当，应该是“一群欢笑的人”。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "选出下列量词搭配完全正确的一项：",
+      "options": [
+        "一扇翠竹，一双海鸥",
+        "一竿翠竹，一只海鸥",
+        "一堆翠竹，一头海鸥",
+        "一片翠竹，一艘海鸥"
+      ],
+      "answer": "一竿翠竹，一只海鸥",
+      "explanation": "翠竹常用“竿”或“节”，海鸥用“只”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "去海边旅行，我看到了一（  ）军舰和一（  ）帆船。",
+      "options": [
+        "只，个",
+        "列，条",
+        "艘，条",
+        "口，座"
+      ],
+      "answer": "艘，条",
+      "explanation": "大型船只用“艘”，小型船只用“条”。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "量词的正确使用",
+      "question": "根据偏旁猜一猜，一（  ）小溪，横线上应该填哪个量词？",
+      "options": [],
+      "answer": "条",
+      "explanation": "溪流长长的，通常用“条”。"
+    }
+  ],
+  "knowledge": {
+    "point": "量词的正确使用",
+    "core_concept": "量词是表示人、事物或动作单位的词。在汉语中，量词必须与名词进行恰当的搭配，不仅能体现数量，还能描写出事物的形状特点。如“一（座）山”体现高大，“一（条）河”体现长形。",
+    "key_formula": "数词 + 量词 + 名词",
+    "common_mistakes": [
+      "将“艘”用于小船或将“只”用于大型建筑",
+      "乱用“个”代替所有特定量词"
+    ],
+    "tips": "观察事物的形状，长条用‘条’，大件用‘座’，成对用‘双’。"
+  }
+}

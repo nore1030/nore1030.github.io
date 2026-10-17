@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp18",
+  "title": "雅丹地貌",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "雅丹地貌",
+      "question": "我国甘肃敦煌的雅丹地貌，形成其特殊形态的主要营力是（ ）。",
+      "options": [
+        "太阳光照",
+        "动物活动",
+        "冰川磨损",
+        "强风吹蚀"
+      ],
+      "answer": "强风吹蚀",
+      "explanation": "雅丹地貌是干旱地区典型的风蚀地貌。"
+    }
+  ],
+  "knowledge": null
+}

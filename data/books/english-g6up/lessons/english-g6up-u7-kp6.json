@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp6",
+  "title": "寓言故事要素",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "寓言故事要素",
+      "question": "寓言故事中的 'Setting' 通常指的是故事中的角色。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Setting 指的是背景或环境，Characters 指的是角色。"
+    }
+  ],
+  "knowledge": null
+}

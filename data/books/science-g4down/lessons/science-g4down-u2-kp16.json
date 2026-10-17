@@ -1,0 +1,39 @@
+{
+  "id": "science-g4down-u2-kp16",
+  "title": "电池结构",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电池结构",
+      "question": "干电池铜帽一端是（ ）。",
+      "options": [
+        "负极",
+        "正极",
+        "南极",
+        "北极"
+      ],
+      "answer": "正极",
+      "explanation": "电池铜帽端为正极（+），锌壳端为负极（-）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电池结构",
+      "question": "普通干电池通常有（ ）个连接点。",
+      "options": [],
+      "answer": "2",
+      "explanation": "电池包含正极和负极两个连接点。"
+    }
+  ],
+  "knowledge": null
+}

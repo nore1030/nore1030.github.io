@@ -1,0 +1,91 @@
+{
+  "id": "g3down-u5-kp5",
+  "title": "面积与周长的对比应用",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "一个正方形的边长扩大到原来的 2 倍，面积也扩大到原来的 2 倍。",
+      "options": [],
+      "answer": "错",
+      "explanation": "边长扩大 2 倍，面积扩大 $2 \\times 2 = 4$ 倍。故错误。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "操场的跑道长 400（ ）。",
+      "options": [
+        "米",
+        "分米",
+        "平方米",
+        "平方厘米"
+      ],
+      "answer": "米",
+      "explanation": "长度单位用米。平方米是面积单位，用于描述面积大小。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "一个正方形的周长是 12 厘米，它的面积是多少平方厘米？",
+      "options": [
+        "144",
+        "48",
+        "9",
+        "12"
+      ],
+      "answer": "9",
+      "explanation": "边长：$12 \\div 4 = 3$（厘米）。面积：$3 \\times 3 = 9$（平方厘米）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "一块长方形菜地，长 10 米，宽 5 米。如果长增加 2 米，宽不变，它的面积增加多少平方米？",
+      "options": [
+        "10",
+        "20",
+        "60",
+        "12"
+      ],
+      "answer": "10",
+      "explanation": "原面积：$10 \\times 5 = 50$；新面积：$(10 + 2) \\times 5 = 60$；增加：$60 - 50 = 10$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "一个正方形的面积是 25 平方分米，它的边长是 ___ 分米。",
+      "options": [],
+      "answer": "5",
+      "explanation": "因为 $5 \\times 5 = 25$（平方分米），所以边长是 $5$ 分米。验算：$5 \\times 4 = 20$（周长），$5 \\times 5 = 25$（面积） ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "面积与周长的对比应用",
+    "core_concept": "周长是线性长度，面积是平面铺满。当周长相等时，越接近正方形的图形面积越大；当面积相等时，长方形的长宽差异越大周长越长。",
+    "key_formula": "周长 $C = (a+b) \\times 2$；面积 $S = a \\times b$",
+    "common_mistakes": [
+      "混淆两者的计算方法（加法与乘法混用）",
+      "分不清两个量在图形剪切或拼合中的变化情况"
+    ],
+    "tips": "列表对比区分：周长要‘围’、用线围；面积要‘铺’、用纸盖。"
+  }
+}

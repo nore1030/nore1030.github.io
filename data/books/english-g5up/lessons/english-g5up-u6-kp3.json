@@ -1,0 +1,50 @@
+{
+  "id": "english-g5up-u6-kp3",
+  "title": "限定词any在疑问句中的用法",
+  "bookId": "english-g5up",
+  "unitNumber": 6,
+  "unitTitle": "In a nature park",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "限定词any在疑问句中的用法",
+      "question": "在单数疑问句 Is there a lake? 中可以使用 any 替换 a。",
+      "options": [],
+      "answer": "错",
+      "explanation": "any通常用于复数名词或不可数名词，单数可数名词用a/an。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "限定词any在疑问句中的用法",
+      "question": "Are there _____ tall buildings in the village?",
+      "options": [
+        "some",
+        "a",
+        "any",
+        "the"
+      ],
+      "answer": "any",
+      "explanation": "在疑问句中，复数名词前通常用any。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "限定词any在疑问句中的用法",
+      "question": "Are there ___ monkeys in the mountains?",
+      "options": [],
+      "answer": "any",
+      "explanation": "疑问句复数名词前填any。"
+    }
+  ],
+  "knowledge": null
+}

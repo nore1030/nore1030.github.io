@@ -1,0 +1,133 @@
+{
+  "id": "chinese-g5down-u1-kp1",
+  "title": "古诗词情景想象与默写",
+  "bookId": "chinese-g5down",
+  "unitNumber": 1,
+  "unitTitle": "童年往事",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "《稚子弄冰》描述的是孩子们在冰天雪地里玩耍的场景。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诗中通过‘劈寒冰’、‘穿丝’等动作描写，生动表现了孩子冬日玩冰的欢愉。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "《村晚》的作者是宋代诗人范成大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "《村晚》的作者是雷震，范成大是《四时田园杂兴》的作者。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘也傍桑阴学种瓜’一句中，‘傍’的意思是：",
+      "options": [
+        "靠近",
+        "依附",
+        "一旁",
+        "甚至"
+      ],
+      "answer": "靠近",
+      "explanation": "傍：靠近。句意为幼童也在桑树阴下学着大人的样子种瓜。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘短笛无腔信口吹’中‘信口’最准确的解释是：",
+      "options": [
+        "乱说一气",
+        "随心所欲",
+        "相信嘴巴",
+        "很有口才"
+      ],
+      "answer": "随心所欲",
+      "explanation": "这里的信口是指随心所欲地吹奏，表现牧童的悠闲与随性。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "‘草满池塘水满陂，山衔落日浸寒漪。’描写的是哪个季节的景色？",
+      "options": [
+        "初春",
+        "盛夏",
+        "初秋",
+        "深冬"
+      ],
+      "answer": "盛夏",
+      "explanation": "‘草满’、‘水满’以及牧童晚归的生机，符合初夏或盛夏的物象。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "《四时田园杂兴》中描述‘童孙未解供耕织’，‘供’的意思是（___）。",
+      "options": [],
+      "answer": "从事",
+      "explanation": "供此处意为从事、参加。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "敲成玉磬穿林响，忽作（___）碎地声。",
+      "options": [],
+      "answer": "玻璃",
+      "explanation": "出自《稚子弄冰》，意为冰块掉在地上的声音。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词情景想象与默写",
+      "question": "请根据诗句内容匹配所描写的孩童活动。",
+      "options": [
+        "也傍桑阴学种瓜",
+        "短笛无腔信口吹",
+        "彩色丝穿紫绮穿",
+        "彩丝穿取当银钲",
+        "横牛背",
+        "捉弄冰",
+        "学种瓜",
+        "穿冰块"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "考查对古诗词动词的细节掌握。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗词情景想象与默写",
+    "core_concept": "本单元选取三首表现古代儿童生活的诗作。要求通过诗中的动词（如：耘、学、弄、穿、横）想象画面，理解田园生活的质朴与诗意。重点在于体会诗人如何通过白描手法勾勒出孩童的天真浪漫与农民的辛劳。",
+    "key_formula": "抓动词+看背景+入情境=诗画统一",
+    "common_mistakes": [
+      "‘昼出耘田夜绩麻’中‘绩麻’与‘耕种’含义混淆。",
+      "‘浸寒漪’的‘漪’字容易写成‘椅’或‘依’。"
+    ],
+    "tips": "可以尝试给诗句‘配画’，在脑海中构建牧童骑牛、儿童敲冰的动态画面，记忆更深刻。"
+  }
+}

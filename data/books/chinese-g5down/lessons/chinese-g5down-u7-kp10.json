@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp10",
+  "title": "词语辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语辨析",
+      "question": "“船头和船艄向上（ ），像挂在天边的新月。”",
+      "options": [
+        "翘起",
+        "弯曲",
+        "跳动",
+        "连接"
+      ],
+      "answer": "翘起",
+      "explanation": "课文原句，生动描写小艇的外形特征。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8down-u2-kp2",
+  "title": "急救常识与用药安全",
+  "bookId": "biology-g8down",
+  "unitNumber": 2,
+  "unitTitle": "健康生活与医疗急救",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "急救常识与用药安全",
+      "question": "毛细血管出血的特点是（　）",
+      "options": [
+        "血液从伤口渗出，止血容易",
+        "血液呈鲜红色，涌出较快",
+        "血色暗红，流出缓慢",
+        "出血量很大"
+      ],
+      "answer": "血液从伤口渗出，止血容易",
+      "explanation": "毛细血管出血特征。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "急救常识与用药安全",
+      "question": "服药必须遵医嘱。",
+      "options": [],
+      "answer": "对",
+      "explanation": "用药安全。"
+    }
+  ],
+  "knowledge": {
+    "point": "急救常识与用药安全",
+    "core_concept": "出血可分为动脉血、静脉血和毛细血管出血，止血方法各异。创伤出血先止血再消毒包扎。用药要遵医嘱，不能自行服用。",
+    "key_formula": "止血 → 消毒 → 包扎",
+    "common_mistakes": [
+      "伤口先包扎不止血。"
+    ],
+    "tips": "先止血。"
+  }
+}

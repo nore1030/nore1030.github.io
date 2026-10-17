@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp13",
+  "title": "古诗理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗理解",
+      "question": "“人间四月芳菲尽，山寺桃花始盛开。”这句诗描写的是什么季节？",
+      "options": [
+        "早春",
+        "初夏",
+        "盛夏",
+        "暮春"
+      ],
+      "answer": "暮春",
+      "explanation": "农历四月已是春季末尾，所以称为暮春。"
+    }
+  ],
+  "knowledge": null
+}

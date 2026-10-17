@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u2-kp16",
+  "title": "制作校园生物分布图",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 10,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "制作校园生物分布图",
+      "question": "在制作校园生物分布图时，如果生物种类太多，可以（ ）。",
+      "options": [
+        "不标在图上",
+        "只记录动物",
+        "用编号或图例表示",
+        "全部密密麻麻写上去"
+      ],
+      "answer": "用编号或图例表示",
+      "explanation": "图例法能使分布图清晰、直观地传达信息。"
+    }
+  ],
+  "knowledge": null
+}

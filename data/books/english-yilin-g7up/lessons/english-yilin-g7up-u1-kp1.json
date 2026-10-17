@@ -1,0 +1,63 @@
+{
+  "id": "english-yilin-g7up-u1-kp1",
+  "title": "be 动词与自我介绍",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 This is me! 自我介绍",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与自我介绍",
+      "question": "「我叫李明。」的英文是（　）",
+      "options": [
+        "My name is Li Ming.",
+        "My name Li Ming.",
+        "I name is Li Ming.",
+        "I'm Li Ming name."
+      ],
+      "answer": "My name is Li Ming.",
+      "explanation": "My name is + 名。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与自我介绍",
+      "question": "「欢迎来到七年级一班。」的英文是（　）",
+      "options": [
+        "Welcome to Class 1, Grade 7!",
+        "Welcome Class 1, Grade 7!",
+        "Welcome to Grade 1, Class 7!",
+        "Welcome in Class 1, Grade 7!"
+      ],
+      "answer": "Welcome to Class 1, Grade 7!",
+      "explanation": "welcome to + 地点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与自我介绍",
+      "question": "This is… 用于介绍他人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍用语。"
+    }
+  ],
+  "knowledge": {
+    "point": "be 动词与自我介绍",
+    "core_concept": "I'm… / My name is…；Welcome to Class 1, Grade 7! 欢迎来到七年级一班。",
+    "key_formula": "I'm Li Ming. I'm thirteen.",
+    "common_mistakes": [
+      "Grade 7 写成 Class 7。"
+    ],
+    "tips": "班级 class，年级 grade。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp14",
+  "title": "词语辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语辨析",
+      "question": "他（ ）地坐在座位上，一动也不动。",
+      "options": [
+        "自言自语",
+        "飞快",
+        "静静",
+        "大声"
+      ],
+      "answer": "静静",
+      "explanation": "“一动也不动”对应“静静”。"
+    }
+  ],
+  "knowledge": null
+}

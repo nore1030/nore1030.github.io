@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u3-kp6",
+  "title": "句式转换",
+  "bookId": "chinese-g5up",
+  "unitNumber": 3,
+  "unitTitle": "民间故事",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句式转换",
+      "question": "将“难道海力布不是为了救乡亲们才变成石头的吗？”改为陈述句，正确的是：",
+      "options": [
+        "海力布不是为了救乡亲们才变成石头的。",
+        "海力布可能不是为了救乡亲们表达意思。",
+        "海力布是为了救乡亲们才变成石头的。",
+        "海力布为了救乡亲们变成了漂亮的石头。"
+      ],
+      "answer": "海力布是为了救乡亲们才变成石头的。",
+      "explanation": "反问改陈述，去掉否定词，意思不变。"
+    }
+  ],
+  "knowledge": null
+}

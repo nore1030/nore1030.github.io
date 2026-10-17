@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp11",
+  "title": "能量与速度",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "能量与速度",
+      "question": "同一个小车，运动速度越快，具有的能量就越大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "运动物体的能量大小与速度有关，速度越快，能量越大。"
+    }
+  ],
+  "knowledge": null
+}

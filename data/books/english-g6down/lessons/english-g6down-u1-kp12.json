@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp12",
+  "title": "询问体重",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 8,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问体重",
+      "question": "How ____ is the dinosaur? - It is 5 tons.",
+      "options": [
+        "tall",
+        "heavy",
+        "big",
+        "strong"
+      ],
+      "answer": "heavy",
+      "explanation": "根据回答中的单位tons（吨）可知是在询问重量。"
+    }
+  ],
+  "knowledge": null
+}

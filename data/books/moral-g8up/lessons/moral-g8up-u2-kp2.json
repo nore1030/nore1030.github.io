@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8up-u2-kp2",
+  "title": "诚信与失信后果",
+  "bookId": "moral-g8up",
+  "unitNumber": 2,
+  "unitTitle": "网络生活与社会诚信",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "诚信与失信后果",
+      "question": "失信惩戒制度的主要目的是（　）",
+      "options": [
+        "让失信者承担相应后果、维护公平",
+        "惩罚所有人",
+        "取代法律",
+        "限制消费自由"
+      ],
+      "answer": "让失信者承担相应后果、维护公平",
+      "explanation": "惩戒目的是维护公平。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "诚信与失信后果",
+      "question": "失信者会在经济和社会生活中受到惩戒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "失信惩戒。"
+    }
+  ],
+  "knowledge": {
+    "point": "诚信与失信后果",
+    "core_concept": "诚信是社会主义核心价值观的重要内容，失信者会在经济、社会生活中受到惩戒。失信惩戒不是目的，关键是人人讲诚信。",
+    "key_formula": "诚信无价",
+    "common_mistakes": [
+      "认为失信只是道德问题。"
+    ],
+    "tips": "失信有法律后果。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp20",
+  "title": "工程设计流程",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程设计流程",
+      "question": "设计并制作小车的正确顺序是（___）。",
+      "options": [
+        "设计-制作-确定方案-评估",
+        "明确问题-制定方案-实施方案-评估改进",
+        "制作-设计-修改",
+        "购买零件-组装-测试"
+      ],
+      "answer": "明确问题-制定方案-实施方案-评估改进",
+      "explanation": "这是标准的工程设计四个阶段。"
+    }
+  ],
+  "knowledge": null
+}

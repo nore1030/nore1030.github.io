@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8down-u1-kp1",
+  "title": "坚持与成功的品质",
+  "bookId": "moral-g8down",
+  "unitNumber": 1,
+  "unitTitle": "坚持与尊严",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "坚持与成功的品质",
+      "question": "培养坚持的品质，可以（　）",
+      "options": [
+        "把大目标分解成小目标逐个完成",
+        "只凭一时冲动",
+        "等别人推一把",
+        "目标模糊不做计划"
+      ],
+      "answer": "把大目标分解成小目标逐个完成",
+      "explanation": "分解目标可操作。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "坚持与成功的品质",
+      "question": "坚持需要明确的目標和科学的方法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "坚持有方法。"
+    }
+  ],
+  "knowledge": {
+    "point": "坚持与成功的品质",
+    "core_concept": "坚持需要坚强的意志品质。可以通过制定目标、分解任务、及时反思、寻求帮助等方式培养坚持的品质。",
+    "key_formula": "目标 + 方法 + 坚持",
+    "common_mistakes": [
+      "把坚持理解为一味蛮干。"
+    ],
+    "tips": "坚持要有方法。"
+  }
+}

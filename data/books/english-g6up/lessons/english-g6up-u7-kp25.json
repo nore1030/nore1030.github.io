@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp25",
+  "title": "交通建议",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交通建议",
+      "question": "请将下列单词连成一句话：",
+      "options": [
+        "Wait",
+        "the",
+        "at",
+        "light"
+      ],
+      "answer": "Wait,at,the,light",
+      "explanation": "祈使句以动词原形开头，表示在灯前等待。"
+    }
+  ],
+  "knowledge": null
+}

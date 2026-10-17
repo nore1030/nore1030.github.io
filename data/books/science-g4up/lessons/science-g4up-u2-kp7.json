@@ -1,0 +1,39 @@
+{
+  "id": "science-g4up-u2-kp7",
+  "title": "食物分类",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 6,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "食物分类",
+      "question": "根据食物来源，我们可以把食物分为植物类食物和动物类食物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是最常用的食物分类方法之一，又称素食和荤食。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物分类",
+      "question": "下列属于主食的是（）。",
+      "options": [
+        "红烧肉",
+        "炒青菜",
+        "米饭",
+        "苹果"
+      ],
+      "answer": "米饭",
+      "explanation": "主食通常指谷类或薯类食物。"
+    }
+  ],
+  "knowledge": null
+}

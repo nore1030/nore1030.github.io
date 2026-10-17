@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 3,
+  "unitTitle": "复式统计表",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "复式统计表的标题必须能反映出统计的主要内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标题是统计表的“名字”，应能概括其核心内容。✓"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "如果要比较两个班级的跳绳成绩，复式统计表比单式统计表更合适。",
+      "options": [],
+      "answer": "对",
+      "explanation": "复式表可以将两班成绩集中在一起，更方便对比。✓"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "复式统计表中的“合计”只能算横向的，不能算纵向的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "复式统计表通常既有行合计，也有列合计（总计）。✓"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "统计表中的数据必须准确真实，不能随意填写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "真实性是统计工作最基本的要求。✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "三(1)班45人，三(2)班48人。两班总人数（  ）100人。",
+      "options": [
+        "大于",
+        "小于",
+        "等于",
+        "无法判断"
+      ],
+      "answer": "小于",
+      "explanation": "$45 + 48 = 93$，$93 < 100$。✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "要表示某校各年级男、女生人数，最适合用（  ）。",
+      "options": [
+        "复式统计表",
+        "算式",
+        "文字",
+        "单式统计表"
+      ],
+      "answer": "复式统计表",
+      "explanation": "多个年级的男女生数据对比，复式统计表最高效科学。✓"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "商店上午卖出15箱苹果，下午卖出22箱。全天共卖出（  ）箱。",
+      "options": [
+        "37",
+        "7",
+        "35",
+        "40"
+      ],
+      "answer": "37",
+      "explanation": "$15 + 22 = 37$。验算：$37 - 15 = 22$。✓"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "某年级共有学生200人，其中男生105人。女生人数（  ）男生人数。",
+      "options": [
+        "多于",
+        "少于",
+        "等于",
+        "无法比较"
+      ],
+      "answer": "少于",
+      "explanation": "女生人数为 $200 - 105 = 95$ 人，$95 < 105$，故少于男生。✓"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "已知A班总人数40人，B班50人。A班男生20人，B班女生25人。两班总男生是（  ）人。",
+      "options": [
+        "45",
+        "40",
+        "50",
+        "20"
+      ],
+      "answer": "45",
+      "explanation": "B班男生为 $50 - 25 = 25$ 人，总男生为 $20 + 25 = 45$ 人。✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "如果“阅读”项中，男生有20人，女生比男生多5人，则女生有（  ）人。",
+      "options": [
+        "25",
+        "15",
+        "20",
+        "30"
+      ],
+      "answer": "25",
+      "explanation": "$20 + 5 = 25$。验算：$25 - 20 = 5$。✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "复式统计表中的斜线通常放在表格的（  ）。",
+      "options": [
+        "中间",
+        "右下角",
+        "左上角",
+        "左下角"
+      ],
+      "answer": "左上角",
+      "explanation": "左上角的表头格使用斜线划分维度。✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "小红和小明统计路口车辆。小红记了12辆，小明比小红多记了8辆。两人共记了（  ）辆。",
+      "options": [
+        "32",
+        "20",
+        "28",
+        "12"
+      ],
+      "answer": "32",
+      "explanation": "小明：$12 + 8 = 20$ 辆。总计：$12 + 20 = 32$ 辆。✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "一班有学生45人，其中有24人是男生，那么女生有 ___ 人。",
+      "options": [],
+      "answer": "21",
+      "explanation": "列式：$45 - 24 = 21$。验算：$21 + 24 = 45$。答：21。✓"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从复式统计表中获取并分析信息",
+      "question": "三个班级合计人数为120人。已知一班40人，二班38人，则三班有 ___ 人。",
+      "options": [],
+      "answer": "42",
+      "explanation": "列式：$120 - 40 - 38 = 42$。验算：$42 + 38 + 40 = 120$。答：42。✓"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "计算复式表中多项合计数：$15 + 23 + 12 + 30 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "$15 + 23 = 38$；$38 + 12 = 50$；$50 + 30 = 80$。验算：$80 - 30 - 12 - 23 = 15$。✓"
+    }
+  ],
+  "knowledge": null
+}

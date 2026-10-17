@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g10up-u2-kp2",
+  "title": "词汇积累与运用",
+  "bookId": "english-yilin-g10up",
+  "unitNumber": 2,
+  "unitTitle": "语法与词汇拓展",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "词汇积累与运用",
+      "question": "“参加（某活动）”的英文是（　）",
+      "options": [
+        "take part in",
+        "look after",
+        "be good at",
+        "get up"
+      ],
+      "answer": "take part in",
+      "explanation": "take part in 参加。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "词汇积累与运用",
+      "question": "be good at 表示“擅长”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be good at。"
+    }
+  ],
+  "knowledge": {
+    "point": "词汇积累与运用",
+    "core_concept": "高频动词短语要整体记忆，如 take part in、look after、be good at。",
+    "key_formula": "短语整体记忆",
+    "common_mistakes": [
+      "只记单词不记搭配。"
+    ],
+    "tips": "整体记忆短语。"
+  }
+}

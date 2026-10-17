@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u7-kp6",
+  "title": "文本阅读",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 5,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文本阅读",
+      "question": "“雪孩子变成了一朵白云，美丽的白云。”这句话表达了：",
+      "options": [
+        "雪孩子被太阳晒化了",
+        "雪孩子想去旅游",
+        "舍己救人的美好品质",
+        "雪孩子不见了"
+      ],
+      "answer": "舍己救人的美好品质",
+      "explanation": "通过雪孩子化为水、变成云的过程，赞美其奉献精神。"
+    }
+  ],
+  "knowledge": null
+}

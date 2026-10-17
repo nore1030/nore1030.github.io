@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u5-kp22",
+  "title": "词义匹配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义匹配",
+      "question": "请将下列形容词与它们修饰的对象连线。",
+      "options": [
+        "蜿蜒的",
+        "突兀的",
+        "漆黑的",
+        "明艳的",
+        "岩石",
+        "野花",
+        "小溪",
+        "内洞"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "蜿蜒的小溪，突兀的岩石，漆黑的内洞，明艳的野花。"
+    }
+  ],
+  "knowledge": null
+}

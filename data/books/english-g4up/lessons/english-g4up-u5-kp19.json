@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp19",
+  "title": "词汇拼写",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 15,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇拼写",
+      "question": "I can use ___ (筷子) for noodles.",
+      "options": [],
+      "answer": "chopsticks",
+      "explanation": "筷子的英文是chopsticks，常用复数。"
+    }
+  ],
+  "knowledge": null
+}

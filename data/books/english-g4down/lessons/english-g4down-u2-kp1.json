@@ -1,0 +1,99 @@
+{
+  "id": "english-g4down-u2-kp1",
+  "title": "时间表达与询问",
+  "bookId": "english-g4down",
+  "unitNumber": 2,
+  "unitTitle": "What time is it?",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时间表达与询问",
+      "question": "当你想问别人“几点了？”可以说：What time is it?",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是询问时间的标准句型。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间表达与询问",
+      "question": "It's seven ____.",
+      "options": [
+        "clock",
+        "o'clock",
+        "clocks",
+        "time"
+      ],
+      "answer": "o'clock",
+      "explanation": "整点表达常用 o'clock。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间表达与询问",
+      "question": "—What time is it? —____",
+      "options": [
+        "It's blue.",
+        "It's 8:00.",
+        "It's a desk.",
+        "It's big."
+      ],
+      "answer": "It's 8:00.",
+      "explanation": "回答时间提问应回复具体数字或时间。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间表达与询问",
+      "question": "School is over. Let's ____.",
+      "options": [
+        "go home",
+        "go to school",
+        "get up",
+        "have breakfast"
+      ],
+      "answer": "go home",
+      "explanation": "放学了（School is over）应该回家。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间表达与询问",
+      "question": "What ___ is it? It's 10:00.",
+      "options": [],
+      "answer": "time",
+      "explanation": "提问时间固定词组为 what time。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间表达与询问",
+      "question": "连词成句：is,What,time,it,?",
+      "options": [
+        "is",
+        "What",
+        "time",
+        "it",
+        "?"
+      ],
+      "answer": "What,time,is,it,?",
+      "explanation": "特殊疑问句，What 置于句首。"
+    }
+  ],
+  "knowledge": null
+}

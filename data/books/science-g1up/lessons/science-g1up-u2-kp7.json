@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp7",
+  "title": "科学观察方法",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "科学观察方法",
+      "question": "画植物时，我们应该把自己看到的细节如实画出来。",
+      "options": [],
+      "answer": "对",
+      "explanation": "科学绘画要求实事求是，真实记录观察到的特征。"
+    }
+  ],
+  "knowledge": null
+}

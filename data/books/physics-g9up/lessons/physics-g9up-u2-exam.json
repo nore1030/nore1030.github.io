@@ -1,0 +1,66 @@
+{
+  "id": "physics-g9up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g9up",
+  "unitNumber": 2,
+  "unitTitle": "电流和电路",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "串联与并联电路",
+      "question": "串联电路总电压 6 V，$U_1=2.5$ V，则 $U_2$ 是多少 V？",
+      "options": [],
+      "answer": "3.5",
+      "explanation": "$U_2=6-2.5=3.5$ V。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "串联与并联电路",
+      "question": "关于并联电路，正确的是（　）",
+      "options": [
+        "各支路电压相等",
+        "各支路电流相等",
+        "总电压等于各支路之和",
+        "总电流等于各支路之和"
+      ],
+      "answer": "各支路电压相等",
+      "explanation": "并联电压相等。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电荷与电流",
+      "question": "金属导体中定向移动形成电流的是自由电子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "金属靠自由电子导电。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "电流表与电压表的使用",
+      "question": "使用电流表时，若量程选大了，指针偏转（　）",
+      "options": [
+        "角度较大",
+        "角度较小",
+        "不变",
+        "反而向左"
+      ],
+      "answer": "角度较小",
+      "explanation": "量程过大读数不精确。"
+    }
+  ],
+  "knowledge": null
+}

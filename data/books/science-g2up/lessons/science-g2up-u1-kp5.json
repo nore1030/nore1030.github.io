@@ -1,0 +1,55 @@
+{
+  "id": "science-g2up-u1-kp5",
+  "title": "天气现象及其影响",
+  "bookId": "science-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的地球家园",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "天气现象及其影响",
+      "question": "大雨天气也会对人类的出行产生影响。",
+      "options": [],
+      "answer": "对",
+      "explanation": "天气与人类生活密切相关，恶劣天气会带来不便。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天气现象及其影响",
+      "question": "当天空布满厚厚的黑云，但还没有下雨时，这种天气是：",
+      "options": [
+        "晴天",
+        "暴雨",
+        "雪天",
+        "阴天"
+      ],
+      "answer": "阴天",
+      "explanation": "阴天的特征是云层厚且密，挡住了阳光。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "天气现象及其影响",
+      "question": "下列天气中，最适合在户外晾晒衣服的是：",
+      "options": [
+        "雷雨",
+        "大雾",
+        "大风",
+        "晴天"
+      ],
+      "answer": "晴天",
+      "explanation": "晴天阳光充足，气温适宜，利于水分蒸发。"
+    }
+  ],
+  "knowledge": null
+}

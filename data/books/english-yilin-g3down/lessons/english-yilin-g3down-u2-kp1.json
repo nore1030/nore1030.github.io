@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g3down-u2-kp1",
+  "title": "家庭成员",
+  "bookId": "english-yilin-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 I'm Liu Tao 我的家人",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "“祖父”的英语是（　）",
+      "options": [
+        "grandfather",
+        "uncle",
+        "brother",
+        "father"
+      ],
+      "answer": "grandfather",
+      "explanation": "祖父 grandfather。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "This is my father. 用于介绍父亲。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍家人。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭成员",
+    "core_concept": "father, mother, brother, sister, grandfather, grandmother。译林版常用 This is my… 介绍。",
+    "key_formula": "This is my mother.",
+    "common_mistakes": [
+      "把 grandmother 写成 grandmoter。"
+    ],
+    "tips": "注意拼写。"
+  }
+}

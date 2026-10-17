@@ -1,0 +1,272 @@
+{
+  "id": "chinese-g5down-u5-kp1",
+  "title": "人物描写的基本方法",
+  "bookId": "chinese-g5down",
+  "unitNumber": 5,
+  "unitTitle": "把一个人的特点写具体",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "《摔跤》一文中，运用了大量的动作描写来表现小嘎子和胖墩儿的特点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中通过“猴儿踢”“钩”“蹦”等一系列动作生动展现了人物特点。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "严监生临死前伸出两根指头，是因为他想起了两个亲人没有见最后一面。",
+      "options": [],
+      "answer": "错",
+      "explanation": "严监生是因为看到灯盏里点着两根灯草，怕费油，体现了他的吝啬。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "描写人物外貌时，必须把人的每一个五官特征都巨细无遗地写出来。",
+      "options": [],
+      "answer": "错",
+      "explanation": "写外貌应抓重点和典型特征，而不是面面俱到。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "下列词语中，哪一个最能体现严监生这种人？",
+      "options": [
+        "两袖清风",
+        "勤俭持家",
+        "爱财如命",
+        "一贫如洗"
+      ],
+      "answer": "爱财如命",
+      "explanation": "文中严监生临终掐灭灯草的行为正是金钱至上、吝啬成性的“爱财如命”的表现。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "“刷子李”的黑衣上没有一个白点，这主要通过什么描写展现他的技艺高超？",
+      "options": [
+        "外貌描写",
+        "心理描写",
+        "语言描写",
+        "神态描写"
+      ],
+      "answer": "外貌描写",
+      "explanation": "通过对他那一身黑衣的视觉描述，从侧面或正面展示其手艺。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "曹小三在刷墙时，一直盯着师傅的黑衣服看。这是什么描写？",
+      "options": [
+        "正面描写",
+        "侧面描写",
+        "细节描写",
+        "心理描写"
+      ],
+      "answer": "侧面描写",
+      "explanation": "通过曹小三的行为和心理状态，反衬出刷子李手艺的神奇。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "“两虎相争，必有一伤。”这句话形容《摔跤》中谁最合适？",
+      "options": [
+        "嘎子和胖墩儿",
+        "刷子李和徒弟",
+        "严监生和家人",
+        "作者和读者"
+      ],
+      "answer": "嘎子和胖墩儿",
+      "explanation": "嘎子和胖墩儿摔跤时互不相让，势均力敌。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "“他转了三圈，寻找机会下手。”这句话属于？",
+      "options": [
+        "动作描写",
+        "外貌描写",
+        "心理描写",
+        "神态描写"
+      ],
+      "answer": "动作描写",
+      "explanation": "“转”是典型的肢体动作。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "在《刷子李》原文中，最能体现他自信的词语是？",
+      "options": [
+        "悠然自得",
+        "半信半疑",
+        "天衣无缝",
+        "一尘不染"
+      ],
+      "answer": "悠然自得",
+      "explanation": "文中描写刷子李刷墙时的姿态舒展，体现出对他对自己手艺的极大自信。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "下列哪组词语最适合形容小嘎子？",
+      "options": [
+        "憨厚踏实",
+        "机制灵敏",
+        "老气横秋",
+        "胆小怕事"
+      ],
+      "answer": "机制灵敏",
+      "explanation": "嘎子在摔跤时时刻寻找对方漏洞，非常机灵。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "描写严监生“伸出两个指头”属于什么描写？",
+      "options": [
+        "动作描写",
+        "神态描写",
+        "心理描写",
+        "侧面描写"
+      ],
+      "answer": "动作描写",
+      "explanation": "“伸”这是一个具体的肢体动作。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "通过描写人物的穿戴、长相体现特点的方法叫（___）描写。",
+      "options": [],
+      "answer": "外貌",
+      "explanation": "长相、身材、穿戴均属于外貌（肖像）描写范畴。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "《摔跤》选自徐光耀的著名小说《（___）》。",
+      "options": [],
+      "answer": "小兵张嘎",
+      "explanation": "该片段选自经典儿童文学《小兵张嘎》。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "“刷子李”之所以被称为刷子李，是因为他在哪方面技艺超群？",
+      "options": [],
+      "answer": "刷墙",
+      "explanation": "人物绰号往往代表其职业中的绝活。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "将作品中的人物与典型的描写手法连线。",
+      "options": [
+        "小嘎子",
+        "严监生",
+        "刷子李",
+        "胖墩儿",
+        "伸指动作",
+        "摔跤动作",
+        "沉稳厚实",
+        "黑衣无点"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "嘎子偏重灵动动作，严监生是经典的伸手动作，刷子李是黑衣，胖墩儿则是力量感。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "将描写词语与对应的描写范畴连线。",
+      "options": [
+        "五官端正",
+        "大步流星",
+        "忧心忡忡",
+        "窃窃私语",
+        "动作",
+        "外貌",
+        "神态",
+        "语言"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "五官是外貌，大步是动作，忧心是神态，私语是语言。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物描写的基本方法",
+      "question": "请将词语排成描写人物动作的句子：",
+      "options": [
+        "小胖墩儿",
+        "塌着腰",
+        "挺着肚子",
+        "就像",
+        "石墩子"
+      ],
+      "answer": "小胖墩儿,塌着腰,挺着肚子,就像,石墩子",
+      "explanation": "这是课文中描写胖墩儿摔跤姿态的经典短句。"
+    }
+  ],
+  "knowledge": {
+    "point": "人物描写的基本方法",
+    "core_concept": "即直接描写，通过对人物的外貌（身材、衣着、五官）、动作（具体的肢体变化）、语言（对话的内容和语气）、神态（脸上的表情、目光）以及心理进行细致刻画。这是让人物形象“活起来”的核心。例如《摔跤》通过“钩、扫、踢”一系列动词，精准展现了嘎子的机敏和争强好胜。",
+    "key_formula": "生动刻画 = 细微动作 + 传神表情 + 典型话语",
+    "common_mistakes": [
+      "描写过于平庸，如‘他很开心’（应通过动作神态表现）",
+      "堆砌辞藻，写了一堆外貌却与性格无关"
+    ],
+    "tips": "观察时要抓住人物瞬间的变化，重点抓那些最能反映性格的细节。"
+  }
+}

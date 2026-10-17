@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 3,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "下面哪个字的意思和“脚”有关？",
+      "options": [
+        "跑",
+        "眼",
+        "手",
+        "嘴"
+      ],
+      "answer": "跑",
+      "explanation": "足字旁的字通常和脚部的动作有关。"
+    }
+  ],
+  "knowledge": null
+}

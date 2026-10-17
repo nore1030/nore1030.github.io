@@ -1,0 +1,31 @@
+{
+  "id": "english-hujiao-g7up-u6-kp2",
+  "title": "一般将来时 be going to",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Module 3 Travels — Travelling around Asia 环亚旅行",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一般将来时 be going to",
+      "question": "be going to 表示将来的计划。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表计划。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般将来时 be going to",
+    "core_concept": "be going to + 原形表示计划做某事；疑问句把 be 提前。",
+    "key_formula": "I'm going to Beijing next week.",
+    "common_mistakes": [
+      "going to 后接过去式。"
+    ],
+    "tips": "to 后接原形。"
+  }
+}

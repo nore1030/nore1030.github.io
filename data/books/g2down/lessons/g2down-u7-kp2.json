@@ -1,0 +1,96 @@
+{
+  "id": "g2down-u7-kp2",
+  "title": "万以内数的读写规则",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "读数时，末尾不管有几个 0，都不读出来。",
+      "options": [],
+      "answer": "对",
+      "explanation": "万以内数的读数规则规定，末尾的0不读。例如8500读作八千五百。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "三千零五十写作（ ）。",
+      "options": [
+        "3500",
+        "3050",
+        "3005",
+        "305"
+      ],
+      "answer": "3050",
+      "explanation": "千位写3，百位没有写0，十位写5，个位没有写0。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "由 5 个千和 8 个一组成的数是（ ）。",
+      "options": [
+        "5800",
+        "5080",
+        "5008",
+        "58"
+      ],
+      "answer": "5008",
+      "explanation": "千位上是5，百位和十位没有数用0占位，个位上是8。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "4008 读作（ ）。",
+      "options": [
+        "四千零八",
+        "四千零零八",
+        "四百零八",
+        "四千八十"
+      ],
+      "answer": "四千零八",
+      "explanation": "中间有一个0或两个0，都只读一个‘零’。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内数的读写规则",
+      "question": "由 9、0、6、1 组成的最大的四位数是（ ）。",
+      "options": [
+        "9061",
+        "9610",
+        "9601",
+        "1069"
+      ],
+      "answer": "9610",
+      "explanation": "要把大的数字放在高位：千位9，百位6，十位1，个位0。"
+    }
+  ],
+  "knowledge": {
+    "point": "万以内数的读写规则",
+    "core_concept": "读写数都要从高位起。写数时哪一位上一个单位也没有，就写0占位；读数时中间有一个或两个0都只读一个‘零’，末尾的0都不读。",
+    "key_formula": "从高位起，按位读/写，中间0读，末尾0不读。",
+    "common_mistakes": [
+      "写数时忘记补0占位，如三千零五写成35",
+      "读数时把末尾的0读出来"
+    ],
+    "tips": "读数时可以先划分数级，写数时对照数位顺序表一位位地填。"
+  }
+}

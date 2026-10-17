@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g5down-u7-kp19",
+  "title": "关联词运用",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关联词运用",
+      "question": "排列词语，说明小艇的作用：",
+      "options": [
+        "小艇",
+        "关系",
+        "威尼斯",
+        "密切",
+        "和",
+        "非常"
+      ],
+      "answer": "威尼斯,和,小艇,关系,非常,密切",
+      "explanation": "表达两者之间紧密联系的陈述句。"
+    }
+  ],
+  "knowledge": null
+}

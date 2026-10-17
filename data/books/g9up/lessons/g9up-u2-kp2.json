@@ -1,0 +1,31 @@
+{
+  "id": "g9up-u2-kp2",
+  "title": "二次函数解析式的确定",
+  "bookId": "g9up",
+  "unitNumber": 2,
+  "unitTitle": "二次函数",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "二次函数解析式的确定",
+      "question": "抛物线顶点为 $(1,2)$ 且过原点，则 $a=$ ？（设 $y=a(x-1)^2+2$）",
+      "options": [],
+      "answer": "-2",
+      "explanation": "$0=a+2$，$a=-2$。"
+    }
+  ],
+  "knowledge": {
+    "point": "二次函数解析式的确定",
+    "core_concept": "已知三点用一般式；已知顶点用 $y=a(x-h)^2+k$；已知与 $x$ 轴交点用 $y=a(x-x_1)(x-x_2)$。",
+    "key_formula": "$y=a(x-h)^2+k$",
+    "common_mistakes": [
+      "顶点式里漏掉平方。"
+    ],
+    "tips": "看已知条件选择形式。"
+  }
+}

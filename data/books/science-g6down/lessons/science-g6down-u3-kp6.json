@@ -1,0 +1,82 @@
+{
+  "id": "science-g6down-u3-kp6",
+  "title": "星座的认识",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 4,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "星座的认识",
+      "question": "星座在天空中的位置是固定不变的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "由于地球的自转和公转，星座在天空中的位置会随时间发生变化。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "星座的认识",
+      "question": "寻找北极星时，通常先找到哪个星座？",
+      "options": [
+        "大犬座",
+        "天鹅座",
+        "大熊座",
+        "狮子座"
+      ],
+      "answer": "大熊座",
+      "explanation": "北斗七星属于大熊座，通过北斗七星勺口两颗星延长5倍可找到北极星。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "星座的认识",
+      "question": "在星座模型实验中，橡皮泥小球处于同一个平面吗？",
+      "options": [
+        "都在同一个平面",
+        "不在同一个平面",
+        "只有两颗在同平面",
+        "都在垂线上"
+      ],
+      "answer": "不在同一个平面",
+      "explanation": "星座是远近不同的恒星在地球视角上的投影，它们在空间中位置不同。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "星座的认识",
+      "question": "夏季星空中有“夏季大三角”之称的恒星不包括哪一颗？",
+      "options": [
+        "织女星",
+        "牛郎星",
+        "天津四",
+        "参宿四"
+      ],
+      "answer": "参宿四",
+      "explanation": "夏季大三角由织女星、牛郎星和天津四组成；参宿四属于冬季猎户座。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "星座的认识",
+      "question": "全天共被划分为（___）个星座。",
+      "options": [],
+      "answer": "88",
+      "explanation": "国际天文学联合会将全天划分为88个正式星座。"
+    }
+  ],
+  "knowledge": null
+}

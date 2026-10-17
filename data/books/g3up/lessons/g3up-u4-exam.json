@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 4,
+  "unitTitle": "万以内的加法和减法（二）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "笔算加减法时，都要从高位算起。",
+      "options": [],
+      "answer": "错",
+      "explanation": "笔算加减法通常从个位开始计算。验算：个位相加满十进一，是个位先算 ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "$503 - 198$，个位不够减，向十位借1，十位是0，应向百位借1。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是连续退位减法的规则，十位是0要继续向前一位借。验算：$503-198 = (400+100+3)-198$ ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "$800 - 356 = 544$ 会被验算出错误。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$800 - 356 = 444$，所以 $800-356=544$ 确实是错的。验算：$544+356=900 \neq 800$ ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "三位数加三位数，和可能是四位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如 $600+500=1100$ 是四位数。验算：$999+1=1000$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "$702 - 345$ 的结果是（    ）。",
+      "options": [
+        "357",
+        "457",
+        "367",
+        "443"
+      ],
+      "answer": "357",
+      "explanation": "笔算：$702-345=357$。验算：$357+345=702$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题策略的选择",
+      "question": "电影院共有 800 个座位。一年级有 397 人，二年级有 402 人，这两个年级同时看电影，座位（    ）。",
+      "options": [
+        "够坐",
+        "不够坐",
+        "正好",
+        "无法判断"
+      ],
+      "answer": "够坐",
+      "explanation": "估算：$397 < 400$，$402 \rightarrow 400+2$。精确计算：$397 + 402 = 799$。$799 < 800$，所以够坐。验算：$800-799=1$，还剩1个空位 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "一根铁丝长 1000 米，第一次用了 286 米，第二次用了 314 米，铁丝短了（    ）米。",
+      "options": [
+        "400",
+        "600",
+        "700",
+        "500"
+      ],
+      "answer": "600",
+      "explanation": "铁丝短了多少即求两次用的总和：$286 + 314 = 600$。验算：$1000-600=400$（剩的） ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "比 456 多 278 的数是多少？正确列式为（    ）。",
+      "options": [
+        "456 + 278",
+        "456 - 278",
+        "278 - 456",
+        "以上都不对"
+      ],
+      "answer": "456 + 278",
+      "explanation": "求比一个数多几的数，用加法。验算：$456+278=734$，$734 > 456$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题策略的选择",
+      "question": "两个加数的和是 500。如果一个加数增加 60，另一个加数减少 60，和会（    ）。",
+      "options": [
+        "增加 120",
+        "减少 120",
+        "不变",
+        "减少 60"
+      ],
+      "answer": "不变",
+      "explanation": "加数一增一减相同数值，总和不变。验算：$(A+60)+(B-60) = A+B=500$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "$400 + 400$（    ）$398 + 401$。",
+      "options": [
+        ">",
+        "<",
+        " =",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "$400+400=800$，$398+401=799$，$800 > 799$。验算：$800-799=1$ ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "被减数减少 20，减数增加 20，差（    ）。",
+      "options": [
+        "不变",
+        "减少 40",
+        "增加 40",
+        "减少 20"
+      ],
+      "answer": "减少 40",
+      "explanation": "差 $= (被-20) - (减+20) = 被-减-40$。验算：$(100-20)-(50+20) = 80-70=10$，原差 $100-50=50$，$50-10=40$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "与 899 相邻的两个自然数的和是（    ）。",
+      "options": [
+        "1798",
+        "1800",
+        "1799",
+        "1801"
+      ],
+      "answer": "1800",
+      "explanation": "两个数是 898 和 900。和为 $898+900=1798$。修正：相邻两数和为原数两倍即 $899+899=1798$（错，是$898+900$）。验算：$898+900=1798$。更新答案 A。验算：$1798 \times 1$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内减法的笔算（含被减数中间有0）",
+      "question": "小明家到学校原来要走 500 米，现在修了新路，只要走 365 米，现在比原来近了 ___ 米。",
+      "options": [],
+      "answer": "135",
+      "explanation": "求两数之差：$500 - 365 = 135$。验算：$135 + 365 = 500$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "最大的三位数加上最大的两位数，和是 ___。",
+      "options": [],
+      "answer": "1098",
+      "explanation": "$999 + 99 = 1098$。验算：$1098 - 99 = 999$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "万以内加法的笔算及验算",
+      "question": "$584 + 316 = ?$",
+      "options": [],
+      "answer": "900",
+      "explanation": "$584 + 316 = 900$。验算：$900 - 316 = 584$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

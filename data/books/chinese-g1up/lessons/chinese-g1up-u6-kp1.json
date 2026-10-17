@@ -1,0 +1,122 @@
+{
+  "id": "chinese-g1up-u6-kp1",
+  "title": "会意字构字特征分析",
+  "bookId": "chinese-g1up",
+  "unitNumber": 6,
+  "unitTitle": "识字（二）：会意字与生活识字",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "“日”和“月”组合在一起变成“明”，意思是亮晶晶的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "日和月都是发光体，组合在一起表达“明亮”的意思。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "“小”和“大”组合成“尖”，是因为物体上面小下面大就是尖的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "上小下大即为尖，这是典型的会意字构字逻辑。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "看图猜字：人在树木旁休息，这个字是？",
+      "options": [
+        "休",
+        "体",
+        "林",
+        "森"
+      ],
+      "answer": "休",
+      "explanation": "“单人旁”代表人在，“木”代表树木，人靠着树就是“休”。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "根据构字规律，“不正”合成的字是哪一个？",
+      "options": [
+        "歪",
+        "否",
+        "还",
+        "去"
+      ],
+      "answer": "歪",
+      "explanation": "“不”加“正”就是“歪”，意为不正。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "“三个木”可以组成“森”，“三个日”可以组成什么字？",
+      "options": [
+        "晶",
+        "众",
+        "品",
+        "磊"
+      ],
+      "answer": "晶",
+      "explanation": "三个日重叠在一起是“晶”，表示非常明亮。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "“小”和“土”放在一起，组成的汉字是（）。",
+      "options": [],
+      "answer": "尘",
+      "explanation": "微小的尘土即为“尘”。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "会意字构字特征分析",
+      "question": "找朋友：将意思与组合出的字连起来。",
+      "options": [
+        "人靠在树旁",
+        "上面的小",
+        "两棵树木",
+        "很多树木",
+        "尖",
+        "休",
+        "森",
+        "林"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "人靠树为休，上小下大为尖，双木为林，三木为森。"
+    }
+  ],
+  "knowledge": {
+    "point": "会意字构字特征分析",
+    "core_concept": "会意字是由两个或两个以上的独体字根据意义之间的关系组合而成的新字。通过观察字形各部分的意义，可以推测出整个字的含义。例如，“明”由日和月组成，意为光亮；“尖”由小和大组成，意为末端细小。这种构字法体现了中国古人通过具象思维表达抽象概念的智慧。",
+    "key_formula": "部件A的意义 + 部件B的意义 = 新字的逻辑意义",
+    "common_mistakes": [
+      "将“尖”的上部分误记为“少”。",
+      "死记硬背字形而不理解“人+木=休”这种逻辑联系。"
+    ],
+    "tips": "学习时可以采用“拆字游戏法”，把汉字想象成积木，拼在一起讲个小故事来帮助记忆。"
+  }
+}

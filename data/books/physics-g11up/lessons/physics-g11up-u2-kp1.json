@@ -1,0 +1,47 @@
+{
+  "id": "physics-g11up-u2-kp1",
+  "title": "简谐运动与单摆",
+  "bookId": "physics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "机械振动与机械波",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "简谐运动与单摆",
+      "question": "单摆周期与下列哪个量无关（　）",
+      "options": [
+        "摆球质量",
+        "摆长",
+        "重力加速度",
+        "以上都有关"
+      ],
+      "answer": "摆球质量",
+      "explanation": "周期与质量无关。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "简谐运动与单摆",
+      "question": "简谐运动的回复力与位移成正比且方向相反。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$F=-kx$。"
+    }
+  ],
+  "knowledge": {
+    "point": "简谐运动与单摆",
+    "core_concept": "简谐运动回复力满足 $F=-kx$。单摆周期 $T=2\\pi\\sqrt{\\frac lg}$，与摆球质量、振幅无关。",
+    "key_formula": "$T=2\\pi\\sqrt{\\frac lg}$",
+    "common_mistakes": [
+      "认为单摆周期与振幅有关。"
+    ],
+    "tips": "摆长越长周期越大。"
+  }
+}

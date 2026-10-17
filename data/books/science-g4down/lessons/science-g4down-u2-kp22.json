@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp22",
+  "title": "电路连接状态",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 17,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电路连接状态",
+      "question": "电流从正极出发流向负极，形成一个闭合的路径叫（ ）。",
+      "options": [],
+      "answer": "通路",
+      "explanation": "形成闭合环路的电路状态称为通路。"
+    }
+  ],
+  "knowledge": null
+}

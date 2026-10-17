@@ -1,0 +1,61 @@
+{
+  "id": "college-math-advanced-math-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "college-math-advanced-math",
+  "unitNumber": 1,
+  "unitTitle": "函数与极限",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "极限的概念与运算",
+      "question": "$\\lim_{x\\to1}\\frac{x^2-1}{x-1}=$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$\\frac{(x-1)(x+1)}{x-1}=x+1\\to2$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "连续性",
+      "question": "函数在一点连续的必要条件是（　）",
+      "options": [
+        "在该点有定义",
+        "在该点可导",
+        "该点为极值点",
+        "函数单调"
+      ],
+      "answer": "在该点有定义",
+      "explanation": "连续需先有定义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "极限的概念与运算",
+      "question": "$\\lim_{x\\to0}\\frac{\\sin x}{x}=1$ 是一个重要极限。",
+      "options": [],
+      "answer": "对",
+      "explanation": "重要极限。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "连续性",
+      "question": "函数 $f(x)=x^2$ 在 $x=3$ 处的函数值是多少？",
+      "options": [],
+      "answer": "9",
+      "explanation": "$3^2=9$。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,118 @@
+{
+  "id": "g2up-u1-kp3",
+  "title": "米的认识与单位换算",
+  "bookId": "g2up",
+  "unitNumber": 1,
+  "unitTitle": "长度单位",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "1米比100厘米长。",
+      "options": [],
+      "answer": "错",
+      "explanation": "因为1米 = 100厘米，所以它们一样长。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "操场跑道长约 100 （ ）。",
+      "options": [
+        "厘米",
+        "米",
+        "元",
+        "角"
+      ],
+      "answer": "米",
+      "explanation": "跑道较长，应选择长度单位“米”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "在○里填上合适的符号：$30厘米○3米$。",
+      "options": [
+        ">",
+        "<",
+        "水平",
+        "无法比较"
+      ],
+      "answer": "<",
+      "explanation": "3米 = 300厘米，30厘米 < 300厘米，所以30厘米 < 3米。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "小华身高 135 厘米，小东身高 1 米 30 厘米。谁高一些？",
+      "options": [
+        "小华",
+        "小东",
+        "一样高",
+        "无法确定"
+      ],
+      "answer": "小华",
+      "explanation": "小东身高是 130 厘米。135 > 130，所以小华高。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "一根跳绳长 2 米，3 根这样的跳绳接在一起（不计接口），总长（ ）米。",
+      "options": [
+        "5",
+        "6",
+        "2",
+        "3"
+      ],
+      "answer": "6",
+      "explanation": "$2 + 2 + 2 = 6$（米）。验算：$6 \\div 3 = 2$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "小明身高 1 米 25 厘米，也可以说身高是 ___ 厘米。",
+      "options": [],
+      "answer": "125",
+      "explanation": "1米 = 100厘米，$100 + 25 = 125$。验算：$125 - 25 = 100$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "米的认识与单位换算",
+      "question": "计算：$100 - 35 = ?$",
+      "options": [],
+      "answer": "65",
+      "explanation": "$100 - 35 = 65$。验算：$65 + 35 = 100$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "米的认识与单位换算",
+    "core_concept": "米是比厘米大的长度单位，用于测量较长的物体。1米等于100个1厘米。在选择单位时，房子、树木、操场常用米；铅笔、橡皮、书本常用厘米。",
+    "key_formula": "$1 米 = 100 厘米$",
+    "common_mistakes": [
+      "记混进率，认为1米等于10厘米",
+      "在给物体填单位时，把米和厘米填反，如写出“大树高10厘米”"
+    ],
+    "tips": "张开双臂，两个手尖之间的距离大约就是1米。"
+  }
+}

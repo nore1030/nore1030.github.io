@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u6-kp7",
+  "title": "修辞方法",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法",
+      "question": "“凤凰树开了花，开得那么热闹。”这句话运用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "夸张"
+      ],
+      "answer": "拟人",
+      "explanation": "“热闹”一词赋予了花人的特征。"
+    }
+  ],
+  "knowledge": null
+}

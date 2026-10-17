@@ -1,0 +1,52 @@
+{
+  "id": "physics-g8up-u1-kp2",
+  "title": "声音的特性",
+  "bookId": "physics-g8up",
+  "unitNumber": 1,
+  "unitTitle": "声现象",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "声音的特性",
+      "question": "“闻其声知其人”主要依据（　）",
+      "options": [
+        "音调",
+        "响度",
+        "音色",
+        "频率"
+      ],
+      "answer": "音色",
+      "explanation": "音色由发声体决定。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "声音的特性",
+      "question": "调节音箱音量旋钮，改变的是声音的（　）",
+      "options": [
+        "音调",
+        "响度",
+        "音色",
+        "速度"
+      ],
+      "answer": "响度",
+      "explanation": "改变振幅即响度。"
+    }
+  ],
+  "knowledge": {
+    "point": "声音的特性",
+    "core_concept": "音调由频率决定（频率越高音调越高）；响度由振幅和距离决定；音色由发声体材料和结构决定。",
+    "key_formula": "频率越高 ⇒ 音调越高",
+    "common_mistakes": [
+      "把响度当作音调。"
+    ],
+    "tips": "音调看频率，响度看振幅。"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "g5down-u3-kp4",
+  "title": "长方体和正方体体积公式应用",
+  "bookId": "g5down",
+  "unitNumber": 3,
+  "unitTitle": "长方体和正方体",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "一个正方体的棱长总和是 24 厘米，它的体积是多少立方厘米？",
+      "options": [
+        "8",
+        "24",
+        "64",
+        "576"
+      ],
+      "answer": "8",
+      "explanation": "正方体有12条棱，棱长为 $24 \\div 12 = 2$ 厘米。体积 $V = 2 \\times 2 \\times 2 = 8$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "一个底面积是 20 平方分米的长方体，高是 5 分米，体积是多少立方分米？",
+      "options": [
+        "4",
+        "25",
+        "100",
+        "50"
+      ],
+      "answer": "100",
+      "explanation": "$V = Sh = 20 \\times 5 = 100$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "把一个正方体的棱长扩大到原来的 2 倍，它的体积扩大到原来的几倍？",
+      "options": [
+        "2倍",
+        "4倍",
+        "6倍",
+        "8倍"
+      ],
+      "answer": "8倍",
+      "explanation": "体积公式为 $a^{3}$，若 $a$ 变为 $2a$，体积变为 $(2a)^{3} = 8a^{3}$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "一个长方体容器，底面积是 100 平方厘米，里面盛有 5 厘米深的水。放入一个物体后（完全浸没且水未溢出），水深变成 8 厘米，物体的体积是 ___ 立方厘米。",
+      "options": [],
+      "answer": "300",
+      "explanation": "上升高度为 $8 - 5 = 3$ 厘米。体积 $V = Sh = 100 \\times 3 = 300$。验算：$300 \\div 100 = 3$，$5 + 3 = 8$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "$12 \\times 5 \\times 8 = ?$",
+      "options": [],
+      "answer": "480",
+      "explanation": "$12 \\times 5 = 60$，$60 \\times 8 = 480$。验算：$480 \\div 8 \\div 5 = 60 \\div 5 = 12$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方体和正方体体积公式应用",
+      "question": "$15 \\times 15 \\times 15 = ?$",
+      "options": [],
+      "answer": "3375",
+      "explanation": "$15 \\times 15 = 225$，$225 \\times 15 = 3375$。验算：$3375 \\div 15 = 225$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "长方体和正方体体积公式应用",
+    "core_concept": "体积的大小由底面积和高决定。通过底面积乘以高可以统一计算长方体和正方体的体积。",
+    "key_formula": "$V=abh$ 或 $V=Sh$",
+    "common_mistakes": [
+      "计算正方体体积时用棱长乘以3（应是三个棱长相乘）",
+      "公式应用时单位不统一就直接相乘"
+    ],
+    "tips": "看到底面积和高，直接相乘就是体积！一定要统一单位再计算。"
+  }
+}

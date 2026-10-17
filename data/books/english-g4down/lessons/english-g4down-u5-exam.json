@@ -1,0 +1,221 @@
+{
+  "id": "english-g4down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 18,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "'shorts' 总是以复数形式出现，因为短裤有两个裤腿。",
+      "options": [],
+      "answer": "对",
+      "explanation": "类似pants, shorts, socks这类物品通常以复数呈现。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语法规则",
+      "question": "当我们说 'my shoes' 时，这里的 'shoes' 可以换成单数 'shoe'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "鞋子通常是成双出现，用复数shoes。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "代词理解",
+      "question": "'mine' 的意思是 '我的衣服'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "mine意为“我的（东西）”，需看上下文具体指代什么。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见短语",
+      "question": "'it's time to' 后面应该接动词原形，比如 'It's time to go home'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "It's time to + 动作。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介词搭配",
+      "question": "Your shoes are ______ the bed.",
+      "options": [
+        "under",
+        "at",
+        "with",
+        "to"
+      ],
+      "answer": "under",
+      "explanation": "方位介词，表示鞋子在床底下。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问归属",
+      "question": "______ are these socks? They are mine.",
+      "options": [
+        "Whose",
+        "Who",
+        "Where",
+        "What"
+      ],
+      "answer": "Whose",
+      "explanation": "对物品主人提问用Whose。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色表达",
+      "question": "I like the ______ dress. It's pretty.",
+      "options": [
+        "green",
+        "me",
+        "mine",
+        "is"
+      ],
+      "answer": "green",
+      "explanation": "形容词放在名词dress前做修饰。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人称代词宾格",
+      "question": "Sarah, please help ______.",
+      "options": [
+        "me",
+        "I",
+        "my",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "动词help之后需用人称代词宾格me。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "单复数转换",
+      "question": "These are your shoes. -> This is your ______.",
+      "options": [
+        "shoe",
+        "shoes",
+        "pants",
+        "socks"
+      ],
+      "answer": "shoe",
+      "explanation": "These are对应复数，This is对应单数。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物主代词应用",
+      "question": "That skirt is ______. It's not ______.",
+      "options": [
+        "mine; yours",
+        "my; your",
+        "my; yours",
+        "mine; your"
+      ],
+      "answer": "mine; yours",
+      "explanation": "两个空后都没有名词，全部使用名词性物主代词。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用表达",
+      "question": "It is time ______ go to school.",
+      "options": [],
+      "answer": "to",
+      "explanation": "It is time to do sth. 前面已有谓语。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词",
+      "question": "The blue pants are Lucy's. The red ones are ______ (我的).",
+      "options": [],
+      "answer": "mine",
+      "explanation": "名词性物主代词mine表示我的。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "复数指示代词",
+      "question": "______ (那些) are Sarah's socks.",
+      "options": [],
+      "answer": "those",
+      "explanation": "表示远处的复数物体用those。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词匹配",
+      "question": "根据单词写出对应的中文颜色。",
+      "options": [
+        "yellow",
+        "green",
+        "blue",
+        "white",
+        "白色",
+        "蓝色",
+        "绿色",
+        "黄色"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "考查四年级必备颜色词。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句",
+      "question": "连词成句：[I, like, that, skirt]",
+      "options": [
+        "I",
+        "like",
+        "that",
+        "skirt"
+      ],
+      "answer": "I,like,that,skirt",
+      "explanation": "主谓宾结构：我喜欢那条短裙。"
+    }
+  ],
+  "knowledge": null
+}

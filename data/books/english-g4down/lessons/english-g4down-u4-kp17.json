@@ -1,0 +1,32 @@
+{
+  "id": "english-g4down-u4-kp17",
+  "title": "指代词匹配",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指代词匹配",
+      "question": "请将这些词组与对应的中文意思连线。",
+      "options": [
+        "at the farm",
+        "ten sheep",
+        "try some",
+        "so big",
+        "十只羊",
+        "尝一尝",
+        "好大啊",
+        "在农场"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "at the farm-在农场, ten sheep-十只羊, try some-尝一尝, so big-那么大。"
+    }
+  ],
+  "knowledge": null
+}

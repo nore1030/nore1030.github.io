@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp7",
+  "title": "叶的功能",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 1,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "叶的功能",
+      "question": "植物的叶具有进行光合作用和蒸腾作用的功能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "叶片是植物进行光合作用制造养料和蒸腾水分的主要器官。"
+    }
+  ],
+  "knowledge": null
+}

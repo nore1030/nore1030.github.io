@@ -1,0 +1,47 @@
+{
+  "id": "moral-g9up-u1-kp1",
+  "title": "改革开放与创新驱动",
+  "bookId": "moral-g9up",
+  "unitNumber": 1,
+  "unitTitle": "富强与创新",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与创新驱动",
+      "question": "引领发展的第一动力是（　）",
+      "options": [
+        "创新",
+        "投资",
+        "人口",
+        "土地"
+      ],
+      "answer": "创新",
+      "explanation": "创新是第一动力。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与创新驱动",
+      "question": "改革开放是当代中国最鲜明的特色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "改革开放是特色。"
+    }
+  ],
+  "knowledge": {
+    "point": "改革开放与创新驱动",
+    "core_concept": "改革开放是决定当代中国命运的关键一招。创新是引领发展的第一动力，是建设现代化经济体系的战略支撑。",
+    "key_formula": "创新是第一动力",
+    "common_mistakes": [
+      "认为改革开放已结束。"
+    ],
+    "tips": "改革开放仍在深化。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp11",
+  "title": "电路组件作用",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电路组件作用",
+      "question": "电路中控制电流通断的元件是（ ）。",
+      "options": [
+        "导线",
+        "开关",
+        "电池",
+        "灯座"
+      ],
+      "answer": "开关",
+      "explanation": "开关通过接触和断开发挥控制通断的作用。"
+    }
+  ],
+  "knowledge": null
+}

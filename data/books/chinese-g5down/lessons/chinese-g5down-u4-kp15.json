@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp15",
+  "title": "文学常识",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 11,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文学常识",
+      "question": "下列哪位诗人被后人称为“诗圣”？",
+      "options": [
+        "李白",
+        "王维",
+        "杜甫",
+        "王昌龄"
+      ],
+      "answer": "杜甫",
+      "explanation": "杜甫忧国忧民，被称为“诗圣”。"
+    }
+  ],
+  "knowledge": null
+}

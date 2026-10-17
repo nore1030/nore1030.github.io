@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp15",
+  "title": "综合理解",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 11,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合理解",
+      "question": "It ___ like a lab, but it is a gym now.",
+      "options": [
+        "look",
+        "looks",
+        "looked",
+        "looking"
+      ],
+      "answer": "looked",
+      "explanation": "but之后是现在时，对比之下前面描述过去的样子。"
+    }
+  ],
+  "knowledge": null
+}

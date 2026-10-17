@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g8up-u1-kp1",
+  "title": "平方根与算术平方根",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "平方根与实数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "9 的平方根是（　）",
+      "options": [
+        "±3",
+        "3",
+        "−3",
+        "±9"
+      ],
+      "answer": "±3",
+      "explanation": "正数有两个平方根。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "$\\sqrt{4}=2$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "算术平方根取正。"
+    }
+  ],
+  "knowledge": {
+    "point": "平方根与算术平方根",
+    "core_concept": "若 $x^2 = a$，则 $x$ 是 $a$ 的平方根。正平方根叫算术平方根。$a > 0$ 时有两个平方根，$\\sqrt{a}$ 只取正值。",
+    "key_formula": "$\\sqrt{a^2} = |a|$",
+    "common_mistakes": [
+      "写成 $\\sqrt{a^2}=a$。"
+    ],
+    "tips": "注意绝对值。"
+  }
+}

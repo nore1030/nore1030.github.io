@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp12",
+  "title": "物品数量",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品数量",
+      "question": "How many _____?",
+      "options": [
+        "plate",
+        "plates",
+        "a plate",
+        "the plate"
+      ],
+      "answer": "plates",
+      "explanation": "How many询问数量，后面需由名词复数形式。"
+    }
+  ],
+  "knowledge": null
+}

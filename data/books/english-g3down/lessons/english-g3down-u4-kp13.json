@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp13",
+  "title": "代词搭配",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 9,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词搭配",
+      "question": "Where is ___ pencil box?",
+      "options": [
+        "i",
+        "you",
+        "my",
+        "me"
+      ],
+      "answer": "my",
+      "explanation": "此处需要形容词性物主代词my来修饰名词pencil box。"
+    }
+  ],
+  "knowledge": null
+}

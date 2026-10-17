@@ -1,0 +1,47 @@
+{
+  "id": "physics-g10down-u1-kp2",
+  "title": "圆周运动与向心力",
+  "bookId": "physics-g10down",
+  "unitNumber": 1,
+  "unitTitle": "抛体运动与圆周运动",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆周运动与向心力",
+      "question": "半径 2 m、线速度 4 m/s 的圆周运动，向心加速度是多少 m/s²？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$a=\\frac{16}{2}=8$ m/s²。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "圆周运动与向心力",
+      "question": "做匀速圆周运动的物体，其合外力（　）",
+      "options": [
+        "为零",
+        "沿切线方向",
+        "指向圆心",
+        "背离圆心"
+      ],
+      "answer": "指向圆心",
+      "explanation": "提供向心力。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆周运动与向心力",
+    "core_concept": "$v=\\omega r$，$a=\\frac{v^2}{r}=\\omega^2r$，周期 $T=\\frac{2\\pi r}{v}$。向心力由合外力沿半径方向的分量提供。",
+    "key_formula": "$a=\\frac{v^2}{r}$",
+    "common_mistakes": [
+      "把向心力当作额外的力。"
+    ],
+    "tips": "向心力是效果力。"
+  }
+}

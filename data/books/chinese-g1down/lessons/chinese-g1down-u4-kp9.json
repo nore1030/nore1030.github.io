@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp9",
+  "title": "词义辨析",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 8,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词义辨析",
+      "question": "“夜来风雨声，花落知多少。”诗中的“知”意思是：",
+      "options": [
+        "知道",
+        "不知道",
+        "知识",
+        "开会"
+      ],
+      "answer": "知道",
+      "explanation": "这里的“知多少”意为“知道有多少”。"
+    }
+  ],
+  "knowledge": null
+}

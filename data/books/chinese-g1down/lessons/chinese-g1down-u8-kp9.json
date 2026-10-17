@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp9",
+  "title": "多音字",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 8,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字",
+      "question": "“干活”的“干”字读音是（ ）。",
+      "options": [
+        "gān",
+        "gàn",
+        "gǎn",
+        "kàn"
+      ],
+      "answer": "gàn",
+      "explanation": "干活、实干读第四声。"
+    }
+  ],
+  "knowledge": null
+}

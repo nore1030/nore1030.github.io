@@ -1,0 +1,149 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "宇宙中的地球",
+      "knowledge_points": [
+        {
+          "name": "地球的宇宙环境与太阳活动",
+          "description": "了解天体系统与太阳对地球的影响。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "地球的历史与圈层结构",
+          "description": "了解地层、地质年代与地球圈层。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "geography-g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "地球上的大气与水",
+      "knowledge_points": [
+        {
+          "name": "大气受热过程与热力环流",
+          "description": "掌握大气受热过程与热力环流原理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "水循环与洋流",
+          "description": "掌握水循环环节与洋流影响。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "geography-g10up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "地貌、植被与自然灾害",
+      "knowledge_points": [
+        {
+          "name": "常见地貌类型",
+          "description": "掌握流水、风沙、喀斯特地貌特点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自然灾害与防灾减灾",
+          "description": "了解主要自然灾害与防治措施。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "geography-g10up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "geography-g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "geography",
+  "lessons": [
+    {
+      "id": "geography-g10up-u1-kp1",
+      "title": "地球的宇宙环境与太阳活动",
+      "unitNumber": 1,
+      "unitTitle": "宇宙中的地球",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "geography-g10up-u1-kp2",
+      "title": "地球的历史与圈层结构",
+      "unitNumber": 1,
+      "unitTitle": "宇宙中的地球",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "geography-g10up-u2-kp1",
+      "title": "大气受热过程与热力环流",
+      "unitNumber": 2,
+      "unitTitle": "地球上的大气与水",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "geography-g10up-u2-kp2",
+      "title": "水循环与洋流",
+      "unitNumber": 2,
+      "unitTitle": "地球上的大气与水",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "geography-g10up-u3-kp1",
+      "title": "常见地貌类型",
+      "unitNumber": 3,
+      "unitTitle": "地貌、植被与自然灾害",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "geography-g10up-u3-kp2",
+      "title": "自然灾害与防灾减灾",
+      "unitNumber": 3,
+      "unitTitle": "地貌、植被与自然灾害",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    }
+  ]
+}

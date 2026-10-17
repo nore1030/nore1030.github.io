@@ -1,0 +1,217 @@
+{
+  "id": "science-g1down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察物体的特征",
+      "question": "我们要知道物体的冷热，可以动用皮肤去触摸。",
+      "options": [],
+      "answer": "对",
+      "explanation": "皮肤产生的触觉可以感知冷热和粗糙程度。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "大的物体一定比小的物体重要。",
+      "options": [],
+      "answer": "错",
+      "explanation": "物体轻重与大小无必然联系，比如大的棉花球可能比小的铁球轻。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物体的形状与空间填充",
+      "question": "乒乓球在盒子里平铺时，球和球之间会有空隙。",
+      "options": [],
+      "answer": "对",
+      "explanation": "球形物体的曲面接触会导致无法紧密填满所有空间。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "空气的特征",
+      "question": "空气虽然没有味道，但我们可以通过闻的方式来确认它是否有特殊气味。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“扇闻”是科学观察气味的标准方法。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据特征给物体分类",
+      "question": "小明把橡皮擦、木块、塑料尺放在一起，他在按（）分类。",
+      "options": [
+        "材料",
+        "轻重",
+        "气味",
+        "透明度"
+      ],
+      "answer": "材料",
+      "explanation": "橡皮、木头、塑料是典型的材料特征。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "要更准确地比较两个物体的轻重，最好的工具是（）。",
+      "options": [
+        "放大镜",
+        "简易天平",
+        "尺子",
+        "剪刀"
+      ],
+      "answer": "简易天平",
+      "explanation": "天平是科学测量物体轻重最公平准确的工具。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水的特征",
+      "question": "在观察水和洗发液时，我们不能做的是（）。",
+      "options": [
+        "闻",
+        "摸",
+        "尝",
+        "看"
+      ],
+      "answer": "尝",
+      "explanation": "在科学实验中，严禁随意品尝不明确物体的味道。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "搅拌溶解在水里的食盐，食盐会（）。",
+      "options": [
+        "变大",
+        "消失不见了",
+        "浮在水面",
+        "变颜色"
+      ],
+      "answer": "消失不见了",
+      "explanation": "溶解过程伴随颗粒变小直到看不见。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物体的形状与空间填充",
+      "question": "把十块积木装进盒子里，剩下的空间最少的是（）。",
+      "options": [
+        "乱倒进去",
+        "整齐码放",
+        "隔行堆放",
+        "斜着放入"
+      ],
+      "answer": "整齐码放",
+      "explanation": "整齐码放能减少物体间的空隙，使空间利用最大化。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质在水中的溶解现象",
+      "question": "食盐、沙子和红糖分别放入三杯水中，静置一段时间后，杯底有沉淀的是（）。",
+      "options": [
+        "食盐杯",
+        "沙子杯",
+        "红糖杯",
+        "都没有"
+      ],
+      "answer": "沙子杯",
+      "explanation": "沙子不溶于水，会沉在杯底。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根据特征给物体分类",
+      "question": "分一分：苹果、梨、石头。不属于一类的是（）。",
+      "options": [
+        "苹果",
+        "梨",
+        "石头",
+        "都是一类"
+      ],
+      "answer": "石头",
+      "explanation": "苹果和梨是生物（水果），石头是非生物（岩石）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "用手掂量物体的轻重，这种方法（）。",
+      "options": [
+        "非常准确",
+        "不准确",
+        "完全没用",
+        "能测出具体克数"
+      ],
+      "answer": "不准确",
+      "explanation": "人手的感官存在误差，不够精准。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比较物体的轻重",
+      "question": "在比较两个物体的轻重时，天平两端需要各放（）个盘子。",
+      "options": [],
+      "answer": "1",
+      "explanation": "简易天平的每一端都有1个托盘用来盛放物体。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物体的形状与空间填充",
+      "question": "把一个正方形盒子装满正方体，每一行放5个，放了5行，总共是（）个。",
+      "options": [],
+      "answer": "25",
+      "explanation": "数学逻辑与空间填充：5乘以5等于25。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水的特征",
+      "question": "洗发液比水摸起来更（___）。",
+      "options": [],
+      "answer": "黏稠",
+      "explanation": "对比实验中，洗发液具有明显的黏滞性。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u4-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 3,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“无论飞到哪里，它总是可以回到原处。”句中“无论……总是……”表示？",
+      "options": [
+        "转折关系",
+        "因果关系",
+        "条件关系",
+        "并列关系"
+      ],
+      "answer": "条件关系",
+      "explanation": "强调在任何条件下结果都不改变。"
+    }
+  ],
+  "knowledge": null
+}

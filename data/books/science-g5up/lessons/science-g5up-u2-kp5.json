@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp5",
+  "title": "地球内部结构",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地球内部结构",
+      "question": "地壳是地球的中心部分，离地面最远。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地壳是地球的最外层。地球的中心部分是地核。"
+    }
+  ],
+  "knowledge": null
+}

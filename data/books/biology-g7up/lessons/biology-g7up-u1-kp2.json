@@ -1,0 +1,36 @@
+{
+  "id": "biology-g7up-u1-kp2",
+  "title": "生物与环境的关系",
+  "bookId": "biology-g7up",
+  "unitNumber": 1,
+  "unitTitle": "生物和生物圈",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生物与环境的关系",
+      "question": "下列属于非生物因素的是（　）",
+      "options": [
+        "捕食",
+        "竞争",
+        "温度",
+        "合作"
+      ],
+      "answer": "温度",
+      "explanation": "温度属非生物因素。"
+    }
+  ],
+  "knowledge": {
+    "point": "生物与环境的关系",
+    "core_concept": "生态因素分非生物因素（光、温度、水）和生物因素（捕食、竞争、合作）。生物既能适应环境也能影响环境。",
+    "key_formula": "环境影响生物，生物也影响环境",
+    "common_mistakes": [
+      "只答环境影响生物。"
+    ],
+    "tips": "注意双向关系。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u2-kp15",
+  "title": "植物与环境",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 9,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物与环境",
+      "question": "仙人掌的叶退化成刺，主要是为了适应（ ）的环境。",
+      "options": [
+        "寒冷",
+        "潮湿",
+        "高温",
+        "干旱"
+      ],
+      "answer": "干旱",
+      "explanation": "刺状叶减少了水分蒸腾，是适应荒漠干旱环境的表现。"
+    }
+  ],
+  "knowledge": null
+}

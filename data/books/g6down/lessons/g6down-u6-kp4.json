@@ -1,0 +1,80 @@
+{
+  "id": "g6down-u6-kp4",
+  "title": "解决问题策略与跨学科实践",
+  "bookId": "g6down",
+  "unitNumber": 6,
+  "unitTitle": "整理和复习",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "解决问题策略与跨学科实践",
+      "question": "在相同的路程内，速度与时间成反比例关系。",
+      "options": [],
+      "answer": "对",
+      "explanation": "路程 = 速度 $\\times$ 时间（一定），乘积一定，所以成反比例。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题策略与跨学科实践",
+      "question": "某农场养鸡 300 只，鸭的只数比鸡多 $20\\%$。鸭有多少只？",
+      "options": [
+        "60",
+        "240",
+        "360",
+        "380"
+      ],
+      "answer": "360",
+      "explanation": "$300 \\times (1 + 20\\%) = 300 \\times 1.2 = 360$。验算：$(360 - 300) \\div 300 = 0.2 = 20\\%$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题策略与跨学科实践",
+      "question": "一件衣服原价 200 元，先提价 $10\\%$，再降价 $10\\%$。现价是多少元？",
+      "options": [
+        "200",
+        "198",
+        "202",
+        "180"
+      ],
+      "answer": "198",
+      "explanation": "$200 \\times (1 + 10\\%) \\times (1 - 10\\%) = 200 \\times 1.1 \\times 0.9 = 198$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决问题策略与跨学科实践",
+      "question": "一幅地图的比例尺是 1:5000000，量得甲乙两地距离是 4 厘米，实际距离是多少千米？",
+      "options": [
+        "20",
+        "200",
+        "2000",
+        "20000"
+      ],
+      "answer": "200",
+      "explanation": "实际距离 $= 4 \\times 5000000 = 20,000,000$ 厘米 $= 200$ 千米。"
+    }
+  ],
+  "knowledge": {
+    "point": "解决问题策略与跨学科实践",
+    "core_concept": "运用比例、方程解决生活中的实际问题。如自行车齿轮转动比、地图比例尺计算、存款利息计算、绿色出行方案对比等。学会“转化”和“建模”的思想。",
+    "key_formula": "利息 = 本金 $\\times$ 利率 $\\times$ 存期; 图上距离 : 实际距离 = 比例尺",
+    "common_mistakes": [
+      "比例尺计算中单位换算不统一（厘米与千米混淆）",
+      "求利息时忘记乘以存期（年份）"
+    ],
+    "tips": "解决复杂应用题时，先列出已知量，通过画线段图辅助理解数量关系。"
+  }
+}

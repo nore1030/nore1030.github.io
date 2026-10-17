@@ -1,0 +1,66 @@
+{
+  "id": "science-g6down-u1-kp4",
+  "title": "工程模型的测试、评估与改进",
+  "bookId": "science-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小小工程师",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "工程模型的测试、评估与改进",
+      "question": "只要塔台模型不倒，就说明它是一个完美的工程作品，无需改进。",
+      "options": [],
+      "answer": "错",
+      "explanation": "工程评估除了稳固性，还需考虑成本、高度、抗风能力等多项指标。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程模型的测试、评估与改进",
+      "question": "在测试塔台承重能力时，下列操作正确的是？",
+      "options": [
+        "重物要轻轻地放在塔顶正中央",
+        "重物可以随意堆放",
+        "只要放上去就行，不用管位置",
+        "用手托住塔台进行加重"
+      ],
+      "answer": "重物要轻轻地放在塔顶正中央",
+      "explanation": "为了测试模型的真实承载力并保证安全，重物应轻放且中心对齐。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "工程模型的测试、评估与改进",
+      "question": "在控制工程成本时，最合理的做法是？",
+      "options": [
+        "使用尽可能多的廉价材料",
+        "直接减少所有材料的使用量",
+        "在保证安全前提下减少浪费",
+        "为了省钱偷工减料"
+      ],
+      "answer": "在保证安全前提下减少浪费",
+      "explanation": "成本节约必须建立在工程质量合格的基础之上。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程模型的测试、评估与改进",
+      "question": "当我们在评估模型时，通过（___）可以直观地看出各项指标的得分和不足。",
+      "options": [],
+      "answer": "评价量表",
+      "explanation": "评价量表提供了统一的标准，方便对工程模型进行量化测试和对比。"
+    }
+  ],
+  "knowledge": null
+}

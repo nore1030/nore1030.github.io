@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u6-kp11",
+  "title": "情节分析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 10,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情节分析",
+      "question": "在《跳水》中，环境和气候的描写是：",
+      "options": [
+        "风雨交加",
+        "风平浪静",
+        "冰天雪地",
+        "烈日当空"
+      ],
+      "answer": "风平浪静",
+      "explanation": "课文开头交代“这一天风平浪静”，为水手们逗猴子提供了环境背景。"
+    }
+  ],
+  "knowledge": null
+}

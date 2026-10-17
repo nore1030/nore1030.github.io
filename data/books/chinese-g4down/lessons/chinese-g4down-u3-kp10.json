@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u3-kp10",
+  "title": "诗人常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 8,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "诗人常识",
+      "question": "下列哪位诗人以写“母爱、童真、自然”而闻名？",
+      "options": [
+        "艾青",
+        "冰心",
+        "戴望舒",
+        "叶赛宁"
+      ],
+      "answer": "冰心",
+      "explanation": "冰心的《繁星》《春水》三大会题正是母爱、童真与自然。"
+    }
+  ],
+  "knowledge": null
+}

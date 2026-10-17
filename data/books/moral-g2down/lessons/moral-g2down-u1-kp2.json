@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2down-u1-kp2",
+  "title": "自己的事情自己做",
+  "bookId": "moral-g2down",
+  "unitNumber": 1,
+  "unitTitle": "让我来试试",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "自己的事情自己做",
+      "question": "下面哪种事应该自己做（　）",
+      "options": [
+        "整理自己的书包",
+        "帮爸爸上班",
+        "替妈妈做饭赚钱",
+        "替同学考试"
+      ],
+      "answer": "整理自己的书包",
+      "explanation": "自己的事自己做。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "自己的事情自己做",
+      "question": "自己的事情尽量自己做。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自理自立。"
+    }
+  ],
+  "knowledge": {
+    "point": "自己的事情自己做",
+    "core_concept": "穿衣、洗漱、整理房间、完成作业都要自己做。会做的事坚持做，不会的事学着做。",
+    "key_formula": "自理自立",
+    "common_mistakes": [
+      "事事依赖父母。"
+    ],
+    "tips": "越独立越能干。"
+  }
+}

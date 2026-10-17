@@ -1,0 +1,52 @@
+{
+  "id": "chinese-g10up-u2-kp2",
+  "title": "文言句式与翻译",
+  "bookId": "chinese-g10up",
+  "unitNumber": 2,
+  "unitTitle": "古诗文阅读",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文言句式与翻译",
+      "question": "“为仲卿母所遣”属于（　）",
+      "options": [
+        "被动句",
+        "判断句",
+        "宾语前置",
+        "定语后置"
+      ],
+      "answer": "被动句",
+      "explanation": "“为……所”表被动。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文言句式与翻译",
+      "question": "“何陋之有”的句式是（　）",
+      "options": [
+        "宾语前置",
+        "状语后置",
+        "判断句",
+        "被动句"
+      ],
+      "answer": "宾语前置",
+      "explanation": "“之”为宾语前置标志。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言句式与翻译",
+    "core_concept": "常见句式有判断句、被动句、宾语前置、状语后置、定语后置。翻译要“信、达、雅”，做到字字落实、句式调整。",
+    "key_formula": "信、达、雅",
+    "common_mistakes": [
+      "翻译漏译关键实词。"
+    ],
+    "tips": "逐字对应再调整语序。"
+  }
+}

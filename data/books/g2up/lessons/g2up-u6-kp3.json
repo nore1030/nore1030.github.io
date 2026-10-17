@@ -1,0 +1,91 @@
+{
+  "id": "g2up-u6-kp3",
+  "title": "多步乘法应用题：解决问题",
+  "bookId": "g2up",
+  "unitNumber": 6,
+  "unitTitle": "表内乘法（二）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "多步乘法应用题：解决问题",
+      "question": "买一个 $8$ 元的笔记本，买 $9$ 个需要支付 $81$ 元。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是 $8 \\times 9 = 72$（元），不是81元。八九七十二。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多步乘法应用题：解决问题",
+      "question": "一只螃蟹有 8 条腿，7 只螃蟹一共有多少条腿？",
+      "options": [
+        "15",
+        "49",
+        "56",
+        "64"
+      ],
+      "answer": "56",
+      "explanation": "$8 \\times 7 = 56$（条）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步乘法应用题：解决问题",
+      "question": "一件衣服要钉 7 个纽扣，做了 8 件衣服后还剩 4 个纽扣。原来一共有多少个纽扣？",
+      "options": [
+        "52",
+        "56",
+        "60",
+        "64"
+      ],
+      "answer": "60",
+      "explanation": "$7 \\times 8 + 4 = 56 + 4 = 60$（个）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步乘法应用题：解决问题",
+      "question": "小明买 9 支铅笔，每支 3 元，付给售货员 30 元，应找回多少钱？",
+      "options": [
+        "3",
+        "1",
+        "27",
+        "7"
+      ],
+      "answer": "3",
+      "explanation": "$30 - (9 \\times 3) = 30 - 27 = 3$（元）。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多步乘法应用题：解决问题",
+      "question": "小明每天看 9 页书，刚好看了 7 天看完。这本书一共有 ___ 页。",
+      "options": [],
+      "answer": "63",
+      "explanation": "列式：$9 \\times 7 = 63$。验算：口诀“七九六十三” ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "多步乘法应用题：解决问题",
+    "core_concept": "将乘法运算应用到具体生活情境中，如购物支付、座位安排、物品分配等。需要通过阅读理解题意，判断是纯乘法还是需要配合加减法（乘加、乘减）来完成。这类问题考查学生的逻辑拆解能力。",
+    "key_formula": "总数 $=$ 单价 $\\times$ 数量 或 总数 $=$ 每组数 $\\times$ 组数 $+$ 剩余数",
+    "common_mistakes": [
+      "没分清“每排有几个”与“一共有几排”的关系，错误列式。",
+      "两步应用题中，做完第一步乘法后忘记进行第二步的加减法计算。"
+    ],
+    "tips": "画简单的草图或圆圈图可以帮助理解数量关系，分清哪些是个数，哪些是份数。"
+  }
+}

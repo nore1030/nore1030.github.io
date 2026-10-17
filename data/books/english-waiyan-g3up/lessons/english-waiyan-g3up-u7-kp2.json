@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u7-kp2",
+  "title": "Have you got…? 问答",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Have you got a headache? 健康",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "Have you got…? 问答",
+      "question": "否定回答 Have you got…?，应说（　）",
+      "options": [
+        "No, I haven't.",
+        "No, I don't.",
+        "No, I'm not.",
+        "No, I have."
+      ],
+      "answer": "No, I haven't.",
+      "explanation": "have 问 haven't 答。"
+    }
+  ],
+  "knowledge": {
+    "point": "Have you got…? 问答",
+    "core_concept": "have got 变疑问句把 have/has 提前：Have you got…? Has she got…? 否定 No, I haven't. / No, she hasn't.",
+    "key_formula": "Have you got a test today? — Yes, I have.",
+    "common_mistakes": [
+      "回答写成 Yes, I've.（×）"
+    ],
+    "tips": "简答不能缩写。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp8",
+  "title": "职业称谓",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 4,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "职业称谓",
+      "question": "介绍职业时可以说 'My mother is nurse.'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "单数职业名词前通常需要冠词 a 或 an，应为 My mother is a nurse。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp7",
+  "title": "情绪形容词辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 3,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情绪形容词辨析",
+      "question": "The mouse is ______ of the cat.",
+      "options": [
+        "angry",
+        "afraid",
+        "happy",
+        "sad"
+      ],
+      "answer": "afraid",
+      "explanation": "根据常识，老鼠是害怕（afraid）猫的。"
+    }
+  ],
+  "knowledge": null
+}

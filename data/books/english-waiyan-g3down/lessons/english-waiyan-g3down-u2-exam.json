@@ -1,0 +1,66 @@
+{
+  "id": "english-waiyan-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-waiyan-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 颜色与物品",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词",
+      "question": "“黑色”的英语是（　）",
+      "options": [
+        "black",
+        "white",
+        "brown",
+        "green"
+      ],
+      "answer": "black",
+      "explanation": "黑色 black。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品与指示代词",
+      "question": "___ books are over there.（远，复数）",
+      "options": [
+        "This",
+        "These",
+        "That",
+        "Those"
+      ],
+      "answer": "Those",
+      "explanation": "远复用 those。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词",
+      "question": "orange 既可表示橙色也可表示橙子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "多义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物品与指示代词",
+      "question": "these 指近处的复数名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "these 近复。"
+    }
+  ],
+  "knowledge": null
+}

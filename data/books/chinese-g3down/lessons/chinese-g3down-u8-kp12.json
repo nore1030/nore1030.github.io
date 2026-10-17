@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp12",
+  "title": "字词积累",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "“大方”在“这位裁缝一点儿也不大方”中指：",
+      "options": [
+        "举止自然",
+        "不小气",
+        "样式好看",
+        "面积很大"
+      ],
+      "answer": "不小气",
+      "explanation": "文中指裁缝对时间或财物等方面的态度，指不小气。"
+    }
+  ],
+  "knowledge": null
+}

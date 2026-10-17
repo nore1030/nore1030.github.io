@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u2-kp2",
+  "title": "实义动词 like 的一般现在时",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Let's play sports! 运动",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "实义动词 like 的一般现在时",
+      "question": "「我喜欢打篮球。」的英文是（　）",
+      "options": [
+        "I like playing basketball.",
+        "I like play basketball.",
+        "I likes playing basketball.",
+        "I like to playing basketball."
+      ],
+      "answer": "I like playing basketball.",
+      "explanation": "like doing。"
+    }
+  ],
+  "knowledge": {
+    "point": "实义动词 like 的一般现在时",
+    "core_concept": "like doing / like to do 表示喜欢；三单 likes。",
+    "key_formula": "I like playing basketball.",
+    "common_mistakes": [
+      "like 后接 to 而不用原形混用。"
+    ],
+    "tips": "like doing 表爱好。"
+  }
+}

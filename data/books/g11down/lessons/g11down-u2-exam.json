@@ -1,0 +1,61 @@
+{
+  "id": "g11down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g11down",
+  "unitNumber": 2,
+  "unitTitle": "一元函数的导数及其应用",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "导数的概念与运算",
+      "question": "计算定积分 $\\int_0^{3} x^2\\,dx=$ ？",
+      "options": [],
+      "answer": "9",
+      "explanation": "$\\int_0^{3}x^2\\,dx=\\frac{x^3}{3}\\Big|_0^{3}=\\frac{27}{3}=9$。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "导数与函数单调性、极值",
+      "question": "函数 $f(x)=x^2-4x$ 的最小值是多少？",
+      "options": [],
+      "answer": "-4",
+      "explanation": "顶点 $x=2$，$f(2)=4-8=-4$。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "导数与函数单调性、极值",
+      "question": "函数在某区间上可导且 $f'(x)<0$，则它在该区间上单调递减。",
+      "options": [],
+      "answer": "对",
+      "explanation": "导数与单调性关系。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "导数的概念与运算",
+      "question": "$(\\sin x)'=$（　）",
+      "options": [
+        "$\\cos x$",
+        "$-\\cos x$",
+        "$\\sin x$",
+        "$-\\sin x$"
+      ],
+      "answer": "$\\cos x$",
+      "explanation": "基本求导公式。"
+    }
+  ],
+  "knowledge": null
+}

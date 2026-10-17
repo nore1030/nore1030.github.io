@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8up-u1-kp2",
+  "title": "叙事与人物描写",
+  "bookId": "chinese-g8up",
+  "unitNumber": 1,
+  "unitTitle": "新闻与叙事性作品",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "叙事与人物描写",
+      "question": "“他攥紧了拳头”属于（　）",
+      "options": [
+        "外貌描写",
+        "动作描写",
+        "环境描写",
+        "心理描写"
+      ],
+      "answer": "动作描写",
+      "explanation": "描写动作。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "叙事与人物描写",
+      "question": "分析描写作用要结合文本具体内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "答题要结合内容。"
+    }
+  ],
+  "knowledge": {
+    "point": "叙事与人物描写",
+    "core_concept": "叙事有第一人称和第三人称。人物描写作用分析要写出「方法 + 内容 + 表现的性格或情感」。",
+    "key_formula": "方法 + 内容 + 作用",
+    "common_mistakes": [
+      "只答“生动形象”。"
+    ],
+    "tips": "答题要落到具体内容。"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "g2down-u3-kp2",
+  "title": "平移现象的辨析",
+  "bookId": "g2down",
+  "unitNumber": 3,
+  "unitTitle": "图形的运动（一）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "推拉抽屉的运动属于旋转现象。",
+      "options": [],
+      "answer": "错",
+      "explanation": "抽屉推拉是沿着直线运动，属于平移。旋转是绕中心点转动。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平移现象的辨析",
+      "question": "物体在平移过程中，其大小和形状保持不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平移只改变位置，不改变大小和形状。验证：符合平移定义。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "下面哪种现象属于平移？",
+      "options": [
+        "风车的转动",
+        "升国旗的过程",
+        "方向盘的转动",
+        "正在转动的地球仪"
+      ],
+      "answer": "升国旗的过程",
+      "explanation": "升国旗是垂直方向的直线运动，属于平移。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "在一段平坦的直路上，汽车车身的运动是？",
+      "options": [
+        "旋转",
+        "平移",
+        "对称",
+        "折叠"
+      ],
+      "answer": "平移",
+      "explanation": "车身整体沿直线移动，是平移现象。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平移现象的辨析",
+      "question": "滑滑梯的小朋友的运动可以看作是？",
+      "options": [
+        "旋转",
+        "平移",
+        "对称",
+        "跳跃"
+      ],
+      "answer": "平移",
+      "explanation": "小朋友在滑道上沿直线滑动，形状大小不变，是平移。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平移现象的辨析",
+      "question": "将一个向上的箭头向上平移 5 厘米后，箭头的指向是哪里？",
+      "options": [
+        "向左",
+        "向右",
+        "向下",
+        "向上"
+      ],
+      "answer": "向上",
+      "explanation": "平移不改变物体的方向，原来向上平移后依然向上。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "缆车在直线轨道上运行属于什么运动？",
+      "options": [
+        "旋转",
+        "旋转和平移结合",
+        "平移",
+        "以上都不对"
+      ],
+      "answer": "平移",
+      "explanation": "直线运行是平移现象。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "$24 \times 0 = ?$",
+      "options": [],
+      "answer": "0",
+      "explanation": "任何数与0相乘都得0。验算：$0 \times 24 = 0$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "平移现象的辨析",
+    "core_concept": "物体在平坦地移动，且不改变自己的方向、形状和大小，这种运动叫平移。平移是沿着直线进行的，可以上下移、左右移或斜着移。生活中常见的平移有：推拉抽屉、电梯升降、滑滑梯等。",
+    "key_formula": "沿直线运动 + 形状方向不变 = 平移",
+    "common_mistakes": [
+      "误把车轮滚动（旋转+直线位移）纯粹当成平移。",
+      "认为平移会改变图形的指向，例如箭头向右平移后变成向下。"
+    ],
+    "tips": "记住平移就像在轨道上滑动的火车，车头指向哪里，平移后依然指向哪里。"
+  }
+}

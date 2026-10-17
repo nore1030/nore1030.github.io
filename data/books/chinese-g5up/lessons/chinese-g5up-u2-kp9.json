@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u2-kp9",
+  "title": "反义词",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 8,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词",
+      "question": "请将下列词语与它们的反义词进行连线。",
+      "options": [
+        "懒惰",
+        "谴责",
+        "协调",
+        "进攻",
+        "杂乱",
+        "撤退",
+        "勤劳",
+        "表扬"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "考察词义对应关系。"
+    }
+  ],
+  "knowledge": null
+}

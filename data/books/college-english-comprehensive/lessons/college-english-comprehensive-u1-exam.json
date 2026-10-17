@@ -1,0 +1,61 @@
+{
+  "id": "college-english-comprehensive-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "college-english-comprehensive",
+  "unitNumber": 1,
+  "unitTitle": "语法与句式",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "从句与句式",
+      "question": "The reason ___ he was late is unknown.",
+      "options": [
+        "why",
+        "which",
+        "what",
+        "who"
+      ],
+      "answer": "why",
+      "explanation": "先行词 reason 用 why。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "从句与句式",
+      "question": "非谓语作状语时，其逻辑主语应与句子主语一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "避免悬垂结构。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "从句与句式",
+      "question": "虚拟语气中，与现在事实相反时从句用一般过去时。",
+      "options": [],
+      "answer": "对",
+      "explanation": "虚拟语气规则。"
+    },
+    {
+      "id": 8,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从句与句式",
+      "question": "Only then ___ he realize his mistake.（填助动词）",
+      "options": [],
+      "answer": "did",
+      "explanation": "Only + 状语置于句首引起部分倒装。"
+    }
+  ],
+  "knowledge": null
+}

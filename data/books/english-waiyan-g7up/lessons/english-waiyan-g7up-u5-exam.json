@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Module 5 My school day 我的学校生活",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时表习惯",
+      "question": "He ___ English very much.",
+      "options": [
+        "likes",
+        "like",
+        "liking",
+        "is like"
+      ],
+      "answer": "likes",
+      "explanation": "三单加 -s。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学校科目与时间",
+      "question": "「数学」的英文是（　）",
+      "options": [
+        "maths",
+        "mathes",
+        "math",
+        "math's"
+      ],
+      "answer": "maths",
+      "explanation": "英式 maths。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时表习惯",
+      "question": "一般现在时可表示习惯性动作。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表习惯。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时表习惯",
+      "question": "「他从不迟到。」的英文是（　）",
+      "options": [
+        "He is never late.",
+        "He never is late.",
+        "He never late.",
+        "He is ever late."
+      ],
+      "answer": "He is never late.",
+      "explanation": "never 放 be 后。"
+    }
+  ],
+  "knowledge": null
+}

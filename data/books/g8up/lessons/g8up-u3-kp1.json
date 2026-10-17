@@ -1,0 +1,47 @@
+{
+  "id": "g8up-u3-kp1",
+  "title": "轴对称与轴对称图形",
+  "bookId": "g8up",
+  "unitNumber": 3,
+  "unitTitle": "轴对称",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称与轴对称图形",
+      "question": "下列图形是轴对称图形的是（　）",
+      "options": [
+        "平行四边形",
+        "等腰三角形",
+        "一般梯形",
+        "不等边三角形"
+      ],
+      "answer": "等腰三角形",
+      "explanation": "等腰三角形有一条对称轴。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "轴对称与轴对称图形",
+      "question": "轴对称图形的对称轴一定是直线。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对称轴是直线。"
+    }
+  ],
+  "knowledge": {
+    "point": "轴对称与轴对称图形",
+    "core_concept": "沿一条直线折叠，两部分能重合的图形是轴对称图形，这条直线是对称轴。轴对称的两个图形全等。",
+    "key_formula": "对称轴垂直平分对称点连线",
+    "common_mistakes": [
+      "混淆轴对称图形与两个图形成轴对称。"
+    ],
+    "tips": "对称轴是直线不是线段。"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "geography-g7up-u1-kp2",
+  "title": "地图三要素与等高线地形图",
+  "bookId": "geography-g7up",
+  "unitNumber": 1,
+  "unitTitle": "地球和地图",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地图三要素与等高线地形图",
+      "question": "等高线密集的地方坡度（　）",
+      "options": [
+        "陡",
+        "缓",
+        "相同",
+        "无法判断"
+      ],
+      "answer": "陡",
+      "explanation": "密集表示坡陡。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "地图三要素与等高线地形图",
+      "question": "等高线向高处凸出的部位是山谷。",
+      "options": [],
+      "answer": "对",
+      "explanation": "凸高为谷。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "地图三要素与等高线地形图",
+      "question": "比例尺 1:50000 的地图上量得两地距离 3 cm，实地距离是多少千米？",
+      "options": [],
+      "answer": "1.5",
+      "explanation": "$3\\times50000=150000$ cm $=1.5$ km。"
+    }
+  ],
+  "knowledge": {
+    "point": "地图三要素与等高线地形图",
+    "core_concept": "地图三要素是比例尺、方向、图例。等高线密集处坡陡，稀疏处坡缓；等高线向高处凸出为山谷，向低处凸出为山脊。",
+    "key_formula": "比例尺 = 图上距离 / 实地距离",
+    "common_mistakes": [
+      "把山谷山脊判读颠倒。"
+    ],
+    "tips": "凸高为谷、凸低为脊。"
+  }
+}

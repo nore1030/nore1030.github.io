@@ -1,0 +1,31 @@
+{
+  "id": "math-beishida-g1up-u8-kp2",
+  "title": "整时的认读",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 8,
+  "unitTitle": "认识钟表",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "整时的认读",
+      "question": "整时时针指着几就是几时。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分针指 12。"
+    }
+  ],
+  "knowledge": {
+    "point": "整时的认读",
+    "core_concept": "整时分针指着 12，时针指着几就是几时；记录用 8:00。",
+    "key_formula": "分针指 12，时针指几就几时",
+    "common_mistakes": [
+      "先读分针再读时针。"
+    ],
+    "tips": "先看时针定几时。"
+  }
+}

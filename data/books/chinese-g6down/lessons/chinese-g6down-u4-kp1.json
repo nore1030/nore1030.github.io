@@ -1,0 +1,138 @@
+{
+  "id": "chinese-g6down-u4-kp1",
+  "title": "古诗中的托物言志",
+  "bookId": "chinese-g6down",
+  "unitNumber": 4,
+  "unitTitle": "人物品质",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "《石灰吟》中“粉骨碎身浑不怕”的“浑”字是“全、都”的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "考核重点字词解释。浑：全，都在这里表示完全不在乎。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "《竹石》这首诗赞美了竹子坚韧不拔的品格，诗人也以此自检。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这首诗通过描写岩缝中的竹子，表达诗人刚正不阿、不随风逐流的思想。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "《石灰吟》的作者是明代的：",
+      "options": [
+        "于谦",
+        "郑燮",
+        "王冕",
+        "郑愁予"
+      ],
+      "answer": "于谦",
+      "explanation": "《石灰吟》是明代名臣于谦的作品。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "“烈火焚烧若等闲”中的“等闲”的意思是：",
+      "options": [
+        "空闲",
+        "无事",
+        "寻常、平常",
+        "安静"
+      ],
+      "answer": "寻常、平常",
+      "explanation": "等闲意为平常。整句意为把烈火焚烧看作平平常常的事。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "“千磨万击还坚劲，任尔东西南北风。”这两句赞美了竹子什么样的精神？",
+      "options": [
+        "生机勃勃",
+        "坚韧不拔",
+        "孤独寂寞",
+        "奉献社会"
+      ],
+      "answer": "坚韧不拔",
+      "explanation": "描写竹子在严酷环境中依然挺拔，象征了作者顽强的意志。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "下列诗句中，哪一项不带有“托物言志”的特征？",
+      "options": [
+        "粉骨碎身浑不怕，要留清白在人间。",
+        "千磨万击还坚劲，任尔东西南北风。",
+        "不要人夸好颜色，只留清气满乾坤。",
+        "随风潜入夜，润物细无声。"
+      ],
+      "answer": "随风潜入夜，润物细无声。",
+      "explanation": "这是写景诗，非托物言志。前三项分别通过石灰、竹子、梅花表志气。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "“千磨万击还坚劲，”的下一句是（____）。",
+      "options": [],
+      "answer": "任尔东西南北风",
+      "explanation": "出自郑燮的《竹石》。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗中的托物言志",
+      "question": "请将古诗与其赞美的品质连线。",
+      "options": [
+        "石灰吟",
+        "竹石",
+        "墨梅",
+        "马诗",
+        "正直清白",
+        "怀才不遇",
+        "洁身自好",
+        "坚韧顽强"
+      ],
+      "answer": "A-1,B-4,C-3,D-2",
+      "explanation": "石灰-清白；竹子-坚韧；墨梅-雅洁；马-渴望施展志向。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗中的托物言志",
+    "core_concept": "托物言志是一种通过描写具体事物（如竹子、石灰）来表达诗人个人志向、抱负或高尚节操的写作手法。在诗中，物即是人，物的特点（如石灰的洁白、竹子的坚韧）就是人的品格缩影。阅读时要将事物的物理属性与人的精神意义建立联系。",
+    "key_formula": "具体事物（物）+ 事物特点（形）= 诗人的志向、精神（志）",
+    "common_mistakes": [
+      "误将单纯的状物诗（只写景）当成托物言志诗",
+      "解释诗句时只停留在表面，不理解清白、坚劲的深层象征意义"
+    ],
+    "tips": "记住‘物人合一’，找找诗句中哪些词是形容物的，同时也可以形容人的品德。"
+  }
+}

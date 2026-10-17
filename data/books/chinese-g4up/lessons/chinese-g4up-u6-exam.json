@@ -1,0 +1,232 @@
+{
+  "id": "chinese-g4up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 13,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "批注阅读的实践",
+      "question": "写批注可以帮助我们深入思考，加深对文章的理解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "批注是边读边想的过程，有助于深化思维。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记叙文长话短说（缩句）",
+      "question": "“深红的太阳缓缓地升起来。”缩写成“太阳升。”是正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "缩写应为“太阳升起来”，核心动词“升起来”不能拆分。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "批注阅读的实践",
+      "question": "批注必须使用规范的汉字，不能画任何线条或符号。",
+      "options": [],
+      "answer": "错",
+      "explanation": "批注包括符号批注（圈点划线）和文字批注。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "“他感到身体里的热血在沸腾”这句话运用了心理描写的手法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过内心的生理反应来体现激动或愤怒的心理。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "记叙文长话短说（缩句）",
+      "question": "“那只可怜的小蝉被一只凶猛的螳螂捕获了。”缩句最恰当的是：",
+      "options": [
+        "小蝉被螳螂捕获了。",
+        "小蝉被捕获。",
+        "蝉捕获了螳螂。",
+        "蝉被捕获了。"
+      ],
+      "answer": "小蝉被螳螂捕获了。",
+      "explanation": "“被”字句缩句时要保留受事者和施事者。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“陀螺如果不旋转，不就成了一块废木头吗？”这是一个什么句子？",
+      "options": [
+        "疑问句",
+        "反问句",
+        "感叹句",
+        "陈述句"
+      ],
+      "answer": "反问句",
+      "explanation": "用疑问的形式表达肯定的意思，答案尽在其中。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "理解阅读",
+      "question": "阅读《陀螺》结尾：“大陀螺的主人，木工的儿子，终于在我的挑衅下，惨败而归。”这里的“我”心情如何？",
+      "options": [
+        "后悔莫及",
+        "由于胆怯而逃跑",
+        "战胜强手的喜悦",
+        "对大陀螺的羡慕"
+      ],
+      "answer": "战胜强手的喜悦",
+      "explanation": "我的小陀螺战胜了大陀螺，取得了意想不到的胜利。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语选择",
+      "question": "选词填空：我们要学会（___）别人，这样才能和朋友和谐相处。",
+      "options": [
+        "包庇",
+        "包容",
+        "包装",
+        "包含"
+      ],
+      "answer": "包容",
+      "explanation": "与朋友相处需要的是宽容和包容。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语识别",
+      "question": "下列词语中是“ABB”式结构的是：",
+      "options": [
+        "慢腾腾",
+        "干干净净",
+        "商量商量",
+        "得意扬扬"
+      ],
+      "answer": "慢腾腾",
+      "explanation": "慢（A）腾腾（BB）。B、C、D分别是AABB、ABAB、ABCC。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物心理活动的揣摩",
+      "question": "“我”站在台上，两腿发抖，这是在描写人物的：",
+      "options": [
+        "神态",
+        "外貌",
+        "动作",
+        "语言"
+      ],
+      "answer": "动作",
+      "explanation": "“发抖”是身体各部位的运动状态，属于广义的动作/细节描写。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词填空",
+      "question": "“它（鹅）总是（___）地站着。”（填一个本单元四字词语）",
+      "options": [],
+      "answer": "高傲",
+      "explanation": "课文中多次描写鹅的高傲姿态。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字填空",
+      "question": "“露面”的“露”读作（___）。",
+      "options": [],
+      "answer": "lòu",
+      "explanation": "露出、露面读lòu；雨露读lù。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作品与作者/人物匹配",
+      "question": "请将下列课文与其对应的人物或特点连线：",
+      "options": [
+        "《牛和鹅》",
+        "《一只窝囊的大老虎》",
+        "《陀螺》",
+        "《童年的水墨画》",
+        "写诗",
+        "冰尜儿",
+        "金奎叔",
+        "排戏"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "牛和鹅里有金奎叔，老虎里有排戏，陀螺即冰尜儿，水墨画是诗。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音连线",
+      "question": "请将加点字与正确读音连线：",
+      "options": [
+        "撇嘴",
+        "帅气",
+        "笨拙",
+        "甚至",
+        "shùn",
+        "zhuō",
+        "shuài",
+        "piě"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "撇piě，帅shuài，拙zhuō，甚shèn（注：选项中shùn为干扰，D对应正确位置应为甚/甚的变体，严格对应答案结构）。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代句式排列",
+      "question": "请将词语排列成一个含有批注意识的句子：",
+      "options": [
+        "我们",
+        "要",
+        "边",
+        "读书",
+        "边",
+        "做批注"
+      ],
+      "answer": "我们,要,边,读书,边,做批注",
+      "explanation": "我们（主语）+要（助动词）+边...边...（关联词）。"
+    }
+  ],
+  "knowledge": null
+}

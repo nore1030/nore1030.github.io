@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5up-u2-kp1",
+  "title": "亲情与沟通",
+  "bookId": "moral-g5up",
+  "unitNumber": 2,
+  "unitTitle": "情感与家庭",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "亲情与沟通",
+      "question": "与父母产生分歧时，最好的做法是（　）",
+      "options": [
+        "冷静沟通说出理由",
+        "赌气不理",
+        "摔东西",
+        "离家出走"
+      ],
+      "answer": "冷静沟通说出理由",
+      "explanation": "沟通化解代沟。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "亲情与沟通",
+      "question": "父母的付出不是理所当然的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "要懂得回报。"
+    }
+  ],
+  "knowledge": {
+    "point": "亲情与沟通",
+    "core_concept": "父母给予我们生命与养育之爱。随着年龄增长，亲子之间需要更多理解与沟通，尊重与关爱是相互的。",
+    "key_formula": "关爱 + 理解",
+    "common_mistakes": [
+      "认为父母的付出理所当然。"
+    ],
+    "tips": "主动沟通增进理解。"
+  }
+}

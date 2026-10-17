@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g10up-u2-kp2",
+  "title": "日常作息与频率",
+  "bookId": "english-waiyan-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 家庭与日常生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "I usually ___ up at six.",
+      "options": [
+        "get",
+        "gets",
+        "getting",
+        "got"
+      ],
+      "answer": "get",
+      "explanation": "主语 I 用原形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "频度副词 usually 放在实义动词之前。",
+      "options": [],
+      "answer": "对",
+      "explanation": "频度副词位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "日常作息与频率",
+    "core_concept": "用 usually、often、sometimes 描述频率；用 at + 时刻、in the morning 等时间状语。",
+    "key_formula": "频度副词 + 一般现在时",
+    "common_mistakes": [
+      "频度副词位置放错。"
+    ],
+    "tips": "放实义动词前。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp7",
+  "title": "词组理解",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词组理解",
+      "question": "'this one' 的中文意思是 '这个'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "this one 指代近处的某个特定的人或物。"
+    }
+  ],
+  "knowledge": null
+}

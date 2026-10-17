@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u6-kp6",
+  "title": "现在进行时结构",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "现在进行时结构",
+      "question": "“Is he drinking water?”是一个正确的现在进行时疑问句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "现在进行时疑问句结构为：Is/Are + 主语 + 动词ing形式。"
+    }
+  ],
+  "knowledge": null
+}

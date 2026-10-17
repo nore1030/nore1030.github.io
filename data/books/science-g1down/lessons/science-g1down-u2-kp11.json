@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp11",
+  "title": "校园动物的观察",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 4,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园动物的观察",
+      "question": "如果我们想看清蜗牛身上的细节，应该选择哪种工具？",
+      "options": [
+        "尺子",
+        "剪刀",
+        "放大镜",
+        "温度计"
+      ],
+      "answer": "放大镜",
+      "explanation": "放大镜是观察细小特征的必备常用科学工具。"
+    }
+  ],
+  "knowledge": null
+}

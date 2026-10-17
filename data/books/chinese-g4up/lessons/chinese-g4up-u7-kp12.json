@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4up-u7-kp12",
+  "title": "词语释义",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 10,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语释义",
+      "question": "请为下列词语选择正确的解释：",
+      "options": [
+        "蓄须",
+        "租界",
+        "赞叹",
+        "胸怀",
+        "赞美称扬",
+        "强国圈占地",
+        "心胸气量",
+        "留胡子"
+      ],
+      "answer": "A-4,B-2,C-1,D-3",
+      "explanation": "蓄须-留胡子；租界-强权划分；赞叹-赞美；胸怀-气量。"
+    }
+  ],
+  "knowledge": null
+}

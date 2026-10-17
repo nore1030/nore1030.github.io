@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g1up-u8-kp4",
+  "title": "阅读应用",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 3,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "阅读应用",
+      "question": "阅读：雪地里来了一群小画家。小鸡画竹叶，小狗画梅花。文中“小画家”指的是：",
+      "options": [
+        "小朋友们",
+        "爱画画的孩子",
+        "雪地里的动物",
+        "竹叶和梅花"
+      ],
+      "answer": "雪地里的动物",
+      "explanation": "根据课文内容，小画家是指在雪地上留下脚印的小动物们。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读应用",
+      "question": "短文：云在天上飞。有的像白羊，有的像棉花。风一吹，它们就跑了。这段话写了云的什么？",
+      "options": [
+        "颜色",
+        "名字",
+        "形状",
+        "大小"
+      ],
+      "answer": "形状",
+      "explanation": "像白羊、像棉花都是在描述云看起来的样子，即形状。"
+    }
+  ],
+  "knowledge": null
+}

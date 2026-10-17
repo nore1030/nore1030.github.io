@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u3-kp18",
+  "title": "疑问词",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问词",
+      "question": "___ did you go with? My friend.",
+      "options": [],
+      "answer": "who",
+      "explanation": "询问人使用who。"
+    }
+  ],
+  "knowledge": null
+}

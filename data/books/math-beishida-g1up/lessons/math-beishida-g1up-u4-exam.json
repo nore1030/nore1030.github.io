@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g1up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 4,
+  "unitTitle": "分类",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "按标准分类",
+      "question": "分类的标准要统一。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一次一个标准。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分类标准不同结果不同",
+      "question": "分类的好处是（　）",
+      "options": [
+        "更整齐、更好找",
+        "东西变多",
+        "颜色变深",
+        "没有好处"
+      ],
+      "answer": "更整齐、更好找",
+      "explanation": "分类的意义。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按标准分类",
+      "question": "把三角形和圆分开，是按（　）分",
+      "options": [
+        "形状",
+        "颜色",
+        "用途",
+        "大小"
+      ],
+      "answer": "形状",
+      "explanation": "按形状。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分类标准不同结果不同",
+      "question": "同一组积木既可以按颜色分，也可以按形状分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标准不同结果不同。"
+    }
+  ],
+  "knowledge": null
+}

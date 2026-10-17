@@ -1,0 +1,39 @@
+{
+  "id": "science-g6up-u4-kp3",
+  "title": "奥斯特实验：电生磁现象",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "奥斯特实验：电生磁现象",
+      "question": "奥斯特实验证明了导线只要靠近指南针，指南针就会发生偏转，不需要通电。",
+      "options": [],
+      "answer": "错",
+      "explanation": "奥斯特实验的核心是通电导线产生磁场使磁针偏转，不通电则无此现象。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "奥斯特实验：电生磁现象",
+      "question": "做奥斯特实验时，导线（）放置在指南针上方最容易观察到偏转。",
+      "options": [
+        "垂直指南针",
+        "平行指南针",
+        "乱七八糟",
+        "远离指南针"
+      ],
+      "answer": "平行指南针",
+      "explanation": "平行放置时，电流产生的磁场方向与磁针指向垂直，偏转最明显。"
+    }
+  ],
+  "knowledge": null
+}

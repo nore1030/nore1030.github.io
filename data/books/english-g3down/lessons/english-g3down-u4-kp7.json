@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp7",
+  "title": "交际用语",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 3,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "交际用语",
+      "question": "向别人借东西时，可以说：'Can I use your pencil?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "Can I use...? 是请求许可使用某物的礼貌用语。"
+    }
+  ],
+  "knowledge": null
+}

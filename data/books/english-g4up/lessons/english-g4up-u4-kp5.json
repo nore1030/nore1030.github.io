@@ -1,0 +1,102 @@
+{
+  "id": "english-g4up-u4-kp5",
+  "title": "家具词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 4,
+  "unitTitle": "My home",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "'fridge' 的意思是冰箱。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fridge 是 refrigerator 的缩写，意为冰箱。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "'phone' 是电话的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "phone 是指电话或手机。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "Go to the bedroom. Have a ______.",
+      "options": [
+        "snack",
+        "nap",
+        "shower",
+        "read"
+      ],
+      "answer": "nap",
+      "explanation": "Have a nap 意为午睡，在卧室（bedroom）进行。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "Is he ______ the living room?",
+      "options": [
+        "on",
+        "under",
+        "in",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "在那间屋子里的介词用 in。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "Open the ______ . Have a snack.",
+      "options": [
+        "bed",
+        "fridge",
+        "phone",
+        "table"
+      ],
+      "answer": "fridge",
+      "explanation": "吃零食需要从冰箱（fridge）里拿。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "将下列英文单词与对应的中文意思匹配。",
+      "options": [
+        "bed",
+        "table",
+        "sofa",
+        "phone",
+        "沙发",
+        "电话",
+        "床",
+        "桌子"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "bed-床, table-桌子, sofa-沙发, phone-电话。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8down-u1-kp1",
+  "title": "现在完成时的构成与用法",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "现在完成时的构成与用法",
+      "question": "I ___ my homework already.",
+      "options": [
+        "finish",
+        "finished",
+        "have finished",
+        "am finishing"
+      ],
+      "answer": "have finished",
+      "explanation": "already 提示完成时。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "现在完成时的构成与用法",
+      "question": "现在完成时不能与表示过去具体时间状语连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如不能与 yesterday 连用。"
+    }
+  ],
+  "knowledge": {
+    "point": "现在完成时的构成与用法",
+    "core_concept": "现在完成时表示过去发生的动作对现在造成的影响，或从过去持续到现在的动作。常与 already、yet、ever、never、since、for 连用。",
+    "key_formula": "have/has + 过去分词",
+    "common_mistakes": [
+      "与一般过去时混用。"
+    ],
+    "tips": "看时间状语与语境。"
+  }
+}

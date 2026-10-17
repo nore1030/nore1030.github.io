@@ -1,0 +1,39 @@
+{
+  "id": "science-g2up-u1-kp7",
+  "title": "人类与健康的地球关系",
+  "bookId": "science-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的地球家园",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人类与健康的地球关系",
+      "question": "为了建房子，我们可以随意砍伐身边的树木。",
+      "options": [],
+      "answer": "错",
+      "explanation": "我们要爱护自然资源，不能随意破坏生态环境。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人类与健康的地球关系",
+      "question": "我们的衣服大多是用什么材料做成的？",
+      "options": [
+        "钢铁",
+        "岩石",
+        "棉花或蚕丝",
+        "塑料"
+      ],
+      "answer": "棉花或蚕丝",
+      "explanation": "棉花和蚕丝是来源于自然界的衣物原料。"
+    }
+  ],
+  "knowledge": null
+}

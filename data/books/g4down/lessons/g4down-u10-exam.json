@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u10-exam",
+  "title": "第 10 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "所有的三角形内角和都是 $180^\\circ$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "无论三角形的大小和形状，平面内三角形的内角和恒为180度。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "小数比整数小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "比较数的大小不能只看小数或整数。例如 1.5 比 1 大，但 0.5 比 2 小。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "$a \times b + a = a \times (b + 1)$ 应用了乘法分配律。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据乘法分配律，$a \\times (b + 1) = a \\times b + a \\times 1 = a \\times b + a$。这里利用了分配律的逆运算。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "数学反思与自我评价",
+      "question": "在观察物体时，从前面和侧面观察同一个物体，看到的图形一定不同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "取决于物体形状，例如正方体，从前面和侧面看都是正方形，图形相同。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "一个等腰三角形的一个底角是 $50^\\circ$，它的顶角是多少度？",
+      "options": [
+        "50",
+        "80",
+        "130",
+        "100"
+      ],
+      "answer": "80",
+      "explanation": "顶角 $= 180 - 50 \\times 2 = 180 - 100 = 80$（度）。验算：$80 + 50 + 50 = 180$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算 $32 \\times 25 \\times 125$ 时，怎样计算比较简便？",
+      "options": [
+        "$(4 \\times 25) \\times (8 \\times 125)$",
+        "$(30+2) \\times 25 \\times 125$",
+        "$32 \\times (25 \\times 125)$",
+        "$(25 \\times 125) \\times 32$"
+      ],
+      "answer": "$(4 \\times 25) \\times (8 \\times 125)$",
+      "explanation": "因为 $32 = 4 \\times 8$，将 4 与 25 结合得 100，8 与 125 结合得 1000，最为简便。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "1.2 计数单位是 0.1，它含有多少个这样的计数单位？",
+      "options": [
+        "1",
+        "2",
+        "12",
+        "120"
+      ],
+      "answer": "12",
+      "explanation": "$1.2 = 12 \\times 0.1$，所以含有 12 个 0.1。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数学反思与自我评价",
+      "question": "在 $6.3$ 后面添上两个 $0$。该数的大小会如何变化？",
+      "options": [
+        "扩大到原数的100倍",
+        "缩小到原数的百分之一",
+        "不变",
+        "扩大到原数的10倍"
+      ],
+      "answer": "不变",
+      "explanation": "根据小数的性质，在小数的末尾添上“0”或去掉“0”，小数的大小不变。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "小红的身高是 1.35 米，也就是多少厘米？",
+      "options": [
+        "135",
+        "13.5",
+        "1350",
+        "1.35"
+      ],
+      "answer": "135",
+      "explanation": "1 米 = 100 厘米，$1.35 \\times 100 = 135$ 厘米。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数学反思与自我评价",
+      "question": "鸡共有 10 只脚，兔共有 12 只脚。这个笼子里共有多少个头？",
+      "options": [
+        "22",
+        "8",
+        "11",
+        "5"
+      ],
+      "answer": "8",
+      "explanation": "鸡：$10 \\div 2 = 5$ 只头；兔：$12 \\div 4 = 3$ 只头。总头数：$5 + 3 = 8$ 个。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算 $99 \\times 38 + 38$ 的简便方法是应用了什么？",
+      "options": [
+        "乘法交换律",
+        "乘法结合律",
+        "乘法分配律",
+        "加法结合律"
+      ],
+      "answer": "乘法分配律",
+      "explanation": "$99 \\times 38 + 1 \\times 38 = (99+1) \\times 38 = 100 \\times 38 = 3800$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "在 0.5 和 0.7 之间的小数有几个？",
+      "options": [
+        "1个",
+        "10个",
+        "无数个",
+        "0个"
+      ],
+      "answer": "无数个",
+      "explanation": "在两个小数之间，如果没有位数限制，有无数个小数（如0.51, 0.511...）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "知识系统整理与对比",
+      "question": "把 0.36 扩大到原数的 1000 倍是 ___ 。",
+      "options": [],
+      "answer": "360",
+      "explanation": "0.36 扩大 1000 倍，小数点向右移动三位。$0.36 \\times 1000 = 360$。验算：$360 \\div 1000 = 0.36$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "学校举行运动会。四年级有 12 个班，每个班参加田径赛的和跳绳赛的一共有 25 人。四年级一共有 ___ 人参加比赛。",
+      "options": [],
+      "answer": "300",
+      "explanation": "列式：$25 \\times 12 = 300$。简便计算：$25 \\times 4 \\times 3 = 100 \\times 3 = 300$。验算：$300 \\div 12 = 25$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算：$25 \\times 8 = ?$",
+      "options": [],
+      "answer": "200",
+      "explanation": "$25 \\times 8 = 200$。验算：$200 \\div 8 = 25$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

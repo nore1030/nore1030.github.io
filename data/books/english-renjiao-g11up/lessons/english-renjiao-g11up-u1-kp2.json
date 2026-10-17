@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g11up-u1-kp2",
+  "title": "虚拟语气",
+  "bookId": "english-renjiao-g11up",
+  "unitNumber": 1,
+  "unitTitle": "被动语态与虚拟语气",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "虚拟语气",
+      "question": "If I ___ you, I would accept the offer.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "answer": "were",
+      "explanation": "与现在相反。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "虚拟语气",
+      "question": "虚拟语气表示与事实相反的情况。",
+      "options": [],
+      "answer": "对",
+      "explanation": "虚拟语气含义。"
+    }
+  ],
+  "knowledge": {
+    "point": "虚拟语气",
+    "core_concept": "与现在事实相反：if + 主语 + 过去式，would/could/might + 动词原形；与过去相反：if + had done，would have done；与将来相反：if + were to do，would do。",
+    "key_formula": "与现在相反：did / would do",
+    "common_mistakes": [
+      "与现在相反的从句用过去式。"
+    ],
+    "tips": "时间错位是关键。"
+  }
+}

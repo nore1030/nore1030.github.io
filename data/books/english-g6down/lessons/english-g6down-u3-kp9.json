@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp9",
+  "title": "动词过去式辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词过去式辨析",
+      "question": "I ___ a gift for my mother yesterday.",
+      "options": [
+        "buy",
+        "buys",
+        "bought",
+        "buying"
+      ],
+      "answer": "bought",
+      "explanation": "yesterday提示使用过去时，buy的过去式是bought。"
+    }
+  ],
+  "knowledge": null
+}

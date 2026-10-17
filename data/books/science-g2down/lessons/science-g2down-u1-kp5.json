@@ -1,0 +1,39 @@
+{
+  "id": "science-g2down-u1-kp5",
+  "title": "制作简易水浮式指南针",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "制作简易水浮式指南针",
+      "question": "我们可以用磁铁的磁极在钢针上沿同一个方向摩擦，使钢针获得磁性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是摩擦磁化钢针的正确操作方法，需注意单向摩擦。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "制作简易水浮式指南针",
+      "question": "在制作水浮式指南针时，为了让磁化的钢针指向，我们需要把钢针（    ）。",
+      "options": [
+        "放在纸片上浮在水面",
+        "扔进水底",
+        "贴在水盆壁上",
+        "拿在手中"
+      ],
+      "answer": "放在纸片上浮在水面",
+      "explanation": "为了让钢针能自由转动，必须减小摩擦力，水浮法是常用的教学手段。"
+    }
+  ],
+  "knowledge": null
+}

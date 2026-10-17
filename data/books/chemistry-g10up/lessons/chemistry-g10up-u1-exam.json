@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 1,
+  "unitTitle": "物质及其变化",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "氧化还原反应",
+      "question": "反应 $2\\text{FeCl}_3+\\text{Cu}=2\\text{FeCl}_2+\\text{CuCl}_2$ 中，氧化剂是（　）",
+      "options": [
+        "$\\text{FeCl}_3$",
+        "$\\text{Cu}$",
+        "$\\text{FeCl}_2$",
+        "$\\text{CuCl}_2$"
+      ],
+      "answer": "$\\text{FeCl}_3$",
+      "explanation": "Fe 由 +3 降至 +2，作氧化剂。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物质的分类与离子反应",
+      "question": "离子方程式可以表示一类反应的实质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "离子方程式表示本质。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质的分类与离子反应",
+      "question": "下列离子方程式书写正确的是（　）",
+      "options": [
+        "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+        "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{CO}_3$",
+        "$\\text{CO}_3^{2-}+2\\text{H}^+=\\text{H}_2\\text{CO}_3$",
+        "$\\text{Ca}^{2+}+\\text{CO}_3^{2-}=\\text{CaCO}_3$"
+      ],
+      "answer": "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+      "explanation": "碳酸不稳定分解为水和二氧化碳。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "氧化还原反应",
+      "question": "化合价升高的元素被氧化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "升失氧。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u7-kp8",
+  "title": "古诗作者匹配",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 7,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗作者匹配",
+      "question": "请将下列诗句与对应的作者连线。",
+      "options": [
+        "明月松间照",
+        "江枫渔火对愁眠",
+        "问渠那得清如许",
+        "月出惊山鸟",
+        "王维",
+        "张继",
+        "朱熹",
+        "王维"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查诗句作者对应关系。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp4",
+  "title": "字音辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 0,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“这一叠传单”中的“叠”字读音是“dié”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "叠字只有这一个读音，读dié。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "physics-g10up-u3-kp1",
+  "title": "三种常见力与力的合成",
+  "bookId": "physics-g10up",
+  "unitNumber": 3,
+  "unitTitle": "相互作用——力",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "质量 5 kg 的物体重力是多少 N？（$g$ 取 10 N/kg）",
+      "options": [],
+      "answer": "50",
+      "explanation": "$G=mg=5\\times10=50$ N。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "两个大小均为 6 N、夹角 120° 的共点力，合力大小是（　）",
+      "options": [
+        "6 N",
+        "12 N",
+        "0",
+        "$6\\sqrt3$ N"
+      ],
+      "answer": "6 N",
+      "explanation": "合力 $=6$ N（等边三角形）。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "关于摩擦力，正确的是（　）",
+      "options": [
+        "静摩擦力方向与相对运动趋势方向相反",
+        "摩擦力总是阻力",
+        "摩擦力大小一定等于 $\\mu F_N$",
+        "摩擦力与接触面无关"
+      ],
+      "answer": "静摩擦力方向与相对运动趋势方向相反",
+      "explanation": "静摩擦方向判定。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "两个力 3 N 和 4 N 的合力大小不可能是（　）",
+      "options": [
+        "1 N",
+        "5 N",
+        "7 N",
+        "8 N"
+      ],
+      "answer": "8 N",
+      "explanation": "合力范围 1 N ≤ F ≤ 7 N。"
+    }
+  ],
+  "knowledge": {
+    "point": "三种常见力与力的合成",
+    "core_concept": "重力 $G=mg$ 竖直向下；弹力方向与形变方向相反；摩擦力方向与相对运动（趋势）方向相反。两个共点力合成遵循平行四边形法则，合力范围 $|F_1-F_2|\\le F\\le F_1+F_2$。",
+    "key_formula": "$G=mg$",
+    "common_mistakes": [
+      "认为摩擦力一定与运动方向相反。"
+    ],
+    "tips": "摩擦力与“相对”运动方向相反。"
+  }
+}

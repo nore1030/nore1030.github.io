@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp6",
+  "title": "种子的结构",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 0,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "种子的结构",
+      "question": "蚕豆种子的胚芽发育后形成了植物的根。",
+      "options": [],
+      "answer": "错",
+      "explanation": "胚芽发育形成茎和叶，胚根发育形成根。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "science-g4down-u2-kp7",
+  "title": "电路故障检测",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "电路故障检测",
+      "question": "电路检测器可以用来检测家用电视机的电路故障。",
+      "options": [],
+      "answer": "错",
+      "explanation": "自制电路检测器只能检测简单直流电路，严禁检测交流电电器。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电路故障检测",
+      "question": "当灯泡不亮时，我们第一步通常先检查（ ）。",
+      "options": [
+        "电池是否有电",
+        "灯泡是否破碎",
+        "导线内部是否断裂",
+        "电路连接是否松动"
+      ],
+      "answer": "电路连接是否松动",
+      "explanation": "排查故障应遵循从易到难的原则，先检查连接。"
+    }
+  ],
+  "knowledge": null
+}

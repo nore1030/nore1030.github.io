@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 7,
+  "unitTitle": "长方形和正方形",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "四边形及长正方形特征认识",
+      "question": "只要有四条边、四个角的图形就是长方形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "长方形除了有四条边四个角，还要求对边相等且四个角都是直角。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "两个周长相等的长方形，它们的形状一定完全相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如周长是12厘米，可以是长5宽1，也可以是长4宽2，形状不同。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "拼图周长的变化规律",
+      "question": "用12个小正方形拼长方形，拼成的图形周长是不固定的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "拼法可以是一行12个，也可以是两行6个，拼法不同则重合边数不同，周长也就不同。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "把一个正方形剪成两个完全一样的长方形，每个小长方形的周长是原正方形周长的一半。",
+      "options": [],
+      "answer": "错",
+      "explanation": "剪切后多出了两条边，所以两个小长方形周长之和会大于原正方形周长，单个周长大于一半。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个长方形足球场的长是 100 米，宽是 50 米，某运动员绕球场跑两圈是多少米？",
+      "options": [
+        "300",
+        "600",
+        "450",
+        "900"
+      ],
+      "answer": "600",
+      "explanation": "一圈周长：$2 \\times (100 + 50) = 300$ 米；两圈：$300 \\times 2 = 600$ 米。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拼图周长的变化规律",
+      "question": "用 16 个边长 1 厘米的小正方形拼成以下图形，哪种拼法的周长最短？",
+      "options": [
+        "拼成一行",
+        "拼成两行",
+        "拼成正方形",
+        "无法判断"
+      ],
+      "answer": "拼成正方形",
+      "explanation": "在面积相等的情况下，图形越接近正方形，其周长越短。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个正方形周长是 24 厘米，如果把它平均分成两个完全一样的长方形，每个长方形的周长是多少？",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "16"
+      ],
+      "answer": "18",
+      "explanation": "原边长 $24 \\div 4 = 6$。长方形长6，宽3。周长 $2 \\times (6 + 3) = 18$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "拼图周长的变化规律",
+      "question": "用 3 个边长是 2 厘米的正方形拼成一个长方形，这个长方形的周长是多少厘米？",
+      "options": [
+        "24",
+        "18",
+        "16",
+        "12"
+      ],
+      "answer": "16",
+      "explanation": "长为 $2 \\times 3 = 6$。宽为 2。周长为 $2 \\times (6 + 2) = 16$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "小红用绳子围了一个长方形，长 15 厘米，宽 5 厘米。如果改围成一个正方形，边长是多少？",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "5"
+      ],
+      "answer": "10",
+      "explanation": "总长 $2 \\times (15 + 5) = 40$。正方形边长 $40 \\div 4 = 10$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个长方形长是宽的 3 倍，宽是 4 厘米，周长是多少厘米？",
+      "options": [
+        "16",
+        "32",
+        "12",
+        "48"
+      ],
+      "answer": "32",
+      "explanation": "长为 $4 \\times 3 = 12$。周长 $2 \\times (12 + 4) = 32$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "要把一张边长 10 厘米的正方形纸剪成 4 个一样的小正方形，每个小正方形周长是多少厘米？",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": "20",
+      "explanation": "小正方形边长是 $10 \\div 2 = 5$。周长 $5 \\times 4 = 20$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四边形及长正方形特征认识",
+      "question": "如果一个四边形有两组对边分别平行且相等，四个角都是直角，它是什么？",
+      "options": [
+        "三角形",
+        "长方形",
+        "梯形",
+        "五边形"
+      ],
+      "answer": "长方形",
+      "explanation": "这是长方形的判定特征。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个正方形周长是 36 厘米，它的边长是 ___ 厘米。",
+      "options": [],
+      "answer": "9",
+      "explanation": "$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个长方形长 10 米，宽 6 米。如果宽增加到 10 米，就变成了一个正方形，这个正方形周长是 ___ 米。",
+      "options": [],
+      "answer": "40",
+      "explanation": "变成边长为 10 的正方形。周长 $10 \\times 4 = 40$（米）。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "$(20 + 30) \\times 2 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$50 \\times 2 = 100$。验算：$100 \\div 2 = 50$，$50 - 30 = 20$。"
+    }
+  ],
+  "knowledge": null
+}

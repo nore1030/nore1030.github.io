@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp23",
+  "title": "摇橹原理",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 17,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "摇橹原理",
+      "question": "摇橹船产生的动力来源于什么？",
+      "options": [
+        "风力",
+        "重力",
+        "水的推力",
+        "人力"
+      ],
+      "answer": "人力",
+      "explanation": "摇橹是利用杠杆原理，靠人力驱动桨叶产生推力。"
+    }
+  ],
+  "knowledge": null
+}

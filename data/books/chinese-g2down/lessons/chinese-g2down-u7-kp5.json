@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u7-kp5",
+  "title": "字词义辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 4,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "选出下列词语中书写完全正确的一项：",
+      "options": [
+        "功夫 商店",
+        "决定 终子",
+        "青蛙 明白",
+        "搬家 倒退"
+      ],
+      "answer": "搬家 倒退",
+      "explanation": "功夫应为工夫（时间），终子应为终点。"
+    }
+  ],
+  "knowledge": null
+}

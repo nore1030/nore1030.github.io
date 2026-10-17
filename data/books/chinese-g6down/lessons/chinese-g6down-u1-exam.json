@@ -1,0 +1,227 @@
+{
+  "id": "chinese-g6down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g6down",
+  "unitNumber": 1,
+  "unitTitle": "民风民俗",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "“纤纤擢素手，札札弄机杼”描写的是织女织布时的动作。",
+      "options": [],
+      "answer": "对",
+      "explanation": "擢、弄、织布机（机杼）都真实再现了劳动的场景。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "详写与略写的处理技巧",
+      "question": "在介绍一种民俗时，为了吸引读者，可以把每个环节都写得一样长。",
+      "options": [],
+      "answer": "错",
+      "explanation": "详略不当会导致重点不突出，读者抓不住文章重点。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "“元宵上市，春节的又一个高潮到了”说明元宵节是春节的结束部分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中以此作为春节的高潮，之后转向平淡收尾。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "细节描写与侧面描写",
+      "question": "“八儿看着锅里叹气的腊八粥，吞了口唾沫”这是侧面表现腊八粥的诱人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过人物的生理反应（吞唾沫）来衬托食物的好吃，属于侧面描写。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "“不知秋思落谁家”中，“落”字形象地写出了：",
+      "options": [
+        "秋天的降临",
+        "思念的浓重",
+        "落叶的过程",
+        "月光的洁净"
+      ],
+      "answer": "思念的浓重",
+      "explanation": "一个“落”字将抽象的情思写成了仿佛有重量的实物。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细节描写与侧面描写",
+      "question": "短文赏析：‘它们在锅中翻滚着，像是在跳着一场热烈的集体舞。’这句话运用了：",
+      "options": [
+        "比喻",
+        "排比",
+        "反问",
+        "对比"
+      ],
+      "answer": "比喻",
+      "explanation": "把锅中翻滚的豆子比作跳舞，非常生动。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语积累",
+      "question": "下列词语中，没有错别字的一组是：",
+      "options": [
+        "萬象更新 截然不同",
+        "懸燈結彩 喜气羊羊",
+        "臘八粥 萬不得以",
+        "元霄盛會 全神貫注"
+      ],
+      "answer": "萬象更新 截然不同",
+      "explanation": "B项应为喜气洋洋，C项应为万不得已，D项应为元宵。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "细节描写与侧面描写",
+      "question": "《腊八粥》中八儿面对腊八粥时心理变化的过程是：",
+      "options": [
+        "盼望-着急-猜想-满足",
+        "着急-思念-盼望-失望",
+        "喜欢-讨厌-盼望-知足",
+        "冷淡-好奇-着急-大笑"
+      ],
+      "answer": "盼望-着急-猜想-满足",
+      "explanation": "文中通过八儿的语言和神态完美呈现了这一心理曲线。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "《北京的春节》写作时间跨度大约是：",
+      "options": [
+        "一周",
+        "半个多月",
+        "四十多天",
+        "一个多月"
+      ],
+      "answer": "一个多月",
+      "explanation": "从腊八（腊月初八）到正月十九，跨度约为一个多月。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "下列诗句中，表达的情感与其他三项不同的一项是：",
+      "options": [
+        "不知秋思落谁家",
+        "家书抵万金",
+        "总把新桃换旧符",
+        "低头思故乡"
+      ],
+      "answer": "总把新桃换旧符",
+      "explanation": "其余三项表达思乡之情，此项表达迎新的喜悦。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按时间顺序记叙的方法",
+      "question": "文章开头写“腊七腊八，冻死旱码头”，作用是：",
+      "options": [
+        "说明北京天气冷",
+        "引出春节的开始",
+        "抱怨环境恶劣",
+        "科普自然知识"
+      ],
+      "answer": "引出春节的开始",
+      "explanation": "以俗语开篇，营造节日气氛，带出腊八这一具体时间点。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "《寒食》一诗中描写春风中柳枝摆动的词语是（___）。",
+      "options": [],
+      "answer": "御柳斜",
+      "explanation": "考查对古诗名句词语的准确运用。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "详写与略写的处理技巧",
+      "question": "《北京的春节》写法上的最大特色是详略（___）。",
+      "options": [],
+      "answer": "得当",
+      "explanation": "这是本单元最重要的语文要素之一。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日文化与托物言志",
+      "question": "请将传统节日与正确的农历日期连线。",
+      "options": [
+        "腊八节",
+        "中秋节",
+        "七夕节",
+        "重阳节",
+        "八月十五",
+        "九月初九",
+        "腊月初八",
+        "七月初七"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "考查对传统节日时间的常识掌握。"
+    },
+    {
+      "id": 21,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细节描写与侧面描写",
+      "question": "将描写腊八粥颜色的句子排好顺序。",
+      "options": [
+        "像是",
+        "红红的豆子",
+        "锅里",
+        "小眼睛",
+        "无数只"
+      ],
+      "answer": "锅里,红红的豆子,像是,无数只,小眼睛",
+      "explanation": "根据文意和比喻句修饰关系排列。"
+    }
+  ],
+  "knowledge": null
+}

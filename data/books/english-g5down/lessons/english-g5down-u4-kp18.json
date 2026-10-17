@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp18",
+  "title": "代词搭配",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词搭配",
+      "question": "Those are ______ birthdays.",
+      "options": [
+        "they",
+        "their",
+        "them",
+        "theirs"
+      ],
+      "answer": "their",
+      "explanation": "修饰名词birthdays需要用形容词性物主代词their。"
+    }
+  ],
+  "knowledge": null
+}

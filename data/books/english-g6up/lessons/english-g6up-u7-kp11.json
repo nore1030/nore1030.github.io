@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp11",
+  "title": "场所及交通方式配套",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "场所及交通方式配套",
+      "question": "If you want to go to the park, you can go ______ bus.",
+      "options": [
+        "on",
+        "by",
+        "with",
+        "at"
+      ],
+      "answer": "by",
+      "explanation": "by + 交通工具表示出行方式。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8down-u2-kp1",
+  "title": "健康的生活方式",
+  "bookId": "biology-g8down",
+  "unitNumber": 2,
+  "unitTitle": "健康生活与医疗急救",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "健康的生活方式",
+      "question": "下列属于健康生活方式的是（　）",
+      "options": [
+        "每天保证充足睡眠",
+        "经常熬夜",
+        "暴饮暴食",
+        "吸烟饮酒"
+      ],
+      "answer": "每天保证充足睡眠",
+      "explanation": "充足睡眠是健康基础。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "健康的生活方式",
+      "question": "合理营养不挑食不偏食。",
+      "options": [],
+      "answer": "对",
+      "explanation": "合理膳食。"
+    }
+  ],
+  "knowledge": {
+    "point": "健康的生活方式",
+    "core_concept": "健康生活方式包括合理膳食、适量运动、充足睡眠、拒绝烟酒、心理平衡。注意合理营养不暴饮暴食。",
+    "key_formula": "合理膳食 + 适量运动 + 充足睡眠",
+    "common_mistakes": [
+      "认为吃得越多越健康。"
+    ],
+    "tips": "营养要均衡合理。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp20",
+  "title": "动物的食性",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 13,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物的食性",
+      "question": "蜗牛最喜欢吃的食物是：",
+      "options": [
+        "小虫子",
+        "菜叶",
+        "肉块",
+        "饼干"
+      ],
+      "answer": "菜叶",
+      "explanation": "蜗牛属于植食性动物，喜食嫩叶。"
+    }
+  ],
+  "knowledge": null
+}

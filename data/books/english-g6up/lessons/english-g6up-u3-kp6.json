@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u3-kp6",
+  "title": "be going to 语法",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "be going to 语法",
+      "question": "句子 'I am going to see a film' 中 be going to 表示打算做某事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be going to + 动词原形表示未来的计划或打算。"
+    }
+  ],
+  "knowledge": null
+}

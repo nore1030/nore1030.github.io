@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1up-u8-kp8",
+  "title": "反义词",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 7,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词",
+      "question": "“上”的反义词是“下”，“大”的反义词是（）。",
+      "options": [],
+      "answer": "小",
+      "explanation": "大与小是一对基础的反义词。"
+    }
+  ],
+  "knowledge": null
+}

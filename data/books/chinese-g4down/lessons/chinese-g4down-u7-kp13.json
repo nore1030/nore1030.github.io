@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp13",
+  "title": "古诗名句积累",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句积累",
+      "question": "“寒雨连江夜入吴，平明送客楚山孤”中，“平明”的意思是：",
+      "options": [
+        "平常",
+        "黎明",
+        "明亮",
+        "中午"
+      ],
+      "answer": "黎明",
+      "explanation": "平明：天刚亮的时候。"
+    }
+  ],
+  "knowledge": null
+}

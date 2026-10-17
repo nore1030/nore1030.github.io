@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp19",
+  "title": "序数词",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "序数词",
+      "question": "January is the ___ month of a year.",
+      "options": [],
+      "answer": "first",
+      "explanation": "一月是一年中的第一个月。"
+    }
+  ],
+  "knowledge": null
+}

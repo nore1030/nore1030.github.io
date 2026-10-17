@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp25",
+  "title": "修辞手法",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法",
+      "question": "把下列词语排成一个通顺的比喻句。",
+      "options": [
+        "松果",
+        "像",
+        "降落伞",
+        "一个个"
+      ],
+      "answer": "一个个,松果,像,降落伞",
+      "explanation": "本题考查明喻句的结构：本体+像+喻体。"
+    }
+  ],
+  "knowledge": null
+}

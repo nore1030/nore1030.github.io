@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g8down-u3-kp2",
+  "title": "宾语从句",
+  "bookId": "english-renjiao-g8down",
+  "unitNumber": 3,
+  "unitTitle": "比较级与宾语从句",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "宾语从句",
+      "question": "Do you know where ___ ?",
+      "options": [
+        "does he live",
+        "he lives",
+        "lives he",
+        "is he living"
+      ],
+      "answer": "he lives",
+      "explanation": "从句用陈述语序。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "宾语从句",
+      "question": "宾语从句要用陈述语序。",
+      "options": [],
+      "answer": "对",
+      "explanation": "语序要点。"
+    }
+  ],
+  "knowledge": {
+    "point": "宾语从句",
+    "core_concept": "宾语从句必须用陈述语序，时态要呼应主句。引导词分 that（无义）、whether/if（是否）、特殊疑问词。",
+    "key_formula": "陈述语序 + 时态呼应",
+    "common_mistakes": [
+      "保留疑问句语序。"
+    ],
+    "tips": "从句用陈述语序。"
+  }
+}

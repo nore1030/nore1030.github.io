@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3down-u1-kp1",
+  "title": "问候与自我介绍",
+  "bookId": "english-hujiao-g3down",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 认识新朋友 / Making new friends",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "问候与自我介绍",
+      "question": "— How are you? — ___",
+      "options": [
+        "I'm fine, thank you.",
+        "I'm Tom.",
+        "I'm eight.",
+        "He's my friend."
+      ],
+      "answer": "I'm fine, thank you.",
+      "explanation": "问候后问状态。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "问候与自我介绍",
+      "question": "My name is… 用于自我介绍姓名。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍姓名。"
+    }
+  ],
+  "knowledge": {
+    "point": "问候与自我介绍",
+    "core_concept": "沪教版 Module 1 围绕认识新朋友展开。How are you? — I'm fine, thank you. What's your name? — My name is…",
+    "key_formula": "How are you? — I'm fine.",
+    "common_mistakes": [
+      "把 Good night 当问候语。"
+    ],
+    "tips": "问候按时段。"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "science-g1down-u2-kp13",
+  "title": "鱼的结构",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 6,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鱼的结构",
+      "question": "鱼在水里游动主要依靠身体的哪个部位？",
+      "options": [
+        "鳃盖",
+        "鱼鳞",
+        "鱼鳍",
+        "鱼嘴"
+      ],
+      "answer": "鱼鳍",
+      "explanation": "鱼鳍（包括背鳍、胸鳍、腹鳍、臀鳍和尾鳍）是鱼的运动器官。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鱼的结构",
+      "question": "鱼呼吸时，水从哪里流进去？",
+      "options": [
+        "从鳃盖进去",
+        "从嘴里进去",
+        "从眼睛进去",
+        "从尾巴进去"
+      ],
+      "answer": "从嘴里进去",
+      "explanation": "鱼呼吸时，水从口中进入，经过鳃部后由鳃盖排出。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鱼的结构",
+      "question": "金鱼用来呼吸的器官是（___）。",
+      "options": [],
+      "answer": "鳃",
+      "explanation": "鳃是鱼类特有的呼吸器官，可以过滤溶解在水中的氧气。"
+    }
+  ],
+  "knowledge": null
+}

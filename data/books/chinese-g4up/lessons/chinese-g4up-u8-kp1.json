@@ -1,0 +1,122 @@
+{
+  "id": "chinese-g4up-u8-kp1",
+  "title": "文言文疏通与智慧领悟",
+  "bookId": "chinese-g4up",
+  "unitNumber": 8,
+  "unitTitle": "历史故事与人生启示",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "《王戎不取道旁李》中，“诸儿竞走取之”的“走”是指走路的意思。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在古文中，“走”通常指跑。这里指孩子们竞争着跑过去抢李子。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "王戎认定李子是苦的，是因为他先尝了一个才告诉大家的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "王戎是通过观察和逻辑推理判断出来的，并没有亲自尝。原文说“唯戎不动”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "王戎观察到：‘树在道边而多子，此必苦李。’他得出这个结论的依据是（）。",
+      "options": [
+        "他不爱吃李子",
+        "路人告诉他的",
+        "若是甜的一早被摘光了",
+        "这是他种的树"
+      ],
+      "answer": "若是甜的一早被摘光了",
+      "explanation": "如果李子是甜的，长在路边肯定早就被摘光了。树上结满果子说明李子很难吃。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "‘取之，信然。’这句话中‘信’的意思是（）。",
+      "options": [
+        "信任",
+        "书信",
+        "确实",
+        "信息"
+      ],
+      "answer": "确实",
+      "explanation": "“信然”在古文中是“确实如此”的意思。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "《王戎不取道旁李》中，‘唯戎不动’中的‘唯’字翻译成现代汉语是（___）。",
+      "options": [],
+      "answer": "只有",
+      "explanation": "唯在这里表示范围限定，指只有王戎一个人没有动身。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "请将文言文字词与其对应的现代汉语意思连线。",
+      "options": [
+        "尝",
+        "竞走",
+        "诸",
+        "李",
+        "争着跑",
+        "曾经",
+        "李子",
+        "众，多"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "尝：曾经；竞走：争相奔跑；诸：各个、众多；李：李子子实。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文疏通与智慧领悟",
+      "question": "这段话告诉了我们一个道理：请将词语排成通顺的句子。",
+      "options": [
+        "要",
+        "观察",
+        "善于",
+        "仔细"
+      ],
+      "answer": "要,善于,仔细,观察",
+      "explanation": "这是通过王戎故事学习到的核心逻辑和学习方法。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言文疏通与智慧领悟",
+    "core_concept": "本单元通过《王戎不取道旁李》，学习文言文的基本翻译技巧。核心在于掌握古今异义词（如“走”在古文中指“跑”）和代词“之”的指代对象。通过王戎观察树在路边而多果实推断果子必苦的逻辑，学习他在日常生活中勤于思考、不随大流、善于观察和冷静分析的优良品质。",
+    "key_formula": "注释辅助+情境联想=读懂古文意图",
+    "common_mistakes": [
+      "误认为‘竞走’是现代运动中的竞走项目",
+      "分不清‘之’到底是指代王戎还是李子"
+    ],
+    "tips": "朗读时注意停顿，如‘树/在道边/而多子’，并想象王戎站在路边的神态。"
+  }
+}

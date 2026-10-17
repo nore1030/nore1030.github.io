@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp15",
+  "title": "弹力限度",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "弹力限度",
+      "question": "如果挂两枚垫圈能让弹簧伸长2厘米，挂四枚垫圈（未超过限度）会伸长（___）。",
+      "options": [
+        "2厘米",
+        "4厘米",
+        "6厘米",
+        "8厘米"
+      ],
+      "answer": "4厘米",
+      "explanation": "在弹力限度内，物体的伸长量与受到的拉力成正比。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8up-u3-kp2",
+  "title": "议论文基本要素",
+  "bookId": "chinese-g8up",
+  "unitNumber": 3,
+  "unitTitle": "说明文与议论文",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "议论文基本要素",
+      "question": "作者提出的观点是（　）",
+      "options": [
+        "论点",
+        "论题",
+        "论据",
+        "结论"
+      ],
+      "answer": "论点",
+      "explanation": "论点是作者的观点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "议论文基本要素",
+      "question": "举例论证的作用是用具体事例证明观点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "举例论证作用。"
+    }
+  ],
+  "knowledge": {
+    "point": "议论文基本要素",
+    "core_concept": "议论文三要素是论点、论据、论证。论证方法有举例论证、道理论证、对比论证、比喻论证。",
+    "key_formula": "论点 + 论据 + 论证",
+    "common_mistakes": [
+      "把论题当成论点。"
+    ],
+    "tips": "论点是作者明确的观点。"
+  }
+}

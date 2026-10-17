@@ -1,0 +1,36 @@
+{
+  "id": "g11down-u1-kp3",
+  "title": "数列求和与递推",
+  "bookId": "g11down",
+  "unitNumber": 1,
+  "unitTitle": "数列",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数列求和与递推",
+      "question": "数列 $a_n=\\frac{1}{n(n+1)}$ 的前 $n$ 项和为（　）",
+      "options": [
+        "$\\frac{n}{n+1}$",
+        "$\\frac{1}{n+1}$",
+        "$\\frac{n+1}{n}$",
+        "$\\frac n{n+2}$"
+      ],
+      "answer": "$\\frac{n}{n+1}$",
+      "explanation": "裂项相消：$1-\\frac{1}{n+1}$。"
+    }
+  ],
+  "knowledge": {
+    "point": "数列求和与递推",
+    "core_concept": "常用方法：公式法、倒序相加（等差）、错位相减（等差×等比）、裂项相消。",
+    "key_formula": "$\\frac{1}{n(n+1)}=\\frac1n-\\frac{1}{n+1}$",
+    "common_mistakes": [
+      "裂项后忘记系数。"
+    ],
+    "tips": "裂项求和注意首尾剩余项。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g4up-u7-kp13",
+  "title": "课文理解",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 11,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文理解",
+      "question": "请连词成句，描述周恩来的志向：",
+      "options": [
+        "周恩来",
+        "为中华之崛起",
+        "从小",
+        "立下了",
+        "志向",
+        "的"
+      ],
+      "answer": "周恩来,从小,立下了,为中华之崛起,的,志向",
+      "explanation": "符合陈述句的主谓宾结构。"
+    }
+  ],
+  "knowledge": null
+}

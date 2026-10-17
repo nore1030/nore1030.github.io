@@ -1,0 +1,93 @@
+{
+  "id": "science-g6down-u4-kp1",
+  "title": "物理变化与化学变化的本质辨析",
+  "bookId": "science-g6down",
+  "unitNumber": 4,
+  "unitTitle": "物质的变化",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "蜡烛熔化过程中没有新物质生成。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蜡烛熔化只是由固态变为液态，状态改变，没有新物质产生，属于物理变化。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "铁锅生锈后，生锈的部分依然是铁。",
+      "options": [],
+      "answer": "错",
+      "explanation": "铁锈是一种不同于铁的新物质，具有不同的物理和化学性质。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "下列变化中，属于物理变化的是（）。",
+      "options": [
+        "火柴燃烧",
+        "剪碎纸片",
+        "米饭变馊",
+        "铁钉生锈"
+      ],
+      "answer": "剪碎纸片",
+      "explanation": "剪碎纸片只改变了纸的大小和形状，没有产生新物质。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "区分物理变化和化学变化的根本依据是（）。",
+      "options": [
+        "是否改变颜色",
+        "是否发光发热",
+        "是否产生新物质",
+        "是否由快变慢"
+      ],
+      "answer": "是否产生新物质",
+      "explanation": "化学变化的本质特征是有新物质生成。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "下列关于铁生锈的说法，正确的是（）。",
+      "options": [
+        "铁生锈只需要水",
+        "铁生锈只需要空气",
+        "水和空气共同作用",
+        "铁锈能导电"
+      ],
+      "answer": "水和空气共同作用",
+      "explanation": "铁在有水和空气（氧气）的环境下最容易生锈。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物理变化与化学变化的本质辨析",
+      "question": "物质发生化学变化时，往往伴随着（___）的产生。",
+      "options": [],
+      "answer": "新物质",
+      "explanation": "化学变化的唯一判据就是有无新物质生成。"
+    }
+  ],
+  "knowledge": null
+}

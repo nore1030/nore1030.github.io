@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp27",
+  "title": "生态系统概念",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生态系统概念",
+      "question": "植物在生态系统中充当的角色被称为（ ）。",
+      "options": [],
+      "answer": "生产者",
+      "explanation": "由于植物能制造有机物，因此被称为生产者。"
+    }
+  ],
+  "knowledge": null
+}

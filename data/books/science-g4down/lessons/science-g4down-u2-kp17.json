@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp17",
+  "title": "隐蔽连接推测",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "隐蔽连接推测",
+      "question": "用电路检测器检测接线盒，发现1-2两点能亮，说明内部（ ）。",
+      "options": [
+        "可能有导线连接",
+        "一定有电池",
+        "一定是断开的",
+        "有开关"
+      ],
+      "answer": "可能有导线连接",
+      "explanation": "通路状态代表两点间存在电流通过的路径。"
+    }
+  ],
+  "knowledge": null
+}

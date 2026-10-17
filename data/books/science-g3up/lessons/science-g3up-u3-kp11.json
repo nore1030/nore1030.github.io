@@ -1,0 +1,23 @@
+{
+  "id": "science-g3up-u3-kp11",
+  "title": "天气预报的制作",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "天气预报的制作",
+      "question": "现在气象员只依靠超级计算机就能发布准确的天气预报，不需要人工参与。",
+      "options": [],
+      "answer": "错",
+      "explanation": "天气预报需要经过人工集体会商后才会发布。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp6",
+  "title": "词语搭配",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "下列词语中，哪一个是形容声音的？",
+      "options": [
+        "绿油油",
+        "亮晶晶",
+        "哗啦啦",
+        "软绵绵"
+      ],
+      "answer": "哗啦啦",
+      "explanation": "“哗啦啦”形容水流声或下雨声。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u7-kp9",
+  "title": "古诗内容填空",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 8,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗内容填空",
+      "question": "不敢高声语，恐惊（___）中人。",
+      "options": [],
+      "answer": "天上",
+      "explanation": "出自《夜宿山寺》。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp21",
+  "title": "动词三单",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词三单",
+      "question": "Lily ______ (有) long hair.",
+      "options": [],
+      "answer": "has",
+      "explanation": "主语Lily为第三人称单数，用has。"
+    }
+  ],
+  "knowledge": null
+}

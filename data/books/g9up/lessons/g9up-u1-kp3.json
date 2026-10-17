@@ -1,0 +1,31 @@
+{
+  "id": "g9up-u1-kp3",
+  "title": "实际问题与一元二次方程",
+  "bookId": "g9up",
+  "unitNumber": 1,
+  "unitTitle": "一元二次方程",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "实际问题与一元二次方程",
+      "question": "某商品原价 100 元，连续两次降价相同百分率后为 81 元，每次降价率是多少（填小数，如 0.1）？",
+      "options": [],
+      "answer": "0.1",
+      "explanation": "$100(1-x)^2=81$，$(1-x)^2=0.81$，$1-x=0.9$，$x=0.1$。"
+    }
+  ],
+  "knowledge": {
+    "point": "实际问题与一元二次方程",
+    "core_concept": "常见模型：增长率 $a(1+x)^2=b$；面积问题；销售利润问题。",
+    "key_formula": "$a(1+x)^2=b$",
+    "common_mistakes": [
+      "增长率算成 $a(1+2x)$。"
+    ],
+    "tips": "两次增长是平方关系。"
+  }
+}

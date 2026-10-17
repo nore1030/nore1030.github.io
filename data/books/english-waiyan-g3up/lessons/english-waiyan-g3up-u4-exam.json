@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 4 I can jump 我能行",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动作词汇 jump / run / swim / fly",
+      "question": "「胜利者」的英文是（　）",
+      "options": [
+        "winner",
+        "win",
+        "winning",
+        "winer"
+      ],
+      "answer": "winner",
+      "explanation": "win + ner。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 can / can't",
+      "question": "can't 是 cannot 的缩写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "can't = cannot。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 can / can't",
+      "question": "小鸟不会飞，应说（　）",
+      "options": [
+        "The bird can't fly.",
+        "The bird can fly.",
+        "The bird can't flies.",
+        "The bird don't fly."
+      ],
+      "answer": "The bird can't fly.",
+      "explanation": "否定 + 原形。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动作词汇 jump / run / swim / fly",
+      "question": "「我游得很好」的英文是（　）",
+      "options": [
+        "I can swim well.",
+        "I can swim good.",
+        "I can swims well.",
+        "I can to swim well."
+      ],
+      "answer": "I can swim well.",
+      "explanation": "副词 well 修饰动词。"
+    }
+  ],
+  "knowledge": null
+}

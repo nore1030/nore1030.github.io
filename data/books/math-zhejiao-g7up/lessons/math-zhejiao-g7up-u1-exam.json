@@ -1,0 +1,66 @@
+{
+  "id": "math-zhejiao-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第1章 有理数",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "从自然数到有理数",
+      "question": "下列说法正确的是（　）",
+      "options": [
+        "整数和分数统称有理数",
+        "0 是正有理数",
+        "负数都是分数",
+        "有理数不含 0"
+      ],
+      "answer": "整数和分数统称有理数",
+      "explanation": "有理数定义。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数轴",
+      "question": "数轴的三要素是（　）",
+      "options": [
+        "原点、正方向、单位长度",
+        "原点、正负、长度",
+        "方向、长度、数字",
+        "原点、方向、数字"
+      ],
+      "answer": "原点、正方向、单位长度",
+      "explanation": "三要素缺一不可。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "绝对值与有理数大小比较",
+      "question": "绝对值等于本身的数是非负数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$|a|=a$ 当 $a\\ge0$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "绝对值与有理数大小比较",
+      "question": "$|0|=$ ___。",
+      "options": [],
+      "answer": "0",
+      "explanation": "0 的绝对值是 0。"
+    }
+  ],
+  "knowledge": null
+}

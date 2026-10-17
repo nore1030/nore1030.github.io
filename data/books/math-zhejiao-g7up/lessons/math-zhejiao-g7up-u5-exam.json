@@ -1,0 +1,61 @@
+{
+  "id": "math-zhejiao-g7up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 5,
+  "unitTitle": "第5章 一元一次方程",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识方程与等式的性质",
+      "question": "若 $2x^m+1=0$ 是一元一次方程，$m=$（　）",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "-1"
+      ],
+      "answer": "1",
+      "explanation": "次数为 1，故 $m=1$。"
+    },
+    {
+      "id": 8,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "解方程 $5x=20$，$x=$ ___",
+      "options": [],
+      "answer": "4",
+      "explanation": "$x=4$。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "一元一次方程的应用",
+      "question": "长方形长比宽多 3 cm，周长 26 cm，宽是多少 cm？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$2(x+x+3)=26$，$x=5$。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "移项时要注意变号。",
+      "options": [],
+      "answer": "对",
+      "explanation": "移项变号。"
+    }
+  ],
+  "knowledge": null
+}

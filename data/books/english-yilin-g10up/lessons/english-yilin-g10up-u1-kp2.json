@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g10up-u1-kp2",
+  "title": "主旨大意与细节",
+  "bookId": "english-yilin-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Extended reading 与牛津版块学习法",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "主旨大意与细节",
+      "question": "做主旨大意题应重点关注（　）",
+      "options": [
+        "首尾句与段落中心句",
+        "生词数量",
+        "文章长度",
+        "标题字体"
+      ],
+      "answer": "首尾句与段落中心句",
+      "explanation": "抓主旨。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "主旨大意与细节",
+      "question": "做细节题必须回原文定位，不能主观臆断。",
+      "options": [],
+      "answer": "对",
+      "explanation": "以原文为据。"
+    }
+  ],
+  "knowledge": {
+    "point": "主旨大意与细节",
+    "core_concept": "主旨题看首尾句与段落中心句；细节题回原文定位，不主观臆断。",
+    "key_formula": "首尾句 + 中心句",
+    "common_mistakes": [
+      "用常识替代原文。"
+    ],
+    "tips": "一切以原文为据。"
+  }
+}

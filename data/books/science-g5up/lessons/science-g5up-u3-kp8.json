@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u3-kp8",
+  "title": "自然界的周期性",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 6,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自然界的周期性",
+      "question": "下列哪种现象可以作为计算一年的标准？",
+      "options": [
+        "潮汐的变化",
+        "四季的循环",
+        "日影的长短",
+        "月相的变化"
+      ],
+      "answer": "四季的循环",
+      "explanation": "公转导致四季循环，属于一年的周期特征。"
+    }
+  ],
+  "knowledge": null
+}

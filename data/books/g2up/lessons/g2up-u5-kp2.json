@@ -1,0 +1,194 @@
+{
+  "id": "g2up-u5-kp2",
+  "title": "观察立体图形",
+  "bookId": "g2up",
+  "unitNumber": 5,
+  "unitTitle": "观察物体（一）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "我们在任意位置观察一个正方体，最多可以看到它的 4 个面。",
+      "options": [],
+      "answer": "错",
+      "explanation": "观察规律：站在一个位置观察一个正方体，最多能看到它的3个面（即正面、侧面和上面）。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "从正面观察一个球体，看到的形状是一个圆。",
+      "options": [],
+      "answer": "对",
+      "explanation": "球体的特性：球体从任何方向看过去都是圆形的。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "观察立体图形",
+      "question": "如果从正面看到一个物体的形状是正方形，那么这个物体一定是正方体。",
+      "options": [],
+      "answer": "错",
+      "explanation": "反例推导：长方体的一端如果是正方形，从正面看也是正方形，所以不一定是正方体。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "从上面观察一个长方体（不含正方形面），看到的形状是：",
+      "options": [
+        "圆形",
+        "长方形",
+        "正方形",
+        "三角形"
+      ],
+      "answer": "长方形",
+      "explanation": "长方体的上面、正面、侧面通常都是长方形。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "哪种物体的每一个面看起来都是完全相同的正方形？",
+      "options": [
+        "长方体",
+        "圆柱",
+        "正方体",
+        "球"
+      ],
+      "answer": "正方体",
+      "explanation": "正方体的特征是 6 个面都是完全相同的正方形。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "从正面观察一个竖着的圆柱，看到的形状是：",
+      "options": [
+        "圆形",
+        "正方形",
+        "长方形",
+        "椭圆"
+      ],
+      "answer": "长方形",
+      "explanation": "竖放的圆柱从正面或侧面看都是长方形，从上面看才是圆形。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "从上面观察一本书（横放在桌上），看到的形状是：",
+      "options": [
+        "长方形",
+        "正方形",
+        "厚度",
+        "无法确定"
+      ],
+      "answer": "长方形",
+      "explanation": "书的封面和底面通常是长方形的。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "正方体有几个面？",
+      "options": [
+        "4个",
+        "6个",
+        "8个",
+        "12个"
+      ],
+      "answer": "6个",
+      "explanation": "正方体由6个完全一样的正方形组成。验算：上、下、前、后、左、右各一个，共6个。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察立体图形",
+      "question": "把两个完全一样的正方体拼成一个长方体，拼成的长方体有几个面？",
+      "options": [
+        "6个",
+        "10个",
+        "12个",
+        "8个"
+      ],
+      "answer": "6个",
+      "explanation": "虽然是两个正方体拼成的，但形成的新物体仍然是一个长方体，长方体固定有6个面。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "正方体有 ___ 个面，这些面的形状完全相同。",
+      "options": [],
+      "answer": "6",
+      "explanation": "知识点直接应用：正方体共有6个面。验算：上下面2个，前后面2个，左右面2个，2+2+2=6。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察立体图形",
+      "question": "从正面看一个长方体，看到了一个长方形；从侧面看，也看到了一个长方形。这个长方体至少有 ___ 个面是长方形。",
+      "options": [],
+      "answer": "4",
+      "explanation": "长方体的成对特性：正面看到长方形，背面也一定是；侧面看到长方形，另一侧也一定是。$2 + 2 = 4$。验算：最少情况是两端是正方形，四周4个长方形。✓"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "计算：$3 \times 2 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$3 \times 2 = 6$。验算：$2+2+2 = 6$。本题对应正方体3个面可见，若两个正方体合起来数可见面的趣味计算。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察立体图形",
+      "question": "计算：$12 - 6 = ?$",
+      "options": [],
+      "answer": "6",
+      "explanation": "$12 - 6 = 6$。验算：$6 + 6 = 12$。对应正方体棱的数目减去面的数目的算理。"
+    }
+  ],
+  "knowledge": {
+    "point": "观察立体图形",
+    "core_concept": "对于简单的立体图形（长方体、正方体、圆柱、球），从不同方向看到的形状具有特定规律。例如，正方体任何面都是正方形；圆柱从上面看是圆，从正面看通常是长方形。",
+    "key_formula": "球：各方向都是圆；正方体：各方向都是正方形",
+    "common_mistakes": [
+      "错误认为长方体从各个面看都是长方形（忽略可能存在正方形面的情况）",
+      "将圆柱的侧面看成圆形"
+    ],
+    "tips": "记住‘三看’口诀：一看正面，二看侧面，三看上面，立体形状全呈现。"
+  }
+}

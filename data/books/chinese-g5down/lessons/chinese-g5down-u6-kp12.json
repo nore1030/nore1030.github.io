@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u6-kp12",
+  "title": "成语积累",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 11,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "成语积累",
+      "question": "请将成语与其相关的思维特点连接起来：",
+      "options": [
+        "自相矛盾",
+        "胸有成竹",
+        "急中生智",
+        "老谋深算",
+        "逻辑混乱",
+        "很有把握",
+        "瞬间反应",
+        "深思熟虑"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "自相矛盾指逻辑前后不一，胸有成竹指有把握，急中生智指瞬间决断，老谋深算指考虑深远。"
+    }
+  ],
+  "knowledge": null
+}

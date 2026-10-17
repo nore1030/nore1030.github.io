@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp15",
+  "title": "风的侵蚀作用",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风的侵蚀作用",
+      "question": "戈壁滩上随处可见的磨圆度很差的碎石主要是由（ ）形成的。",
+      "options": [
+        "雨水冲刷",
+        "火山爆发",
+        "风力的侵蚀与搬运",
+        "冰川融化"
+      ],
+      "answer": "风力的侵蚀与搬运",
+      "explanation": "由于风的吹蚀和磨蚀，岩石发生物理碎裂并留在当地或短途转运。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp9",
+  "title": "人称代词与be动词匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人称代词与be动词匹配",
+      "question": "What ______ you going to do this evening?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "explanation": "主语是you，be动词应用are。"
+    }
+  ],
+  "knowledge": null
+}

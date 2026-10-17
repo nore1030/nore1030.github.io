@@ -1,0 +1,42 @@
+{
+  "id": "math-beishida-g7up-u4-kp3",
+  "title": "角的比较与运算",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 4,
+  "unitTitle": "第四章 基本平面图形",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "角的比较与运算",
+      "question": "一个角为 35°，它的余角是多少度？",
+      "options": [],
+      "answer": "55",
+      "explanation": "$90°-35°=55°$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "角的比较与运算",
+      "question": "一个角为 110°，它的补角是多少度？",
+      "options": [],
+      "answer": "70",
+      "explanation": "$180°-110°=70°$。"
+    }
+  ],
+  "knowledge": {
+    "point": "角的比较与运算",
+    "core_concept": "角的大小与边的长短无关，与张口大小有关；余角和为 90°，补角和为 180°。",
+    "key_formula": "余角之和 = 90°，补角之和 = 180°",
+    "common_mistakes": [
+      "余角与补角混淆。"
+    ],
+    "tips": "余 90 补 180。"
+  }
+}

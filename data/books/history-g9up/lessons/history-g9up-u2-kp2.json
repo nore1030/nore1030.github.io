@@ -1,0 +1,47 @@
+{
+  "id": "history-g9up-u2-kp2",
+  "title": "革命道路的探索",
+  "bookId": "history-g9up",
+  "unitNumber": 2,
+  "unitTitle": "近代社会与革命道路",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "革命道路的探索",
+      "question": "新文化运动高举的旗帜是（　）",
+      "options": [
+        "民主与科学",
+        "自强与求富",
+        "实业救国",
+        "君权神授"
+      ],
+      "answer": "民主与科学",
+      "explanation": "民主科学旗帜。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "革命道路的探索",
+      "question": "中国共产党领导的新民主主义革命取得基本胜利。",
+      "options": [],
+      "answer": "对",
+      "explanation": "新民主主义革命。"
+    }
+  ],
+  "knowledge": {
+    "point": "革命道路的探索",
+    "core_concept": "太平天国、洋务、戊戌变法、辛亥革命、新文化运动、共产党领导的新民主主义革命，构成中国近代化的层层探索。",
+    "key_formula": "器物 → 制度 → 思想 → 革命道路",
+    "common_mistakes": [
+      "把探索顺序记反。"
+    ],
+    "tips": "层层递进。"
+  }
+}

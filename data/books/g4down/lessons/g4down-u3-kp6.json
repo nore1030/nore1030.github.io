@@ -1,0 +1,28 @@
+{
+  "id": "g4down-u3-kp6",
+  "title": "乘法结合律",
+  "bookId": "g4down",
+  "unitNumber": 3,
+  "unitTitle": "运算定律",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法结合律",
+      "question": "一个影院有 25 排，每排有 4 个大区，每个大区有 18 个座位。影院一共有多少个座位？",
+      "options": [
+        "1600",
+        "1800",
+        "2000",
+        "1500"
+      ],
+      "answer": "1800",
+      "explanation": "$25 \\times 18 \\times 4 = (25 \\times 4) \\times 18 = 100 \\times 18 = 1800$。"
+    }
+  ],
+  "knowledge": null
+}

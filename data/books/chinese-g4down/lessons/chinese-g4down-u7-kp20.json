@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp20",
+  "title": "文学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《“诺曼底号”遇难记》中，轮船相撞是因为海面上起了大（ ）。",
+      "options": [],
+      "answer": "雾",
+      "explanation": "事故的起因是“阴惨惨的薄雾”。"
+    }
+  ],
+  "knowledge": null
+}

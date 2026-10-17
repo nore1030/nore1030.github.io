@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 Teenage Life 青少年生活",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "高中生活词汇 freshman / club / challenge",
+      "question": "「选课」的英文是（　）",
+      "options": [
+        "choose courses",
+        "choose course",
+        "chose courses",
+        "choosing courses"
+      ],
+      "answer": "choose courses",
+      "explanation": "choose 选择。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "提建议句型",
+      "question": "「给我一些建议」的英文是（　）",
+      "options": [
+        "give me some advice",
+        "give me an advice",
+        "give me advices",
+        "give some advice to mine"
+      ],
+      "answer": "give me some advice",
+      "explanation": "不可数用 some。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "提建议句型",
+      "question": "advise 是动词，advice 是名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "词性不同。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "高中生活词汇 freshman / club / challenge",
+      "question": "freshman 的复数是（　）",
+      "options": [
+        "freshmen",
+        "freshmans",
+        "freshmenes",
+        "freshmansion"
+      ],
+      "answer": "freshmen",
+      "explanation": "不规则复数。"
+    }
+  ],
+  "knowledge": null
+}

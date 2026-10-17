@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g7up-u1-kp1",
+  "title": "记叙文的要素与线索",
+  "bookId": "chinese-g7up",
+  "unitNumber": 1,
+  "unitTitle": "记叙文阅读",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记叙文的要素与线索",
+      "question": "记叙文六要素不包括（　）",
+      "options": [
+        "时间",
+        "地点",
+        "议论",
+        "结果"
+      ],
+      "answer": "议论",
+      "explanation": "议论是表达方式，不是要素。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记叙文的要素与线索",
+      "question": "记叙文的线索可以是一件物品。",
+      "options": [],
+      "answer": "对",
+      "explanation": "以物为线索很常见。"
+    }
+  ],
+  "knowledge": {
+    "point": "记叙文的要素与线索",
+    "core_concept": "记叙文六要素为时间、地点、人物、事件的起因、经过、结果。线索可以是人、事、物、情，起贯穿全文的作用。",
+    "key_formula": "记叙六要素",
+    "common_mistakes": [
+      "把“结果”漏写。"
+    ],
+    "tips": "答六要素要完整。"
+  }
+}

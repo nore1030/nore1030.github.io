@@ -1,0 +1,133 @@
+{
+  "id": "chinese-g6down-u6-kp1",
+  "title": "资料搜集与分类整理",
+  "bookId": "chinese-g6down",
+  "unitNumber": 6,
+  "unitTitle": "难忘小学生活",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "制作成长纪念册时，我们可以按照时间顺序来编排资料。",
+      "options": [],
+      "answer": "对",
+      "explanation": "成长纪念册常见的编排方式包括编年体（时间顺序）和栏目式。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "“编年体”是指按照人物的性格特点来整理资料的方法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "编年体是按照年份（时间）先后顺序来纪录事实的体裁。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "“六年时光，犹如白驹过隙。”句子中“白驹过隙”的意思是：",
+      "options": [
+        "像白色的小马",
+        "形容风景优美",
+        "形容时间过得极快",
+        "事情发生得突然"
+      ],
+      "answer": "形容时间过得极快",
+      "explanation": "白驹过隙比喻时间过得很快，契合小学毕业的时间感慨。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "在制作纪念册时，如果要把获得的奖状放在一起，适合的栏目名是：",
+      "options": [
+        "师恩难忘",
+        "多彩生活",
+        "收获硕果",
+        "友谊长青"
+      ],
+      "answer": "收获硕果",
+      "explanation": "奖状代表了学习或竞赛的成绩，用“收获硕果”最为贴切。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "下列最适合作为“难忘小学生活”主题曲的是：",
+      "options": [
+        "《歌唱祖国》",
+        "《送别》",
+        "《春天在哪里》",
+        "《运动员进行曲》"
+      ],
+      "answer": "《送别》",
+      "explanation": "《送别》曲调依依不舍，内容契合毕业离别的情感。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "成长纪念册中，我们可以用（___）线这种工具来展示每年的大事件。",
+      "options": [],
+      "answer": "时间",
+      "explanation": "时间线是梳理成长素材最直观的方法。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "请将纪念册中的“栏目”与对应的“内容”连线。",
+      "options": [
+        "温情瞬间",
+        "我的足迹",
+        "恩师难忘",
+        "未来展望",
+        "一张老照片",
+        "小学成绩单",
+        "老师的评语",
+        "中学的理想"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "温情瞬间对应照片，我的足迹对应成绩记录，恩师难忘对应评语，展望对应理想。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "资料搜集与分类整理",
+      "question": "将描写时间的词语与其表达的意思对应。 ",
+      "options": [
+        "转瞬即逝",
+        "历历在目",
+        "朝夕相处",
+        "志同道合",
+        "天天在一起",
+        "过得极快",
+        "清晰在眼前",
+        "理想一致"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "考查对毕业主题高频四字词语的理解。"
+    }
+  ],
+  "knowledge": null
+}

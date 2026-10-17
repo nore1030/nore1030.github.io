@@ -1,0 +1,23 @@
+{
+  "id": "science-g1up-u2-kp24",
+  "title": "观察态度",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察态度",
+      "question": "我们在观察植物时，要做到不伤害（___）。",
+      "options": [],
+      "answer": "生命",
+      "explanation": "科学观察的基础是尊重和爱护每一个生命。"
+    }
+  ],
+  "knowledge": null
+}

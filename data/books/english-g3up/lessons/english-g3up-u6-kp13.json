@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp13",
+  "title": "词汇理解",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇理解",
+      "question": "Sarah, this is my brother, Sam.",
+      "options": [
+        "Happy birthday!",
+        "Great!",
+        "Nice to meet you.",
+        "I'm six."
+      ],
+      "answer": "Nice to meet you.",
+      "explanation": "初次见面或是被介绍认识时常用Nice to meet you。"
+    }
+  ],
+  "knowledge": null
+}

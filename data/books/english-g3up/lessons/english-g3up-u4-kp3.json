@@ -1,0 +1,50 @@
+{
+  "id": "english-g3up-u4-kp3",
+  "title": "字母Jj至Nn的音形辨析",
+  "bookId": "english-g3up",
+  "unitNumber": 4,
+  "unitTitle": "We love animals",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母Jj至Nn的音形辨析",
+      "question": "字母 'L' 的小写形式是字母 'i' 。",
+      "options": [],
+      "answer": "错",
+      "explanation": "L的小写是l，不是i。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字母Jj至Nn的音形辨析",
+      "question": "字母K之后的一个字母是：",
+      "options": [
+        "L",
+        "J",
+        "M",
+        "N"
+      ],
+      "answer": "L",
+      "explanation": "字母表顺序 J K L M N。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母Jj至Nn的音形辨析",
+      "question": "字母 L 的下一个字母是 ___。",
+      "options": [],
+      "answer": "m",
+      "explanation": "字母顺序为L, M。"
+    }
+  ],
+  "knowledge": null
+}

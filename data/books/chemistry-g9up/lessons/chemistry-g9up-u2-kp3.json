@@ -1,0 +1,42 @@
+{
+  "id": "chemistry-g9up-u2-kp3",
+  "title": "化学式与化合价",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 2,
+  "unitTitle": "物质构成的奥秘",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "化学式与化合价",
+      "question": "在 $\\text{H}_2\\text{O}$ 中氢元素的化合价是多少？（填 +1 或 -1）",
+      "options": [],
+      "answer": "+1",
+      "explanation": "氢通常为 +1 价。"
+    },
+    {
+      "id": 6,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学式与化合价",
+      "question": "二氧化碳的化学式是 ___。",
+      "options": [],
+      "answer": "CO2",
+      "explanation": "碳 +4 价，氧 -2 价，写作 $\\text{CO}_2$。"
+    }
+  ],
+  "knowledge": {
+    "point": "化学式与化合价",
+    "core_concept": "化合物中各元素化合价的代数和为零。化合物化学式书写时正价元素在左、负价元素在右，并交叉配平。",
+    "key_formula": "化合价代数和 = 0",
+    "common_mistakes": [
+      "单质化合价写错（单质为 0）。"
+    ],
+    "tips": "先定化合价再交叉写。"
+  }
+}

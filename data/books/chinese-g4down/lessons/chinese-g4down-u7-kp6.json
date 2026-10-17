@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp6",
+  "title": "文本理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文本理解",
+      "question": "《“诺曼底号”遇难记》的作者是法国著名作家雨果。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《“诺曼底号”遇难记》是维克多·雨果的名篇。"
+    }
+  ],
+  "knowledge": null
+}

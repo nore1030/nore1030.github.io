@@ -1,0 +1,66 @@
+{
+  "id": "history-g9down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "history-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与国际格局",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "二战后世界格局的变化",
+      "question": "两极格局结束后，世界发展的趋势是（　）",
+      "options": [
+        "多极化",
+        "单极化终结",
+        "全球化结束",
+        "回到冷战"
+      ],
+      "answer": "多极化",
+      "explanation": "多极化趋势。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "经济全球化与挑战",
+      "question": "经济全球化带来的主要挑战是（　）",
+      "options": [
+        "发展中国家处于劣势、风险增多",
+        "没有任何挑战",
+        "只对发达国家有利无对发展中国家",
+        "导致完全失业"
+      ],
+      "answer": "发展中国家处于劣势、风险增多",
+      "explanation": "全球化有挑战。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "二战后世界格局的变化",
+      "question": "和平与发展是当今时代的主题。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时代主题。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "经济全球化与挑战",
+      "question": "中国加入世界贸易组织促进了经济发展。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加入WTO促发展。"
+    }
+  ],
+  "knowledge": null
+}

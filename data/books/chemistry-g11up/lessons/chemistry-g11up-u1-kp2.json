@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g11up-u1-kp2",
+  "title": "反应速率与限度",
+  "bookId": "chemistry-g11up",
+  "unitNumber": 1,
+  "unitTitle": "化学反应原理",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "反应速率与限度",
+      "question": "催化剂对化学平衡的影响是（　）",
+      "options": [
+        "不改变平衡，只改变反应速率",
+        "使平衡正向移动",
+        "使平衡逆向移动",
+        "使平衡转化率升高"
+      ],
+      "answer": "不改变平衡，只改变反应速率",
+      "explanation": "不改平衡。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "反应速率与限度",
+      "question": "升高温度一般能加快化学反应速率。",
+      "options": [],
+      "answer": "对",
+      "explanation": "升温提速。"
+    }
+  ],
+  "knowledge": {
+    "point": "反应速率与限度",
+    "core_concept": "浓度、温度、压强、催化剂影响反应速率。可逆反应存在限度，转化率与平衡常数描述反应进行程度。",
+    "key_formula": "催化剂改变速率不改变限度",
+    "common_mistakes": [
+      "认为催化剂使平衡移动。"
+    ],
+    "tips": "催化剂不改平衡。"
+  }
+}

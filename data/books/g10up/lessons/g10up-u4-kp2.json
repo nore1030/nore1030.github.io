@@ -1,0 +1,53 @@
+{
+  "id": "g10up-u4-kp2",
+  "title": "对数与对数函数",
+  "bookId": "g10up",
+  "unitNumber": 4,
+  "unitTitle": "指数函数与对数函数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "对数与对数函数",
+      "question": "计算 $\\log_28=$ ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$2^3=8$。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "对数与对数函数",
+      "question": "计算 $\\log_381=$ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$3^4=81$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "对数与对数函数",
+      "question": "$\\log_a(M+N)=\\log_aM+\\log_aN$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "对数不能拆加法。"
+    }
+  ],
+  "knowledge": {
+    "point": "对数与对数函数",
+    "core_concept": "$\\log_a(MN)=\\log_aM+\\log_aN$，$\\log_a\\frac MN=\\log_aM-\\log_aN$，$\\log_aM^n=n\\log_aM$。对数函数 $y=\\log_ax$ 过定点 $(1,0)$。",
+    "key_formula": "$\\log_a a=1$，$\\log_a1=0$",
+    "common_mistakes": [
+      "把 $\\log(M+N)$ 拆开。"
+    ],
+    "tips": "只有乘除能拆。"
+  }
+}

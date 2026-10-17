@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp19",
+  "title": "环境需求",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "环境需求",
+      "question": "在缺水的沙漠里，仙人掌的叶退化成刺，这是为了（）。",
+      "options": [
+        "吸收水分",
+        "减少水分蒸腾",
+        "进行光合作用",
+        "防御敌人"
+      ],
+      "answer": "减少水分蒸腾",
+      "explanation": "缩小表面积可以有效减少体内水分通过叶片蒸发。"
+    }
+  ],
+  "knowledge": null
+}

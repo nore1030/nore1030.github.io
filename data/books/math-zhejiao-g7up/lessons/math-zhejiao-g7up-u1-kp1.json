@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g7up-u1-kp1",
+  "title": "从自然数到有理数",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第1章 有理数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从自然数到有理数",
+      "question": "下列各数中属于有理数的是（　）",
+      "options": [
+        "$-3$",
+        "$\\pi$",
+        "$\\sqrt2$",
+        "无限不循环小数"
+      ],
+      "answer": "$-3$",
+      "explanation": "$-3$ 是负整数，属于有理数。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "从自然数到有理数",
+      "question": "0 是正数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "0 既不是正数也不是负数。"
+    }
+  ],
+  "knowledge": {
+    "point": "从自然数到有理数",
+    "core_concept": "整数和分数统称有理数。有理数可按正负分类：正有理数、0、负有理数。",
+    "key_formula": "整数 + 分数 = 有理数",
+    "common_mistakes": [
+      "认为 0 是正数或负数。"
+    ],
+    "tips": "0 既不是正数也不是负数。"
+  }
+}

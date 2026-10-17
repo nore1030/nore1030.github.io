@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u2-kp6",
+  "title": "语法规则",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语法规则",
+      "question": "在英国，人们过马路时靠右侧走。",
+      "options": [],
+      "answer": "错",
+      "explanation": "In the UK, people drive/walk on the left side (左侧)。"
+    }
+  ],
+  "knowledge": null
+}

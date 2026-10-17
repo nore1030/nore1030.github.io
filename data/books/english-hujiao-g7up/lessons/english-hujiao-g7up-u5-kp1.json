@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g7up-u5-kp1",
+  "title": "太空词汇 moon / space / rocket / astronaut",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 5,
+  "unitTitle": "Module 3 Travels — Visiting the moon 探月",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+      "question": "「宇航员」的英文是（　）",
+      "options": [
+        "astronaut",
+        "astronout",
+        "astronaunt",
+        "astranaut"
+      ],
+      "answer": "astronaut",
+      "explanation": "astronaut 宇航员。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+      "question": "「火箭」的英文是（　）",
+      "options": [
+        "rocket",
+        "rockket",
+        "roket",
+        "rockets"
+      ],
+      "answer": "rocket",
+      "explanation": "rocket 火箭。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+      "question": "moon 的意思是「月亮」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "moon 月亮。"
+    }
+  ],
+  "knowledge": {
+    "point": "太空词汇 moon / space / rocket / astronaut",
+    "core_concept": "moon 月亮、space 太空、rocket 火箭、astronaut 宇航员、spaceship 宇宙飞船。",
+    "key_formula": "land on the moon 登上月球",
+    "common_mistakes": [
+      "spacecraft 与 spaceship 混淆。"
+    ],
+    "tips": "spaceship 更常用。"
+  }
+}

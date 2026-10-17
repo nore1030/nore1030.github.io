@@ -1,0 +1,36 @@
+{
+  "id": "politics-g10up-u1-kp2",
+  "title": "只有社会主义才能救中国",
+  "bookId": "politics-g10up",
+  "unitNumber": 1,
+  "unitTitle": "中国特色社会主义的开创与发展",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "只有社会主义才能救中国",
+      "question": "我国确立社会主义制度的时间是（　）",
+      "options": [
+        "1949 年",
+        "1956 年",
+        "1978 年",
+        "2012 年"
+      ],
+      "answer": "1956 年",
+      "explanation": "1956 年完成社会主义改造。"
+    }
+  ],
+  "knowledge": {
+    "point": "只有社会主义才能救中国",
+    "core_concept": "近代以来中国尝试多种道路均告失败。中国共产党成立后，经过新民主主义革命，1949 年建立新中国，1956 年完成社会主义改造，确立社会主义制度。",
+    "key_formula": "新民主主义革命 → 社会主义革命",
+    "common_mistakes": [
+      "忽略社会主义改造的完成时间。"
+    ],
+    "tips": "1956 年确立社会主义制度。"
+  }
+}

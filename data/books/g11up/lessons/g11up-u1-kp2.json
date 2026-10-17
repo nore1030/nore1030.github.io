@@ -1,0 +1,53 @@
+{
+  "id": "g11up-u1-kp2",
+  "title": "圆的方程",
+  "bookId": "g11up",
+  "unitNumber": 1,
+  "unitTitle": "直线和圆的方程",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆的方程",
+      "question": "圆 $(x-1)^2+(y+2)^2=9$ 的半径是多少？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$r^2=9$，$r=3$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "圆的方程",
+      "question": "圆心为 $(1,-2)$、半径为 3 的圆的标准方程是 $(x-1)^2+(y+2)^2=9$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标准方程形式。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆的方程",
+      "question": "圆 $x^2+y^2=25$ 的圆心到直线 $y=x$ 的距离是多少（填最简根式形式或数字）？",
+      "options": [],
+      "answer": "0",
+      "explanation": "圆心为原点，在直线 $y=x$ 上，距离为 0。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆的方程",
+    "core_concept": "标准方程 $(x-a)^2+(y-b)^2=r^2$，圆心 $(a,b)$、半径 $r$。一般方程 $x^2+y^2+Dx+Ey+F=0$ 需 $D^2+E^2-4F>0$。",
+    "key_formula": "$(x-a)^2+(y-b)^2=r^2$",
+    "common_mistakes": [
+      "配方时符号出错。"
+    ],
+    "tips": "配方求圆心半径。"
+  }
+}

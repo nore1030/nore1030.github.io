@@ -1,0 +1,96 @@
+{
+  "id": "g4up-u3-kp2",
+  "title": "角的认识与度量",
+  "bookId": "g4up",
+  "unitNumber": 3,
+  "unitTitle": "角的度量",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "角的认识与度量",
+      "question": "角的大小与两边的长度有关，边越长角越大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "角的大小由张开幅度决定，与边的长短无关。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的认识与度量",
+      "question": "从一点引出两条射线所组成的图形叫做什么？",
+      "options": [
+        "线段",
+        "直线",
+        "角",
+        "度"
+      ],
+      "answer": "角",
+      "explanation": "这是角的标准定义。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的认识与度量",
+      "question": "测量角的大小的工具是哪个？",
+      "options": [
+        "直尺",
+        "三角尺",
+        "圆规",
+        "量角器"
+      ],
+      "answer": "量角器",
+      "explanation": "量角器是专业的角长度度量工具。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的认识与度量",
+      "question": "量角时，量角器的中心要与角的什么重合？",
+      "options": [
+        "顶点",
+        "一条边",
+        "另一条边",
+        "内部"
+      ],
+      "answer": "顶点",
+      "explanation": "量角器的中心点必须对准角的顶点。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "角的认识与度量",
+      "question": "量角器上有两圈刻度，读数时应根据什么来确定看哪一圈？",
+      "options": [
+        "心情",
+        "角的大小",
+        "0刻度线所在边",
+        "顶点位置"
+      ],
+      "answer": "0刻度线所在边",
+      "explanation": "哪圈的 0 刻度线与角的一边重合，就读哪一圈的数。"
+    }
+  ],
+  "knowledge": {
+    "point": "角的认识与度量",
+    "core_concept": "从一点引出两条射线所组成的图形叫做角。量角器是核心工具，要注意“点对点”（中心对顶点）、“线对线”（0线对角边）、“读准确”（看清内外圈）。",
+    "key_formula": "角的度量单位是“度”，符号是 $^{\\circ}$。",
+    "common_mistakes": [
+      "内外圈读数混淆，将 $60^{\\circ}$ 读成 $120^{\\circ}$",
+      "中心点未对准角顶点"
+    ],
+    "tips": "判断内外圈技巧：0刻度线在右边读内圈，0刻度线在左边读外圈。"
+  }
+}

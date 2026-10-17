@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp15",
+  "title": "常用搭配",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 11,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常用搭配",
+      "question": "— Silly me! — ___",
+      "options": [
+        "Thanks.",
+        "Goodbye.",
+        "Haha!",
+        "Great!"
+      ],
+      "answer": "Haha!",
+      "explanation": "当别人说'我真傻'时，通常是幽默的互动，对应答语常用Haha。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u7-kp5",
+  "title": "词语释义",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "《我们奇妙的世界》中，“蔚蓝”一词常被用来形容天空的颜色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蔚蓝形容像晴朗天空那样的蓝色。"
+    }
+  ],
+  "knowledge": null
+}

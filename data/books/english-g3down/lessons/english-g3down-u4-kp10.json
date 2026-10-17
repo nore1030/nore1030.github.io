@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp10",
+  "title": "疑问词辨析",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 6,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问词辨析",
+      "question": "— ___ is my ruler? — It's under the book.",
+      "options": [
+        "What",
+        "Who",
+        "Where",
+        "How"
+      ],
+      "answer": "Where",
+      "explanation": "询问位置用疑问词Where。"
+    }
+  ],
+  "knowledge": null
+}

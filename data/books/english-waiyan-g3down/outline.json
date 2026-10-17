@@ -1,0 +1,103 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 数字与问候",
+      "knowledge_points": [
+        {
+          "name": "数字 1-10",
+          "description": "掌握 1-10 的英文读写。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "问候语与告别语",
+          "description": "掌握问候与告别。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g3down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 颜色与物品",
+      "knowledge_points": [
+        {
+          "name": "颜色词",
+          "description": "掌握常用颜色词。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "物品与指示代词",
+          "description": "用指示代词指认物品。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g3down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-waiyan-g3down",
+  "grade": 3,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-waiyan-g3down-u1-kp1",
+      "title": "数字 1-10",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 数字与问候",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g3down-u1-kp2",
+      "title": "问候语与告别语",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 数字与问候",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g3down-u2-kp1",
+      "title": "颜色词",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 颜色与物品",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g3down-u2-kp2",
+      "title": "物品与指示代词",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 颜色与物品",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

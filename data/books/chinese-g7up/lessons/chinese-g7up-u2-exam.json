@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g7up",
+  "unitNumber": 2,
+  "unitTitle": "说明文与写作",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "记叙文写作",
+      "question": "记叙文开头常用的方法是（　）",
+      "options": [
+        "开门见山",
+        "直接议论",
+        "大量抒情",
+        "并列结构"
+      ],
+      "answer": "开门见山",
+      "explanation": "开头宜开门见山。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "打比方的说明方法能形象地说明事物特征。",
+      "options": [],
+      "answer": "对",
+      "explanation": "打比方使说明生动。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "说明文阅读",
+      "question": "说明文的说明顺序不包含（　）",
+      "options": [
+        "时间顺序",
+        "空间顺序",
+        "逻辑顺序",
+        "情感顺序"
+      ],
+      "answer": "情感顺序",
+      "explanation": "说明顺序为时空逻辑。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "记叙文写作",
+      "question": "细节描写能增强记叙文的感染力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "细节使文章生动。"
+    }
+  ],
+  "knowledge": null
+}

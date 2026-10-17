@@ -1,0 +1,221 @@
+{
+  "id": "english-g4up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g4up",
+  "unitNumber": 4,
+  "unitTitle": "My home",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "居室名称词汇",
+      "question": "'bathroom' 与洗澡有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "bathroom 意为浴室。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "'sofa' 是沙发的音译词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sofa 对应中文“沙发”。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "居室名称词汇",
+      "question": "'bedroom' 的意思也是书房。",
+      "options": [],
+      "answer": "错",
+      "explanation": "bedroom 是卧室，study 是书房。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "元音字母u在开音节中的发音",
+      "question": "单词 'mule' 里的字母 'u' 发音跟 'cute' 里的 'u' 一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都是 u-e 结构，发 /juː/。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "Are the keys ______ the table?",
+      "options": [
+        "at",
+        "on",
+        "to",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "在桌子上用介词 on。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "—Are they in the door? —No, ______ .",
+      "options": [
+        "they are",
+        "it isn't",
+        "they aren't",
+        "she isn't"
+      ],
+      "answer": "they aren't",
+      "explanation": "复数一般疑问句否定回答用 No, they aren't。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "元音字母u在开音节中的发音",
+      "question": "Choose the word with the /ju:/ sound.",
+      "options": [
+        "bus",
+        "cup",
+        "excuse",
+        "run"
+      ],
+      "answer": "excuse",
+      "explanation": "excuse 里的 u 发 /juː/，其余均发 /ʌ/。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "居室名称词汇",
+      "question": "Let's go to the ______ and read some books.",
+      "options": [
+        "study",
+        "living room",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer": "study",
+      "explanation": "书房（study）是读书的地方。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家具词汇",
+      "question": "Put the ______ in the bedroom.",
+      "options": [
+        "bed",
+        "fridge",
+        "sink",
+        "cooker"
+      ],
+      "answer": "bed",
+      "explanation": "床（bed）放在卧室。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "居室名称词汇",
+      "question": "My father is in the ______ . He is watching TV.",
+      "options": [
+        "study",
+        "living room",
+        "bathroom",
+        "kitchen"
+      ],
+      "answer": "living room",
+      "explanation": "电视（TV）通常在客厅。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "居室名称词汇",
+      "question": "Go to the ______ . Have a nap.",
+      "options": [],
+      "answer": "bedroom",
+      "explanation": "小睡在卧室。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "Is your father in the study? Yes, he ______ .",
+      "options": [],
+      "answer": "is",
+      "explanation": "肯定回答用 is。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "______ are the keys? They are on the fridge.",
+      "options": [],
+      "answer": "where",
+      "explanation": "询问位置用 where。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "居室名称词汇",
+      "question": "匹配房间与相应的活动：",
+      "options": [
+        "living room",
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "make a salad",
+        "watch TV",
+        "have a nap",
+        "take a shower"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "A客厅观影，B厨房做饭，C浴室洗澡，D卧室睡觉。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "连词成句（注意第一个字母大写）：",
+      "options": [
+        "my",
+        "Where",
+        "keys?",
+        "are"
+      ],
+      "answer": "Where,are,my,keys?",
+      "explanation": "特殊疑问句：疑问词 + are + 物品。"
+    }
+  ],
+  "knowledge": null
+}

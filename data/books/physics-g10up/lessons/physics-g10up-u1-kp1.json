@@ -1,0 +1,47 @@
+{
+  "id": "physics-g10up-u1-kp1",
+  "title": "质点、参考系与位移",
+  "bookId": "physics-g10up",
+  "unitNumber": 1,
+  "unitTitle": "运动的描述",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质点、参考系与位移",
+      "question": "下列可以把物体看作质点的是（　）",
+      "options": [
+        "研究地球公转",
+        "研究地球自转",
+        "研究体操运动员动作",
+        "研究乒乓球旋转"
+      ],
+      "answer": "研究地球公转",
+      "explanation": "公转时地球大小可忽略。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "质点、参考系与位移",
+      "question": "选择不同的参考系，对同一物体运动的描述可能不同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "运动描述的相对性。"
+    }
+  ],
+  "knowledge": {
+    "point": "质点、参考系与位移",
+    "core_concept": "当物体的大小和形状对研究问题影响可忽略时，可把物体看作质点。位移是矢量（由初位置指向末位置），路程是标量。",
+    "key_formula": "$\\Delta x=x_2-x_1$",
+    "common_mistakes": [
+      "把路程当位移。"
+    ],
+    "tips": "位移看首尾，路程看路径。"
+  }
+}

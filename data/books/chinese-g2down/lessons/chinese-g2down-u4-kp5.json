@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u4-kp5",
+  "title": "中性词与褒贬义辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 4,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中性词与褒贬义辨析",
+      "question": "读句子：阿姨（    ）地摸了摸我的头。横线处填哪一个词最合适？",
+      "options": [
+        "凶狠",
+        "亲切",
+        "愤怒",
+        "悲伤"
+      ],
+      "answer": "亲切",
+      "explanation": "根据生活情境，“摸头”通常表示关爱，应选褒义词“亲切”。"
+    }
+  ],
+  "knowledge": null
+}

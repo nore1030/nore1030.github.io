@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u7-kp23",
+  "title": "词语配对",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语配对",
+      "question": "将下列成语与对应的意思连接起来：",
+      "options": [
+        "临危不惧",
+        "锲而不舍",
+        "囊萤夜读",
+        "悬梁刺股",
+        "勤学苦读",
+        "不断努力",
+        "刻苦励志",
+        "正视危险"
+      ],
+      "answer": "A-4,B-2,C-1,D-3",
+      "explanation": "临危不惧对应正视危险；锲而不舍对应不断努力；囊萤夜读对应勤学苦读；悬梁刺股对应刻苦励志。"
+    }
+  ],
+  "knowledge": null
+}

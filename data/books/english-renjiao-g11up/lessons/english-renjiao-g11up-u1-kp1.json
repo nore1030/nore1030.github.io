@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g11up-u1-kp1",
+  "title": "被动语态综合",
+  "bookId": "english-renjiao-g11up",
+  "unitNumber": 1,
+  "unitTitle": "被动语态与虚拟语气",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "The report ___ by the team yesterday.",
+      "options": [
+        "wrote",
+        "was written",
+        "is written",
+        "has written"
+      ],
+      "answer": "was written",
+      "explanation": "过去时被动。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "被动语态的 be 动词应与主语保持一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主谓一致。"
+    }
+  ],
+  "knowledge": {
+    "point": "被动语态综合",
+    "core_concept": "被动语态由 be + 过去分词构成，各种时态的 be 形式不同；情态动词后加 be + 过去分词。",
+    "key_formula": "be + 过去分词",
+    "common_mistakes": [
+      "be 的时态与主语不一致。"
+    ],
+    "tips": "be 与主语一致。"
+  }
+}

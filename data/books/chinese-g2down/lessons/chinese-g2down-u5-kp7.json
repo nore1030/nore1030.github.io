@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp7",
+  "title": "生字结构",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生字结构",
+      "question": "“筋”字是上下结构，部首是“竹”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "筋字上方是竹字头，下方是筋骨的筋。"
+    }
+  ],
+  "knowledge": null
+}

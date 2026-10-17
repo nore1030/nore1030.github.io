@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u2-kp5",
+  "title": "一般过去时特征词",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "一般过去时特征词",
+      "question": "'last weekend' 意为'下周末'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "last weekend 意为'上周末'。"
+    }
+  ],
+  "knowledge": null
+}

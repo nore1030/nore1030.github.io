@@ -1,0 +1,66 @@
+{
+  "id": "moral-g9down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g9down",
+  "unitNumber": 2,
+  "unitTitle": "世界舞台与个人选择",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中国与世界",
+      "question": "面对经济全球化，我国应（　）",
+      "options": [
+        "坚持对外开放、互利共赢",
+        "封闭锁国",
+        "脱钩断链",
+        "拒绝一切合作"
+      ],
+      "answer": "坚持对外开放、互利共赢",
+      "explanation": "开放才能发展。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "职业与人生选择",
+      "question": "择业时应考虑（　）",
+      "options": [
+        "社会需要与个人特长",
+        "只看工资高低",
+        "只看面子",
+        "跟随潮流"
+      ],
+      "answer": "社会需要与个人特长",
+      "explanation": "理性择业。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中国与世界",
+      "question": "构建人类命运共同体已经成为国际共识。",
+      "options": [],
+      "answer": "对",
+      "explanation": "国际共识。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "职业与人生选择",
+      "question": "每个岗位都是社会需要的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "岗位平等。"
+    }
+  ],
+  "knowledge": null
+}

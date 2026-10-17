@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u4-kp16",
+  "title": "反义词连线",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词连线",
+      "question": "将下列词语与它们的反义词连线。",
+      "options": [
+        "讨厌",
+        "高傲",
+        "温柔",
+        "尽职",
+        "谦卑",
+        "喜欢",
+        "粗鲁",
+        "失职"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "考查对本单元常见形容词的反义理解。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp13",
+  "title": "常用搭配",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用搭配",
+      "question": "We should ________ turns when we play games.",
+      "options": [
+        "take",
+        "making",
+        "do",
+        "taking"
+      ],
+      "answer": "take",
+      "explanation": "情态动词should后接动词原形，take turns是固定搭配。"
+    }
+  ],
+  "knowledge": null
+}

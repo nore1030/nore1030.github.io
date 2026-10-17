@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11up-u1-kp1",
+  "title": "中华文化源流与特点",
+  "bookId": "chinese-g11up",
+  "unitNumber": 1,
+  "unitTitle": "中华文化与古典诗歌",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中华文化源流与特点",
+      "question": "中华文化最突出的特点是（　）",
+      "options": [
+        "连续性与包容性",
+        "排他性",
+        "商业性",
+        "临时性"
+      ],
+      "answer": "连续性与包容性",
+      "explanation": "两大特点。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中华文化源流与特点",
+      "question": "中华文化在交流互鉴中不断发展。",
+      "options": [],
+      "answer": "对",
+      "explanation": "交流促发展。"
+    }
+  ],
+  "knowledge": {
+    "point": "中华文化源流与特点",
+    "core_concept": "中华文化源远流长、博大精深，具有强大凝聚力和连续性。中华文化有强烈的民族性，包容性。",
+    "key_formula": "源远流长、博大精深",
+    "common_mistakes": [
+      "认为中华文化一成不变。"
+    ],
+    "tips": "文化在交流中发展。"
+  }
+}

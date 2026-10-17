@@ -1,0 +1,86 @@
+{
+  "id": "chinese-g4up-u7-kp3",
+  "title": "爱国古诗的背诵与领悟",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 1,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "《夏日绝句》的作者是唐代诗人李清照。",
+      "options": [],
+      "answer": "错",
+      "explanation": "李清照是宋代词人。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "“不肯过江东”中的“项羽”是秦末杰出的政治家和军事将领。",
+      "options": [],
+      "answer": "对",
+      "explanation": "诗句描述的是楚霸王项羽在乌江边不肯逃走的故事。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "“秦时明月汉时关，万里长征人未还。”中“还”的意思是：",
+      "options": [
+        "还给",
+        "还是",
+        "回来",
+        "还债"
+      ],
+      "answer": "回来",
+      "explanation": "此诗句意为征战万里的士兵还没有回来。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "诗句“生当作人杰，死亦为鬼雄”赞美的人物是：",
+      "options": [
+        "曹操",
+        "刘备",
+        "项羽",
+        "关羽"
+      ],
+      "answer": "项羽",
+      "explanation": "李清照借此诗怀念项羽的英雄气概。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "但使龙城飞将在，不教（   ）度阴山。",
+      "options": [],
+      "answer": "胡马",
+      "explanation": "胡马指侵略者的马队。"
+    }
+  ],
+  "knowledge": {
+    "point": "爱国古诗的背诵与领悟",
+    "core_concept": "重点掌握《出塞》《凉州词》《夏日绝句》。《出塞》寄托对良将的渴望；《凉州词》展现边塞生活的豁达与悲壮；《夏日绝句》则通过怀念项羽，讽刺南宋统治者苟且偷生。三首诗均围绕“家国”主题。",
+    "key_formula": "古诗翻译四字诀：留（地名）、替（古义）、补（主语）、调（语序）",
+    "common_mistakes": [
+      "背诵时混淆“龙城飞将”与“西域胡马”的地理概念",
+      "误解“醉卧沙场”为不务正业的消极状态"
+    ],
+    "tips": "画面联想法：背诵时脑中勾勒长城、黄沙、琵琶、江东项羽等画面，通过图像辅助记忆。"
+  }
+}

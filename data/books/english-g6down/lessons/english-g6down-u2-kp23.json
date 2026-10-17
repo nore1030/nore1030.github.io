@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u2-kp23",
+  "title": "短语英汉对照",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短语英汉对照",
+      "question": "请将下列短语与其对应的中文意思连线。",
+      "options": [
+        "drank tea",
+        "read a book",
+        "saw a film",
+        "slept",
+        "睡觉",
+        "看电影",
+        "读书",
+        "喝茶"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "drank tea-喝茶；read a book-读书；saw a film-看电影；slept-睡觉。"
+    }
+  ],
+  "knowledge": null
+}

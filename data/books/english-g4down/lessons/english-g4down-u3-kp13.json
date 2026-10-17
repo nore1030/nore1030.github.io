@@ -1,0 +1,32 @@
+{
+  "id": "english-g4down-u3-kp13",
+  "title": "Vocabulary matching",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 9,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Vocabulary matching",
+      "question": "将下列英文单词与对应的中文意思连线。",
+      "options": [
+        "windy",
+        "cloudy",
+        "sunny",
+        "snowy",
+        "下雪的",
+        "晴朗的",
+        "多云的",
+        "有风的"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "windy-有风的, cloudy-多云的, sunny-晴朗的, snowy-下雪的。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-yilin-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-yilin-g8up",
+  "unitNumber": 2,
+  "unitTitle": "单元话题：能力与意愿",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "能力表达 can",
+      "question": "___ he swim? — Yes, he can.",
+      "options": [
+        "Can",
+        "Is",
+        "Does",
+        "Do"
+      ],
+      "answer": "Can",
+      "explanation": "情态动词疑问。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "意愿与可能性表达",
+      "question": "We want ___ a picnic this Sunday.",
+      "options": [
+        "have",
+        "to have",
+        "having",
+        "had"
+      ],
+      "answer": "to have",
+      "explanation": "want to do。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "能力表达 can",
+      "question": "can 既可表示能力也可表示可能性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "can 双重含义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "意愿与可能性表达",
+      "question": "“我想做某事”可以说 I'd like to do sth。",
+      "options": [],
+      "answer": "对",
+      "explanation": "I'd like to do。"
+    }
+  ],
+  "knowledge": null
+}

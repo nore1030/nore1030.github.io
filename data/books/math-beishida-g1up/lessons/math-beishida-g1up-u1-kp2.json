@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g1up-u1-kp2",
+  "title": "0 的认识",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 1,
+  "unitTitle": "可爱的校园 · 生活中的数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "0 的认识",
+      "question": "盘子里一个苹果也没有，用哪个数表示？（　）",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "2"
+      ],
+      "answer": "0",
+      "explanation": "0 表示没有。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "0 的认识",
+      "question": "0 也是一个数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "0 比 1 小。"
+    }
+  ],
+  "knowledge": {
+    "point": "0 的认识",
+    "core_concept": "0 表示一个物体也没有，也可以表示起点；0 也是数，比 1 小。",
+    "key_formula": "0 表示没有",
+    "common_mistakes": [
+      "认为 0 不是数。"
+    ],
+    "tips": "0 是最小的自然数。"
+  }
+}

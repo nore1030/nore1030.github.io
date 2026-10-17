@@ -1,0 +1,55 @@
+{
+  "id": "english-renjiao-g8up-u3-kp3",
+  "title": "情态动词与比较级",
+  "bookId": "english-renjiao-g8up",
+  "unitNumber": 3,
+  "unitTitle": "情态动词与比较级",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词与比较级",
+      "question": "He can ___ the piano very well.",
+      "options": [
+        "plays",
+        "play",
+        "playing",
+        "to play"
+      ],
+      "answer": "play",
+      "explanation": "情态动词后接原形。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情态动词与比较级",
+      "question": "This book is ___ than that one.",
+      "options": [
+        "interesting",
+        "more interesting",
+        "most interesting",
+        "the most interesting"
+      ],
+      "answer": "more interesting",
+      "explanation": "多音节词用 more。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词与比较级",
+      "question": "比较级用于两者之间的比较。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比较级比较两者。"
+    }
+  ],
+  "knowledge": null
+}

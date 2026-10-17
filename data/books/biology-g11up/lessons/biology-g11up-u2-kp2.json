@@ -1,0 +1,47 @@
+{
+  "id": "biology-g11up-u2-kp2",
+  "title": "生态系统与能量流动",
+  "bookId": "biology-g11up",
+  "unitNumber": 2,
+  "unitTitle": "生态与可持续发展",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "生态系统与能量流动",
+      "question": "能量沿食物链传递的特点是（　）",
+      "options": [
+        "单向流动、逐级递减",
+        "循环流动",
+        "双向流动",
+        "保持不变"
+      ],
+      "answer": "单向流动、逐级递减",
+      "explanation": "能量流动特点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "生态系统与能量流动",
+      "question": "分解者是生态系统中物质循环的关键环节。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分解者作用。"
+    }
+  ],
+  "knowledge": {
+    "point": "生态系统与能量流动",
+    "core_concept": "生态系统由非生物物质和能量、生产者、消费者、分解者组成。能量流动沿食物链逐级递减，传递效率为 10%-20%。",
+    "key_formula": "能量传递效率 = $\\dfrac{\\text{下一营养级同化量}}{\\text{上一营养级同化量}}\\times 100\\%$",
+    "common_mistakes": [
+      "认为能量流动是循环的。"
+    ],
+    "tips": "能量单向流动、逐级递减。"
+  }
+}

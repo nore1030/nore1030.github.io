@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u2-kp2",
+  "title": "除法算式的意义与读写",
+  "bookId": "g2down",
+  "unitNumber": 2,
+  "unitTitle": "表内除法（一）",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "算式 $12 \\div 3 = 4$ 读作：12除以3等于4。",
+      "options": [],
+      "answer": "对",
+      "explanation": "除号读作‘除以’，按照算式书写顺序从左往右读：12除以3等于4。验算正确。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "把12个羽毛球平均装在2个筒子里，每个筒子装几个？正确的算式是：",
+      "options": [
+        "$12 + 2$",
+        "$12 - 2$",
+        "$12 \\times 2$",
+        "$12 \\div 2$"
+      ],
+      "answer": "$12 \\div 2$",
+      "explanation": "求把一个数平均分成几份，每份是多少，用除法计算。列式为 $12 \\div 2$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "“18除以6等于3”的算式是：",
+      "options": [
+        "$6 \\div 18 = 3$",
+        "$18 - 6 = 12$",
+        "$18 \\div 6 = 3$",
+        "$18 \\div 3 = 6$"
+      ],
+      "answer": "$18 \\div 6 = 3$",
+      "explanation": "按照中文语序：18（被除数）除以（除号）6（除数）等于（等号）3（商）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "有12个小朋友打乒乓球，每4人一组，可以分成几组？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "48"
+      ],
+      "answer": "3",
+      "explanation": "求12里面包含多少个4。列式：$12 \\div 4 = 3$（组）。验算：$3 \\times 4 = 12$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法算式的意义与读写",
+      "question": "把10个心形饼干平均分成5份，每份有 ___ 个。",
+      "options": [],
+      "answer": "2",
+      "explanation": "列式：$10 \\div 5 = 2$。验算：$5 \\times 2 = 10$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "除法算式的意义与读写",
+    "core_concept": "除法算式不仅能表示‘等分’（把总数平均分成几份，求每份多少），还能表示‘包含’（总数里有几个每份数）。读法上，‘$\\div$’读作‘除以’。",
+    "key_formula": "$A \\div B = C$ 读作：A除以B等于C",
+    "common_mistakes": [
+      "将‘除以’读作‘除’，这两者含义在初中会有区分，目前必须准确使用‘除以’。",
+      "被除数和除数位置写反，如12除以3写成 $3 \\div 12$。"
+    ],
+    "tips": "谁被分谁就在前。读算式时，像读课文一样从左往右顺着读除号。"
+  }
+}

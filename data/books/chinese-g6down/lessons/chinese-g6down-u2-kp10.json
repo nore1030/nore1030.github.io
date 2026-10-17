@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u2-kp10",
+  "title": "人物形象关键词对应",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 9,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物形象关键词对应",
+      "question": "请将人物与其对应的性格关键词进行连线：",
+      "options": [
+        "鲁滨逊",
+        "尼尔斯",
+        "汤姆·索亚",
+        "贝琪",
+        "调皮机智",
+        "胆小柔弱",
+        "硬汉精神",
+        "勇敢善良"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "通过对比不同人物的表现，理清其人物性格特征。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "english-g6down-u5-kp7",
+  "title": "时态辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 3,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时态辨析",
+      "question": "'last weekend' 通常与过去式连用，不与将来时连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "last weekend意为上周末，是过去时间的标志。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时态辨析",
+      "question": "Yesterday I ____ to the park. Today I ____ at home.",
+      "options": [
+        "go; am",
+        "went; was",
+        "went; am",
+        "go; was"
+      ],
+      "answer": "went; am",
+      "explanation": "第一句有Yesterday用过去式；第二句有Today且主语是I用am。"
+    }
+  ],
+  "knowledge": null
+}

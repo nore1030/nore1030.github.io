@@ -1,0 +1,64 @@
+{
+  "id": "chemistry-g9down-u2-kp2",
+  "title": "溶质质量分数",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 2,
+  "unitTitle": "溶液",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "溶质质量分数",
+      "question": "将 20 g 食盐溶于 80 g 水中，溶质质量分数是多少（填百分数数字，如 20）？",
+      "options": [],
+      "answer": "20",
+      "explanation": "$\\frac{20}{100}\\times100\\%=20\\%$。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "溶质质量分数",
+      "question": "100 g 质量分数为 10% 的溶液中含溶质多少 g？",
+      "options": [],
+      "answer": "10",
+      "explanation": "$100\\times10\\%=10$ g。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "溶质质量分数",
+      "question": "把 50 g 20% 的溶液稀释为 10%，需加水多少 g？",
+      "options": [],
+      "answer": "50",
+      "explanation": "溶质 10 g，$\\frac{10}{10\\%}=100$ g，加水 50 g。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "溶质质量分数",
+      "question": "饱和溶液的溶质质量分数一定大于不饱和溶液。",
+      "options": [],
+      "answer": "错",
+      "explanation": "须同温、同溶质比较。"
+    }
+  ],
+  "knowledge": {
+    "point": "溶质质量分数",
+    "core_concept": "溶质质量分数 = 溶质质量 / 溶液质量 × 100%。稀释前后溶质质量不变。",
+    "key_formula": "$w=\\frac{m_\\text{质}}{m_\\text{液}}\\times100\\%$",
+    "common_mistakes": [
+      "分母用溶剂质量。"
+    ],
+    "tips": "分母是溶液质量。"
+  }
+}

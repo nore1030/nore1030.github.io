@@ -1,0 +1,61 @@
+{
+  "id": "g7down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g7down",
+  "unitNumber": 1,
+  "unitTitle": "相交线与平行线",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "相交线与对顶角",
+      "question": "过直线外一点有且只有一条直线与已知直线平行。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平行公理。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行线的判定",
+      "question": "下列不能判定两直线平行的是（　）",
+      "options": [
+        "同位角相等",
+        "内错角相等",
+        "同旁内角互补",
+        "同旁内角相等"
+      ],
+      "answer": "同旁内角相等",
+      "explanation": "同旁内角互补才可判定平行。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行线的性质与平移",
+      "question": "两直线平行，同位角 ___。",
+      "options": [],
+      "answer": "相等",
+      "explanation": "平行线性质。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平行线的性质与平移",
+      "question": "两直线平行，同旁内角中一个角是 110°，另一个角是多少度？",
+      "options": [],
+      "answer": "70",
+      "explanation": "$180°-110°=70°$。"
+    }
+  ],
+  "knowledge": null
+}

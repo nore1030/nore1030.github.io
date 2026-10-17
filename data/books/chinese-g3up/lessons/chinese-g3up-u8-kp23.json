@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u8-kp23",
+  "title": "文言实词",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言实词",
+      "question": "请将古文中的词语与现代意思对应。",
+      "options": [
+        "瓮",
+        "皆",
+        "弃",
+        "跌",
+        "摔倒",
+        "全、都",
+        "大水缸",
+        "舍弃、放弃"
+      ],
+      "answer": "A-3,B-2,C-4,D-1",
+      "explanation": "这是考查《司马光》文言基础字义。"
+    }
+  ],
+  "knowledge": null
+}

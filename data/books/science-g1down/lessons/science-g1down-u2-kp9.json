@@ -1,0 +1,23 @@
+{
+  "id": "science-g1down-u2-kp9",
+  "title": "鱼的特征",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 2,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "鱼的特征",
+      "question": "鱼在水里不停地张嘴闭嘴是在喝水，它们不会口渴。",
+      "options": [],
+      "answer": "错",
+      "explanation": "鱼张合嘴巴是在让水流过鳃部进行呼吸，而不是在喝水。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g8up-u1-kp2",
+  "title": "日常作息与频率",
+  "bookId": "english-yilin-g8up",
+  "unitNumber": 1,
+  "unitTitle": "单元话题：学校生活与自我认知",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "— How often do you exercise? — ___",
+      "options": [
+        "Every day",
+        "Yesterday",
+        "Last week",
+        "An hour ago"
+      ],
+      "answer": "Every day",
+      "explanation": "问频率答频率。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "never 表示频率最低。",
+      "options": [],
+      "answer": "对",
+      "explanation": "频率最低。"
+    }
+  ],
+  "knowledge": {
+    "point": "日常作息与频率",
+    "core_concept": "用 How often 提问频率；回答用 always、usually、often、sometimes、seldom、never。",
+    "key_formula": "How often…?",
+    "common_mistakes": [
+      "把 How often 与 How long 混淆。"
+    ],
+    "tips": "How often 问频率。"
+  }
+}

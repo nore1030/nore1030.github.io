@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2down-u1-kp1",
+  "title": "勇于尝试与坚持",
+  "bookId": "moral-g2down",
+  "unitNumber": 1,
+  "unitTitle": "让我来试试",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "勇于尝试与坚持",
+      "question": "第一次做饭做得不好吃，应该（　）",
+      "options": [
+        "再也不做了",
+        "总结经验再做一次",
+        "大哭一场",
+        "怪爸爸妈妈"
+      ],
+      "answer": "总结经验再做一次",
+      "explanation": "失败了要总结再试。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "勇于尝试与坚持",
+      "question": "敢于第一次尝试就是勇敢的表现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "敢尝试就是勇敢。"
+    }
+  ],
+  "knowledge": {
+    "point": "勇于尝试与坚持",
+    "core_concept": "第一次做事可能会失败，但敢于尝试就是进步。失败了不灰心，找到原因再来一次，往往就能成功。",
+    "key_formula": "失败是成功之母",
+    "common_mistakes": [
+      "一次失败就放弃。"
+    ],
+    "tips": "勇敢试一试，再试一次。"
+  }
+}

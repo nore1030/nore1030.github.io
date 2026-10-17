@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp9",
+  "title": "动词词义",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动词词义",
+      "question": "I _______ a film last night.",
+      "options": [
+        "see",
+        "saw",
+        "look",
+        "looked"
+      ],
+      "answer": "saw",
+      "explanation": "昨晚看电影用see a film，过去时需用saw。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g1up-u1-kp1",
+  "title": "数数 1~10",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 1,
+  "unitTitle": "可爱的校园 · 生活中的数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数数 1~10",
+      "question": "数物体的个数时，要（　）",
+      "options": [
+        "按顺序一个一个地数",
+        "随便数",
+        "两个两个数",
+        "跳着数"
+      ],
+      "answer": "按顺序一个一个地数",
+      "explanation": "按顺序数才不漏。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "数数 1~10",
+      "question": "3 添上 1 是几？",
+      "options": [],
+      "answer": "4",
+      "explanation": "3 + 1 = 4。"
+    }
+  ],
+  "knowledge": {
+    "point": "数数 1~10",
+    "core_concept": "数数要一个一个按顺序数，用数表示物体的个数；数到几，物体的个数就是几。",
+    "key_formula": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+    "common_mistakes": [
+      "数数时漏数或重复数。"
+    ],
+    "tips": "数一个做一个标记。"
+  }
+}

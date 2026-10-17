@@ -1,0 +1,42 @@
+{
+  "id": "math-beishida-g1up-u7-kp2",
+  "title": "20 以内的加减法",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 7,
+  "unitTitle": "加与减（二）",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "20 以内的加减法",
+      "question": "9 + 5 = ？",
+      "options": [],
+      "answer": "14",
+      "explanation": "把 5 分成 1 和 4，9+1=10，10+4=14。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "20 以内的加减法",
+      "question": "13 − 6 = ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "想 6 + 7 = 13，所以 13 − 6 = 7。"
+    }
+  ],
+  "knowledge": {
+    "point": "20 以内的加减法",
+    "core_concept": "20 以内加法可用凑十法；减法可用「想加算减」：想几加几得被减数。",
+    "key_formula": "凑十法 / 想加算减",
+    "common_mistakes": [
+      "进位加法忘记进位。"
+    ],
+    "tips": "看到 9、8 想凑十。"
+  }
+}

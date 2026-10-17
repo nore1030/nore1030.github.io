@@ -1,0 +1,77 @@
+{
+  "id": "science-g5up-u3-kp1",
+  "title": "古代计时工具的原理",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 0,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "在古代，人们利用阳光下物体影子的变化规律来计时，这种工具叫日晷。",
+      "options": [],
+      "answer": "对",
+      "explanation": "日晷是古代利用日影长度或方位变化来计时的工具。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "燃香计时是因为每一段相同长度的香，燃烧所需的时间基本相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "等速消耗现象是燃香计时的原理。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "下列计时工具中，利用太阳光影变化来计时的是哪一个？",
+      "options": [
+        "水钟",
+        "日晷",
+        "沙漏",
+        "摆钟"
+      ],
+      "answer": "日晷",
+      "explanation": "日晷由晷盘和晷针组成，利用影子移动来显示刻度。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "在阴雨天或夜晚无法正常工作的计时工具是什么？",
+      "options": [
+        "日晷",
+        "水钟",
+        "沙漏",
+        "香钟"
+      ],
+      "answer": "日晷",
+      "explanation": "日晷依靠阳光产生投影，没有阳光则无法计时。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古代计时工具的原理",
+      "question": "依靠流水的力量计时的工具叫做（___）。",
+      "options": [],
+      "answer": "水钟",
+      "explanation": "水钟是利用等速水流或受水积聚来计时的工具。"
+    }
+  ],
+  "knowledge": null
+}

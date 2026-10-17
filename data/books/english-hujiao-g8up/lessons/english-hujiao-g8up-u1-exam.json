@@ -1,0 +1,66 @@
+{
+  "id": "english-hujiao-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 了解彼此 / Getting to know each other",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "问候与介绍",
+      "question": "— How old are you? — ___",
+      "options": [
+        "I'm fine.",
+        "I'm twelve.",
+        "I'm Tom.",
+        "It's twelve."
+      ],
+      "answer": "I'm twelve.",
+      "explanation": "问年龄答年龄。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述外貌与特征",
+      "question": "He ___ short and strong.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "has"
+      ],
+      "answer": "is",
+      "explanation": "主语 He 用 is。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "问候与介绍",
+      "question": "沪教版教材按 Module 与 Unit 组织内容。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Module-Unit 编排。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "描述外貌与特征",
+      "question": "形容外貌可用 tall、thin、short、strong 等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "外貌形容词。"
+    }
+  ],
+  "knowledge": null
+}

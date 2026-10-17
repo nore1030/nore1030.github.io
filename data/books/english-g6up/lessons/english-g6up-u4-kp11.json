@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp11",
+  "title": "Translation",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 7,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Translation",
+      "question": "选取 '笔友' 的正确英文表达。",
+      "options": [
+        "schoolmate",
+        "pen pal",
+        "teacher",
+        "doctor"
+      ],
+      "answer": "pen pal",
+      "explanation": "pen pal 意为笔友。"
+    }
+  ],
+  "knowledge": null
+}

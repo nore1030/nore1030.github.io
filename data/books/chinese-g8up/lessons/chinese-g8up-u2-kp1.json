@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g8up-u2-kp1",
+  "title": "文言实词与虚词",
+  "bookId": "chinese-g8up",
+  "unitNumber": 2,
+  "unitTitle": "文言文与古代散文",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“予独爱莲之出淤泥而不染”中“之”的用法是（　）",
+      "options": [
+        "取取消句子独立性",
+        "结构助词“的”",
+        "代词",
+        "动词"
+      ],
+      "answer": "取取消句子独立性",
+      "explanation": "此处“之”用于主谓之间。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "文言实词与虚词",
+      "question": "“其”字在文中可能作代词，也可能作语气词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一词多义。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言实词与虚词",
+    "core_concept": "常见实词有“之、其、而、以、于、乃”等不同用法；虚词“而”表并列、承接、转折、修饰。",
+    "key_formula": "之：代词/助词/取消句子独立性",
+    "common_mistakes": [
+      "把所有“之”都解释为“的”。"
+    ],
+    "tips": "看上下文定词义。"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "physics-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "physics-g10up",
+  "unitNumber": 3,
+  "unitTitle": "相互作用——力",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "物体在水平方向受 10 N 的力匀速运动，摩擦力是多少 N？",
+      "options": [],
+      "answer": "10",
+      "explanation": "匀速即平衡，摩擦力等于拉力。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "力的分解与共点力平衡",
+      "question": "物体静止在斜面上，其受到的摩擦力方向（　）",
+      "options": [
+        "沿斜面向上",
+        "沿斜面向下",
+        "竖直向上",
+        "垂直于斜面"
+      ],
+      "answer": "沿斜面向上",
+      "explanation": "静摩擦阻止下滑趋势。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "三种常见力与力的合成",
+      "question": "弹力的方向总是与施力物体形变的方向相反。",
+      "options": [],
+      "answer": "对",
+      "explanation": "弹力方向。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "力的分解与共点力平衡",
+      "question": "两力互相垂直，大小分别为 6 N 和 8 N，合力大小是多少 N？",
+      "options": [],
+      "answer": "10",
+      "explanation": "$\\sqrt{36+64}=10$ N。"
+    }
+  ],
+  "knowledge": null
+}

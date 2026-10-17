@@ -1,0 +1,86 @@
+{
+  "id": "math-zhejiao-g7up-u2-kp1",
+  "title": "有理数的加减乘除",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第2章 有理数的运算",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：-3 + 5 = ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "-3 + 5 = 2。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：-8 + -6 = ？",
+      "options": [],
+      "answer": "-14",
+      "explanation": "-8 + -6 = -14。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：7 + -12 = ？",
+      "options": [],
+      "answer": "-5",
+      "explanation": "7 + -12 = -5。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：-4 × 6 = ？",
+      "options": [],
+      "answer": "-24",
+      "explanation": "-4 × 6 = -24。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：-15 × -3 = ？",
+      "options": [],
+      "answer": "45",
+      "explanation": "-15 × -3 = 45。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：12 × -4 = ？",
+      "options": [],
+      "answer": "-48",
+      "explanation": "12 × -4 = -48。"
+    }
+  ],
+  "knowledge": {
+    "point": "有理数的加减乘除",
+    "core_concept": "加法：同号取同号绝对值相加，异号取大绝对值加数符号、大减小。减法：减去一个数等于加上它的相反数。乘除：同号得正、异号得负，绝对值相乘除。",
+    "key_formula": "$a-b=a+(-b)$",
+    "common_mistakes": [
+      "异号相加符号取错。"
+    ],
+    "tips": "减法统一成加法再算。"
+  }
+}

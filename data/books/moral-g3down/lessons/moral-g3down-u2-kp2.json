@@ -1,0 +1,47 @@
+{
+  "id": "moral-g3down-u2-kp2",
+  "title": "文明礼貌与社会公德",
+  "bookId": "moral-g3down",
+  "unitNumber": 2,
+  "unitTitle": "我们的公共生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文明礼貌与社会公德",
+      "question": "乘坐公交车时，应该（　）",
+      "options": [
+        "排队上车",
+        "挤着上车",
+        "逃票",
+        "抢占座位"
+      ],
+      "answer": "排队上车",
+      "explanation": "乘车要排队。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文明礼貌与社会公德",
+      "question": "得到帮助后要说谢谢。",
+      "options": [],
+      "answer": "对",
+      "explanation": "礼貌用语。"
+    }
+  ],
+  "knowledge": {
+    "point": "文明礼貌与社会公德",
+    "core_concept": "使用“请、谢谢、对不起”等礼貌用语；乘车排队、主动给有需要的人让座；公共场所不喧哗。",
+    "key_formula": "文明礼貌",
+    "common_mistakes": [
+      "在公交车上抢座位。"
+    ],
+    "tips": "文明体现在细节。"
+  }
+}

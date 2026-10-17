@@ -1,0 +1,75 @@
+{
+  "id": "g2down-u6-kp1",
+  "title": "有余数除法的实际含义",
+  "bookId": "g2down",
+  "unitNumber": 6,
+  "unitTitle": "有余数的除法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "有余数除法的实际含义",
+      "question": "在一个有余数的除法算式中，剩下的不够再分的部分就是余数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据有余数除法的定义，平均分后剩下的不够再分的部分叫余数。这句话表述正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "有余数除法的实际含义",
+      "question": "算式 $15 \\div 4 = 3 \\dots 3$ 中，第二个“3”表示什么？",
+      "options": [
+        "分成的份数",
+        "每份的量",
+        "总数",
+        "余下的量"
+      ],
+      "answer": "余下的量",
+      "explanation": "在 $15 \\div 4 = 3 \\dots 3$ 中，前一个3是商，后一个3是余数，余数表示平均分后余下的量。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "有余数除法的实际含义",
+      "question": "17个苹果，每5个装一盘，可以装几盘？还剩几个？",
+      "options": [
+        "3盘还剩2个",
+        "2盘还剩7个",
+        "3盘还剩1个",
+        "4盘还剩1个"
+      ],
+      "answer": "3盘还剩2个",
+      "explanation": "$17 \\div 5 = 3 \\dots 2$。验算：$3 \\times 5 + 2 = 17$。所以是3盘剩2个。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "有余数除法的实际含义",
+      "question": "把14颗糖平均分给4个小朋友，每个小朋友分到3颗，还剩 ___ 颗。",
+      "options": [],
+      "answer": "2",
+      "explanation": "列式：$14 \\div 4 = 3$（颗）……2（颗）。验算：$4 \\times 3 + 2 = 14$。剩下2颗。"
+    }
+  ],
+  "knowledge": {
+    "point": "有余数除法的实际含义",
+    "core_concept": "在平时的平均分过程中，经常会出现分到最后还有剩余且不够再分一份的情况。这种剩下的数叫余数。例如10个球，每3个一组，分3组还剩1个，这个1就是余数。",
+    "key_formula": "被除数 ÷ 除数 = 商 …… 余数",
+    "common_mistakes": [
+      "将余数直接写在商的后面而漏掉省略号",
+      "混淆余数和商的含义"
+    ],
+    "tips": "记住“分掉的部分”和“剩下的部分”之和必须等于“总数”。"
+  }
+}

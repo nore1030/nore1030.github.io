@@ -1,0 +1,47 @@
+{
+  "id": "moral-g1down-u2-kp1",
+  "title": "分享与合作",
+  "bookId": "moral-g1down",
+  "unitNumber": 2,
+  "unitTitle": "我与大家",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分享与合作",
+      "question": "和小伙伴一起搭积木，应该（　）",
+      "options": [
+        "一个人独占",
+        "分工合作一起搭",
+        "推倒别人的",
+        "在旁边捣乱"
+      ],
+      "answer": "分工合作一起搭",
+      "explanation": "合作才能搭得更好。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分享与合作",
+      "question": "与同学分享图书是快乐的事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分享带来快乐。"
+    }
+  ],
+  "knowledge": {
+    "point": "分享与合作",
+    "core_concept": "与同学分享图书、玩具会带来快乐；小组合作时要分工配合，才能把事情做得更好。",
+    "key_formula": "分享快乐、合作共赢",
+    "common_mistakes": [
+      "只顾自己、不愿分享。"
+    ],
+    "tips": "一起努力收获更多。"
+  }
+}

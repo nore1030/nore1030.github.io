@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp4",
+  "title": "汉字字词",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 3,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉字字词",
+      "question": "下列词语中，加点字“琴”的读音正确的是：",
+      "options": [
+        "jín",
+        "qín",
+        "qíng",
+        "jínɡ"
+      ],
+      "answer": "qín",
+      "explanation": "“琴”的正确拼音是二声前鼻音。"
+    }
+  ],
+  "knowledge": null
+}

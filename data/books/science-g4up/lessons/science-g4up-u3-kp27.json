@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp27",
+  "title": "力的平衡与状态",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "力的平衡与状态",
+      "question": "要使静止的小车动起来，必须对它施加（___）。",
+      "options": [],
+      "answer": "力",
+      "explanation": "力是改变物体运动状态的原因。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,149 @@
+{
+  "id": "chinese-g6up-u6-kp3",
+  "title": "古诗词中的自然意境",
+  "bookId": "chinese-g6up",
+  "unitNumber": 6,
+  "unitTitle": "保护环境",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "《浪淘沙》（其一）的作者是唐代诗人刘禹锡。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《浪淘沙》（其一）确实是唐代诗人刘禹锡的作品。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“两山排闼送青来”中的“排闼”是指推开门。",
+      "options": [],
+      "answer": "对",
+      "explanation": "排闼意为推门。此处运用拟人手法，写青山富有情意。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“千里莺啼绿映红，水村山郭酒旗风”描写的是哪个季节？",
+      "options": [
+        "初春",
+        "盛夏",
+        "深秋",
+        "隆冬"
+      ],
+      "answer": "初春",
+      "explanation": "莺啼、绿映红是典型的春季景观。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“九曲黄河万里沙，浪淘风簸自天涯。”中“簸”的意思是：",
+      "options": [
+        "簸箕",
+        "颠簸、摇荡",
+        "跳跃",
+        "洗刷"
+      ],
+      "answer": "颠簸、摇荡",
+      "explanation": "诗句形容黄河波涛汹涌，泥沙随风浪荡漾。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "“南朝四百八十寺，多少楼台烟雨中。”中“四百八十”的意思是：",
+      "options": [
+        "恰好480座",
+        "很少的意思",
+        "虚指，形容多",
+        "指的是寺庙高度"
+      ],
+      "answer": "虚指，形容多",
+      "explanation": "这是古代诗歌常用的夸张或虚指手法。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "下列古诗词名句中，描写“绿意”最浓的一项是：",
+      "options": [
+        "浪淘风簸自天涯",
+        "两山排闼送青来",
+        "多少楼台烟雨中",
+        "如今直上银河去"
+      ],
+      "answer": "两山排闼送青来",
+      "explanation": "“送青来”直观表现出了满山的绿意。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "《书湖阴先生壁》中，运用了拟人手法的诗句是“一水护田将绿绕，（______）排闼送青来。”",
+      "options": [],
+      "answer": "两山",
+      "explanation": "根据课文内容，“两山”与“一水”相对。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "刘禹锡在《浪淘沙》中借“同到牵牛织女家”表达了对（______）生活的向往。",
+      "options": [],
+      "answer": "美好",
+      "explanation": "诗人借此表达了对宁静、美好生活图景的追求。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗词中的自然意境",
+      "question": "请将下列诗句与所描写的自然景色对应连线。",
+      "options": [
+        "千里莺啼绿映红",
+        "九曲黄河万里沙",
+        "茅檐长扫净无苔",
+        "两山排闼送青来",
+        "江南繁花",
+        "黄河气势",
+        "庭院洁净",
+        "山林春色"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "A对应江南美景，B对应黄河，C对应庭院，D对应山色。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗词中的自然意境",
+    "core_concept": "通过品味诗中的动词（如“绕”、“送”、“排”）来感受古人的拟人化表达。本单元古诗多采用动静结合的手法，如《江南春》中流动的风、飞莺与静止的寺庙。理解诗人的情感，要从景物色彩中体会其对自然的热爱。",
+    "key_formula": "悟意境 = 辨景物（意象） + 品动词（拟人/夸张） + 联情感",
+    "common_mistakes": [
+      "对诗中虚指数字（如四百八十、九曲）进行生硬的字面理解。",
+      "混淆不同诗人的写作风格和地域特色。"
+    ],
+    "tips": "脑海中把古诗词转变为一幅彩色画卷，能更好理解其意境。"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "g7down-u2-kp1",
+  "title": "平方根与立方根",
+  "bookId": "g7down",
+  "unitNumber": 2,
+  "unitTitle": "实数",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平方根与立方根",
+      "question": "$\\sqrt{16}=$ ___",
+      "options": [],
+      "answer": "4",
+      "explanation": "算术平方根取非负，$4^2=16$。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方根与立方根",
+      "question": "9 的平方根是（　）",
+      "options": [
+        "3",
+        "-3",
+        "±3",
+        "81"
+      ],
+      "answer": "±3",
+      "explanation": "正数有两个平方根，互为相反数。"
+    },
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平方根与立方根",
+      "question": "$\\sqrt[3]{27}=$ ___",
+      "options": [],
+      "answer": "3",
+      "explanation": "$3^3=27$。"
+    }
+  ],
+  "knowledge": {
+    "point": "平方根与立方根",
+    "core_concept": "若 $x^2=a(a\\ge0)$，则 $x$ 是 $a$ 的平方根，其中非负的为算术平方根。正数有两个平方根，互为相反数。若 $x^3=a$，则 $x$ 是 $a$ 的立方根。",
+    "key_formula": "$\\sqrt{a}\\ge0$；$\\sqrt[3]{-a}=-\\sqrt[3]{a}$",
+    "common_mistakes": [
+      "认为 $\\sqrt{9}=\\pm3$（算术平方根取非负）。"
+    ],
+    "tips": "注意正数平方根有两个，算术平方根只有一个。"
+  }
+}

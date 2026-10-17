@@ -1,0 +1,196 @@
+{
+  "id": "chinese-g6down-u5-kp2",
+  "title": "文言文实词与辩证思维",
+  "bookId": "chinese-g6down",
+  "unitNumber": 5,
+  "unitTitle": "科学精神",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "《学弈》中“通国之善弈者也”的“善”意思是“擅长”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "善：擅长，善于。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "《两小儿辩日》中“及其日中如探汤”的“汤”指的是“食物汤”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "汤：热水。这里指中午的太阳像热水一样热。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "“孔子不能决也”中的“决”意思是“决定，判定”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "决：判断。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "下列加点词语解释错误的一项是：",
+      "options": [
+        "思援弓缴而射之（援：引，拉）",
+        "孰为汝多知乎（知：同“智”，智慧）",
+        "及其日初出如沧沧凉凉（及其：达到）",
+        "为是其智弗若与（为：因为）"
+      ],
+      "answer": "及其日初出如沧沧凉凉（及其：达到）",
+      "explanation": "及其：等到。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "阅读《两小儿辩日》，一儿认为“日初出远，而日中时近也”，他的理由是：",
+      "options": [
+        "日中时如探汤",
+        "日初出大如车盖",
+        "孰为汝多知乎",
+        "此不为远者小而近者大乎"
+      ],
+      "answer": "此不为远者小而近者大乎",
+      "explanation": "他根据视觉感官“近大远小”的经验进行判断。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "文中“虽与之俱学，弗若之矣”的“之”字指代的是：",
+      "options": [
+        "弈秋",
+        "鸿鹄",
+        "后一个人",
+        "前一个人"
+      ],
+      "answer": "前一个人",
+      "explanation": "指代那个专心致志学弈的人。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "“使弈秋诲二人弈”中“诲”的意思是：",
+      "options": [
+        "后悔",
+        "教导",
+        "谈话",
+        "观察"
+      ],
+      "answer": "教导",
+      "explanation": "诲：教导。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "“孔子东游，见两小儿辩斗”中“辩斗”的意思是：",
+      "options": [
+        "打架",
+        "比赛跑",
+        "辩论，争论",
+        "玩游戏"
+      ],
+      "answer": "辩论，争论",
+      "explanation": "辩斗：辩论，争论。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "《学弈》一文告诉我们，学习必须（____）。",
+      "options": [],
+      "answer": "专心致志",
+      "explanation": "文中对比了两个人的学习态度，强调了专心的重要性。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "“孰为汝多知乎”中“孰”的意思是（____）。",
+      "options": [],
+      "answer": "谁",
+      "explanation": "孰：谁。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "请将下列文言文字词与对应的意思连线。",
+      "options": [
+        "弈",
+        "诲",
+        "俱",
+        "弗",
+        "不",
+        "教导",
+        "下棋",
+        "一起"
+      ],
+      "answer": "A-3,B-2,C-4,D-1",
+      "explanation": "弈-下棋，诲-教导，俱-一起，弗-不。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言文实词与辩证思维",
+      "question": "请将下列成语与对应的人物或故事连线。",
+      "options": [
+        "专心致志",
+        "两小儿辩日",
+        "见微知著",
+        "锲而不舍",
+        "只要功夫深",
+        "科学发现",
+        "学弈",
+        "孔子"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "专心致志-学弈，两小儿辩日-孔子，见微知著-科学发现，锲而不舍-只要功夫深。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言文实词与辩证思维",
+    "core_concept": "理解文言文的关键在于掌握重点实词。如《学弈》中的指示代词“之”的不同指代对象。同时，学习古人的辩证思维，如两小儿从不同感官（视觉与触觉）出发产生的认知冲突。这不仅是语言学习，更是批判性思维和科学探索态度的启蒙。",
+    "key_formula": "文言基础：一词多义辨析 + 逻辑点：现象背后的原因",
+    "common_mistakes": [
+      "混淆多音字和古今异义词，如将“汤”误解为“鸡汤”。",
+      "忽略指示代词的指代对象，导致句意理解偏差。"
+    ],
+    "tips": "通过对比学习法，将两个人的学习表现或两小儿的观点画成对照表，加深记忆。"
+  }
+}

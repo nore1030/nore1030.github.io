@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u4-kp5",
+  "title": "核心素养-观察点",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 4,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "核心素养-观察点",
+      "question": "读《花钟》，午时花是在什么时候开放？",
+      "options": [
+        "中午十二点左右",
+        "凌晨四点",
+        "下午三点",
+        "傍晚六点"
+      ],
+      "answer": "中午十二点左右",
+      "explanation": "课文描述午时花在中午十二点左右开花。"
+    }
+  ],
+  "knowledge": null
+}

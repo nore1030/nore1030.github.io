@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 4 Fun time — School clubs 学校社团",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "社团词汇 club / join / art / music",
+      "question": "「篮球社」的英文是（　）",
+      "options": [
+        "basketball club",
+        "basketball clubs",
+        "basket ball club",
+        "basketball's club"
+      ],
+      "answer": "basketball club",
+      "explanation": "合写 basketball。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "would like to 表达意愿",
+      "question": "「你想加入什么社团？」的英文是（　）",
+      "options": [
+        "What club would you like to join?",
+        "What club you would like to join?",
+        "What club would you like joining?",
+        "What club do you like join?"
+      ],
+      "answer": "What club would you like to join?",
+      "explanation": "would like to + 原形。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "would like to 表达意愿",
+      "question": "would like 表示「想要」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表意愿。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "社团词汇 club / join / art / music",
+      "question": "社团活动一般在（　）进行",
+      "options": [
+        "after school",
+        "in the morning",
+        "at night",
+        "in bed"
+      ],
+      "answer": "after school",
+      "explanation": "课后活动。"
+    }
+  ],
+  "knowledge": null
+}

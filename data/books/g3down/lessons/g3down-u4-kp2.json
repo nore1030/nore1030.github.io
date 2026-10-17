@@ -1,0 +1,129 @@
+{
+  "id": "g3down-u4-kp2",
+  "title": "不进位与进位的笔算乘法",
+  "bookId": "g3down",
+  "unitNumber": 4,
+  "unitTitle": "两位数乘两位数",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "两位数乘两位数，积一定是三位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "最小的两位数乘积 $10 \times 10 = 100$ 是三位数，最大的两位数乘积 $99 \times 99 = 9801$ 是四位数。所以积可能是三位数或四位数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "一个乘数的末尾有一个 0，另一个乘数的末尾没有 0，积的末尾至少有一个 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据乘法的基本性质，乘数末尾的 0 会落到积的末尾，如 $10 \times 2 = 20$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "在笔算 $23 \times 12$ 时，用第二个因数十位上的 1 去乘 23，得到的是：",
+      "options": [
+        "23",
+        "230",
+        "46",
+        "2300"
+      ],
+      "answer": "230",
+      "explanation": "十位上的 1 表示 1 个十，即 $23 \times 10 = 230$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "下面各题中，积最接近 1200 的是：",
+      "options": [
+        "21 \times 59",
+        "30 \times 41",
+        "38 \times 32",
+        "19 \times 49"
+      ],
+      "answer": "30 \times 41",
+      "explanation": "$21 \times 59 \times \text{≈} 1200$；$30 \times 41 = 1230$；$38 \times 32 \times \text{≈} 1200$；$30 \times 41$ 最接近。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "$42 \times 21$ 的结果大约是：",
+      "options": [
+        "60",
+        "800",
+        "400",
+        "1200"
+      ],
+      "answer": "800",
+      "explanation": "$42 \times \text{≈} 40$，$21 \times \text{≈} 20$，$40 \times 20 = 800$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "$25 \times 16$ 的积是：",
+      "options": [
+        "400",
+        "300",
+        "250",
+        "350"
+      ],
+      "answer": "400",
+      "explanation": "$25 \times 16 = 25 \times 4 \times 4 = 100 \times 4 = 400$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "一本练习本 12 元，买 24 本需要 ___ 元。",
+      "options": [],
+      "answer": "288",
+      "explanation": "$12 \times 24 = 288$。验算：$12 \times 20 = 240$，$12 \times 4 = 48$，$240 + 48 = 288$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "$34 \times 12 = ?$",
+      "options": [],
+      "answer": "408",
+      "explanation": "$34 \times 2 = 68$，$34 \times 10 = 340$，$68 + 340 = 408$。验算：$408 \times \text{÷} 12 = 34$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "不进位与进位的笔算乘法",
+    "core_concept": "笔算两位数乘两位数时，用第二个因数的每一位分别去乘第一个因数。用第二个因数十位上的数去乘时，积的末位要和十位对齐。最后把两次乘得的积相加。",
+    "key_formula": "两位数 \times 两位数 = \text{部分积}_1 + \text{部分积}_2",
+    "common_mistakes": [
+      "用十位数乘时积的末位与个位对齐",
+      "进位加法漏算"
+    ],
+    "tips": "相同数位要对齐，从个位起依次乘。十位乘积写十位，最后相加是总积。"
+  }
+}

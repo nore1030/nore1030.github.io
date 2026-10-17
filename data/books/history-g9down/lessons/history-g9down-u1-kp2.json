@@ -1,0 +1,47 @@
+{
+  "id": "history-g9down-u1-kp2",
+  "title": "改革开放与中国特色社会主义",
+  "bookId": "history-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现代中国的建设",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与中国特色社会主义",
+      "question": "作出改革开放历史性决策的会议是（　）",
+      "options": [
+        "中共十一届三中全会",
+        "遵义会议",
+        "中共八大",
+        "中共七大"
+      ],
+      "answer": "中共十一届三中全会",
+      "explanation": "十一届三中全会。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与中国特色社会主义",
+      "question": "改革开放是当代中国最鲜明的特色。",
+      "options": [],
+      "answer": "对",
+      "explanation": "改革特色。"
+    }
+  ],
+  "knowledge": {
+    "point": "改革开放与中国特色社会主义",
+    "core_concept": "1978 年召开的中共十一届三中全会作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性决策。",
+    "key_formula": "1978 十一届三中全会",
+    "common_mistakes": [
+      "把十一届三中全会与遵义会议混淆。"
+    ],
+    "tips": "改革开放的转折点。"
+  }
+}

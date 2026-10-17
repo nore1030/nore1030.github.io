@@ -1,0 +1,23 @@
+{
+  "id": "science-g3down-u3-kp8",
+  "title": "影子的产生条件",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 2,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "影子的产生条件",
+      "question": "只要有光，就一定能看到物体的影子。",
+      "options": [],
+      "answer": "错",
+      "explanation": "影子产生的条件包括光源、遮挡物和屏，三者缺一不可。"
+    }
+  ],
+  "knowledge": null
+}

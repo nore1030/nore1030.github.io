@@ -1,0 +1,103 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 人物与职业",
+      "knowledge_points": [
+        {
+          "name": "职业名称",
+          "description": "掌握常见职业的英文。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "be 动词与一般现在时",
+          "description": "用一般现在时描述职业与日常。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-beishida-g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 校园与学习",
+      "knowledge_points": [
+        {
+          "name": "学校场所与科目",
+          "description": "掌握学校场所与科目名称。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一般现在时的疑问与否定",
+          "description": "掌握一般现在时的疑问句与否定句。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-beishida-g10up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-beishida-g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-beishida-g10up-u1-kp1",
+      "title": "职业名称",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 人物与职业",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g10up-u1-kp2",
+      "title": "be 动词与一般现在时",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 人物与职业",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g10up-u2-kp1",
+      "title": "学校场所与科目",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 校园与学习",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-beishida-g10up-u2-kp2",
+      "title": "一般现在时的疑问与否定",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 校园与学习",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "温暖的家",
+      "knowledge_points": [
+        {
+          "name": "家庭责任与分担",
+          "description": "主动承担家务，体谅父母。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "沟通与理解家人",
+          "description": "学会与家人沟通。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "moral-g3down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "我们的公共生活",
+      "knowledge_points": [
+        {
+          "name": "爱护公用设施",
+          "description": "爱护公共设施，遵守使用规则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文明礼貌与社会公德",
+          "description": "做文明有礼的好学生。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "moral-g3down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "moral-g3down",
+  "grade": 3,
+  "semester": "down",
+  "subject": "moral",
+  "lessons": [
+    {
+      "id": "moral-g3down-u1-kp1",
+      "title": "家庭责任与分担",
+      "unitNumber": 1,
+      "unitTitle": "温暖的家",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g3down-u1-kp2",
+      "title": "沟通与理解家人",
+      "unitNumber": 1,
+      "unitTitle": "温暖的家",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g3down-u2-kp1",
+      "title": "爱护公用设施",
+      "unitNumber": 2,
+      "unitTitle": "我们的公共生活",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "moral-g3down-u2-kp2",
+      "title": "文明礼貌与社会公德",
+      "unitNumber": 2,
+      "unitTitle": "我们的公共生活",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

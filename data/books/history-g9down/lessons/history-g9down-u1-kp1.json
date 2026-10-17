@@ -1,0 +1,47 @@
+{
+  "id": "history-g9down-u1-kp1",
+  "title": "社会主义制度的建立与探索",
+  "bookId": "history-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现代中国的建设",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "社会主义制度的建立与探索",
+      "question": "社会主义基本制度确立的标志是（　）",
+      "options": [
+        "三大改造基本完成",
+        "新中国成立",
+        "抗美援朝胜利",
+        "一五计划完成"
+      ],
+      "answer": "三大改造基本完成",
+      "explanation": "1956 年三大改造。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "社会主义制度的建立与探索",
+      "question": "三大改造的完成标志社会主义基本制度在我国建立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "改造完成意义。"
+    }
+  ],
+  "knowledge": {
+    "point": "社会主义制度的建立与探索",
+    "core_concept": "1953—1956 年三大改造完成，社会主义基本制度在中国确立，这是中国历史上最深刻的社会变革。1956—1966 年是全面社会主义建设时期。",
+    "key_formula": "1956 三大改造完成",
+    "common_mistakes": [
+      "认为改造完成标志社会主义制度确立是错——这正是要点。"
+    ],
+    "tips": "三大改造与制度确立。"
+  }
+}

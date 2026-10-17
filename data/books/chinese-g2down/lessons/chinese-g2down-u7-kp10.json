@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u7-kp10",
+  "title": "词语分类",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 9,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语分类",
+      "question": "下列哪个词语不是描写环境的？",
+      "options": [
+        "绿草如茵",
+        "阳光灿烂",
+        "自言自语",
+        "鲜花盛开"
+      ],
+      "answer": "自言自语",
+      "explanation": "自言自语是描写动作或神态的。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u3-kp7",
+  "title": "疑问词含义",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "疑问词含义",
+      "question": "'Where' 常用于询问地点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Where 是对地点的提问。"
+    }
+  ],
+  "knowledge": null
+}

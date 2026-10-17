@@ -1,0 +1,125 @@
+{
+  "id": "english-g4up-u4-kp2",
+  "title": "一般疑问句确认位置",
+  "bookId": "english-g4up",
+  "unitNumber": 4,
+  "unitTitle": "My home",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "回答 'Is she in the study?' 可以用 'Yes, it is.'",
+      "options": [],
+      "answer": "错",
+      "explanation": "问句主语是 she，回答也应使用 she，即：Yes, she is。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "—Where are the keys? —______ in the door.",
+      "options": [
+        "It is",
+        "They are",
+        "She is",
+        "He is"
+      ],
+      "answer": "They are",
+      "explanation": "keys 为复数形式，其代词应为 they。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "—Is your cat in the kitchen? —______",
+      "options": [
+        "No, she is.",
+        "Yes, she isn't.",
+        "No, she isn't.",
+        "Yes, it is not."
+      ],
+      "answer": "No, she isn't.",
+      "explanation": "一般疑问句否定回答为 No, 主语 + isn't。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "Where ______ my books?",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "are",
+      "explanation": "books 是复数，对应的 be 动词是 are。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "Is she in the kitchen? No, she ______ .",
+      "options": [],
+      "answer": "isn't",
+      "explanation": "is 引导的疑问句否定回答为 isn't。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "______ is the cat? It's under the bed.",
+      "options": [],
+      "answer": "where",
+      "explanation": "询问位置用疑问词 where。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "将单词连成句子（注意标点）：",
+      "options": [
+        "she",
+        "in",
+        "the",
+        "Is",
+        "study?"
+      ],
+      "answer": "Is,she,in,the,study?",
+      "explanation": "一般疑问句 Be 动词置于句首，后接主语和地点。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般疑问句确认位置",
+      "question": "将单词连成句子：",
+      "options": [
+        "No",
+        "they",
+        "aren't."
+      ],
+      "answer": "No,they,aren't.",
+      "explanation": "否定回答格式：No, 主语 + aren't。"
+    }
+  ],
+  "knowledge": null
+}

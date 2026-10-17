@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u7-kp1",
+  "title": "电脑词汇 computer / keyboard / mouse / screen",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Computers 电脑",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+      "question": "「键盘」的英文是（　）",
+      "options": [
+        "keyboard",
+        "keybord",
+        "key bord",
+        "keyboardd"
+      ],
+      "answer": "keyboard",
+      "explanation": "keyboard 键盘。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+      "question": "「鼠标」的英文是（　）",
+      "options": [
+        "mouse",
+        "mice",
+        "mous",
+        "mousse"
+      ],
+      "answer": "mouse",
+      "explanation": "mouse 鼠标。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+      "question": "screen 的意思是「屏幕」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "screen 屏幕。"
+    }
+  ],
+  "knowledge": {
+    "point": "电脑词汇 computer / keyboard / mouse / screen",
+    "core_concept": "computer 电脑、keyboard 键盘、mouse 鼠标、screen 屏幕、printer 打印机。",
+    "key_formula": "on the computer 在电脑上",
+    "common_mistakes": [
+      "keyboard 写成 keybord。"
+    ],
+    "tips": "keyboard 结尾 -oard。"
+  }
+}

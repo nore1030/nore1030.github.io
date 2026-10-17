@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp9",
+  "title": "多音字读音",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音",
+      "question": "下面词语中，“系”字的读音与“系绳子”相同的是？",
+      "options": [
+        "关系",
+        "联系",
+        "系好鞋带",
+        "系统"
+      ],
+      "answer": "系好鞋带",
+      "explanation": "在“系绳子”、“系鞋带”中读jì，在“关系”、“联系”中读xì。"
+    }
+  ],
+  "knowledge": null
+}

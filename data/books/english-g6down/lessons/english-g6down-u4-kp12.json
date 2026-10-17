@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp12",
+  "title": "特殊疑问句",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "特殊疑问句",
+      "question": "How ______ did you change?",
+      "options": [
+        "many",
+        "much",
+        "old",
+        "often"
+      ],
+      "answer": "much",
+      "explanation": "How much 询问程度，表示“改变了多少”。"
+    }
+  ],
+  "knowledge": null
+}

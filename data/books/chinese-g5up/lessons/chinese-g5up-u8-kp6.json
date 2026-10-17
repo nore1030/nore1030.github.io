@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u8-kp6",
+  "title": "书籍与人物匹配",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 5,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书籍与人物匹配",
+      "question": "请将书籍名称与书中对应的经典人物连线。",
+      "options": [
+        "《西游记》",
+        "《水浒传》",
+        "《红楼梦》",
+        "《三国演义》",
+        "林黛玉",
+        "孙悟空",
+        "诸葛亮",
+        "林冲"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "孙悟空属西游记，林冲属水浒传，林黛玉属红楼梦，诸葛亮属三国演义。"
+    }
+  ],
+  "knowledge": null
+}

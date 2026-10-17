@@ -1,0 +1,82 @@
+{
+  "id": "english-g5up-u1-kp3",
+  "title": "确认特征的一般疑问句",
+  "bookId": "english-g5up",
+  "unitNumber": 1,
+  "unitTitle": "What’s he like?",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "确认特征的一般疑问句",
+      "question": "当回答 'Is he polite?' 时，可以用 'Yes, he is.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "Is he...? 的肯定回答是 Yes, he is."
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "确认特征的一般疑问句",
+      "question": "— Is she quiet? — ______",
+      "options": [
+        "Yes, she isn't.",
+        "No, she is.",
+        "No, she isn't.",
+        "No, he isn't."
+      ],
+      "answer": "No, she isn't.",
+      "explanation": "一般疑问句否定回答主谓必须一致且使用否定形式。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认特征的一般疑问句",
+      "question": "— Is your father strict? — Yes, ______ very strict.",
+      "options": [
+        "he's",
+        "she's",
+        "it's",
+        "they're"
+      ],
+      "answer": "he's",
+      "explanation": "father 是男性，缩写 he's。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认特征的一般疑问句",
+      "question": "— Is he funny? — No, he ______.",
+      "options": [],
+      "answer": "isnt",
+      "explanation": "is not 的缩写，此处填 isnt 符合小写要求。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "确认特征的一般疑问句",
+      "question": "连词成句：Is, kind, she, ?",
+      "options": [
+        "Is",
+        "kind",
+        "she",
+        "?"
+      ],
+      "answer": "Is,she,kind,?",
+      "explanation": "一般疑问句结构：Be动词+主语+形容词？"
+    }
+  ],
+  "knowledge": null
+}

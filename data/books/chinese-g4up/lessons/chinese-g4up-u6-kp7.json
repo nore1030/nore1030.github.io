@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u6-kp7",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 6,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“鹅的步调从容，大模大样的，颇像京剧里的净角出场。”运用了什么修辞？",
+      "options": [
+        "比喻",
+        "排比",
+        "设问",
+        "拟人"
+      ],
+      "answer": "比喻",
+      "explanation": "将“鹅的步调”比作“净角出场”，是典型的比喻句。"
+    }
+  ],
+  "knowledge": null
+}

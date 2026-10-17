@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u8-kp17",
+  "title": "成语填空",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语填空",
+      "question": "在这个单元中，我们学到了描写雪景的一个四字成语是：雪花（    ）。",
+      "options": [],
+      "answer": "飞舞",
+      "explanation": "雪花飞舞是书中描写冬天的常见词汇。"
+    }
+  ],
+  "knowledge": null
+}

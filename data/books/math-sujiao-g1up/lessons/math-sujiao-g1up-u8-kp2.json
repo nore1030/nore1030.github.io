@@ -1,0 +1,42 @@
+{
+  "id": "math-sujiao-g1up-u8-kp2",
+  "title": "10 以内的减法",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 8,
+  "unitTitle": "10以内的加法和减法",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "10 以内的减法",
+      "question": "计算：9 − 5 = ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "9 − 5 = 4。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "10 以内的减法",
+      "question": "计算：8 − 3 = ？",
+      "options": [],
+      "answer": "5",
+      "explanation": "8 − 3 = 5。"
+    }
+  ],
+  "knowledge": {
+    "point": "10 以内的减法",
+    "core_concept": "从总数里去掉一部分求剩下用减法；可用「想加算减」。",
+    "key_formula": "$a-b=c$",
+    "common_mistakes": [
+      "减法顺序颠倒。"
+    ],
+    "tips": "总数减去掉的部分。"
+  }
+}

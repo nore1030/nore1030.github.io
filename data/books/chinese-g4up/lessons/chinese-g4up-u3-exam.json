@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g4up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chinese-g4up",
+  "unitNumber": 3,
+  "unitTitle": "处处留心皆学问",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "连续细致的观察",
+      "question": "观察不仅要用眼睛看，还可以用耳朵听、用手摸、用鼻子闻。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全感官观察是细致观察的重要方法。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "“骚人阁笔费评章”里的“骚人”指的是风骚的人。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“骚人”在此处指诗人。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "连续细致的观察",
+      "question": "如果没有细致观察，法布尔不可能写出《昆虫记》这样严谨的作品。",
+      "options": [],
+      "answer": "对",
+      "explanation": "严谨科学的作品建立在极为细致的观察基础上。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《暮江吟》这首诗是在描写冬天的景色。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据“九月初三”可知这是晚秋时节的景色。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "下列哪组词语可以形容《暮江吟》中描写的江水颜色？",
+      "options": [
+        "蔚蓝 翠绿",
+        "碧绿 鲜红",
+        "淡黄 苍白",
+        "漆黑 透明"
+      ],
+      "answer": "碧绿 鲜红",
+      "explanation": "“瑟瑟”指碧绿色，“红”指夕阳映照下的鲜红色。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察日记的记录格式",
+      "question": "在记录观察日记时，第一行不一定要写的是：",
+      "options": [
+        "日期",
+        "星期",
+        "天气",
+        "心情"
+      ],
+      "answer": "心情",
+      "explanation": "日记格式通常首行包含日期、星期和天气，心情属于正文。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连续细致的观察",
+      "question": "“蟋蟀并不利用现成的洞穴”，这句话体现了它：",
+      "options": [
+        "没有伙伴",
+        "非常懒惰",
+        "不肯随遇而安",
+        "动作缓慢"
+      ],
+      "answer": "不肯随遇而安",
+      "explanation": "课文明确提到蟋蟀不利用现成洞穴体现了其勤劳、不随意的性格。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "连续细致的观察",
+      "question": "为了观察蚂蚁搬家，小明连续观察了三天，这属于：",
+      "options": [
+        "粗略观察",
+        "连续观察",
+        "对比观察",
+        "随机观察"
+      ],
+      "answer": "连续观察",
+      "explanation": "“连续三天”强调了观察的持续性和动态过程。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连续细致的观察",
+      "question": "下列不是描写动物筑巢的词语是：",
+      "options": [
+        "慎重选择",
+        "勤修深掘",
+        "倾斜隧道",
+        "五颜六色"
+      ],
+      "answer": "五颜六色",
+      "explanation": "五颜六色形容颜色，非动作或结构描述。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "“梅须逊雪三分白，雪却输梅一段香”比较的是：",
+      "options": [
+        "姿态",
+        "颜色与气味",
+        "耐寒程度",
+        "开花时间"
+      ],
+      "answer": "颜色与气味",
+      "explanation": "白指的是颜色，香指的是气味。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "《暮江吟》的作者是唐代大诗人（___）。",
+      "options": [],
+      "answer": "白居易",
+      "explanation": "考查文学常识。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连续细致的观察",
+      "question": "爬山虎的脚要是（___）墙，不几天就枯萎了。",
+      "options": [],
+      "answer": "没触着",
+      "explanation": "精准记忆课文描述的条件关系。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境与哲理理解",
+      "question": "请将诗中的词语与现代文含义相连。",
+      "options": [
+        "阁笔",
+        "逊",
+        "末巧",
+        "瑟瑟",
+        "停笔",
+        "碧绿色",
+        "略微",
+        "不及"
+      ],
+      "answer": "A-1,B-4,C-3,D-2",
+      "explanation": "阁笔=停笔；逊=不及（差）；末巧=略微；瑟瑟=碧绿。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "连续细致的观察",
+      "question": "请根据课文内容连接动作及其作用。",
+      "options": [
+        "前足扒土",
+        "后足踏地",
+        "钳子搬块",
+        "锯掉草",
+        "推土",
+        "挖掘",
+        "搬运",
+        "清理"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "考查对《蟋蟀的住宅》中蟋蟀建造动作的精细化理解。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连续细致的观察",
+      "question": "请将描写观察发现的句子排好序：",
+      "options": [
+        "只要",
+        "细心观察",
+        "就会有",
+        "发现"
+      ],
+      "answer": "只要,细心观察,就会有,发现",
+      "explanation": "考查条件关系的句子结构。"
+    }
+  ],
+  "knowledge": null
+}

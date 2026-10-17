@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5down-u2-kp2",
+  "title": "法治意识启蒙",
+  "bookId": "moral-g5down",
+  "unitNumber": 2,
+  "unitTitle": "公德与法治意识",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "法治意识启蒙",
+      "question": "权利受到侵害时，正确的做法是（　）",
+      "options": [
+        "冷静保留证据向有关部门反映",
+        "动手报复",
+        "忍气吞声放弃",
+        "在网上乱骂"
+      ],
+      "answer": "冷静保留证据向有关部门反映",
+      "explanation": "依法维权。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "法治意识启蒙",
+      "question": "未成年人自身也要增强法治意识。",
+      "options": [],
+      "answer": "对",
+      "explanation": "从小懂法。"
+    }
+  ],
+  "knowledge": {
+    "point": "法治意识启蒙",
+    "core_concept": "遇到纠纷要先冷静，保留证据，向家长、老师或有关部门反映，必要时通过法律途径解决。",
+    "key_formula": "依法维权",
+    "common_mistakes": [
+      "自己动手报复。"
+    ],
+    "tips": "维权要讲方法。"
+  }
+}

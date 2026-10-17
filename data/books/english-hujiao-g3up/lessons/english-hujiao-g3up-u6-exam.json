@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 2 My family, my friends and me — Me 我自己",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "自我介绍 I'm…",
+      "question": "「他十岁。」的英文是（　）",
+      "options": [
+        "He is ten.",
+        "He are ten.",
+        "He ten.",
+        "He is ten year."
+      ],
+      "answer": "He is ten.",
+      "explanation": "He is + 数字。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表达年龄 I'm nine (years old)",
+      "question": "— Are you nine? — Yes, ___",
+      "options": [
+        "I am",
+        "I'm nine",
+        "you are",
+        "he is"
+      ],
+      "answer": "I am",
+      "explanation": "简答用 Yes, I am."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "表达年龄 I'm nine (years old)",
+      "question": "表达年龄用 be 动词 am / is / are。",
+      "options": [],
+      "answer": "对",
+      "explanation": "不用 have。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自我介绍 I'm…",
+      "question": "向新同学介绍自己，不合适的是（　）",
+      "options": [
+        "How old are you?",
+        "I'm Li Ming.",
+        "I'm a pupil.",
+        "Nice to meet you."
+      ],
+      "answer": "How old are you?",
+      "explanation": "先介绍自己，不要先问隐私。"
+    }
+  ],
+  "knowledge": null
+}

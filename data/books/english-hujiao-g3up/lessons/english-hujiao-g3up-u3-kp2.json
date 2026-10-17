@@ -1,0 +1,52 @@
+{
+  "id": "english-hujiao-g3up-u3-kp2",
+  "title": "询问姓名 What's your name?",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 1 Getting to know you — Are you Kitty? 你是谁",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问姓名 What's your name?",
+      "question": "询问对方姓名应说（　）",
+      "options": [
+        "What's your name?",
+        "How are you?",
+        "Are you Kitty?",
+        "How old are you?"
+      ],
+      "answer": "What's your name?",
+      "explanation": "问姓名用 What's your name。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问姓名 What's your name?",
+      "question": "「我叫莉莉。」的正确表达是（　）",
+      "options": [
+        "My name is Lily.",
+        "My name Lily.",
+        "I name is Lily.",
+        "My am Lily."
+      ],
+      "answer": "My name is Lily.",
+      "explanation": "My name is + 名字。"
+    }
+  ],
+  "knowledge": {
+    "point": "询问姓名 What's your name?",
+    "core_concept": "询问姓名 What's your name?，回答 My name is… 或 I'm…",
+    "key_formula": "What's your name? — My name is Lily.",
+    "common_mistakes": [
+      "回答漏掉 is：My name Lily（×）。"
+    ],
+    "tips": "name 后面要有 is。"
+  }
+}

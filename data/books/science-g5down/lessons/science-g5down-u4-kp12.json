@@ -1,0 +1,44 @@
+{
+  "id": "science-g5down-u4-kp12",
+  "title": "热量的传递",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "热量的传递",
+      "question": "在金属条的中部加热，热量会（）。",
+      "options": [
+        "只向左端传递",
+        "只向右端传递",
+        "向两端传递",
+        "不传递"
+      ],
+      "answer": "向两端传递",
+      "explanation": "热在固体中会从受热处（高温）向未受热处（低温）各个方向传递。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "热量的传递",
+      "question": "冬天触摸室外的铁棒比木头感觉更冷，是因为（）。",
+      "options": [
+        "铁棒的温度比木头低",
+        "铁棒是热的良导体，能迅速传走手上的热",
+        "铁棒吸收了冷气",
+        "木头能产生热量"
+      ],
+      "answer": "铁棒是热的良导体，能迅速传走手上的热",
+      "explanation": "铁导热快，在相同时间内从手上带走的热量更多。"
+    }
+  ],
+  "knowledge": null
+}

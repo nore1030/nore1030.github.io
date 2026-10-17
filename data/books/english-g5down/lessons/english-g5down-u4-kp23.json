@@ -1,0 +1,32 @@
+{
+  "id": "english-g5down-u4-kp23",
+  "title": "关键词汇",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键词汇",
+      "question": "将英文表达与中文意思匹配。",
+      "options": [
+        "art show",
+        "sports meet",
+        "math test",
+        "birthday",
+        "生日",
+        "数学测试",
+        "运动会",
+        "美术展"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "art show-美术展, sports meet-运动会, math test-数学测试, birthday-生日。"
+    }
+  ],
+  "knowledge": null
+}

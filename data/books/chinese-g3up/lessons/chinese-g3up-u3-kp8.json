@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u3-kp8",
+  "title": "字词辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 7,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词辨析",
+      "question": "‘咱们’一词中，‘咱’字的偏旁是（___）。",
+      "options": [],
+      "answer": "口",
+      "explanation": "该字为提口旁。"
+    }
+  ],
+  "knowledge": null
+}

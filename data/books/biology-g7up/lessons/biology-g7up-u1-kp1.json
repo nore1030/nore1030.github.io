@@ -1,0 +1,47 @@
+{
+  "id": "biology-g7up-u1-kp1",
+  "title": "生物的特征与调查",
+  "bookId": "biology-g7up",
+  "unitNumber": 1,
+  "unitTitle": "生物和生物圈",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生物的特征与调查",
+      "question": "下列属于生物的是（　）",
+      "options": [
+        "钟乳石",
+        "珊瑚虫",
+        "机器人",
+        "雪花"
+      ],
+      "answer": "珊瑚虫",
+      "explanation": "珊瑚虫具有生命现象。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "生物的特征与调查",
+      "question": "生物都能对外界刺激作出反应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "应激性是生物特征。"
+    }
+  ],
+  "knowledge": {
+    "point": "生物的特征与调查",
+    "core_concept": "生物具有需要营养、能呼吸、能排出废物、能对外界刺激作出反应、能生长繁殖、有遗传变异等特征（病毒除外）。调查要明确目的、制定方案、如实记录。",
+    "key_formula": "生物的基本特征",
+    "common_mistakes": [
+      "把钟乳石长大当作生物生长。"
+    ],
+    "tips": "看是否具有生命现象。"
+  }
+}

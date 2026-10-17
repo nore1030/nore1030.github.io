@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u7-kp6",
+  "title": "字词积累",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 5,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "下列词语中，书写完全正确的一项是？",
+      "options": [
+        "漆黑 黎明 旷野",
+        "幕色 降临 繁星",
+        "由其 炭火 凛冽",
+        "纠正 树梢 闲逸"
+      ],
+      "answer": "漆黑 黎明 旷野",
+      "explanation": "B项暮色，C项尤其，D项闲逸正确但本单元重点关注词语书写。"
+    }
+  ],
+  "knowledge": null
+}

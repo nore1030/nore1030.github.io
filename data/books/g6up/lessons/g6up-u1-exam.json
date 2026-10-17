@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 1,
+  "unitTitle": "分数乘法",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "一个数(0除外)乘真分数，积一定小于这个数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为真分数小于 1，非零数乘小于 1 的数，积会变小。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数乘分数的计算法则",
+      "question": "$\\frac{2}{3} \\times \\frac{3}{2} = 1$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分子分母正好相反，乘积为 1，互为倒数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "甲数比乙数多 $\\frac{1}{4}$，则乙数比甲数少 $\\frac{1}{4}$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "单位“1”发生了变化。甲是乙的 $1+\\frac{1}{4}=\\frac{5}{4}$，乙比甲少：$(\\frac{5}{4}-1) \\div \\frac{5}{4} = \\frac{1}{5}$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "$(8 + \\frac{8}{9}) \\times \\frac{1}{8} = 1 + \\frac{1}{9}$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "应用分配律：$8 \\times \\frac{1}{8} + \\frac{8}{9} \\times \\frac{1}{8} = 1 + \\frac{1}{9}$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘分数的计算法则",
+      "question": "如果 $a \\times \\frac{5}{4} = b \\times \\frac{4}{5} = c$ (a,b均不为0)，那么 $a, b, c$ 最大的数是：",
+      "options": [
+        "b",
+        "a",
+        "c",
+        "一样大"
+      ],
+      "answer": "b",
+      "explanation": "因为 $\\frac{5}{4} > 1 > \\frac{4}{5}$，所以 $a < c < b$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "求一个数的几分之几是多少",
+      "question": "一本书 120 页，小红第一天看了全书的 $\\frac{1}{3}$，第二天看了剩下的 $\\frac{1}{2}$，两天一共看了多少页？",
+      "options": [
+        "80 页",
+        "40 页",
+        "60 页",
+        "100 页"
+      ],
+      "answer": "80 页",
+      "explanation": "第一天看 $120 \\times \\frac{1}{3}=40$页；剩余 $120-40=80$页；第二天看 $80 \\times \\frac{1}{2}=40$页。一共 $40+40=80$页。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比一个数多/少几分之几的问题",
+      "question": "食堂有煤 2 吨，用去 $\\frac{1}{4}$ 吨后，又用去余下的 $\\frac{1}{4}$，两次共用去多少吨？",
+      "options": [
+        "$\\frac{11}{16}$ 吨",
+        "$\\frac{1}{2}$ 吨",
+        "$\\frac{3}{4}$ 吨",
+        "1 吨"
+      ],
+      "answer": "$\\frac{11}{16}$ 吨",
+      "explanation": "第一次用 $\\frac{1}{4}$吨，余 $2 - \\frac{1}{4} = \\frac{7}{4}$吨。第二次用 $\\frac{7}{4} \\times \\frac{1}{4} = \\frac{7}{16}$吨。合计 $\\frac{4}{16} + \\frac{7}{16} = \\frac{11}{16}$吨。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数的几分之几是多少",
+      "question": "比 40 的 $\\frac{2}{5}$ 多 10 的数是多少？",
+      "options": [
+        "26",
+        "16",
+        "36",
+        "40"
+      ],
+      "answer": "26",
+      "explanation": "$40 \\times \\frac{2}{5} + 10 = 16 + 10 = 26$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘分数的计算法则",
+      "question": "两根长都是 2 米的绳子，第一根剪去 $\\frac{1}{4}$ 米，第二根剪去全长的 $\\frac{1}{4}$，哪一根剪去的长？",
+      "options": [
+        "第二根剪去的长",
+        "第一根剪去的长",
+        "一样长",
+        "无法比较"
+      ],
+      "answer": "第二根剪去的长",
+      "explanation": "第一根剪去 0.25 米；第二根剪去 $2 \\times \\frac{1}{4} = 0.5$ 米。$0.5 > 0.25$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "$\\frac{9}{10} \\times 99 + \\frac{9}{10}$ 的简便算法是：",
+      "options": [
+        "$\\frac{9}{10} \\times (99+1)$",
+        "$\\frac{9}{10} \\times 100 - 1$",
+        "$99 \\times 1$",
+        "$\\frac{81}{10} + 9$"
+      ],
+      "answer": "$\\frac{9}{10} \\times (99+1)$",
+      "explanation": "提取公因数 $\\frac{9}{10}$，利用分配律逆运算。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数的几分之几是多少",
+      "question": "一堆沙子重 2 吨，如果用去 $\\frac{3}{5}$，还剩多少吨？",
+      "options": [
+        "$\\frac{4}{5}$ 吨",
+        "$\\frac{2}{5}$ 吨",
+        "$1\\frac{2}{5}$ 吨",
+        "$\\frac{3}{5}$ 吨"
+      ],
+      "answer": "$\\frac{4}{5}$ 吨",
+      "explanation": "$2 \\times (1 - \\frac{3}{5}) = 2 \\times \\frac{2}{5} = \\frac{4}{5}$（吨）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "一辆汽车每分钟行 $\\frac{9}{10}$ 千米，20 分钟行多少千米？",
+      "options": [
+        "18 千米",
+        "20 千米",
+        "9 千米",
+        "22 千米"
+      ],
+      "answer": "18 千米",
+      "explanation": "$\\frac{9}{10} \\times 20 = 18$（千米）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "一个长方形的长是 10 厘米，宽是长的 $\\frac{4}{5}$。这个长方形的面积是 ___ 平方厘米。",
+      "options": [],
+      "answer": "80",
+      "explanation": "宽 $= 10 \\times \\frac{4}{5} = 8$厘米。面积 $= 10 \\times 8 = 80$。验算：$80 \\div 10 = 8$，$8$是$10$的$4/5$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "求一个数的几分之几是多少",
+      "question": "一根电线长 100 米，先用去它的 $\\frac{1}{10}$，再用去 10 米。一共用去 ___ 米。",
+      "options": [],
+      "answer": "20",
+      "explanation": "第一次用：$100 \\times \\frac{1}{10} = 10$米，第二次用 10 米。一共 $10 + 10 = 20$米。验算：$100-10-10=80$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘法混合运算与简便计算",
+      "question": "计算：$50 \\times ( \\frac{1}{5} + \\frac{1}{2} ) = ?$",
+      "options": [],
+      "answer": "35",
+      "explanation": "$50 \\times \\frac{1}{5} + 50 \\times \\frac{1}{2} = 10 + 25 = 35$。验算：$50 \\times 0.7 = 35$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

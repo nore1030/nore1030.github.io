@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp10",
+  "title": "人物特征描述词",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物特征描述词",
+      "question": "Zhang Peng is ______ and strong.",
+      "options": [
+        "tall",
+        "long",
+        "blue",
+        "green"
+      ],
+      "answer": "tall",
+      "explanation": "描述人物身高用tall，其他选项颜色或长度不合逻辑。"
+    }
+  ],
+  "knowledge": null
+}

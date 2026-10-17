@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g10down-u2-kp2",
+  "title": "乙醇、乙酸与基本营养物质",
+  "bookId": "chemistry-g10down",
+  "unitNumber": 2,
+  "unitTitle": "有机化合物",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乙醇、乙酸与基本营养物质",
+      "question": "能与 NaHCO₃ 反应放出 CO₂ 的是（　）",
+      "options": [
+        "乙醇",
+        "乙酸",
+        "乙醛",
+        "苯"
+      ],
+      "answer": "乙酸",
+      "explanation": "乙酸有羧基显酸性。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "乙醇、乙酸与基本营养物质",
+      "question": "葡萄糖能发生银镜反应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "葡萄糖为还原性糖。"
+    }
+  ],
+  "knowledge": {
+    "point": "乙醇、乙酸与基本营养物质",
+    "core_concept": "乙醇含羟基（—OH），能被氧化为乙醛、乙酸。乙酸含羧基（—COOH），具有酸性且能与乙醇发生酯化反应。葡萄糖是还原性糖，能发生银镜反应。",
+    "key_formula": "$\\text{CH}_3\\text{COOH}+\\text{C}_2\\text{H}_5\\text{OH}\\rightleftharpoons\\text{CH}_3\\text{COOC}_2\\text{H}_5+\\text{H}_2\\text{O}$",
+    "common_mistakes": [
+      "酯化反应方程式中漏写水。"
+    ],
+    "tips": "酯化：酸脱羟基醇脱氢。"
+  }
+}

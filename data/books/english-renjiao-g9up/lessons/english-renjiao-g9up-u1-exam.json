@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g9up",
+  "unitNumber": 1,
+  "unitTitle": "一般现在时与一般过去时复习",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "时态综合复习",
+      "question": "He usually ___ to school by bus, but yesterday he ___ a taxi.",
+      "options": [
+        "go; took",
+        "goes; takes",
+        "went; took",
+        "goes; took"
+      ],
+      "answer": "goes; took",
+      "explanation": "usually 用现在时，yesterday 用过去时。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "人称代词、物主代词与冠词",
+      "question": "___ apple is ___ apple on the plate.",
+      "options": [
+        "a; the",
+        "an; a",
+        "the; an",
+        "an; the"
+      ],
+      "answer": "an; the",
+      "explanation": "an apple 泛指，the apple 特指。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "时态综合复习",
+      "question": "时态选择要结合时间状语和上下文。",
+      "options": [],
+      "answer": "对",
+      "explanation": "语境加状语。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "人称代词、物主代词与冠词",
+      "question": "不可数名词前一般不用 a/an 计量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "不可数名词。"
+    }
+  ],
+  "knowledge": null
+}

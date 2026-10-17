@@ -1,0 +1,72 @@
+{
+  "id": "chemistry-g9down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 4,
+  "unitTitle": "盐 化肥",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "把 5.85 g 氯化钠完全溶解配成溶液，$\\text{NaCl}$ 的物质的量为 0.1 mol，其摩尔质量是多少 g/mol？",
+      "options": [],
+      "answer": "58.5",
+      "explanation": "$M=\\frac mn=\\frac{5.85}{0.1}=58.5$ g/mol。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "化学肥料与粗盐提纯",
+      "question": "下列化肥属于复合肥的是（　）",
+      "options": [
+        "尿素",
+        "氯化钾",
+        "$\\text{KNO}_3$",
+        "磷矿粉"
+      ],
+      "answer": "$\\text{KNO}_3$",
+      "explanation": "含 N、K 两种营养元素。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "碳酸钠俗称纯碱，其水溶液显碱性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "碳酸钠溶液显碱性。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "计算 NaCl 的相对分子质量",
+      "options": [],
+      "answer": "58.5",
+      "explanation": "相对分子质量 = 23\\times1 + 35.5\\times1 = 58.5。"
+    },
+    {
+      "id": 11,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "常见的盐与复分解反应",
+      "question": "计算 CaCO$_3$ 的相对分子质量",
+      "options": [],
+      "answer": "100",
+      "explanation": "相对分子质量 = 40\\times1 + 12\\times1 + 16\\times3 = 100。"
+    }
+  ],
+  "knowledge": null
+}

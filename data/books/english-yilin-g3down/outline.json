@@ -1,0 +1,103 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 Hello! 问候与课堂用语",
+      "knowledge_points": [
+        {
+          "name": "课堂用语",
+          "description": "掌握英语课堂常用语。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "问候与介绍",
+          "description": "掌握问候与自我介绍。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-yilin-g3down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 I'm Liu Tao 我的家人",
+      "knowledge_points": [
+        {
+          "name": "家庭成员",
+          "description": "掌握家庭成员的英语称呼。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "be 动词与形容词",
+          "description": "用 be 动词描述家人。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-yilin-g3down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-yilin-g3down",
+  "grade": 3,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-yilin-g3down-u1-kp1",
+      "title": "课堂用语",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 Hello! 问候与课堂用语",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g3down-u1-kp2",
+      "title": "问候与介绍",
+      "unitNumber": 1,
+      "unitTitle": "Unit 1 Hello! 问候与课堂用语",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g3down-u2-kp1",
+      "title": "家庭成员",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 I'm Liu Tao 我的家人",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g3down-u2-kp2",
+      "title": "be 动词与形容词",
+      "unitNumber": 2,
+      "unitTitle": "Unit 2 I'm Liu Tao 我的家人",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u1-kp13",
+  "title": "光的应用",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 8,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "光的应用",
+      "question": "潜望镜里有两个镜片，它们都是（___）。",
+      "options": [
+        "平行放置的平面镜",
+        "成90度角放置的平面镜",
+        "成45度角平行放置的平面镜",
+        "凹面镜"
+      ],
+      "answer": "成45度角平行放置的平面镜",
+      "explanation": "潜望镜由两面平面镜以45度角相互平行安装组成。"
+    }
+  ],
+  "knowledge": null
+}

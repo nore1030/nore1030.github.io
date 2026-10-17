@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u4-kp5",
+  "title": "词汇变化",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇变化",
+      "question": "'grass' 的意思是‘玻璃’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Grass是草地，玻璃是glass。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "english-g4up-u5-kp5",
+  "title": "餐具词汇词义",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 1,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "餐具词汇词义",
+      "question": "'bowl' 指的是碗。",
+      "options": [],
+      "answer": "对",
+      "explanation": "bowl意为碗，是本单元核心名词。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "餐具词汇词义",
+      "question": "'knife' 的中文意思是 '叉子'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "knife是小刀，叉子是fork。"
+    }
+  ],
+  "knowledge": null
+}

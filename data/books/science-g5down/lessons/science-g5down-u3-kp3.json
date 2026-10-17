@@ -1,0 +1,55 @@
+{
+  "id": "science-g5down-u3-kp3",
+  "title": "珍惜水资源与农业滴灌技术",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "珍惜水资源与农业滴灌技术",
+      "question": "下列农业灌溉方式中最节约用水的是哪一种？",
+      "options": [
+        "大水漫灌",
+        "喷灌",
+        "溢灌",
+        "滴灌"
+      ],
+      "answer": "滴灌",
+      "explanation": "滴灌通过管道将水直接滴在作物根部，水分蒸发和渗漏最少。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "珍惜水资源与农业滴灌技术",
+      "question": "我们在生活中保护水资源的错误做法是什么？",
+      "options": [
+        "用洗菜水浇花",
+        "刷牙时不关水龙头",
+        "及时修理漏水的水龙头",
+        "淋浴擦肥皂时暂时关闭喷头"
+      ],
+      "answer": "刷牙时不关水龙头",
+      "explanation": "刷牙不关水龙头会造成大量无意义的水浪费。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜水资源与农业滴灌技术",
+      "question": "为了节约水资源，将管道铺设在植物根部进行精准供水的技术叫（___）。",
+      "options": [],
+      "answer": "滴灌",
+      "explanation": "滴灌是现代农业最先进的精准节水灌溉技术之一。"
+    }
+  ],
+  "knowledge": null
+}

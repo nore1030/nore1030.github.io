@@ -1,0 +1,66 @@
+{
+  "id": "geography-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "geography-g11up",
+  "unitNumber": 2,
+  "unitTitle": "区域发展与地理信息技术",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "区域发展特征",
+      "question": "关于区域发展阶段，说法正确的是（　）",
+      "options": [
+        "区域发展具有阶段性",
+        "所有区域同步发展",
+        "阶段可任意跨越",
+        "发展阶段是人为强加的"
+      ],
+      "answer": "区域发展具有阶段性",
+      "explanation": "阶段性。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "3S 技术的综合应用",
+      "question": "监测台风移动路径主要依赖（　）",
+      "options": [
+        "RS",
+        "GIS",
+        "GPS",
+        "人工观测"
+      ],
+      "answer": "RS",
+      "explanation": "RS 监测。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "区域发展特征",
+      "question": "区域之间可以优势互补、协同发展。",
+      "options": [],
+      "answer": "对",
+      "explanation": "协同发展。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "3S 技术的综合应用",
+      "question": "GIS 能为决策提供空间分析支持。",
+      "options": [],
+      "answer": "对",
+      "explanation": "GIS 决策支持。"
+    }
+  ],
+  "knowledge": null
+}

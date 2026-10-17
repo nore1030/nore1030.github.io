@@ -1,0 +1,44 @@
+{
+  "id": "english-g6up-u2-kp9",
+  "title": "交通安全",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "交通安全",
+      "question": "The yellow light means '___'.",
+      "options": [
+        "Go",
+        "Fast",
+        "Stop",
+        "Wait"
+      ],
+      "answer": "Wait",
+      "explanation": "黄灯表示等待（Wait）。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "交通安全",
+      "question": "Don't ___ on the road. It's dangerous.",
+      "options": [
+        "walk",
+        "run",
+        "go",
+        "look"
+      ],
+      "answer": "run",
+      "explanation": "不能在马路上奔跑。"
+    }
+  ],
+  "knowledge": null
+}

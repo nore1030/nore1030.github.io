@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp10",
+  "title": "词语搭配",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "填入括号最恰当的词语：小人鱼悄悄地（   ）开紫色的帘子。",
+      "options": [
+        "揭",
+        "掀",
+        "拉",
+        "举"
+      ],
+      "answer": "掀",
+      "explanation": "根据课文描述，用力向上或向侧面翻开布帘通常用“掀”。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,185 @@
+{
+  "id": "english-g5up-u4-kp1",
+  "title": "个人能力动词短语",
+  "bookId": "english-g5up",
+  "unitNumber": 4,
+  "unitTitle": "What can you do?",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "'speak English' 的中文意思是'说英语'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "speak 是‘说’，English 是‘英语’，故正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "'do kung fu' 的意思是‘练武术’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "kung fu是武术，do kung fu是练武术。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "I can _____ English songs.",
+      "options": [
+        "sing",
+        "singing",
+        "sings",
+        "to sing"
+      ],
+      "answer": "sing",
+      "explanation": "情态动词can后面必须跟动词原形。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "Please _____ the room, Robin.",
+      "options": [
+        "clean",
+        "play",
+        "sing",
+        "dance"
+      ],
+      "answer": "clean",
+      "explanation": "clean the room是清理房间，语义逻辑正确。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "你能帮我吗？用英语怎么说？",
+      "options": [
+        "What can you do?",
+        "Can you help me?",
+        "Do you help me?",
+        "Can I help you?"
+      ],
+      "answer": "Can you help me?",
+      "explanation": "Can you help me? 是询问对方能否帮助自己。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "What's the meaning of 'draw cartoons'?",
+      "options": [
+        "写作业",
+        "画漫画",
+        "看电视",
+        "打扫房间"
+      ],
+      "answer": "画漫画",
+      "explanation": "draw是画，cartoons是漫画。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人能力动词短语",
+      "question": "We have an English party next Tuesday. We can ______.",
+      "options": [
+        "do some kung fu",
+        "play some football",
+        "sing some English songs",
+        "do some homework"
+      ],
+      "answer": "sing some English songs",
+      "explanation": "在英语派对上，最合适的活动是唱英文歌。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "I can swim and I can _____ (跳舞).",
+      "options": [],
+      "answer": "dance",
+      "explanation": "dance是跳舞的意思。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "I can _____ (烹饪) for my mother.",
+      "options": [],
+      "answer": "cook",
+      "explanation": "cook是烹饪、做饭的意思。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人能力动词短语",
+      "question": "请将下列动词短语与中文意思匹配。",
+      "options": [
+        "cook",
+        "swim",
+        "do kung fu",
+        "draw cartoons",
+        "游泳",
+        "画漫画",
+        "做饭",
+        "练武术"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "cook-做饭, swim-游泳, do kung fu-练武术, draw cartoons-画漫画。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人能力动词短语",
+      "question": "请将乐器与动作匹配。",
+      "options": [
+        "play the pipa",
+        "play the piano",
+        "speak English",
+        "clean the desk",
+        "弹钢琴",
+        "说英语",
+        "打扫课桌",
+        "弹琵琶"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "play the pipa-弹琵琶, play the piano-弹钢琴, speak English-说英语, clean the desk-打扫课桌。"
+    }
+  ],
+  "knowledge": {
+    "point": "个人能力动词短语",
+    "core_concept": "描述自己或他人在艺术、体育、生活等方面的能力。",
+    "key_formula": "动词原形 + 名词 (如: sing English songs, do kung fu)",
+    "common_mistakes": [
+      "将'练武术'说成'play kung fu'（应使用do）",
+      "词组拼写错误，如'pipa'拼写成'piapa'"
+    ],
+    "tips": "可以通过肢体动作演示来记忆这些动词短语。"
+  }
+}

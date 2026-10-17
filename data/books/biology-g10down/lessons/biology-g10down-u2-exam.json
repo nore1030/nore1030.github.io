@@ -1,0 +1,66 @@
+{
+  "id": "biology-g10down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "biology-g10down",
+  "unitNumber": 2,
+  "unitTitle": "基因与染色体的关系",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "伴性遗传",
+      "question": "父母均正常，儿子患红绿色盲，母亲的基因型是（　）",
+      "options": [
+        "$X^BX^B$",
+        "$X^BX^b$",
+        "$X^bX^b$",
+        "$X^BY$"
+      ],
+      "answer": "$X^BX^b$",
+      "explanation": "母亲为携带者。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "减数分裂",
+      "question": "减数分裂过程中同源染色体联会发生在减数第一次分裂前期。",
+      "options": [],
+      "answer": "对",
+      "explanation": "联会发生在减Ⅰ前期。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "减数分裂",
+      "question": "同源染色体是指（　）",
+      "options": [
+        "形状大小一般相同、一条来自父方一条来自母方",
+        "完全相同的两条染色体",
+        "复制形成的两条染色体",
+        "任意两条染色体"
+      ],
+      "answer": "形状大小一般相同、一条来自父方一条来自母方",
+      "explanation": "同源染色体定义。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "伴性遗传",
+      "question": "伴 X 显性遗传病女性患者多于男性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "伴 X 显性特点。"
+    }
+  ],
+  "knowledge": null
+}

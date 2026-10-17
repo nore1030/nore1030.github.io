@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp17",
+  "title": "天气观测工具",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天气观测工具",
+      "question": "测量风速的专业仪器的名称是（ ）。",
+      "options": [
+        "风向标",
+        "气压计",
+        "风速仪",
+        "百叶箱"
+      ],
+      "answer": "风速仪",
+      "explanation": "风速仪是测量风速的专用仪器。"
+    }
+  ],
+  "knowledge": null
+}

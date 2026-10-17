@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u5-kp3",
+  "title": "带有小括号的混合运算",
+  "bookId": "g2down",
+  "unitNumber": 5,
+  "unitTitle": "混合运算",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "计算 $(12 - 5) \times 3$ 时，应先算减法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为有小括号，无论口诀如何，必须先算小括号里面的内容。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "下面算式中，结果是 30 的是哪一个？",
+      "options": [
+        "$10 + 20 \times 2$",
+        "$3 \times (6 + 4)$",
+        "$(15 - 5) \times 5$",
+        "$20 + 10 - 5$"
+      ],
+      "answer": "$3 \times (6 + 4)$",
+      "explanation": "$3 \times (6 + 4) = 3 \times 10 = 30$。验算：$30 \times 10 = 3$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "把 $12 + 18 = 30$ 和 $30 \times 5 = 6$ 合并成一个综合算式是？",
+      "options": [
+        "$12 + 18 \times 5$",
+        "$(12 + 18) \times 5$",
+        "$12 + (18 \times 5)$",
+        "$(12 + 18) \times 6$"
+      ],
+      "answer": "$(12 + 18) \times 5$",
+      "explanation": "必须先算出 12+18 的和再除以 5，所以需要加括号改变顺序。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "$48 \times (12 - 4)$ 的第一步算什么？",
+      "options": [
+        "48 \times 12",
+        "12 - 4",
+        "48 - 4",
+        "无法计算"
+      ],
+      "answer": "12 - 4",
+      "explanation": "有括号的先算括号里面的减法。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "带有小括号的混合运算",
+      "question": "计算 $81 \times (14 - 5)$ 的结果是 ___。",
+      "options": [],
+      "answer": "9",
+      "explanation": "列式：$81 \times (14 - 5) = 81 \times 9 = 9$。验算：$9 \times 9 = 81$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "带有小括号的混合运算",
+    "core_concept": "小括号是数学中的“特权符号”。算式里有小括号，必须先算小括号里面的内容，不管里面是加减还是乘除。括号可以改变原来的运算顺序。",
+    "key_formula": "$(a + b) \times c$ 先算 $a + b$",
+    "common_mistakes": [
+      "虽然有括号，但还是先算了括号外的乘除法。",
+      "把括号内的结果算错，导致整个算式错误。"
+    ],
+    "tips": "见到括号绕道走是不行的，必须冲进括号先完成它！"
+  }
+}

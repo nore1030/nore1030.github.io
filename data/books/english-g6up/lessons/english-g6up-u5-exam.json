@@ -1,0 +1,230 @@
+{
+  "id": "english-g6up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 22,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇理解",
+      "question": "'coach' 这个词的意思是'主教练'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "coach在体育语境下意为教练。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "冠词用法",
+      "question": "We should say 'a artist' instead of 'an artist'.",
+      "options": [],
+      "answer": "错",
+      "explanation": "artist以元音音素开头，应用an。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地点关联",
+      "question": "A fisherman works in a factory.",
+      "options": [],
+      "answer": "错",
+      "explanation": "渔民(fisherman)通常在海上工作。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "逻辑推理",
+      "question": "If you are good at writing, you can be a reporter.",
+      "options": [],
+      "answer": "对",
+      "explanation": "记者(reporter)需要良好的写作能力。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拼写辨析",
+      "question": "My uncle is a ______.",
+      "options": [
+        "stewdent",
+        "teacher",
+        "factoryer",
+        "scentist"
+      ],
+      "answer": "teacher",
+      "explanation": "其他选项存在拼写错误。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地点词汇",
+      "question": "My aunt works at a ______. She is a scientist.",
+      "options": [
+        "gym",
+        "university",
+        "school",
+        "factory"
+      ],
+      "answer": "university",
+      "explanation": "科学家通常在大学(university)或实验室工作。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业关联",
+      "question": "If you like swimming, you can be a ______.",
+      "options": [
+        "fisherman",
+        "cleaner",
+        "pilot",
+        "singer"
+      ],
+      "answer": "fisherman",
+      "explanation": "逻辑关联，游泳和渔民都与水相关。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "回答地点",
+      "question": "— Where does he work? — ______",
+      "options": [
+        "He is a pilot.",
+        "He works at sea.",
+        "By plane.",
+        "He likes science."
+      ],
+      "answer": "He works at sea.",
+      "explanation": "Where问地点，回答应包含地点。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般现在时",
+      "question": "He often ______ storybooks after school.",
+      "options": [
+        "read",
+        "reading",
+        "reads",
+        "to read"
+      ],
+      "answer": "reads",
+      "explanation": "He是第三人称单数，动词加s。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "固定搭配",
+      "question": "Oliver ______ going to be a businessman.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "be going to结构，Oliver用is。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合逻辑",
+      "question": "I want to be a pilot. I should ______ every day.",
+      "options": [
+        "study hard",
+        "sleep",
+        "play games",
+        "watch TV"
+      ],
+      "answer": "study hard",
+      "explanation": "职业理想需要努力学习(study hard)实现。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业单词",
+      "question": "He works in a gym. He is a ______.",
+      "options": [],
+      "answer": "coach",
+      "explanation": "在体育馆工作的教练是coach。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词形式",
+      "question": "What does your father ______ (do)?",
+      "options": [],
+      "answer": "do",
+      "explanation": "助动词does后面跟动词原形。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业与描述匹配",
+      "question": "英汉连线。",
+      "options": [
+        "reporter",
+        "fisherman",
+        "university",
+        "gym",
+        "渔民",
+        "大学",
+        "体育馆",
+        "记者"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "A.reporter-记者; B.fisherman-渔民; C.university-大学; D.gym-体育馆。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词短语匹配",
+      "question": "短语匹配。",
+      "options": [
+        "work hard",
+        "go to sea",
+        "write stories",
+        "study science",
+        "写故事",
+        "研究科学",
+        "努力工作",
+        "出海"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "A.work hard-努力工作; B.go to sea-出海; C.write stories-写故事; D.study science-研究科学。"
+    }
+  ],
+  "knowledge": null
+}

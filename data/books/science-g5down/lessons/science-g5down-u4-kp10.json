@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u4-kp10",
+  "title": "保温",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 4,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "保温",
+      "question": "保温杯里的真空层主要目的是为了美观。",
+      "options": [],
+      "answer": "错",
+      "explanation": "真空层是为了隔绝热传导和热对流，从而起到保温作用。"
+    }
+  ],
+  "knowledge": null
+}

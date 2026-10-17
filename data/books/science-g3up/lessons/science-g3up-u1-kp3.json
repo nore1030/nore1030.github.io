@@ -1,0 +1,77 @@
+{
+  "id": "science-g3up-u1-kp3",
+  "title": "水结冰与冰融化的体积变化",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "冰块浮在水面上，说明相同体积的冰比水轻。",
+      "options": [],
+      "answer": "对",
+      "explanation": "水结冰后体积增大，重量不变，密度减小，故冰比同体积的水轻。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "水在结冰的过程中，体积会（）。",
+      "options": [
+        "变小",
+        "变大",
+        "不变",
+        "先变大后变小"
+      ],
+      "answer": "变大",
+      "explanation": "水结冰后分子间隙变大，导致体积膨胀。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "冰融化成水的过程中，冰的温度（）。",
+      "options": [
+        "一直上升",
+        "保持在0℃左右",
+        "一直下降",
+        "降到0℃以下"
+      ],
+      "answer": "保持在0℃左右",
+      "explanation": "晶体在融化过程中吸收热量但温度保持在熔点不变。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "水在温度下降到（）℃时会开始结冰。",
+      "options": [],
+      "answer": "0",
+      "explanation": "0摄氏度是水的冰点。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水结冰与冰融化的体积变化",
+      "question": "冰从固态变成液态水的过程中需要（）热量。",
+      "options": [],
+      "answer": "吸收",
+      "explanation": "融化是吸热过程。"
+    }
+  ],
+  "knowledge": null
+}

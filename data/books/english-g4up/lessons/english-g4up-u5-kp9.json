@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u5-kp9",
+  "title": "点餐句式",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 5,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "点餐句式",
+      "question": "—What would you like? —___ some beef, please.",
+      "options": [
+        "I",
+        "I'd like",
+        "I like",
+        "I'm"
+      ],
+      "answer": "I'd like",
+      "explanation": "回答What would you like?常用I'd like...表示我想吃/要..."
+    }
+  ],
+  "knowledge": null
+}

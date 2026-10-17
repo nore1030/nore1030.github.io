@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g1up-u7-kp1",
+  "title": "11~20 各数的组成",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 7,
+  "unitTitle": "加与减（二）",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20 各数的组成",
+      "question": "15 里面有 1 个十和几个一？（　）",
+      "options": [
+        "5",
+        "1",
+        "4",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "15 = 10 + 5。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "11~20 各数的组成",
+      "question": "十几都是由 1 个十和几个一组成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "十位是 1。"
+    }
+  ],
+  "knowledge": {
+    "point": "11~20 各数的组成",
+    "core_concept": "11~19 都由 1 个十和几个一组成；20 由 2 个十组成。十位上的 1 表示 1 个十。",
+    "key_formula": "15 = 10 + 5",
+    "common_mistakes": [
+      "把 15 读成「一五」。"
+    ],
+    "tips": "先读十位再读个位。"
+  }
+}

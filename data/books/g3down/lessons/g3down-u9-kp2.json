@@ -1,0 +1,118 @@
+{
+  "id": "g3down-u9-kp2",
+  "title": "图形与几何综合应用",
+  "bookId": "g3down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "边长是 $4$ 分米的正方形，它的周长和面积相等。",
+      "options": [],
+      "answer": "错",
+      "explanation": "周长是 $4 \times 4 = 16$分米，面积是 $4 \times 4 = 16$平方分米。数值虽然相同，但单位不同，性质不同，不能说相等。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "地图通常是按上北、下南、左西、右东绘制的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是地图绘制的一般规定，符合位置与方向的知识点。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个正方形的一条边长是 $5$ 厘米，它的面积是：",
+      "options": [
+        "20厘米",
+        "20平方厘米",
+        "25厘米",
+        "25平方厘米"
+      ],
+      "answer": "25平方厘米",
+      "explanation": "正方形面积 = 边长 $\times$ 边长。$5 \times 5 = 25$（平方厘米）。注意面积单位是平方厘米。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "小红面向东方，她的左面是：",
+      "options": [
+        "南方",
+        "北方",
+        "西方",
+        "东方"
+      ],
+      "answer": "北方",
+      "explanation": "面向东，背对西，右面是南，左面是北。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一张长方形纸，长 $10$ 厘米，宽 $6$ 厘米。剪下一个最大的正方形，正方形的面积是：",
+      "options": [
+        "60平方厘米",
+        "100平方厘米",
+        "36平方厘米",
+        "16平方厘米"
+      ],
+      "answer": "36平方厘米",
+      "explanation": "剪下最大的正方形，边长必须等于长方形的宽，即 $6$ 厘米。面积为 $6 \times 6 = 36$（平方厘米）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "$8$ 平方米等于多少平方分米？",
+      "options": [
+        "80",
+        "800",
+        "8000",
+        "8"
+      ],
+      "answer": "800",
+      "explanation": "相邻面积单位进率是 $100$。$8 \times 100 = 800$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个正方形周长是 $24$ 厘米，它的边长是 ___ 厘米。",
+      "options": [],
+      "answer": "6",
+      "explanation": "正方形边长 = 周长 $\times 4$。$24 \times 4 = 6$。验算：$6 \times 4 = 24$。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形与几何综合应用",
+    "core_concept": "复习东南西北等八个方向的辨认，学会在地图或情境中描述路线。重点回顾长方形和正方形的面积计算公式，理解面积单位（$cm^2$，$dm^2$，$m^2$）之间的百进制关系。",
+    "key_formula": "正方形面积 $=$ 边长 $\\times$ 边长；长方形面积 $=$ 长 $\\times$ 宽",
+    "common_mistakes": [
+      "计算面积时记错公式，误用周长公式",
+      "面积单位换算错把进率当成 10"
+    ],
+    "tips": "早晨起来面向太阳，前面是东。计算面积前一定要看长和宽的单位是否统一。"
+  }
+}

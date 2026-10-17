@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u1-kp13",
+  "title": "指令语",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 9,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "指令语",
+      "question": "看到 'Open your book' 这一指令，你应该做的动作是：",
+      "options": [
+        "把书合上",
+        "把书打开",
+        "背起书包",
+        "拿出铅笔"
+      ],
+      "answer": "把书打开",
+      "explanation": "open意为打开。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp9",
+  "title": "There be 句型搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "There be 句型搭配",
+      "question": "There _____ no library in my school ten years ago.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "were"
+      ],
+      "answer": "was",
+      "explanation": "library是单数，ten years ago表示过去，用was。"
+    }
+  ],
+  "knowledge": null
+}

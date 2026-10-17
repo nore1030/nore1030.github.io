@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6down-u2-kp1",
+  "title": "法律保护我们",
+  "bookId": "moral-g6down",
+  "unitNumber": 2,
+  "unitTitle": "法律与责任启蒙",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "法律保护我们",
+      "question": "当自己的合法权益受到侵害时，应该（　）",
+      "options": [
+        "通过合法途径维权",
+        "以暴制暴",
+        "放弃不管",
+        "报复对方"
+      ],
+      "answer": "通过合法途径维权",
+      "explanation": "依法维权。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "法律保护我们",
+      "question": "法律保护未成年人的合法权益。",
+      "options": [],
+      "answer": "对",
+      "explanation": "法律保护未成年人。"
+    }
+  ],
+  "knowledge": {
+    "point": "法律保护我们",
+    "core_concept": "法律保护公民的生命健康、人身自由、名誉、财产等合法权益。对未成年人提供家庭、学校、社会、网络、政府、司法多方保护。",
+    "key_formula": "法律是维权的有力武器",
+    "common_mistakes": [
+      "权益受损也不维权。"
+    ],
+    "tips": "敢于依法维权。"
+  }
+}

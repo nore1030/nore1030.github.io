@@ -1,0 +1,55 @@
+{
+  "id": "science-g2up-u2-kp5",
+  "title": "物品的组成与功能设计",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物品的组成与功能设计",
+      "question": "一把好椅子所有部位都必须用同一种材料做成。",
+      "options": [],
+      "answer": "错",
+      "explanation": "椅子通常结合多种材料，如木头做支架，海绵做垫子。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品的组成与功能设计",
+      "question": "运动鞋的鞋底通常使用橡胶，是因为这种材料（ ）。",
+      "options": [
+        "颜色漂亮",
+        "容易碎裂",
+        "有弹性且耐磨",
+        "非常沉重"
+      ],
+      "answer": "有弹性且耐磨",
+      "explanation": "橡胶具备良好的弹性和防滑耐磨性。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品的组成与功能设计",
+      "question": "保温杯的杯套通常是尼龙或硅胶做的，主要是为了（ ）。",
+      "options": [
+        "防烫手",
+        "装水多",
+        "让杯子变轻",
+        "变得更硬"
+      ],
+      "answer": "防烫手",
+      "explanation": "硅胶是热的不良导体，能起到防烫作用。"
+    }
+  ],
+  "knowledge": null
+}

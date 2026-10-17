@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g5up-u6-kp3",
+  "title": "书信的格式与情感表达",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "书信的署名应该写在信的右下角，在日期的上方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "书信的落款包括署名和日期，通常分两行写在信的右下角，署名在前，日期在后。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "在给家长的信中，结尾祝愿语书写格式正确的是：",
+      "options": [
+        "此致 敬礼（此致占两格，敬礼顶格）",
+        "此致 敬礼（此致空两格，敬礼另起一行顶格）",
+        "祝您身体健康（顶格写）",
+        "祝您身体健康（空两格写）"
+      ],
+      "answer": "此致 敬礼（此致空两格，敬礼另起一行顶格）",
+      "explanation": "符合书信规范，祝颂语的“此致”应空两格，“敬礼”需另起一行顶格。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的格式与情感表达",
+      "question": "写信的时候，第一行顶格写的是（___）。",
+      "options": [],
+      "answer": "称呼",
+      "explanation": "书信开头第一行顶格写对收信人的称呼。"
+    }
+  ],
+  "knowledge": {
+    "point": "书信的格式与情感表达",
+    "core_concept": "书信是情感交流的重要方式。标准格式包括：1.称呼（顶格）；2.问候语（换行空两格）；3.正文（叙事抒情）；4.祝颂语（此致敬礼等）；5.署名与日期（右下角）。表达时要根据对象选择得体的语言。",
+    "key_formula": "称呼顶格、祝颂换行、署名日期在右下",
+    "common_mistakes": [
+      "称呼没有顶格写，或者忘记写日期。",
+      "祝颂语的格式不规范，如将“敬礼”紧跟在“此致”后面。"
+    ],
+    "tips": "记住口诀：头称谓，二问候，三正文，四祝颂，五署名，记日期。"
+  }
+}

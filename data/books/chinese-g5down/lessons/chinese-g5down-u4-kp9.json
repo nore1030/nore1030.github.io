@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp9",
+  "title": "近义词辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 5,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词辨析",
+      "question": "沃克医生（    ）地问刘伯承：“你是一名军人吗？”",
+      "options": [
+        "冷暖",
+        "冷幽默",
+        "冷峻",
+        "冷清"
+      ],
+      "answer": "冷峻",
+      "explanation": "根据上下文语境，表现医生严肃冷酷的神情用“冷峻”最恰当。"
+    }
+  ],
+  "knowledge": null
+}

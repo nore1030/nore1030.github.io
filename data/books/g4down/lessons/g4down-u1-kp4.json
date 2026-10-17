@@ -1,0 +1,64 @@
+{
+  "id": "g4down-u1-kp4",
+  "title": "解决问题：租船/租车优化方案",
+  "bookId": "g4down",
+  "unitNumber": 1,
+  "unitTitle": "四则运算",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：租船/租车优化方案",
+      "question": "有 32 人去划船，大船每条坐 6 人，小船每条坐 4 人。全都坐满且不留空位，应租（ ）。",
+      "options": [
+        "5 条大船和 1 条小船",
+        "4 条大船和 2 条小船",
+        "3 条大船和 4 条小船",
+        "2 条大船和 5 条小船"
+      ],
+      "answer": "4 条大船和 2 条小船",
+      "explanation": "方案A：$5 \times 6 + 1 \times 4 = 34$（错误）；方案B：$4 \times 6 + 2 \times 4 = 32$（正确）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：租船/租车优化方案",
+      "question": "租大船 30 元可坐 6 人，租小船 24 元可坐 4 人。哪种船平均每人租金便宜？",
+      "options": [
+        "大船便宜",
+        "小船便宜",
+        "价格一样",
+        "无法比较"
+      ],
+      "answer": "大船便宜",
+      "explanation": "大船：$30 \times 6 = 5$（元/人），小船：$24 \times 4 = 6$（元/人），$5 < 6$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决问题：租船/租车优化方案",
+      "question": "老师带 30 名学生去划船，每条船限坐 4 人，至少要租 ___ 条船。",
+      "options": [],
+      "answer": "8",
+      "explanation": "总人数 = $30 + 1 = 31$（人）。列式：$31 \times 4 = 7 \times \times \times 3$。因为剩下的 3 人也需要 1 条船，所以 $7 + 1 = 8$（条）。"
+    }
+  ],
+  "knowledge": {
+    "point": "解决问题：租船/租车优化方案",
+    "core_concept": "解决租船租车等最省钱问题时，首先要计算并观察哪种资源的单价（单人位价格）更低，优先使用单价低的资源，并尽量保证资源满载（不留空位）。",
+    "key_formula": "$总租金 = 租金A \times 数量A + 租金B \times 数量B$",
+    "common_mistakes": [
+      "只考虑单价便宜的，没考虑到如果留出大量空位反而更贵",
+      "计算总人数时漏掉老师或带队人员"
+    ],
+    "tips": "先比单价，再算满载，最后微调。如果剩下的位置多，尝试把一条大车换成两条小车试试。"
+  }
+}

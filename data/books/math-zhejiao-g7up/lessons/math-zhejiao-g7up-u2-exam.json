@@ -1,0 +1,61 @@
+{
+  "id": "math-zhejiao-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第2章 有理数的运算",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近似数",
+      "question": "用四舍五入法把 3.14159 精确到 0.01，得 ___。",
+      "options": [],
+      "answer": "3.14",
+      "explanation": "看千分位 1，舍去，得 3.14。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "有理数的乘方与混合运算",
+      "question": "计算 $-2^2$ 的结果是（　）",
+      "options": [
+        "-4",
+        "4",
+        "-2",
+        "2"
+      ],
+      "answer": "-4",
+      "explanation": "先乘方后取负：$-4$。"
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "有理数的乘方与混合运算",
+      "question": "负数的偶次幂是正数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如 $(-3)^2=9$。"
+    },
+    {
+      "id": 12,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "有理数的加减乘除",
+      "question": "计算：$-6+9$ 的结果是多少？",
+      "options": [],
+      "answer": "3",
+      "explanation": "异号相加取正号，$9-6=3$。"
+    }
+  ],
+  "knowledge": null
+}

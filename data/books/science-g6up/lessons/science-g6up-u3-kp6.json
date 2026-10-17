@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u3-kp6",
+  "title": "活字印刷术的过程与社会价值",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "活字印刷术的过程与社会价值",
+      "question": "活字印刷术中，刷墨之后应立即进行检字工作。",
+      "options": [],
+      "answer": "错",
+      "explanation": "活字印刷的流程是检字、刷墨、拓印、晾制。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "活字印刷术的过程与社会价值",
+      "question": "比起手工抄写，活字印刷的优势在于（）。",
+      "options": [
+        "字迹更漂亮",
+        "能快速大量复制",
+        "每印一张都很有成就感",
+        "不需要纸张"
+      ],
+      "answer": "能快速大量复制",
+      "explanation": "活字印刷极大地提高了信息传播的效率。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "活字印刷术的过程与社会价值",
+      "question": "活字印刷术的发明者是（）。",
+      "options": [
+        "蔡伦",
+        "毕昇",
+        "鲁班",
+        "张衡"
+      ],
+      "answer": "毕昇",
+      "explanation": "北宋时期毕昇发明了活字印刷术。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "活字印刷术的过程与社会价值",
+      "question": "在印刷术发展过程中，（）的出现极大地加速了知识的普及和社会的进步。",
+      "options": [],
+      "answer": "信息",
+      "explanation": "印刷术是信息传播技术的革命。"
+    }
+  ],
+  "knowledge": null
+}

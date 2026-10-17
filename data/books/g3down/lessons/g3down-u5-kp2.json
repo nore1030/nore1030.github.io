@@ -1,0 +1,80 @@
+{
+  "id": "g3down-u5-kp2",
+  "title": "认识面积单位",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识面积单位",
+      "question": "边长是 1 分米的正方形，它的面积是 1 平方分米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正方形面积 = 边长 × 边长，$1 \\times 1 = 1$（平方分米）。故正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识面积单位",
+      "question": "一张邮票的面积大约是 6（ ）。",
+      "options": [
+        "平方米",
+        "平方分米",
+        "平方厘米",
+        "厘米"
+      ],
+      "answer": "平方厘米",
+      "explanation": "较小的物体表面通常用平方厘米作单位。邮票很小，约 6 平方厘米。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识面积单位",
+      "question": "长 1 米，宽 1 分米的长方形，面积是（ ）。",
+      "options": [
+        "1 平方米",
+        "1 平方分米",
+        "10 平方分米",
+        "100 平方厘米"
+      ],
+      "answer": "10 平方分米",
+      "explanation": "1 米 = 10 分米，$10 \\times 1 = 10$ 平方分米。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识面积单位",
+      "question": "将 1 平方分米的正方形纸片剪成边长 1 厘米的小正方形，可以剪出多少个？",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "1"
+      ],
+      "answer": "100",
+      "explanation": "1 平方分米 = 100 平方厘米，每个小正方形是 1 平方厘米，所有可以剪出 100 个。"
+    }
+  ],
+  "knowledge": {
+    "point": "认识面积单位",
+    "core_concept": "为了准确计量面积，需要统一面积单位。常用的有：平方厘米（cm²，边长1cm的正方形）、平方分米（dm²，边长1dm的正方形）、平方米（m²，边长1m的正方形）。",
+    "key_formula": "1 平方厘米 $\\approx$ 指甲盖；1 平方分米 $\\approx$ 手掌；1 平方米 $\\approx$ 展开后的餐桌面积。",
+    "common_mistakes": [
+      "忘记带‘平方’二字，把面积单位写成长途单位（米、厘米）",
+      "单位感知错误，如给教室地面选‘平方分米’"
+    ],
+    "tips": "寻找身边的参照物记忆：大拇指指甲约1平方厘米，成人手掌约1平方分米。"
+  }
+}

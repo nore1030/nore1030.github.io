@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u6-kp7",
+  "title": "句式转换正误判断",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式转换正误判断",
+      "question": "改为双重否定句：我得支撑起这个家。",
+      "options": [
+        "我不得不支撑起这个家。",
+        "我必须支撑起这个家。",
+        "难道我不用支撑这个家吗？",
+        "我没法不支撑这个家。"
+      ],
+      "answer": "我不得不支撑起这个家。",
+      "explanation": "“不得不”是标准的双重否定，表达肯定的必要性。"
+    }
+  ],
+  "knowledge": null
+}

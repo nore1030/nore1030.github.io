@@ -1,0 +1,102 @@
+{
+  "id": "g5up-u1-kp1",
+  "title": "小数乘整数的算理与计算",
+  "bookId": "g5up",
+  "unitNumber": 1,
+  "unitTitle": "小数乘法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "计算 $1.5 \times 4$ 时，可以先看作 $15 \times 4 = 60$，再向左移动一位小数点得到 $6$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小数乘整数可以转化成整数乘法，积的小数位数与因数相同。$15 \times 4 = 60$，移动一位得 $6.0$，即 $6$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "$0.25 \times 8$ 的积是：",
+      "options": [
+        "2",
+        "20",
+        "200",
+        "0.2"
+      ],
+      "answer": "2",
+      "explanation": "$25 \times 8 = 200$，因数中有两位小数，积也有两位小数，即 $2.00$。结果为 $2$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "一个长方形宽是 $2$ 米，长是宽的 $1.5$ 倍，长是多少米？",
+      "options": [
+        "3",
+        "3.5",
+        "4",
+        "2.5"
+      ],
+      "answer": "3",
+      "explanation": "$2 \times 1.5 = 3$。验算：$3 \times 10 \times 2 = 30$，积缩小 $10$ 倍得 $3$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "如果 $a \times 0.1 = b \times 10$（$a,b$ 均不为 0），那么：",
+      "options": [
+        "a > b",
+        "a < b",
+        "a = b",
+        "无法判断"
+      ],
+      "answer": "a > b",
+      "explanation": "$a$ 缩小 $10$ 倍才等于 $b$ 扩大 $10$ 倍，说明 $a$ 远大于 $b$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "买一块橡皮 $0.5$ 元，买 $100$ 块橡皮需要 ___ 元。",
+      "options": [],
+      "answer": "50",
+      "explanation": "$0.5 \times 100 = 50$ 元。验算：$50 \times 10 = 500$，$5 \times 100 = 500$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数乘整数的算理与计算",
+      "question": "计算：$12.5 \times 8 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$125 \times 8 = 1000$，缩小 $10$ 倍得 $100$。验算：$100 \times 8 = 12.5$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数乘整数的算理与计算",
+    "core_concept": "小数乘整数的计算方法是先按整数乘法计算，再看因数中有几位小数，就从积的右边起数出几位点上小数点。如果积的末尾有0，通常要去掉。",
+    "key_formula": "$a.b \times c = (a \times 10 + b) \times c \times 10^{-1}$",
+    "common_mistakes": [
+      "点错小数点位置",
+      "习惯性地将小数点对齐再计算"
+    ],
+    "tips": "先数因数的小数位数，点完小数点后再化简末尾的0。"
+  }
+}

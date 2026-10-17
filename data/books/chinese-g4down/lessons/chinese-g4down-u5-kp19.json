@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp19",
+  "title": "景物特点填空",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "景物特点填空",
+      "question": "在《记金华的双龙洞》中，作者通过“孔隙”时是（___）进出的。",
+      "options": [],
+      "answer": "仰卧",
+      "explanation": "课文中明确描写作者是仰卧在小船底进出的。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "g6up-u1-kp1",
+  "title": "分数乘整数的意义与计算",
+  "bookId": "g6up",
+  "unitNumber": 1,
+  "unitTitle": "分数乘法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "3个 $\\frac{1}{5}$ 的和与 $\\frac{1}{5}$ 的 3 倍相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为 $\\frac{1}{5} + \\frac{1}{5} + \\frac{1}{5} = \\frac{1}{5} \\times 3$，根据分数乘整数的意义，二者完全一致。所以结果是对的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "整数乘法的交换律对于分数乘法同样适用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据教材定义，乘法交换律、结合律、分配律在分数乘法中同样适用。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "下列哪个算式能表示“3 个 $\\frac{4}{9}$ 是多少”？",
+      "options": [
+        "$\\frac{4}{9} \\times 3$",
+        "$\\frac{4}{9} + 3$",
+        "$3 + \\frac{4}{9}$",
+        "$3 - \\frac{4}{9}$"
+      ],
+      "answer": "$\\frac{4}{9} \\times 3$",
+      "explanation": "分数乘整数的意义是求几个相同加数和的简便运算。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "$24$ 的 $\\frac{5}{8}$ 相当于下面哪个算式的结果？",
+      "options": [
+        "$24 \\times 5 \\div 8$",
+        "$24 \\div 5 \\times 8$",
+        "$24 \\div 5 \\div 8$",
+        "$24 \\times 8 \\div 5$"
+      ],
+      "answer": "$24 \\times 5 \\div 8$",
+      "explanation": "分数乘整数的计算方法是：分子与整数相乘，分母不变。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "一个正方形的边长是 $\\frac{3}{4}$ 分米，它的周长是 ___ 分米。",
+      "options": [],
+      "answer": "3",
+      "explanation": "周长 = 边长 $\\times 4$。$\\frac{3}{4} \\times 4 = 3$（分米）。验算：$3 \\div 4 = 0.75$ 即 $\\frac{3}{4}$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数乘整数的意义与计算",
+      "question": "计算：$120 \\times \\frac{3}{4} = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$120 \\times \\frac{3}{4} = 120 \\div 4 \\times 3 = 30 \\times 3 = 90$。验算：$90 \\div \\frac{3}{4} = 90 \\times \\frac{4}{3} = 120$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数乘整数的意义与计算",
+    "core_concept": "分数乘整数表示求几个相同分数的和的简便运算，或者是求一个整数的几分之几是多少。计算时，只需用分子与整数相乘的积作为分子，分母保持不变。在计算过程中，能约分的可以先约分，使计算简便。",
+    "key_formula": "$\\frac{a}{b} \\times n = \\frac{a \\times n}{b}$",
+    "common_mistakes": [
+      "错误地用分母与整数相乘",
+      "忘记约分导致结果不是最简分数"
+    ],
+    "tips": "记住“分子乘整数，分母不动”的原则，看到大数字先看能不能约分。"
+  }
+}

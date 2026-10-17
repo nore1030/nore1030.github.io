@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp21",
+  "title": "职业词汇",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业词汇",
+      "question": "My uncle works on a boat. He is a ______.",
+      "options": [],
+      "answer": "fisherman",
+      "explanation": "在船上工作的人是渔民。"
+    }
+  ],
+  "knowledge": null
+}

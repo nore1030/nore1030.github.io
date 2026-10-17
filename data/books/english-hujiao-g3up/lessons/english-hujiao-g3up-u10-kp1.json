@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u10-kp1",
+  "title": "数字 1-12 与 eleven / twelve",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 10,
+  "unitTitle": "Module 4 The world around us — Numbers 数字",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字 1-12 与 eleven / twelve",
+      "question": "11 的英文是（　）",
+      "options": [
+        "eleven",
+        "twelve",
+        "ten",
+        "twenty"
+      ],
+      "answer": "eleven",
+      "explanation": "11 = eleven。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字 1-12 与 eleven / twelve",
+      "question": "12 的英文是（　）",
+      "options": [
+        "twelve",
+        "eleven",
+        "twenty",
+        "thirteen"
+      ],
+      "answer": "twelve",
+      "explanation": "12 = twelve。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数字 1-12 与 eleven / twelve",
+      "question": "ten 表示数字 10。",
+      "options": [],
+      "answer": "对",
+      "explanation": "10 = ten。"
+    }
+  ],
+  "knowledge": {
+    "point": "数字 1-12 与 eleven / twelve",
+    "core_concept": "one 到 ten 之后是 eleven（11）、twelve（12）。",
+    "key_formula": "eleven / twelve",
+    "common_mistakes": [
+      "eleven 写成 elevan。"
+    ],
+    "tips": "11、12 是特殊变化，要单独记。"
+  }
+}

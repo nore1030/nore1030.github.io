@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp10",
+  "title": "交通方式表达",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "交通方式表达",
+      "question": "How did you go there?",
+      "options": [
+        "By plane.",
+        "Fine, thanks.",
+        "At 7:00.",
+        "With my parents."
+      ],
+      "answer": "By plane.",
+      "explanation": "How引导的疑问句询问方式，回复交通方式。"
+    }
+  ],
+  "knowledge": null
+}

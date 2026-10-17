@@ -1,0 +1,66 @@
+{
+  "id": "moral-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g3down",
+  "unitNumber": 2,
+  "unitTitle": "我们的公共生活",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "文明礼貌与社会公德",
+      "question": "公交车上遇到老人，应该（　）",
+      "options": [
+        "主动让座",
+        "装作睡觉",
+        "盯着他看",
+        "不让座"
+      ],
+      "answer": "主动让座",
+      "explanation": "主动给有需要的人让座。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文明礼貌与社会公德",
+      "question": "不小心踩到别人要道歉。",
+      "options": [],
+      "answer": "对",
+      "explanation": "道歉是礼貌。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "爱护公用设施",
+      "question": "下面哪种行为是爱护公物（　）",
+      "options": [
+        "在书上写名字爱护课本",
+        "在课桌上刻字",
+        "掰断公园树枝",
+        "破坏路灯"
+      ],
+      "answer": "在书上写名字爱护课本",
+      "explanation": "爱护物品。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "文明礼貌与社会公德",
+      "question": "在公共场所不能大声喧哗。",
+      "options": [],
+      "answer": "对",
+      "explanation": "公共场所要安静。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "g5up-u1-kp4",
+  "title": "整数乘法运算律推广到小数",
+  "bookId": "g5up",
+  "unitNumber": 1,
+  "unitTitle": "小数乘法",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "整数乘法运算律推广到小数",
+      "question": "$2.5 \times 0.4 \times 1.2$ 可以利用交换律先算 $2.5 \times 0.4$ 比较简便。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据乘法结合律/交换律，$2.5 \times 0.4 = 1$，口算非常简单。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整数乘法运算律推广到小数",
+      "question": "计算 $1.25 \times 8.8$ 时，最简便的方法是：",
+      "options": [
+        "1.25×8×1.1",
+        "1.25×8+0.8",
+        "1.25×8+1.1",
+        "1.25×10-1.25×1.2"
+      ],
+      "answer": "1.25×8×1.1",
+      "explanation": "$8.8$ 拆成 $8 \times 1.1$，利用 $1.25 \times 8 = 10$ 计算最快。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整数乘法运算律推广到小数",
+      "question": "$0.7 \times 10.1$ 等于：",
+      "options": [
+        "7.07",
+        "7.7",
+        "70.7",
+        "0.707"
+      ],
+      "answer": "7.07",
+      "explanation": "$0.7 \times (10 + 0.1) = 0.7 \times 10 + 0.7 \times 0.1 = 7 + 0.07 = 7.07$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整数乘法运算律推广到小数",
+      "question": "计算：$4 \times 0.25 \times 17 = ?$",
+      "options": [],
+      "answer": "17",
+      "explanation": "$4 \times 0.25 = 1$；$1 \times 17 = 17$。验算：$1 \times 17 = 17$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "整数乘法运算律推广到小数",
+    "core_concept": "整数乘法的交换律、结合律和分配律，对于小数乘法同样适用。灵活运用这些运算律可以使计算变得简便。",
+    "key_formula": "$a \times b + a \times c = a \times (b + c)$",
+    "common_mistakes": [
+      "分配律公式记反",
+      "计算简便运算过程中小数点错位"
+    ],
+    "tips": "看到2.5找4，看到1.25找8，这是凑整计算的黄金搭档。"
+  }
+}

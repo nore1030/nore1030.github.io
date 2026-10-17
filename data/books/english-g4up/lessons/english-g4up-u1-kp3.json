@@ -1,0 +1,75 @@
+{
+  "id": "english-g4up-u1-kp3",
+  "title": "课堂指令动作执行",
+  "bookId": "english-g4up",
+  "unitNumber": 1,
+  "unitTitle": "My classroom",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "课堂指令动作执行",
+      "question": "'Turn on the light' 的意思是‘关灯’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Turn on是打开，Turn off才是关闭。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课堂指令动作执行",
+      "question": "你想让同学擦黑板，你应该说：",
+      "options": [
+        "Clean the door.",
+        "Clean the blackboard.",
+        "Clean the floor.",
+        "Clean the window."
+      ],
+      "answer": "Clean the blackboard.",
+      "explanation": "blackboard意为黑板。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课堂指令动作执行",
+      "question": "Open the ______.",
+      "options": [
+        "light",
+        "fan",
+        "window",
+        "wall"
+      ],
+      "answer": "window",
+      "explanation": "打开窗户是常见搭配。light和fan通常用turn on。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课堂指令动作执行",
+      "question": "请将动词与对应的物品连线组成指令。",
+      "options": [
+        "Close",
+        "Turn on",
+        "Put up",
+        "Clean",
+        "the picture",
+        "the window",
+        "the light",
+        "the blackboard"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "A Close the window; B Turn on the light; C Put up the picture; D Clean the blackboard。"
+    }
+  ],
+  "knowledge": null
+}

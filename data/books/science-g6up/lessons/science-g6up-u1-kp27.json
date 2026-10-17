@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp27",
+  "title": "微生物应用",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "微生物应用",
+      "question": "在馒头或面包的制作过程中，我们要加入（）菌使面团变得蓬松。",
+      "options": [],
+      "answer": "酵母",
+      "explanation": "酵母菌通过发酵产生二氧化碳，使面团产生空隙变得松软。"
+    }
+  ],
+  "knowledge": null
+}

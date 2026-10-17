@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp13",
+  "title": "固定搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 9,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "固定搭配",
+      "question": "Sarah is going to ____ a magazine this afternoon.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "readed"
+      ],
+      "answer": "read",
+      "explanation": "be going to后面跟动词原形。"
+    }
+  ],
+  "knowledge": null
+}

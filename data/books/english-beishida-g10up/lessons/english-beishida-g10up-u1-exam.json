@@ -1,0 +1,66 @@
+{
+  "id": "english-beishida-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-beishida-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 人物与职业",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "职业名称",
+      "question": "“司机”的英文是（　）",
+      "options": [
+        "driver",
+        "farmer",
+        "worker",
+        "reporter"
+      ],
+      "answer": "driver",
+      "explanation": "司机 driver。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与一般现在时",
+      "question": "My mother ___ in a hospital.",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "are working"
+      ],
+      "answer": "works",
+      "explanation": "第三人称单数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "职业名称",
+      "question": "reporter 指记者。",
+      "options": [],
+      "answer": "对",
+      "explanation": "记者。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与一般现在时",
+      "question": "表示习惯性动作用一般现在时。",
+      "options": [],
+      "answer": "对",
+      "explanation": "习惯性动作。"
+    }
+  ],
+  "knowledge": null
+}

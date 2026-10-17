@@ -1,0 +1,96 @@
+{
+  "id": "g6down-u3-kp2",
+  "title": "圆柱的表面积",
+  "bookId": "g6down",
+  "unitNumber": 3,
+  "unitTitle": "圆柱与圆锥",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "圆柱的表面积",
+      "question": "圆柱的底面直径扩大到原来的2倍，底面积就扩大到原来的4倍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "面积与半径的平方成正比，$2^2=4$，所以底面积扩大4倍。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱的表面积",
+      "question": "压路机的前轮转动一周，压过的路面面积是指前轮的什么？",
+      "options": [
+        "底面积",
+        "侧面积",
+        "表面积",
+        "体积"
+      ],
+      "answer": "侧面积",
+      "explanation": "前轮滚动的轨迹是它的周长乘以宽度，即侧面积。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "圆柱的表面积",
+      "question": "做一个无盖的圆柱形水桶，需要铁皮的面积是求这个圆柱的哪些部分？",
+      "options": [
+        "侧面积",
+        "侧面积+一个底面积",
+        "侧面积+两个底面积",
+        "底面积"
+      ],
+      "answer": "侧面积+一个底面积",
+      "explanation": "无盖水桶只有一个底面及侧面。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆柱的表面积",
+      "question": "底面直径和高均是10厘米的圆柱，其侧面积是多少平方厘米？（取PI为3.14）",
+      "options": [
+        "314",
+        "628",
+        "157",
+        "78.5"
+      ],
+      "answer": "314",
+      "explanation": "$3.14 \times 10 \times 10 = 314$。验算：$314 \times \frac{1}{10} \times \frac{1}{10} = 3.14$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "圆柱的表面积",
+      "question": "计算一根圆柱形通风管需要多少铁皮，是求它的哪个部分？",
+      "options": [
+        "表面积",
+        "底面积",
+        "侧面积",
+        "体积"
+      ],
+      "answer": "侧面积",
+      "explanation": "通风管两头通风，没有底面。"
+    }
+  ],
+  "knowledge": {
+    "point": "圆柱的表面积",
+    "core_concept": "圆柱的表面积由侧面积和两个底面积组成。在解决实际问题时，要注意题目要求的是几个面的面积。如通风管只需要侧面积，水桶只需要侧面积加一个底面积，压路机滚动一周也是求侧面积。",
+    "key_formula": "$S_{\text{表}} = S_{\text{侧}} + 2S_{\text{底}} = 2\text{PI}rh + 2\text{PI}r^2$",
+    "common_mistakes": [
+      "计算无盖水桶或通风管时多加了底面积。",
+      "计算半径平方时直接用半径乘以2。"
+    ],
+    "tips": "审题时先圈起“无盖”、“通风管”等关键词，明确需要算几个面。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp12",
+  "title": "逻辑理解",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑理解",
+      "question": "The boy is ______ because his father is ill.",
+      "options": [
+        "happy",
+        "worried",
+        "excited",
+        "angry"
+      ],
+      "answer": "worried",
+      "explanation": "爸爸生病了，孩子应该感到担心（worried）。"
+    }
+  ],
+  "knowledge": null
+}

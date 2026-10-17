@@ -1,0 +1,140 @@
+{
+  "id": "english-g5down-u2-kp1",
+  "title": "四季词汇与特征描述",
+  "bookId": "english-g5down",
+  "unitNumber": 2,
+  "unitTitle": "My favourite season",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "单词 'spring' 的意思是 '秋天'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "spring意为春天，秋天是autumn。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "单词 'winter' 的意思是 '冬天'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "winter意为冬天。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "Which _______ do you like best?",
+      "options": [
+        "season",
+        "fruit",
+        "food",
+        "animal"
+      ],
+      "answer": "season",
+      "explanation": "询问最喜欢的季节使用season。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "It's very cold in ________.",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": "winter",
+      "explanation": "冬天（winter）天气寒冷。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "The flowers are beautiful in ________.",
+      "options": [
+        "spring",
+        "winter",
+        "hot",
+        "cold"
+      ],
+      "answer": "spring",
+      "explanation": "春暖花开，所以是spring。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "Autumn is ________ in China.",
+      "options": [
+        "gold",
+        "green",
+        "white",
+        "pink"
+      ],
+      "answer": "gold",
+      "explanation": "秋天常被描述为金色的季节。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "There are four seasons in a year. They are spring, summer, autumn and ________.",
+      "options": [],
+      "answer": "winter",
+      "explanation": "填入四季中缺失的冬季。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "The weather is very ________ in summer.",
+      "options": [],
+      "answer": "hot",
+      "explanation": "夏季的天气特征是炎热。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季词汇与特征描述",
+      "question": "将下列季节单词与对应的中文意思连线。",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "秋天",
+        "夏天",
+        "冬天",
+        "春天"
+      ],
+      "answer": "A-4,B-2,C-1,D-3",
+      "explanation": "A.spring-春天; B.summer-夏天; C.autumn-秋天; D.winter-冬天。"
+    }
+  ],
+  "knowledge": null
+}

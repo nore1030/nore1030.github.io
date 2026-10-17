@@ -1,0 +1,29 @@
+{
+  "id": "english-g6up-u5-kp25",
+  "title": "核心句型",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 21,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "核心句型",
+      "question": "连词成句：does, he, What, do, ?",
+      "options": [
+        "What",
+        "does",
+        "he",
+        "do",
+        "?"
+      ],
+      "answer": "What,does,he,do,?",
+      "explanation": "这是询问他人的职业的标准句型。"
+    }
+  ],
+  "knowledge": null
+}

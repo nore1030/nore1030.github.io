@@ -1,0 +1,79 @@
+{
+  "id": "math-beishida-g1up-u6-kp1",
+  "title": "立体图形",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 6,
+  "unitTitle": "认识图形",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "魔方的形状大概是（　）",
+      "options": [
+        "正方体",
+        "长方体",
+        "圆柱",
+        "球"
+      ],
+      "answer": "正方体",
+      "explanation": "魔方是正方体。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "易拉罐的形状大概是（　）",
+      "options": [
+        "圆柱",
+        "球",
+        "正方体",
+        "长方体"
+      ],
+      "answer": "圆柱",
+      "explanation": "上下一样粗是圆柱。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "足球的形状是（　）",
+      "options": [
+        "球",
+        "圆",
+        "圆柱",
+        "正方体"
+      ],
+      "answer": "球",
+      "explanation": "足球是球体。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "立体图形",
+      "question": "正方体有 6 个面。",
+      "options": [],
+      "answer": "对",
+      "explanation": "6 个面。"
+    }
+  ],
+  "knowledge": {
+    "point": "立体图形",
+    "core_concept": "长方体 6 个面、正方体 6 个面都一样大、圆柱上下一样粗、球没有平面。",
+    "key_formula": "长方体 / 正方体 / 圆柱 / 球",
+    "common_mistakes": [
+      "把圆柱当面是曲面就认为不能滚动描述错。"
+    ],
+    "tips": "圆柱侧面是曲面。"
+  }
+}

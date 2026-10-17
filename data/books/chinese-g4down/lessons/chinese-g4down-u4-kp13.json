@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u4-kp13",
+  "title": "作者常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 12,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作者常识",
+      "question": "《猫》和《母鸡》的作者都是享誉世界的著名作家（    ）。",
+      "options": [],
+      "answer": "老舍",
+      "explanation": "老舍是本单元重点作家。"
+    }
+  ],
+  "knowledge": null
+}

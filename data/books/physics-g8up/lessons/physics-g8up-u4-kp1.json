@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8up-u4-kp1",
+  "title": "质量及其测量",
+  "bookId": "physics-g8up",
+  "unitNumber": 4,
+  "unitTitle": "质量与密度",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质量及其测量",
+      "question": "一块铁被压成铁板，它的质量（　）",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法确定"
+      ],
+      "answer": "不变",
+      "explanation": "质量是物体的属性。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "质量及其测量",
+      "question": "$1\\ \\text{m}^3=1000\\ \\text{dm}^3$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "体积单位换算。"
+    }
+  ],
+  "knowledge": {
+    "point": "质量及其测量",
+    "core_concept": "质量是物体所含物质的多少，是物体的属性，不随形状、位置、状态改变。天平使用：放平、调零、左物右码。",
+    "key_formula": "$1\\ \\text{t}=1000\\ \\text{kg}$，$1\\ \\text{kg}=1000\\ \\text{g}$",
+    "common_mistakes": [
+      "认为物体变到月球上质量变小。"
+    ],
+    "tips": "质量不变，重量会变。"
+  }
+}

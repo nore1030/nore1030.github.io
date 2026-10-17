@@ -1,0 +1,107 @@
+{
+  "id": "g1up-u1-kp3",
+  "title": "比多少的实践应用",
+  "bookId": "g1up",
+  "unitNumber": 1,
+  "unitTitle": "准备课",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比多少的实践应用",
+      "question": "3只兔子分4个萝卜，每个兔子分1个，萝卜会有剩余。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$4 > 3$，萝卜比兔子多，所以分完后还剩 $4 - 3 = 1$ 个。验算：$3 + 1 = 4$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比多少的实践应用",
+      "question": "小明有5个球，小红有7个球，谁的球多？",
+      "options": [
+        "小明多",
+        "小红多",
+        "一样多",
+        "不确定"
+      ],
+      "answer": "小红多",
+      "explanation": "$7 > 5$，所以小红的球多。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比多少的实践应用",
+      "question": "5个小朋友分6把椅子，每人坐一把，结果是？",
+      "options": [
+        "椅子有剩余",
+        "小朋友没位子",
+        "刚好坐满",
+        "无法判断"
+      ],
+      "answer": "椅子有剩余",
+      "explanation": "椅子6把，人5个，$6 > 5$，所以会有多出来的椅子。验算：$6 - 5 = 1$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比多少的实践应用",
+      "question": "猫妈妈钓了8条鱼，小猫钓了5条鱼，小猫再钓几条就和妈妈同样多？",
+      "options": [
+        "2条",
+        "3条",
+        "4条",
+        "13条"
+      ],
+      "answer": "3条",
+      "explanation": "要求同样多，即小猫也要有8条。$8 - 5 = 3$（条）。验算：$5 + 3 = 8$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比多少的实践应用",
+      "question": "一列队伍中小华前面有2人，后面有3人，这一队共有几人？",
+      "options": [
+        "4人",
+        "5人",
+        "6人",
+        "7人"
+      ],
+      "answer": "6人",
+      "explanation": "前面2人 + 小华本人(1人) + 后面3人。列式：$2 + 1 + 3 = 6$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比多少的实践应用",
+      "question": "小红有 10 支铅笔，小明有 8 支，小红比小明多 ___ 支。",
+      "options": [],
+      "answer": "2",
+      "explanation": "求多多少用减法。$10 - 8 = 2$（支）。验算：$8 + 2 = 10$。"
+    }
+  ],
+  "knowledge": {
+    "point": "比多少的实践应用",
+    "core_concept": "将数数和比较多少应用到生活情境中。例如，根据人数分发餐具，或者比较不同颜色气球的数量。这要求学生不仅能数出数字，还要能通过减法或逻辑推理解决“还差几个”或“多出几个”的实际问题。",
+    "key_formula": "差距计算：大数 - 小数 = 相差的数量",
+    "common_mistakes": [
+      "忽略自身：在排队问题中，容易忘记数自己。",
+      "逆向理解困难：不理解“小明比小红多2个”其实等同于“小红比小明少2个”。"
+    ],
+    "tips": "遇到复杂的排队或分配问题，可以在纸上画简单的圆点来代表物体，让抽象的数字变形象。"
+  }
+}

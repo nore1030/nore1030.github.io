@@ -1,0 +1,82 @@
+{
+  "id": "science-g1up-u3-kp2",
+  "title": "用身体作为测量工具",
+  "bookId": "science-g1up",
+  "unitNumber": 3,
+  "unitTitle": "比较与测量",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "每个人的一“拃”长度都是完全一样的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "每个人的手部大小不同，因此一“拃”的长度存在个体差异。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "用手测量课桌的高度时，我们通常伸出哪两个手指来测量这一“拃”？",
+      "options": [
+        "食指和小指",
+        "拇指和中指",
+        "食指和中指",
+        "大拇指和食指"
+      ],
+      "answer": "拇指和中指",
+      "explanation": "规范的一“拃”是指张开的大拇指到中指的距离。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "在测量同一个讲台的高度时，老师测得是5拃，学生测得是8拃，主要原因是？",
+      "options": [
+        "学生测量错了",
+        "学生的手比老师的手大",
+        "老师的手比学生的手大",
+        "讲台变高了"
+      ],
+      "answer": "老师的手比学生的手大",
+      "explanation": "物体长度固定，单位越长，测得数量越少。老师手大，拃长，所以数值小。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "除了“拃”以外，我们古代还常用下列哪个身体部位作为长度单位？",
+      "options": [
+        "步",
+        "耳朵",
+        "嘴巴",
+        "眼睛"
+      ],
+      "answer": "步",
+      "explanation": "古人常以步测量地块大小，属于原始的身体测量工具。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用身体作为测量工具",
+      "question": "小明用手测量书本的长度，如果第一拃从书头开始，到书尾正好测完了3次，这本书的长度就是（___）拃。",
+      "options": [],
+      "answer": "3",
+      "explanation": "测量次数即反映了物体的长度单位数值。"
+    }
+  ],
+  "knowledge": null
+}

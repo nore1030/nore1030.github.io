@@ -1,0 +1,65 @@
+{
+  "id": "chinese-g5up-u7-kp2",
+  "title": "即景观察的逻辑顺序",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 1,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "《四季之美》是按照春夏秋冬的时间顺序来写的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文分别描写了春天的黎明、夏天的夜晚、秋天的黄昏和冬天的早晨。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "《鸟鸣涧》描写的是什么时间的景色？",
+      "options": [
+        "清晨",
+        "正午",
+        "傍晚",
+        "夜晚"
+      ],
+      "answer": "夜晚",
+      "explanation": "诗中提到“月出惊山鸟”，说明是夜晚。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "即景观察的逻辑顺序",
+      "question": "请将下列词语排列成一句描写秋天黄昏的句子。",
+      "options": [
+        "夕阳",
+        "斜照",
+        "在",
+        "西山",
+        "时"
+      ],
+      "answer": "夕阳,斜照,在,西山,时",
+      "explanation": "出自《四季之美》中对秋天景色的描写。"
+    }
+  ],
+  "knowledge": {
+    "point": "即景观察的逻辑顺序",
+    "core_concept": "即景观察是指对自然景观在特定时间或瞬间状态下的观察。常见的逻辑顺序有两种：一是空间顺序，即由远及近、由外到内、由高到低（如《鸟的天堂》）；二是时间顺序，即按一天的时刻或一年的四季更替进行观察（如《四季之美》）。",
+    "key_formula": "观察有序 = 时间词（清晨/午后）/ 空间词（岸上/江面） + 重点景观",
+    "common_mistakes": [
+      "观察视线跳跃，没有明确的方位感",
+      "在描写四季时混淆了不同季节的典型意象"
+    ],
+    "tips": "描写时多用连接词，如‘转过身’、‘向前看’或‘到了黄昏’，这像导游的‘口播’能带路。"
+  }
+}

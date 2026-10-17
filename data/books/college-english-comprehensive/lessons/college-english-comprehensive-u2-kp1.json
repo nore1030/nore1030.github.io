@@ -1,0 +1,47 @@
+{
+  "id": "college-english-comprehensive-u2-kp1",
+  "title": "英文写作结构",
+  "bookId": "college-english-comprehensive",
+  "unitNumber": 2,
+  "unitTitle": "写作与翻译",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "英文写作结构",
+      "question": "英语段落中起概括作用的是（　）",
+      "options": [
+        "主题句",
+        "支持句",
+        "结论句",
+        "过渡句"
+      ],
+      "answer": "主题句",
+      "explanation": "主题句概括段落中心。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "英文写作结构",
+      "question": "短文写作通常采用“引言—主体—结论”的结构。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三段式结构。"
+    }
+  ],
+  "knowledge": {
+    "point": "英文写作结构",
+    "core_concept": "英语段落通常由主题句、支持句和结论句组成。短文写作遵循“引言—主体—结论”三段式，注意衔接词的使用。",
+    "key_formula": "topic sentence + supporting details + conclusion",
+    "common_mistakes": [
+      "段落无主题句。"
+    ],
+    "tips": "一段一个中心。"
+  }
+}

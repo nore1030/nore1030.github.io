@@ -1,0 +1,23 @@
+{
+  "id": "science-g3up-u3-kp26",
+  "title": "风力等级",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "风力等级",
+      "question": "蒲福风力等级表将风力共分为（ ___ ）个等级。",
+      "options": [],
+      "answer": "13",
+      "explanation": "蒲福风力等级表通常划分为0-12级，共13个等级。"
+    }
+  ],
+  "knowledge": null
+}

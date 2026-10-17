@@ -1,0 +1,66 @@
+{
+  "id": "physics-g10down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g10down",
+  "unitNumber": 2,
+  "unitTitle": "万有引力与宇宙航行",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "万有引力定律",
+      "question": "若两物体间距离增大为原来的 2 倍，万有引力变为原来的（　）",
+      "options": [
+        "$\\frac12$",
+        "$\\frac14$",
+        "2 倍",
+        "4 倍"
+      ],
+      "answer": "$\\frac14$",
+      "explanation": "与距离平方成反比。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "宇宙速度与卫星",
+      "question": "第一宇宙速度是人造地球卫星在地面附近环绕地球做圆周运动的速度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "第一宇宙速度定义。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "宇宙速度与卫星",
+      "question": "关于三个宇宙速度，正确的是（　）",
+      "options": [
+        "第一宇宙速度约为 7.9 km/s",
+        "第二宇宙速度约为 7.9 km/s",
+        "第三宇宙速度最小",
+        "三者相等"
+      ],
+      "answer": "第一宇宙速度约为 7.9 km/s",
+      "explanation": "第一宇宙速度为 7.9 km/s。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "万有引力定律",
+      "question": "万有引力定律适用于任何两个有质量的物体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "普遍适用。"
+    }
+  ],
+  "knowledge": null
+}

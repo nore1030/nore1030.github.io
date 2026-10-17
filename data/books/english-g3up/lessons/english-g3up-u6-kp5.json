@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp5",
+  "title": "字母辨析",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母辨析",
+      "question": "字母 'W' 的小写形式是 'm'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "W的小写是w，m是大写M的小写。"
+    }
+  ],
+  "knowledge": null
+}

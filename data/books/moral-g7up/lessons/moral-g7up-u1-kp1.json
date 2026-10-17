@@ -1,0 +1,36 @@
+{
+  "id": "moral-g7up-u1-kp1",
+  "title": "中学时代与自我认识",
+  "bookId": "moral-g7up",
+  "unitNumber": 1,
+  "unitTitle": "成长的节拍",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中学时代与自我认识",
+      "question": "认识自己的途径不包括（　）",
+      "options": [
+        "自我评价",
+        "他人评价",
+        "心理测试",
+        "凭空想象"
+      ],
+      "answer": "凭空想象",
+      "explanation": "认识自己需以事实为依据。"
+    }
+  ],
+  "knowledge": {
+    "point": "中学时代与自我认识",
+    "core_concept": "中学时代是人生发展的新阶段。正确认识自己要做到用全面的、发展的眼光看待自己，可以通过自我评价和他人评价来认识自己。",
+    "key_formula": "全面 + 发展地看自己",
+    "common_mistakes": [
+      "只看缺点或只看优点。"
+    ],
+    "tips": "自我认识要客观全面。"
+  }
+}

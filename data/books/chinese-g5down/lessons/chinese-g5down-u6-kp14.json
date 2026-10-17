@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u6-kp14",
+  "title": "文言句式转换",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 13,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言句式转换",
+      "question": "请将下列词语排成“自相矛盾”的现代文解释：",
+      "options": [
+        "自己的",
+        "言语",
+        "前后否定",
+        "行为"
+      ],
+      "answer": "自己的,言语,行为,前后否定",
+      "explanation": "自相矛盾指的是自己的言语和行为前后抵触。"
+    }
+  ],
+  "knowledge": null
+}

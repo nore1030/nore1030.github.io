@@ -1,0 +1,64 @@
+{
+  "id": "math-beishida-g7up-u2-kp3",
+  "title": "有理数的运算与科学记数法",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第二章 有理数及其运算",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "计算：-7 + 4 = ？",
+      "options": [],
+      "answer": "-3",
+      "explanation": "-7 + 4 = -3。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "计算：-5 + -9 = ？",
+      "options": [],
+      "answer": "-14",
+      "explanation": "-5 + -9 = -14。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "$(-3)^2$ 的值是多少？",
+      "options": [],
+      "answer": "9",
+      "explanation": "负数的偶次幂为正。"
+    },
+    {
+      "id": 6,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "用科学记数法表示 56000 为 $5.6\\times10^n$，$n=$ ___",
+      "options": [],
+      "answer": "4",
+      "explanation": "$56000=5.6\\times10^4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "有理数的运算与科学记数法",
+    "core_concept": "同号相乘得正、异号得负；除以一个非零数等于乘它的倒数。科学记数法写成 $a\\times10^n$（$1\\le|a|<10$）。",
+    "key_formula": "$a\\times10^n\\ (1\\le|a|<10)$",
+    "common_mistakes": [
+      "$a$ 的范围写错。"
+    ],
+    "tips": "先定符号，再算绝对值。"
+  }
+}

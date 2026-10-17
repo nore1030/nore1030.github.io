@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 4,
+  "unitTitle": "两位数乘两位数",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "30 乘 60 的积是 180。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$30 \times 60 = 1800$。$3 \times 6=18$，补两个 0。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "任何两位数乘 10，积的末尾一定有一个 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两位数 $n \times 10$ 相当于在 $n$ 的末尾添上一个 0。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$25 \times 40$ 的积是 100。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$25 \times 4 = 100$，再补一个 0 是 1000。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的应用题",
+      "question": "一辆客车限坐 40 人，12 辆这样的车能坐 500 人吗？答：不能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$40 \times 12 = 480$，因为 $480 < 500$，所以不能坐 500 人。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "学校买了 24 个足球，每个足球 58 元，一共需要多少元？",
+      "options": [
+        "1392",
+        "1200",
+        "1440",
+        "1382"
+      ],
+      "answer": "1392",
+      "explanation": "$58 \times 24 = 1392$。末尾数字应是 $8 \times 4$ 的 2。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的应用题",
+      "question": "每个箱子装 24 瓶饮料，每瓶 3 元，买 5 箱一共：",
+      "options": [
+        "360",
+        "240",
+        "120",
+        "15"
+      ],
+      "answer": "360",
+      "explanation": "$24 \times 3 = 72$ 元一箱，$72 \times 5 = 360$ 元。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "如果 $\text{□}3 \times 20 = 460$，那么 $\text{□}$ 里应填：",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "$460 \times \text{÷} 20 = 23$，所以 $\text{□}$ 是 2。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "$45 \times 11$ 与以下哪个等值？",
+      "options": [
+        "450+45",
+        "450+11",
+        "45 \times 10+1",
+        "45 \times 1+10"
+      ],
+      "answer": "450+45",
+      "explanation": "$45 \times 11 = 45 \times (10+1) = 45 \times 10 + 45 \times 1 = 450 + 45$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$20 \times 40$ 与 $10 \times 80$ 的结果：",
+      "options": [
+        "一样大",
+        "20 \times 40 大",
+        "10 \times 80 大",
+        "无法比较"
+      ],
+      "answer": "一样大",
+      "explanation": "都是 800。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决两步计算的应用题",
+      "question": "两个班学生合影，每排 12 人，站了 4 排，每张照片 5 元。买一张照片多少钱？",
+      "options": [
+        "5",
+        "60",
+        "240",
+        "48"
+      ],
+      "answer": "5",
+      "explanation": "题目最后问的是一张照片多少钱，文中已给出是 5 元。要注意审题。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "一列火车有 12 节车厢，每节车厢有 60 个座位。这列火车一共有多少座位？",
+      "options": [
+        "720",
+        "620",
+        "7200",
+        "72"
+      ],
+      "answer": "720",
+      "explanation": "$12 \times 60 = 720$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的应用题",
+      "question": "小红从家到学校，每分钟走 60 米，走 10 分钟。如果改骑车只需 4 分钟，骑车每分钟走多少米？",
+      "options": [
+        "150",
+        "240",
+        "600",
+        "120"
+      ],
+      "answer": "150",
+      "explanation": "距离 $60 \times 10 = 600$ 米，$600 \times \text{÷} 4 = 150$ 米。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "口算乘法",
+      "question": "一只斑马每天休息 12 小时，20 只斑马每天共休息 ___ 小时。",
+      "options": [],
+      "answer": "240",
+      "explanation": "$12 \times 20 = 240$。验算：$12 \times 2 = 24$，$24 \times 10 = 240$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "不进位与进位的笔算乘法",
+      "question": "计算 $35 \times 24$ 的积是 ___。",
+      "options": [],
+      "answer": "840",
+      "explanation": "$35 \times 24 = 35 \times 4 + 35 \times 20 = 140 + 700 = 840$。验算：$35 \times 2 \times 12 = 70 \times 12 = 840$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法",
+      "question": "$80 \times 70 = ?$",
+      "options": [],
+      "answer": "5600",
+      "explanation": "$8 \times 7 = 56$，末尾补两个 0 为 5600。验算：$5600 \times \text{÷} 70 = 80$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

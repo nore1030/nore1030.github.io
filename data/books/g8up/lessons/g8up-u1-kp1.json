@@ -1,0 +1,58 @@
+{
+  "id": "g8up-u1-kp1",
+  "title": "三角形边角关系",
+  "bookId": "g8up",
+  "unitNumber": 1,
+  "unitTitle": "三角形",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形边角关系",
+      "question": "三角形内角和等于 ___°。",
+      "options": [],
+      "answer": "180",
+      "explanation": "内角和定理。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形边角关系",
+      "question": "以下三边能构成三角形的是（　）",
+      "options": [
+        "1,2,3",
+        "2,3,5",
+        "3,4,5",
+        "1,1,3"
+      ],
+      "answer": "3,4,5",
+      "explanation": "$3+4>5$，满足两边之和大于第三边。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "三角形边角关系",
+      "question": "三角形中两角分别为 50° 和 60°，第三角是多少度？",
+      "options": [],
+      "answer": "70",
+      "explanation": "$180°-50°-60°=70°$。"
+    }
+  ],
+  "knowledge": {
+    "point": "三角形边角关系",
+    "core_concept": "三角形任意两边之和大于第三边，任意两边之差小于第三边；内角和为180°。",
+    "key_formula": "$a+b>c$；内角和 $=180°$",
+    "common_mistakes": [
+      "忽略“任意”二字。"
+    ],
+    "tips": "判断能否成三角形，只需检验两较小边之和是否大于最长边。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "moral-g4down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g4down",
+  "unitNumber": 2,
+  "unitTitle": "我们的国家与家乡",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "祖国的象征与统一",
+      "question": "我国的国歌是（　）",
+      "options": [
+        "《义勇军进行曲》",
+        "《欢乐颂》",
+        "《茉莉花》",
+        "《歌唱祖国》"
+      ],
+      "answer": "《义勇军进行曲》",
+      "explanation": "国歌是义勇军进行曲。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "民族团结与家乡变化",
+      "question": "各民族一律平等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "民族平等。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "民族团结与家乡变化",
+      "question": "和少数民族同学相处，应该（　）",
+      "options": [
+        "尊重他们的风俗习惯",
+        "嘲笑他们的服饰",
+        "不和他们玩",
+        "起绰号"
+      ],
+      "answer": "尊重他们的风俗习惯",
+      "explanation": "尊重民族习俗。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "祖国的象征与统一",
+      "question": "我国的陆地面积约 960 万平方千米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "国土面积约 960 万 km²。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "g2down-u1-kp4",
+  "title": "统计表的制作_与分析",
+  "bookId": "g2down",
+  "unitNumber": 1,
+  "unitTitle": "数据收集整理",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计表的制作_与分析",
+      "question": "$12 + 18 + 20 = ?$",
+      "options": [],
+      "answer": "50",
+      "explanation": "$12 + 18 = 30$, $30 + 20 = 50$。验算：$50 - 20 - 18 = 12$。"
+    }
+  ],
+  "knowledge": null
+}

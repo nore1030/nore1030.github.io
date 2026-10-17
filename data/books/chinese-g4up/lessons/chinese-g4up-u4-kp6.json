@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u4-kp6",
+  "title": "多音字读音选择",
+  "bookId": "chinese-g4up",
+  "unitNumber": 4,
+  "unitTitle": "神话故事",
+  "kpIndex": 5,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音选择",
+      "question": "下列词语中“降”字的读音与“投降”相同的一项是：",
+      "options": [
+        "降临",
+        "降落",
+        "宁死不降",
+        "降生"
+      ],
+      "answer": "宁死不降",
+      "explanation": "在表达“屈服、战败”时读 xiáng，其他读 jiàng。"
+    }
+  ],
+  "knowledge": null
+}

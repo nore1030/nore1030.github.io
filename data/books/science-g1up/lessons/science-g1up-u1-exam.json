@@ -1,0 +1,217 @@
+{
+  "id": "science-g1up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "science-g1up",
+  "unitNumber": 1,
+  "unitTitle": "植物",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "植物在生长过程中需要阳光。",
+      "options": [],
+      "answer": "对",
+      "explanation": "阳光是植物进行光合作用必不可少的能量来源。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "枯死的树木已经没有生命了，所以它现在不叫植物了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然失去了生命体征，但在生物分类学上它仍属于植物范畴（植物遗体）。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "叶的特征与多样性",
+      "question": "我们可以通过叶子的气味来分辨不同的植物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "有些植物如薄荷、艾草，其叶片具有独特的识别气味。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "植物生长只需要水，不需要空气。",
+      "options": [],
+      "answer": "错",
+      "explanation": "植物呼吸和光合作用都需要空气（氧气和二氧化碳）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "我们观察植物叶片的“纹路”，实际上是在观察（）。",
+      "options": [
+        "叶柄",
+        "叶脉",
+        "叶尖",
+        "叶缘"
+      ],
+      "answer": "叶脉",
+      "explanation": "叶片上的纹路被称为叶脉，具有输导和支撑作用。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叶的特征与多样性",
+      "question": "我们可以观察到秋天的叶子相比春天通常变（）了。",
+      "options": [
+        "嫩",
+        "绿",
+        "枯萎",
+        "透明"
+      ],
+      "answer": "枯萎",
+      "explanation": "秋季气温降低，许多落叶植物的叶子会变色、干枯并脱落。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "根据叶寻找和辨认植物",
+      "question": "有一种叶子边缘有很多小缺口，像锯子一样，这属于叶子的（）特征。",
+      "options": [
+        "颜色",
+        "叶脉",
+        "叶缘",
+        "叶柄"
+      ],
+      "answer": "叶缘",
+      "explanation": "叶片的边缘形态称为叶缘。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "植物的哪一部分负责固定植物不被风吹倒（）。",
+      "options": [
+        "花",
+        "叶",
+        "果实",
+        "根"
+      ],
+      "answer": "根",
+      "explanation": "根生长在地下，起到强大的固定和支撑作用。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叶的特征与多样性",
+      "question": "松树的叶子长得很像（）。",
+      "options": [
+        "扇子",
+        "小针",
+        "手掌",
+        "圆盘"
+      ],
+      "answer": "小针",
+      "explanation": "松叶为针状，是适应寒冷或干旱环境的特征。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "当我们发现路边的小草变黄了，我们应该（）。",
+      "options": [
+        "把它拔掉",
+        "给它浇点水",
+        "踩碎它",
+        "不管它"
+      ],
+      "answer": "给它浇点水",
+      "explanation": "体现对生命的爱护，通过简单的养护观察其反应。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "如果你种的植物枯萎了，可能是因为缺乏（）。",
+      "options": [
+        "石头",
+        "阳光和水",
+        "书包",
+        "音乐"
+      ],
+      "answer": "阳光和水",
+      "explanation": "植物生长必须具备水、空气、阳光等基本生存要素。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据叶寻找和辨认植物",
+      "question": "在校园里找叶子的家时，我们应该（）。",
+      "options": [
+        "把整棵树摇一摇",
+        "对照叶子的特征寻找",
+        "随便猜一个",
+        "摘下叶子拿去问老师"
+      ],
+      "answer": "对照叶子的特征寻找",
+      "explanation": "利用观察对比的方法进行科学鉴定。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "叶的特征与多样性",
+      "question": "三叶草因为每片复叶上通常有（）片小叶子而得名。",
+      "options": [],
+      "answer": "3",
+      "explanation": "名字体现了其明显的结构特征。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "植物的生长与变化记录",
+      "question": "我们每周给绿萝浇2次水，两周一共需要浇（）次水。",
+      "options": [],
+      "answer": "4",
+      "explanation": "简单的跨学科数学应用，2次×2周=4次。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "像小草这样春天发芽、冬天枯萎的变化说明植物是有（）的。",
+      "options": [],
+      "answer": "生命",
+      "explanation": "生长、凋谢是生命周期的体现。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp18",
+  "title": "动力控制",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 12,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动力控制",
+      "question": "当你发现电力螺旋桨小船航向偏右时，应如何调整船舵？",
+      "options": [
+        "向左偏转",
+        "向右偏转",
+        "保持不动",
+        "拔掉船舵"
+      ],
+      "answer": "向左偏转",
+      "explanation": "舵的方向决定航迹弯曲方向，偏右需通过向左移舵修正。"
+    }
+  ],
+  "knowledge": null
+}

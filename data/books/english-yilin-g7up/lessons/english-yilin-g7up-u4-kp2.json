@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u4-kp2",
+  "title": "频度副词 always / usually / often / never",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 My day 我的一天",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "频度副词 always / usually / often / never",
+      "question": "「总是」的英文是（　）",
+      "options": [
+        "always",
+        "all ways",
+        "alway",
+        "alwayss"
+      ],
+      "answer": "always",
+      "explanation": "always 总是。"
+    }
+  ],
+  "knowledge": {
+    "point": "频度副词 always / usually / often / never",
+    "core_concept": "always 总是、usually 通常、often 经常、sometimes 有时、never 从不；放在实义动词前、be 动词后。",
+    "key_formula": "I always get up early.",
+    "common_mistakes": [
+      "频度副词放在句首后面不加逗号混乱。"
+    ],
+    "tips": "be 后实前。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "biology-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "biology-g11up",
+  "unitNumber": 2,
+  "unitTitle": "生态与可持续发展",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "种群与群落",
+      "question": "在自然条件下，种群通常呈（　）",
+      "options": [
+        "$S$ 型增长",
+        "$J$ 型增长",
+        "直线增长",
+        "无规律"
+      ],
+      "answer": "$S$ 型增长",
+      "explanation": "受环境阻力。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "生态系统与能量流动",
+      "question": "能量传递效率一般为（　）",
+      "options": [
+        "10%-20%",
+        "50%-70%",
+        "80%-90%",
+        "100%"
+      ],
+      "answer": "10%-20%",
+      "explanation": "能量传递效率。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "种群与群落",
+      "question": "群落有垂直结构和水平结构。",
+      "options": [],
+      "answer": "对",
+      "explanation": "群落结构。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "生态系统与能量流动",
+      "question": "食物链和食物网是生态系统的营养结构。",
+      "options": [],
+      "answer": "对",
+      "explanation": "营养结构。"
+    }
+  ],
+  "knowledge": null
+}

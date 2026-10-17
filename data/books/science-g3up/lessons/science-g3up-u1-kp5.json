@@ -1,0 +1,60 @@
+{
+  "id": "science-g3up-u1-kp5",
+  "title": "加快溶解的方法及对比实验",
+  "bookId": "science-g3up",
+  "unitNumber": 1,
+  "unitTitle": "水",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "下列哪组方法能使冰糖在水中溶解得最快？（）",
+      "options": [
+        "冷水、不搅拌",
+        "热水、不搅拌",
+        "冷水、搅拌",
+        "热水、搅拌"
+      ],
+      "answer": "热水、搅拌",
+      "explanation": "升温和搅拌都能加快物质溶解的速度。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "在研究“搅拌能否加快溶解”的对比实验中，我们要改变的条件是（）。",
+      "options": [
+        "水的温度",
+        "水的多少",
+        "是否搅拌",
+        "食盐的多少"
+      ],
+      "answer": "是否搅拌",
+      "explanation": "对比实验中，除了要研究的变量（是否搅拌）外，其他条件都要保持一致。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "加快溶解的方法及对比实验",
+      "question": "为了发现细盐在水中溶解得快还是粗盐快，实验时放入的水量应该（）。",
+      "options": [
+        "细盐的多",
+        "粗盐的多",
+        "一样多",
+        "随意多少"
+      ],
+      "answer": "一样多",
+      "explanation": "对比实验需遵循单一变量原则，水量必须相同。"
+    }
+  ],
+  "knowledge": null
+}

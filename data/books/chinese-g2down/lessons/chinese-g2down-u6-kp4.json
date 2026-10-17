@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp4",
+  "title": "多音字辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 3,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字辨析",
+      "question": "选出下列句子中加下划线字读音正确的一项：要是你在野外迷了路，可千万别慌张（慌：huāng）。",
+      "options": [
+        "hāng",
+        "huāng",
+        "hàng",
+        "huáng"
+      ],
+      "answer": "huāng",
+      "explanation": "慌张的慌读作huāng。"
+    }
+  ],
+  "knowledge": null
+}

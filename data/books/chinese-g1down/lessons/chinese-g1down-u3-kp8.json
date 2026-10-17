@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u3-kp8",
+  "title": "多音字",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多音字",
+      "question": "“音乐”中的“乐”读作：",
+      "options": [
+        "lè",
+        "yuè",
+        "luè",
+        "rè"
+      ],
+      "answer": "yuè",
+      "explanation": "“乐”在音乐中读yuè，在快乐中读lè。"
+    }
+  ],
+  "knowledge": null
+}

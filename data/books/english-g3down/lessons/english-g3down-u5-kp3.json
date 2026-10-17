@@ -1,0 +1,48 @@
+{
+  "id": "english-g3down-u5-kp3",
+  "title": "元音字母u在闭音节中的发音",
+  "bookId": "english-g3down",
+  "unitNumber": 5,
+  "unitTitle": "Do you like pears?",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "元音字母u在闭音节中的发音",
+      "question": "单词 'under' 中字母 'u' 的发音和 'duck' 相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在闭音节单词中，字母u通常发短音/ʌ/。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "元音字母u在闭音节中的发音",
+      "question": "下列哪组单词中字母u的发音相同？",
+      "options": [
+        "duck, run",
+        "under, use",
+        "fun, student",
+        "computer, cup"
+      ],
+      "answer": "duck, run",
+      "explanation": "duck和run中的u都发/ʌ/音。"
+    }
+  ],
+  "knowledge": {
+    "point": "元音字母u在闭音节中的发音",
+    "core_concept": "字母u在辅+元+辅结构单词中的短元音发音规则。",
+    "key_formula": "u -> /ʌ/ (短音，嘴张开，舌尖抵下齿)",
+    "common_mistakes": [
+      "将fun读成/fɑːn/或/fʊn/",
+      "不区分开音节中的/ju:/音"
+    ],
+    "tips": "记顺口溜：鸭子duck跑得快run，在那under太阳下fun。"
+  }
+}

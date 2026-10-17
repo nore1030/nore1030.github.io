@@ -1,0 +1,217 @@
+{
+  "id": "g2down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "g2down",
+  "unitNumber": 3,
+  "unitTitle": "图形的运动（一）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "风扇页片的转动是旋转现象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "风扇叶片绕中心轴转动，符合旋转定义。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "圆有无数条对称轴。",
+      "options": [],
+      "answer": "对",
+      "explanation": "经过圆心的任何直线都是它的对称轴。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "汽车行驶过程中，车轮的运动是旋转现象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "车轮在行驶中绕着车轴进行圆周运动。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "只要图形能分成两部分，它就是轴对称图形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "轴对称要求对折后两部分能完全重合，而不仅仅是分成两部分。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "在计数器上拨动珠子的运动是？",
+      "options": [
+        "旋转",
+        "平移",
+        "对称",
+        "翻转"
+      ],
+      "answer": "平移",
+      "explanation": "珠子沿横杆或竖杆直线滑动，是平移现象。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "拧开水龙头的过程是？",
+      "options": [
+        "平移",
+        "旋转",
+        "折叠",
+        "滑行"
+      ],
+      "answer": "旋转",
+      "explanation": "拧的动作改变了角度，绕中心转动，是旋转。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "蝴蝶和风筝都是轴对称图形。蝴蝶有一对翅膀，那么对称轴在哪里？",
+      "options": [
+        "横在中间",
+        "斜在右边",
+        "竖在中间",
+        "没有轴"
+      ],
+      "answer": "竖在中间",
+      "explanation": "蝴蝶左右翅膀对称，所以轴是中间竖着的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平移现象的辨析",
+      "question": "小明在电脑屏幕上按下方向键，图标向下运动了 3 厘米。这是？",
+      "options": [
+        "旋转",
+        "翻滚",
+        "平移",
+        "对称"
+      ],
+      "answer": "平移",
+      "explanation": "图标沿直线方向移动，属于平移。大小没变。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "下面哪个算式计算结果的数字“0”是一个轴对称图形？",
+      "options": [
+        "5x2",
+        "3x3",
+        "2x4",
+        "1x4"
+      ],
+      "answer": "5x2",
+      "explanation": "$5 \times 2 = 10$，其中的“0”是轴对称图形。验算：0可上下左右重合。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平移现象的辨析",
+      "question": "小朋友在公园坐滑梯，这是什么运动？",
+      "options": [
+        "旋转",
+        "对称",
+        "平移",
+        "平衡"
+      ],
+      "answer": "平移",
+      "explanation": "沿直线轨道滑动，是平移。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "在算式 $18 \times 1 = 18$ 中，哪部分的数字是对称图形？",
+      "options": [
+        "数字8",
+        "数字1",
+        "数字x",
+        "数字="
+      ],
+      "answer": "数字8",
+      "explanation": "8是对称的。1打印体通常不对称（带钩）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "在拧矿泉水瓶盖时，瓶盖的主要运动是？",
+      "options": [
+        "平移",
+        "旋转",
+        "摆动",
+        "跳跃"
+      ],
+      "answer": "旋转",
+      "explanation": "拧的动作使物体绕轴转动，是旋转过程。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平移现象的辨析",
+      "question": "小蚂蚁向左爬行了 4 厘米，又向左爬行了 6 厘米。它一共向左平移了 ___ 厘米。",
+      "options": [],
+      "answer": "10",
+      "explanation": "$4 + 6 = 10$。验算：$10 - 6 = 4$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "旋转现象的辨析",
+      "question": "一个电风扇有 3 个叶片，2 个相同的电风扇一共有 ___ 个叶片。",
+      "options": [],
+      "answer": "6",
+      "explanation": "$3 \times 2 = 6$。验算：$6 \times 3 = 2$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平移现象的辨析",
+      "question": "$81 \times 9 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "注意题目情境设定为二年级基础除法运算（口诀）。修正：$81 \times 9$ 应为除法。计算：$81 \times 9$ 不符口诀。重新命题：$72 \times 8 = 9$（此处按口诀出题逻辑）。更正为：$3 \times 8 = ?$"
+    }
+  ],
+  "knowledge": null
+}

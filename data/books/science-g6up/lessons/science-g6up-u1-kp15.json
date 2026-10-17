@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp15",
+  "title": "微生物观察技巧",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "微生物观察技巧",
+      "question": "在观察水中的微小生物时，为了限制其运动速度，我们可以（）。",
+      "options": [
+        "加入大量的清水",
+        "用吸水纸吸干水分",
+        "在载玻片上放少量脱脂棉纤维",
+        "把微生物晒干"
+      ],
+      "answer": "在载玻片上放少量脱脂棉纤维",
+      "explanation": "放置棉纤维可以增加阻力，从而减缓水生微小生物的运动速度。"
+    }
+  ],
+  "knowledge": null
+}

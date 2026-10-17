@@ -1,0 +1,29 @@
+{
+  "id": "english-g6up-u3-kp23",
+  "title": "疑问句序",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 19,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问句序",
+      "question": "将其连成一句话：are, Where, going, you, ?",
+      "options": [
+        "are",
+        "Where",
+        "going",
+        "you",
+        "?"
+      ],
+      "answer": "Where,are,you,going,?",
+      "explanation": "Where引导的be going to特殊疑问句，结构为Where+be+主语+going?"
+    }
+  ],
+  "knowledge": null
+}

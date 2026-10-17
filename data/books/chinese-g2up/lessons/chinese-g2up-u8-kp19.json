@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp19",
+  "title": "生字识记",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生字识记",
+      "question": "“爪”字的第三笔是（____）。",
+      "options": [],
+      "answer": "竖",
+      "explanation": "爪字的笔顺是：撇、竖撇、竖、捺。第三笔是竖。"
+    }
+  ],
+  "knowledge": null
+}

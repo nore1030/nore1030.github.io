@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2up-u8-kp6",
+  "title": "成语故事内涵",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "成语故事内涵",
+      "question": "《狐假虎威》中，森林里的野兽是因为害怕狐狸才逃跑的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "野兽害怕的是狐狸后面的大老虎，而不是狐狸。"
+    }
+  ],
+  "knowledge": null
+}

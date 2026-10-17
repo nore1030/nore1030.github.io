@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp10",
+  "title": "字形辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "下列词语书写完全正确的一项是：",
+      "options": [
+        "诚实  郊外  养病",
+        "可惜  低头  连息",
+        "勇气  廷院  登高",
+        "肯定  灰雀  冷冻"
+      ],
+      "answer": "诚实  郊外  养病",
+      "explanation": "B项“怜惜”误写为“连”，C项“庭院”误写为“廷”。"
+    }
+  ],
+  "knowledge": null
+}

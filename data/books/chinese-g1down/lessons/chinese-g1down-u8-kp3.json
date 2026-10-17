@@ -1,0 +1,84 @@
+{
+  "id": "chinese-g1down-u8-kp3",
+  "title": "偏旁归类识字法",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 2,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "偏旁归类识字法",
+      "question": "“蚊”和“蚂”都是虫字旁，说明它们都属于昆虫。",
+      "options": [],
+      "answer": "对",
+      "explanation": "虫字旁的字通常表示昆虫类或类似的生物。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁归类识字法",
+      "question": "词语“蝴蝶”的偏旁都是（）。",
+      "options": [
+        "犭",
+        "虫",
+        "鸟",
+        "口"
+      ],
+      "answer": "虫",
+      "explanation": "蝴蝶是昆虫，所以使用虫字旁。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "偏旁归类识字法",
+      "question": "下列哪组词语的偏旁属于同一种范畴？",
+      "options": [
+        "猫 狗 猪",
+        "鸡 鸭 鱼",
+        "蜻 蜓 鸟",
+        "松 柏 花"
+      ],
+      "answer": "猫 狗 猪",
+      "explanation": "猫、狗、猪都是反犬旁，表示走兽类。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁归类识字法",
+      "question": "帮小动物找对应的家（偏旁）。",
+      "options": [
+        "蜻蜓",
+        "喜鹊",
+        "野狼",
+        "鲤鱼",
+        "飞禽",
+        "昆虫",
+        "走兽",
+        "水中"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "虫字旁归昆虫，鸟字旁归飞禽，反犬旁归走兽，鱼字旁归鱼类。"
+    }
+  ],
+  "knowledge": {
+    "point": "偏旁归类识字法",
+    "core_concept": "汉字中偏旁部首代表了字的意义范畴。‘虫’字旁的字通常与昆虫或低等冷血动物有关；‘犭’（反犬旁）通常与四足走兽、哺乳动物有关；‘鸟’字旁的字则多指禽类。通过掌握这些形旁，学生可以根据字形推测字义，从而提高识字效率和准确率。",
+    "key_formula": "虫旁多昆虫，反犬跑野兽，鸟旁天上飞。",
+    "common_mistakes": [
+      "反犬旁写作‘犬’字",
+      "混淆‘蝴蝶’等虫字旁字的分类"
+    ],
+    "tips": "给汉字找家：把生词卡片按照偏旁分入‘昆虫家’、‘走兽家’或‘飞禽家’。"
+  }
+}

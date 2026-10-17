@@ -1,0 +1,58 @@
+{
+  "id": "physics-g8down-u3-kp1",
+  "title": "功与功率",
+  "bookId": "physics-g8down",
+  "unitNumber": 3,
+  "unitTitle": "功和机械能",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "功与功率",
+      "question": "用 50 N 的力沿水平方向推动物体移动 4 m，做的功是多少 J？",
+      "options": [],
+      "answer": "200",
+      "explanation": "$W=Fs=50\\times4=200$ J。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "功与功率",
+      "question": "在 10 s 内做功 600 J，功率是多少 W？",
+      "options": [],
+      "answer": "60",
+      "explanation": "$P=\\frac{600}{10}=60$ W。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "功与功率",
+      "question": "下列情况中人对物体做了功的是（　）",
+      "options": [
+        "提着水桶水平走动",
+        "举着杠铃静止不动",
+        "推着车前进",
+        "举着物体原地不动"
+      ],
+      "answer": "推着车前进",
+      "explanation": "有力且在力方向上有位移。"
+    }
+  ],
+  "knowledge": {
+    "point": "功与功率",
+    "core_concept": "功等于力与物体在力的方向上移动距离的乘积。有力无距离或有距离无力都不做功。",
+    "key_formula": "$W=Fs$，$P=\\frac Wt$",
+    "common_mistakes": [
+      "把竖直提力与水平位移相乘。"
+    ],
+    "tips": "力与距离必须同方向。"
+  }
+}

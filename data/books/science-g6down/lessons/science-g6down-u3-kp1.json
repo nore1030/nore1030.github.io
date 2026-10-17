@@ -1,0 +1,66 @@
+{
+  "id": "science-g6down-u3-kp1",
+  "title": "太阳系大家庭的组成",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 0,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "太阳是太阳系中唯一一颗发光发热的恒星。",
+      "options": [],
+      "answer": "对",
+      "explanation": "太阳系中只有太阳是恒星，依靠核聚变反应发光发热。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "下列天体中，距离地球最近的恒星是哪一个？",
+      "options": [
+        "金星",
+        "太阳",
+        "月球",
+        "北极星"
+      ],
+      "answer": "太阳",
+      "explanation": "太阳是太阳系的中心天体，也是距离我们最近的恒星。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "曾经被评为九大行星之一，后来被降级为矮行星的是？",
+      "options": [
+        "海王星",
+        "天王星",
+        "冥王星",
+        "谷神星"
+      ],
+      "answer": "冥王星",
+      "explanation": "2006年国际天文联合会将冥王星重新归类为矮行星。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "太阳系大家庭的组成",
+      "question": "拖着长长尾巴的天体被称为（___）。",
+      "options": [],
+      "answer": "彗星",
+      "explanation": "彗星因其冰物质升华形成彗发和彗尾，形态独特。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "english-g5down-u4-kp25",
+  "title": "询问时间",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问时间",
+      "question": "连词成句：the, show, When, is, art, ?",
+      "options": [
+        "the",
+        "show",
+        "When",
+        "is",
+        "art",
+        "?"
+      ],
+      "answer": "When,is,the,art,show,?",
+      "explanation": "特殊疑问句结构为：疑问词+be动词+名词。"
+    }
+  ],
+  "knowledge": null
+}

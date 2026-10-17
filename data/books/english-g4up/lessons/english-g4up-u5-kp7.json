@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp7",
+  "title": "固定表达",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 3,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "固定表达",
+      "question": "'Help yourself' 的意思是 '请自便，随便吃'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Help yourself是招待客人用餐时的常用语。"
+    }
+  ],
+  "knowledge": null
+}

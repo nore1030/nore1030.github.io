@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3up-u4-kp1",
+  "title": "介绍朋友 This is my friend…",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 4,
+  "unitTitle": "Module 2 My family, my friends and me — My friends 我的朋友",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍朋友 This is my friend…",
+      "question": "把朋友汤姆介绍给别人，应说（　）",
+      "options": [
+        "This is my friend, Tom.",
+        "He is Tom friend.",
+        "This is Tom friend.",
+        "I am Tom."
+      ],
+      "answer": "This is my friend, Tom.",
+      "explanation": "介绍他人用 This is…"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "介绍朋友 This is my friend…",
+      "question": "This is… 用于把某人介绍给别人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍用语。"
+    }
+  ],
+  "knowledge": {
+    "point": "介绍朋友 This is my friend…",
+    "core_concept": "介绍他人用 This is…（这是……）。介绍朋友：This is my friend, Tom.",
+    "key_formula": "This is my friend, Tom.",
+    "common_mistakes": [
+      "介绍时说 He is my friend 而不先用 This is。"
+    ],
+    "tips": "当面介绍首选 This is…"
+  }
+}

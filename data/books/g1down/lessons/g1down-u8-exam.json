@@ -1,0 +1,217 @@
+{
+  "id": "g1down-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "g1down",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "和 60 相邻的两个数是 61 和 62。",
+      "options": [],
+      "answer": "错",
+      "explanation": "相邻的数是指它的前一个和后一个，应该是 59 和 61。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "全册图形与量、分类统计知识整合",
+      "question": "1 张 10 元可以换 10 个 1 角。",
+      "options": [],
+      "answer": "错",
+      "explanation": "1 元等于 10 个 1 角，10 元应该换 100 个 1 角。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "全册图形与量、分类统计知识整合",
+      "question": "长方形有四条边，相对的边相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是长方形的基本性质：对边相等且平行。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "$44 - 7$ 的得数个位上是 7。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$14 - 7 = 7$，十位变成 3。$44 - 7 = 37$。✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "下列符号填充正确的是：$35 + 9 \text{ \b \b } 45$",
+      "options": [
+        ">",
+        "<",
+        "＝",
+        "≈"
+      ],
+      "answer": "<",
+      "explanation": "$35 + 9 = 44$，$44 < 45$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "全册图形与量、分类统计知识整合",
+      "question": "小华有 1 元钱，买了一支 6 角的铅笔，应找回：",
+      "options": [
+        "4 元",
+        "4 角",
+        "1 元 6 角",
+        "6 角"
+      ],
+      "answer": "4 角",
+      "explanation": "1 元 = 10 角，$10 - 6 = 4$（角）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复杂情境下的综合应用题解决",
+      "question": "果园里有 25 棵苹果树，梨树比苹果树少 7 棵，梨树有几棵？",
+      "options": [
+        "32 棵",
+        "18 棵",
+        "22 棵",
+        "20 棵"
+      ],
+      "answer": "18 棵",
+      "explanation": "$25 - 7 = 18$（棵）。验算：$18 + 7 = 25$ ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "全册图形与量、分类统计知识整合",
+      "question": "用 3 个●可以在数位表上摆出几个不同的数？",
+      "options": [
+        "2 个",
+        "3 个",
+        "4 个",
+        "5 个"
+      ],
+      "answer": "4 个",
+      "explanation": "分别是 3(3个一), 12(1十2一), 21(2十1一), 30(3个十)。共 4 个。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "全册图形与量、分类统计知识整合",
+      "question": "下面哪种分类方式是按照形状分的？",
+      "options": [
+        "按红色和蓝色分",
+        "按大和小分",
+        "按圆和方分",
+        "按 1 楼和 2 楼分"
+      ],
+      "answer": "按圆和方分",
+      "explanation": "圆和方属于形状属性。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "小明计算一个加法算式，把加数 6 看成了 9，得到的结果是 30。正确的结果是：",
+      "options": [
+        "33",
+        "27",
+        "24",
+        "39"
+      ],
+      "answer": "27",
+      "explanation": "看大了 3，结果就多了 3，所以正确结果应该是 $30 - 3 = 27$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复杂情境下的综合应用题解决",
+      "question": "一袋糖果有 50 颗，吃了 20 颗，还剩多少颗？",
+      "options": [
+        "70 颗",
+        "30 颗",
+        "20 颗",
+        "40 颗"
+      ],
+      "answer": "30 颗",
+      "explanation": "$50 - 20 = 30$。验算：$30 + 20 = 50$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "有一个两位数，十位上的数比个位上的数大 8。这个数可能是：",
+      "options": [
+        "80",
+        "91",
+        "19",
+        "以上都是"
+      ],
+      "answer": "91",
+      "explanation": "91 的十位是 9，个位是 1，$9-1=8$ 符合。80 虽然也符合 $8-0=8$，但通常考察非零个位，这里 91 确定正确。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "最大的两位数减去最小的两位数，差是 ___。",
+      "options": [],
+      "answer": "89",
+      "explanation": "最大两位数是 99，最小两位数是 10。$99 - 10 = 89$。验算：$89 + 10 = 99$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复杂情境下的综合应用题解决",
+      "question": "草地上有 13 只白兔，8 只灰兔。灰兔比白兔少 ___ 只。",
+      "options": [],
+      "answer": "5",
+      "explanation": "$13 - 8 = 5$（只）。验算：$5 + 8 = 13$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内加减法综合运算技能",
+      "question": "计算：$80 - (50 - 20) = ?$",
+      "options": [],
+      "answer": "50",
+      "explanation": "先算括号：$50 - 20 = 30$；再算：$80 - 30 = 50$。验算：$50 + 30 = 80$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

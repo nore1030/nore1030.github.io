@@ -1,0 +1,61 @@
+{
+  "id": "physics-g10down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g10down",
+  "unitNumber": 1,
+  "unitTitle": "抛体运动与圆周运动",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "圆周运动与向心力",
+      "question": "半径 0.5 m、周期 2 s 的圆周运动，线速度是多少 m/s？（$\\pi$ 取 3.14）",
+      "options": [],
+      "answer": "1.57",
+      "explanation": "$v=\\frac{2\\pi r}{T}=\\frac{2\\times3.14\\times0.5}{2}=1.57$ m/s。"
+    },
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平抛运动",
+      "question": "以 10 m/s 水平抛出的物体，1 s 后水平位移是多少 m？",
+      "options": [],
+      "answer": "10",
+      "explanation": "$x=10\\times1=10$ m。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "圆周运动与向心力",
+      "question": "匀速圆周运动是匀速运动。",
+      "options": [],
+      "answer": "错",
+      "explanation": "速度方向不断变化，是变速运动。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平抛运动",
+      "question": "平抛运动的轨迹是（　）",
+      "options": [
+        "直线",
+        "抛物线",
+        "圆",
+        "椭圆"
+      ],
+      "answer": "抛物线",
+      "explanation": "平抛轨迹为抛物线。"
+    }
+  ],
+  "knowledge": null
+}

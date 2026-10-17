@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u3-kp5",
+  "title": "标点符号选择",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "“这些龙有的刻着两条飞龙，前爪相互抵着，各自回首遥望（ ）有的刻着双龙戏珠（ ）”横线处填哪组标点？",
+      "options": [
+        "， 。",
+        "； ；",
+        "； ，",
+        "： 。"
+      ],
+      "answer": "； ；",
+      "explanation": "文中描写龙的不同形态，使用分号表示并列关系。"
+    }
+  ],
+  "knowledge": null
+}

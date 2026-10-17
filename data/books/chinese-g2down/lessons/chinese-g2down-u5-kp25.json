@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g2down-u5-kp25",
+  "title": "连词成句",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连词成句",
+      "question": "请将下列词语排成通顺的句子。",
+      "options": [
+        "小马",
+        "驮着",
+        "口袋",
+        "半袋",
+        "麦子"
+      ],
+      "answer": "小马,驮着,半袋,口袋,麦子",
+      "explanation": "按照主谓宾顺序排列。"
+    }
+  ],
+  "knowledge": null
+}

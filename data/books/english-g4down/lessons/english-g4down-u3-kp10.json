@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u3-kp10",
+  "title": "Location preposition",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 6,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Location preposition",
+      "question": "What's the weather like ____ Beijing?",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "在某个城市名称前用介词in。"
+    }
+  ],
+  "knowledge": null
+}

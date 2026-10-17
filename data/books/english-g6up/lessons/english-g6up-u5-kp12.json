@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp12",
+  "title": "短语理解",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 8,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短语理解",
+      "question": "A ______ helps sick people.",
+      "options": [
+        "scientist",
+        "doctor",
+        "pilot",
+        "police officer"
+      ],
+      "answer": "doctor",
+      "explanation": "医生(doctor)负责救治病人。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,42 @@
+{
+  "id": "math-beishida-g7up-u3-kp2",
+  "title": "整式与合并同类项",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 3,
+  "unitTitle": "第三章 整式及其加减",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "整式与合并同类项",
+      "question": "合并同类项：$7m-3m+2m=$ ？（填最简形式）",
+      "options": [],
+      "answer": "6m",
+      "explanation": "$(7-3+2)m=6m$。"
+    },
+    {
+      "id": 4,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整式与合并同类项",
+      "question": "单项式 $-4x^2y$ 的系数是 ___。",
+      "options": [],
+      "answer": "-4",
+      "explanation": "数字因数 $-4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "整式与合并同类项",
+    "core_concept": "单项式的数字因数是系数，所有字母指数之和是次数。同类项字母相同且相同字母指数相同，合并时系数相加。",
+    "key_formula": "$5a^2b-3a^2b=2a^2b$",
+    "common_mistakes": [
+      "把 $a^2$ 与 $a$ 当同类项。"
+    ],
+    "tips": "先判断是否同类项。"
+  }
+}

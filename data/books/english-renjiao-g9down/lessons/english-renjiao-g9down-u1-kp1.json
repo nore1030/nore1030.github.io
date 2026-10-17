@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9down-u1-kp1",
+  "title": "现在完成时",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时与被动语态",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "I ___ my key, so I can't open the door.",
+      "options": [
+        "lose",
+        "lost",
+        "have lost",
+        "am losing"
+      ],
+      "answer": "have lost",
+      "explanation": "丢失造成现在结果。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "现在完成时不能与 yesterday 等过去时间状语连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时态限制。"
+    }
+  ],
+  "knowledge": {
+    "point": "现在完成时",
+    "core_concept": "现在完成时由 have/has + 过去分词构成，表示过去动作对现在的影响或持续到现在。since 后接时间点，for 后接时间段。",
+    "key_formula": "have/has + 过去分词",
+    "common_mistakes": [
+      "与一般过去时混用。"
+    ],
+    "tips": "since 时间点，for 时间段。"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "geography-g7up-u2-kp2",
+  "title": "海陆变迁与板块构造",
+  "bookId": "geography-g7up",
+  "unitNumber": 2,
+  "unitTitle": "陆地和海洋",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "海陆变迁与板块构造",
+      "question": "板块交界地带地壳活跃，多火山和地震。",
+      "options": [],
+      "answer": "对",
+      "explanation": "板块边界活跃。"
+    }
+  ],
+  "knowledge": {
+    "point": "海陆变迁与板块构造",
+    "core_concept": "板块构造学说认为岩石圈由六大板块组成，板块内部比较稳定、交界地带地壳活跃，多火山地震。板块碰撞挤压形成山脉，张裂形成裂谷或海洋。",
+    "key_formula": "六大板块：亚欧、非洲、美洲、太平洋、印度洋、南极洲",
+    "common_mistakes": [
+      "认为所有板块边界都形成山脉。"
+    ],
+    "tips": "碰撞挤压成山，张裂成海。"
+  }
+}

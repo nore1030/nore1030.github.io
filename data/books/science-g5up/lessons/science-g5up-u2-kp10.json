@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp10",
+  "title": "地形地貌识别",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地形地貌识别",
+      "question": "我国的西藏地区平均海拔在4000米以上，这种地形属于（ ）。",
+      "options": [
+        "盆地",
+        "平原",
+        "高原",
+        "丘陵"
+      ],
+      "answer": "高原",
+      "explanation": "海拔较高、地面起伏较小且边缘陡峭的地形称为高原。"
+    }
+  ],
+  "knowledge": null
+}

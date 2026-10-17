@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g2up-u3-kp3",
+  "title": "书信的基本格式与规范",
+  "bookId": "chinese-g2up",
+  "unitNumber": 3,
+  "unitTitle": "儿童生活",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式与规范",
+      "question": "写信时，‘祝：身体健康’中‘身体健康’要顶格写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在书信的祝福语中，‘祝’字之后的内容如‘身体健康’通常需要另起一行并顶格书写。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信的基本格式与规范",
+      "question": "在写信时，日期应该写在信纸的什么位置？",
+      "options": [
+        "第一行顶格",
+        "正文下方",
+        "署名的下方",
+        "信纸中间"
+      ],
+      "answer": "署名的下方",
+      "explanation": "书信标准格式规定，日期写在署名的正下方。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信的基本格式与规范",
+      "question": "给老师写信，称呼‘亲爱的王老师：’应该写在：",
+      "options": [
+        "第一行顶格",
+        "第一行空格",
+        "正文结尾",
+        "信纸中间"
+      ],
+      "answer": "第一行顶格",
+      "explanation": "书信的第一行顶格写称呼，并加冒号。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信的基本格式与规范",
+      "question": "书信最后表达敬意或祝福的词语（如‘此致’）统称为（___）。",
+      "options": [],
+      "answer": "祝语",
+      "explanation": "祝语是书信中不可缺少的礼貌用语。"
+    }
+  ],
+  "knowledge": {
+    "point": "书信的基本格式与规范",
+    "core_concept": "书信是情感交流的传统载体。要求掌握‘五大件’：第一行顶格写称呼；第二行空两格开始写正文；另起一行空两格或接正文写祝语；最后在右下方署名并标注日期。注重书面语中的礼貌表达（如‘您’、‘此致’）。",
+    "key_formula": "称呼顶格，正文两空，祝语连贯，署名日期靠右下",
+    "common_mistakes": [
+      "把称呼写在第一行的中间",
+      "漏写日期或将日期写在署名的上方"
+    ],
+    "tips": "口诀记忆：称呼顶格冒号跟，正文空两格才亲，祝福空两格紧记，名字日期在右底。"
+  }
+}

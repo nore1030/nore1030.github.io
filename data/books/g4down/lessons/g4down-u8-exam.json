@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 8,
+  "unitTitle": "平均数与条形统计图",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "池塘平均水深1.2米，小红身高1.3米，她下水后肯定不会淹着。",
+      "options": [],
+      "answer": "错",
+      "explanation": "平均深度不代表局部深度，有的地方可能深于1.3米。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "复式条形统计图的绘制与分析",
+      "question": "在复式条形统计图中，直条越高表示的数据越大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在纵向统计图中，高度正比于数值大小。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "根据统计图进行决策预测",
+      "question": "复式条形统计图能同时表示出两组数据的多少，方便进行比较。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是复式条形统计图相比于单式统计图的核心优点。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "已知男生的平均体重是35kg，女生的平均体重是30kg，全班平均体重一定在30kg到35kg之间。",
+      "options": [],
+      "answer": "对",
+      "explanation": "总平均数必然位于各组成部分平均数的最大值与最小值之间。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "小明算出了五次数赛成绩的平均分是90分，前四次成绩分别是85、92、88、95，第五次是多少分？",
+      "options": [
+        "88",
+        "90",
+        "92",
+        "95"
+      ],
+      "answer": "90",
+      "explanation": "总分 $90 \\times 5 = 450$。前四次和 $85+92+88+95 = 360$。$450 - 360 = 90$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "根据统计图进行决策预测",
+      "question": "某公司上半年1-3月盈利持续增长，4-6月由于淡季盈利逐渐下降。下列哪种描述最符合这种趋势？",
+      "options": [
+        "像山坡一样先升后降",
+        "一直上升",
+        "一直下降",
+        "先降后升"
+      ],
+      "answer": "像山坡一样先升后降",
+      "explanation": "上升再下降形成的形状类似山峰的山坡图形。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "求5个人平均身高的算式是（ ）。",
+      "options": [
+        "身高总和÷5",
+        "身高总和×5",
+        "身高总和÷2",
+        "身高总和-5"
+      ],
+      "answer": "身高总和÷5",
+      "explanation": "基础公式应用：平均数 = 总数 ÷ 份数。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "复式条形统计图的绘制与分析",
+      "question": "在纵向复式条形统计图中，若横轴表示年级，纵轴应表示（ ）。",
+      "options": [
+        "年级",
+        "数量",
+        "图例",
+        "单位名称"
+      ],
+      "answer": "数量",
+      "explanation": "纵向条形图中，高低代表数量的大小，故纵轴应标刻度及数量。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据统计图进行决策预测",
+      "question": "根据统计，某饮品店冰淇淋销量在夏季1000杯，冬季100杯。店长应在冬季（ ）。",
+      "options": [
+        "增加库存",
+        "减少库存",
+        "保持库存不变",
+        "关闭店铺"
+      ],
+      "answer": "减少库存",
+      "explanation": "根据淡旺季销售数据进行经营决策，冬季销量低应减少库存以防变质或占位。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "10名同学的平均体重是32kg，其中一名同学的体重（ ）是32kg。",
+      "options": [
+        "一定",
+        "可能",
+        "不可能",
+        "绝对"
+      ],
+      "answer": "可能",
+      "explanation": "平均数不代表每个样本的值，只是整体水平，个体可能等于、大于或小于它。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "小明身高135cm，他在平均水深120cm的池塘中（ ）。",
+      "options": [
+        "绝对安全",
+        "仍有危险",
+        "池塘没水",
+        "一定会游泳"
+      ],
+      "answer": "仍有危险",
+      "explanation": "平均水深不能排除深水区的存在。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "根据统计图进行决策预测",
+      "question": "如果一名射击运动员前六次成绩都在9环以上，他第七次成绩最可能是多少？",
+      "options": [
+        "2环",
+        "5环",
+        "9环",
+        "0环"
+      ],
+      "answer": "9环",
+      "explanation": "根据之前的成绩波动趋势，推测其水平稳定在9环左右。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "小明5分钟做了40道口算题，他平均每分钟做 ___ 道。",
+      "options": [],
+      "answer": "8",
+      "explanation": "$40 \\div 5 = 8$。验算：$8 \\times 5 = 40$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "甲数是20，乙数和丙数都是26，这三个数的平均数是 ___ 。",
+      "options": [],
+      "answer": "24",
+      "explanation": "$(20 + 26 + 26) \\div 3 = 72 \\div 3 = 24$。验算：$24 \\times 3 = 72$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "平均数的求法与意义",
+      "question": "计算：$(35 + 45) \\div 2 = ?$",
+      "options": [],
+      "answer": "40",
+      "explanation": "$35 + 45 = 80$，$80 \\div 2 = 40$。验算：$40 \\times 2 = 80$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

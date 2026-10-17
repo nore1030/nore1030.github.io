@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u4-kp12",
+  "title": "序数词拼写特殊变体",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词拼写特殊变体",
+      "question": "My father's birthday is on August ______.",
+      "options": [
+        "five",
+        "fifth",
+        "fiveth",
+        "5st"
+      ],
+      "answer": "fifth",
+      "explanation": "five变序数词需改ve为f再加th，即fifth。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "science-g6down-u1-kp2",
+  "title": "工程建设的步骤与特点",
+  "bookId": "science-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小小工程师",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "工程设计通常需要经历不断修改和完善的过程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "工程建设的核心是设计，且设计需要经过测试、评估和不断的优化改进。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "下列哪一项是工程建设最核心的步骤？",
+      "options": [
+        "准备材料",
+        "进行设计",
+        "实地施工",
+        "结算成本"
+      ],
+      "answer": "进行设计",
+      "explanation": "设计是工程建设的灵魂，后续的制作、测试和改进都基于设计方案。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "当设计方案在测试中没有达到预期目标时，工程师应该？",
+      "options": [
+        "直接放弃该工程",
+        "分析原因并修改方案",
+        "不理会测试结果继续施工",
+        "全盘按照原来的设计重做"
+      ],
+      "answer": "分析原因并修改方案",
+      "explanation": "测试的目的就是发现问题，通过分析原因优化设计是工程的核心逻辑。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "工程建设中，限制条件通常不包括？",
+      "options": [
+        "工程造价",
+        "使用材料",
+        "天气变化",
+        "学生的爱好"
+      ],
+      "answer": "学生的爱好",
+      "explanation": "限制条件主要是指客观的时间、空间、资金和技术条件。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "在工程建设程序中，通常我们将“制作模型”排在第（___）步（提示：按照明确问题、设计、制作、测试顺序）。",
+      "options": [],
+      "answer": "3",
+      "explanation": "标准工程流程：1.明确问题；2.方案设计；3.制作模型；4.测试评估；5.改进优化。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工程建设的步骤与特点",
+      "question": "工程建设是为了满足人们的（___）而开展的有目的的实践活动。",
+      "options": [],
+      "answer": "需求",
+      "explanation": "所有的工程项目都是为了解决实际问题，满足人类的需求而诞生的。"
+    }
+  ],
+  "knowledge": null
+}

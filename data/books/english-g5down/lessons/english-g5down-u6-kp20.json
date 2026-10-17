@@ -1,0 +1,39 @@
+{
+  "id": "english-g5down-u6-kp20",
+  "title": "行为准则",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "行为准则",
+      "question": "Work ________! Don't make any noise.",
+      "options": [],
+      "answer": "quietly",
+      "explanation": "Work quietly是本单元核心短语，意为安静。 "
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "行为准则",
+      "question": "将下列单词连成句子：",
+      "options": [
+        "Keep",
+        "desk",
+        "your",
+        "clean"
+      ],
+      "answer": "Keep,your,desk,clean",
+      "explanation": "祈使句。保持你的桌面整洁。"
+    }
+  ],
+  "knowledge": null
+}

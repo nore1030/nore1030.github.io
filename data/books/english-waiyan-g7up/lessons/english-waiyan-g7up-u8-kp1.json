@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g7up-u8-kp1",
+  "title": "礼物词汇 present / gift / birthday",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Module 8 Choosing presents 挑选礼物",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "礼物词汇 present / gift / birthday",
+      "question": "「礼物」的英文是（　）",
+      "options": [
+        "present",
+        "parent",
+        "presence",
+        "pleasant"
+      ],
+      "answer": "present",
+      "explanation": "present 礼物。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "礼物词汇 present / gift / birthday",
+      "question": "「生日」的英文是（　）",
+      "options": [
+        "birthday",
+        "birth day",
+        "birhtday",
+        "birthdey"
+      ],
+      "answer": "birthday",
+      "explanation": "birthday 生日。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "礼物词汇 present / gift / birthday",
+      "question": "give 的意思是「给」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "give 给。"
+    }
+  ],
+  "knowledge": {
+    "point": "礼物词汇 present / gift / birthday",
+    "core_concept": "present 礼物、gift 礼物、birthday 生日；give sb. sth. 给某人某物。",
+    "key_formula": "buy a present 买礼物 / Happy birthday! 生日快乐",
+    "common_mistakes": [
+      "present 与 parent 混淆。"
+    ],
+    "tips": "present 有「礼物」义。"
+  }
+}

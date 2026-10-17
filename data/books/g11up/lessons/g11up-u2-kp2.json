@@ -1,0 +1,52 @@
+{
+  "id": "g11up-u2-kp2",
+  "title": "双曲线与抛物线",
+  "bookId": "g11up",
+  "unitNumber": 2,
+  "unitTitle": "圆锥曲线",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "双曲线与抛物线",
+      "question": "抛物线 $y^2=8x$ 的焦点横坐标是（　）",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "answer": "2",
+      "explanation": "$2p=8$，$p=4$，焦点 $(2,0)$。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "双曲线与抛物线",
+      "question": "双曲线 $\\frac{x^2}{9}-\\frac{y^2}{16}=1$ 中 $c$ 等于（　）",
+      "options": [
+        "5",
+        "7",
+        "25",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "$c^2=9+16=25$，$c=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "双曲线与抛物线",
+    "core_concept": "双曲线：到两定点距离之差的绝对值为常数，$c^2=a^2+b^2$。抛物线 $y^2=2px$ 的焦点为 $(\\frac p2,0)$，准线 $x=-\\frac p2$。",
+    "key_formula": "$y^2=2px$",
+    "common_mistakes": [
+      "双曲线中 $a$ 与 $c$ 关系记混。"
+    ],
+    "tips": "双曲线中 $c$ 最大。"
+  }
+}

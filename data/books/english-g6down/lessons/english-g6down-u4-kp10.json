@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp10",
+  "title": "个人爱好对比",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "个人爱好对比",
+      "question": "I didn't _____ like eggs before.",
+      "options": [
+        "liked",
+        "like",
+        "likes",
+        "liking"
+      ],
+      "answer": "like",
+      "explanation": "didn't 后面接动词原形。"
+    }
+  ],
+  "knowledge": null
+}

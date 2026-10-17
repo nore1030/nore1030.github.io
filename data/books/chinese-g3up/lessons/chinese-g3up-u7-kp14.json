@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp14",
+  "title": "句式延展",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 13,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式延展",
+      "question": "排列句子：",
+      "options": [
+        "欢蹦乱跳",
+        "弟弟",
+        "得",
+        "高兴"
+      ],
+      "answer": "弟弟,高兴,得,欢蹦乱跳",
+      "explanation": "正常的句序应为：主语+心情形容词+得+动作补充说明。"
+    }
+  ],
+  "knowledge": null
+}

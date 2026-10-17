@@ -1,0 +1,129 @@
+{
+  "id": "g1up-u6-kp3",
+  "title": "11~20的不进位加与不退位减",
+  "bookId": "g1up",
+  "unitNumber": 6,
+  "unitTitle": "11~20各数的认识",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "计算 $12 + 5$ 时，可以先算 $2 + 5 = 7$，再算 $10 + 7 = 17$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计算十几加几时，通常把个位上的数相加，再加上十。$2 + 5 = 7，10 + 7 = 17$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "小明有 10 支铅笔，妈妈又买来 3 支，一共有多少支？",
+      "options": [
+        "7",
+        "10",
+        "13",
+        "30"
+      ],
+      "answer": "13",
+      "explanation": "$10 + 3 = 13$。验算：$13 - 3 = 10$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "两个加数都是 10，和是多少？",
+      "options": [
+        "10",
+        "11",
+        "20",
+        "0"
+      ],
+      "answer": "20",
+      "explanation": "列式：$10 + 10 = 20$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "比 16 多 3 的数是：",
+      "options": [
+        "13",
+        "19",
+        "18",
+        "17"
+      ],
+      "answer": "19",
+      "explanation": "求比一个数多几的数用加法：$16 + 3 = 19$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "在算式 $19 - 9 = 10$ 中，9 是：",
+      "options": [
+        "加数",
+        "和",
+        "减数",
+        "被减数"
+      ],
+      "answer": "减数",
+      "explanation": "减法算式中，减号后面的数叫做减数。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "小红这周要看 19 页绘本，已经看了 10 页，还剩 ___ 页。 ",
+      "options": [],
+      "answer": "9",
+      "explanation": "还剩下的页数 = 总页数 - 已看页数。$19 - 10 = 9$。验算：$9 + 10 = 19$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "$10 + 6 = ?$",
+      "options": [],
+      "answer": "16",
+      "explanation": "$10 + 6 = 16$。验算：$16 - 6 = 10$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "11~20的不进位加与不退位减",
+      "question": "$18 - 5 = ?$",
+      "options": [],
+      "answer": "13",
+      "explanation": "$18 - 5 = 13$。验算：$13 + 5 = 18$。"
+    }
+  ],
+  "knowledge": {
+    "point": "11~20的不进位加与不退位减",
+    "core_concept": "利用数的组成进行计算。如10+3，就是1个十加3个一，得13；13-3就是从1个十和3个一中去掉3个一，剩1个十，即10。计算十几加几时，十位不变，个位相加。",
+    "key_formula": "$10 + a = 1a, 1a - a = 10, 1a - 10 = a$",
+    "common_mistakes": [
+      "计算 15-5 时错答为 1。",
+      "加减混淆，看错运算符号导致计算错误。"
+    ],
+    "tips": "计算时先看个位，个位加个位，减法时个位减个位，十位如果不动就照抄出来。"
+  }
+}

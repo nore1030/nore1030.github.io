@@ -1,0 +1,99 @@
+{
+  "id": "english-g4down-u2-kp3",
+  "title": "It's time for与It's time to句型区分",
+  "bookId": "english-g4down",
+  "unitNumber": 2,
+  "unitTitle": "What time is it?",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "It's time for breakfast. 里的 breakfast 是动词短语。",
+      "options": [],
+      "answer": "错",
+      "explanation": "breakfast 是名词，所以前面用 for。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "It's 9:00 p.m. It's time ____ go to bed.",
+      "options": [
+        "for",
+        "to",
+        "in",
+        "on"
+      ],
+      "answer": "to",
+      "explanation": "go 是动词，It's time to 后接动词原形。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "It's time ____ PE class.",
+      "options": [
+        "to",
+        "for",
+        "at",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "PE class 是名词短语，需用 It's time for。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "Wait! It's time ____ dinner. Just a minute.",
+      "options": [
+        "to",
+        "for",
+        "in",
+        "on"
+      ],
+      "answer": "for",
+      "explanation": "dinner 是名词，表示该吃晚饭了。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "It's time ___ sing and dance.",
+      "options": [],
+      "answer": "to",
+      "explanation": "sing 是动词，前接 to。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "It's time for与It's time to句型区分",
+      "question": "连词成句：time,school,It's,for,.",
+      "options": [
+        "time",
+        "school",
+        "It's",
+        "for",
+        "."
+      ],
+      "answer": "It's,time,for,school,.",
+      "explanation": "陈述句，It's time for... 后接名词短语。"
+    }
+  ],
+  "knowledge": null
+}

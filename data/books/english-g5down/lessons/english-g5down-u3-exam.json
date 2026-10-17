@@ -1,0 +1,222 @@
+{
+  "id": "english-g5down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-g5down",
+  "unitNumber": 3,
+  "unitTitle": "My school calendar",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "August 的缩写格式是 'Aug.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "August的缩写是Aug."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "June and July are winter months in China.",
+      "options": [],
+      "answer": "错",
+      "explanation": "六月和七月在中国是夏季月份。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "'When is Easter?' 的中文意思是'复活节在什么时候？'",
+      "options": [],
+      "answer": "对",
+      "explanation": "When引导的时间提问。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "节日、活动与月份的对应",
+      "question": "Thanksgiving Day in the USA is in October.",
+      "options": [],
+      "answer": "错",
+      "explanation": "美国的感恩节在十一月。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "There are ________ months in a year.",
+      "options": [
+        "ten",
+        "twelve",
+        "seven",
+        "eleven"
+      ],
+      "answer": "twelve",
+      "explanation": "一年有12个月。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "— When is the school trip? — ________.",
+      "options": [
+        "It's a trip",
+        "It's in October",
+        "It's on five",
+        "No, it isn't"
+      ],
+      "answer": "It's in October",
+      "explanation": "回答时间需用It's in + 月份。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "Summer vacation is in ________ and ________ in China.",
+      "options": [
+        "January, February",
+        "July, August",
+        "March, April",
+        "June, July"
+      ],
+      "answer": "July, August",
+      "explanation": "暑假在七、八月。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "________ is Father's Day?",
+      "options": [
+        "What",
+        "Who",
+        "When",
+        "Where"
+      ],
+      "answer": "When",
+      "explanation": "询问节日的时间用When。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "Which of the following is correct?",
+      "options": [
+        "In may",
+        "in May",
+        "on May",
+        "at May"
+      ],
+      "answer": "in May",
+      "explanation": "月份前固定用介词in，首字母要大写。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日、活动与月份的对应",
+      "question": "The singing contest is in ________. It is very cold.",
+      "options": [
+        "May",
+        "July",
+        "December",
+        "June"
+      ],
+      "answer": "December",
+      "explanation": "根据后文It is cold，应选择冬季月份。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "The month after October is ________.",
+      "options": [],
+      "answer": "november",
+      "explanation": "十月之后是十一月。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "May is the ________ month of a year.",
+      "options": [],
+      "answer": "fifth",
+      "explanation": "五月是第五个月。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "节日、活动与月份的对应",
+      "question": "We usually have a sports ________ in autumn.",
+      "options": [],
+      "answer": "meet",
+      "explanation": "sports meet指运动会。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "十二月份的名称与缩写",
+      "question": "匹配月份及其缩写形式。",
+      "options": [
+        "September",
+        "January",
+        "March",
+        "February",
+        "Jan.",
+        "Sept.",
+        "Feb.",
+        "Mar."
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "September-Sept.; January-Jan.; March-Mar.; February-Feb."
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问活动举办的时间",
+      "question": "连词成句：is, birthday, When, your, ?",
+      "options": [
+        "is",
+        "birthday",
+        "When",
+        "your",
+        "?"
+      ],
+      "answer": "When,is,your,birthday,?",
+      "explanation": "询问对方生日的常用语。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "history-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "history-g9up",
+  "unitNumber": 1,
+  "unitTitle": "古代文明与近代转型",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "古代科技思想文化",
+      "question": "主张“无为而治”的是（　）",
+      "options": [
+        "道家",
+        "儒家",
+        "墨家",
+        "法家"
+      ],
+      "answer": "道家",
+      "explanation": "道家主张无为。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代化的艰难起步",
+      "question": "《南京条约》规定开放五处通商口岸，割让（　）",
+      "options": [
+        "香港岛",
+        "台湾",
+        "九龙",
+        "澳门"
+      ],
+      "answer": "香港岛",
+      "explanation": "割香港岛。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "古代科技思想文化",
+      "question": "《本草纲目》的作者是李时珍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "李时珍著本草纲目。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代化的艰难起步",
+      "question": "洋务运动以“自强”“求富”为口号。",
+      "options": [],
+      "answer": "对",
+      "explanation": "洋务口号。"
+    }
+  ],
+  "knowledge": null
+}

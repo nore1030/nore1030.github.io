@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g5down-u6-kp1",
+  "title": "文言逻辑谬误分析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 0,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文言逻辑谬误分析",
+      "question": "《自相矛盾》选自《韩非子·难一》。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《自相矛盾》确实选自《韩非子》，这是文学常识。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文言逻辑谬误分析",
+      "question": "那个楚国人“弗能应也”的原因是：",
+      "options": [
+        "他突然忘记怎么说话了",
+        "他觉得对方问得没道理",
+        "他的话自相矛盾，无法自圆其说",
+        "他不想理会围观的人"
+      ],
+      "answer": "他的话自相矛盾，无法自圆其说",
+      "explanation": "最锋利的矛和最坚固的盾不能同时存在。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文言逻辑谬误分析",
+      "question": "《自相矛盾》中，称赞盾的词语是“坚”，称赞矛的词语是（___）。",
+      "options": [],
+      "answer": "利",
+      "explanation": "文中提到“吾矛之利”。"
+    }
+  ],
+  "knowledge": {
+    "point": "文言逻辑谬误分析",
+    "core_concept": "逻辑谬论是指思维过程中违背逻辑规则（如矛盾律）的情况。在《自相矛盾》中，那个人夸口盾坚固到没什么能刺破，又夸口矛锋利到能刺破任何东西。这在同一思维过程中对两个对立的事实同时肯定，造成了逻辑上的自相抵触，导致最终无法圆其说。",
+    "key_formula": "逻辑自洽原则：论点不能同时支持互相对立的属性。",
+    "common_mistakes": [
+      "错误理解“陷”字为“掉进陷阱”，导致无法理解核心逻辑",
+      "分不清是谁在问楚人问题，误以为是路人无理取闹"
+    ],
+    "tips": "学习时应对比矛和盾的极度夸张之处，找到逻辑断裂点。"
+  }
+}

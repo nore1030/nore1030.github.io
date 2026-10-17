@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp16",
+  "title": "水的沸腾",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 10,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的沸腾",
+      "question": "当水加热到沸腾时，撤掉酒精灯停止加热，水的沸腾现象会（）。",
+      "options": [
+        "继续维持很长时间",
+        "立即停止",
+        "温度继续升高",
+        "变成结冰"
+      ],
+      "answer": "立即停止",
+      "explanation": "沸腾需要持续吸热，撤掉热源后无法吸热，沸腾停止。"
+    }
+  ],
+  "knowledge": null
+}

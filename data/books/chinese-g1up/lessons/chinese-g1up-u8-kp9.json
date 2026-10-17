@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g1up-u8-kp9",
+  "title": "偏旁归类",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 8,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁归类",
+      "question": "请将汉字与其对应的偏旁分类连在一起。",
+      "options": [
+        "苹",
+        "说",
+        "他",
+        "清",
+        "单人旁",
+        "草字头",
+        "三点水",
+        "言字旁"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "苹-草字头；说-言字旁；他-单人旁；清-三点水。"
+    }
+  ],
+  "knowledge": null
+}

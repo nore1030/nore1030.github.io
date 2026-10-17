@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp20",
+  "title": "生命周期",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生命周期",
+      "question": "植物的生命周期一般都会经历种子、萌发、生长发育、开花、（）以及衰老和死亡。",
+      "options": [
+        "生根",
+        "长叶",
+        "结果",
+        "分支"
+      ],
+      "answer": "结果",
+      "explanation": "开花之后结果是绿色开花植物的标准生命轨迹。"
+    }
+  ],
+  "knowledge": null
+}

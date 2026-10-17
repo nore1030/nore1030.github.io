@@ -1,0 +1,63 @@
+{
+  "id": "english-yilin-g7up-u4-kp1",
+  "title": "时间介词 at / on / in",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 My day 我的一天",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间介词 at / on / in",
+      "question": "「在七点」的英文是（　）",
+      "options": [
+        "at seven",
+        "in seven",
+        "on seven",
+        "at the seven"
+      ],
+      "answer": "at seven",
+      "explanation": "时刻用 at。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间介词 at / on / in",
+      "question": "「在星期一」的英文是（　）",
+      "options": [
+        "on Monday",
+        "in Monday",
+        "at Monday",
+        "on the Monday"
+      ],
+      "answer": "on Monday",
+      "explanation": "星期几用 on。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "时间介词 at / on / in",
+      "question": "in 用于月份、年份和季节前。",
+      "options": [],
+      "answer": "对",
+      "explanation": "in + 月年季。"
+    }
+  ],
+  "knowledge": {
+    "point": "时间介词 at / on / in",
+    "core_concept": "at + 时刻（at seven）、on + 某天（on Monday）、in + 月/年/季节（in July）。",
+    "key_formula": "at 7:00 / on Monday / in July",
+    "common_mistakes": [
+      "在具体星期几用 in。"
+    ],
+    "tips": "at 时刻、on 某天、in 月年。"
+  }
+}

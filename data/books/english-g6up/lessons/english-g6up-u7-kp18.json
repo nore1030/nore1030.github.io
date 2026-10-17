@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp18",
+  "title": "语音与停顿",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语音与停顿",
+      "question": "Which sentence has a natural pause (V)?",
+      "options": [
+        "Wait V for the V green light.",
+        "I want V to go V to the cinema.",
+        "First, V go to the bookstore.",
+        "Turn V left V at the V light."
+      ],
+      "answer": "First, V go to the bookstore.",
+      "explanation": "句子开头的连接词（如First）后通常有自然停顿。"
+    }
+  ],
+  "knowledge": null
+}

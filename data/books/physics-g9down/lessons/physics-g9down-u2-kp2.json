@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9down-u2-kp2",
+  "title": "电功率与生活用电",
+  "bookId": "physics-g9down",
+  "unitNumber": 2,
+  "unitTitle": "电学基础",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "电功率与生活用电",
+      "question": "家庭电路中，各用电器之间是（　）",
+      "options": [
+        "并联",
+        "串联",
+        "有的并联有的串联",
+        "不连接"
+      ],
+      "answer": "并联",
+      "explanation": "用电器并联。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "电功率与生活用电",
+      "question": "家庭电路中各用电器并联才能各自正常工作。",
+      "options": [],
+      "answer": "对",
+      "explanation": "并联工作。"
+    }
+  ],
+  "knowledge": {
+    "point": "电功率与生活用电",
+    "core_concept": "电功率 $P = UI$。家庭电路由火线、零线组成，各用电器并联。安全电压不高于 36 V。",
+    "key_formula": "$P = UI = \\dfrac{U^2}{R}$",
+    "common_mistakes": [
+      "认为用电器串联更省电。"
+    ],
+    "tips": "用电器并联。"
+  }
+}

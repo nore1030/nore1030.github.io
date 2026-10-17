@@ -1,0 +1,118 @@
+{
+  "id": "g2down-u5-kp1",
+  "title": "同级运算顺序",
+  "bookId": "g2down",
+  "unitNumber": 5,
+  "unitTitle": "混合运算",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "在只有加减法的算式里，要按照从左往右的顺序计算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据混合运算规则，在只有加法和减法（同级）的算式中，应该从左向右依次计算。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "$16 \times 2 \times 0$ 的结果是 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "任何数乘以 0 都得 0。虽然是从左往右计算，但最后一步结果必为 0。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "计算 $45 - 15 + 10$ 时，第一步要计算的是？",
+      "options": [
+        "45 - 15",
+        "15 + 10",
+        "45 + 10",
+        "无法确定"
+      ],
+      "answer": "45 - 15",
+      "explanation": "只有加减法属于同级运算，从左往右计算，第一步算减法。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "算式 $4 \times 6 \times 3$ 的运算顺序是？",
+      "options": [
+        "从左往右",
+        "从右往左",
+        "先算中间",
+        "都可以"
+      ],
+      "answer": "从左往右",
+      "explanation": "只有乘除法，按照从左向右的顺序计算。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "比较大小：$2 \times 4 \times 8$ < $2 \times (4 \times 8)$，这个结论？",
+      "options": [
+        "相等",
+        "大于",
+        "小于",
+        "无法比较"
+      ],
+      "answer": "相等",
+      "explanation": "$2 \times 4 \times 8 = 64$，$2 \times (4 \times 8) = 64$，所以应填“相等”。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "$36 \times 4 \times 3$ 的运算结果是？",
+      "options": [
+        "27",
+        "3",
+        "36",
+        "4"
+      ],
+      "answer": "27",
+      "explanation": "$36 \times 4 = 9$，$9 \times 3 = 27$。验算：$27 \times 3 = 9$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "同级运算顺序",
+      "question": "计算：$56 - 16 + 20 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$56 - 16 + 20 = 40 + 20 = 60$。验算：$60 - 20 = 40$，$40 + 16 = 56$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "同级运算顺序",
+    "core_concept": "在加减法或乘除法属于同一级别的算式中，没有括号时应按照从左到右的顺序依次计算。加法和减法是同级的，乘法和除法是同级的。",
+    "key_formula": "$a + b - c$ 或 $a \times b \times c$ 按顺序计算",
+    "common_mistakes": [
+      "在加减混合运算中先计算后面的加法，造成错误顺序。",
+      "在乘除混合运算中不按顺序，先算好算的导致结果错误。"
+    ],
+    "tips": "可以想象成排队，谁在左边谁先算。"
+  }
+}

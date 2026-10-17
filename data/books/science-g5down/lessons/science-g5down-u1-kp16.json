@@ -1,0 +1,44 @@
+{
+  "id": "science-g5down-u1-kp16",
+  "title": "动物适应行为",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物适应行为",
+      "question": "天鹅每年都要进行长途迁徙，这主要是为了（ ）。",
+      "options": [
+        "寻找水源",
+        "锻炼身体",
+        "寻找配偶",
+        "适应气候和食物变化"
+      ],
+      "answer": "适应气候和食物变化",
+      "explanation": "迁徙是动物因季节更替而产生的适应环境的行为。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物适应行为",
+      "question": "青蛙在冬天会躲进地洞不吃不动，这种现象叫（ ）。",
+      "options": [
+        "迁徙",
+        "繁殖",
+        "冬眠",
+        "换羽"
+      ],
+      "answer": "冬眠",
+      "explanation": "冬眠是变温动物适应严寒和食物匮乏的行为。"
+    }
+  ],
+  "knowledge": null
+}

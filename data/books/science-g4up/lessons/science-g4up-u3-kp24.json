@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp24",
+  "title": "能量守恒初步",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能量守恒初步",
+      "question": "下列哪个动作可以增加橡皮筋动力小车的能量（___）。",
+      "options": [
+        "多增加几根橡皮筋",
+        "减小橡皮筋长度",
+        "减少绕圈圈数",
+        "更换成更松的皮筋"
+      ],
+      "answer": "多增加几根橡皮筋",
+      "explanation": "增加皮筋数量可以提供更大的弹力，存储更多能量。"
+    }
+  ],
+  "knowledge": null
+}

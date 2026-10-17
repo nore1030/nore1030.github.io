@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8down-u2-kp3",
+  "title": "阿基米德原理与浮沉条件",
+  "bookId": "physics-g8down",
+  "unitNumber": 2,
+  "unitTitle": "压强与浮力",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阿基米德原理与浮沉条件",
+      "question": "物体漂浮在水面上时，浮力（　）重力",
+      "options": [
+        "大于",
+        "小于",
+        "等于",
+        "无关"
+      ],
+      "answer": "等于",
+      "explanation": "漂浮时二力平衡。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "阿基米德原理与浮沉条件",
+      "question": "物体排开水的体积为 $0.002\\ \\text{m}^3$，所受浮力是多少 N？（水密度 $1.0\\times10^3\\ \\text{kg/m}^3$，$g$ 取 10 N/kg）",
+      "options": [],
+      "answer": "20",
+      "explanation": "$F=\\rho gV=1000\\times10\\times0.002=20$ N。"
+    }
+  ],
+  "knowledge": {
+    "point": "阿基米德原理与浮沉条件",
+    "core_concept": "浮力等于物体排开液体所受的重力。$F_\\text{浮}>G$ 上浮，$=$ 悬浮，$<$ 下沉。",
+    "key_formula": "$F_\\text{浮}=\\rho_\\text{液}gV_\\text{排}$",
+    "common_mistakes": [
+      "把 $V_\\text{排}$ 当成物体总体积。"
+    ],
+    "tips": "漂浮时 $V_\\text{排}<V_\\text{物}$。"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "g1down-u1-kp2",
+  "title": "平面图形的拼组与拆分",
+  "bookId": "g1down",
+  "unitNumber": 1,
+  "unitTitle": "认识图形（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "用两个完全一样的三角形一定可以拼成一个圆。",
+      "options": [],
+      "answer": "错",
+      "explanation": "三角形是有尖角的，圆是曲面图形。三角形拼不出圆。验算：尝试各种拼法发现只能拼成四边形。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "把一张正方形纸对折一次，不可能折出什么图形？",
+      "options": [
+        "长方形",
+        "三角形",
+        "圆",
+        "不能确定"
+      ],
+      "answer": "圆",
+      "explanation": "直线折叠无法产生曲线，所以折不出圆。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "用 2 个完全一样的小正方形可以拼成一个什么图形？",
+      "options": [
+        "正方形",
+        "长方形",
+        "三角形",
+        "圆"
+      ],
+      "answer": "长方形",
+      "explanation": "两个正方形并排合并，一边变长，另一边不变，形成长方形。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "至少用几个完全一样的小正方形才能拼成一个大正方形？",
+      "options": [
+        "2个",
+        "4个",
+        "6个",
+        "8个"
+      ],
+      "answer": "4个",
+      "explanation": "只有 2x2 排列才能得到四边相等的图形。验算：$2 \times 2 = 4$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "一个正方形切掉一个角，还剩下几个角？下面哪个正确？",
+      "options": [
+        "3个",
+        "4个",
+        "5个",
+        "以上都有可能"
+      ],
+      "answer": "以上都有可能",
+      "explanation": "取决于切法：切过两个对角剩3个；切过一个顶点剩4个；不经过顶点剩5个。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "两个完全一样的长方形，一定可以拼成什么？",
+      "options": [
+        "正方形",
+        "长方形",
+        "圆",
+        "三角形"
+      ],
+      "answer": "长方形",
+      "explanation": "横着拼或竖着拼都能拼成长方形（特殊情况可拼正方形，但一定能拼成长方形）。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平面图形的拼组与拆分",
+      "question": "用两个完全一样的三角形，最少可以拼成一个 ___ 边形。",
+      "options": [],
+      "answer": "3",
+      "explanation": "两个直角三角形背靠背拼可以拼成一个大三角形（三边形）。验算：两个直角三角形拼合并斜边即为大三角形。"
+    }
+  ],
+  "knowledge": {
+    "point": "平面图形的拼组与拆分",
+    "core_concept": "平面图形可以通过平移、旋转重新组合。例如两个完全一样的三角形可以拼成平行四边形、长方形或大三角形；两个正方形可以拼成长方形。",
+    "key_formula": "拼组规则：两个完全一样的直角三角形 $\\rightarrow$ 长方形/正方形/大三角形。",
+    "common_mistakes": [
+      "认为任意两个三角形都能拼成正方形。",
+      "忽略了对折方式的不同可能产生不同的图形（长方形对折可得长方形或三角形）。"
+    ],
+    "tips": "亲自动手剪一剪、拼一拼，观察边与边重合的过程，能快速建立空间感。"
+  }
+}

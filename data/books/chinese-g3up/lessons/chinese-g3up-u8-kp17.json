@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp17",
+  "title": "阅读练习",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读练习",
+      "question": "读句子：“群儿戏于庭，一儿登瓮，足跌没水中。”关于这句话理解正确的是：",
+      "options": [
+        "一群孩子在院子里捉迷藏",
+        "一个孩子爬上大缸，失足掉进水里没顶了",
+        "水缸里没有水",
+        "孩子们都在水里游泳"
+      ],
+      "answer": "一个孩子爬上大缸，失足掉进水里没顶了",
+      "explanation": "没即淹没，说明水很深，情况危急。"
+    }
+  ],
+  "knowledge": null
+}

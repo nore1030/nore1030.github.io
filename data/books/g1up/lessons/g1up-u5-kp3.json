@@ -1,0 +1,59 @@
+{
+  "id": "g1up-u5-kp3",
+  "title": "连加、连减运算",
+  "bookId": "g1up",
+  "unitNumber": 5,
+  "unitTitle": "6~10的认识和加减法",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "连加、连减运算",
+      "question": "计算 $9 - 3 - 2$ 时，应该先算 $3 - 2$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "连减运算应从左往右计算。先算 $9 - 3 = 6$，再算 $6 - 2 = 4$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连加、连减运算",
+      "question": "算式 $3 + 2 + 4$ 的得数是多少？",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": "9",
+      "explanation": "先算 $3 + 2 = 5$，再算 $5 + 4 = 9$。验算：$9 - 4 - 2 = 3$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连加、连减运算",
+      "question": "$10 - 4 - 3 = ?$",
+      "options": [],
+      "answer": "3",
+      "explanation": "从左往右：$10 - 4 = 6$，$6 - 3 = 3$。验算：$3 + 3 + 4 = 10$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "连加、连减运算",
+    "core_concept": "连加是求三个或三个以上数合起来是多少；连减是从总数里连续去掉几部分。运算顺序规定必须从左往右依次计算。",
+    "key_formula": "运算顺序：$A + B + C = (A + B) + C$ 或 $A - B - C = (A - B) - C$",
+    "common_mistakes": [
+      "计算顺序颠倒，先算了后面两个数，导致结果错误。",
+      "算出第一步后，漏掉了第二步计算。"
+    ],
+    "tips": "计算时，可以在第一步的算式下面轻轻写上得数，再用这个得数去加或减第三个数。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u7-kp4",
+  "title": "标点符号选择",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 3,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "“雾是个又淘气又顽皮的孩子（ ）”括号里应填什么标点？",
+      "options": [
+        "，",
+        "。",
+        "！",
+        "？"
+      ],
+      "answer": "。",
+      "explanation": "这是一个完整的陈述句，用句号。"
+    }
+  ],
+  "knowledge": null
+}

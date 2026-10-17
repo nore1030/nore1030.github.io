@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp8",
+  "title": "种子发芽的条件",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 0,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "种子发芽的条件",
+      "question": "种子发芽必须要有土壤，没有土壤种子绝对不会发芽。",
+      "options": [],
+      "answer": "错",
+      "explanation": "种子发芽需要适量的水分、充足的空气和适宜的温度，不一定要有土壤。"
+    }
+  ],
+  "knowledge": null
+}

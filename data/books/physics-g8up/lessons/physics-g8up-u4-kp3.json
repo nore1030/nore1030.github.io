@@ -1,0 +1,23 @@
+{
+  "id": "physics-g8up-u4-kp3",
+  "title": "质量及其应用",
+  "bookId": "physics-g8up",
+  "unitNumber": 4,
+  "unitTitle": "质量与密度",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "质量及其应用",
+      "question": "某金属块质量 54 g，体积 20 cm³，它的密度是多少 g/cm³？",
+      "options": [],
+      "answer": "2.7",
+      "explanation": "$\\rho=\\frac{54}{20}=2.7$ g/cm³，为铝。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g5up-u3-kp7",
+  "title": "句子结构",
+  "bookId": "chinese-g5up",
+  "unitNumber": 3,
+  "unitTitle": "民间故事",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句子结构",
+      "question": "请将词语排列成一句完整通顺的话。",
+      "options": [
+        "善良的",
+        "一颗",
+        "海力布",
+        "拥有",
+        "心"
+      ],
+      "answer": "海力布,拥有,一颗,善良的,心",
+      "explanation": "主谓宾结构的简单句。"
+    }
+  ],
+  "knowledge": null
+}

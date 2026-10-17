@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u5-kp15",
+  "title": "词汇翻译",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 11,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇翻译",
+      "question": "给下列短语进行英汉配对。",
+      "options": [
+        "take a trip",
+        "go hiking",
+        "see a doctor",
+        "by subway",
+        "去远足",
+        "乘地铁",
+        "去旅行",
+        "看病"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "A.take a trip-3.去旅行; B.go hiking-1.去远足; C.see a doctor-4.看病; D.by subway-2.乘地铁。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "math-sujiao-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-sujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "全等三角形",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的性质与判定",
+      "question": "若 $\\triangle ABC \\cong \\triangle DEF$，则 $AB = $ （　）",
+      "options": [
+        "DE",
+        "EF",
+        "FD",
+        "无法确定"
+      ],
+      "answer": "DE",
+      "explanation": "AB 对应 DE。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的应用",
+      "question": "要证明线段 $AB=CD$，若找到 $\\triangle ABE \\cong $ （　），即可完成",
+      "options": [
+        "$\\triangle DCE$",
+        "$\\triangle CDE$",
+        "$\\triangle DEC$",
+        "$\\triangle EDC$"
+      ],
+      "answer": "$\\triangle DCE$",
+      "explanation": "对应顶点 A→D、B→C。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的性质与判定",
+      "question": "全等三角形的面积相等、周长相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全等性质。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的应用",
+      "question": "证明题中必须先说明所依据的全等判定方法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "判定方法要写明。"
+    }
+  ],
+  "knowledge": null
+}

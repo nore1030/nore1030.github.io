@@ -1,0 +1,61 @@
+{
+  "id": "math-beishida-g7up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 5,
+  "unitTitle": "第五章 一元一次方程",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程 $3(x-2)=9$，$x=$ ？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$x-2=3$，$x=5$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "方程与一元一次方程",
+      "question": "若 $2x^m+1=0$ 是一元一次方程，$m=$（　）",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "-1"
+      ],
+      "answer": "1",
+      "explanation": "次数为 1，故 $m=1$。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "列方程解应用题",
+      "question": "长方形长 8 cm，面积 48 cm²，宽是多少 cm？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$8x=48$，$x=6$。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "等式的性质与解方程",
+      "question": "解方程 $5x=20$，$x=$ ___",
+      "options": [],
+      "answer": "4",
+      "explanation": "$x=4$。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": "chinese-g5down-u2-kp1",
+  "title": "古典名著的阅读策略",
+  "bookId": "chinese-g5down",
+  "unitNumber": 2,
+  "unitTitle": "古典名著之旅",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "阅读古典名著时，遇到难懂的词语可以结合上下文来猜测大概意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是阅读古典名著的核心策略，不必字字深究，重点通过上下文理清语意。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "《草船借箭》一文中，诸葛亮最终借助大雨杀退了曹操的军队。",
+      "options": [],
+      "answer": "错",
+      "explanation": "文中诸葛亮是借助大雾和草船向曹操“借”箭，而不是借助大雨。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "“榜文”在《景阳冈》一文中指的是官府贴出的告示。",
+      "options": [],
+      "answer": "对",
+      "explanation": "联系课文背景，“榜文”即为官府发布的正式通告。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "阅读《草船借箭》，“鲁肃私自拨了二十条快船”中的“私自”一词，说明鲁肃：",
+      "options": [
+        "为人不诚实",
+        "想独吞箭支",
+        "顾全大局暗中相助",
+        "极其自私"
+      ],
+      "answer": "顾全大局暗中相助",
+      "explanation": "“私自”说明鲁肃瞒着周瑜帮诸葛亮，体现了他忠厚、顾大局的品质。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "“店家给武松筛了三碗酒”中，“筛”字在古汉语中的意思是：",
+      "options": [
+        "过滤",
+        "倒酒",
+        "加热",
+        "品尝"
+      ],
+      "answer": "倒酒",
+      "explanation": "在古文中，针对酒液的操作常用“筛”表示倒出。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "《冬阳·童年·骆驼队》是哪部古典名著或经典作品的序言？",
+      "options": [
+        "《西游记》",
+        "《城南旧事》",
+        "《水浒传》",
+        "《三国演义》"
+      ],
+      "answer": "《城南旧事》",
+      "explanation": "这是林海音《城南旧事》的出版序言。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "章回体小说的特点是：",
+      "options": [
+        "故事没有结尾",
+        "由许多个短篇组成",
+        "分章叙述，标题多采用对仗",
+        "以第一人称叙述"
+      ],
+      "answer": "分章叙述，标题多采用对仗",
+      "explanation": "章回体小说每一章都有一个对仗工整的回目。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "“请君入瓮”这个典故与哪位历史人物相关？",
+      "options": [
+        "诸葛亮",
+        "周兴",
+        "严监生",
+        "武松"
+      ],
+      "answer": "周兴",
+      "explanation": "虽然第二单元涉及名著，但文学常识积累中“请君入瓮”指唐朝周兴。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "“身躯凛凛，相貌堂堂。一双眼光射寒星，两弯眉浑如刷漆。”刻画的是：",
+      "options": [
+        "石猴",
+        "武松",
+        "鲁肃",
+        "周瑜"
+      ],
+      "answer": "武松",
+      "explanation": "这是《水浒传》中对行者武松的经典容貌描写。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "“草船借箭”的主谋是吴国的都督（___）。",
+      "options": [],
+      "answer": "周瑜",
+      "explanation": "周瑜因嫉妒诸葛亮，才设下了十天造十万支箭的计谋。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "《三国演义》的作者是元末明初的（___）。",
+      "options": [],
+      "answer": "罗贯中",
+      "explanation": "罗贯中是中国四大名著之一《三国演义》的作者。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "请将下列古代用词与现代意思对应连线：",
+      "options": [
+        "郎中",
+        "印信",
+        "驿站",
+        "伙计",
+        "医生",
+        "旅店",
+        "图章",
+        "店员"
+      ],
+      "answer": "A-1,B-3,C-2,D-4",
+      "explanation": "古代郎中即医生，印信即公章，驿站可做旅店理解，伙计即店员。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古典名著的阅读策略",
+      "question": "请将名著与其作者或出处连线：",
+      "options": [
+        "《西游记》",
+        "《草船借箭》",
+        "《景阳冈》",
+        "《红楼春趣》",
+        "《三国演义》",
+        "《水浒传》",
+        "吴承恩",
+        "《红楼梦》"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "西游记是吴承恩作，草船借箭出自三国，景阳冈出自水浒，红楼春趣出自红楼梦。"
+    }
+  ],
+  "knowledge": {
+    "point": "古典名著的阅读策略",
+    "core_concept": "古典名著特别是章回体小说，语言带有半文半白的特点。阅读时应采用“观其大略”的策略，遇到生僻词语或古代职官名称，可以通过联系上下文、查看注释、结合社会背景来猜测。重点在于把握情节推进，而不是停留在单个字的识记上。",
+    "key_formula": "生词不纠结，注释看明白，前后连连看，大意心中存。",
+    "common_mistakes": [
+      "遇到文言词汇就停下来查字典，破坏阅读连贯性",
+      "对“榜文”、“印信”等古代专有名词缺乏生活联想"
+    ],
+    "tips": "初读名著可以先抓关键人物和精彩环节（如打虎、借箭），对于书中的插诗长句可以通读略读。"
+  }
+}

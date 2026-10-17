@@ -1,0 +1,63 @@
+{
+  "id": "english-yilin-g7up-u2-kp1",
+  "title": "运动词汇 football / basketball / swimming / running",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Let's play sports! 运动",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "「足球」的英文是（　）",
+      "options": [
+        "football",
+        "foot ball",
+        "footballs",
+        "fotball"
+      ],
+      "answer": "football",
+      "explanation": "football 足球。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "「游泳」的英文是（　）",
+      "options": [
+        "swimming",
+        "swim",
+        "swiming",
+        "swimmm"
+      ],
+      "answer": "swimming",
+      "explanation": "双写 m 加 -ing。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "运动词汇 football / basketball / swimming / running",
+      "question": "play sports 的意思是「做运动」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "play sports。"
+    }
+  ],
+  "knowledge": {
+    "point": "运动词汇 football / basketball / swimming / running",
+    "core_concept": "football 足球、basketball 篮球、swimming 游泳、running 跑步；play football 踢足球。",
+    "key_formula": "play football / play basketball",
+    "common_mistakes": [
+      "play the football（球类不加 the）。"
+    ],
+    "tips": "球类运动前不加 the。"
+  }
+}

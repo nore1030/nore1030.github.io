@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp7",
+  "title": "职业与爱好的关联",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 3,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "职业与爱好的关联",
+      "question": "If you like sports, you can be a head teacher.",
+      "options": [],
+      "answer": "错",
+      "explanation": "喜欢运动的人更适合作为运动员(athlete)或体育老师(PE teacher)。"
+    }
+  ],
+  "knowledge": null
+}

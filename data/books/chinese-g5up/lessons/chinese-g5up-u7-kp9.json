@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u7-kp9",
+  "title": "词语释义",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 8,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语释义",
+      "question": "将成语与正确含义连接。",
+      "options": [
+        "应接不暇",
+        "心旷神怡",
+        "面面相觑",
+        "不可计数",
+        "形容来不及应付",
+        "心情愉快舒畅",
+        "你看我我看你",
+        "数量多得数不清"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查课文重点成语的理解。"
+    }
+  ],
+  "knowledge": null
+}

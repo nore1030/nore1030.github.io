@@ -1,0 +1,108 @@
+{
+  "id": "english-g5up-u4-kp2",
+  "title": "情态动词can的肯否定用法",
+  "bookId": "english-g5up",
+  "unitNumber": 4,
+  "unitTitle": "What can you do?",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "句子 'I can sing, but I can't dance.' 表达了能力的转折。",
+      "options": [],
+      "answer": "对",
+      "explanation": "but连接两个分句，表示我会唱歌但是不会跳舞。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "-Can you swim? -______.",
+      "options": [
+        "Yes, I can't",
+        "No, I can",
+        "Yes, I can",
+        "No, I do"
+      ],
+      "answer": "Yes, I can",
+      "explanation": "Can you引导的一般疑问句，肯定回答用Yes, I can."
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "I can't play ping-pong, _____ I can play football.",
+      "options": [
+        "and",
+        "too",
+        "but",
+        "or"
+      ],
+      "answer": "but",
+      "explanation": "前后属于转折关系，使用but连接。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "What _____ you do for the party?",
+      "options": [],
+      "answer": "can",
+      "explanation": "询问对方能做什么，使用情态动词can。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "连词成句：can, I, swim, .",
+      "options": [
+        "can",
+        "I",
+        "swim",
+        "."
+      ],
+      "answer": "I,can,swim,.",
+      "explanation": "陈述句语序为主语+can+动词原形。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情态动词can的肯否定用法",
+      "question": "连词成句：What, can, do, you, ?",
+      "options": [
+        "What",
+        "can",
+        "do",
+        "you",
+        "?"
+      ],
+      "answer": "What,can,you,do,?",
+      "explanation": "疑问句语序为疑问词+can+主语+动词原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词can的肯否定用法",
+    "core_concept": "can表示'能'，后面接动词原形，否定形式为can't。",
+    "key_formula": "主语 + can/can't + 动词原形 (+ 其他).",
+    "common_mistakes": [
+      "在can后面误用动词ing形式或三单形式",
+      "回答Can you...时误用Yes, I do."
+    ],
+    "tips": "记住can是一个'法力无边'的词，它可以让后面的动词全部变回原形。"
+  }
+}

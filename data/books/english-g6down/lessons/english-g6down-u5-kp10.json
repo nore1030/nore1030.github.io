@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp10",
+  "title": "职业词汇",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 6,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇",
+      "question": "Mike likes stars. He wants to be an ____.",
+      "options": [
+        "postman",
+        "astronaut",
+        "worker",
+        "doctor"
+      ],
+      "answer": "astronaut",
+      "explanation": "喜欢星星的人想当宇航员(astronaut)，且以元音开头应用an。"
+    }
+  ],
+  "knowledge": null
+}

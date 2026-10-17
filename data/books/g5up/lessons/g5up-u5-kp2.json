@@ -1,0 +1,59 @@
+{
+  "id": "g5up-u5-kp2",
+  "title": "方程的意义与等式的性质",
+  "bookId": "g5up",
+  "unitNumber": 5,
+  "unitTitle": "简易方程",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "$x + 5$ 是一个方程。",
+      "options": [],
+      "answer": "错",
+      "explanation": "方程必须是含有未知数的等式。$x + 5$ 只是一个式子，没有等号，不是方程。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "如果 $a = b$，那么 $a - c = b - c$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据等式的性质1：等式两边同时加上或减去同一个数，等式仍然成立。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "方程的意义与等式的性质",
+      "question": "下面式子里，（    ）是方程。",
+      "options": [
+        "4x+5",
+        "2x-1=0",
+        "3+6=9",
+        "10>x"
+      ],
+      "answer": "2x-1=0",
+      "explanation": "方程必须满足两个条件：含有未知数、是等式。只有 $2x-1=0$ 同时满足。"
+    }
+  ],
+  "knowledge": {
+    "point": "方程的意义与等式的性质",
+    "core_concept": "含有未知数的等式叫做方程。方程一定是等式，但等式不一定是方程。等式就像一个平衡的天平，性质1：两边同时加减同一个数，天平仍平衡；性质2：两边同时乘或除以同一个不为0的数，天平仍平衡。",
+    "key_formula": "若 $a=b$，则 $a \\pm c = b \\pm c$ 且 $ac = bc$",
+    "common_mistakes": [
+      "认为 $x + 5 > 10$ 是方程（它不是等式）",
+      "在等式两边除以未知量时忽略了未知量不能为 0 的前提"
+    ],
+    "tips": "判断方程看两点：一看有没有等号，二看有没有字母。"
+  }
+}

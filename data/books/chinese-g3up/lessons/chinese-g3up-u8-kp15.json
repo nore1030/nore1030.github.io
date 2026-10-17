@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp15",
+  "title": "言外之意",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "言外之意",
+      "question": "男孩说：“一定会飞回来的！”这里的“一定”说明了：",
+      "options": [
+        "男孩知道灰雀在哪里",
+        "男孩很有信心找到它",
+        "男孩深受感动，决定放回灰雀",
+        "男孩在随口乱说"
+      ],
+      "answer": "男孩深受感动，决定放回灰雀",
+      "explanation": "这句话反映了男孩内心波澜后的坚定决心。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp11",
+  "title": "介词搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 7,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介词搭配",
+      "question": "My aunt works ______ a university.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "在大学工作固定搭配为work at a university。"
+    }
+  ],
+  "knowledge": null
+}

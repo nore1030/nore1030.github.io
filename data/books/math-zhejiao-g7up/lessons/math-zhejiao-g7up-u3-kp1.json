@@ -1,0 +1,64 @@
+{
+  "id": "math-zhejiao-g7up-u3-kp1",
+  "title": "平方根与算术平方根",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "第3章 实数",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "计算：$\\sqrt{16} = $ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$\\sqrt{16} = 4$（4 的平方是 16）。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "计算：$\\sqrt{25} = $ ？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$\\sqrt{25} = 5$（5 的平方是 25）。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "计算：$\\sqrt{9} = $ ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$\\sqrt{9} = 3$（3 的平方是 9）。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "平方根与算术平方根",
+      "question": "计算：$\\sqrt{49} = $ ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$\\sqrt{49} = 7$（7 的平方是 49）。"
+    }
+  ],
+  "knowledge": {
+    "point": "平方根与算术平方根",
+    "core_concept": "若 $x^2=a$，则 $x$ 叫 $a$ 的平方根；正的非负数平方根记 $\\sqrt a$（算术平方根）。正数有两个互为相反数的平方根，0 的平方根是 0，负数没有平方根。",
+    "key_formula": "$\\sqrt a\\ (a\\ge0)$",
+    "common_mistakes": [
+      "认为负数也有平方根。"
+    ],
+    "tips": "负数没有平方根。"
+  }
+}

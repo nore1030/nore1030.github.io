@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp7",
+  "title": "爱国诗词",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 3,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "爱国诗词",
+      "question": "《闻官军收河南河北》是一首豪放派的爱国边塞诗。",
+      "options": [],
+      "answer": "错",
+      "explanation": "该诗属于律诗，被称为杜甫生平“第一快诗”，主要表达听到失地收复后的喜悦。"
+    }
+  ],
+  "knowledge": null
+}

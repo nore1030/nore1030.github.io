@@ -1,0 +1,68 @@
+{
+  "id": "chinese-g2down-u6-kp2",
+  "title": "太空生活失重现象的因果推论",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "太空生活失重现象的因果推论",
+      "question": "在宇宙飞船里，宇航员想喝水可以直接用杯子喝。",
+      "options": [],
+      "answer": "错",
+      "explanation": "太空处于失重状态，水会飘在空中，需要用吸管杯喝水。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "太空生活失重现象的因果推论",
+      "question": "宇航员在太空舱里移动时需要用到扶手，这是因为：",
+      "options": [
+        "外面很冷",
+        "为了锻炼身体",
+        "人处于失重状态",
+        "怕撞坏机器"
+      ],
+      "answer": "人处于失重状态",
+      "explanation": "失重状态下人会飘浮，需要拉住扶手行走。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "太空生活失重现象的因果推论",
+      "question": "宇航员在太空遇到的问题及解决办法：",
+      "options": [
+        "睡觉",
+        "喝水",
+        "走路",
+        "洗澡",
+        "特制吸管杯",
+        "钻进睡袋",
+        "密封带喷头",
+        "穿带钩的鞋"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "太空生活中的特殊现象应对措施。"
+    }
+  ],
+  "knowledge": {
+    "point": "太空生活失重现象的因果推论",
+    "core_concept": "在太空中，由于远离地球产生失重状态，导致一切物体都会飘浮。这使得宇航员吃饭、喝水、睡觉和走路都需要特殊的方式，如用吸管、钻睡袋、穿特制鞋子等，防止到处飘动。",
+    "key_formula": "失重导致飘浮，固定产生稳定。",
+    "common_mistakes": [
+      "将失重的原因误解为缺少空气",
+      "认为在太空走路和地面一样"
+    ],
+    "tips": "想象自己是一颗在水里没沉底的气球，所以一切都需要“抓手”。"
+  }
+}

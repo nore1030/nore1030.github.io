@@ -1,0 +1,66 @@
+{
+  "id": "history-g8down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "history-g8down",
+  "unitNumber": 2,
+  "unitTitle": "抗日战争与新中国成立",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中华民族的抗日战争",
+      "question": "抗日战争中彭德怀指挥的著名战役是（　）",
+      "options": [
+        "百团大战",
+        "平型关大捷",
+        "台儿庄战役",
+        "淞沪会战"
+      ],
+      "answer": "百团大战",
+      "explanation": "彭德怀指挥百团大战。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "内战与新中国成立",
+      "question": "新中国的成立意味着中国（　）",
+      "options": [
+        "实现了民族独立和人民解放",
+        "已成为世界第一大经济体",
+        "已完成社会主义改造",
+        "已解决所有矛盾"
+      ],
+      "answer": "实现了民族独立和人民解放",
+      "explanation": "独立与解放。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中华民族的抗日战争",
+      "question": "抗日战争的胜利是近代以来中国反抗外敌入侵的第一次完全胜利。",
+      "options": [],
+      "answer": "对",
+      "explanation": "抗战胜利意义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "内战与新中国成立",
+      "question": "中华人民共和国的成立结束了中国半殖民地半封建社会的历史。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结束半殖民地历史。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "english-g6up-u6-kp8",
+  "title": "情境交际",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情境交际",
+      "question": "—How ______ Sarah feel? —She is sad.",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "answer": "does",
+      "explanation": "Sarah是第三人称单数，助动词用does。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情境交际",
+      "question": "If you are ill, you ______ see a doctor.",
+      "options": [
+        "will",
+        "can",
+        "should",
+        "shall"
+      ],
+      "answer": "should",
+      "explanation": "提出建议常用情态动词should（应该）。"
+    }
+  ],
+  "knowledge": null
+}

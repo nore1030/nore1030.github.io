@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g9down-u1-kp2",
+  "title": "回忆性散文与抒情",
+  "bookId": "chinese-g9down",
+  "unitNumber": 1,
+  "unitTitle": "小说与回忆性散文",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "回忆性散文与抒情",
+      "question": "散文的特点是（　）",
+      "options": [
+        "形散神聚",
+        "形散神也散",
+        "严格对仗",
+        "只叙事不抒情"
+      ],
+      "answer": "形散神聚",
+      "explanation": "形散神聚。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "回忆性散文与抒情",
+      "question": "回忆性散文常抒发对往事的追思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "追思是常见情感。"
+    }
+  ],
+  "knowledge": {
+    "point": "回忆性散文与抒情",
+    "core_concept": "回忆性散文以回忆往事为主线，形散而神聚，表达对往事的追思与对人物的怀念。",
+    "key_formula": "形散神聚",
+    "common_mistakes": [
+      "误以为散文形散神不聚。"
+    ],
+    "tips": "形散神聚是散文特点。"
+  }
+}

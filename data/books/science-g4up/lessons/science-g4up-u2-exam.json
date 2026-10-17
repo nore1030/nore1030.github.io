@@ -1,0 +1,217 @@
+{
+  "id": "science-g4up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 9,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "呼出的气体中完全没有氧气了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "呼出的气体中氧气含量只是减少了，仍然占有约16%。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "口腔的消化功能",
+      "question": "经常刷牙、早晚漱口是保护牙齿的好习惯。",
+      "options": [],
+      "answer": "对",
+      "explanation": "良好的生活习惯能预防龋齿。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "平衡膳食宝塔的应用",
+      "question": "虽然食盐和油脂位于膳食宝塔顶层，但并非指吃得越多越好。",
+      "options": [],
+      "answer": "对",
+      "explanation": "宝塔顶层的食物需求量最小，应尽量少摄入。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "测量与提升肺活量",
+      "question": "肺活量的大小只取决于肺的体积，和体育运动没有关系。",
+      "options": [],
+      "answer": "错",
+      "explanation": "体育锻炼可以增强呼吸肌，显著提高肺活量。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物分类",
+      "question": "按照生吃和熟吃分类，下列属于生食的是（）。",
+      "options": [
+        "猪肉",
+        "鸡蛋",
+        "苹果",
+        "米饭"
+      ],
+      "answer": "苹果",
+      "explanation": "水果通常可以直接生食。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物中的营养成分",
+      "question": "用棉签蘸取少许食用油涂抹在白纸上，看到的现象是（）。",
+      "options": [
+        "纸变湿了立刻干掉",
+        "白纸变蓝了",
+        "白纸上留下透明油迹",
+        "纸被腐蚀了"
+      ],
+      "answer": "白纸上留下透明油迹",
+      "explanation": "这是检验食物中含有脂肪的简单方法。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口腔的消化功能",
+      "question": "下列哪种组织主要负责磨碎食物？（）",
+      "options": [
+        "门齿",
+        "臼齿",
+        "犬齿",
+        "门牙"
+      ],
+      "answer": "臼齿",
+      "explanation": "臼齿宽大，适合通过咀嚼磨碎食物。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "下列气体在大气中含量最多的是（）。",
+      "options": [
+        "氧气",
+        "二氧化碳",
+        "氮气",
+        "水蒸气"
+      ],
+      "answer": "氮气",
+      "explanation": "氮气约占空气体积的78%。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "食物中的营养成分",
+      "question": "我们在做糖类检测实验时，滴入碘酒后食物样本没变色，说明其中不含有（）。",
+      "options": [
+        "脂肪",
+        "淀粉",
+        "蛋白质",
+        "维生素"
+      ],
+      "answer": "淀粉",
+      "explanation": "变蓝是检测淀粉的标准反应。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "人吸入气体的路径是（）。",
+      "options": [
+        "鼻腔→气管→肺",
+        "肺→气管→鼻腔",
+        "口腔→胃→肺",
+        "肺→心脏→胃"
+      ],
+      "answer": "鼻腔→气管→肺",
+      "explanation": "这是标准的吸气路径。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "人呼出的气体中氧气含量大约是（）。",
+      "options": [
+        "21%",
+        "16%",
+        "4%",
+        "0%"
+      ],
+      "answer": "16%",
+      "explanation": "吸入约21%，呼出约16%，部分氧气被身体利用。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物分类",
+      "question": "下列属于动物类食物的是（）。",
+      "options": [
+        "豆腐",
+        "土豆",
+        "鸡蛋",
+        "面包"
+      ],
+      "answer": "鸡蛋",
+      "explanation": "鸡蛋来源于鸡，属于动物类食物。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体呼吸系统与过程",
+      "question": "安静时，一个四年级小学生每分钟大约呼吸（）次。",
+      "options": [],
+      "answer": "22",
+      "explanation": "由于存在个体差异，20-25次均属于正常范围，教材案例多取22次。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "测量与提升肺活量",
+      "question": "国家体质标准规定，小学四年级男生肺活量及格标准大约是（）毫升。",
+      "options": [],
+      "answer": "1100",
+      "explanation": "1100毫升是四年级男生标准起点。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物中的营养成分",
+      "question": "米饭遇到碘酒变成了蓝色，这证明米饭中含有大量（）。",
+      "options": [],
+      "answer": "淀粉",
+      "explanation": "淀粉是植物界常见的碳水化合物储能形式。"
+    }
+  ],
+  "knowledge": null
+}

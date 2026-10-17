@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4up-u6-kp9",
+  "title": "词语填空",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 8,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语填空",
+      "question": "老师常说：“（___）是给有准备的人。”（填一个本单元词语，2个字）",
+      "options": [],
+      "answer": "机会",
+      "explanation": "机会往往留给有准备的人，这是课文与生活中常出现的搭配。"
+    }
+  ],
+  "knowledge": null
+}

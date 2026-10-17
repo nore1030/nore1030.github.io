@@ -1,0 +1,102 @@
+{
+  "id": "g4down-u10-kp2",
+  "title": "综合计算与验算能力",
+  "bookId": "g4down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "$4.5 + 3.28 + 5.5$ 的简便算法是应用了什么定律？",
+      "options": [
+        "加法交换律",
+        "加法结合律",
+        "加法交换律和结合律",
+        "乘法分配律"
+      ],
+      "answer": "加法交换律和结合律",
+      "explanation": "原式可以变为 $(4.5 + 5.5) + 3.28$，既交换了位置又结合在一起，使用了交换律和结合律。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "101 $\\times$ 25 的简便算法正确的是哪个？",
+      "options": [
+        "100 $\\times$ 25 + 1",
+        "(100 + 1) $\\times$ 25",
+        "100 + 1 $\\times$ 25",
+        "100 $\\times$ 25 $\\times$ 1"
+      ],
+      "answer": "(100 + 1) $\\times$ 25",
+      "explanation": "利用乘法分配律：$101 \\times 25 = (100 + 1) \\times 25 = 100 \\times 25 + 1 \\times 25$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算 $125 \\times 32$ 最简便的方法是应用了什么？",
+      "options": [
+        "$125 \\times 8 \\times 4$",
+        "$125 \\times 4 \\times 8$",
+        "$125 \\times (30+2)$",
+        "$125 \\times 16 \\times 2$"
+      ],
+      "answer": "$125 \\times 8 \\times 4$",
+      "explanation": "利用 $125 \\times 8 = 1000$ 是简便计算的常用技巧。$32 = 8 \\times 4$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "学校买来 25 套桌椅，每张桌子 62 元，每把椅子 38 元，共花 ___ 元。",
+      "options": [],
+      "answer": "2500",
+      "explanation": "每套桌椅 $(62 + 38) = 100$ 元，25 套：$25 \\times 100 = 2500$ 元。验算：$2500 \\div 25 = 100$，$100 - 38 = 62$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算：$480 \\div (20 + 40) = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$480 \\div (20 + 40) = 480 \\div 60 = 8$。验算：$8 \\times 60 = 480$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合计算与验算能力",
+      "question": "计算：$25 \\times 16 = ?$",
+      "options": [],
+      "answer": "400",
+      "explanation": "$25 \\times 16 = 25 \\times 4 \\times 4 = 100 \\times 4 = 400$。验算：$400 \\div 16 = 25$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "综合计算与验算能力",
+    "core_concept": "全面复习四则运算顺序（先括号内，再乘除，后加减）和五大运算定律（加法交换律、结合律，乘法交换律、结合律、分配律）。学会观察数字特征（如25与4，125与8），合理运用简便算法提高计算效率，并养成“一步一验算”的闭环思维习惯。",
+    "key_formula": "$a \\times (b + c) = a \\times b + a \\times c$ (乘法分配律)",
+    "common_mistakes": [
+      "在使用乘法分配律简算 $99 \times 38 + 38$ 时，漏掉隐含的 $38 \times 1$。",
+      "减法性质应用错误，如 $480 \times 20 \times 2$ 误算为除法操作。"
+    ],
+    "tips": "看到25找4，看到125找8；看到99或101要想到转化成 (100-1) 或 (100+1)。"
+  }
+}

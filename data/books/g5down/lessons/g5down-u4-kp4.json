@@ -1,0 +1,48 @@
+{
+  "id": "g5down-u4-kp4",
+  "title": "分数的基本性质",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数的基本性质",
+      "question": "分数的分子和分母同时乘或除以相同的数，分数的大小不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据分数的基本性质，必须是“相同的数（0除外）”。因为 0 不能做分母，也不能作为除数。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数的基本性质",
+      "question": "把 2/3 的分子加上 4，要使分数的大小不变，分母应该：",
+      "options": [
+        "加上 4",
+        "乘 2",
+        "加上 3",
+        "乘 3"
+      ],
+      "answer": "乘 3",
+      "explanation": "分子从 2 变为 $2 + 4 = 6$，扩大了 3 倍。根据分数基本性质，分母也要扩大 3 倍，即 $3 \\times 3 = 9$（或加上 6）。选项中“乘 3”符合。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数的基本性质",
+    "core_concept": "分数的分子和分母同时乘或除以相同的数（0 除外），分数的大小不变。它是约分和通分的理论依据。",
+    "key_formula": "$\\frac{a}{b} = \\frac{a \\times c}{b \\times c} = \\frac{a \\div c}{b \\div c}$ ($c \\neq 0$)",
+    "common_mistakes": [
+      "分子加（减）一个数，分母也跟着加（减）相同的数",
+      "同时乘或除以的数中包含了 0"
+    ],
+    "tips": "记忆口诀：同乘同除不带零，大小不变理最明。"
+  }
+}

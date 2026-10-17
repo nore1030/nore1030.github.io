@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp19",
+  "title": "植物的价值",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的价值",
+      "question": "棉花的主要用途是？",
+      "options": [
+        "做文具",
+        "做衣服",
+        "做工具",
+        "做玩具"
+      ],
+      "answer": "做衣服",
+      "explanation": "棉花是纺织工业的重要原材料。"
+    }
+  ],
+  "knowledge": null
+}

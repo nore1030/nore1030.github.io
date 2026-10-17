@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u8-kp5",
+  "title": "标点符号选择",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 4,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "‘我就像是——个（ ）‘小窃读记’（ ）里的主角，沉浸在文字中。’括号里应填？",
+      "options": [
+        "“ ”",
+        "《 》",
+        "‘ ’",
+        "（ ）"
+      ],
+      "answer": "《 》",
+      "explanation": "书名、篇名应使用书名号《 》。"
+    }
+  ],
+  "knowledge": null
+}

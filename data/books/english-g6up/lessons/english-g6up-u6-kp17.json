@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u6-kp17",
+  "title": "建议短语表达",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 13,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "建议短语表达",
+      "question": "When you are angry, you should ______ to ten.",
+      "options": [],
+      "answer": "count",
+      "explanation": "数到十的动词是count。"
+    }
+  ],
+  "knowledge": null
+}

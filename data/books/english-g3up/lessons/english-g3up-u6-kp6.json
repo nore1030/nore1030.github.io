@@ -1,0 +1,23 @@
+{
+  "id": "english-g3up-u6-kp6",
+  "title": "日常用语",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日常用语",
+      "question": "当你想祝别人生日快乐时，可以说 'Happy birthday! '",
+      "options": [],
+      "answer": "对",
+      "explanation": "Happy birthday意为生日快乐。"
+    }
+  ],
+  "knowledge": null
+}

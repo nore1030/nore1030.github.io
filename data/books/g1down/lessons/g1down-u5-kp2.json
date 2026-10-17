@@ -1,0 +1,102 @@
+{
+  "id": "g1down-u5-kp2",
+  "title": "人民币单位的简单换算",
+  "bookId": "g1down",
+  "unitNumber": 5,
+  "unitTitle": "认识人民币",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "5角等于50分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1角=10分，5角就是5个10分，即50分。✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "把“1元、10角、11分”按从大到小的顺序排列，正确的是：",
+      "options": [
+        "1元 > 10角 > 11分",
+        "11分 > 10角 > 1元",
+        "1元 = 10角 > 11分",
+        "10角 > 1元 > 11分"
+      ],
+      "answer": "1元 = 10角 > 11分",
+      "explanation": "1元=10角=100分。100分=100分>11分，所以1元=10角>11分。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "15角等于多少？",
+      "options": [
+        "1元5角",
+        "15元",
+        "1元",
+        "5角"
+      ],
+      "answer": "1元5角",
+      "explanation": "10角为1元，多出的5角保留，所以是1元5角。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "2元 = ___ 角",
+      "options": [
+        "2",
+        "20",
+        "200",
+        "12"
+      ],
+      "answer": "20",
+      "explanation": "1元=10角，2元就是20角。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "30角 = ___ 元",
+      "options": [],
+      "answer": "3",
+      "explanation": "10角=1元，30角里面有3个10角，所以是3元。验算：$3 \\times 10 = 30$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人民币单位的简单换算",
+      "question": "1元2角 = ___ 角",
+      "options": [],
+      "answer": "12",
+      "explanation": "1元=10角，$10 + 2 = 12$角。验算：12角中10角换为1元剩2角，即1元2角 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "人民币单位的简单换算",
+    "core_concept": "进行元、角、分之间的互化。大单位换小单位用加法（几个十），小单位换大单位看里面有几个十。",
+    "key_formula": "$x元y角 = (10x + y)角$",
+    "common_mistakes": [
+      "复名数换算时直接把数字相加，如1元2角算成3角",
+      "在比较8角和1元时，只看到8比1大而忽略了单位"
+    ],
+    "tips": "换算时先找单位，单位不同要统一改成小单位再计算。"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "g4up-u4-kp1",
+  "title": "三位数乘两位数笔算",
+  "bookId": "g4up",
+  "unitNumber": 4,
+  "unitTitle": "三位数乘两位数",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "三位数乘两位数的积一定是五位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "最小的三位数 100 乘最小的两位数 10，$100 \\times 10 = 1000$（四位数）；最大的三位数 999 乘最大的两位数 99，$999 \\times 99 = 98901$（五位数）。所以可能是四位数也可能是五位数。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "两个因数的末尾一共有两个 0，积的末尾一定只有两个 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如：$250 \\times 40 = 10000$，因数末尾共有两个 0，但积的末尾有四个 0。原因是因数非零部分的乘积末尾也可能产生 0。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "计算 $204 \\times 52$ 时，52 中的“5”乘 204，结果是：",
+      "options": [
+        "1020",
+        "10200",
+        "102",
+        "102000"
+      ],
+      "answer": "10200",
+      "explanation": "52 中的“5”在十位上，表示 5 个十。$204 \\times 50 = 10200$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "$450 \\times 60$ 的积的末尾有几个 0？",
+      "options": [
+        "2 个",
+        "3 个",
+        "4 个",
+        "5 个"
+      ],
+      "answer": "3 个",
+      "explanation": "$45 \\times 6 = 270$，再在后面添两个 0，结果是 27000，共 3 个 0。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "估算 $298 \\times 21$ 的结果大约是：",
+      "options": [
+        "4000",
+        "5000",
+        "6000",
+        "8000"
+      ],
+      "answer": "6000",
+      "explanation": "$298 \\approx 300$，$21 \\approx 20$，$300 \\times 20 = 6000$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "$125 \\times 80$ 的积的末尾：",
+      "options": [
+        "有 3 个 0",
+        "有 4 个 0",
+        "有 2 个 0",
+        "没有 0"
+      ],
+      "answer": "有 4 个 0",
+      "explanation": "$125 \\times 8 = 1000$，再补一个 0 是 10000，共 4 个 0。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "与 $480 \\times 40$ 的积不相等的算式是：",
+      "options": [
+        "48 \\times 400",
+        "4800 \\times 4",
+        "240 \\times 80",
+        "480 \\times 4"
+      ],
+      "answer": "480 \\times 4",
+      "explanation": "$480 \\times 40 = 19200$。D 选项只有 1920，少乘了 10。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "一列火车每小时行 145 千米，12 小时行了 ___ 千米。",
+      "options": [],
+      "answer": "1740",
+      "explanation": "列式：$145 \\times 12$。计算：$145 \\times 10 = 1450$，$145 \\times 2 = 290$，$1450 + 290 = 1740$。验算：$1740 \\div 12 = 145$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "$308 \\times 15 = ?$",
+      "options": [],
+      "answer": "4620",
+      "explanation": "$308 \\times 15 = 308 \\times 10 + 308 \\times 5 = 3080 + 1540 = 4620$。验算：$4620 \\div 15 = 308$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三位数乘两位数笔算",
+      "question": "$240 \\times 30 = ?$",
+      "options": [],
+      "answer": "7200",
+      "explanation": "$24 \\times 3 = 72$，在末尾添 2 个 0 得到 7200。验算：$7200 \\div 30 = 240$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "三位数乘两位数笔算",
+    "core_concept": "笔算时，先用两位数个位上的数去乘三位数，得数的末位和两位数的个位对齐；再用两位数十位上的数去乘三位数，得数的末位和两位数的十位对齐；最后把两次乘得的积加起来。因数末尾有0时，可以先把0前面的数相乘，然后看因数末尾一共有几个0，就在积的末尾添写几个0。",
+    "key_formula": "$三位数 \\times 两位数 = 积$",
+    "common_mistakes": [
+      "因数中间有0时，计算忘记乘这个0及处理进位。",
+      "因数末尾有0时，由于竖式对齐习惯导致最后漏补0的个数。"
+    ],
+    "tips": "竖式计算时注意数位对齐，进位数字要写小，并及时相加，避免遗漏。"
+  }
+}

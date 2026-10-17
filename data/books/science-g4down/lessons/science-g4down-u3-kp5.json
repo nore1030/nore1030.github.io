@@ -1,0 +1,71 @@
+{
+  "id": "science-g4down-u3-kp5",
+  "title": "岩石、土壤与人类资源的关系",
+  "bookId": "science-g4down",
+  "unitNumber": 3,
+  "unitTitle": "岩石与土壤",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "岩石、土壤与人类资源的关系",
+      "question": "岩石和土壤是地球上非常重要的资源，我们可以随意开采。",
+      "options": [],
+      "answer": "错",
+      "explanation": "岩石和土壤是地球上的宝贵资源，形成需要漫长的时间，不可随意损耗和浪费。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "岩石、土壤与人类资源的关系",
+      "question": "下列物品中，利用矿物制成的是（）。",
+      "options": [
+        "木凳",
+        "铅笔芯",
+        "纸张",
+        "皮鞋"
+      ],
+      "answer": "铅笔芯",
+      "explanation": "铅笔芯的主要成分是石墨，石墨属于矿物资源。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "岩石、土壤与人类资源的关系",
+      "question": "岩石在太阳、风、水、生物等长期作用下，发生了破碎现象，这个过程叫做（）。",
+      "options": [
+        "崩塌",
+        "沉积",
+        "风化",
+        "磨损"
+      ],
+      "answer": "风化",
+      "explanation": "自然界中岩石受冷热雨水空气影响变碎的过程称为风化。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "岩石、土壤与人类资源的关系",
+      "question": "下列关于保护矿产资源的措施中，错误的是（）。",
+      "options": [
+        "合理开采",
+        "有计划开采",
+        "保护和回收利用金属",
+        "加快开采以满足需求"
+      ],
+      "answer": "加快开采以满足需求",
+      "explanation": "矿产资源属于不可再生资源，应有节制地开采并注重保护。"
+    }
+  ],
+  "knowledge": null
+}

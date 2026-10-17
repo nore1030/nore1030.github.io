@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp18",
+  "title": "描写方式",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 14,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写方式",
+      "question": "“主席仰起头往前走去。”这个动作描写表现了毛主席：",
+      "options": [
+        "很有精神",
+        "傲慢无礼",
+        "努力掩饰失去亲人的悲痛及坚毅",
+        "看天空的浮云"
+      ],
+      "answer": "努力掩饰失去亲人的悲痛及坚毅",
+      "explanation": "仰头是为了不让泪水流出，体现了作为领袖的刚强。"
+    }
+  ],
+  "knowledge": null
+}

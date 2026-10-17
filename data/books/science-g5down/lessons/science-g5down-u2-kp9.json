@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u2-kp9",
+  "title": "动力系统与方向",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 3,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "动力系统与方向",
+      "question": "船舵是控制船只航行方向的重要装置。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过偏转船舵可以改变水流对舵面的作用力，从而改变航向。"
+    }
+  ],
+  "knowledge": null
+}

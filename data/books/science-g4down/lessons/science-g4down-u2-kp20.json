@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp20",
+  "title": "开关材料",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "开关材料",
+      "question": "制作开关的底座部分应选用（ ）。",
+      "options": [
+        "铜片",
+        "铁片",
+        "铝片",
+        "木块"
+      ],
+      "answer": "木块",
+      "explanation": "开关底座需要绝缘材料防止电流流失。"
+    }
+  ],
+  "knowledge": null
+}

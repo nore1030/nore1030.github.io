@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11up-u2-kp2",
+  "title": "批判性思维",
+  "bookId": "chinese-g11up",
+  "unitNumber": 2,
+  "unitTitle": "逻辑与思辨性阅读",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "批判性思维",
+      "question": "审慎接受一个观点，首先应检查（　）",
+      "options": [
+        "证据是否充分",
+        "语气是否坚定",
+        "结论是否惊人",
+        "作者是否有名气"
+      ],
+      "answer": "证据是否充分",
+      "explanation": "先看证据。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "批判性思维",
+      "question": "批判性思维意味着怀疑一切。",
+      "options": [],
+      "answer": "错",
+      "explanation": "是有根据的审慎，不是全盘否定。"
+    }
+  ],
+  "knowledge": {
+    "point": "批判性思维",
+    "core_concept": "批判性思维要求对观点保持审慎态度：看证据是否充分、推理是否有效、是否有隐含假设、能否被反例推翻。",
+    "key_formula": "证据 + 推理 + 假设",
+    "common_mistakes": [
+      "把「有道理」当作「已证明」。"
+    ],
+    "tips": "区分可能性与必然性。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-yilin-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-yilin-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 I'm Liu Tao 我的家人",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "“姐妹”中“妹”的英文是（　）",
+      "options": [
+        "sister",
+        "brother",
+        "uncle",
+        "aunt"
+      ],
+      "answer": "sister",
+      "explanation": "sister 姐或妹。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "be 动词与形容词",
+      "question": "He ___ very happy.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "He 用 is。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "grandmother 指祖母或外祖母。",
+      "options": [],
+      "answer": "对",
+      "explanation": "祖母。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "be 动词与形容词",
+      "question": "描述家人外貌要用合适的形容词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "形容词描述。"
+    }
+  ],
+  "knowledge": null
+}

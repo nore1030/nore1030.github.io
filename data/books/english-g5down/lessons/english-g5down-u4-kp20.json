@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp20",
+  "title": "序数词拼写",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词拼写",
+      "question": "The sports meet is on October ___ (3rd).",
+      "options": [],
+      "answer": "third",
+      "explanation": "3rd对应的完整单词拼写是third。"
+    }
+  ],
+  "knowledge": null
+}

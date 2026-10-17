@@ -1,0 +1,107 @@
+{
+  "id": "g6up-u6-kp2",
+  "title": "百分数应用：增长率与减少率",
+  "bookId": "g6up",
+  "unitNumber": 6,
+  "unitTitle": "百分数（一）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "一件衣服先提价 10%，再降价 10%，现价和原价相等。",
+      "options": [],
+      "answer": "错",
+      "explanation": "提价 10% 后是原价的 $110\\%$，再降价是在 $110\\%$ 的基础上降，现价是原价的 $110\\% \\times (1-10\\%) = 99\\% < 100\\%$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "甲数是 20，乙数是 25。甲数比乙数少百分之几？",
+      "options": [
+        "20%",
+        "25%",
+        "80%",
+        "5%"
+      ],
+      "answer": "20%",
+      "explanation": "$(25-20) \\div 25 = 5 \\div 25 = 0.2 = 20\\%$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "一种商品的价格先提高了 20%，如果要恢复原价，应当再降低：",
+      "options": [
+        "20%",
+        "25%",
+        "16.7%",
+        "15%"
+      ],
+      "answer": "16.7%",
+      "explanation": "设有 100 元，提价后 $100 \\times 1.2 = 120$。恢复原价需降 20 元。$20 \\div 120 \\approx 16.7\\%$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "水果店运进一批苹果，卖出 400 千克，还剩 100 千克。卖出的比剩下的：",
+      "options": [
+        "多300%",
+        "多400%",
+        "多75%",
+        "多25%"
+      ],
+      "answer": "多300%",
+      "explanation": "$(400-100) \\div 100 = 300\\%$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "甲数是乙数的 2 倍，乙数比甲数少：",
+      "options": [
+        "200%",
+        "100%",
+        "50%",
+        "150%"
+      ],
+      "answer": "50%",
+      "explanation": "$(2-1) \\div 2 = 0.5 = 50\\%$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "百分数应用：增长率与减少率",
+      "question": "一个数是 80，比它多 25% 的数是 ___ 。",
+      "options": [],
+      "answer": "100",
+      "explanation": "$80 \\times (1 + 25\\%) = 80 \\times 1.25 = 100$。验算：$(100-80) \\div 80 = 20 \\div 80 = 0.25 = 25\\%$。"
+    }
+  ],
+  "knowledge": {
+    "point": "百分数应用：增长率与减少率",
+    "core_concept": "这类问题本质是寻找“差量”占“单位1”的百分之几。关键在于找准谁是单位“1”（通常是“比”字后面的那个量）。求多百分之几是用差量除以原有的量。",
+    "key_formula": "$百分比 = (大数 - 小数) \\div 单位“1” \\times 100\\%$",
+    "common_mistakes": [
+      "找错单位“1”，例如求乙比甲少百分之几时，错误地除以了乙。",
+      "忽略连续变化的情况，认为先涨价10%再降价10%会回到原价。"
+    ],
+    "tips": "口诀：‘多（少）谁’就‘除以谁’，那个‘谁’就是单位‘1’。"
+  }
+}

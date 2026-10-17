@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5up-u2-kp8",
+  "title": "成语含义",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 7,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语含义",
+      "question": "请将下列成语与其意思进行正确连线。",
+      "options": [
+        "完璧归赵",
+        "无价之宝",
+        "理直气壮",
+        "攻无不克",
+        "理由充分言语自信",
+        "没有办法衡量价值",
+        "完好无损退回原地",
+        "只要进攻就能获胜"
+      ],
+      "answer": "A-3,B-2,C-1,D-4",
+      "explanation": "理解《将相和》中相关成语的含义。"
+    }
+  ],
+  "knowledge": null
+}

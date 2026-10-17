@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp20",
+  "title": "重点景物填空",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重点景物填空",
+      "question": "《海上日出》作者主要描写了晴天和（___）时日出的景象。",
+      "options": [],
+      "answer": "多云",
+      "explanation": "全文分为晴天日出和多云时日出两个主要场景描述。"
+    }
+  ],
+  "knowledge": null
+}

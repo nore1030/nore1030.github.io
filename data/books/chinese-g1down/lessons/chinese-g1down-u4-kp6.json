@@ -1,0 +1,39 @@
+{
+  "id": "chinese-g1down-u4-kp6",
+  "title": "古诗原文",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗原文",
+      "question": "《静夜思》中，“举头望明月”的下一句是：",
+      "options": [
+        "低头思故乡",
+        "疑是地上霜",
+        "春眠不觉晓",
+        "谁知盘中餐"
+      ],
+      "answer": "低头思故乡",
+      "explanation": "出自李白的《静夜思》：举头望明月，低头思故乡。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗原文",
+      "question": "床前明月光，（ ）是地上霜。",
+      "options": [],
+      "answer": "疑",
+      "explanation": "考查《静夜思》名句积累。"
+    }
+  ],
+  "knowledge": null
+}

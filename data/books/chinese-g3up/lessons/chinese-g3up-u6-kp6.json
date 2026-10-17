@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u6-kp6",
+  "title": "标点符号",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "下面句子标点使用正确的是：",
+      "options": [
+        "“这里真美啊！”小明喊道。",
+        "这里真美啊？小明喊道！",
+        "小明喊道：“这里真美啊”？",
+        "“这里真美啊。”小明喊道？"
+      ],
+      "answer": "“这里真美啊！”小明喊道。",
+      "explanation": "感叹句结尾用感叹号，引用语在说话人之前，其后用句号。"
+    }
+  ],
+  "knowledge": null
+}

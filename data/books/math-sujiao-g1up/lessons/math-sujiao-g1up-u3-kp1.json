@@ -1,0 +1,52 @@
+{
+  "id": "math-sujiao-g1up-u3-kp1",
+  "title": "按标准分一分",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 3,
+  "unitTitle": "分一分",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按标准分一分",
+      "question": "把铅笔、橡皮、尺子放到一起，是按（　）分",
+      "options": [
+        "用途",
+        "颜色",
+        "形状",
+        "大小"
+      ],
+      "answer": "用途",
+      "explanation": "都是文具。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按标准分一分",
+      "question": "把红色和黄色的积木分开，是按（　）分",
+      "options": [
+        "颜色",
+        "形状",
+        "用途",
+        "大小"
+      ],
+      "answer": "颜色",
+      "explanation": "按颜色。"
+    }
+  ],
+  "knowledge": {
+    "point": "按标准分一分",
+    "core_concept": "分一分就是按用途、形状、颜色等标准把物品分组；每次分一分只用一个标准。",
+    "key_formula": "按标准分组",
+    "common_mistakes": [
+      "一次用两个标准混着分。"
+    ],
+    "tips": "一次一个标准。"
+  }
+}

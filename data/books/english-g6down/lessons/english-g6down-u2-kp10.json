@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp10",
+  "title": "短语理解",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短语理解",
+      "question": "—What did you do? —I ________.",
+      "options": [
+        "watch TV",
+        "cook noodles",
+        "washed my clothes",
+        "clean my room"
+      ],
+      "answer": "washed my clothes",
+      "explanation": "由Did提问的问题，回答需使用动词过去式。"
+    }
+  ],
+  "knowledge": null
+}

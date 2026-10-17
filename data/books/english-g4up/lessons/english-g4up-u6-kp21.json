@@ -1,0 +1,32 @@
+{
+  "id": "english-g4up-u6-kp21",
+  "title": "家庭成员英汉匹配",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 17,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员英汉匹配",
+      "question": "将下列家庭成员单词与正确的中文意思相连。",
+      "options": [
+        "uncle",
+        "aunt",
+        "parents",
+        "cousin",
+        "堂兄弟/表姐妹",
+        "父母",
+        "叔叔",
+        "阿姨"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "uncle叔叔，aunt阿姨，parents父母，cousin堂/表亲。"
+    }
+  ],
+  "knowledge": null
+}

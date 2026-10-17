@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面积的含义与比较",
+      "question": "物体表面的大小就是它们的面积。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据面积的定义，物体的表面或封闭图形的大小就是面积。故正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "认识面积单位",
+      "question": "测量地面的面积宜用平方米作单位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "较大的物体表面面积，如地面、操场，通常使用平方米。故正确。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "周长相等的两个正方形，面积也一定相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "周长相等意味着边长相等，边长相等则面积必相等。故正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "长方形的面积总比周长数值大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "面积和周长是两个不同的物理量，无法进行大小比较（单位不同）。故错误。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "正方形的边长变为原来的 3 倍，周长变为原来的 3 倍，面积变为原来的（ ）。",
+      "options": [
+        "3 倍",
+        "6 倍",
+        "9 倍",
+        "12 倍"
+      ],
+      "answer": "9 倍",
+      "explanation": "面积由两个边长相乘得到，$3 \\times 3 = 9$ 倍。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "在 3 平方米、300 平方厘米、30 平方分米中，最大的是（ ）。",
+      "options": [
+        "3 平方米",
+        "300 平方厘米",
+        "30 平方分米",
+        "一样大"
+      ],
+      "answer": "3 平方米",
+      "explanation": "统一单位：3 平方米 = 300 平方分米 = 30000 平方厘米，$30000 > 3000 > 300$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "用 12 个边长 1 厘米的小正方形拼成一个大长方形。在这个长方形中，面积是（ ）平方厘米。",
+      "options": [
+        "1",
+        "12",
+        "24",
+        "13"
+      ],
+      "answer": "12",
+      "explanation": "12 个 1 平方厘米的图形合起来，总面积就是 $12 \\times 1 = 12$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "一个长方形的长是 10 厘米，宽是 4 厘米，从它里面剪出一个最大的正方形，这个正方形的面积是（ ）。",
+      "options": [
+        "100 平方厘米",
+        "16 平方厘米",
+        "40 平方厘米",
+        "20 平方厘米"
+      ],
+      "answer": "16 平方厘米",
+      "explanation": "最大正方形的边长等于长方形的宽，即 4 厘米。面积为 $4 \\times 4 = 16$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "小华用 3 个边长 2 厘米的正方形拼成一个长方形。长方形的周长是（ ）。",
+      "options": [
+        "16 厘米",
+        "12 厘米",
+        "24 厘米",
+        "20 厘米"
+      ],
+      "answer": "16 厘米",
+      "explanation": "拼成长方形的长为 $2 \\times 3 = 6$ 厘米，宽为 2 厘米。周长为 $(6+2) \\times 2 = 16$ 厘米。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "一间房子地面的面积大约是 50（ ）。",
+      "options": [
+        "平方厘米",
+        "平方分米",
+        "平方米",
+        "米"
+      ],
+      "answer": "平方米",
+      "explanation": "房屋面积属于较大的平面，常用平方米。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "一个正方形果园的边长是 80 米，这个果园的面积是（ ）平方米。",
+      "options": [
+        "6400",
+        "1600",
+        "320",
+        "640"
+      ],
+      "answer": "6400",
+      "explanation": "$80 \\times 80 = 6400$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "面积与周长的对比应用",
+      "question": "把一个周长是 16 厘米的正方形分成两个大小、形状完全相同的长方形，每个长方形的面积是（ ）。",
+      "options": [
+        "16 平方厘米",
+        "8 平方厘米",
+        "4 平方厘米",
+        "32 平方厘米"
+      ],
+      "answer": "8 平方厘米",
+      "explanation": "总面积：$4 \\times 4 = 16$ 平方厘米。平分成两个，则为 $16 \\div 2 = 8$ 平方厘米。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积单位间的进率与换算",
+      "question": "30000 平方厘米等于 ___ 平方米。",
+      "options": [],
+      "answer": "3",
+      "explanation": "1 平方米 = 10000 平方厘米，$30000 \\div 10000 = 3$。验算：$3 \\times 10000 = 30000$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "一个长方形的宽是 4 分米，它的面积是 32 平方分米，长是 ___ 分米。",
+      "options": [],
+      "answer": "8",
+      "explanation": "长 $=$ 面积 $\\div$ 宽，$32 \\div 4 = 8$。验算：$8 \\times 4 = 32$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长方形与正方形面积公式",
+      "question": "计算正方形面积：边长 15 厘米。$15 \\times 15 = ?$",
+      "options": [],
+      "answer": "225",
+      "explanation": "$15 \\times 15 = 225$。验算：$225 \\div 15 = 15$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

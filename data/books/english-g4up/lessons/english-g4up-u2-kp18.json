@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u2-kp18",
+  "title": "颜色词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 15,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇",
+      "question": "-What color is it? -It is ________ (黄色的).",
+      "options": [],
+      "answer": "yellow",
+      "explanation": "黄色译为yellow。"
+    }
+  ],
+  "knowledge": null
+}

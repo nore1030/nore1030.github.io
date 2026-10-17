@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u5-kp6",
+  "title": "字音辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 5,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "下列加点字读音完全正确的一项是：",
+      "options": [
+        "巧克力（qiǎo）",
+        "关系（jì）",
+        "馋嘴（cán）",
+        "甚至（shènɡ）"
+      ],
+      "answer": "巧克力（qiǎo）",
+      "explanation": "系读xì，馋读chán，甚读shèn。"
+    }
+  ],
+  "knowledge": null
+}

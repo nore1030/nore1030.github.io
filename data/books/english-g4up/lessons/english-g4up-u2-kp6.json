@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u2-kp6",
+  "title": "名词复数",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 3,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "名词复数",
+      "question": "在英语中，'three storybook' 这种表达是正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数量大于1时，名词应该变复数，应为three storybooks。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,113 @@
+{
+  "id": "english-g3up-u3-kp1",
+  "title": "健康状况询问与回应",
+  "bookId": "english-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Look at me!",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "询问别人身体状况时，可以说 'How are you?'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "How are you? 是询问健康或近况的标准表达。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "— How are you? — ________",
+      "options": [
+        "Good morning.",
+        "Nice to meet you.",
+        "Very well, thanks.",
+        "My name is Mike."
+      ],
+      "answer": "Very well, thanks.",
+      "explanation": "对于 How are you? 的回答通常是 I'm fine 或 Very well。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "Sarah 想邀请 Chen Jie 一起去上学，她可以说：",
+      "options": [
+        "Let's go to school!",
+        "Great!",
+        "Good morning.",
+        "This is Chen Jie."
+      ],
+      "answer": "Let's go to school!",
+      "explanation": "Let's... 用于提议一起做某事。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "对方说 'I'm fine, thank you.' 之后，你可以礼貌地回问：",
+      "options": [
+        "Bye.",
+        "How are you?",
+        "How old are you?",
+        "Happy birthday."
+      ],
+      "answer": "How are you?",
+      "explanation": "礼貌回问对方的近况。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "How ________ you?",
+      "options": [],
+      "answer": "are",
+      "explanation": "问侯语 How are you? 固定搭配。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "连词成句：[well",
+      "options": [
+        "Very",
+        "well",
+        "thanks"
+      ],
+      "answer": "Very,well,thanks",
+      "explanation": "Very well, thanks. 是对问候的回答。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "健康状况询问与回应",
+      "question": "连词成句：",
+      "options": [
+        "Let's",
+        "go",
+        "to",
+        "school"
+      ],
+      "answer": "Let's,go,to,school",
+      "explanation": "Let's go to school. 意为让我们一起去上学吧。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u7-kp1",
+  "title": "疾病词汇 headache / stomach ache / cold / cough",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Have you got a headache? 健康",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+      "question": "「你头痛吗？」的英文是（　）",
+      "options": [
+        "Have you got a headache?",
+        "Have you got a head ache?",
+        "Do you have headache?",
+        "Are you headache?"
+      ],
+      "answer": "Have you got a headache?",
+      "explanation": "headache 合写。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+      "question": "「感冒」的英文是（　）",
+      "options": [
+        "a cold",
+        "a cool",
+        "a cough",
+        "a feverr"
+      ],
+      "answer": "a cold",
+      "explanation": "have got a cold 感冒。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+      "question": "cough 的意思是「咳嗽」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "cough = 咳嗽。"
+    }
+  ],
+  "knowledge": {
+    "point": "疾病词汇 headache / stomach ache / cold / cough",
+    "core_concept": "headache 头痛、stomach ache 肚子痛、cold 感冒、cough 咳嗽；have got a cold 感冒了。",
+    "key_formula": "Have you got a headache?",
+    "common_mistakes": [
+      "头痛说成 head ache 分开。"
+    ],
+    "tips": "headache 合起来写。"
+  }
+}

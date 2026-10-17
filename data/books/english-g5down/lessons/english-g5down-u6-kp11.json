@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp11",
+  "title": "人称代词语境",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人称代词语境",
+      "question": "Is ________ listening to music?",
+      "options": [
+        "you",
+        "they",
+        "she",
+        "I"
+      ],
+      "answer": "she",
+      "explanation": "系动词是Is，主语应为单数第三人称。"
+    }
+  ],
+  "knowledge": null
+}

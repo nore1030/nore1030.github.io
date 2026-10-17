@@ -1,0 +1,66 @@
+{
+  "id": "science-g2down-u2-kp1",
+  "title": "观察身体的外部结构与对称性",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "人的身体外部结构大致可以分为头、颈、躯干和四肢四个部分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "科学观察发现，人体外形由头、颈、躯干、四肢四部分组成。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "我们的身体外部形态表现出明显的（___）特征。",
+      "options": [
+        "上下对称",
+        "左右对称",
+        "前后对称",
+        "完全不对称"
+      ],
+      "answer": "左右对称",
+      "explanation": "从外形看，人的左右两边结构是非常相似的。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "人体躯干部分最重要的保护对象是（___）。",
+      "options": [
+        "心脏和肺",
+        "指甲",
+        "头发",
+        "皮肤表面"
+      ],
+      "answer": "心脏和肺",
+      "explanation": "胸腔和腹腔内包含了心脏、肺、胃等维持生命的重要器官。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "人的一只手有（___）个手指。",
+      "options": [],
+      "answer": "5",
+      "explanation": "正常情况下人的一只手有五指。"
+    }
+  ],
+  "knowledge": null
+}

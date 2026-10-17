@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u6-kp18",
+  "title": "现在进行时疑问词",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现在进行时疑问词",
+      "question": "Are you ________ (listen) to music?",
+      "options": [],
+      "answer": "listening",
+      "explanation": "be动词are引导的进行时，listen需变现在分词形式。"
+    }
+  ],
+  "knowledge": null
+}

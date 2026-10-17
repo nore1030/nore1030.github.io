@@ -1,0 +1,91 @@
+{
+  "id": "chinese-g2up-u7-kp2",
+  "title": "句子成分的扩展与生动化",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 1,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "“小黑猫散步”比“那只调皮的小黑猫在草地上悠闲地散步”更生动。",
+      "options": [],
+      "answer": "错",
+      "explanation": "添加了形容词和修饰语的句子更具体、生动。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "填入最合适的词：雾（ ）地来到了岸边。",
+      "options": [
+        "大声",
+        "悄悄",
+        "慢腾腾",
+        "红彤彤"
+      ],
+      "answer": "悄悄",
+      "explanation": "雾的出现往往是无声无息的。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "哪句话写得最具体？",
+      "options": [
+        "雪孩子在奔跑。",
+        "小黑猫跳到床上。",
+        "顽皮的小黑猫跳到了暖和的被子上。",
+        "小白兔回家了。"
+      ],
+      "answer": "顽皮的小黑猫跳到了暖和的被子上。",
+      "explanation": "使用了形容词修饰，描述最清晰生动。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "（___）的雪花在空中飘舞。",
+      "options": [],
+      "answer": "洁白",
+      "explanation": "修饰雪花的常见形容词。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句子成分的扩展与生动化",
+      "question": "连词成句，描述小白兔：",
+      "options": [
+        "小白兔",
+        "跳到了",
+        "地上",
+        "又蹦又跳地"
+      ],
+      "answer": "小白兔,又蹦又跳地,跳到了,地上",
+      "explanation": "修饰词“又蹦又跳地”应置于动词前。"
+    }
+  ],
+  "knowledge": {
+    "point": "句子成分的扩展与生动化",
+    "core_concept": "在简单句（主谓宾关系）的基础上，通过在名词前添加形容词（如：洁白的、可爱的），在动词前添加副词（如：悄悄地、悠闲地）或者描述动作的状态（如：又蹦又跳地），使句子从“骨骼”变成有血有肉的描写。这能够有效提升低年级学生的观察能力和书面表达能力。",
+    "key_formula": "（形容词的）中心语 + [状语地] 动作 + (结果/补语)。",
+    "common_mistakes": [
+      "“的”和“地”使用混淆，如把‘认真地写’写成‘认真的写’。",
+      "形容词搭配不当，如‘美丽的说话’。"
+    ],
+    "tips": "可以玩‘加减法游戏’，看谁能给‘小狗跑’加最多的修饰词，变成‘一只毛茸茸的小狗在草地上飞快地跑’。"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 9,
+  "unitTitle": "数学广角——鸡兔同笼",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "在一个笼子里，如果有 4 只鸡和 2 只兔，它们脚的总数是 16 只。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$4 \\times 2 + 2 \\times 4 = 8 + 8 = 16$ 只。故对。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "由于鸡有 2 条腿，兔有 4 条腿，同样的头数下，兔的腿一定比鸡多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "兔腿数是 4n，鸡腿数是 2n，4n > 2n (n > 0)。故对。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "列表法与逻辑推理",
+      "question": "列表法只适合在头数比较少的情况下使用，如果数量太多，过程会非常复杂。",
+      "options": [],
+      "answer": "对",
+      "explanation": "列表法需要一一列举，数量庞大时效率极低。故对。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "鸡兔同笼共 10 个头，脚数可能是 35 只。",
+      "options": [],
+      "answer": "错",
+      "explanation": "脚总数 = $2 \\times$ 鸡 + $4 \\times$ 兔 = $2 \\times$ (鸡 + $2 \\times$ 兔)，必定是偶数。35是奇数，不可能。故错。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "如果有 20 个头，60 只脚，那么鸡和兔的数量关系是？",
+      "options": [
+        "鸡多",
+        "兔多",
+        "一样多",
+        "无法判断"
+      ],
+      "answer": "一样多",
+      "explanation": "假设全是鸡：$20 \\times 2 = 40$。少 $60 - 40 = 20$。兔：$20 \\div 2 = 10$。鸡：$20 - 10 = 10$。故一样多。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "搬运 100 只玻璃瓶，按规定搬一只得 $3$ 角，打破一只不仅不得钱还要赔 $2$ 元。最后得 $23.1$ 元。打破了几只？",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3",
+      "explanation": "单位转换：$2$ 元 = $20$ 角，$23.1$ 元 = $231$ 角。假设全搬好：$100 \\times 3 = 300$ 角。破一只损失 $20 + 3 = 23$ 角。破：$(300 - 231) \\div 23 = 69 \\div 23 = 3$ 只。验算：$97 \\times 0.3 - 3 \\times 2 = 29.1 - 6 = 23.1$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "一个古题：百钱买百鸡。公鸡 5 钱一只，母鸡 3 钱一只，小鸡 1 钱三只。若公鸡 12 只，母鸡 8 只，则小鸡有多少只？",
+      "options": [
+        "60",
+        "80",
+        "75",
+        "90"
+      ],
+      "answer": "80",
+      "explanation": "总数是 100 只。$100 - 12 - 8 = 80$。验证钱：$12 \\times 5 + 8 \\times 3 + 80 \\div 3 = 60 + 24 + 26.6$（不合题意，单纯考察数量减法），题目问小鸡数量，直接由总数-公鸡-母鸡得出。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "小明参加飞镖游戏，投中得 5 分，投不中扣 3 分。他投了 20 次得 60 分。他投中了几次？",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "15",
+      "explanation": "假设全中：20 × 5 = 100。差额：100 - 60 = 40。投不中次数：40 ÷ (5 + 3) = 5。投中：20 - 5 = 15 次。验算：15 × 5 - 5 × 3 = 75 - 15 = 60 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列表法与逻辑推理",
+      "question": "通过列表发现：当兔的只数增加 1 时，脚的总数会发生什么变化？",
+      "options": [
+        "增加 2",
+        "减少 2",
+        "增加 4",
+        "不变"
+      ],
+      "answer": "增加 2",
+      "explanation": "头数不变，增加一只兔必然减少一只鸡。一只兔 4 脚，一只鸡 2 脚，净增加 $4 - 2 = 2$ 只脚。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "红蓝墨水共 20 瓶，总价 160 元。红墨水每瓶 10 元，蓝墨水每瓶 6 元。红墨水比蓝墨水多几瓶？",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": "0",
+      "explanation": "假设全蓝：$20 \\times 6 = 120$。差额 $40$。红：$40 \\div (10-6)=10$。蓝：$20-10=10$。差：$10-10=0$。验算：$10 \\times 10 + 10 \\times 6 = 160$ ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "一张试卷 20 道题，做对一题得 5 分，没做或做错扣 3 分。小明得了 60 分，他做了多少道？（注意：全部都做了）",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "15",
+      "explanation": "假设全对：$20 \\times 5 = 100$。多出 $100 - 60 = 40$。错题：$40 \\div (5+3) = 5$ 题。对题：$20 - 5 = 15$。验算：$15 \\times 5 - 5 \\times 3 = 60$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "已知鸡和兔共有 12 个头，脚数最多可能是多少？",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "60"
+      ],
+      "answer": "48",
+      "explanation": "当全是兔时脚最多。$12 \\times 4 = 48$。选 48。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "鸡兔同笼，共有头 100 个，脚 320 只。鸡有 ___ 只。",
+      "options": [],
+      "answer": "40",
+      "explanation": "假设全兔：$100 \\times 4 = 400$。多出 $400 - 320 = 80$。鸡：$80 \\div 2 = 40$。验算：$40 \\times 2 + 60 \\times 4 = 80 + 240 = 320$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "鸡兔同笼模型的实际应用",
+      "question": "租用载金鱼 8 条和 11 条的鱼缸共 10 个，刚好装下 101 条。11条装的鱼缸有 ___ 个。",
+      "options": [],
+      "answer": "7",
+      "explanation": "假设全 8 条装：$10 \\times 8 = 80$。少 $101 - 80 = 21$。11条装：$21 \\div (11 - 8) = 7$。验算：$7 \\times 11 + 3 \\times 8 = 77 + 24 = 101$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "假设法解决鸡兔同笼问题",
+      "question": "计算：$(200 - 100) \\div 5 = ?$",
+      "options": [],
+      "answer": "20",
+      "explanation": "$100 \\div 5 = 20$。验算：$20 \\times 5 = 100$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

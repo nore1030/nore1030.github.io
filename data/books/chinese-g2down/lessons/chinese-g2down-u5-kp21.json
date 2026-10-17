@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp21",
+  "title": "部首查字法",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "部首查字法",
+      "question": "“愿”字的部首是（___）。",
+      "options": [],
+      "answer": "心",
+      "explanation": "愿是半包围结构，心字底。"
+    }
+  ],
+  "knowledge": null
+}

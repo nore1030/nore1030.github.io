@@ -1,0 +1,28 @@
+{
+  "id": "science-g2down-u2-kp6",
+  "title": "身体信息的记录、推测与健康保护",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体信息的记录、推测与健康保护",
+      "question": "为了保护我们的听力，下列哪种做法是正确的？（___）",
+      "options": [
+        "经常挖耳朵",
+        "长时间戴耳机听歌",
+        "远离噪音环境",
+        "对着同学耳朵大吼"
+      ],
+      "answer": "远离噪音环境",
+      "explanation": "强噪音会伤害耳膜，保护听力应远离高噪声环境。"
+    }
+  ],
+  "knowledge": null
+}

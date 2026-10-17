@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp8",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“到了正午，天安门广场已经成了人的海洋。”这句话运用的修辞手法是：",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "把汇集的人群比作海洋，运用了比喻的修辞手法。"
+    }
+  ],
+  "knowledge": null
+}

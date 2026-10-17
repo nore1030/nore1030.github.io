@@ -1,0 +1,47 @@
+{
+  "id": "history-g8down-u2-kp2",
+  "title": "内战与新中国成立",
+  "bookId": "history-g8down",
+  "unitNumber": 2,
+  "unitTitle": "抗日战争与新中国成立",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "内战与新中国成立",
+      "question": "中华人民共和国成立于（　）",
+      "options": [
+        "1949 年 10 月 1 日",
+        "1945 年 9 月",
+        "1921 年 7 月",
+        "1912 年 1 月"
+      ],
+      "answer": "1949 年 10 月 1 日",
+      "explanation": "1949 年 10 月 1 日成立。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "内战与新中国成立",
+      "question": "新中国成立标志着新民主主义革命取得基本胜利。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基本胜利。"
+    }
+  ],
+  "knowledge": {
+    "point": "内战与新中国成立",
+    "core_concept": "1949 年中华人民共和国成立，标志着新民主主义革命取得基本胜利。中国人民从此站起来了，实现了民族独立和人民解放。",
+    "key_formula": "1949 年新中国成立",
+    "common_mistakes": [
+      "认为新中国成立标志着社会主义制度确立。"
+    ],
+    "tips": "1956 年才确立社会主义制度。"
+  }
+}

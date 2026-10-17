@@ -1,0 +1,145 @@
+{
+  "id": "g2up-u7-kp2",
+  "title": "时、分、秒的换算与关系",
+  "bookId": "g2up",
+  "unitNumber": 7,
+  "unitTitle": "认识时间",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "分针走1圈是60分，也就是1时。",
+      "options": [],
+      "answer": "对",
+      "explanation": "分针走1小格是1分，1圈是60小格即60分。分针走一圈，时针正好走一加格，即1时。✓"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "半小时就是30分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1时=60分，60的一半是30，所以半小时是30分。✓"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "分针从数字3走到数字6，经过了多长时间？",
+      "options": [
+        "3分",
+        "15分",
+        "30分",
+        "20分"
+      ],
+      "answer": "15分",
+      "explanation": "分针每走一个数字（大格）是5分。从3走到6走了 $6 - 3 = 3$ 个大格。$3 \times 5 = 15$（分）。✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "一节课的时间大约是 40 ___？",
+      "options": [
+        "时",
+        "分",
+        "元",
+        "米"
+      ],
+      "answer": "分",
+      "explanation": "结合生活经验，学校一节课是40分钟，40小时太长了。✓"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "1时减去20分等于多少分？",
+      "options": [
+        "80分",
+        "40分",
+        "120分",
+        "100分"
+      ],
+      "answer": "40分",
+      "explanation": "1时=60分。$60 - 20 = 40$（分）。验算：$40 + 20 = 60$ 分。✓"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "“一刻”是指多少分钟？",
+      "options": [
+        "10分",
+        "15分",
+        "20分",
+        "30分"
+      ],
+      "answer": "15分",
+      "explanation": "1小时的四分之一是15分，生活习惯称15分为“一刻”。✓"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "时针走一圈，经过了多长时间？",
+      "options": [
+        "60分",
+        "1时",
+        "12时",
+        "24时"
+      ],
+      "answer": "12时",
+      "explanation": "钟面有12个数字，时针走1圈经过了12小时。✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "2时 = ___ 分",
+      "options": [],
+      "answer": "120",
+      "explanation": "因为 1时=60分。列式：$60 \times 2 = 120$（分）。验算：$120 \times 60 = 2$。✓"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "60 + 60 = ?",
+      "options": [],
+      "answer": "120",
+      "explanation": "$60 + 60 = 120$。对应2小时的分钟数。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "时、分、秒的换算与关系",
+    "core_concept": "时间是按60进制计算的。时针走1大格是1时，分针正好走1圈是60分。因此，1时等于60分。此外，半小时是30分，一刻是15分。",
+    "key_formula": "1时 = 60分",
+    "common_mistakes": [
+      "受长度单位影响，误认为 1时 = 100分。",
+      "计算 1时 = 60分时，容易在加减法中进率出错。"
+    ],
+    "tips": "可以用“分分秒秒聚成时”来记忆，记住60是一个完整的圈。"
+  }
+}

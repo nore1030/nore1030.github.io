@@ -1,0 +1,86 @@
+{
+  "id": "chinese-g5up-u2-kp1",
+  "title": "快速默读的技巧",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 0,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "在进行快速默读时，我们应该一边读一边用手指着字，以免读错。",
+      "options": [],
+      "answer": "错",
+      "explanation": "快速默读要求不指读，指读会限制阅读速度。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "默读时，如果遇到个别不理解的词语，可以先跳过去继续往下读，不影响理解整段话的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "遇到生僻词语先不回读，是提高阅读速度的重要习惯。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "快速默读就是为了求快，甚至可以完全不思考内容。",
+      "options": [],
+      "answer": "错",
+      "explanation": "阅读的目的是理解，快速默读是在理解的基础上提高效率。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "下列哪种行为是提高阅读速度的好习惯？",
+      "options": [
+        "读出声来",
+        "遇到不认识的词立即查字典",
+        "连词成句地读",
+        "回读已经读过的部分"
+      ],
+      "answer": "连词成句地读",
+      "explanation": "一眼看一组词语而不是一个字，可以有效提升速度。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "快速默读的技巧",
+      "question": "下列关于默读规则，不包含在哪三条基本原则里？",
+      "options": [
+        "不发声",
+        "不指读",
+        "读得快",
+        "不回读"
+      ],
+      "answer": "读得快",
+      "explanation": "不发声、不指读、不回读是技巧，因遵循这些技巧才变得快。"
+    }
+  ],
+  "knowledge": {
+    "point": "快速默读的技巧",
+    "core_concept": "默读是不出声的阅读。快速默读要求做到“三不”：不发声（嘴唇不动）、不指读（不用手指或笔尖指着字）、不回读（眼睛不反复看读过的内容）。其目的是通过扩大眼睛扫描的“视域”，直接让大脑接收成组的文字信息，而不是逐词转码成声音再理解。",
+    "key_formula": "眼脑直映：扩大视幅，不指不读。 ",
+    "common_mistakes": [
+      "不自觉地小声哼鸣或嘴唇蠕动",
+      "因为担心没看清楚而频繁地目光回跳"
+    ],
+    "tips": "练习时可以限定时间，强迫自己眼球快速移动，遇到生词暂时记下，等读完整个自然段后再统一处理。"
+  }
+}

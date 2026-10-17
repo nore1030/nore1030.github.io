@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp14",
+  "title": "交际用语",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "交际用语",
+      "question": "— Did you like the food there? — ___",
+      "options": [
+        "Yes, I do.",
+        "Yes, I did.",
+        "No, I didn't.",
+        "Both B and C"
+      ],
+      "answer": "Both B and C",
+      "explanation": "一般过去时的一般疑问句，肯定回答用Yes, I did. 否定用No, I didn't."
+    }
+  ],
+  "knowledge": null
+}

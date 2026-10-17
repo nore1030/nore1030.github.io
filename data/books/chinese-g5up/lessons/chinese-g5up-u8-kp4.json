@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u8-kp4",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g5up",
+  "unitNumber": 8,
+  "unitTitle": "读书明智",
+  "kpIndex": 3,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘书，被人们称为人类文明的‘长生果’。’这句话运用了什么修辞手法？",
+      "options": [
+        "拟人",
+        "排比",
+        "比喻",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "将书比作“长生果”，运用了比喻的修辞手法。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "g4down-u1-kp1",
+  "title": "加、减法的意义和各部分间的关系",
+  "bookId": "g4down",
+  "unitNumber": 1,
+  "unitTitle": "四则运算",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "在减法算式中，差一定比被减数小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "如果减数是0，差就等于被减数。例如：$5 - 0 = 5$，此时差不比被减数小。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "加法是减法的逆运算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "已知两个加数的和与其中一个加数，求另一个加数的运算叫做减法，所以减法是加法的逆运算。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "已知 $\triangle + \bigcirc = \big竞$，下面哪个算式是正确的？",
+      "options": [
+        "$\big竞 - \bigcirc = \triangle$",
+        "$\bigcirc - \triangle = \big竞$",
+        "$\triangle - \big竞 = \bigcirc$",
+        "$\big竞 + \bigcirc = \triangle$"
+      ],
+      "answer": "$\big竞 - \bigcirc = \triangle$",
+      "explanation": "根据“加数 + 加数 = 和”，可以推出“和 - 一个加数 = 另一个加数”。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "差是 125，减数是 75，被减数是（ ）。",
+      "options": [
+        "50",
+        "200",
+        "100",
+        "150"
+      ],
+      "answer": "200",
+      "explanation": "被减数 = 减数 + 差，$75 + 125 = 200$。验算：$200 - 75 = 125$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "两个加数的和是 500，其中一个加数是 120，另一个加数是（ ）。",
+      "options": [
+        "620",
+        "380",
+        "480",
+        "320"
+      ],
+      "answer": "380",
+      "explanation": "$500 - 120 = 380$。验算：$380 + 120 = 500$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "加、减法的意义和各部分间的关系",
+      "question": "被减数是 350，差是 150，减数是 ___。",
+      "options": [],
+      "answer": "200",
+      "explanation": "减数 = 被减数 - 差。列式：$350 - 150 = 200$。验算：$200 + 150 = 350$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "加、减法的意义和各部分间的关系",
+    "core_concept": "把两个数合并成一个数的运算是加法；已知两个数的和与其中一个加数求另一个加数的运算是减法。加法和减法互为逆运算。和等于加数加加数，差等于被减数减减数。",
+    "key_formula": "$加数 + 加数 = 和$; $被减数 - 减数 = 差$",
+    "common_mistakes": [
+      "求减数时错误地用差加被减数",
+      "认为减法的结果“差”一定比被减数小（忽视了减数为0的情况）"
+    ],
+    "tips": "可以通过‘加法验算减法，减法验算加法’的方法提高准确率。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u8-kp4",
+  "title": "识字辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 8,
+  "unitTitle": "世界之初",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "识字辨析",
+      "question": "下列哪个字不仅带有“金”字旁，还代表一种亮晶晶的首饰？",
+      "options": [
+        "铲",
+        "银",
+        "钉",
+        "铜"
+      ],
+      "answer": "银",
+      "explanation": "“银”是金属，常用于制作银首饰。"
+    }
+  ],
+  "knowledge": null
+}

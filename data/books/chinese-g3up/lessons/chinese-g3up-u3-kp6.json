@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u3-kp6",
+  "title": "古诗内容",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 5,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗内容",
+      "question": "《赠刘景文》中描写‘即使好景君须记’，最是在（___）黄橘绿时。",
+      "options": [],
+      "answer": "橙",
+      "explanation": "出自苏轼的诗句。"
+    }
+  ],
+  "knowledge": null
+}

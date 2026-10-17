@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp16",
+  "title": "制作雨量器",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "制作雨量器",
+      "question": "制作简易雨量器时，容器的形状应该是（ ）。",
+      "options": [
+        "上大下小的圆锥形",
+        "不规则形状",
+        "直筒透明杯子",
+        "球形杯子"
+      ],
+      "answer": "直筒透明杯子",
+      "explanation": "雨量器要求上下粗细均匀以保证刻度均匀。"
+    }
+  ],
+  "knowledge": null
+}

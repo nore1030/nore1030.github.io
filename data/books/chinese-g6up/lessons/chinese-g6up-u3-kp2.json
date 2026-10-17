@@ -1,0 +1,95 @@
+{
+  "id": "chinese-g6up-u3-kp2",
+  "title": "非连续性文本的信息提取",
+  "bookId": "chinese-g6up",
+  "unitNumber": 3,
+  "unitTitle": "有目的地阅读",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "非连续性文本的信息提取",
+      "question": "在阅读材料中，故宫博物院的正门是神武门。",
+      "options": [],
+      "answer": "错",
+      "explanation": "故宫博物院的正门是午门，神武门是后门。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "非连续性文本的信息提取",
+      "question": "在游览图上，“太和殿”处于故宫的中心位置，它是用来：",
+      "options": [
+        "皇帝居住的地方",
+        "举行重大典礼的地方",
+        "存放书籍的地方",
+        "供游人休息的地方"
+      ],
+      "answer": "举行重大典礼的地方",
+      "explanation": "太和殿是用来举行重要庆典的地方，体现了其核心地位。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "非连续性文本的信息提取",
+      "question": "若阅读故宫平面图，你发现“文华殿”在东侧，“武英殿”在西侧，这能帮你得出什么结论？",
+      "options": [
+        "故宫建筑是对称分布的",
+        "故宫里没有草地",
+        "文华殿比武英殿漂亮",
+        "武英殿是后妃居住的"
+      ],
+      "answer": "故宫建筑是对称分布的",
+      "explanation": "“左文右武”的中轴对称是故宫建筑群的重要特点。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "非连续性文本的信息提取",
+      "question": "北京故宫博物院以前的名字通常被称为（___）",
+      "options": [],
+      "answer": "紫禁城",
+      "explanation": "故宫旧称紫禁城。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "非连续性文本的信息提取",
+      "question": "请将故宫的宫殿与它们在文中的主要功能或位置特征进行连线：",
+      "options": [
+        "太和殿",
+        "保和殿",
+        "御花园",
+        "景山",
+        "殿前大典",
+        "可以俯瞰故宫",
+        "殿试场地",
+        "故宫后门外"
+      ],
+      "answer": "A-1,B-3,C-4,D-2",
+      "explanation": "太和殿举行大典，保和殿曾举行殿试，御花园靠近后门，景山可以俯瞰全景。"
+    }
+  ],
+  "knowledge": {
+    "point": "非连续性文本的信息提取",
+    "core_concept": "非连续性文本是指由文字、统计图表、图画、地图、说明书等多种形式组成的材料。阅读时需要通过观察图表的标题、坐标、图例、关键文字说明，并进行综合对比和关联，从而得出有用的结论或规划具体的行动方案。",
+    "key_formula": "观察图画/图标 + 关联文字信息 = 综合结论",
+    "common_mistakes": [
+      "只看文字而忽略了关键的图表或地图信息",
+      "无法将多份材料中的信息点进行整合，导致判断片面"
+    ],
+    "tips": "阅读图表时，要重点关注图例（解释颜色或符号含义的地方）和方位标识。"
+  }
+}

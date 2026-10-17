@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp23",
+  "title": "天气预报流程",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 16,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天气预报流程",
+      "question": "制作天气预报的第一步流程是（ ）。",
+      "options": [
+        "数值天气预报",
+        "气象员会商",
+        "数据收集",
+        "发布预报"
+      ],
+      "answer": "数据收集",
+      "explanation": "天气预报始于全球各地的气象站点数据收集。"
+    }
+  ],
+  "knowledge": null
+}

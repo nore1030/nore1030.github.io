@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u7-kp6",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g2down",
+  "unitNumber": 7,
+  "unitTitle": "改变",
+  "kpIndex": 5,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“大象的耳朵像两把大扇子。”这句话运用了什么修辞手法？",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "把耳朵比作扇子，是典型的比喻句。"
+    }
+  ],
+  "knowledge": null
+}

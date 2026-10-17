@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u3-kp2",
+  "title": "八颗行星的运行规律与建模",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 1,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "八颗行星的运行规律与建模",
+      "question": "若将地球直径缩小为1厘米建立模型，太阳的直径大约是多大？",
+      "options": [
+        "10厘米",
+        "100厘米",
+        "110厘米",
+        "1000厘米"
+      ],
+      "answer": "110厘米",
+      "explanation": "太阳直径约为地球的109倍，按比例约110厘米左右。"
+    }
+  ],
+  "knowledge": null
+}

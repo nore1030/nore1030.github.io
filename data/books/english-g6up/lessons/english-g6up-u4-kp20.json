@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp20",
+  "title": "Question sentence",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 16,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "Question sentence",
+      "question": "连词成句：[hobbies, are, What, his]",
+      "options": [
+        "hobbies",
+        "are",
+        "What",
+        "his"
+      ],
+      "answer": "What,are,his,hobbies",
+      "explanation": "特殊疑问句语序：疑问词+be+物主代词+名词。"
+    }
+  ],
+  "knowledge": null
+}

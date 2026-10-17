@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 4,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“不一会，满山遍野都是红领巾。”这句话使用的是哪种修辞方法？",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "借代"
+      ],
+      "answer": "借代",
+      "explanation": "用“红领巾”代指穿戴红领巾的学生们。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,154 @@
+{
+  "id": "chinese-g1down-u5-kp2",
+  "title": "对韵歌与反义词",
+  "bookId": "chinese-g1down",
+  "unitNumber": 5,
+  "unitTitle": "识字（二）",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“晨”的反义词是“暮”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在《古对今》一课中，“晨对暮”说明晨和暮是一对反义词。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“严寒”对“酷暑”是不正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "严寒对酷暑是描写四季气候的对仗词组。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "《古对今》中，与“圆”相对的字是哪一个？",
+      "options": [
+        "长",
+        "扁",
+        "方",
+        "大"
+      ],
+      "answer": "方",
+      "explanation": "课文原文是“圆对方，善对恶”。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "下列词语中，哪一组不是一对反义词？",
+      "options": [
+        "朝—夕",
+        "远—近",
+        "晚—暮",
+        "黑—白"
+      ],
+      "answer": "晚—暮",
+      "explanation": "晚和暮意思相近。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“和风”对什么？",
+      "options": [
+        "细雨",
+        "夕阳",
+        "秋霜",
+        "流水"
+      ],
+      "answer": "细雨",
+      "explanation": "成语是“和风细雨”。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "填入合适的字：鸟儿对（  ），山花对（  ）。",
+      "options": [
+        "花，绿",
+        "鱼，草",
+        "虫，海",
+        "虫，树"
+      ],
+      "answer": "鱼，草",
+      "explanation": "选自《古对今》：鸟对鱼，山花对绿草。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "“莺歌”对什么？",
+      "options": [
+        "桃红",
+        "柳绿",
+        "燕舞",
+        "花开"
+      ],
+      "answer": "燕舞",
+      "explanation": "莺歌燕舞是固定对仗词。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "古时对（  ）。",
+      "options": [],
+      "answer": "今",
+      "explanation": "古对今是课文核心。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "对韵歌与反义词",
+      "question": "完成对仗连线。",
+      "options": [
+        "云",
+        "雪",
+        "晨",
+        "桃",
+        "暮",
+        "雨",
+        "霜",
+        "李"
+      ],
+      "answer": "A-2,B-3,C-1,D-4",
+      "explanation": "云对雨，雪对霜，晨对暮，桃对李。"
+    }
+  ],
+  "knowledge": {
+    "point": "对韵歌与反义词",
+    "core_concept": "通过《古对今》的学习，感受汉语悠久的对仗美。理解词语之间的反义关系（如古与今、长与短）和并列关系（如桃与李、风与雨）。它是培养学生语感和积累词汇的重要途径。",
+    "key_formula": "单字对单字，双字对双字，词类要相同。",
+    "common_mistakes": [
+      "对仗不工整，用‘古个’对‘今’",
+      "对‘细雨’时用了不相关的词"
+    ],
+    "tips": "多读多背，寻找生活中的成对事物，如‘天对地’‘上对下’。"
+  }
+}

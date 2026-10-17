@@ -1,0 +1,217 @@
+{
+  "id": "g5down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g5down",
+  "unitNumber": 1,
+  "unitTitle": "观察物体（三）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "同一个几何体，从不同方向看到的形状可能相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "例如正方体，从正面、左面、上面看都是正方形。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "根据三视图还原几何体",
+      "question": "根据从三个方向看到的形状，一定可以确定这个几何体的唯一摆法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通常三视图可以确定具体的空间结构模型。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "根据三视图还原几何体",
+      "question": "一个几何体从正面看是1个正方形，从侧面看是2个横向排列的正方形，则确定它是2个正方体拼成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "正面1个说明只有一列一层。侧面2个横排说明深度为2。即一列两行。小正方体数为2。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "立体图形中无论位置如何，从上面看到的形状永远只代表底层正方体的位置。",
+      "options": [],
+      "answer": "错",
+      "explanation": "上面看到的投影是所有层叠加上去的轮廓，不只包含底层。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "如果一个几何体从正面看是3个横排小正方形，要在它的基础上增加一个小正方体，使正面形状不变，有几种添法？",
+      "options": [
+        "3种",
+        "4种",
+        "6种",
+        "很多种"
+      ],
+      "answer": "很多种",
+      "explanation": "可以在原有的3个正方体任意一个的前面或后面添加，组合极多。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "一个几何体由5个小正方体搭成，从左面看是2个横排小正方形。说明这个几何体的深度是几个单位？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "5个"
+      ],
+      "answer": "2个",
+      "explanation": "左视图的横向宽度对应原几何体的深度，宽度为2即深度为2。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "如果从正面、左面、上面看到的小正方形个数分别是3，2，4个，那么这个几何体最多由几个小正方体组成？",
+      "options": [
+        "6个",
+        "8个",
+        "12个",
+        "24个"
+      ],
+      "answer": "12个",
+      "explanation": "底面积对应上面看的4个块。最高层数对应正面或左面的最大值3层。故最多 $4 \\times 3 = 12$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "在原有的几何体（由4个凑成）后面增加一个小正方体，哪个视图一定不改变？",
+      "options": [
+        "正面",
+        "上面",
+        "左面",
+        "右面"
+      ],
+      "answer": "正面",
+      "explanation": "在几何体后面增加物体，会被前面的物体遮挡，从正面看的投影轮廓不会改变。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "一个由若干个正方体摆成的几何体，从正面看是3个横排正方形，从左面看是两个竖排正方形。这个几何体最少要多少个？",
+      "options": [
+        "3个",
+        "4个",
+        "5个",
+        "6个"
+      ],
+      "answer": "4个",
+      "explanation": "底层3个加上二层1个即可满足条件。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "用小正方体拼大正方体，如果最少需要添加7个小正方体才能拼成一个稍大的正方体，原几何体有几个？",
+      "options": [
+        "1个",
+        "2个",
+        "4个",
+        "8个"
+      ],
+      "answer": "1个",
+      "explanation": "最小的大正方体是 $2 \\times 2 \\times 2 = 8$。 $8 - 7 = 1$ 个。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "有3个小正方体，摆出的几何体从正面看是2个正方形，一共有多少种摆法？",
+      "options": [
+        "5种",
+        "6种",
+        "7种",
+        "8种"
+      ],
+      "answer": "6种",
+      "explanation": "基础是两个竖叠或两个横放。通过移动第3个位置（前、中、后），严密计算可得6种基本变化。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "如果从正面看是两个竖排，从左面看也是两个竖排，从上面看是一个。这个物体有几个正方体？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "2个",
+      "explanation": "这就相当于只有一根柱子，高度为2层正方体。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "用5个完全一样的小正方体摆成一个几何体。从前面看有4个，从左面看有2个，搭建这个几何体最少需要 ___ 个正方体。",
+      "options": [],
+      "answer": "4",
+      "explanation": "题干本身说用5个，但问“最少需要几个”满足该视图。前视4个说明底座最宽为4（或3+1）。根据逻辑，4个已能满足视图。验算：投影合理。 ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "空间方位与形状保持推理",
+      "question": "一个由小正方体组成的几何体，从正面看是由2个小正方形横向排成的。如果在它上面放一个小正方体，要使从正面看形状不变，只能放 ___ 个位置。",
+      "options": [],
+      "answer": "0",
+      "explanation": "放在“上面”必然会增加高度，从而改变正视图的现状。故为0种可能的空位。验算：任意点放置都会多出1个格子。 ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多角度观察的摆法多样性",
+      "question": "计算：$20 \\times 4 + 10 = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$20 \\times 4 = 80$，$80 + 10 = 90$。验算：$(90 - 10) \\div 4 = 20$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

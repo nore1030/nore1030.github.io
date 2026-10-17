@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g10up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Natural Disasters 自然灾害",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "新闻与指令表达",
+      "question": "「撤离」的英文是（　）",
+      "options": [
+        "evacuate",
+        "evacute",
+        "evauate",
+        "evacuvate"
+      ],
+      "answer": "evacuate",
+      "explanation": "evacuate 撤离。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "新闻与指令表达",
+      "question": "「救援」的英文是（　）",
+      "options": [
+        "rescue",
+        "rescure",
+        "resque",
+        "rescoue"
+      ],
+      "answer": "rescue",
+      "explanation": "rescue 救援。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "新闻与指令表达",
+      "question": "in ruins 的意思是「成为废墟」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "in ruins。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+      "question": "「干旱」的英文是（　）",
+      "options": [
+        "drought",
+        "drougt",
+        "draught",
+        "drowght"
+      ],
+      "answer": "drought",
+      "explanation": "drought 干旱。"
+    }
+  ],
+  "knowledge": null
+}

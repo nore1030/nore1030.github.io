@@ -1,0 +1,480 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 My classmates 我的同学",
+      "knowledge_points": [
+        {
+          "name": "be 动词 am / is / are",
+          "description": "掌握 be 动词的变化。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "介绍姓名与年龄",
+          "description": "会介绍自己与同学。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 My family 我的家庭",
+      "knowledge_points": [
+        {
+          "name": "指示代词 this / these",
+          "description": "掌握近指代词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "家庭称谓 parents / family",
+          "description": "掌握家庭相关词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "Module 3 My school 我的学校",
+      "knowledge_points": [
+        {
+          "name": "there be 句型",
+          "description": "掌握 there be 表存在。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "方位介词 next to / behind / on the left of",
+          "description": "掌握地点方位表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u3-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 4,
+      "title": "Module 4 Healthy food 健康饮食",
+      "knowledge_points": [
+        {
+          "name": "have got 表示拥有",
+          "description": "掌握 have got 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "some / any 的用法",
+          "description": "掌握 some 与 any。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u4-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 5,
+      "title": "Module 5 My school day 我的学校生活",
+      "knowledge_points": [
+        {
+          "name": "一般现在时表习惯",
+          "description": "掌握一般现在时用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "学校科目与时间",
+          "description": "掌握科目与星期表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u5-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 6,
+      "title": "Module 6 A trip to the zoo 动物园之旅",
+      "knowledge_points": [
+        {
+          "name": "一般现在时三单疑问句",
+          "description": "掌握 Does…? 疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动物与产地",
+          "description": "掌握动物词汇及产地表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u6-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 7,
+      "title": "Module 7 Computers 电脑",
+      "knowledge_points": [
+        {
+          "name": "电脑词汇 computer / keyboard / mouse / screen",
+          "description": "掌握电脑部件词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "指令表达 Turn on / Save",
+          "description": "掌握常用操作指令。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u7-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 8,
+      "title": "Module 8 Choosing presents 挑选礼物",
+      "knowledge_points": [
+        {
+          "name": "礼物词汇 present / gift / birthday",
+          "description": "掌握礼物相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "购物句型 How much…?",
+          "description": "掌握询问价格。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u8-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 9,
+      "title": "Module 9 People and places 人与地方",
+      "knowledge_points": [
+        {
+          "name": "描述地方的形容词",
+          "description": "掌握 big / small / beautiful / crowded。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "描述人物",
+          "description": "会简单描述人物外貌性格。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u9-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 10,
+      "title": "Module 10 Spring Festival 春节",
+      "knowledge_points": [
+        {
+          "name": "春节词汇",
+          "description": "掌握春节相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "节日活动表达",
+          "description": "会描述节日活动。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-waiyan-g7up-u10-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-waiyan-g7up",
+  "grade": 7,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-waiyan-g7up-u1-kp1",
+      "title": "be 动词 am / is / are",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 My classmates 我的同学",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u1-kp2",
+      "title": "介绍姓名与年龄",
+      "unitNumber": 1,
+      "unitTitle": "Module 1 My classmates 我的同学",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u2-kp1",
+      "title": "指示代词 this / these",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 My family 我的家庭",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u2-kp2",
+      "title": "家庭称谓 parents / family",
+      "unitNumber": 2,
+      "unitTitle": "Module 2 My family 我的家庭",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u3-kp1",
+      "title": "there be 句型",
+      "unitNumber": 3,
+      "unitTitle": "Module 3 My school 我的学校",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g7up-u3-kp2",
+      "title": "方位介词 next to / behind / on the left of",
+      "unitNumber": 3,
+      "unitTitle": "Module 3 My school 我的学校",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g7up-u4-kp1",
+      "title": "have got 表示拥有",
+      "unitNumber": 4,
+      "unitTitle": "Module 4 Healthy food 健康饮食",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "english-waiyan-g7up-u4-kp2",
+      "title": "some / any 的用法",
+      "unitNumber": 4,
+      "unitTitle": "Module 4 Healthy food 健康饮食",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u4-kp3",
+      "title": "食物与健康词汇",
+      "unitNumber": 4,
+      "unitTitle": "Module 4 Healthy food 健康饮食",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u5-kp1",
+      "title": "一般现在时表习惯",
+      "unitNumber": 5,
+      "unitTitle": "Module 5 My school day 我的学校生活",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u5-kp2",
+      "title": "学校科目与时间",
+      "unitNumber": 5,
+      "unitTitle": "Module 5 My school day 我的学校生活",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u6-kp1",
+      "title": "一般现在时三单疑问句",
+      "unitNumber": 6,
+      "unitTitle": "Module 6 A trip to the zoo 动物园之旅",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u6-kp2",
+      "title": "动物与产地",
+      "unitNumber": 6,
+      "unitTitle": "Module 6 A trip to the zoo 动物园之旅",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u7-kp1",
+      "title": "电脑词汇 computer / keyboard / mouse / screen",
+      "unitNumber": 7,
+      "unitTitle": "Module 7 Computers 电脑",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u7-kp2",
+      "title": "指令表达 Turn on / Save",
+      "unitNumber": 7,
+      "unitTitle": "Module 7 Computers 电脑",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u8-kp1",
+      "title": "礼物词汇 present / gift / birthday",
+      "unitNumber": 8,
+      "unitTitle": "Module 8 Choosing presents 挑选礼物",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u8-kp2",
+      "title": "购物句型 How much…?",
+      "unitNumber": 8,
+      "unitTitle": "Module 8 Choosing presents 挑选礼物",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u9-kp1",
+      "title": "描述地方的形容词",
+      "unitNumber": 9,
+      "unitTitle": "Module 9 People and places 人与地方",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u9-kp2",
+      "title": "描述人物",
+      "unitNumber": 9,
+      "unitTitle": "Module 9 People and places 人与地方",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    },
+    {
+      "id": "english-waiyan-g7up-u10-kp1",
+      "title": "春节词汇",
+      "unitNumber": 10,
+      "unitTitle": "Module 10 Spring Festival 春节",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "english-waiyan-g7up-u10-kp2",
+      "title": "节日活动表达",
+      "unitNumber": 10,
+      "unitTitle": "Module 10 Spring Festival 春节",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 1
+    }
+  ]
+}

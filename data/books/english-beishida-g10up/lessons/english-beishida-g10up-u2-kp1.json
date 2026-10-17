@@ -1,0 +1,47 @@
+{
+  "id": "english-beishida-g10up-u2-kp1",
+  "title": "学校场所与科目",
+  "bookId": "english-beishida-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 校园与学习",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学校场所与科目",
+      "question": "“图书馆”的英文是（　）",
+      "options": [
+        "library",
+        "bookshop",
+        "classroom",
+        "playground"
+      ],
+      "answer": "library",
+      "explanation": "图书馆 library。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "学校场所与科目",
+      "question": "Chemistry 指化学。",
+      "options": [],
+      "answer": "对",
+      "explanation": "化学。"
+    }
+  ],
+  "knowledge": {
+    "point": "学校场所与科目",
+    "core_concept": "library, classroom, playground, laboratory；Chinese, Maths, English, Physics, Chemistry。",
+    "key_formula": "科目名称",
+    "common_mistakes": [
+      "Maths 与 Math 混用。"
+    ],
+    "tips": "英式常用 Maths。"
+  }
+}

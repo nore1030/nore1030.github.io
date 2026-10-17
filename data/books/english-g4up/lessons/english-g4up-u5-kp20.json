@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u5-kp20",
+  "title": "助动词",
+  "bookId": "english-g4up",
+  "unitNumber": 5,
+  "unitTitle": "Dinner's ready",
+  "kpIndex": 16,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "助动词",
+      "question": "___ you like some beef?",
+      "options": [],
+      "answer": "would",
+      "explanation": "Would you like...是询问对方意愿的固定格式。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "g4down-u3-kp5",
+  "title": "连除的简便性质",
+  "bookId": "g4down",
+  "unitNumber": 3,
+  "unitTitle": "运算定律",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "连除的简便性质",
+      "question": "$480 16 5 = 480 16 5$ 无法简算，必须按顺序算。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$480 16 5 = 480 5 16$ 或 $480 80$)。故错误。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "连除的简便性质",
+      "question": "$700 \\div 25 \\div 4$ 等于：",
+      "options": [
+        "$700 \\div (25 \\times 4)$",
+        "$700 \\div (25 \\div 4)$",
+        "$700 \\times 25 \\times 4$",
+        "$700 \\div 25 \\times 4$"
+      ],
+      "answer": "$700 \\div (25 \\times 4)$",
+      "explanation": "连除性质：$a \\div b \\div c = a \\div (b \\times c)$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连除的简便性质",
+      "question": "4000 支铅笔，每 8 支装一盒，每 5 盒装一箱。一共可以装多少箱？",
+      "options": [
+        "100",
+        "80",
+        "120",
+        "60"
+      ],
+      "answer": "100",
+      "explanation": "$4000 \\div 8 \\div 5 = 4000 \\div (8 \\times 5) = 4000 \\div 40 = 100$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "连除的简便性质",
+      "question": "$3600 25 4 = ?$",
+      "options": [],
+      "answer": "36",
+      "explanation": "$3600 25 4) = 3600 100 = 36$。验算：$36 4 = 144, 144 25 = 3600$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "连除的简便性质",
+    "core_concept": "一个数连续除以两个数，等于这个数除以这两个除数的积。利用此性质可以将复杂的除法转化为容易口算的整十整百数除法。",
+    "key_formula": "$a \\div b \\div c = a \\div (b \\times c)$",
+    "common_mistakes": [
+      "去括号混淆。如 $a \\div (b \\times c)$ 写成 $a \\div b \\times c$。",
+      "数字不适合使用性质时强行使用，如 $100 \\div 3 \\div 4$ 不适合转为 $100 \\div 12$。"
+    ],
+    "tips": "除号后面加括号，括号内‘乘’变‘除’，‘除’变‘乘’。重点还是看能否拼出好算的‘整百数’。"
+  }
+}

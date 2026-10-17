@@ -1,0 +1,75 @@
+{
+  "id": "g1up-u8-kp3",
+  "title": "5、4、3、2加几（交换法）",
+  "bookId": "g1up",
+  "unitNumber": 8,
+  "unitTitle": "20以内的进位加法",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "计算 $5 + 6$ 的最快方法是想 $6 + 5 = 11$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "小数加大数，交换成大数加小数更容易想到结果。$5+6=11$ 正确。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "计算 $4 + 7$ 时，我们通常想 $7 + 4 = \text{___}$。",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "利用交换加数位置的方法，想 $7+4=11$，所以 $4+7=11$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "3 个女生和 8 个男生排队，一共有多少级学生？",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "$3 + 8 = 11$。也可以想 $8 + 3 = 11$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "5、4、3、2加几（交换法）",
+      "question": "小白兔拔了 4 个萝卜，小灰兔拔了 9 个，它们一共拔了 ___ 个。",
+      "options": [],
+      "answer": "13",
+      "explanation": "$4 + 9 = 13$。利用交换法想 $9 + 4 = 13$。验算：$13 - 4 = 9$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "5、4、3、2加几（交换法）",
+    "core_concept": "当较小的数（如5、4、3、2）在前，较大的数在后时，可以利用加法交换律，将题目转化为我们熟练的大数加小数（如9、8、7、6加几）。这种‘移位思考’能减少记忆负担。",
+    "key_formula": "$a + b = b + a$",
+    "common_mistakes": [
+      "不愿交换硬算：从小往大数数，容易出错且速度慢。",
+      "理解偏差：认为 $3+8$ 和 $8+3$ 代表的情境必须完全不同而不敢转换。"
+    ],
+    "tips": "‘小数加大数，交换位置变大数加小数’。看到 $3+9$，马上想 $9+3=12$。"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "g10up-u3-kp1",
+  "title": "函数的概念与表示",
+  "bookId": "g10up",
+  "unitNumber": 3,
+  "unitTitle": "函数的概念与性质",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "函数的概念与表示",
+      "question": "已知 $f(x)=2x^2-1$，则 $f(2)=$ ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$2\\times4-1=7$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "函数的概念与表示",
+      "question": "函数 $f(x)=\\frac{1}{x-2}$ 的定义域是 $x\\ne$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "分母不为 0。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数的概念与表示",
+    "core_concept": "函数是定义域、对应关系、值域三要素确定的对应关系。求函数值只需代入解析式；求定义域需考虑分母不为 0、偶次根式被开方数非负等。",
+    "key_formula": "$y=f(x)$",
+    "common_mistakes": [
+      "忽略定义域限制。"
+    ],
+    "tips": "先看分母和根号。"
+  }
+}

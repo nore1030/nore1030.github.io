@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp18",
+  "title": "关联词使用",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关联词使用",
+      "question": "“（ ）哈尔威船长牺牲了，（ ）他伟大的精神永远活在人们心中。”括号内填入正确的是：",
+      "options": [
+        "因为……所以……",
+        "只要……就……",
+        "虽然……但是……",
+        "如果……就……"
+      ],
+      "answer": "虽然……但是……",
+      "explanation": "由于前后句呈转折关系，应选“虽然……但是……”。"
+    }
+  ],
+  "knowledge": null
+}

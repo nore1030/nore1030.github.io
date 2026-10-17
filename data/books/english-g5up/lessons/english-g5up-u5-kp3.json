@@ -1,0 +1,46 @@
+{
+  "id": "english-g5up-u5-kp3",
+  "title": "空间位置的综合描述",
+  "bookId": "english-g5up",
+  "unitNumber": 5,
+  "unitTitle": "There is a big bed",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间位置的综合描述",
+      "question": "The ball is ______ the dog and the cat.",
+      "options": [
+        "between",
+        "on",
+        "above",
+        "in"
+      ],
+      "answer": "between",
+      "explanation": "在两者之间用 between。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空间位置的综合描述",
+      "question": "连词成句：[The, is, plant, beside, clock, the]",
+      "options": [
+        "The",
+        "is",
+        "plant",
+        "beside",
+        "clock",
+        "the"
+      ],
+      "answer": "The,plant,is,beside,the,clock",
+      "explanation": "物品A + is + 方位介词 + 物品B。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "college-math-linear-algebra-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "college-math-linear-algebra",
+  "unitNumber": 1,
+  "unitTitle": "行列式与矩阵",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "行列式",
+      "question": "计算 $\\begin{vmatrix}0&1\\\\1&0\\end{vmatrix}$ 的值。",
+      "options": [],
+      "answer": "-1",
+      "explanation": "$0-1=-1$。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "行列式",
+      "question": "行列式两行互换，其值变号。",
+      "options": [],
+      "answer": "对",
+      "explanation": "行列式性质。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "矩阵的运算",
+      "question": "单位矩阵 E 满足（　）",
+      "options": [
+        "$AE=EA=A$",
+        "$AE=0$",
+        "$AE=E$",
+        "$AE=-A$"
+      ],
+      "answer": "$AE=EA=A$",
+      "explanation": "单位矩阵性质。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "矩阵的运算",
+      "question": "矩阵加法要求两矩阵同型。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加法要求同型。"
+    }
+  ],
+  "knowledge": null
+}

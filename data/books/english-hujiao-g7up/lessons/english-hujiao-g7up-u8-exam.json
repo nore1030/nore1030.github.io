@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Module 4 Fun time — Collecting things 收藏",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "收藏词汇 collect / stamp / coin",
+      "question": "「我的收藏」的英文是（　）",
+      "options": [
+        "my collection",
+        "my collect",
+        "my collections",
+        "my collecting"
+      ],
+      "answer": "my collection",
+      "explanation": "collection 名词。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "爱好表达 hobby",
+      "question": "「爱好」的英文是（　）",
+      "options": [
+        "hobby",
+        "hobbys",
+        "habby",
+        "hobbie"
+      ],
+      "answer": "hobby",
+      "explanation": "hobby 爱好。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "爱好表达 hobby",
+      "question": "hobby 的复数是 hobbies。",
+      "options": [],
+      "answer": "对",
+      "explanation": "变 y 为 i 加 -es。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "爱好表达 hobby",
+      "question": "「你收藏什么？」的英文是（　）",
+      "options": [
+        "What do you collect?",
+        "What are you collect?",
+        "What do you collecting?",
+        "What you collect?"
+      ],
+      "answer": "What do you collect?",
+      "explanation": "实义动词用 do 提问。"
+    }
+  ],
+  "knowledge": null
+}

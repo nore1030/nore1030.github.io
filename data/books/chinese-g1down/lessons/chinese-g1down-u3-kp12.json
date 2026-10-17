@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1down-u3-kp12",
+  "title": "词语积累",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语积累",
+      "question": "“孤单”的意思是一个人，没有（___）。",
+      "options": [],
+      "answer": "伙伴",
+      "explanation": "课文《树和喜鹊》中提到因为没有伙伴，所以树和喜鹊都很孤单。"
+    }
+  ],
+  "knowledge": null
+}

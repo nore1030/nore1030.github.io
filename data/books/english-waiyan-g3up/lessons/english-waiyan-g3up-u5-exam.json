@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 5 Can I have an ice cream? 请求与许可",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物与场所词汇",
+      "question": "「图书馆」的英文是（　）",
+      "options": [
+        "library",
+        "libary",
+        "librery",
+        "libbary"
+      ],
+      "answer": "library",
+      "explanation": "library = 图书馆。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "请求用语 Can I…?",
+      "question": "「给你。」的英文是（　）",
+      "options": [
+        "Here you are.",
+        "Here are you.",
+        "You are here.",
+        "Here it is you."
+      ],
+      "answer": "Here you are.",
+      "explanation": "固定表达。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "购物与场所词汇",
+      "question": "Don't worry 的意思是「别担心」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "安慰用语。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "请求用语 Can I…?",
+      "question": "— Can I come in? — ___",
+      "options": [
+        "Yes, please.",
+        "Yes, I can.",
+        "No, I can't.",
+        "Yes, you are."
+      ],
+      "answer": "Yes, please.",
+      "explanation": "请进用 Yes, please。"
+    }
+  ],
+  "knowledge": null
+}

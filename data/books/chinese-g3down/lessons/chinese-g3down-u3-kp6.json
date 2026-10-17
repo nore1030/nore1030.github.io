@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u3-kp6",
+  "title": "阅读理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 3,
+  "unitTitle": "中华传统文化",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读理解",
+      "question": "根据课文内容，为什么说《清明上河图》是一幅名扬中外的画？",
+      "options": [
+        "因为画的尺寸特别大",
+        "因为画的主人很有名",
+        "因为它反映了八九百年前北宋都城的市井生活",
+        "因为画的纸张非常珍贵"
+      ],
+      "answer": "因为它反映了八九百年前北宋都城的市井生活",
+      "explanation": "它的历史价值和艺术价值在于真实还原了当时的社会风貌。"
+    }
+  ],
+  "knowledge": null
+}

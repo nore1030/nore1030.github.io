@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp6",
+  "title": "人物身份提问",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物身份提问",
+      "question": "'Who is he?' 用来询问‘他是谁’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Who用于提问身份，he指代男性。"
+    }
+  ],
+  "knowledge": null
+}

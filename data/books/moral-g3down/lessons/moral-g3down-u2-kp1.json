@@ -1,0 +1,47 @@
+{
+  "id": "moral-g3down-u2-kp1",
+  "title": "爱护公用设施",
+  "bookId": "moral-g3down",
+  "unitNumber": 2,
+  "unitTitle": "我们的公共生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "爱护公用设施",
+      "question": "看到健身器材坏了，应该（　）",
+      "options": [
+        "继续使劲玩",
+        "告诉管理人员",
+        "拆下来带走",
+        "假装没看见"
+      ],
+      "answer": "告诉管理人员",
+      "explanation": "及时报告维护。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "爱护公用设施",
+      "question": "公共设施是为大家服务的，要爱护。",
+      "options": [],
+      "answer": "对",
+      "explanation": "爱护公物。"
+    }
+  ],
+  "knowledge": {
+    "point": "爱护公用设施",
+    "core_concept": "路灯、长椅、健身器材等公共设施为大家服务，要爱护使用，不损坏不独占。",
+    "key_formula": "爱护公物",
+    "common_mistakes": [
+      "在长椅上刻字。"
+    ],
+    "tips": "公物为大家，爱护靠大家。"
+  }
+}

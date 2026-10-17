@@ -1,0 +1,64 @@
+{
+  "id": "g5down-u4-kp2",
+  "title": "分数与除法的关系",
+  "bookId": "g5down",
+  "unitNumber": 4,
+  "unitTitle": "分数的意义和性质",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数与除法的关系",
+      "question": "在 $a \\div b = a/b$ 中，对 $b$ 的要求是：",
+      "options": [
+        "b 是整数",
+        "b 是正数",
+        "b 不等于 0",
+        "b 大于 a"
+      ],
+      "answer": "b 不等于 0",
+      "explanation": "在除法算式中，除数不能为 0；在分数中，分母不能为 0。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数与除法的关系",
+      "question": "小明 4 分钟走了 300 米，他平均每分钟走多少米？",
+      "options": [
+        "75",
+        "1/75",
+        "4/300",
+        "300/1"
+      ],
+      "answer": "75",
+      "explanation": "$300 \\div 4 = 75$（米）。验算：$75 \\times 4 = 300$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数与除法的关系",
+      "question": "45 分钟等于 ___ 小时。（用最简分数表示时，分子是多少？）",
+      "options": [],
+      "answer": "3",
+      "explanation": "45 分钟 = $45/60$ 小时。约分：$45/60 = (45 \\div 15) / (60 \\div 15) = 3/4$。分子是 3。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数与除法的关系",
+    "core_concept": "分数的分子相当于除法中的被除数，分母相当于除数，分数线相当于除号。这种关系可以表示为 $a \\div b = \\frac{a}{b}$（$b \\neq 0$）。要注意分数是一种数，而除法是一种运算。",
+    "key_formula": "$被除数 \\div 除数 = \\frac{被除数}{除数}$",
+    "common_mistakes": [
+      "颠倒被除数和除数的位置，例如 2 除以 5 写成 5/2",
+      "忘记除数（分母）不能为 0"
+    ],
+    "tips": "求“每份是多少”带单位，求“占全长的几分之几”不带单位。"
+  }
+}

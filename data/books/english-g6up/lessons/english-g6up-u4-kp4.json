@@ -1,0 +1,45 @@
+{
+  "id": "english-g6up-u4-kp4",
+  "title": "Hobbies vocabulary",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 0,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Hobbies vocabulary",
+      "question": "'reading stories' 的中文意思是'阅读故事'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "reading stories 是本单元的核心短语，意为阅读故事。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Hobbies vocabulary",
+      "question": "'climbing mountains' 的中文意思是'钓鱼'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "climbing mountains 意思是爬山，钓鱼是 fishing。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "Hobbies vocabulary",
+      "question": "'singing' 是 'sing' 的 -ing 形式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "like 后面跟动词 -ing 形式表示爱好。"
+    }
+  ],
+  "knowledge": null
+}

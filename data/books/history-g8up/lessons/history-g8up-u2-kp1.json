@@ -1,0 +1,47 @@
+{
+  "id": "history-g8up-u2-kp1",
+  "title": "洋务运动",
+  "bookId": "history-g8up",
+  "unitNumber": 2,
+  "unitTitle": "近代化探索",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "洋务运动",
+      "question": "洋务运动的口号是（　）",
+      "options": [
+        "自强、求富",
+        "民主、科学",
+        "三民主义",
+        "变法维新"
+      ],
+      "answer": "自强、求富",
+      "explanation": "洋务运动口号。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "洋务运动",
+      "question": "洋务运动没有使中国走上富强道路。",
+      "options": [],
+      "answer": "对",
+      "explanation": "洋务运动评价。"
+    }
+  ],
+  "knowledge": {
+    "point": "洋务运动",
+    "core_concept": "洋务运动主张“师夷长技以自强”。前期以“自强”为口号办军事工业，后期以“求富”为口号办民用工业。它没有使中国走上富强道路。",
+    "key_formula": "自强、求富",
+    "common_mistakes": [
+      "把洋务运动当成思想解放运动。"
+    ],
+    "tips": "洋务只学器物。"
+  }
+}

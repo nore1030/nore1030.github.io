@@ -1,0 +1,151 @@
+{
+  "id": "english-g3down-u2-kp1",
+  "title": "家庭成员称谓认读",
+  "bookId": "english-g3down",
+  "unitNumber": 2,
+  "unitTitle": "My family",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "'father' 对应的是母亲。",
+      "options": [],
+      "answer": "错",
+      "explanation": "father代表父亲，母亲是mother。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "'grandmother' 和 'grandma' 意思相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "grandma是grandmother的口语化表达形式。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "Sarah是女孩，她可以是别人的 'brother'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "女孩对应的称谓是sister（姐妹），brother是指兄弟。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "My father's father is my ______.",
+      "options": [
+        "grandfather",
+        "grandmother",
+        "mother",
+        "father"
+      ],
+      "answer": "grandfather",
+      "explanation": "爸爸的爸爸是祖父（爷爷）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "'This is my sister.' 的中文意思是：",
+      "options": [
+        "这是我的哥哥。",
+        "这是我的弟弟。",
+        "这是我的姐姐/妹妹。",
+        "这是我的父亲。"
+      ],
+      "answer": "这是我的姐姐/妹妹。",
+      "explanation": "sister指姐姐或妹妹。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "My father's mother is my ______.",
+      "options": [
+        "grandpa",
+        "dad",
+        "grandma",
+        "brother"
+      ],
+      "answer": "grandma",
+      "explanation": "爸爸的妈妈是奶奶。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "This is my ______ (妈妈).",
+      "options": [
+        "dad",
+        "mother",
+        "father",
+        "brother"
+      ],
+      "answer": "mother",
+      "explanation": "妈妈的英文单词是mother。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "—Who's that man? —He is my ___ (父亲).",
+      "options": [],
+      "answer": "father",
+      "explanation": "父亲的单词是father。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "This is my ___ (姐姐).",
+      "options": [],
+      "answer": "sister",
+      "explanation": "姐姐/妹妹的单词是sister。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员称谓认读",
+      "question": "给下列单词选择正确的中文意思。",
+      "options": [
+        "mother",
+        "brother",
+        "grandpa",
+        "dad",
+        "爸爸",
+        "祖父",
+        "母亲",
+        "兄弟"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "mother-母亲, brother-兄弟, grandpa-祖父, dad-爸爸。"
+    }
+  ],
+  "knowledge": null
+}

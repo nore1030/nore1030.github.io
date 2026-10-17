@@ -1,0 +1,28 @@
+{
+  "id": "g4up-u3-kp4",
+  "title": "角的角度计算",
+  "bookId": "g4up",
+  "unitNumber": 3,
+  "unitTitle": "角的度量",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "角的角度计算",
+      "question": "已知 $\\angle 1 + \\angle 2 = 180^{\\circ}$，若 $\\angle 1 = 50^{\\circ}$，则 $\\angle 2$ 是多少度？",
+      "options": [
+        "$40^{\\circ}$",
+        "$50^{\\circ}$",
+        "$130^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "answer": "$130^{\\circ}$",
+      "explanation": "$180 - 50 = 130$。验算：$130 + 50 = 180$。"
+    }
+  ],
+  "knowledge": null
+}

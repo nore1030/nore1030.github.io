@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g11up-u1-kp1",
+  "title": "化学反应与能量",
+  "bookId": "chemistry-g11up",
+  "unitNumber": 1,
+  "unitTitle": "化学反应原理",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "化学反应与能量",
+      "question": "断化学键需要（　）",
+      "options": [
+        "吸收能量",
+        "放出能量",
+        "不需能量",
+        "生成水"
+      ],
+      "answer": "吸收能量",
+      "explanation": "断键吸热。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "化学反应与能量",
+      "question": "化学键断裂吸收能量，形成放出能量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "断吸成放。"
+    }
+  ],
+  "knowledge": {
+    "point": "化学反应与能量",
+    "core_concept": "放热反应使体系温度升高，ΔH < 0；吸热反应 ΔH > 0。化学键断裂吸收能量，形成放出能量。",
+    "key_formula": "$\\Delta H = E_\\text{断键} - E_\\text{成键}$",
+    "common_mistakes": [
+      "认为断键放热。"
+    ],
+    "tips": "断键吸热、成键放热。"
+  }
+}

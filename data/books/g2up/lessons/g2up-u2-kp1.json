@@ -1,0 +1,113 @@
+{
+  "id": "g2up-u2-kp1",
+  "title": "两位数加两位数（不进位与进位）",
+  "bookId": "g2up",
+  "unitNumber": 2,
+  "unitTitle": "100以内的加法和减法（二）",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "笔算两位数加法时，应从十位加起。",
+      "options": [],
+      "answer": "错",
+      "explanation": "笔算加减法都要从个位加起。故判断为错。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "计算 $36 + 45$ 时，个位满十向十位进 1。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$6 + 5 = 11$，个位满十向十位进1。故判断为对。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "一个加数是 28，另一个加数是 35，和是（ ）。",
+      "options": [
+        "53",
+        "63",
+        "52",
+        "62"
+      ],
+      "answer": "63",
+      "explanation": "$28 + 35 = 63$。验算：$63 - 35 = 28$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "计算 $5\\square + 28$ 时，如果和的十位上是 8，那么 $\\square$ 里最小填（ ）。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": "2",
+      "explanation": "由于十位是 $5 + 2 = 7$，若和的十位是 8，说明个位进位了。$\\square + 8 \\geq 10$，$\\square$ 最小为 2。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "$46 + 2\\square$ 的和是一个七十多，$\\square$ 里可以填（ ）。",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "如果是 $46+28=74$（七十多）；如果是 $46+25=71$；但看选项 $46+21=67$，$46+23=69$，只有填 8 满足进位需求。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "小明有 16 张画片，小芳有 24 张画片，两人一共有 ___ 张画片。",
+      "options": [],
+      "answer": "40",
+      "explanation": "$16 + 24 = 40$。验算：$40 - 24 = 16$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "$58 + 37 = ?$",
+      "options": [],
+      "answer": "95",
+      "explanation": "$58 + 37 = 95$。个位 $8+7=15$ 进1，十位 $5+3+1=9$。"
+    }
+  ],
+  "knowledge": {
+    "point": "两位数加两位数（不进位与进位）",
+    "core_concept": "笔算加法时，相同数位要对齐，从个位加起。如果个位相加满十，要向十位进一。在计算十位时，千万不要忘记加上个位进上来的“1”。",
+    "key_formula": "相同数位对齐，从个位加起，个位满十向十位进一。",
+    "common_mistakes": [
+      "忘记加进位1",
+      "数位没有对齐，导致错误的把个位和十位上的数相加"
+    ],
+    "tips": "写竖式时，进位的“1”建议写成小字标在十位右下方，防止漏加。"
+  }
+}

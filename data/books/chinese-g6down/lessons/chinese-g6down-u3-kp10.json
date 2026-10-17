@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g6down-u3-kp10",
+  "title": "作者→作品",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 8,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作者→作品",
+      "question": "请将下列作家与其代表作进行对应：",
+      "options": [
+        "朱自清",
+        "史铁生",
+        "老舍",
+        "沈从文",
+        "《边城》",
+        "《匆匆》",
+        "《秋天的怀念》",
+        "《北京的春节》"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "考查本册重点作家作品。朱自清-匆匆，史铁生-秋天的怀念，老舍-北京的春节，沈从文-边城。"
+    }
+  ],
+  "knowledge": null
+}

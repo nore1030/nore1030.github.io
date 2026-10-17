@@ -1,0 +1,34 @@
+{
+  "id": "english-g6up-u2-kp4",
+  "title": "交通工具词汇",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 0,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "交通工具词汇",
+      "question": "'by subway' 的中文意思是'乘地铁'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "by subway表示乘地铁，by为介词后接交通工具。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "交通工具词汇",
+      "question": "'on foot' 的意思是'骑自行车'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "on foot的意思是'步行'。骑自行车是by bike。"
+    }
+  ],
+  "knowledge": null
+}

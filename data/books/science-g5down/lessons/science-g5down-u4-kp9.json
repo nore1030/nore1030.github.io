@@ -1,0 +1,39 @@
+{
+  "id": "science-g5down-u4-kp9",
+  "title": "热的良导体",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 3,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "热的良导体",
+      "question": "塑料、木头和陶瓷都是热的良导体。",
+      "options": [],
+      "answer": "错",
+      "explanation": "塑料、木头和陶瓷导热性能差，属于热的不良导体。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "热的良导体",
+      "question": "炒菜锅的把手通常用木头或塑料制造，主要是为了（）。",
+      "options": [
+        "减轻重量",
+        "增加强度",
+        "防止烫手",
+        "更加美观"
+      ],
+      "answer": "防止烫手",
+      "explanation": "木头和塑料是热的不良导体，能减缓热传导。"
+    }
+  ],
+  "knowledge": null
+}

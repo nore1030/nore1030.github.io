@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u4-kp12",
+  "title": "人物刻画",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 8,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物刻画",
+      "question": "“两手紧紧抓住身下的白床单”这一动作描写体现了：",
+      "options": [
+        "伤口不疼",
+        "极度的痛苦和坚强的自制力",
+        "他很害怕",
+        "床单很滑"
+      ],
+      "answer": "极度的痛苦和坚强的自制力",
+      "explanation": "通过抓床单的细节表现人物忍受剧烈疼痛的心理状态。"
+    }
+  ],
+  "knowledge": null
+}

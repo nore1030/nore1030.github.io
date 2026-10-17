@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u4-kp6",
+  "title": "Grammar: Interrogative sentence",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 2,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "Grammar: Interrogative sentence",
+      "question": "询问对方的爱好，可以说 'What is your hobby?'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "What is your hobby? 用于询问一个人的爱好。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "politics-g11up-u1-kp1",
+  "title": "民事权利与义务",
+  "bookId": "politics-g11up",
+  "unitNumber": 1,
+  "unitTitle": "法律与生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "民事权利与义务",
+      "question": "关于权利与义务，正确的说法是（　）",
+      "options": [
+        "权利与义务相统一",
+        "只享受权利不履行义务",
+        "只履行义务不享受权利",
+        "两者无关"
+      ],
+      "answer": "权利与义务相统一",
+      "explanation": "权责统一。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "民事权利与义务",
+      "question": "没有无义务的权利，也没有无权利的义务。",
+      "options": [],
+      "answer": "对",
+      "explanation": "权责统一。"
+    }
+  ],
+  "knowledge": {
+    "point": "民事权利与义务",
+    "core_concept": "公民的民事权利受法律保护，履行民事义务是法定义务。权利与义务相统一，没有无义务的权利，也没有无权利的义务。",
+    "key_formula": "权利与义务相统一",
+    "common_mistakes": [
+      "认为权利与义务可以分离。"
+    ],
+    "tips": "权责统一。"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "g5up-u6-kp2",
+  "title": "三角形的面积计算",
+  "bookId": "g5up",
+  "unitNumber": 6,
+  "unitTitle": "多边形的面积",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三角形的面积计算",
+      "question": "两个完全一样的三角形一定可以拼成一个平行四边形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两个完全一样的三角形，通过旋转和平移可以拼成一个底为三角形底、高为三角形高的平行四边形。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三角形的面积计算",
+      "question": "等底等高的两个三角形，面积一定相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据公式 $S=ah \\div 2$，底和高分别相等，乘积的一半也一定相等。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的面积计算",
+      "question": "一个三角形的底是 8 分米，高是 5 分米，它的面积是多少平方分米？",
+      "options": [
+        "40",
+        "20",
+        "13",
+        "10"
+      ],
+      "answer": "20",
+      "explanation": "$8 \\times 5 \\div 2 = 20$（平方分米）。注意三角形面积要除以 2。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的面积计算",
+      "question": "一个三角形的面积是 36 平方厘米，底是 9 厘米，它的高是多少厘米？",
+      "options": [
+        "4",
+        "8",
+        "9",
+        "18"
+      ],
+      "answer": "8",
+      "explanation": "$36 \\times 2 \\div 9 = 8$（厘米）。验算：$9 \\times 8 \\div 2 = 36$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的面积计算",
+      "question": "在边长是 8 厘米的正方形内画一个最大的三角形，三角形的面积是多少平方厘米？",
+      "options": [
+        "64",
+        "48",
+        "32",
+        "16"
+      ],
+      "answer": "32",
+      "explanation": "三角形的底和高最大都等于正方形的边长，$8 \\times 8 \\div 2 = 32$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的面积计算",
+      "question": "一个等腰直角三角形的直角边长 10 厘米，它的面积是多少平方厘米？",
+      "options": [
+        "100",
+        "50",
+        "25",
+        "20"
+      ],
+      "answer": "50",
+      "explanation": "直角三角形两条直角边互为底和高，$10 \\times 10 \\div 2 = 50$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形的面积计算",
+      "question": "一个三角形的底是 14 厘米，高是 10 厘米，与它等底等高的平行四边形的面积是 ___ 平方厘米。",
+      "options": [],
+      "answer": "140",
+      "explanation": "平行四边形面积为 $ah = 14 \\times 10 = 140$。验算：三角形面积是 $140 \\div 2 = 70$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三角形的面积计算",
+      "question": "计算：$12 \\times 8 \\div 2 = ?$",
+      "options": [],
+      "answer": "48",
+      "explanation": "$12 \\times 8 = 96$，$96 \\div 2 = 48$。验算：$48 \\times 2 = 96$，$96 \\div 8 = 12$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "三角形的面积计算",
+    "core_concept": "两个完全一样的三角形可以拼成一个平行四边形。这个平行四边形的底等于三角形的底，高等于三角形的高。因为三角形是拼成平行四边形的一半，所以需要除以 2。",
+    "key_formula": "$S = ah \\div 2$",
+    "common_mistakes": [
+      "最重要的错误：忘记除以 2",
+      "在等底等高条件下，错误认为三角形面积等于平行四边形面积"
+    ],
+    "tips": "求底或求高时，记得先用面积乘以 2，再除以已知的底或高。"
+  }
+}

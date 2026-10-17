@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8up-u2-kp1",
+  "title": "光的直线传播与反射",
+  "bookId": "physics-g8up",
+  "unitNumber": 2,
+  "unitTitle": "光现象",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的直线传播与反射",
+      "question": "下列现象由光的直线传播形成的是（　）",
+      "options": [
+        "影子的形成",
+        "彩虹",
+        "平面镜成像",
+        "海市蜃楼"
+      ],
+      "answer": "影子的形成",
+      "explanation": "光沿直线传播被遮挡形成影子。"
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光的直线传播与反射",
+      "question": "入射角为 30°，反射角为 ___°。",
+      "options": [],
+      "answer": "30",
+      "explanation": "反射角等于入射角。"
+    }
+  ],
+  "knowledge": {
+    "point": "光的直线传播与反射",
+    "core_concept": "光在同种均匀介质中沿直线传播。反射定律：反射光线、入射光线、法线在同一平面内，反射光线与入射光线分居法线两侧，反射角等于入射角。",
+    "key_formula": "反射角 = 入射角",
+    "common_mistakes": [
+      "把入射角当作与镜面的夹角。"
+    ],
+    "tips": "角一律与法线比较。"
+  }
+}

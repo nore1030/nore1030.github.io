@@ -1,0 +1,66 @@
+{
+  "id": "physics-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "physics-g8up",
+  "unitNumber": 2,
+  "unitTitle": "光现象",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "光的直线传播与反射",
+      "question": "光线与镜面夹角为 40°，则反射角是多少度？",
+      "options": [],
+      "answer": "50",
+      "explanation": "入射角 $=90°-40°=50°$，反射角为 50°。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平面镜成像",
+      "question": "人向平面镜靠近时，像的大小（　）",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "先大后小"
+      ],
+      "answer": "不变",
+      "explanation": "像与物始终等大。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "光的直线传播与反射",
+      "question": "反射光线、入射光线和法线在同一平面内。",
+      "options": [],
+      "answer": "对",
+      "explanation": "反射定律。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "光的折射",
+      "question": "下列属于光的折射现象的是（　）",
+      "options": [
+        "水中筷子看起来弯折",
+        "水中倒影",
+        "影子",
+        "小孔成像"
+      ],
+      "answer": "水中筷子看起来弯折",
+      "explanation": "折射造成视觉偏折。"
+    }
+  ],
+  "knowledge": null
+}

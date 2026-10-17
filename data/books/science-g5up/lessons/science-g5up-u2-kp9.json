@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u2-kp9",
+  "title": "植物对侵蚀的影响",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "植物对侵蚀的影响",
+      "question": "在土地上覆盖植物能有效减少雨水对土壤的侵蚀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "植物根系可以固着土壤，叶片能缓冲雨雨滴的冲击力。"
+    }
+  ],
+  "knowledge": null
+}

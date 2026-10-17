@@ -1,0 +1,23 @@
+{
+  "id": "science-g3down-u3-kp19",
+  "title": "地球历史",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 13,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球历史",
+      "question": "麦哲伦船队环球航行用了（）年时间，证明了地球是球形的。",
+      "options": [],
+      "answer": "3",
+      "explanation": "1519-1522年期间，麦哲伦船队历经3年完成环球航行。"
+    }
+  ],
+  "knowledge": null
+}

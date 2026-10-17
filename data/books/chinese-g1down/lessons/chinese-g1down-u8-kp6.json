@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u8-kp6",
+  "title": "短文理解",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 5,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短文理解",
+      "question": "早晨，红红的太阳从东方升起。这句话描写的是什么时候？",
+      "options": [
+        "中午",
+        "晚上",
+        "早晨",
+        "下午"
+      ],
+      "answer": "早晨",
+      "explanation": "题干明确提到了“早晨”。"
+    }
+  ],
+  "knowledge": null
+}

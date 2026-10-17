@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g9up-u2-kp1",
+  "title": "被动语态复习",
+  "bookId": "english-renjiao-g9up",
+  "unitNumber": 2,
+  "unitTitle": "被动语态与情态动词",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "被动语态复习",
+      "question": "The bridge ___ last year.",
+      "options": [
+        "built",
+        "was built",
+        "is built",
+        "will be built"
+      ],
+      "answer": "was built",
+      "explanation": "last year 用过去时被动。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "被动语态复习",
+      "question": "被动语态中 be 动词的时态随主语和时态变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be 的时态变化。"
+    }
+  ],
+  "knowledge": {
+    "point": "被动语态复习",
+    "core_concept": "被动语态由 be + 过去分词构成，be 的时态由主语和时态决定，情态动词后加 be + 过去分词。",
+    "key_formula": "be + 过去分词",
+    "common_mistakes": [
+      "be 的时态选错。"
+    ],
+    "tips": "先定被动再定时态。"
+  }
+}

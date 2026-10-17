@@ -1,0 +1,42 @@
+{
+  "id": "g9up-u1-kp2",
+  "title": "根的判别式与根与系数关系",
+  "bookId": "g9up",
+  "unitNumber": 1,
+  "unitTitle": "一元二次方程",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "根的判别式与根与系数关系",
+      "question": "方程 $x^2-4x+4=0$ 的根的情况是？请填“两不等”“两相等”或“无实根”",
+      "options": [],
+      "answer": "两相等",
+      "explanation": "$\\Delta=16-16=0$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "根的判别式与根与系数关系",
+      "question": "方程 $x^2-5x+6=0$ 的两根之和是多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$x_1+x_2=-\\frac{-5}{1}=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "根的判别式与根与系数关系",
+    "core_concept": "$\\Delta=b^2-4ac>0$ 有两个不等实根，$=0$ 有两个相等实根，$<0$ 无实根。$x_1+x_2=-\\frac ba$，$x_1x_2=\\frac ca$。",
+    "key_formula": "$\\Delta=b^2-4ac$",
+    "common_mistakes": [
+      "$Delta=0$ 说成没有根。"
+    ],
+    "tips": "先算 $\\Delta$ 再判断。"
+  }
+}

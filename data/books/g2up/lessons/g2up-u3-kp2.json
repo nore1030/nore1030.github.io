@@ -1,0 +1,145 @@
+{
+  "id": "g2up-u3-kp2",
+  "title": "直角、锐角、钝角的辨析",
+  "bookId": "g2up",
+  "unitNumber": 3,
+  "unitTitle": "角的初步认识",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "所有的直角都一样大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "直角的大小是固定的，都是九十度。无论在三角尺上还是在黑板上，所有的直角都完全相等。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "钝角比直角小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据定义，锐角小于直角，钝角大于直角。所以钝角应该比直角大。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "三角尺上最大的那个角是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "平角"
+      ],
+      "answer": "直角",
+      "explanation": "常用的三角尺有两个锐角和一个直角，其中直角是最大的。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "红领巾上有两个角是一样大的，这两个角是什么角？",
+      "options": [
+        "钝角",
+        "直角",
+        "锐角",
+        "无法确定"
+      ],
+      "answer": "锐角",
+      "explanation": "红领巾是一个钝角三角形，包含一个钝角和两个相等的锐角。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "我们使用的数学课本的封面四个角都是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "不确定"
+      ],
+      "answer": "直角",
+      "explanation": "数学书封面是长方形，长方形的四个角都是直角。可以用三角尺的直角去比一下。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "比直角大的角叫什么角？",
+      "options": [
+        "锐角",
+        "钝角",
+        "直角",
+        "以上都不是"
+      ],
+      "answer": "钝角",
+      "explanation": "根据角的分类：小于直角的叫锐角，大于直角的叫钝角（在180度以内）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "下列哪个角度的说法是正确的？",
+      "options": [
+        "锐角 > 直角",
+        "钝角 < 直角",
+        "锐角 < 钝角",
+        "直角 > 钝角"
+      ],
+      "answer": "锐角 < 钝角",
+      "explanation": "锐角 < 直角 < 钝角。所以锐角一定小于钝角。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "一个长方形被剪去一个角后，最多还剩 ___ 个角。",
+      "options": [],
+      "answer": "5",
+      "explanation": "当斜着剪去一个角且不过任何顶点时，会多出两个新顶点。$4 - 1 + 2 = 5$。验算：画图可知，剩下的形状是五边形，有5个角。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "直角、锐角、钝角的辨析",
+      "question": "计算：$180 - 90 = ?$",
+      "options": [],
+      "answer": "90",
+      "explanation": "$180 - 90 = 90$。验算：$90 + 90 = 180$ ✓。这代表两个直角和起来是一个平角。"
+    }
+  ],
+  "knowledge": {
+    "point": "直角、锐角、钝角的辨析",
+    "core_concept": "直角是角里的“标准大个子”，三角尺上最大的那个角就是直角。比直角小的（开口更小的）叫锐角，它看起来很尖锐；比直角大的（开口更大的）叫钝角，它看起来很笨笨的。我们可以用三角尺上的直角作为尺子去比一比。",
+    "key_formula": "锐角 < 直角 < 钝角",
+    "common_mistakes": [
+      "区分不清锐角和钝角，名字记反",
+      "不用三角尺测量，仅凭眼睛看近似直角的角"
+    ],
+    "tips": "随身带个纸折的直角，不管是书本角还是桌子角，比一比就知道是什么角啦！"
+  }
+}

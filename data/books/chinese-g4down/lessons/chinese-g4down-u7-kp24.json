@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u7-kp24",
+  "title": "古诗情境对应",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗情境对应",
+      "question": "将古诗名句与所表达的志趣连接起来：",
+      "options": [
+        "一片冰心在玉壶",
+        "只留清气满乾坤",
+        "烈火焚烧若等闲",
+        "大雪满弓刀",
+        "高洁的操守",
+        "清廉的人格",
+        "英勇的杀敌",
+        "坚定的意志"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "玉壶冰心对应清廉；清气满乾坤对应高洁；烈火焚烧对应坚定；弓刀对应杀敌志。"
+    }
+  ],
+  "knowledge": null
+}

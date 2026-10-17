@@ -1,0 +1,52 @@
+{
+  "id": "chinese-g10up-u1-kp1",
+  "title": "论述类文本阅读",
+  "bookId": "chinese-g10up",
+  "unitNumber": 1,
+  "unitTitle": "现代文阅读",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "论述类文本阅读",
+      "question": "论述类文本中，用来支撑论点的材料叫（　）",
+      "options": [
+        "论点",
+        "论据",
+        "论证",
+        "结论"
+      ],
+      "answer": "论据",
+      "explanation": "论据支撑论点。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "论述类文本阅读",
+      "question": "“举例论证”的作用是（　）",
+      "options": [
+        "使论证具体有力",
+        "使语言生动",
+        "抒发情感",
+        "交代背景"
+      ],
+      "answer": "使论证具体有力",
+      "explanation": "举例使论证具体。"
+    }
+  ],
+  "knowledge": {
+    "point": "论述类文本阅读",
+    "core_concept": "论述类文本要梳理论点与论据的关系，辨析论证方法（举例、引用、对比、比喻论证）。答题要回到原文定位比对。",
+    "key_formula": "论点 + 论据 + 论证",
+    "common_mistakes": [
+      "脱离原文凭印象作答。"
+    ],
+    "tips": "选项与原文逐句比对。"
+  }
+}

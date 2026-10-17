@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1up-u8-kp6",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 5,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“红红的苹果像灯笼一样挂在树上。”这句话运用了：",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "疑问"
+      ],
+      "answer": "比喻",
+      "explanation": "把苹果比作灯笼，用了“像……一样”的比喻词。"
+    }
+  ],
+  "knowledge": null
+}

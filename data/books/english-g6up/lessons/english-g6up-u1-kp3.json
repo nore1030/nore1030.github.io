@@ -1,0 +1,87 @@
+{
+  "id": "english-g6up-u1-kp3",
+  "title": "询问地点与路线的句型",
+  "bookId": "english-g6up",
+  "unitNumber": 1,
+  "unitTitle": "How can I get there?",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问地点与路线的句型",
+      "question": "询问 '书店在哪？' 可以说 'Where is the bookstore?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "Where is the... 是询问地点位置的标准句型。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问地点与路线的句型",
+      "question": "______ is the science museum?",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "When"
+      ],
+      "answer": "Where",
+      "explanation": "询问地点位置用疑问词 Where。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问地点与路线的句型",
+      "question": "How ______ I get to the museum?",
+      "options": [
+        "am",
+        "does",
+        "do",
+        "can"
+      ],
+      "answer": "can",
+      "explanation": "How can I get there? 是询问路线的标准句型。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问地点与路线的句型",
+      "question": "Is there a cinema near here? Yes, ______.",
+      "options": [
+        "there is",
+        "it is",
+        "this is",
+        "there are"
+      ],
+      "answer": "there is",
+      "explanation": "Is there 引导的一般疑问句，肯定回答用 Yes, there is。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问地点与路线的句型",
+      "question": "Arrange the words to make a sentence.",
+      "options": [
+        "is",
+        "Where",
+        "museum",
+        "the"
+      ],
+      "answer": "Where,is,the,museum",
+      "explanation": "疑问词+系动词+地点，询问博物馆在哪。"
+    }
+  ],
+  "knowledge": null
+}

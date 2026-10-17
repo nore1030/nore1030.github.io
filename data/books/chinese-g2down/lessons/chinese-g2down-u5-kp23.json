@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2down-u5-kp23",
+  "title": "成语搭配",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语搭配",
+      "question": "请将身体部位与合适的动作连线。",
+      "options": [
+        "眼睛",
+        "耳朵",
+        "双腿",
+        "嘴巴",
+        "听讲",
+        "飞奔",
+        "说话",
+        "注视"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "常规器官功能配对。"
+    }
+  ],
+  "knowledge": null
+}

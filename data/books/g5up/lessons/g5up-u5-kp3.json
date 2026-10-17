@@ -1,0 +1,113 @@
+{
+  "id": "g5up-u5-kp3",
+  "title": "解简易方程",
+  "bookId": "g5up",
+  "unitNumber": 5,
+  "unitTitle": "简易方程",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "解简易方程",
+      "question": "$x = 3$ 是方程 $5x = 15$ 的解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "代入验算：当 $x = 3$ 时，左边 $= 5 \\times 3 = 15$，左边 $=$ 右边，所以是方程的解。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "方程 $x - 12 = 30$ 的解是（    ）。",
+      "options": [
+        "x=18",
+        "x=42",
+        "x=360",
+        "x=2.5"
+      ],
+      "answer": "x=42",
+      "explanation": "解法：$x = 30 + 12 = 42$。验算：$42 - 12 = 30$，正确。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "解方程 $2x + 10 = 50$ 时，第一步通常是（    ）。",
+      "options": [
+        "等式两边同时除以2",
+        "等式两边同时减去10",
+        "等式两边同时加上10",
+        "等式两边同时乘以2"
+      ],
+      "answer": "等式两边同时减去10",
+      "explanation": "根据等式性质，先处理加法，两边同时减去10得到 $2x = 40$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "已知 $3x + 4 = 19$，那么 $x$ 等于（    ）。",
+      "options": [
+        "5",
+        "15",
+        "x=5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "$3x = 19 - 4 = 15$，则 $x = 15 \\div 3 = 5$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "解简易方程",
+      "question": "方程 $x \\div 4 = 25$ 的解是 $x =$ ___。",
+      "options": [],
+      "answer": "100",
+      "explanation": "$x = 25 \\times 4 = 100$。验算：$100 \\div 4 = 25$。结果为 100。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "解简易方程",
+      "question": "计算方程的解：$x + 125 = 300, x = ?$",
+      "options": [],
+      "answer": "175",
+      "explanation": "$x = 300 - 125 = 175$。验算：$175 + 125 = 300$。结果正确。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解简易方程",
+      "question": "计算方程的解：$6x - 4x = 48, x = ?$",
+      "options": [],
+      "answer": "24",
+      "explanation": "合并同类项：$(6-4)x = 48$，即 $2x = 48$。解得 $x = 48 \\div 2 = 24$。验算：$6 \\times 24 - 4 \\times 24 = 144 - 96 = 48$。结果正确。"
+    }
+  ],
+  "knowledge": {
+    "point": "解简易方程",
+    "core_concept": "求方程的解的过程叫做解方程。解方程的主要根据是等式的基本性质。在解方程时，通常先处理括号外的加减法，再处理乘除法，最后求出未知数的值。求得的结果必须代入原方程验算。",
+    "key_formula": "$x + a = b \\Rightarrow x = b - a, ax = b \\Rightarrow x = b \\div a$",
+    "common_mistakes": [
+      "解方程写完后不写“解：”字",
+      "计算过程中等号没有对齐"
+    ],
+    "tips": "解方程要注意“格式”，左边写个“解”，每步等号要对齐，最后验算保满分。"
+  }
+}

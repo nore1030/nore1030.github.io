@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp18",
+  "title": "综合描述",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合描述",
+      "question": "My father is very ______. He helps many people.",
+      "options": [
+        "strong",
+        "quiet",
+        "friendly",
+        "thin"
+      ],
+      "answer": "friendly",
+      "explanation": "根据“帮助很多人”推测性格是友好的friendly。"
+    }
+  ],
+  "knowledge": null
+}

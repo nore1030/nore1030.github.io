@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp11",
+  "title": "连词用法",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 7,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "连词用法",
+      "question": "____ comes after 'Then' in a story sequence?",
+      "options": [
+        "Before",
+        "Yesterday",
+        "After that",
+        "In the morning"
+      ],
+      "answer": "After that",
+      "explanation": "在叙事逻辑中，Then之后常用After that衔接。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp17",
+  "title": "动物的多样性",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 10,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物的多样性",
+      "question": "蚂蚁有几条腿？",
+      "options": [
+        "2条",
+        "4条",
+        "6条",
+        "8条"
+      ],
+      "answer": "6条",
+      "explanation": "蚂蚁属于昆虫，其典型特征之一是有三对足（共6条）。"
+    }
+  ],
+  "knowledge": null
+}

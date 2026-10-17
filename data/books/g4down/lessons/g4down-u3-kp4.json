@@ -1,0 +1,102 @@
+{
+  "id": "g4down-u3-kp4",
+  "title": "乘法分配律及其逆运算",
+  "bookId": "g4down",
+  "unitNumber": 3,
+  "unitTitle": "运算定律",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "$a \\times (b + c) = a \\times b + a \\times c$",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是乘法分配律的标准公式。验算：若$a=2, b=3, c=4$，则$2 \\times (3+4)=14, 2 \\times 3 + 2 \\times 4=14$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "下面各组算式中，得数相等的一组是：",
+      "options": [
+        "$25 \\times (4 + 8)$ 和 $25 \\times 4 + 8$",
+        "$45 \\times 101$ 和 $45 \\times 100 + 1$",
+        "$12 \\times 97 + 12 \\times 3$ 和 $12 \\times (97 + 3)$",
+        "$（32 + 8）\\times 5$ 和 $32 \\times 5 + 8$"
+      ],
+      "answer": "$12 \\times 97 + 12 \\times 3$ 和 $12 \\times (97 + 3)$",
+      "explanation": "符合乘法分配律的逆运算：$a \\times b + a \\times c = a \\times (b + c)$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "下列哪个算式可以简算为 $25 \\times 100 + 25 \\times 4$？",
+      "options": [
+        "$25 \\times 104$",
+        "$125 \\times 100$",
+        "$25 \\times 140$",
+        "$25 \\times 400$"
+      ],
+      "answer": "$25 \\times 104$",
+      "explanation": "$25 \\times 104 = 25 \\times (100 + 4) = 25 \\times 100 + 25 \\times 4$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "$99 \\times 66 + 66$ 与下列哪个算式相等？",
+      "options": [
+        "$100 \\times 66$",
+        "$99 \\times 67$",
+        "$99 \\times (66 + 1)$",
+        "$98 \\times 66$"
+      ],
+      "answer": "$100 \\times 66$",
+      "explanation": "$99 \\times 66 + 66 = 99 \\times 66 + 66 \\times 1 = (99 + 1) \\times 66 = 100 \\times 66$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "每套校服 102 元，学校买 45 套，一共需要 ___ 元。",
+      "options": [],
+      "answer": "4590",
+      "explanation": "$102 \\times 45 = (100 + 2) \\times 45 = 100 \\times 45 + 2 \\times 45 = 4500 + 90 = 4590$。验算：$4590 \\div 45 = 102$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法分配律及其逆运算",
+      "question": "计算 $35 \\times 18 + 35 \\times 82$ 的值是 ___。",
+      "options": [],
+      "answer": "3500",
+      "explanation": "$35 \\times (18 + 82) = 35 \\times 100 = 3500$。验算：$35 \\times 18 = 630, 35 \\times 82 = 2870, 630 + 2870 = 3500$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘法分配律及其逆运算",
+    "core_concept": "两个数的和与一个数相乘，可以先把它们分别与这个数相乘，再相加。这是运算定律中的难点。逆运算则是提取相同的因数，将剩下的数相加再相乘，即“提取公因数”。",
+    "key_formula": "$(a + b) \\times c = a \\times c + b \\times c$",
+    "common_mistakes": [
+      "分配时漏掉括号里的某一项。如 $(100 + 1) \\times 45$ 错写成 $100 \\times 45 + 1$。",
+      "逆运算时提取公因数后忽略了系数为1的情况。如 $99 \\times 36 + 36$ 忘记写成 $36 \\times (99 + 1)$。"
+    ],
+    "tips": "分配律像发糖果：括号外的数字要发给括号里每一个数字，不能偏心只发第一个。"
+  }
+}

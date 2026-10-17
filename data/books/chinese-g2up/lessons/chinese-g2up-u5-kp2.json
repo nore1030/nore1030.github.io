@@ -1,0 +1,95 @@
+{
+  "id": "chinese-g2up-u5-kp2",
+  "title": "颜色词的精细修饰",
+  "bookId": "chinese-g2up",
+  "unitNumber": 5,
+  "unitTitle": "思维方法",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词的精细修饰",
+      "question": "“雪白”的意思是像雪一样白。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“雪白”是用事物“雪”来形容颜色的白，表示非常白。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词的精细修饰",
+      "question": "下列哪种颜色是用来描写秋天成熟的稻田的？",
+      "options": [
+        "碧绿",
+        "金黄",
+        "火红",
+        "雪白"
+      ],
+      "answer": "金黄",
+      "explanation": "稻子成熟了像金子一样的颜色，故用金黄。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词的精细修饰",
+      "question": "“苹果穿上了（  ）的红袄。”括号里填哪个词最形象？",
+      "options": [
+        "一团",
+        "火红",
+        "土黄",
+        "翠绿"
+      ],
+      "answer": "火红",
+      "explanation": "火红能形象地表现苹果透红的色泽。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词的精细修饰",
+      "question": "像雪一样白叫雪白，像火一样红叫（  ）。",
+      "options": [],
+      "answer": "火红",
+      "explanation": "考察仿写ABB式颜色词（或具象颜色词）。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词的精细修饰",
+      "question": "请将物品与对应的颜色修饰语连线。",
+      "options": [
+        "大树",
+        "天空",
+        "大地",
+        "棉花",
+        "碧绿",
+        "蔚蓝",
+        "土黄",
+        "雪白"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查事物与其常见特征颜色的对应。"
+    }
+  ],
+  "knowledge": {
+    "point": "颜色词的精细修饰",
+    "core_concept": "在基础颜色词前加上特定的事物，可以使颜色表达得更具体、形象。如“白”可以分为雪白、奶白、米白等。这种表达方式能增强语言的画面感。",
+    "key_formula": "事物名词 + 基础颜色词 = 具象颜色词",
+    "common_mistakes": [
+      "事物与颜色搭配不当，如“火绿”。",
+      "书写“蔚蓝”等复杂字词时容易丢笔画。"
+    ],
+    "tips": "平时多观察大自然，尝试用身边的东西来形容看到的颜色。"
+  }
+}

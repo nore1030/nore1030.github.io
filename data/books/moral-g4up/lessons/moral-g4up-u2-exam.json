@@ -1,0 +1,66 @@
+{
+  "id": "moral-g4up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g4up",
+  "unitNumber": 2,
+  "unitTitle": "信息与传媒",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "正确使用网络",
+      "question": "长时间上网玩游戏会影响（　）",
+      "options": [
+        "视力和学习",
+        "身高",
+        "听力",
+        "食欲"
+      ],
+      "answer": "视力和学习",
+      "explanation": "沉迷网游伤眼误学。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "辨别信息真伪",
+      "question": "遇到可疑信息可以向家长老师求证。",
+      "options": [],
+      "answer": "对",
+      "explanation": "求证可靠的人。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "辨别信息真伪",
+      "question": "判断网络信息真假，可靠的办法是（　）",
+      "options": [
+        "看点赞多不多",
+        "查权威来源多方验证",
+        "看标题吓不吓人",
+        "听同学说"
+      ],
+      "answer": "查权威来源多方验证",
+      "explanation": "权威来源更可靠。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "正确使用网络",
+      "question": "网上交友要谨慎。",
+      "options": [],
+      "answer": "对",
+      "explanation": "网络交友需谨慎。"
+    }
+  ],
+  "knowledge": null
+}

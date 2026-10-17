@@ -1,0 +1,66 @@
+{
+  "id": "moral-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g7up",
+  "unitNumber": 1,
+  "unitTitle": "成长的节拍",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "梦想与学习",
+      "question": "学习是苦乐交织的过程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "学习有苦也有乐。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "友谊与师生交往",
+      "question": "朋友请你帮忙隐瞒违纪行为，你的正确做法是（　）",
+      "options": [
+        "答应朋友",
+        "拒绝并劝其认错",
+        "告诉所有人",
+        "一起隐瞒"
+      ],
+      "answer": "拒绝并劝其认错",
+      "explanation": "友谊不能没有原则。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中学时代与自我认识",
+      "question": "正确认识自己应该（　）",
+      "options": [
+        "只看优点",
+        "只看缺点",
+        "用发展的眼光看自己",
+        "只在意他人评价"
+      ],
+      "answer": "用发展的眼光看自己",
+      "explanation": "发展地看待自己。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "梦想与学习",
+      "question": "少年的梦想与中国梦紧密相连。",
+      "options": [],
+      "answer": "对",
+      "explanation": "个人梦想与国家梦想相连。"
+    }
+  ],
+  "knowledge": null
+}

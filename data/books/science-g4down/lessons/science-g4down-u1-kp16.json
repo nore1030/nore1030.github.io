@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp16",
+  "title": "果实的发育",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "果实的发育",
+      "question": "凤仙花的果实是由（）发育而来的。",
+      "options": [
+        "花瓣",
+        "雄蕊",
+        "子房",
+        "花药"
+      ],
+      "answer": "子房",
+      "explanation": "受精完成后，花瓣、雄蕊枯萎，雌蕊的子房发育成果实。"
+    }
+  ],
+  "knowledge": null
+}

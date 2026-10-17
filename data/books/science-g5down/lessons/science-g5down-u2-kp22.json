@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp22",
+  "title": "潜艇原理",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 16,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "潜艇原理",
+      "question": "潜水艇是通过改变什么来实现上浮和下沉的？",
+      "options": [
+        "改变自身重力",
+        "改变水的密度",
+        "改变自身形状",
+        "改变水的浮力"
+      ],
+      "answer": "改变自身重力",
+      "explanation": "潜艇通过压载舱充水或排水改变自身重力，从而实现起伏。"
+    }
+  ],
+  "knowledge": null
+}

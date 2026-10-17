@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp18",
+  "title": "保温杯设计",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 12,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "保温杯设计",
+      "question": "保温杯杯盖通常是塑料材质，因为塑料是（）。",
+      "options": [
+        "热的良导体",
+        "热的不良导体",
+        "极其坚固的材料",
+        "能产生热量的材料"
+      ],
+      "answer": "热的不良导体",
+      "explanation": "塑料可以减缓杯子热量向上方的自然对流和传导散失。"
+    }
+  ],
+  "knowledge": null
+}

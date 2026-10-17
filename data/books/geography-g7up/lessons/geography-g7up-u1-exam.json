@@ -1,0 +1,71 @@
+{
+  "id": "geography-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "geography-g7up",
+  "unitNumber": 1,
+  "unitTitle": "地球和地图",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "地球与经纬网",
+      "question": "下列地点位于东半球的是（　）",
+      "options": [
+        "10°W",
+        "30°W",
+        "170°E",
+        "180°"
+      ],
+      "answer": "10°W",
+      "explanation": "20°W 以东为东半球。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地图三要素与等高线地形图",
+      "question": "地图上表示“山峰”的图例符号是（　）",
+      "options": [
+        "▲",
+        "○",
+        "■",
+        "△±"
+      ],
+      "answer": "▲",
+      "explanation": "三角形表示山峰。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "地图三要素与等高线地形图",
+      "question": "比例尺越大，表示的范围越小、内容越详细。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比例尺与详略关系。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球与经纬网",
+      "question": "地球自转的方向是（　）",
+      "options": [
+        "自西向东",
+        "自东向西",
+        "自南向北",
+        "自北向南"
+      ],
+      "answer": "自西向东",
+      "explanation": "自转方向自西向东。"
+    }
+  ],
+  "knowledge": null
+}

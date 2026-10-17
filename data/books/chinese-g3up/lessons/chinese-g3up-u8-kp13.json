@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u8-kp13",
+  "title": "句子理解",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子理解",
+      "question": "《手术台就是阵地》中，白求恩说“我不是客气，这是我的首要职责”，其意思是：",
+      "options": [
+        "他在做客，不需要客气",
+        "拯救生命是医生的天职，必须坚守",
+        "他觉得这里的环境很好",
+        "他想早点结束工作"
+      ],
+      "answer": "拯救生命是医生的天职，必须坚守",
+      "explanation": "白求恩把手术台比作阵地，体现了他对工作的极度负责。"
+    }
+  ],
+  "knowledge": null
+}

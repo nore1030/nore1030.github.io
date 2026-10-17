@@ -1,0 +1,70 @@
+{
+  "id": "chinese-g1down-u4-kp2",
+  "title": "方位点画书写规则",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 1,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方位点画书写规则",
+      "question": "“我”字的最后一笔是“点”，这个点在右上方向，所以应该最后写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据笔顺规则，点在右上或字里时，通常后写。“我”字末笔是右上角的点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方位点画书写规则",
+      "question": "“主”字的第一笔是点，因为点在正上方，所以要先写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "点在正上方或左上方时，通常先写。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "方位点画书写规则",
+      "question": "下列汉字中，最后一笔是“点”的是：",
+      "options": [
+        "门",
+        "书",
+        "主",
+        "方"
+      ],
+      "answer": "书",
+      "explanation": "“书”字的末笔是右上角的点；“门”和“主”的首笔是点，“方”的末笔是撇。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "方位点画书写规则",
+      "question": "“成”字右上角的“点”应该第几笔写？（用汉字填）",
+      "options": [],
+      "answer": "六",
+      "explanation": "“成”字笔顺：横、撇、横折钩、斜钩、撇、点。末笔是点。"
+    }
+  ],
+  "knowledge": {
+    "point": "方位点画书写规则",
+    "core_concept": "汉字中的“点”位置不同，书写顺序也不同。当点在字的正上方（如“主”、“方”）或左上方（如“门”）时，先写点；当点在字的右上方（如“我”、“书”、“成”）或字里时，通常放在最后写。",
+    "key_formula": "点在左上先，点在右上后。",
+    "common_mistakes": [
+      "写“我”字时先点再写提",
+      "写“门”字时先写左竖再点"
+    ],
+    "tips": "记口诀“上左先点，右上后点”，写字时可以用红笔标出点，提醒自己顺序。"
+  }
+}

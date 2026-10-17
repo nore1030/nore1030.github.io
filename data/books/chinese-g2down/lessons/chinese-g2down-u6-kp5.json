@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp5",
+  "title": "字义理解",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 4,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字义理解",
+      "question": "《要是你在野外迷了路》中，“天然的指南针”指的是什么？",
+      "options": [
+        "人工罗盘",
+        "大自然的导航事物",
+        "路标",
+        "老爷爷"
+      ],
+      "answer": "大自然的导航事物",
+      "explanation": "文中介绍的是太阳、北极星等大自然的事物。"
+    }
+  ],
+  "knowledge": null
+}

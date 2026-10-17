@@ -1,0 +1,28 @@
+{
+  "id": "english-g3down-u4-kp14",
+  "title": "介词辨析",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 10,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词辨析",
+      "question": "Put your foot ___ your chair.",
+      "options": [
+        "under",
+        "to",
+        "at",
+        "by"
+      ],
+      "answer": "under",
+      "explanation": "PEP教材Let's do部分指令：Put your foot under your chair."
+    }
+  ],
+  "knowledge": null
+}

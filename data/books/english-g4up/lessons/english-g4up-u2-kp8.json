@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u2-kp8",
+  "title": "方位介词",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "方位介词",
+      "question": "'under the desk' 表示在课桌里面。",
+      "options": [],
+      "answer": "错",
+      "explanation": "under表示在...下面，在里面应该用in。"
+    }
+  ],
+  "knowledge": null
+}

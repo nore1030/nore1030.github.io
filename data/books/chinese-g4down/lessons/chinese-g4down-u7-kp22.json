@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u7-kp22",
+  "title": "人物与品质对应",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人物与品质对应",
+      "question": "将下列人物与其对应的优秀品质连接起来：",
+      "options": [
+        "黄继光",
+        "哈尔威船长",
+        "王冕",
+        "王昌龄",
+        "忠于职守",
+        "视死如归",
+        "坚守清操",
+        "不改冰心"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "黄继光视死如归；哈尔威船长忠于职守；王冕写墨梅坚守清操；王昌龄诗中表露不改冰心。"
+    }
+  ],
+  "knowledge": null
+}

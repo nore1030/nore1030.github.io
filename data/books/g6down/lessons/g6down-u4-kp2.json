@@ -1,0 +1,80 @@
+{
+  "id": "g6down-u4-kp2",
+  "title": "正比例与反比例的判断",
+  "bookId": "g6down",
+  "unitNumber": 4,
+  "unitTitle": "比例",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "正比例与反比例的判断",
+      "question": "圆的周长和它的直径成正比例关系。",
+      "options": [],
+      "answer": "对",
+      "explanation": "圆的周长公式为 $C = \text{π}d$，即 $C \times d = \text{π}$（一定）。比值一定，符合正比例定义。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "正比例与反比例的判断",
+      "question": "三角形的面积一定，它的底和高成什么关系？",
+      "options": [
+        "正比例",
+        "反比例",
+        "不成比例",
+        "无法确定"
+      ],
+      "answer": "反比例",
+      "explanation": "$\text{底} \times \text{高} \times 2 = \text{面积}$（一定），得出 $\text{底} \times \text{高} = \text{面积} \times 2$（一定），乘积一定成反比例。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "正比例与反比例的判断",
+      "question": "下面哪个量与全班人数成正比例？",
+      "options": [
+        "出勤人数和缺勤人数",
+        "已读页数和未读页数",
+        "男生人数和女生人数",
+        "都不成比例"
+      ],
+      "answer": "都不成比例",
+      "explanation": "这些关系的共同点是“和”一定，而不是“比值”或“乘积”一定。和一定不成比例。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "正比例与反比例的判断",
+      "question": "比例尺一定，图上距离和实际距离成什么关系？",
+      "options": [
+        "正比例",
+        "反比例",
+        "不成比例",
+        "无法确定"
+      ],
+      "answer": "正比例",
+      "explanation": "$\text{图上距离} \times \text{实际距离} = \text{比例尺}$（一定），比值一定成正比例。"
+    }
+  ],
+  "knowledge": {
+    "point": "正比例与反比例的判断",
+    "core_concept": "两种相关联的量，比值一定时成正比例；乘积一定时成反比例。正比例图形是一条过原点的射线，反比例图形是双曲线。",
+    "key_formula": "$\frac{y}{x}=k(\text{正}), xy=k(\text{反})$",
+    "common_mistakes": [
+      "误以为“一个量增加，另一个量也增加”就是正比例（如年龄和身高）",
+      "把“和一定”的关系误判为反比例"
+    ],
+    "tips": "先写出关系式，看是商一定还是积一定。商定正，积定反。"
+  }
+}

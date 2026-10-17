@@ -1,0 +1,217 @@
+{
+  "id": "g2up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g2up",
+  "unitNumber": 2,
+  "unitTitle": "100以内的加法和减法（二）",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "两个两位数相加，和可能是两位数，也可能是三位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "例如 $10+10=20$（两位），$50+60=110$（三位）。故正确。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "两位数减两位数（不退位与退位）",
+      "question": "$72 - 3\\square$ 的得数一定是三十多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "如果 $\\square$ 是 1，结果是 41（四十多）。故错误。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的加减混合运算",
+      "question": "$50 - (24 + 6)$ 和 $50 - 24 + 6$ 的结果相等。",
+      "options": [],
+      "answer": "错",
+      "explanation": "前者得 20，后者得 32。不相等。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "小明比小红高 5 厘米，就是小红比小明矮 5 厘米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者高度差是固定的，甲比乙多几，乙就比甲少几。正确。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数减两位数（不退位与退位）",
+      "question": "如果 $\\triangle + 25 = 62$，那么 $\\triangle$ 是（ ）。",
+      "options": [
+        "37",
+        "47",
+        "87",
+        "43"
+      ],
+      "answer": "37",
+      "explanation": "$\\triangle = 62 - 25 = 37$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "100 减去 35，再减去 25，结果是（ ）。",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "30"
+      ],
+      "answer": "40",
+      "explanation": "$100 - 35 - 25 = 100 - (35 + 25) = 100 - 60 = 40$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "含小括号的加减混合运算",
+      "question": "计算 $80 - (42 - 18)$ 时，第一步算（ ）。",
+      "options": [
+        "80 - 42",
+        "42 - 18",
+        "80 + 18",
+        "42 + 18"
+      ],
+      "answer": "42 - 18",
+      "explanation": "有小括号的要先算括号里面的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "最小的两位数与最大的两位数相差（ ）。",
+      "options": [
+        "89",
+        "90",
+        "99",
+        "10"
+      ],
+      "answer": "89",
+      "explanation": "最大的两位数是 99，最小的是 10。$99 - 10 = 89$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "图书角原来有 65 本书，借出 28 本，又还回 19 本。图书角现在有多少本书？",
+      "options": [
+        "37",
+        "46",
+        "56",
+        "74"
+      ],
+      "answer": "56",
+      "explanation": "$65 - 28 + 19 = 37 + 19 = 56$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "$48 + 32$ 的结果是（ ）。",
+      "options": [
+        "70",
+        "80",
+        "90",
+        "71"
+      ],
+      "answer": "80",
+      "explanation": "$48 + 32 = 80$。验算：$80 - 32 = 48$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题：求比一个数多（或少）几的数",
+      "question": "一辆 45 座的客车，已经坐了 24 人，还有几个空座位？",
+      "options": [
+        "21",
+        "11",
+        "69",
+        "31"
+      ],
+      "answer": "21",
+      "explanation": "总数减去已坐人数：$45 - 24 = 21$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "含小括号的加减混合运算",
+      "question": "下列算式中选项正确的结果是（ ）。 $100 - (34 + 26)$",
+      "options": [
+        "40",
+        "60",
+        "30",
+        "50"
+      ],
+      "answer": "40",
+      "explanation": "括号内 $34+26=60$，$100-60=40$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "两位数加两位数（不进位与进位）",
+      "question": "小明有 35 支铅笔，妈妈又买了 15 支，他现在有 ___ 支铅笔。",
+      "options": [],
+      "answer": "50",
+      "explanation": "$35 + 15 = 50$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "两位数减两位数（不退位与退位）",
+      "question": "一箱苹果 42 个，吃掉 25 个后，还剩 ___ 个。",
+      "options": [],
+      "answer": "17",
+      "explanation": "$42 - 25 = 17$。验算：$17 + 25 = 42$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "连加、连减与加减混合运算",
+      "question": "$25 + 36 + 18 = ?$",
+      "options": [],
+      "answer": "79",
+      "explanation": "$25 + 36 = 61$，$61 + 18 = 79$。"
+    }
+  ],
+  "knowledge": null
+}

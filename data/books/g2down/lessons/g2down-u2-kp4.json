@@ -1,0 +1,156 @@
+{
+  "id": "g2down-u2-kp4",
+  "title": "用2~6的乘法口诀求商",
+  "bookId": "g2down",
+  "unitNumber": 2,
+  "unitTitle": "表内除法（一）",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "计算 $8 \\div 2$ 和 $8 \\div 4$ 时，用的是同一句乘法口诀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$8 \\div 2 = 4$ 想：二四得八；$8 \\div 4 = 2$ 想：二四得八。口诀相同。验算正确。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "$20 \\div 4 = ?$",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "20"
+      ],
+      "answer": "5",
+      "explanation": "想：四（五）二十，所以商是5。验算：$5 \\times 4 = 20$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "根据口诀“三六十八”可以写出的除法算式是：",
+      "options": [
+        "$18 \\div 9 = 2$",
+        "$18 \\div 6 = 3$",
+        "$3 + 6 = 9$",
+        "$18 - 6 = 12$"
+      ],
+      "answer": "$18 \\div 6 = 3$",
+      "explanation": "三六十八对应的除法算式有 $18 \\div 3 = 6$ 和 $18 \\div 6 = 3$。选项中符合的是B。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "哪个算式的商最大？",
+      "options": [
+        "$6 \\div 3$",
+        "$10 \\div 2$",
+        "$12 \\div 4$",
+        "$8 \\div 4$"
+      ],
+      "answer": "$10 \\div 2$",
+      "explanation": "A=2, B=5, C=3, D=2。5最大，故选B。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "两棵树上共有12只鸟，如果从第一棵树飞2只到第二棵树，两棵树上的鸟就一样多。原来每棵树上有几只？（平均分的应用）",
+      "options": [
+        "6",
+        "5和7",
+        "4和8",
+        "3和9"
+      ],
+      "answer": "4和8",
+      "explanation": "一样多时每棵树有 $12 \\div 2 = 6$ 只。第一棵树给了2只后剩6只，原来是 $6 + 2 = 8$ 只；第二棵树收了2只后变6只，原来是 $6 - 2 = 4$ 只。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "小明有18个球，每3个装一盒，可以装几盒？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "21"
+      ],
+      "answer": "6",
+      "explanation": "列式：$18 \\div 3 = 6$。想：三（六）十八。验算：$6 \\times 3 = 18$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "教室里有12张课桌，每2张课桌拼成一个小组，一共可以拼成 ___ 个小组。",
+      "options": [],
+      "answer": "6",
+      "explanation": "列式：$12 \\div 2 = 6$。想：二（六）十二。验算：$6 \\times 2 = 12$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "一根绳子长16米，对折再对折，每段绳子长 ___ 米。",
+      "options": [],
+      "answer": "4",
+      "explanation": "对折一次是分成2段，对折两次是分成4段（$2 \\times 2 = 4$）。列式：$16 \\div 4 = 4$（米）。验算：$4 \\times 4 = 16$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "$24 \\div 6 = ?$",
+      "options": [],
+      "answer": "4",
+      "explanation": "想：四六二十四。计算得4。验算：$4 \\times 6 = 24$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用2~6的乘法口诀求商",
+      "question": "$30 \\div 6 = ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "想：五六三十。计算得5。验算：$5 \\times 6 = 30$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "用2~6的乘法口诀求商",
+    "core_concept": "利用乘法和除法的互逆关系。求商时，看除数和几相乘得被除数，就想哪句口诀。例如 $12 \\div 3$，想‘三（四）十二’，商就是4。",
+    "key_formula": "除数 $\\times$ 商 = 被除数",
+    "common_mistakes": [
+      "口诀记错或背得不熟导致看错行。",
+      "不知道该看哪个数来对口诀，比如 $15 \\div 5$ 却去背三的口诀。"
+    ],
+    "tips": "‘看除数，想口诀’是法宝。除数是几，就背几的口诀，非常快速高效。"
+  }
+}

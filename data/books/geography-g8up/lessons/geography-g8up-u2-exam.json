@@ -1,0 +1,66 @@
+{
+  "id": "geography-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "geography-g8up",
+  "unitNumber": 2,
+  "unitTitle": "中国的自然资源与经济发展",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中国的经济发展",
+      "question": "我国最大的综合性工业基地是（　）",
+      "options": [
+        "辽中南",
+        "京津唐",
+        "沪宁杭",
+        "珠三角"
+      ],
+      "answer": "沪宁杭",
+      "explanation": "沪宁杭工业基地规模最大。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "自然资源与土地利用",
+      "question": "我国耕地主要分布在（　）",
+      "options": [
+        "西部内陆",
+        "东部季风区",
+        "青藏高原",
+        "西北沙漠"
+      ],
+      "answer": "东部季风区",
+      "explanation": "耕地集中在东部季风区。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的经济发展",
+      "question": "京广线是连接北京与广州的南北向铁路干线。",
+      "options": [],
+      "answer": "对",
+      "explanation": "京广线南北向。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "自然资源与土地利用",
+      "question": "我国应坚持“十分珍惜、合理利用土地”的基本国策。",
+      "options": [],
+      "answer": "对",
+      "explanation": "土地基本国策。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "math-sujiao-g1up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 8,
+  "unitTitle": "10以内的加法和减法",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合",
+      "question": "2 + 3 + 4 = ？",
+      "options": [],
+      "answer": "9",
+      "explanation": "2 + 3 = 5，5 + 4 = 9。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合",
+      "question": "9 − 2 − 3 = ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "9 − 2 = 7，7 − 3 = 4。"
+    },
+    {
+      "id": 9,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合",
+      "question": "10 − 4 + 2 = ？",
+      "options": [],
+      "answer": "8",
+      "explanation": "10 − 4 = 6，6 + 2 = 8。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "连加、连减与加减混合",
+      "question": "两步式题按从左到右的顺序计算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "运算顺序。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "english-g4up-u1-kp4",
+  "title": "元音字母a在开音节中的发音",
+  "bookId": "english-g4up",
+  "unitNumber": 1,
+  "unitTitle": "My classroom",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "元音字母a在开音节中的发音",
+      "question": "单词 'face' 中字母 'a' 的发音与 'cat' 中的相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "face是开音节发/eɪ/，cat是闭音节发/æ/。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "元音字母a在开音节中的发音",
+      "question": "哪组单词字母 'a' 的发音是一样的？",
+      "options": [
+        "cake; dad",
+        "make; face",
+        "bag; name",
+        "cat; cake"
+      ],
+      "answer": "make; face",
+      "explanation": "make和face都是开音节结构，字母a发/eɪ/。"
+    }
+  ],
+  "knowledge": null
+}

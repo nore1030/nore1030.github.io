@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g6up-u2-kp19",
+  "title": "句式训练",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 17,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式训练",
+      "question": "将下列词语重新排列成描写英雄动作的句子。",
+      "options": [
+        "马宝玉",
+        "夺过",
+        "手榴弹",
+        "大步流星地",
+        "向山顶走去"
+      ],
+      "answer": "马宝玉,大步流星地,夺过,手榴弹,向山顶走去",
+      "explanation": "此句通过动作和神态词语，展现班长的英勇果敢。"
+    }
+  ],
+  "knowledge": null
+}

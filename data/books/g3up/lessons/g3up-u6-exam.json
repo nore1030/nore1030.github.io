@@ -1,0 +1,217 @@
+{
+  "id": "g3up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "g3up",
+  "unitNumber": 6,
+  "unitTitle": "多位数乘一位数",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "$200 \times 5$ 的积的末尾有 2 个 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$200 \times 5 = 1000$，积的末尾有 3 个 0。故原说法错误。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$0 + 1 + 2 + 3 + 4 + 5 < 0 \times 1 \times 2 \times 3 \times 4 \times 5$",
+      "options": [],
+      "answer": "错",
+      "explanation": "左边和为15，右边积为0，$15 > 0$，所以判断为错。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$350 \times 4$ 的积的末尾一共有 2 个 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$35 \times 4 = 140$，添上原有的一个0得1400，有两个0。正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "一个三位数乘 7，积可能是三位数，也可能是四位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$100 \times 7 = 700$（三位），$200 \times 7 = 1400$（四位）。正确。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "$435 \times 2$ 的结果是多少？",
+      "options": [
+        "860",
+        "870",
+        "810",
+        "437"
+      ],
+      "answer": "870",
+      "explanation": "$400 \times 2 = 800$，$35 \times 2 = 70$，$800 + 70 = 870$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "下面算式中，积最大的是哪个？",
+      "options": [
+        "201 \times 3",
+        "301 \times 2",
+        "199 \times 3",
+        "250 \times 2"
+      ],
+      "answer": "201 \times 3",
+      "explanation": "A=603, B=602, C=597, D=500。所以A最大。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "一辆自行车 398 元，买 5 辆这样的自行车，大约需要准备多少钱？",
+      "options": [
+        "1500 元",
+        "2000 元",
+        "2500 元",
+        "3000 元"
+      ],
+      "answer": "2000 元",
+      "explanation": "$398 \text{ ≈ } 400$，$400 \times 5 = 2000$（元）。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "某工厂 3 小时生产 120 个零件。照这样计算，生产 400 个零件需要多少小时？",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": "10",
+      "explanation": "单效率：$120 \text{  } / \text{  } 3 = 40$（个/小时）；所需时间：$400 \text{  } / \text{  } 40 = 10$（小时）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "计算 $400 \times 5$，可以看作 4 个（ ）乘 5。",
+      "options": [
+        "一",
+        "十",
+        "百",
+        "千"
+      ],
+      "answer": "百",
+      "explanation": "400即4个百。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "王老师带了 100 元，买了 8 个足球，每个 12 元。他还剩多少钱？",
+      "options": [
+        "4 元",
+        "14 元",
+        "96 元",
+        "2 元"
+      ],
+      "answer": "4 元",
+      "explanation": "总花费：$12 \times 8 = 96$（元）。剩余：$100 - 96 = 4$（元）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "乘法估算与归一问题解决",
+      "question": "小力 4 分钟跑了 400 米，小强 3 分钟跑了 330 米。谁跑得快？",
+      "options": [
+        "小力快",
+        "小强快",
+        "一样快",
+        "无法比较"
+      ],
+      "answer": "小强快",
+      "explanation": "小力速度：$400 \text{  } / \text{  } 4 = 100$（米/分）；小强速度：$330 \text{  } / \text{  } 3 = 110$（米/分）。$110 > 100$，小强快。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "一个两位数乘 9，积（ ）。",
+      "options": [
+        "一定是三位数",
+        "一定是两位数",
+        "可能是两位数也可能是三位数",
+        "一定是四位数"
+      ],
+      "answer": "可能是两位数也可能是三位数",
+      "explanation": "$11 \times 9 = 99$（两位），$12 \times 9 = 108$（三位）。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算乘法与算理转化",
+      "question": "一辆客车限制载客 50 人，6 辆这样的客车一共能载客 ___ 人。",
+      "options": [],
+      "answer": "300",
+      "explanation": "列式：$50 \times 6 = 300$。验算：$300 \text{  } / \text{  } 6 = 50$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "笔算乘法（一般进位与连续进位）",
+      "question": "一个三位数 105 的 4 倍是 ___ 。",
+      "options": [],
+      "answer": "420",
+      "explanation": "列式：$105 \times 4 = 420$。验算：$100 \times 4 = 400$，$5 \times 4 = 20$，$400 + 20 = 420$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘数中间或末尾有0的乘法",
+      "question": "$304 \times 3 = ?$",
+      "options": [],
+      "answer": "912",
+      "explanation": "个位 $4 \times 3 = 12$，十位 $0 \times 3 + 1 = 1$，百位 $3 \times 3 = 9$。结果912。验算：$912 \text{  } / \text{  } 3 = 304$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

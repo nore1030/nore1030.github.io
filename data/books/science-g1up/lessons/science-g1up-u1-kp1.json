@@ -1,0 +1,50 @@
+{
+  "id": "science-g1up-u1-kp1",
+  "title": "植物的辨别与生命意识",
+  "bookId": "science-g1up",
+  "unitNumber": 1,
+  "unitTitle": "植物",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "塑料花不需要浇水，所以它不是植物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "植物是活的有生命的，需要水分和阳光；塑料花是非生物。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "我们公园里的树木是活的，它们属于植物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "树木有生命，能生长，是典型的植物。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的辨别与生命意识",
+      "question": "下列属于植物的是（）。",
+      "options": [
+        "石头",
+        "小草",
+        "塑料玩具",
+        "纸蝴蝶"
+      ],
+      "answer": "小草",
+      "explanation": "小草会呼吸、生长、繁殖，是有生命的植物。"
+    }
+  ],
+  "knowledge": null
+}

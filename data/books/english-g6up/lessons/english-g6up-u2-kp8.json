@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp8",
+  "title": "介词搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介词搭配",
+      "question": "How do you come to school? I come ___ bus.",
+      "options": [
+        "on",
+        "by",
+        "at",
+        "in"
+      ],
+      "answer": "by",
+      "explanation": "by + 交通工具表示交通方式。"
+    }
+  ],
+  "knowledge": null
+}

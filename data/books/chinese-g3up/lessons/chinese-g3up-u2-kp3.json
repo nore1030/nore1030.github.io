@@ -1,0 +1,60 @@
+{
+  "id": "chinese-g3up-u2-kp3",
+  "title": "日记的书写格式",
+  "bookId": "chinese-g3up",
+  "unitNumber": 2,
+  "unitTitle": "金秋时节",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日记的书写格式",
+      "question": "写日记的第一行应该先写日记的正文。",
+      "options": [],
+      "answer": "错",
+      "explanation": "日记的第一行应该写日期、星期和天气。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日记的书写格式",
+      "question": "在日记的首行中，除了日期和星期，还需要记录：",
+      "options": [],
+      "answer": "天气",
+      "explanation": "日记格式规范是日期、星期和天气。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日记的书写格式",
+      "question": "请根据日记内容，排列这段发现的顺序。",
+      "options": [
+        "我",
+        "在果园里",
+        "发现了",
+        "成熟的",
+        "柿子"
+      ],
+      "answer": "我,在果园里,发现了,成熟的,柿子",
+      "explanation": "日记常由‘我’发起观察动作。"
+    }
+  ],
+  "knowledge": {
+    "point": "日记的书写格式",
+    "core_concept": "日记是记录个人生活的重要形式。格式规范是：第一行正中或靠左依次写明日期、星期、天气，从第二行开始写正文。正文写作要注意选材新颖，记录自己在‘金秋时节’中真实的观察和感悟，字数不限，重在真实。",
+    "key_formula": "首行 = X月X日 + 星期X + 天气状况",
+    "common_mistakes": [
+      "第一行漏写星期或天气",
+      "正文内容过于记‘流水账’，缺乏重点观察"
+    ],
+    "tips": "每天观察一样植物的细微变化并记录，是写好生活日记的秘诀。"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "chinese-g1down-u7-kp2",
+  "title": "珍惜时间观念转化",
+  "bookId": "chinese-g1down",
+  "unitNumber": 7,
+  "unitTitle": "习惯",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "元元早起了一分钟，结果却没有迟到。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据课文《一分钟》，元元迟到了二十分钟。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "要是早一分钟，就能赶上绿灯了。这是一个表示后悔的句子。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“要是……就……”表达了对由于差错而产生结果的遗憾。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "《一分钟》这篇课文告诉我们要（ ）。",
+      "options": [
+        "多睡觉",
+        "跑得快",
+        "珍惜时间",
+        "早起吃早饭"
+      ],
+      "answer": "珍惜时间",
+      "explanation": "课文通过元元迟到的故事教育我们要分秒必争。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "“要是早一分钟就好了。”中“要是”可以换成（ ）。",
+      "options": [
+        "但是",
+        "如果",
+        "非常",
+        "虽然"
+      ],
+      "answer": "如果",
+      "explanation": "“要是”表示假设，与“如果”意思接近。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "一分钟是（ ）秒。",
+      "options": [],
+      "answer": "六十",
+      "explanation": "常识填空，考察对时间单位的认识。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "请连接反义词。",
+      "options": [
+        "进",
+        "快",
+        "新",
+        "早",
+        "晚",
+        "出",
+        "慢",
+        "旧"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "进的反义词是出，快的反义词是慢，新的反义词是旧，早的反义词是晚。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "连词成句：要是,不,我就,迟到了,早起,一分钟",
+      "options": [
+        "要是",
+        "不",
+        "我就",
+        "迟到了",
+        "早起",
+        "一分钟"
+      ],
+      "answer": "要是,早起,一分钟,我就,不,迟到了",
+      "explanation": "建立“要是……就……”的假设逻辑关系。"
+    }
+  ],
+  "knowledge": {
+    "point": "珍惜时间观念转化",
+    "core_concept": "通过《一分钟》等课文的学习，让学生理解“量变引起质变”的逻辑。掌握“要是……就……”这一假设关系句式，能够通过这一句式反思过去的行为结果。教学重点在于培养学生的契约精神和严格的时间观念，明白每一秒钟的重要性。",
+    "key_formula": "要是 + 早做/做好了某事，就 + 不会产生坏结果",
+    "common_mistakes": [
+      "使用“要是”造句时，前后逻辑不连贯",
+      "不理解元元明明只耽误了一分钟，为什么会迟到二十分钟"
+    ],
+    "tips": "可以尝试在生活中记录一分钟能做什么（如跳绳多少个、写多少个字），让抽象的一分钟变具体。"
+  }
+}

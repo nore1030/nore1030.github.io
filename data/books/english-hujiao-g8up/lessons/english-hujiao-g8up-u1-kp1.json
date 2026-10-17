@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g8up-u1-kp1",
+  "title": "问候与介绍",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 了解彼此 / Getting to know each other",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "问候与介绍",
+      "question": "— What's your name? — ___",
+      "options": [
+        "I'm fine.",
+        "My name is Tom.",
+        "I'm twelve.",
+        "She's my sister."
+      ],
+      "answer": "My name is Tom.",
+      "explanation": "问姓名答姓名。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "问候与介绍",
+      "question": "My name is… 与 I am… 都可用于自我介绍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两种自我介绍。"
+    }
+  ],
+  "knowledge": {
+    "point": "问候与介绍",
+    "core_concept": "沪教版按 Module—Unit 组织。自我介绍常用 I'm… / My name is…；询问用 What's your name? How old are you? Where are you from?",
+    "key_formula": "I am… / My name is…",
+    "common_mistakes": [
+      "把 How old 问成 How many。"
+    ],
+    "tips": "How old 问年龄。"
+  }
+}

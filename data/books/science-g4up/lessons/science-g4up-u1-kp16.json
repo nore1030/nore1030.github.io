@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp16",
+  "title": "弦乐器",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "弦乐器",
+      "question": "小提琴的琴弦拧得越紧，拨动时发出的声音越：",
+      "options": [
+        "响",
+        "低",
+        "轻",
+        "高"
+      ],
+      "answer": "高",
+      "explanation": "弦越紧，振动越快，音高随之变高。"
+    }
+  ],
+  "knowledge": null
+}

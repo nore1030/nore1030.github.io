@@ -1,0 +1,150 @@
+{
+  "id": "g1up-u2-kp2",
+  "title": "左、右方位辨认",
+  "bookId": "g1up",
+  "unitNumber": 2,
+  "unitTitle": "位置",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "左、右方位辨认",
+      "question": "我们通常用右手写字，另一只手是左手。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据生活常识，大多数人习惯用右手写字，左手辅助。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "小明面对我站立，他的左边就是我的左边。",
+      "options": [],
+      "answer": "错",
+      "explanation": "面对面站立时，左右方向是相反的。原本的左边对着对方的右边。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "左、右方位辨认",
+      "question": "上下楼梯时，我们应该靠哪一边走？",
+      "options": [
+        "左边",
+        "右边",
+        "中间",
+        "哪边都可以"
+      ],
+      "answer": "右边",
+      "explanation": "根据交通规则和生活常识，上下楼梯应靠右行。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "左、右方位辨认",
+      "question": "小红右手拿着苹果，左手拿着什么？",
+      "options": [
+        "铅笔",
+        "书本",
+        "空着",
+        "另一件物体"
+      ],
+      "answer": "另一件物体",
+      "explanation": "本题考察对自身左右手的区分。逻辑上右手拿着东西，左手可以拿其他东西。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "体育课上，老师喊口令“向左转”，学生应该转向自己的哪个方向？",
+      "options": [
+        "前面",
+        "后面",
+        "左手边",
+        "右手边"
+      ],
+      "answer": "左手边",
+      "explanation": "向左转意味着以身体轴心向左手方向旋转 90 度。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "小亮、小红、小刚排队。小亮在小红的左边，小刚在小红的右边。谁排在最中间？",
+      "options": [
+        "小亮",
+        "小红",
+        "小刚",
+        "无法确定"
+      ],
+      "answer": "小红",
+      "explanation": "顺序是：小亮、小红、小刚。小红在中间。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "伸出你的右手，数一数，大拇指通常在其余四个手指的哪一边？",
+      "options": [
+        "左边",
+        "右边",
+        "上面",
+        "下面"
+      ],
+      "answer": "左边",
+      "explanation": "手心向下观察右手，大拇指位于左侧。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "全家福照片中，爸爸坐在左边，妈妈坐在爸爸右边。那么妈妈在哪一边？",
+      "options": [
+        "左边",
+        "右边",
+        "中间",
+        "后面"
+      ],
+      "answer": "右边",
+      "explanation": "根据题意描述，妈妈在爸爸右边。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左、右方位辨认",
+      "question": "从左往右数，第 2 个是苹果，第 5 个又是苹果，这两个苹果之间有 ___ 个水果。",
+      "options": [],
+      "answer": "2",
+      "explanation": "计算中间人数。第 3 个和第 4 个是中间的水果。算式：$5 - 2 - 1 = 2$（个）。验算：2, (3, 4), 5，中间确实有 2 个。"
+    }
+  ],
+  "knowledge": {
+    "point": "左、右方位辨认",
+    "core_concept": "左和右是以自身身体为参照的方位。通常我们用右手写字、拿筷子，左手配合。在观察他人时，如果对方与我们面对面，他的左手在我们看来是在右侧（镜像对称）。",
+    "key_formula": "以自身为准：左手侧为左，右手侧为右。",
+    "common_mistakes": [
+      "分不清自己的左手和右手。",
+      "在描述对面人物的左右时，没有转换立场，导致判断错误。"
+    ],
+    "tips": "拿筷子的通常是右手，按本子的是左手。多做对比练习。"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g8up",
+  "unitNumber": 2,
+  "unitTitle": "全等三角形",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "全等三角形的判定",
+      "question": "已知两边及夹角可判定全等，依据是（　）",
+      "options": [
+        "SSS",
+        "SAS",
+        "ASA",
+        "AAS"
+      ],
+      "answer": "SAS",
+      "explanation": "两边及夹角为 SAS。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "角平分线的性质",
+      "question": "三角形三条角平分线交于一点。",
+      "options": [],
+      "answer": "对",
+      "explanation": "交点是内心。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "全等三角形的判定",
+      "question": "两角及夹边对应相等可判定全等，简称 ___。",
+      "options": [],
+      "answer": "ASA",
+      "explanation": "角边角。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "全等三角形的性质",
+      "question": "全等三角形的周长相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对应边相等，周长自然相等。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chemistry-g9up-u3-kp1",
+  "title": "质量守恒定律",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 3,
+  "unitTitle": "化学方程式",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "质量守恒定律",
+      "question": "化学反应前后原子的种类和数目不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "质量守恒的微观解释。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质量守恒定律",
+      "question": "对质量守恒定律解释正确的是（　）",
+      "options": [
+        "反应前后物质总质量不变",
+        "反应前后分子种类不变",
+        "反应前后分子数目不变",
+        "反应前后体积不变"
+      ],
+      "answer": "反应前后物质总质量不变",
+      "explanation": "质量守恒含义。"
+    }
+  ],
+  "knowledge": {
+    "point": "质量守恒定律",
+    "core_concept": "参加化学反应的各物质质量总和等于反应后生成的各物质质量总和。本质原因是原子的种类、数目、质量均不变。",
+    "key_formula": "反应前后原子种类、数目不变",
+    "common_mistakes": [
+      "认为 1 g 碳与 1 g 氧气生成 2 g 二氧化碳。"
+    ],
+    "tips": "按化学计量比计算。"
+  }
+}

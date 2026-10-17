@@ -1,0 +1,66 @@
+{
+  "id": "biology-g10down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "biology-g10down",
+  "unitNumber": 3,
+  "unitTitle": "基因的本质与表达",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "DNA 的结构与复制",
+      "question": "一个 DNA 分子复制 4 次，共需新合成多少条子链？",
+      "options": [],
+      "answer": "30",
+      "explanation": "共 $2\\times(2^4-1)=30$ 条新链。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "基因的表达与变异",
+      "question": "基因突变的特点是（　）",
+      "options": [
+        "普遍性、随机性、低频性",
+        "只发生在生殖细胞",
+        "频率很高",
+        "只改变表现型"
+      ],
+      "answer": "普遍性、随机性、低频性",
+      "explanation": "基因突变特点。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "基因的表达与变异",
+      "question": "转录是以 DNA 的一条链为模板合成 RNA 的过程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "转录定义。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "DNA 的结构与复制",
+      "question": "DNA 的基本组成单位是（　）",
+      "options": [
+        "核糖核苷酸",
+        "脱氧核苷酸",
+        "氨基酸",
+        "葡萄糖"
+      ],
+      "answer": "脱氧核苷酸",
+      "explanation": "DNA 由脱氧核苷酸构成。"
+    }
+  ],
+  "knowledge": null
+}

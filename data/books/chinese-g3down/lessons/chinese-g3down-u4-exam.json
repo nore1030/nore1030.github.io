@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g3down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 16,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "“辨认”的“辨”中间是“讠”，表示跟分辨和说话有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "辨的中部是讠，意为辨析。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "内容理解",
+      "question": "法布尔实验的结论是蜜蜂靠记忆力飞回家。",
+      "options": [],
+      "answer": "错",
+      "explanation": "结论是蜜蜂靠本能飞回，而非记忆力。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法",
+      "question": "“你只要电它一下，它就立刻跳起来。”这是一个排比句。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是一个描写小虾动态的句子，不是排比。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "动态观察不需要按时间顺序，只需要把看到的乱序记录即可。",
+      "options": [],
+      "answer": "错",
+      "explanation": "动态观察必须紧扣时间或动作发生的先后顺序。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关联词运用",
+      "question": "（___）这种蜜蜂没有迷失方向，（___）它们有一种辨认方向的能力。",
+      "options": [
+        "因为……所以……",
+        "即使……也……",
+        "之所以……是因为……",
+        "不但……而且……"
+      ],
+      "answer": "之所以……是因为……",
+      "explanation": "先说结果再说原因，用之所以……是因为。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "关键语句概括段落大意",
+      "question": "阅读语段：“下课了，操场成了欢乐的海洋。有的跳远，有的跑步，有的扔沙包。”这段话的关键句是哪一句？",
+      "options": [
+        "下课了",
+        "操场成了欢乐的海洋",
+        "有的跳远",
+        "有的扔沙包"
+      ],
+      "answer": "操场成了欢乐的海洋",
+      "explanation": "首句概括了下课后操场的热闹景象。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词的精准运用与动态观察",
+      "question": "“它们在水里（___）着长须，（___）着小爪子。”括号里应填？",
+      "options": [
+        "飞、走",
+        "动、弹",
+        "舞动、划动",
+        "拿着、跑着"
+      ],
+      "answer": "舞动、划动",
+      "explanation": "舞动长须和划动爪子体现了小虾的灵动。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逻辑推理",
+      "question": "法布尔把蜜蜂放在纸袋里带到两里外放飞，其目的是？",
+      "options": [
+        "让蜜蜂飞错路",
+        "防止蜜蜂看到路上的景物",
+        "让蜜蜂在袋里休息",
+        "测试蜜蜂的耐心"
+      ],
+      "answer": "防止蜜蜂看到路上的景物",
+      "explanation": "这是为了排除视觉干扰，验证辨别方向的能力。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文本理解",
+      "question": "《花钟》一文中提到的主要现象是？",
+      "options": [
+        "花朵的颜色",
+        "花的种类",
+        "不同时间开放不同的花",
+        "昆虫给花传粉"
+      ],
+      "answer": "不同时间开放不同的花",
+      "explanation": "这是全文的核心观察发现。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "概括能力",
+      "question": "概括“草履虫具有趋利避害的特性”这段话，最好的切入点是？",
+      "options": [
+        "看草履虫的大小",
+        "看草履虫对刺激的反应句",
+        "数草履虫的数量",
+        "看草履虫的产地"
+      ],
+      "answer": "看草履虫对刺激的反应句",
+      "explanation": "趋利避害是行为反应，由于观察其对变化的反应能提取主旨。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句",
+      "question": "春潮带雨晚来急，（___）横。 ",
+      "options": [],
+      "answer": "野渡无人舟自",
+      "explanation": "考查《滁州西涧》名句积累。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "课文填空",
+      "question": "这些小虾，有的（___），互相追逐。",
+      "options": [],
+      "answer": "独自游来游去",
+      "explanation": "考查对《小虾》姿态描写的记忆。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语搭配",
+      "question": "请将动词与对应的名词相连接。",
+      "options": [
+        "建立",
+        "舒展",
+        "留心",
+        "减少",
+        "钟表",
+        "花瓣",
+        "观察",
+        "阻力"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查常见的科学观察词汇搭配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文学常识",
+      "question": "请将作者、文章、文章中心连接起来。",
+      "options": [
+        "法布尔",
+        "作者",
+        "汪曾祺",
+        "《小虾》",
+        "《蜜蜂》",
+        "《昆虫记》",
+        "《昆虫》",
+        "有趣"
+      ],
+      "answer": "A-1,B-4,C-2,D-3",
+      "explanation": "乱序匹配，需学生理清作者与作品对应关系。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子变换",
+      "question": "将括号里的成分放回句子中：蜜蜂飞回来了。（带记号的、二十只）",
+      "options": [
+        "二十只",
+        "带记号的",
+        "蜜蜂",
+        "飞回来了"
+      ],
+      "answer": "二十只,带记号的,蜜蜂,飞回来了",
+      "explanation": "限定词放在主语前。"
+    }
+  ],
+  "knowledge": null
+}

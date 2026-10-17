@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g7up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Module 3 Travels — Travelling around Asia 环亚旅行",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "「火车票」的英文是（　）",
+      "options": [
+        "train ticket",
+        "train tickets",
+        "train's ticket",
+        "ticket train"
+      ],
+      "answer": "train ticket",
+      "explanation": "名词修饰名词。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "「参观长城」的英文是（　）",
+      "options": [
+        "visit the Great Wall",
+        "visit Great Wall",
+        "look the Great Wall",
+        "visit a Great Wall"
+      ],
+      "answer": "visit the Great Wall",
+      "explanation": "the Great Wall。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+      "question": "travel 的意思是「旅行」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "travel 旅行。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般将来时 be going to",
+      "question": "「你打算去哪里度假？」的英文是（　）",
+      "options": [
+        "Where are you going for the holiday?",
+        "Where you are going for the holiday?",
+        "Where are you go for the holiday?",
+        "Where do you going for the holiday?"
+      ],
+      "answer": "Where are you going for the holiday?",
+      "explanation": "特殊疑问句 be 提前。"
+    }
+  ],
+  "knowledge": null
+}

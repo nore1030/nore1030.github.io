@@ -1,0 +1,47 @@
+{
+  "id": "english-beishida-g10up-u1-kp1",
+  "title": "职业名称",
+  "bookId": "english-beishida-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 人物与职业",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "职业名称",
+      "question": "“护士”的英文是（　）",
+      "options": [
+        "nurse",
+        "doctor",
+        "teacher",
+        "driver"
+      ],
+      "answer": "nurse",
+      "explanation": "护士 nurse。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "职业名称",
+      "question": "engineer 以元音音素开头，用 an。",
+      "options": [],
+      "answer": "对",
+      "explanation": "a/an 选择。"
+    }
+  ],
+  "knowledge": {
+    "point": "职业名称",
+    "core_concept": "doctor, nurse, teacher, driver, worker, farmer, engineer, reporter。注意 a/an 的选择。",
+    "key_formula": "a doctor / an engineer",
+    "common_mistakes": [
+      "a engineer。"
+    ],
+    "tips": "看读音用 a/an。"
+  }
+}

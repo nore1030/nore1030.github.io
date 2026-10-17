@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 Making a cake and watching TV 做蛋糕与看电视",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家务词汇 make / clean / wash",
+      "question": "「打扫房间」的英文是（　）",
+      "options": [
+        "clean the room",
+        "clean room",
+        "cleaning the room",
+        "make the room"
+      ],
+      "answer": "clean the room",
+      "explanation": "clean 打扫。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "现在进行时的疑问句",
+      "question": "妈妈在看书，应说（　）",
+      "options": [
+        "Mum is reading.",
+        "Mum reads.",
+        "Mum is read.",
+        "Mum are reading."
+      ],
+      "answer": "Mum is reading.",
+      "explanation": "第三人称单数用 is。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "家务词汇 make / clean / wash",
+      "question": "wash 的意思是「洗」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "wash = 洗。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "现在进行时的疑问句",
+      "question": "问别人正在做什么，应说（　）",
+      "options": [
+        "What are you doing?",
+        "What do you do?",
+        "What are you do?",
+        "How are you doing?"
+      ],
+      "answer": "What are you doing?",
+      "explanation": "进行时特殊疑问句。"
+    }
+  ],
+  "knowledge": null
+}

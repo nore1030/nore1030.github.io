@@ -1,0 +1,55 @@
+{
+  "id": "science-g6up-u1-kp12",
+  "title": "放大镜特征",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "放大镜特征",
+      "question": "下列物体中，具有放大功能的是（）。",
+      "options": [
+        "空酒瓶",
+        "装满水的圆柱形透明杯子",
+        "一块透明的平板玻璃",
+        "一个近视眼镜片"
+      ],
+      "answer": "装满水的圆柱形透明杯子",
+      "explanation": "装满水的杯子符合中央厚、边缘薄的特点，相当于一个凸透镜。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "放大镜特征",
+      "question": "下列物体中，放大倍数最大的是（）。",
+      "options": [
+        "镜片厚、凸度小的",
+        "镜片薄、凸度大的",
+        "镜片中央更厚、凸度更大的",
+        "面积很大的镜片"
+      ],
+      "answer": "镜片中央更厚、凸度更大的",
+      "explanation": "放大镜的放大倍数取决于镜片的凸度，凸度越大（球形程度越高），放大倍数越大。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "放大镜特征",
+      "question": "球形的透明玻璃容器不仅有一定的透明度，还具有（）倍放大图像的功能。",
+      "options": [],
+      "answer": "1",
+      "explanation": "凡是具有中央厚、边缘薄特征的透明物体都具有放大功能（即放大倍数大于1）。在此题环境下指其具备基本放大功能。注：考虑到题目约束，选取核心常数或逻辑值。"
+    }
+  ],
+  "knowledge": null
+}

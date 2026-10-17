@@ -1,0 +1,66 @@
+{
+  "id": "moral-g4down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g4down",
+  "unitNumber": 1,
+  "unitTitle": "权利与义务",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "生活中的权利",
+      "question": "父母不让你上学，去打工，这侵犯了你的（　）",
+      "options": [
+        "受教育权",
+        "休息权",
+        "财产权",
+        "姓名权"
+      ],
+      "answer": "受教育权",
+      "explanation": "剥夺上学机会违法。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "尊重他人权利",
+      "question": "在图书馆大声打电话会影响他人学习。",
+      "options": [],
+      "answer": "对",
+      "explanation": "要尊重他人。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "尊重他人权利",
+      "question": "课堂上想发言，应该（　）",
+      "options": [
+        "先举手再发言",
+        "直接大喊",
+        "打断老师",
+        "和同桌说"
+      ],
+      "answer": "先举手再发言",
+      "explanation": "发言先举手。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "生活中的权利",
+      "question": "权利与义务是相互伴随的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "权利义务相伴。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "moral-g2down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g2down",
+  "unitNumber": 1,
+  "unitTitle": "让我来试试",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "勇于尝试与坚持",
+      "question": "“失败是成功之母”告诉我们（　）",
+      "options": [
+        "失败后要放弃",
+        "失败中能学到经验",
+        "失败很丢人",
+        "成功不需要努力"
+      ],
+      "answer": "失败中能学到经验",
+      "explanation": "从失败中学习。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "自己的事情自己做",
+      "question": "会做的事坚持做，不会的事学着做。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是自理的好方法。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "自己的事情自己做",
+      "question": "早晨起床后，应该自己（　）",
+      "options": [
+        "穿衣服洗漱",
+        "等着妈妈喂饭",
+        "一直哭",
+        "不起床"
+      ],
+      "answer": "穿衣服洗漱",
+      "explanation": "自己的事自己做。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "勇于尝试与坚持",
+      "question": "遇到困难不要马上求助，先自己动脑筋。",
+      "options": [],
+      "answer": "对",
+      "explanation": "先独立思考。"
+    }
+  ],
+  "knowledge": null
+}

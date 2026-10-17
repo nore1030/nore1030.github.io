@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp29",
+  "title": "阻力概念",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 22,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阻力概念",
+      "question": "一个物体在另一个物体表面运动时，接触面会产生（___）。",
+      "options": [],
+      "answer": "摩擦力",
+      "explanation": "物体在表面运动产生的阻碍力叫摩擦力。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u1-kp2",
+  "title": "道别 Goodbye / Good night",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Getting to know you — Hello! 见面问候",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "道别 Goodbye / Good night",
+      "question": "睡前和爸爸妈妈道别应说（　）",
+      "options": [
+        "Good morning",
+        "Good night",
+        "Hello",
+        "Good afternoon"
+      ],
+      "answer": "Good night",
+      "explanation": "Good night 是睡前道别。"
+    }
+  ],
+  "knowledge": {
+    "point": "道别 Goodbye / Good night",
+    "core_concept": "告别用 Goodbye / Bye；睡前与家人道别用 Good night，回答也用 Good night。",
+    "key_formula": "Goodbye! — Bye!",
+    "common_mistakes": [
+      "把 Good night 当晚上好。"
+    ],
+    "tips": "Good night = 晚安（道别）。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g9down-u1-kp1",
+  "title": "小说阅读",
+  "bookId": "chinese-g9down",
+  "unitNumber": 1,
+  "unitTitle": "小说与回忆性散文",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说阅读",
+      "question": "小说塑造人物最常用的方法不包括（　）",
+      "options": [
+        "动作描写",
+        "心理描写",
+        "新闻标题",
+        "外貌描写"
+      ],
+      "answer": "新闻标题",
+      "explanation": "新闻标题不是描写方法。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说阅读",
+      "question": "人物形象应结合具体事件来分析。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结合事件分析。"
+    }
+  ],
+  "knowledge": {
+    "point": "小说阅读",
+    "core_concept": "小说三要素是人物、情节、环境。分析人物形象要综合事件、描写与侧面衬托，注意人物的多面性与复杂性。",
+    "key_formula": "人物 + 情节 + 环境",
+    "common_mistakes": [
+      "把人物简单脸谱化。"
+    ],
+    "tips": "人物形象有复杂性。"
+  }
+}

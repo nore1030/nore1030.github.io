@@ -1,0 +1,107 @@
+{
+  "id": "g2up-u7-kp3",
+  "title": "时间先后的推理",
+  "bookId": "g2up",
+  "unitNumber": 7,
+  "unitTitle": "认识时间",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "小明8:30上课，他8:45到校，他没有迟到。",
+      "options": [],
+      "answer": "错",
+      "explanation": "8:45在8:30之后，所以他迟到了。✓"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "明明每天7时10分起床，红红每天7时半起床。谁起床更早？",
+      "options": [
+        "明明",
+        "红红",
+        "一样早",
+        "无法判断"
+      ],
+      "answer": "明明",
+      "explanation": "7时10分早于7时30分，数值越小时间越早。✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "小亮9:00开始写作业，写了40分钟，他在什么时刻写完？",
+      "options": [
+        "9:04",
+        "9:40",
+        "10:00",
+        "8:20"
+      ],
+      "answer": "9:40",
+      "explanation": "9时 + 40分 = 9时40分。✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "球赛10:30结束，小刚提前15分钟离场休息。小刚离场的时刻是？",
+      "options": [
+        "10:45",
+        "10:20",
+        "10:15",
+        "10:00"
+      ],
+      "answer": "10:15",
+      "explanation": "提前离场即在结束时间之前。$10:30 - 15 = 10:15$。✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间先后的推理",
+      "question": "从3:15到3:45，中间经过了多久？",
+      "options": [
+        "15分",
+        "30分",
+        "45分",
+        "20分"
+      ],
+      "answer": "30分",
+      "explanation": "$45 - 15 = 30$（分）。验算：$15 + 30 = 45$。✓"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "一部电影 3 时 10 分开始，4 时 40 分结束。电影放映了几分钟？",
+      "options": [],
+      "answer": "90",
+      "explanation": "4时40分与3时10分相差1时30分。1时=60分，加30分等于90分。验算：$10 + 90 = 100$ 分（即1时40分），3时+1时40分=4时40分。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "时间先后的推理",
+    "core_concept": "结合日常生活情境，利用“开始时间 + 经过时间 = 结束时间”或“结束时间 - 开始时间 = 经过时间”进行推算。需要注意先后顺序，数值大的时刻通常较晚。",
+    "key_formula": "结束时间 - 开始时间 = 经过时间",
+    "common_mistakes": [
+      "分不清“几时”和“几时多”，导致推理活动顺序错误。",
+      "在跨小时计算经过时间时出错，如 3:50 到 4:10 算成 60 分钟。"
+    ],
+    "tips": "在草稿纸上画一条时间轴，把活动标在轴上，先后关系就一目了然啦！"
+  }
+}

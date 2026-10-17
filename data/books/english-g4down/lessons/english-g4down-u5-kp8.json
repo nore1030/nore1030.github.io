@@ -1,0 +1,39 @@
+{
+  "id": "english-g4down-u5-kp8",
+  "title": "常用动词短语",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用动词短语",
+      "question": "It's cold outside. Please ______ your coat.",
+      "options": [
+        "put on",
+        "take off",
+        "hang up",
+        "wash"
+      ],
+      "answer": "put on",
+      "explanation": "外面冷，根据常识应该是“穿上”外套。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用动词短语",
+      "question": "Please ______ up your clothes.",
+      "options": [],
+      "answer": "hang",
+      "explanation": "hang up是一个固定短语，意思是“挂起来”。"
+    }
+  ],
+  "knowledge": null
+}

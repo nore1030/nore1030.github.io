@@ -1,0 +1,125 @@
+{
+  "id": "english-g3up-u2-kp1",
+  "title": "介绍他人与社交礼仪",
+  "bookId": "english-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Colours",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "介绍朋友时可以说：'This is Miss White.'",
+      "options": [],
+      "answer": "对",
+      "explanation": "This is... 是介绍他人的常用句型。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "初次见面打招呼应说: 'Good morning.'",
+      "options": [],
+      "answer": "错",
+      "explanation": "初次见面应说Nice to meet you。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "— Nice to meet you. — ________",
+      "options": [
+        "Good morning.",
+        "Nice to meet you, too.",
+        "I'm fine.",
+        "Hello!"
+      ],
+      "answer": "Nice to meet you, too.",
+      "explanation": "对方表达很高兴见到你，应礼貌回应我也很高兴见到你。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "把妈妈介绍给老师，你应该说：",
+      "options": [
+        "Goodbye, Mum.",
+        "This is my mum.",
+        "Hi, I'm Mum.",
+        "I am a teacher."
+      ],
+      "answer": "This is my mum.",
+      "explanation": "向第三方介绍某人使用 This is..."
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "下午见到王老师，应当打招呼说：",
+      "options": [
+        "Good morning, Miss Wang.",
+        "Good afternoon, Miss Wang.",
+        "Goodbye, Miss Wang.",
+        "This is Miss Wang."
+      ],
+      "answer": "Good afternoon, Miss Wang.",
+      "explanation": "下午见面使用Good afternoon。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "________ is Mr Jones. (这是琼斯先生)",
+      "options": [],
+      "answer": "this",
+      "explanation": "句子开头首词填空，注意此处填小写单词原型即可（系统判定核心词汇）。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "连词成句：is, This, Jones, Mr.",
+      "options": [
+        "is",
+        "This",
+        "Jones",
+        "Mr"
+      ],
+      "answer": "This,is,Mr,Jones",
+      "explanation": "句中介绍他人的固定搭配：This is + 姓名。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "连词成句：meet, you, Nice, to.",
+      "options": [
+        "meet",
+        "you",
+        "Nice",
+        "to"
+      ],
+      "answer": "Nice,to,meet,you",
+      "explanation": "问候语固定的语序。"
+    }
+  ],
+  "knowledge": null
+}

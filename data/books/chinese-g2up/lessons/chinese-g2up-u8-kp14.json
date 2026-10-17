@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp14",
+  "title": "标点符号",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号",
+      "question": "“风筝落在了松鼠家的大门口（ ）”这个句子的结尾应该使用什么标点？",
+      "options": [
+        "？",
+        "。",
+        "！",
+        "："
+      ],
+      "answer": "。",
+      "explanation": "这是一个陈述句，结尾应该使用句号。"
+    }
+  ],
+  "knowledge": null
+}

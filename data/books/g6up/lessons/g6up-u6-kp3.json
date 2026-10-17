@@ -1,0 +1,64 @@
+{
+  "id": "g6up-u6-kp3",
+  "title": "生活中的百分数（利率/折扣）",
+  "bookId": "g6up",
+  "unitNumber": 6,
+  "unitTitle": "百分数（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "在存款利息计算中，本金越多，利息一定越多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "利息取决于本金、利率和时间三个因素。如果时间很短或利率极低，本金多利息也不一定多。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "商场搞活动“满 100 元减 20 元”，这相当于打：",
+      "options": [
+        "二折",
+        "八折",
+        "七五折",
+        "八五折"
+      ],
+      "answer": "八折",
+      "explanation": "支付 $100-20=80$，现价除以原价即折扣：$80 \\div 100 = 80\\%$，即八折。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的百分数（利率/折扣）",
+      "question": "爸爸买了一辆 10000 元的摩托车，按 10% 缴纳消费税，应缴税：",
+      "options": [
+        "100元",
+        "1000元",
+        "10元",
+        "11000元"
+      ],
+      "answer": "1000元",
+      "explanation": "$10000 \\times 10\\% = 1000$ 元。"
+    }
+  ],
+  "knowledge": {
+    "point": "生活中的百分数（利率/折扣）",
+    "core_concept": "折扣表示现价是原价的十分之几（百分之几十）；税率是应纳税额占总收入的比例；利息是银行支付给存款人的额外金额，金额取决于本金、利率和存期。",
+    "key_formula": "$利息 = 本金 \\times 利率 \\times 存期$",
+    "common_mistakes": [
+      "计算利息时漏掉‘存期’，或者存期单位不是年（如月）而未做转化。",
+      "计算折扣时，将‘打八折’误认为是减去了 80%，实际上是卖原价的 80%。"
+    ],
+    "tips": "折扣越低越便宜，五折即半价；利息计算一定要看清存储时间。"
+  }
+}

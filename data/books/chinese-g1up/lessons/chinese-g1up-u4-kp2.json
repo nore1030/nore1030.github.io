@@ -1,0 +1,106 @@
+{
+  "id": "chinese-g1up-u4-kp2",
+  "title": "前鼻韵母与后鼻韵母区分",
+  "bookId": "chinese-g1up",
+  "unitNumber": 4,
+  "unitTitle": "汉语拼音（二）：复韵母与鼻韵母",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "‘山’字的韵母是ang。",
+      "options": [],
+      "answer": "错",
+      "explanation": "‘山’的读音是shān，韵母是前鼻韵母an。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "‘羊’字的韵母是：",
+      "options": [
+        "an",
+        "en",
+        "ang",
+        "eng"
+      ],
+      "answer": "ang",
+      "explanation": "羊读作yáng，韵母是后鼻韵母ang。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "当我们说到‘放风筝’时，‘风’字的韵母是：",
+      "options": [
+        "en",
+        "eng",
+        "in",
+        "ing"
+      ],
+      "answer": "eng",
+      "explanation": "风读作fēng，是后鼻韵母。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "‘今天’的‘今’字是前鼻音，它的韵母是（___）。",
+      "options": [],
+      "answer": "in",
+      "explanation": "今jīn，韵母是in。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "‘月亮’的‘亮’字，韵母属于后鼻韵母（___）。",
+      "options": [],
+      "answer": "ang",
+      "explanation": "亮liàng，韵母是ang。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "前鼻韵母与后鼻韵母区分",
+      "question": "区分前后鼻音，将字与韵母连线：",
+      "options": [
+        "蓝",
+        "乒",
+        "分",
+        "朋",
+        "ing",
+        "an",
+        "eng",
+        "en"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "蓝lán(an)，乒pīng(ing)，分fēn(en)，朋péng(eng)。"
+    }
+  ],
+  "knowledge": {
+    "point": "前鼻韵母与后鼻韵母区分",
+    "core_concept": "前鼻韵母以舌尖挡住气流（n结尾），音色较清浅；后鼻韵母以舌根抬起挡住气流（ng结尾），音色较浑厚并带有鼻腔共鸣。一年级学生需重点区分an/ang, en/eng, in/ing的读音。",
+    "key_formula": "n结尾舌尖抵齿龈，ng结尾舌根抵软腭。",
+    "common_mistakes": [
+      "发an音时舌尖没有顶住上牙床，导致读成ang。",
+      "将‘民’（mín）和‘名’（míng）混淆。"
+    ],
+    "tips": "发n时感觉气流从鼻孔出来，手摸鼻子有震动；发ng时感觉喉咙后部在用力。"
+  }
+}

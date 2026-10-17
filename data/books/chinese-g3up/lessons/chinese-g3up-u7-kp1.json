@@ -1,0 +1,86 @@
+{
+  "id": "chinese-g3up-u7-kp1",
+  "title": "拟人化听觉描写",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 0,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "拟人化听觉描写",
+      "question": "《大自然的声音》中，风被作者比作了一位音乐家。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文中第一自然段明确指出“大自然有许多美妙的声音。风，是大自然的音乐家。”"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "拟人化听觉描写",
+      "question": "“哗啦啦”和“滴滴答答”都是描写声音的象声词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这两个词分别模拟了流水声和雨滴声。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟人化听觉描写",
+      "question": "大自然中，谁被作者称作“歌手”？",
+      "options": [
+        "风",
+        "小鸟",
+        "水",
+        "动物"
+      ],
+      "answer": "动物",
+      "explanation": "课文中提到“动物是大自然的歌手”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟人化听觉描写",
+      "question": "微风拂过，那声音轻轻柔柔的，好像呢喃细语。这里的“呢喃”多指：",
+      "options": [
+        "大声叫喊",
+        "生气的责骂",
+        "小声说话的人",
+        "喧哗的声音"
+      ],
+      "answer": "小声说话的人",
+      "explanation": "“呢喃”原指燕子的叫声，文中形容声音细小。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拟人化听觉描写",
+      "question": "描写流水声，常用的三个字的拟人化动词词组是：淙淙地（___）。",
+      "options": [],
+      "answer": "流着",
+      "explanation": "课文中提到“小溪淙淙地流着”。"
+    }
+  ],
+  "knowledge": {
+    "point": "拟人化听觉描写",
+    "core_concept": "本单元通过将风、水、动物赋予人的情感、身份（如音乐家、歌手）来实现生动的描写。学生需要学会识别并模仿这种笔法，将枯燥的声音转化为富有节奏感和画面感的场景描述，并积累大量的象声词来丰富感官体验。",
+    "key_formula": "拟人化 = 生物/无生物 + 人格化动词/身份比喻",
+    "common_mistakes": [
+      "将象声词书写错误，如“哗啦啦”错写为“画拉拉”",
+      "无法区分“比喻”与“拟人”在文本中的融合使用情况"
+    ],
+    "tips": "朗读课文时尝试带节奏感地模拟这些声音，利用对比法体会“呢喃”与“澎湃”带来的不同画面。"
+  }
+}

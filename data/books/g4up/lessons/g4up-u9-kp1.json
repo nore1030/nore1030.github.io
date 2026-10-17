@@ -1,0 +1,174 @@
+{
+  "id": "g4up-u9-kp1",
+  "title": "数与代数综合复习",
+  "bookId": "g4up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "计数单位就是数位。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计数单位是个、十、百等；数位是个位、十位、百位等。两者意义不同。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "省略万位后面的尾数求近似数，要看千位上的数字。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据“四舍五入”法，省略万位后面的尾数要看低一位（即千位）的数是否达到5。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "一个八位数，它的最高位是（ ）。",
+      "options": [
+        "千万位",
+        "亿位",
+        "百万位",
+        "十万位"
+      ],
+      "answer": "千万位",
+      "explanation": "八位数的数位从右往左数分别是：个、十、百、千、万、十万、百万、千万。最高位是千万位。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "在数字 5 和 2 之间添（ ）个 0，这个数就变成了五百万零二。",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "五百万零二写作 5000002。在 5 和 2 之间共有 5 个 0。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "350 × 80 的积之末尾有（ ）个 0。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "先算 $35 \\times 8 = 280$，因为两个因数末尾各有一个 0，所以积要在 280 后面添两个 0 得到 28000。末尾共有 3 个 0。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "两数相商，除数不变，被除数乘 10，商（ ）。",
+      "options": [
+        "不变",
+        "乘 10",
+        "除以 10",
+        "乘 100"
+      ],
+      "answer": "乘 10",
+      "explanation": "根据商的变化规律：除数不变，被除数乘几，商也乘几。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "在 $582 \\div \\Box 2$ 中，如果商是一位数，$\\Box$ 里最小填（ ）。",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "商是一位数，意味着被除数前两位 58 小于除数 $\\Box 2$。要使 $58 < \\Box 2$，$\\Box$ 最小填 6。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "一个公顷大约相当于（ ）个边长 100 米的正方形场地。",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answer": "1",
+      "explanation": "1 公顷 = 10000 平方米。边长 100 米的正方形面积 = $100 \\times 100 = 10000$平方米。所以是 1 个。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "1 平方千米 = ___ 公顷。",
+      "options": [],
+      "answer": "100",
+      "explanation": "1 平方千米 = 1000000 平方米，1 公顷 = 10000 平方米。$1000000 \\div 10000 = 100$。验算：$100 \\times 10000 = 1000000$✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "一个五位数，省略万位后面的尾数约是 6 万，这个数最大是 ___。",
+      "options": [],
+      "answer": "64999",
+      "explanation": "省略万位约为 6 万，万位应为 6。最大值则千位应填 4（四舍），后续位填 9。所以是 64999。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "计算：$120 \\times 40 = ?$",
+      "options": [],
+      "answer": "4800",
+      "explanation": "$12 \\times 4 = 48$，因数末尾共有 2 个 0，补充后得 4800。验算：$4800 \\div 40 = 120$✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "计算：$672 \\div 21 = ?$",
+      "options": [],
+      "answer": "32",
+      "explanation": "$67 \\div 21 = 3 \\dots 4$；$42 \\div 21 = 2$。结果为 32。验算：$32 \\times 21 = 672$✓。"
+    }
+  ],
+  "knowledge": null
+}

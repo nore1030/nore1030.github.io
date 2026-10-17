@@ -1,0 +1,91 @@
+{
+  "id": "g1up-u9-kp2",
+  "title": "图形与时间的综合回顾",
+  "bookId": "g1up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "长方体有 6 个面，而且每个面都是长方形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "长方体有6个面，但有的长方体其中两个相对的面可能是正方形。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "钟面上，短针是时针，长针是分针。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是认识钟表的基本常识：短的是时针，长的是分针。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "分针指向 12，时针指向 9，这时是几时？",
+      "options": [
+        "12时",
+        "3时",
+        "9时",
+        "6时"
+      ],
+      "answer": "9时",
+      "explanation": "分针指向12是整时，时针指向几就是几时。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "下面哪个图形最容易滚动？",
+      "options": [
+        "长方体",
+        "正方体",
+        "圆柱",
+        "球"
+      ],
+      "answer": "球",
+      "explanation": "球表面是曲面，且往各个方向都能滚动。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与时间的综合回顾",
+      "question": "过 1 小时后是 11 时，现在是几时？",
+      "options": [
+        "10时",
+        "11时",
+        "12时",
+        "1时"
+      ],
+      "answer": "10时",
+      "explanation": "要求现在时间，用后来的时间减去经过的时间：$11 - 1 = 10$。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形与时间的综合回顾",
+    "core_concept": "复习长方体、正方体、圆柱和球的特征，主要通过触摸感和滚动感来区分。时间的复习则集中在“整时”的识别。分针长，指向12；时针短，指向几就是几时。",
+    "key_formula": "分针长，时针短；分针指12是整时",
+    "common_mistakes": [
+      "长短针看反：将 3:00（时针指3分针指12）认成 12:15（误把分针当时针）",
+      "图形特征混淆：认为圆柱在任何方向都能滚动"
+    ],
+    "tips": "区分图形看平滑面，区分时间先看分针再看时针。"
+  }
+}

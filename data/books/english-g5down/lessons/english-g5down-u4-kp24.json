@@ -1,0 +1,32 @@
+{
+  "id": "english-g5down-u4-kp24",
+  "title": "序数词及其缩写",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词及其缩写",
+      "question": "将序数词单词与对应的数字缩写匹配。",
+      "options": [
+        "second",
+        "twentieth",
+        "third",
+        "twelfth",
+        "20th",
+        "3rd",
+        "2nd",
+        "12th"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "second-2nd, twentieth-20th, third-3rd, twelfth-12th。"
+    }
+  ],
+  "knowledge": null
+}

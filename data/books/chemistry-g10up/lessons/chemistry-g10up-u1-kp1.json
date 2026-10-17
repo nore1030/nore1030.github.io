@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g10up-u1-kp1",
+  "title": "物质的分类与离子反应",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 1,
+  "unitTitle": "物质及其变化",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物质的分类与离子反应",
+      "question": "下列属于电解质的是（　）",
+      "options": [
+        "铜",
+        "氯化钠",
+        "蔗糖",
+        "酒精"
+      ],
+      "answer": "氯化钠",
+      "explanation": "NaCl 水溶液能导电。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "物质的分类与离子反应",
+      "question": "0.1 mol/L 的 NaCl 溶液 1 L 中含 NaCl 的物质的量是多少 mol？",
+      "options": [],
+      "answer": "0.1",
+      "explanation": "$n=cV=0.1\\times1=0.1$ mol。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物质的分类与离子反应",
+      "question": "难溶物质在离子方程式中一般写化学式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "难溶物不拆。"
+    }
+  ],
+  "knowledge": {
+    "point": "物质的分类与离子反应",
+    "core_concept": "物质按组成分为混合物与纯净物，纯净物分单质与化合物。电解质在水溶液中电离出自由移动的离子。离子方程式要拆强酸、强碱、可溶性盐。",
+    "key_formula": "$\\text{H}^++\\text{OH}^-=\\text{H}_2\\text{O}$",
+    "common_mistakes": [
+      "把难溶物、气体写成离子形式。"
+    ],
+    "tips": "强电解质可拆，弱电解质不拆。"
+  }
+}

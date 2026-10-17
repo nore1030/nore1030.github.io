@@ -1,0 +1,91 @@
+{
+  "id": "g3down-u3-kp1",
+  "title": "复式统计表的结构与认识",
+  "bookId": "g3down",
+  "unitNumber": 3,
+  "unitTitle": "复式统计表",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "复式统计表可以将两个或多个单式统计表的内容合并在一起。",
+      "options": [],
+      "answer": "对",
+      "explanation": "复式统计表的定义就是将两个或多个有联系的单式统计表合并成一个表，便于比较。✓"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "复式统计表的左上角表头通常被分成两部分或三部分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表头斜线将空间分成几部分，分别表示横栏和竖栏的类别。✓"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "复式统计表的左上角那格通常叫做（  ）。",
+      "options": [
+        "内容",
+        "表头",
+        "标题",
+        "数据"
+      ],
+      "answer": "表头",
+      "explanation": "统计表最左上角的格子称为表头。✓"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "我们通常在统计表的哪个位置写统计表的名称？",
+      "options": [
+        "左侧",
+        "右侧",
+        "下方",
+        "上方正中间"
+      ],
+      "answer": "上方正中间",
+      "explanation": "统计表的标题通常置于表格上方的正中间。✓"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "复式统计表的结构与认识",
+      "question": "统计表中的“合计”表示的是（  ）。",
+      "options": [
+        "最大值",
+        "最小值",
+        "总数",
+        "平均数"
+      ],
+      "answer": "总数",
+      "explanation": "合计是指所有相关数据的总和。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "复式统计表的结构与认识",
+    "core_concept": "复式统计表是将两个或多个具有联系的单式统计表的数据合并在一个表格中。它包含标题、表头、栏目和数据项。左上角的表头通过斜线划分出不同的统计维度（如性别、项目等）。",
+    "key_formula": "复式统计表结构 = 标题 + 表头 + 行标签 + 列标签 + 数据区域",
+    "common_mistakes": [
+      "混淆表头中的横向和纵向说明文字",
+      "漏写统计表的标题或日期"
+    ],
+    "tips": "观察表头时，沿着斜线看，上方文字说明横排内容，下方文字说明竖排内容。"
+  }
+}

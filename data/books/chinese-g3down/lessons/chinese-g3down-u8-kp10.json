@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp10",
+  "title": "内容理解",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "内容理解",
+      "question": "《漏》故事中的老虎和贼最后为什么都吓得昏倒了？",
+      "options": [
+        "因为他们遇到了老虎",
+        "因为他们撞到了贼",
+        "因为他们以为对方就是“漏”",
+        "因为天太黑摔了一跤"
+      ],
+      "answer": "因为他们以为对方就是“漏”",
+      "explanation": "老虎和贼互相惊扰，由于心虚，都把对方当成了传说中厉害的“漏”。"
+    }
+  ],
+  "knowledge": null
+}

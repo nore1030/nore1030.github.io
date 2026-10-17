@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp11",
+  "title": "修辞手法",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法",
+      "question": "“北风呼啸，由于它的到访，花园里变得一片荒凉。”这句话使用了什么修辞？",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "赋予北风“到访”这一人的动作，属于拟人。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u2-kp11",
+  "title": "文学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 10,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《飞向蓝天的恐龙》主要介绍了恐龙向（___）演化的过程。",
+      "options": [],
+      "answer": "鸟类",
+      "explanation": "本课中心内容是介绍鸟类起源于恐龙。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,103 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "单元话题：学校生活与自我认知",
+      "knowledge_points": [
+        {
+          "name": "人物介绍与外貌",
+          "description": "介绍人物与外貌特征。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "日常作息与频率",
+          "description": "表达日常作息与频率。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-yilin-g8up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "单元话题：能力与意愿",
+      "knowledge_points": [
+        {
+          "name": "能力表达 can",
+          "description": "用 can 表达能力与可能性。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "意愿与可能性表达",
+          "description": "用 want / would like / hope 表达意愿。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "english-yilin-g8up-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "english-yilin-g8up",
+  "grade": 8,
+  "semester": "up",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-yilin-g8up-u1-kp1",
+      "title": "人物介绍与外貌",
+      "unitNumber": 1,
+      "unitTitle": "单元话题：学校生活与自我认知",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g8up-u1-kp2",
+      "title": "日常作息与频率",
+      "unitNumber": 1,
+      "unitTitle": "单元话题：学校生活与自我认知",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g8up-u2-kp1",
+      "title": "能力表达 can",
+      "unitNumber": 2,
+      "unitTitle": "单元话题：能力与意愿",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "english-yilin-g8up-u2-kp2",
+      "title": "意愿与可能性表达",
+      "unitNumber": 2,
+      "unitTitle": "单元话题：能力与意愿",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g2up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g2up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "两个两位数相加，和一定是三位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如：$10 + 10 = 20$，和仍然是两位数。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "所有的直角都一样大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "无论角的边多长，直角的度数都是固定的90度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "$88 - (30 + 10)$ 的结果等于 48。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$30+10=40$， $88-40=48$。计算正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "每两个人握一次手，三个人一共要握6次手。",
+      "options": [],
+      "answer": "错",
+      "explanation": "三个人分别是A、B、C。握手情况是：A-B, A-C, B-C。共3次。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "得数大于50的算式是哪一个？",
+      "options": [
+        "16 + 24",
+        "80 - 32",
+        "28 + 25",
+        "71 - 22"
+      ],
+      "answer": "28 + 25",
+      "explanation": "16+24=40; 80-32=48; 28+25=53; 71-22=49。只有53>50。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "根据“五六三十”可以写出哪个算式？",
+      "options": [
+        "5 × 5 = 25",
+        "5 × 6 = 30",
+        "6 × 6 = 36",
+        "5 + 6 = 11"
+      ],
+      "answer": "5 × 6 = 30",
+      "explanation": "口诀“五六三十”对应因数为5和6，积为30的乘法算式。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "一只青蛙4条腿，7只青蛙多少条腿？",
+      "options": [
+        "11",
+        "24",
+        "28",
+        "32"
+      ],
+      "answer": "28",
+      "explanation": "$4 \\times 7 = 28$（条）。口诀：四七二十八。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "商店里有45辆自行车，第一天卖了18辆，第二天卖了15辆，两天一共卖了多少辆？",
+      "options": [
+        "33",
+        "27",
+        "12",
+        "30"
+      ],
+      "answer": "33",
+      "explanation": "问题求两天“一共卖了”多少，用加法：$18 + 15 = 33$（辆）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "把 $3 + 3 + 3 + 3 + 2$ 改写成乘加算式，正确的是？",
+      "options": [
+        "3 × 3 + 2",
+        "3 × 4 + 2",
+        "3 × 5 - 2",
+        "4 × 4 - 2"
+      ],
+      "answer": "3 × 4 + 2",
+      "explanation": "4个3相加是 $3 \\times 4$，再加上最后的2，结果是 $3 \\times 4 + 2 = 14$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "用放大镜看一个角，角的大小会发生什么变化？",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "不变",
+      "explanation": "角的度数只与两条边张开的大小有关，放大镜只是放大了边和图像，不改变张开的角度。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "6个8的和，比7个8的和少几？",
+      "options": [
+        "1",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "7个8比6个8多1个8，也就是多8。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "用1、2、3三个数字能组成多少个没有重复数字的两位数？",
+      "options": [
+        "3个",
+        "4个",
+        "5个",
+        "6个"
+      ],
+      "answer": "6个",
+      "explanation": "可以组成的两位数有：12, 13, 21, 23, 31, 32。共6个。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表内乘法全表应用",
+      "question": "小华有一本故事书，每天看6页，看了8天，还剩15页。这本书一共 ___ 页。",
+      "options": [],
+      "answer": "63",
+      "explanation": "1.已看页数：$6 \\times 8 = 48$（页）；2.总页数：$48 + 15 = 63$（页）。验算：$63 - 15 = 48$，$48 \\div 8 = 6$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "三个同学跳绳，小红跳了35下，小东跳了28下，小刚跳了32下。他们一共跳了 ___ 下。",
+      "options": [],
+      "answer": "95",
+      "explanation": "列式：$35 + 28 + 32$。$28 + 32 = 60$，$35 + 60 = 95$。验算：$95 - 32 - 28 = 35$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内笔算的整理",
+      "question": "计算：$90 - 43 = ?$",
+      "options": [],
+      "answer": "47",
+      "explanation": "$90 - 43 = 47$。个位：$0-3$不够，退一当十，$10-3=7$；十位：$8-4=4$。验算：$47 + 43 = 90$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

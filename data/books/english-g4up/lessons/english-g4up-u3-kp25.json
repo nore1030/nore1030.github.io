@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u3-kp25",
+  "title": "陈述句语序",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 21,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "陈述句语序",
+      "question": "连词成句：[is, My, tall, friend]",
+      "options": [
+        "is",
+        "My",
+        "tall",
+        "friend"
+      ],
+      "answer": "My,friend,is,tall",
+      "explanation": "主语My friend + 系动词is + 形容词tall。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "g6up-u4-kp2",
+  "title": "比的基本性质与化简",
+  "bookId": "g6up",
+  "unitNumber": 4,
+  "unitTitle": "比",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "比的前项和后项同时乘一个相同的数，比值不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须是同时乘或除以一个相同的数，且这个数不能为0。如果同时乘0，比的后项变为0，比就没有意义了。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "最简单的整数比的前项和后项必须都是质数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "最简整数比的要求是前项和后项互质，不一定非要是质数。例如4:9是最简比，但4和9都是合数。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "把 $1.2:0.4$ 化简成最简单的整数比是：",
+      "options": [
+        "3:1",
+        "3",
+        "3:10",
+        "12:4"
+      ],
+      "answer": "3:1",
+      "explanation": "$1.2:0.4 = (1.2 \\times 10) : (0.4 \\times 10) = 12:4 = 3:1$。最简比符号不能省略。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "一个比的前项扩大到原来的3倍，后项缩小到原来的1/3，比值会：",
+      "options": [
+        "扩大到原来的9倍",
+        "缩小到原来的1/9",
+        "不变",
+        "扩大到原来的3倍"
+      ],
+      "answer": "扩大到原来的9倍",
+      "explanation": "设定原比 $1:1=1$。新比 $(1 \\times 3):(1 \\div 3) = 3: (1/3) = 9$。$9 \\div 1 = 9$倍。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "下面的比中，与 0.2:0.3 比值相等的比是：",
+      "options": [
+        "2:3",
+        "3:2",
+        "1:2",
+        "4:9"
+      ],
+      "answer": "2:3",
+      "explanation": "$0.2:0.3 = (0.2 \\times 10):(0.3 \\times 10) = 2:3$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比的基本性质与化简",
+      "question": "将 25:100 化简为最简整数比，后项是 ___。",
+      "options": [],
+      "answer": "4",
+      "explanation": "$25:100 = (25 \\div 25) : (100 \\div 25) = 1:4$。后项是4。"
+    }
+  ],
+  "knowledge": {
+    "point": "比的基本性质与化简",
+    "core_concept": "比的前项和后项同时乘或除以相同的数（0除外），比值不变。化简比就是把一个比变成最简单的整数比（前项和后项互质的整数）。",
+    "key_formula": "$a:b = (a \\times n):(b \\times n) = (a \\div n):(b \\div n)$ ($n \ne 0$)",
+    "common_mistakes": [
+      "化简时只在前项乘，后项忘记乘",
+      "化简结果写成一个孤立的数字（结果必须保留比的形式，如 2:1）"
+    ],
+    "tips": "遇到分数比，先通分去分母；遇到小数比，先扩位变整数，再求最大公因数约分。"
+  }
+}

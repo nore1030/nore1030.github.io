@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp10",
+  "title": "比较级构成规则",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 6,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "比较级构成规则",
+      "question": "Which word is the comparative form(比较级) of 'big'?",
+      "options": [
+        "biggier",
+        "biger",
+        "bigger",
+        "big"
+      ],
+      "answer": "bigger",
+      "explanation": "big是重读闭音节单词，双写词尾字母g再加er。"
+    }
+  ],
+  "knowledge": null
+}

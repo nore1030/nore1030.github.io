@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u12-kp1",
+  "title": "季节 spring / summer / autumn / winter",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 12,
+  "unitTitle": "Module 4 The world around us — The four seasons 四季",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "「春天」的英文是（　）",
+      "options": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "answer": "spring",
+      "explanation": "spring = 春天。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "「夏天」的英文是（　）",
+      "options": [
+        "summer",
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "answer": "summer",
+      "explanation": "summer = 夏天。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "季节 spring / summer / autumn / winter",
+      "question": "winter 的意思是「冬天」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "winter = 冬天。"
+    }
+  ],
+  "knowledge": {
+    "point": "季节 spring / summer / autumn / winter",
+    "core_concept": "spring 春、summer 夏、autumn 秋、winter 冬。一年有四个季节。",
+    "key_formula": "spring / summer / autumn / winter",
+    "common_mistakes": [
+      "autumn 与 fall 混淆（fall 是美式）。"
+    ],
+    "tips": "autumn 英式，fall 美式，都对。"
+  }
+}

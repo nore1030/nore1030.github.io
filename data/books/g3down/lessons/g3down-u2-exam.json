@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "$400 \times 5$ 的商是 8。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$400 \times 5 = 80$。商应该是 80。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "三位数除以一位数，商一定是三位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "商可能是三位数也可能是两位数。例如 $120 \times 6 = 20$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除法估算",
+      "question": "估算 $213 \times 7$ 时，可以把 213 看作 210 来估算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "把 213 看作接近的 210，口算简单且接近原值，$210 \times 7 = 30$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "被除数中间有 0，商中间也一定有 0。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如 $102 \times 3 = 34$，商中间没有 0。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "$515 \times 5$ 的商是：",
+      "options": [
+        "103",
+        "13",
+        "130",
+        "100"
+      ],
+      "answer": "103",
+      "explanation": "$5 \times 5 = 1$，$1 \times 5$ 不够除，商 0 占位，$15 \times 5 = 3$，结果为 103。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法估算",
+      "question": "一辆车 3 小时行驶了 238 千米，它每小时大约行驶多少千米？",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": "80",
+      "explanation": "$238 \times 3 \times 240 \times 3 = 80$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法的验算",
+      "question": "验算有余数的除法，下列等式正确的是：",
+      "options": [
+        "商 \times 除数 = 被除数",
+        "商 + 余数 = 被除数",
+        "商 \times 除数 + 余数 = 被除数",
+        "被除数 \times 除数 = 商"
+      ],
+      "answer": "商 \times 除数 + 余数 = 被除数",
+      "explanation": "这是标准的有余数除法验算规律。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "商中间或末尾有0的除法",
+      "question": "要使 $6\\square2 \times 6$ 的商中间有 0，且没有余数，$\\square$ 里应填：",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "填 1 时，$612 \times 6 = 102$，符合商中间有0且整除。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "除法的验算",
+      "question": "在除法算式中，除数是 9，商是 31，余数最大时，被除数是：",
+      "options": [
+        "279",
+        "287",
+        "288",
+        "280"
+      ],
+      "answer": "287",
+      "explanation": "余数最大为 $9 - 1 = 8$。被除数为 $31 \times 9 + 8 = 279 + 8 = 287$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "3000 除以 6 的商是多少？",
+      "options": [
+        "5",
+        "50",
+        "500",
+        "5000"
+      ],
+      "answer": "500",
+      "explanation": "$30 \times 6 = 5$，后面补两个 0，结果为 500。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "把 124 朵花平均插在 4 个花瓶里，每个花瓶插多少朵？",
+      "options": [
+        "31",
+        "30",
+        "41",
+        "21"
+      ],
+      "answer": "31",
+      "explanation": "$124 \times 4 = 31$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "花店有 325 枝玫瑰，每 7 枝扎成一束，最多可以扎成多少束？",
+      "options": [
+        "46",
+        "47",
+        "45",
+        "40"
+      ],
+      "answer": "46",
+      "explanation": "$325 \times 7 = 46$ 余 3。最多扎成 46 束。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "560 是 7 的 ___ 倍。",
+      "options": [],
+      "answer": "80",
+      "explanation": "$560 \times 7 = 80$。验算：$80 \times 7 = 560$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "三年级共有 248 名学生，分 4 批去参观博物馆，平均每批去 ___ 人。",
+      "options": [],
+      "answer": "62",
+      "explanation": "$248 \times 4 = 62$（人）。验算：$62 \times 4 = 248$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "口算除法",
+      "question": "计算：$640 \times 8 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "$640 \times 8 = 80$。验算：$80 \times 8 = 640$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

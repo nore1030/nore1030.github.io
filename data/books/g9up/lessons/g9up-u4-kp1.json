@@ -1,0 +1,63 @@
+{
+  "id": "g9up-u4-kp1",
+  "title": "随机事件与概率",
+  "bookId": "g9up",
+  "unitNumber": 4,
+  "unitTitle": "概率初步",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "随机事件与概率",
+      "question": "“太阳从东方升起”是（　）",
+      "options": [
+        "随机事件",
+        "必然事件",
+        "不可能事件",
+        "无法判断"
+      ],
+      "answer": "必然事件",
+      "explanation": "一定发生。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "随机事件与概率",
+      "question": "抛一枚均匀硬币正面朝上的概率是（　）",
+      "options": [
+        "1",
+        "$\\frac12$",
+        "$\\frac13$",
+        "0"
+      ],
+      "answer": "$\\frac12$",
+      "explanation": "等可能，2 种结果。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "随机事件与概率",
+      "question": "概率为 0 的事件是不可能事件。",
+      "options": [],
+      "answer": "对",
+      "explanation": "概率为 0 即不可能发生。"
+    }
+  ],
+  "knowledge": {
+    "point": "随机事件与概率",
+    "core_concept": "在一定条件下可能发生也可能不发生的事件叫随机事件。概率刻画事件发生可能性大小，取值 $0\\le P\\le1$。",
+    "key_formula": "$0\\le P(A)\\le1$",
+    "common_mistakes": [
+      "把概率当成频率本身。"
+    ],
+    "tips": "必然事件 $P=1$，不可能事件 $P=0$。"
+  }
+}

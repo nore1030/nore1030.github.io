@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4up-u6-kp10",
+  "title": "词语配对",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 9,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语配对",
+      "question": "请将下列形容心情的词语与对应的身体反应连线：",
+      "options": [
+        "紧张",
+        "生气",
+        "伤心",
+        "自豪",
+        "拍手叫好",
+        "泪流满面",
+        "满脸通红",
+        "手心出汗"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "紧张会出汗，生气脸会红，伤心流泪，自豪叫好。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "english-g4up-u3-kp23",
+  "title": "词义匹配",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义匹配",
+      "question": "将下列英文单词与中文意思匹配。",
+      "options": [
+        "strong",
+        "friendly",
+        "hair",
+        "glasses",
+        "友好的",
+        "头发",
+        "眼镜",
+        "强壮的"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "strong-强壮的, friendly-友好的, hair-头发, glasses-眼镜。"
+    }
+  ],
+  "knowledge": null
+}

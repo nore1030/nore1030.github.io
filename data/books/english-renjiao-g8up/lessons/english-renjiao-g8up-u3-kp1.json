@@ -1,0 +1,31 @@
+{
+  "id": "english-renjiao-g8up-u3-kp1",
+  "title": "情态动词 can / must / should",
+  "bookId": "english-renjiao-g8up",
+  "unitNumber": 3,
+  "unitTitle": "情态动词与比较级",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情态动词 can / must / should",
+      "question": "情态动词没有第三人称单数变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "情态动词不变形。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词 can / must / should",
+    "core_concept": "情态动词后接动词原形，本身没有人称和数的变化。can 表示能力或请求，must 表示必须，should 表示应该。",
+    "key_formula": "情态动词 + 动词原形",
+    "common_mistakes": [
+      "情态动词后加 to 或 -s。"
+    ],
+    "tips": "后接原形。"
+  }
+}

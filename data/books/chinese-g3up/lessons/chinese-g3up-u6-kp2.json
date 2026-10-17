@@ -1,0 +1,112 @@
+{
+  "id": "chinese-g3up-u6-kp2",
+  "title": "古诗名句的画面还原",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 1,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "《望天门山》的作者是唐代诗人李白。",
+      "options": [],
+      "answer": "对",
+      "explanation": "李白是《望天门山》的作者。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "“两岸青山相对出”中的“出”字，写出了怎样的动态美？",
+      "options": [
+        "山自己长出来",
+        "小船向前行进，两岸的山扑面而来",
+        "山从土里钻出来",
+        "太阳升起来了"
+      ],
+      "answer": "小船向前行进，两岸的山扑面而来",
+      "explanation": "诗人乘坐小船顺流而下，由于视差感觉两岸青山迎面而来。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "“欲把西湖比西子，淡妆浓抹总相宜。”中“西子”指的是：",
+      "options": [
+        "西面的小孩子",
+        "古代美女西施",
+        "西湖的女儿",
+        "西方的人"
+      ],
+      "answer": "古代美女西施",
+      "explanation": "诗人将西湖比作美女西施。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "《饮湖上初晴后雨》中描写水波荡漾的词语是（___）。",
+      "options": [],
+      "answer": "潋滟",
+      "explanation": "水光潋滟形容水波荡漾的样子。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "请将古诗与对应的景色连线。",
+      "options": [
+        "天门中断",
+        "湖光秋月",
+        "水光潋滟",
+        "浓妆淡抹",
+        "西湖",
+        "楚江",
+        "洞庭湖",
+        "晴天"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "天门山对楚江，湖光秋月对洞庭湖，水光潋滟写晴天，浓妆淡抹拟西湖。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "将词语排成描写西湖景色的句子。",
+      "options": [
+        "西湖",
+        "就像",
+        "一样",
+        "西施",
+        "美丽"
+      ],
+      "answer": "西湖,就像,西施,一样,美丽",
+      "explanation": "根据诗意，将西湖与西施进行拟人化比喻。"
+    }
+  ],
+  "knowledge": {
+    "point": "古诗名句的画面还原",
+    "core_concept": "学习古诗不仅仅是背诵，更重要的是通过诗中的关键字眼展开想象，在脑海中形成画面。例如通过“乱”、“穿”、“惊”等动词感受海边的澎湃，通过“翠”、“青”等颜色感受江南的润泽。通过翻译和扩词，将凝练的诗句转化为细腻的现代景物描写。",
+    "key_formula": "关键词提取 + 联想色彩/动作 + 场景扩充描述",
+    "common_mistakes": [
+      "只翻译字面意思，缺乏联想想象",
+      "对诗中的多义字理解错误，如“相宜”理解为“方便”"
+    ],
+    "tips": "可以闭上眼睛，试着像看电影一样在脑海里给诗句画面“上色”。"
+  }
+}

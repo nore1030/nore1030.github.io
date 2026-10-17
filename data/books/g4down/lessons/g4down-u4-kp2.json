@@ -1,0 +1,48 @@
+{
+  "id": "g4down-u4-kp2",
+  "title": "小数的读法与写法",
+  "bookId": "g4down",
+  "unitNumber": 4,
+  "unitTitle": "小数的意义和性质",
+  "kpIndex": 1,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的读法与写法",
+      "question": "30.030 读作：三十点零三十。",
+      "options": [],
+      "answer": "错",
+      "explanation": "小数部分要依次读出每个数字。30.030 应读作：三十点零三零。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数的读法与写法",
+      "question": "由 5 个一、3 个百分之一组成的数是多少？",
+      "options": [
+        "5.3",
+        "5.03",
+        "0.53",
+        "5.003"
+      ],
+      "answer": "5.03",
+      "explanation": "整数部分是 5，十分位没有记为 0，百分位是 3。写作 5.03。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数的读法与写法",
+    "core_concept": "读小数时，整数部分按整数读法来读，小数点读作“点”，小数部分依次读出每个数字。写小数时，小数点写在个位的右下角。",
+    "key_formula": "\\text{读/写原则：整数部分按原样，小数点读点，小数部分依次报数}",
+    "common_mistakes": [
+      "读小数部分时像读整数一样（如把0.25读作零点二十五）",
+      "写数时丢掉小数点"
+    ],
+    "tips": "小数部分无论有几个0，都要一个一个读出来。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g6up-u2-kp12",
+  "title": "标点符号应用",
+  "bookId": "chinese-g6up",
+  "unitNumber": 2,
+  "unitTitle": "重温革命岁月",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号应用",
+      "question": "下列对话中引号用法完全正确的一项是：",
+      "options": [
+        "班长说：“快跟上。”",
+        "“快跟上，”班长说：“别掉队。”",
+        "“快跟上。”班长说，“别掉队。”",
+        "班长说：“快跟上”。"
+      ],
+      "answer": "班长说：“快跟上。”",
+      "explanation": "A项格式规范；B项“说”后应为逗号；C项双引号内标点正确但语境单一时少见；D项句号应在引号内。"
+    }
+  ],
+  "knowledge": null
+}

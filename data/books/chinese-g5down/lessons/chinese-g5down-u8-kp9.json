@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u8-kp9",
+  "title": "古诗词识记",
+  "bookId": "chinese-g5down",
+  "unitNumber": 8,
+  "unitTitle": "幽默与风趣",
+  "kpIndex": 7,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗词识记",
+      "question": "'怪生无雨都张伞，不是遮头是使（ ）。'",
+      "options": [],
+      "answer": "风",
+      "explanation": "出自《舟过安仁》，此句写出了小童的机灵。"
+    }
+  ],
+  "knowledge": null
+}

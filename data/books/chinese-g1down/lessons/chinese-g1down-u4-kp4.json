@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1down-u4-kp4",
+  "title": "理解阅读",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 3,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "阅读：粽子是用青青的箬竹叶包的，里面裹着白白的糯米，中间有一颗红红的枣。这段话主要描写了粽子的：",
+      "options": [
+        "味道",
+        "外形和成分",
+        "做法",
+        "来历"
+      ],
+      "answer": "外形和成分",
+      "explanation": "句子提到了叶、米、枣，是在交代粽子的材料和外观。"
+    }
+  ],
+  "knowledge": null
+}

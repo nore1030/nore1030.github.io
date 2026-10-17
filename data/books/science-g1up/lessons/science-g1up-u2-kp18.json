@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp18",
+  "title": "植物与季节",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物与季节",
+      "question": "柳树在什么时候开始发芽？",
+      "options": [
+        "春季",
+        "夏季",
+        "秋季",
+        "冬季"
+      ],
+      "answer": "春季",
+      "explanation": "春季气温回升，植物进入萌芽生长期。"
+    }
+  ],
+  "knowledge": null
+}

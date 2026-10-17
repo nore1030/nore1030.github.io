@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u5-kp2",
+  "title": "购物与场所词汇",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 5,
+  "unitTitle": "Module 5 Can I have an ice cream? 请求与许可",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "购物与场所词汇",
+      "question": "「商店」的英文是（　）",
+      "options": [
+        "shop",
+        "ship",
+        "sharp",
+        "sheep"
+      ],
+      "answer": "shop",
+      "explanation": "shop = 商店。"
+    }
+  ],
+  "knowledge": {
+    "point": "购物与场所词汇",
+    "core_concept": "shop 商店、ice cream 冰淇淋、library 图书馆；Don't worry. 别担心。",
+    "key_formula": "go to the shop 去商店",
+    "common_mistakes": [
+      "ice cream 写成 icecream。"
+    ],
+    "tips": "ice cream 分两词写。"
+  }
+}

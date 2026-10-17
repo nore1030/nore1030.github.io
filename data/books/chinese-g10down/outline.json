@@ -1,0 +1,103 @@
+{
+  "textbook": "必修下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "古诗文与文学创作",
+      "knowledge_points": [
+        {
+          "name": "古诗词鉴赏",
+          "description": "鉴赏古诗词的形象意境与语言。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文学写作与修改",
+          "description": "掌握文学写作与修改要点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g10down-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "现代文阅读与语言文字运用",
+      "knowledge_points": [
+        {
+          "name": "小说与戏剧阅读",
+          "description": "把握小说的叙事与戏剧的冲突。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "语言文字积累",
+          "description": "掌握成语、连贯与表达得体。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g10down-u2-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "chinese-g10down",
+  "grade": 10,
+  "semester": "down",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "chinese-g10down-u1-kp1",
+      "title": "古诗词鉴赏",
+      "unitNumber": 1,
+      "unitTitle": "古诗文与文学创作",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g10down-u1-kp2",
+      "title": "文学写作与修改",
+      "unitNumber": 1,
+      "unitTitle": "古诗文与文学创作",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g10down-u2-kp1",
+      "title": "小说与戏剧阅读",
+      "unitNumber": 2,
+      "unitTitle": "现代文阅读与语言文字运用",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g10down-u2-kp2",
+      "title": "语言文字积累",
+      "unitNumber": 2,
+      "unitTitle": "现代文阅读与语言文字运用",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

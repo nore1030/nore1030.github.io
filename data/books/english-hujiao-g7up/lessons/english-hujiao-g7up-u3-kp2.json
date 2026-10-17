@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g7up-u3-kp2",
+  "title": "情态动词 should / must",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Module 2 The natural world — The earth 我们的地球",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情态动词 should / must",
+      "question": "「我们应该保护环境。」的英文是（　）",
+      "options": [
+        "We should protect the environment.",
+        "We should protects the environment.",
+        "We should to protect the environment.",
+        "We should protecting the environment."
+      ],
+      "answer": "We should protect the environment.",
+      "explanation": "should + 原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "情态动词 should / must",
+    "core_concept": "should 应该（建议）、must 必须（强制）；否定 shouldn't 不应该。后接动词原形。",
+    "key_formula": "We should protect the environment.",
+    "common_mistakes": [
+      "should 后接 to do。"
+    ],
+    "tips": "情态动词后接原形。"
+  }
+}

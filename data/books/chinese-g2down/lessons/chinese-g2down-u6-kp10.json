@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u6-kp10",
+  "title": "标点符号",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "选出标点符号使用完全正确的一项：",
+      "options": [
+        "你在哪儿。小明？",
+        "天上的云真美啊！",
+        "妈妈说，你快回来吧？",
+        "我喜欢看，童话书。"
+      ],
+      "answer": "天上的云真美啊！",
+      "explanation": "感叹句结尾使用感叹号。"
+    }
+  ],
+  "knowledge": null
+}

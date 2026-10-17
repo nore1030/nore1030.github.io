@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp13",
+  "title": "传播介题",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "传播介题",
+      "question": "月球上宇航员必须通过无线电通话，是因为：",
+      "options": [
+        "月球上温度太低",
+        "月球上没有空气",
+        "月球上引力太小",
+        "宇航服隔绝了声音"
+      ],
+      "answer": "月球上没有空气",
+      "explanation": "真空中没有传声介质，所以声音无法传播。"
+    }
+  ],
+  "knowledge": null
+}

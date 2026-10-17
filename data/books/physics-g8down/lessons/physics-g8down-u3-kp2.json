@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8down-u3-kp2",
+  "title": "动能与势能",
+  "bookId": "physics-g8down",
+  "unitNumber": 3,
+  "unitTitle": "功和机械能",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动能与势能",
+      "question": "下列物体具有重力势能的是（　）",
+      "options": [
+        "水平地面上静止的石块",
+        "被举高的杠铃",
+        "静止的弹簧",
+        "运动的汽车"
+      ],
+      "answer": "被举高的杠铃",
+      "explanation": "有高度且受重力。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "动能与势能",
+      "question": "物体的速度越大，动能一定越大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "还与质量有关。"
+    }
+  ],
+  "knowledge": {
+    "point": "动能与势能",
+    "core_concept": "动能大小与质量和速度有关（质量越大、速度越大动能越大）；重力势能与质量和高度有关；弹性势能与弹性形变程度有关。",
+    "key_formula": "$E_k$ 与 $m$、$v$ 有关",
+    "common_mistakes": [
+      "认为动能只与速度有关。"
+    ],
+    "tips": "机械能 = 动能 + 势能。"
+  }
+}

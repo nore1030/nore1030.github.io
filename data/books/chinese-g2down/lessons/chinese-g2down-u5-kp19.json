@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp19",
+  "title": "看拼音写词语",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "看拼音写词语",
+      "question": "这个办法（tú láo）无功，真是可惜。",
+      "options": [],
+      "answer": "徒劳",
+      "explanation": "拼音对应的词语是“徒劳”。"
+    }
+  ],
+  "knowledge": null
+}

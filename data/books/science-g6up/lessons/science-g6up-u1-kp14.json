@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp14",
+  "title": "微生物发现史",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "微生物发现史",
+      "question": "第一个发现细胞的科学家是（）。",
+      "options": [
+        "列文虎克",
+        "罗伯特·胡克",
+        "巴斯德",
+        "达尔文"
+      ],
+      "answer": "罗伯特·胡克",
+      "explanation": "1665年罗伯特·胡克用显微镜观察到软木塞上的小孔并命名为细胞。"
+    }
+  ],
+  "knowledge": null
+}

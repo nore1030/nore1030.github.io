@@ -1,0 +1,55 @@
+{
+  "id": "english-g3up-u1-kp6",
+  "title": "物品持有表达",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 2,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "物品持有表达",
+      "question": "在句子 'I have an eraser.' 中，使用 'an' 是因为 'eraser' 以元音音素开头。",
+      "options": [],
+      "answer": "对",
+      "explanation": "以元音音素开头的单词前通常用不定冠词an。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "物品持有表达",
+      "question": "I _______ a ruler.",
+      "options": [
+        "is",
+        "am",
+        "have",
+        "has"
+      ],
+      "answer": "have",
+      "explanation": "第一人称主语I后接动词have表示“有”。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "物品持有表达",
+      "question": "将下列单词排列成一句完整的话：",
+      "options": [
+        "have",
+        "I",
+        "ruler",
+        "a"
+      ],
+      "answer": "I,have,a,ruler",
+      "explanation": "我有尺子的表达：I have a ruler."
+    }
+  ],
+  "knowledge": null
+}

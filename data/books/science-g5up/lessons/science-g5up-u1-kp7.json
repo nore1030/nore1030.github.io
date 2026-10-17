@@ -1,0 +1,66 @@
+{
+  "id": "science-g5up-u1-kp7",
+  "title": "光的反射",
+  "bookId": "science-g5up",
+  "unitNumber": 1,
+  "unitTitle": "光",
+  "kpIndex": 2,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "光的反射",
+      "question": "我们能够看到不发光的物体，是因为这些物体反射了光进入我们的眼睛。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人眼看到非光源物体是依靠其表面反射的光线进入眼球。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的反射",
+      "question": "汽车的后视镜使用了（___）来增加视野。",
+      "options": [
+        "平面镜",
+        "凸透镜",
+        "凸面镜",
+        "凹面镜"
+      ],
+      "answer": "凸面镜",
+      "explanation": "凸面镜对光有发散作用，可以扩大驾驶员的视野。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光的反射",
+      "question": "我们在黑板前不同位置都能看清黑板上的字，是因为黑板发生了（___）。",
+      "options": [
+        "镜面反射",
+        "漫反射",
+        "折射",
+        "直线传播"
+      ],
+      "answer": "漫反射",
+      "explanation": "表面粗糙的物体会向各个方向反射光，叫漫反射，所以各个方向都能看见。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "光的反射",
+      "question": "两面平面镜成90度摆放，中间放一玩具，可以在镜中看到（___）个玩具的像。",
+      "options": [],
+      "answer": "3",
+      "explanation": "根据公式可得360/90 - 1 = 3个像。"
+    }
+  ],
+  "knowledge": null
+}

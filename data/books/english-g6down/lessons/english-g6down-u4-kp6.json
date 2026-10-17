@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u4-kp6",
+  "title": "个人能力表达",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 2,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "个人能力表达",
+      "question": "I could not ride a bike before. 这里的 could not 代表过去的能力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "could是can的过去式，表示过去的能力。"
+    }
+  ],
+  "knowledge": null
+}

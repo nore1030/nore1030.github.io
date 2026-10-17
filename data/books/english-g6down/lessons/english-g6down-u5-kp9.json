@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u5-kp9",
+  "title": "词汇分类",
+  "bookId": "english-g6down",
+  "unitNumber": 5,
+  "unitTitle": "Recycle & Review",
+  "kpIndex": 5,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇分类",
+      "question": "Which word doesn't belong to others? (哪一个单词不属于同一类?)",
+      "options": [
+        "scientist",
+        "pilot",
+        "coach",
+        "summer"
+      ],
+      "answer": "summer",
+      "explanation": "其他三项是职业，summer是季节。"
+    }
+  ],
+  "knowledge": null
+}

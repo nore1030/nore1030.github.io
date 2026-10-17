@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u4-kp8",
+  "title": "标志词识别",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "标志词识别",
+      "question": "ago 是描述‘现在’的时间标志词。",
+      "options": [],
+      "answer": "错",
+      "explanation": "ago意为‘以前’，是过去时的标志。"
+    }
+  ],
+  "knowledge": null
+}

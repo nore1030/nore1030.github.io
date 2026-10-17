@@ -1,0 +1,50 @@
+{
+  "id": "science-g1down-u1-kp9",
+  "title": "水的特征",
+  "bookId": "science-g1down",
+  "unitNumber": 1,
+  "unitTitle": "我们周围的物体",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水的特征",
+      "question": "水是一种没有颜色、没有味道、透明的液体。",
+      "options": [],
+      "answer": "对",
+      "explanation": "无色、无味、透明是水的典型物理特征。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "水的特征",
+      "question": "水和洗发液的相同点是（）。",
+      "options": [
+        "颜色",
+        "气味",
+        "都会流动",
+        "透明度"
+      ],
+      "answer": "都会流动",
+      "explanation": "水和洗发液都是液体，共同特征是具有流动性。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的特征",
+      "question": "水是会（___）的，所以它没有固定的形状。",
+      "options": [],
+      "answer": "流动",
+      "explanation": "流动性是液体的重要特征。"
+    }
+  ],
+  "knowledge": null
+}

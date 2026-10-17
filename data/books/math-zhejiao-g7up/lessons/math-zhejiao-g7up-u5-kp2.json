@@ -1,0 +1,64 @@
+{
+  "id": "math-zhejiao-g7up-u5-kp2",
+  "title": "一元一次方程的解法",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 5,
+  "unitTitle": "第5章 一元一次方程",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "解方程 $x+5=12$，$x=$ ___",
+      "options": [],
+      "answer": "7",
+      "explanation": "$x=12-5=7$。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "解方程：$5x − 3 = 17$，则 $x = $ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "移项得 $5x = 17 + 3$，即 $5x = 20$，两边同除以 5，得 $x = 4$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "解方程：$4x + 8 = 32$，则 $x = $ ？",
+      "options": [],
+      "answer": "6",
+      "explanation": "移项得 $4x = 32 − 8$，即 $4x = 24$，两边同除以 4，得 $x = 6$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "一元一次方程的解法",
+      "question": "解方程 $3(x-2)=9$，$x=$ ？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$x-2=3$，$x=5$。"
+    }
+  ],
+  "knowledge": {
+    "point": "一元一次方程的解法",
+    "core_concept": "解一元一次方程：去分母、去括号、移项、合并同类项、系数化为 1。移项要变号。",
+    "key_formula": "去分母 → 去括号 → 移项 → 合并 → 系数化 1",
+    "common_mistakes": [
+      "移项忘记变号。"
+    ],
+    "tips": "移项 = 过桥变号。"
+  }
+}

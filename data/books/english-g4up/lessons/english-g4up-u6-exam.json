@@ -1,0 +1,222 @@
+{
+  "id": "english-g4up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 19,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义判断",
+      "question": "'football player' 指的是“足球运动员”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "football(足球) + player(球员)。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "拼音规律",
+      "question": "单词 'me' 和 'he' 的末尾字母 'e' 发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者均属于开音节，字母 e 发其字母音 [i:]。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问职业表达法",
+      "question": "询问别人职业可以说 'What's his job?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是询问他人职业的标准句型之一。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "词法规则",
+      "question": "询问家人总数，如果回答是 1，则不能用 how many 提问。",
+      "options": [],
+      "answer": "错",
+      "explanation": "无论回答是多少，询问数量均可用 how many。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词形式",
+      "question": "How many people ______ there in your family?",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "am"
+      ],
+      "answer": "are",
+      "explanation": "there be 句型中，people 视作复数，动词用 are。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业连用",
+      "question": "My aunt is ______ nurse.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some"
+      ],
+      "answer": "a",
+      "explanation": "nurse 以辅音音素开头，使用不定冠词 a。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业关联",
+      "question": "Your father is a driver. He drives a ______.",
+      "options": [
+        "car",
+        "plane",
+        "boat",
+        "desk"
+      ],
+      "answer": "car",
+      "explanation": "司机驾驶的是车辆（car）。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问职业",
+      "question": "What's his ______? He's a teacher.",
+      "options": [
+        "name",
+        "job",
+        "tall",
+        "colour"
+      ],
+      "answer": "job",
+      "explanation": "根据回答 He's a teacher 可知问的是职业（job）。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "肯定回答",
+      "question": "Are these your parents? Yes, ______.",
+      "options": [
+        "they are",
+        "they aren't",
+        "it is",
+        "we are"
+      ],
+      "answer": "they are",
+      "explanation": "these 指代复数，回答用 they。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "所有格",
+      "question": "This is ______ photo.",
+      "options": [
+        "Sarah's",
+        "Sarah",
+        "she",
+        "he"
+      ],
+      "answer": "Sarah's",
+      "explanation": "此处指 Sarah 的照片，使用名词所有格形式。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问人数词组",
+      "question": "How ______ family members do you have?",
+      "options": [],
+      "answer": "many",
+      "explanation": "询问数量使用 how many。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业词汇",
+      "question": "She works in a school. She is a ______.",
+      "options": [],
+      "answer": "teacher",
+      "explanation": "在学校工作通常是教师 teacher。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "冠词用法",
+      "question": "His uncle is ______ doctor.",
+      "options": [],
+      "answer": "a",
+      "explanation": "单数名词 doctor 指代一种身份，需用不定冠词 a。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型翻译匹配",
+      "question": "将下列英文句子与正确中文对应。",
+      "options": [
+        "How many people?",
+        "Meet my family.",
+        "What is her job?",
+        "Is he a cook?",
+        "她是做什么工作的？",
+        "有多少人？",
+        "他是厨师吗？",
+        "见见我的家人。"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "逐句核对：多少人=A，见家人=B，她职业=C，他厨师=D。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型重组",
+      "question": "将单词排列成句：She,a,is,nurse,.",
+      "options": [
+        "She",
+        "a",
+        "is",
+        "nurse",
+        "."
+      ],
+      "answer": "She,is,a,nurse,.",
+      "explanation": "句意：她是一名护士。"
+    }
+  ],
+  "knowledge": null
+}

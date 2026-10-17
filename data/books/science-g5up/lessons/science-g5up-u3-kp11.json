@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u3-kp11",
+  "title": "实验数据处理",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 9,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实验数据处理",
+      "question": "如果要让摆在15秒内正好摆动15次，那么摆动1次需要（___）秒。",
+      "options": [],
+      "answer": "1",
+      "explanation": "15除以15等于1秒。"
+    }
+  ],
+  "knowledge": null
+}

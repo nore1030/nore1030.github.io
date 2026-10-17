@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp9",
+  "title": "现在进行时",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现在进行时",
+      "question": "Look! The panda is ________ bamboo.",
+      "options": [
+        "eat",
+        "eats",
+        "eating",
+        "ate"
+      ],
+      "answer": "eating",
+      "explanation": "Look是现在进行时的标志词，需用be + 动词ing。"
+    }
+  ],
+  "knowledge": null
+}

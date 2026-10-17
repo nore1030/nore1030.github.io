@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp13",
+  "title": "标点符号",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号",
+      "question": "选择标点符号完全正确的一项：小马（ ）能不能帮妈妈做点事呢（ ）",
+      "options": [
+        "！ ？",
+        "， 呢",
+        "， ？",
+        "。 。"
+      ],
+      "answer": "， ？",
+      "explanation": "称呼语后用逗号，疑问句末尾用问号。"
+    }
+  ],
+  "knowledge": null
+}

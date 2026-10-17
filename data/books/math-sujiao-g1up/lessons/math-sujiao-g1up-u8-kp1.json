@@ -1,0 +1,69 @@
+{
+  "id": "math-sujiao-g1up-u8-kp1",
+  "title": "10 以内的加法",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 8,
+  "unitTitle": "10以内的加法和减法",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "10 以内的加法",
+      "question": "计算：3 + 4 = ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "3 + 4 = 7。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "10 以内的加法",
+      "question": "计算：2 + 5 = ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "2 + 5 = 7。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "10 以内的加法",
+      "question": "计算：6 + 3 = ？",
+      "options": [],
+      "answer": "9",
+      "explanation": "6 + 3 = 9。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "10 以内的加法",
+      "question": "树上有 4 只鸟，又飞来 2 只，一共（　）只",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "4 + 2 = 6。"
+    }
+  ],
+  "knowledge": {
+    "point": "10 以内的加法",
+    "core_concept": "把两部分合起来用加法；可用分与合、接着数、凑十法计算。",
+    "key_formula": "$a+b=c$",
+    "common_mistakes": [
+      "把加法当减法。"
+    ],
+    "tips": "合起来用加法。"
+  }
+}

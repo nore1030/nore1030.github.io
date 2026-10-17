@@ -1,0 +1,66 @@
+{
+  "id": "biology-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "biology-g8up",
+  "unitNumber": 2,
+  "unitTitle": "动物的运动与行为",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动系统的组成与功能",
+      "question": "关节的基本结构包括（　）",
+      "options": [
+        "关节面、关节囊、关节窝",
+        "骨和肌肉",
+        "韧带和血管",
+        "皮肤和神经"
+      ],
+      "answer": "关节面、关节囊、关节窝",
+      "explanation": "关节三部分。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "动物的行为",
+      "question": "决定先天性行为的物质基础是（　）",
+      "options": [
+        "遗传物质",
+        "生活经验",
+        "环境因素",
+        "教师训练"
+      ],
+      "answer": "遗传物质",
+      "explanation": "先天性行为由遗传物质决定。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "运动系统的组成与功能",
+      "question": "骨骼具有支撑、杠杆、保持姿态和保护作用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "骨骼功能。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "动物的行为",
+      "question": "学习行为有利于动物适应变化的环境。",
+      "options": [],
+      "answer": "对",
+      "explanation": "学习行为意义。"
+    }
+  ],
+  "knowledge": null
+}

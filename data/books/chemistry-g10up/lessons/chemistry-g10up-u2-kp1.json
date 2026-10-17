@@ -1,0 +1,58 @@
+{
+  "id": "chemistry-g10up-u2-kp1",
+  "title": "钠及其化合物",
+  "bookId": "chemistry-g10up",
+  "unitNumber": 2,
+  "unitTitle": "钠、氯及其化合物",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "钠及其化合物",
+      "question": "钠与水反应的现象不包括（　）",
+      "options": [
+        "浮在水面",
+        "熔成小球",
+        "沉入水底",
+        "四处游动"
+      ],
+      "answer": "沉入水底",
+      "explanation": "钠密度小于水。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "钠及其化合物",
+      "question": "过氧化钠可用于呼吸面具或潜水艇中供氧。",
+      "options": [],
+      "answer": "对",
+      "explanation": "与 CO₂ 反应产生 O₂。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "钠及其化合物",
+      "question": "4.6 g 钠的物质的量是多少 mol？（Na 为 23 g/mol）",
+      "options": [],
+      "answer": "0.2",
+      "explanation": "$n=\\frac{4.6}{23}=0.2$ mol。"
+    }
+  ],
+  "knowledge": {
+    "point": "钠及其化合物",
+    "core_concept": "钠是活泼金属，与水反应生成氢氧化钠和氢气。过氧化钠与二氧化碳反应生成碳酸钠和氧气，可用于供氧。碳酸氢钠受热易分解。",
+    "key_formula": "$2\\text{Na}+2\\text{H}_2\\text{O}=2\\text{NaOH}+\\text{H}_2\\uparrow$",
+    "common_mistakes": [
+      "认为钠可置换出盐溶液中的金属。"
+    ],
+    "tips": "钠先与水反应。"
+  }
+}

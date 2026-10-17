@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u8-kp1",
+  "title": "名词所有格 's",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 8,
+  "unitTitle": "Module 8 This is Sam's book 物品归属",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词所有格 's",
+      "question": "「这是萨姆的书。」的英文是（　）",
+      "options": [
+        "This is Sam's book.",
+        "This is Sam book.",
+        "This is Sams' book.",
+        "This is book Sam."
+      ],
+      "answer": "This is Sam's book.",
+      "explanation": "人名 + 's。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词所有格 's",
+      "question": "「我奶奶的雨伞」的英文是（　）",
+      "options": [
+        "my grandma's umbrella",
+        "my grandma umbrella",
+        "my grandmas' umbrella",
+        "my grandma's umbrellas"
+      ],
+      "answer": "my grandma's umbrella",
+      "explanation": "奶奶 + 's。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "名词所有格 's",
+      "question": "Sam's 表示「萨姆的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "'s 表所属。"
+    }
+  ],
+  "knowledge": {
+    "point": "名词所有格 's",
+    "core_concept": "人名后加 's 表示「……的」：Sam's book 萨姆的书、my grandma's umbrella 我奶奶的雨伞。",
+    "key_formula": "Sam's book / grandma's umbrella",
+    "common_mistakes": [
+      "写成 the book of Sam 生硬。"
+    ],
+    "tips": "人所有用 's 最自然。"
+  }
+}

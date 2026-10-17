@@ -1,0 +1,70 @@
+{
+  "id": "g4up-u1-kp5",
+  "title": "进位制与计算工具的认识",
+  "bookId": "g4up",
+  "unitNumber": 1,
+  "unitTitle": "大数的认识",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "进位制与计算工具的认识",
+      "question": "在算盘上，一个上珠表示1，一个下珠也表示1。",
+      "options": [],
+      "answer": "错",
+      "explanation": "在算盘上，一个上珠表示5，一个下珠表示1。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "进位制与计算工具的认识",
+      "question": "在计算器上，开机键是（  ）。",
+      "options": [
+        "OFF",
+        "CE",
+        "ON",
+        "AC"
+      ],
+      "answer": "ON",
+      "explanation": "ON是开启/清零键，OFF是关机键。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "进位制与计算工具的认识",
+      "question": "计算：$25000 + 45000 = ?$",
+      "options": [],
+      "answer": "70000",
+      "explanation": "$25 + 45 = 70$，后面补三个零。验算：$70000 - 45000 = 25000$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "进位制与计算工具的认识",
+      "question": "计算：$120 \\times 40 = ?$",
+      "options": [],
+      "answer": "4800",
+      "explanation": "$12 \\times 4 = 48$，因数末尾共有两个0。验算：$4800 \\div 40 = 120$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "进位制与计算工具的认识",
+    "core_concept": "了解从石子计数、结绳计数到阿拉伯数字的演变。掌握算盘（上珠为5，下珠为1）和计算器的基本操作。",
+    "key_formula": "十进制计数法：满十进一",
+    "common_mistakes": [
+      "计算器CE和AC键功能混淆",
+      "算盘上珠计数看成1"
+    ],
+    "tips": "在计算器上计算大数时，一定要细心看准位数，不要少输或者多输0。"
+  }
+}

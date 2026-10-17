@@ -1,0 +1,42 @@
+{
+  "id": "physics-g8up-u3-kp2",
+  "title": "熔化和凝固",
+  "bookId": "physics-g8up",
+  "unitNumber": 3,
+  "unitTitle": "物态变化",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "熔化和凝固",
+      "question": "晶体在熔化过程中温度保持不变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "晶体有固定熔点。"
+    },
+    {
+      "id": 4,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "熔化和凝固",
+      "question": "物质从液态变为固态的过程叫 ___。",
+      "options": [],
+      "answer": "凝固",
+      "explanation": "凝固定义，且放热。"
+    }
+  ],
+  "knowledge": {
+    "point": "熔化和凝固",
+    "core_concept": "晶体熔化时吸热但温度保持在熔点不变；非晶体没有固定熔点。熔化吸热、凝固放热。",
+    "key_formula": "晶体熔化时温度不变",
+    "common_mistakes": [
+      "认为熔化过程温度持续升高。"
+    ],
+    "tips": "晶体熔化图象有一段水平线。"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "chinese-g2up-u1-kp2",
+  "title": "水的形态变化及其影响",
+  "bookId": "chinese-g2up",
+  "unitNumber": 1,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "水在极低温度下会变成冰，这属于水的形态变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "水遇冷会凝结成冰，变成固体形态。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "“有时候我穿着白衣服，有时候我穿着黑衣服。”这里的“我”是谁？",
+      "options": [
+        "雨",
+        "雪",
+        "云",
+        "雹子"
+      ],
+      "answer": "云",
+      "explanation": "课文中描写云在晴天是白的，阴天是黑的。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "水能做许多好事，下列哪项不是水做的好事？",
+      "options": [
+        "灌溉田地",
+        "发动机器",
+        "淹没庄稼",
+        "冲洗道路"
+      ],
+      "answer": "淹没庄稼",
+      "explanation": "淹没庄稼是水带来的灾害，属于坏事。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "小雪花从空中（  ）下来。",
+      "options": [
+        "落",
+        "打",
+        "飘",
+        "跳"
+      ],
+      "answer": "飘",
+      "explanation": "雪花很轻，用“飘”描写最为精准生动。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "我在池子里睡觉，在小溪里（___）。",
+      "options": [],
+      "answer": "散步",
+      "explanation": "课文中使用拟人化的“散步”描写水在小溪里的流动。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "水的形态变化及其影响",
+      "question": "给下列现象选择正确的变化形态。",
+      "options": [
+        "白云",
+        "雨滴",
+        "冰雹",
+        "雪花",
+        "变成小水滴",
+        "聚成小硬球",
+        "变成小花朵",
+        "变成汽"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "白云是汽升空后的变化，雨是降雨的过程，冰雹是硬球，雪花是花朵。"
+    }
+  ],
+  "knowledge": {
+    "point": "水的形态变化及其影响",
+    "core_concept": "理解水在自然界的不同存在形式：液态（水、雨）、气态（汽）、固态（冰、雹、雪）。同时通过拟人化视角理解水的双重性：当它在池子睡觉、江河奔跑时是造福人类的工具；当它发起脾气引发灾害时，则需要我们科学防范与治理。",
+    "key_formula": "水形态公式：受热为汽，遇冷成云/雨/雪/冰。",
+    "common_mistakes": [
+      "认为云是气体（其实云是微小水滴或冰晶的集合体）",
+      "无法区分“由于气温降低”产生的不同效果"
+    ],
+    "tips": "画一张水循环示意图，标注出对应的动词（落、打、飘），帮助记忆不同形态。"
+  }
+}

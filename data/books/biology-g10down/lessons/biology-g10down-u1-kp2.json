@@ -1,0 +1,47 @@
+{
+  "id": "biology-g10down-u1-kp2",
+  "title": "自由组合定律",
+  "bookId": "biology-g10down",
+  "unitNumber": 1,
+  "unitTitle": "遗传因子的发现",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "自由组合定律",
+      "question": "$AaBb\\times AaBb$（独立遗传）后代中 $aabb$ 的比例是（　）",
+      "options": [
+        "$\\frac1{16}$",
+        "$\\frac1{4}$",
+        "$\\frac9{16}$",
+        "$\\frac1{8}$"
+      ],
+      "answer": "$\\frac1{16}$",
+      "explanation": "$\\frac14\\times\\frac14=\\frac1{16}$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "自由组合定律",
+      "question": "自由组合定律适用于位于非同源染色体上的非等位基因。",
+      "options": [],
+      "answer": "对",
+      "explanation": "适用条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "自由组合定律",
+    "core_concept": "两对相对性状杂交，F₂ 表现型比例为 9:3:3:1，说明非同源染色体上的非等位基因自由组合。",
+    "key_formula": "9:3:3:1",
+    "common_mistakes": [
+      "忽略自由组合的适用条件。"
+    ],
+    "tips": "需位于非同源染色体上。"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "g5up-u4-kp2",
+  "title": "可能性的大小比较",
+  "bookId": "g5up",
+  "unitNumber": 4,
+  "unitTitle": "可能性",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "可能性的大小比较",
+      "question": "口袋里有5个红球和2个白球，摸到白球的可能性比红球大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "5 > 2，红球数量多，摸到红球的可能性大。原命题错误。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "转动一个转盘，指针停在红色区域5次，蓝色区域15次。则（ ）区域的面积可能更大。",
+      "options": [
+        "红色",
+        "蓝色",
+        "一样大",
+        "无法判断"
+      ],
+      "answer": "蓝色",
+      "explanation": "次数多的通常对应可能性大的区域，因此蓝色区域面积可能更大。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "可能性的大小比较",
+      "question": "盒子里有10个黑球，1个粉球。摸一次，摸到（ ）球的可能性最小。",
+      "options": [
+        "黑",
+        "白",
+        "粉",
+        "蓝"
+      ],
+      "answer": "粉",
+      "explanation": "粉球数量最少（只有1个），所以可能性最小。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "小明掷骰子（1-6点），掷出的点数大于4的有（ ）种可能。",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "大于4的点数有5和6，共2个。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "有3个红球和8个黄球，任意摸一个。下面说法正确的是（ ）。",
+      "options": [
+        "摸到红球可能性大",
+        "摸到黄球可能性大",
+        "摸到的一定是红球",
+        "摸到的不可能是黄球"
+      ],
+      "answer": "摸到黄球可能性大",
+      "explanation": "8 > 3，数量多的可能性大。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "可能性的大小比较",
+      "question": "盒子里有9个红球。如果想让摸到白球的可能性大，至少要往盒子里放入（ ）个白球。",
+      "options": [
+        "1",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "要使白球可能性大，数量必须超过红球。9 + 1 = 10。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "一个布袋里放了大小相同的球，摸到红球可能性最大。说明红球数量（ ）。",
+      "options": [
+        "最少",
+        "最多",
+        "和白球一样",
+        "中等"
+      ],
+      "answer": "最多",
+      "explanation": "可能性最大对应的数量最多。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "可能性的大小比较",
+      "question": "一个口袋里有 5 个红球和 3 个黄球，红球比黄球多 ___ 个。",
+      "options": [],
+      "answer": "2",
+      "explanation": "列式：$5 - 3 = 2$（个）。验算：$2 + 3 = 5$ ✓。红球多意味着抽中可能性大。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "可能性的大小比较",
+      "question": "$25 \times 4 - 20 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "先算乘法 $25 \times 4 = 100$，再算减法 $100 - 20 = 80$。验算：$80 + 20 = 100$, $100 \times \frac{1}{4} = 25$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "可能性的大小比较",
+    "core_concept": "事件发生的可能性大小与它所包含的个体数量或所占的面积比例有关。在总数一定的情况下，数量越多，出现的可能性就越大；反之则越小。",
+    "key_formula": "数量（或面积）越多 $\rightarrow$ 可能性越大。",
+    "common_mistakes": [
+      "认为只要有这个选项，可能性就一样大，忽视了数量差异。",
+      "在计算抽奖公平性时，只看种类没看具体的份额。"
+    ],
+    "tips": "先数一数各部分的数量，数量最多的对应可能性最大，数量最少的对应可能性最小。"
+  }
+}

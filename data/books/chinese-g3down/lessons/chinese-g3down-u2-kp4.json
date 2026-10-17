@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u2-kp4",
+  "title": "字词读音",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 0,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词读音",
+      "question": "《守株待兔》中‘冀复得兔’的‘冀’读音是 jì。",
+      "options": [],
+      "answer": "对",
+      "explanation": "冀（jì）是希望的意思。"
+    }
+  ],
+  "knowledge": null
+}

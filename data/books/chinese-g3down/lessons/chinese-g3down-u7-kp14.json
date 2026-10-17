@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u7-kp14",
+  "title": "课文关键字",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文关键字",
+      "question": "《海底世界》的一句话总结：海底真是个（___），物产丰富的世界。",
+      "options": [],
+      "answer": "景色奇异",
+      "explanation": "对应课文最后一自然段的总结句。"
+    }
+  ],
+  "knowledge": null
+}

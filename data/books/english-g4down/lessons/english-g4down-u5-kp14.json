@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp14",
+  "title": "一般疑问句",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句",
+      "question": "Is this your skirt? ______",
+      "options": [
+        "Yes, it is.",
+        "Yes, it's.",
+        "No, it is.",
+        "No, they aren't."
+      ],
+      "answer": "Yes, it is.",
+      "explanation": "Is this 开头的疑问句，肯定回答为Yes, it is."
+    }
+  ],
+  "knowledge": null
+}

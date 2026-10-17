@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp18",
+  "title": "逻辑理解",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逻辑理解",
+      "question": "Three and five is _____.",
+      "options": [
+        "six",
+        "seven",
+        "eight",
+        "nine"
+      ],
+      "answer": "eight",
+      "explanation": "3加5等于8。"
+    }
+  ],
+  "knowledge": null
+}

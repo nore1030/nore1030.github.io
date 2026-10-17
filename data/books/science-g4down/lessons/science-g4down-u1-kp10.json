@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u1-kp10",
+  "title": "种子的传播",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "种子的传播",
+      "question": "凤仙花的果实成熟后会自动爆裂，将种子弹射出去。",
+      "options": [],
+      "answer": "对",
+      "explanation": "凤仙花属于弹射传播（自体传播）的一种。"
+    }
+  ],
+  "knowledge": null
+}

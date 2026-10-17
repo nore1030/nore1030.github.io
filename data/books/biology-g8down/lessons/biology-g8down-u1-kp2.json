@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8down-u1-kp2",
+  "title": "人体的三道防线与免疫",
+  "bookId": "biology-g8down",
+  "unitNumber": 1,
+  "unitTitle": "人的健康与免疫",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "人体的三道防线与免疫",
+      "question": "人体的第一道防线是（　）",
+      "options": [
+        "皮肤和黏膜",
+        "吞噬细胞",
+        "抗体",
+        "淋巴细胞"
+      ],
+      "answer": "皮肤和黏膜",
+      "explanation": "第一道防线是皮肤黏膜。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "人体的三道防线与免疫",
+      "question": "免疫系统具有防御、监控和清除功能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "免疫系统三大功能。"
+    }
+  ],
+  "knowledge": {
+    "point": "人体的三道防线与免疫",
+    "core_concept": "人体三道防线：第一道皮肤和黏膜，第二道体液中的杀菌物质和吞噬细胞，第三道免疫器官和免疫细胞。前两道人人都有，第三道只出现在部分人身上。",
+    "key_formula": "三道防线",
+    "common_mistakes": [
+      "认为免疫系统只会清除病菌。"
+    ],
+    "tips": "免疫有防御、监控和清除功能。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g3down-u3-kp13",
+  "title": "天体对比",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 7,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天体对比",
+      "question": "月球是地球唯一的（）。",
+      "options": [
+        "恒星",
+        "行星",
+        "卫星",
+        "星体"
+      ],
+      "answer": "卫星",
+      "explanation": "月球围绕行星（地球）运行，属于自然卫星。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g2up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "chinese-g2up",
+  "unitNumber": 4,
+  "unitTitle": "家乡",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "“闻名中外”的意思是在中国和外国都很有名。",
+      "options": [],
+      "answer": "对",
+      "explanation": "中外指范围，闻名指名气大。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "“入”和“出”是一对反义词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基础语义辨析，入表示进，出表示往外。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "留言条的书写规范",
+      "question": "留言条的正文部分，每一段开头都要空两格。",
+      "options": [],
+      "answer": "对",
+      "explanation": "留言条正文格式要求和普通信件、段落一样，首行缩进。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "描写“瀑布”时，李白用了“银河落九天”这种写法，这属于夸张的修辞。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过极度扩大的想象来突出瀑布的气势。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "下列哪组词语最适合形容家乡的景色优美？",
+      "options": [
+        "名胜古迹",
+        "山清水秀",
+        "烟消云散",
+        "一鸣惊人"
+      ],
+      "answer": "山清水秀",
+      "explanation": "山清水秀直接描写自然环境的美丽。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "“限乘20人”这四个字通常出现在哪里？",
+      "options": [
+        "书包上",
+        "电梯或汽车内",
+        "文具盒里",
+        "操场上"
+      ],
+      "answer": "电梯或汽车内",
+      "explanation": "这是生活中的警示语，表示乘坐载重限制。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《葡萄沟》中的人们非常热情，文中说维吾尔族老乡会从梯田里摘下最甜的葡萄。这里的“最甜”体现了老乡的什么？",
+      "options": [
+        "勤劳",
+        "勇敢",
+        "好客",
+        "聪明"
+      ],
+      "answer": "好客",
+      "explanation": "老乡用最好的葡萄招待客人，表现了他们的热情好客。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "留言条的书写规范",
+      "question": "写留言条的第一行，我们要先写什么？",
+      "options": [
+        "自己的名字",
+        "称呼（留给谁）",
+        "当天的日期",
+        "留下的原因"
+      ],
+      "answer": "称呼（留给谁）",
+      "explanation": "留言条的格式首先是称呼，要顶格写。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "在《黄山奇石》中，作者把奇石写得活灵活现。这种描写方法让文章更具有：",
+      "options": [
+        "神秘感",
+        "趣味性",
+        "快节奏",
+        "争议性"
+      ],
+      "answer": "趣味性",
+      "explanation": "将石头描写成仙人、狮子、猴子，充满了想象力和趣味。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "如果你在南京夫子庙游玩，看到一副对联。这属于：",
+      "options": [
+        "历史故事",
+        "寓言道理",
+        "名胜古迹文化",
+        "广告宣传"
+      ],
+      "answer": "名胜古迹文化",
+      "explanation": "名胜古迹常有对联，承载着家乡和历史的文化。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "“瀑布”的“瀑”字，左边的偏旁是（___）。",
+      "options": [],
+      "answer": "氵",
+      "explanation": "瀑布与水有关，是三点水旁。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "《望庐山瀑布》中，瀑布在太阳照耀下产生的颜色是（___）。",
+      "options": [],
+      "answer": "紫色",
+      "explanation": "“日照香炉生紫烟”，瀑布上方会升起紫色的云雾。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "请将四字词语补充完整。",
+      "options": [
+        "山清",
+        "名胜",
+        "五光",
+        "点点",
+        "水秀",
+        "十色",
+        "古迹",
+        "灯光"
+      ],
+      "answer": "A-1,B-3,C-2,D-4",
+      "explanation": "积累描写家乡美景的常用四字成语。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活实物识字与四字词语",
+      "question": "请给下列生字找到合适的部首。",
+      "options": [
+        "巨",
+        "神",
+        "迹",
+        "各",
+        "",
+        "礻",
+        "辶",
+        "夂"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考察对本单元生字部首的准确记忆。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "写景散文的表现手法",
+      "question": "请理顺句子，夸一夸我们的家乡。",
+      "options": [
+        "我的",
+        "真是个",
+        "家乡",
+        "好地方"
+      ],
+      "answer": "我的,家乡,真是个,好地方",
+      "explanation": "对应课文《葡萄沟》结尾句式的活学活用。"
+    }
+  ],
+  "knowledge": null
+}

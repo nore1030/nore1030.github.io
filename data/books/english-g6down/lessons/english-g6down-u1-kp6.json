@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u1-kp6",
+  "title": "比较级句型",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 2,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比较级句型",
+      "question": "句子 'You are taller than I.' 是错误的，than后面只能接me。",
+      "options": [],
+      "answer": "错",
+      "explanation": "than后面接主格I或宾格me皆可，在口语中常用me。"
+    }
+  ],
+  "knowledge": null
+}

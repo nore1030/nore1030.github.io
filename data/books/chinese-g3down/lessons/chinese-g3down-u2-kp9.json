@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp9",
+  "title": "多音字",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 5,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "下列词语中‘称’字的读音与其他三项不同的是：",
+      "options": [
+        "称赞",
+        "匀称",
+        "称职",
+        "对称"
+      ],
+      "answer": "称赞",
+      "explanation": "称赞读 chēng，其他三项读 chèn。"
+    }
+  ],
+  "knowledge": null
+}

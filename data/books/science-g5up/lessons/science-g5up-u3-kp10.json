@@ -1,0 +1,23 @@
+{
+  "id": "science-g5up-u3-kp10",
+  "title": "时间的计量",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 8,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间的计量",
+      "question": "当我们观察机械摆钟时，摆针摆动（___）个来回代表经过了一秒钟。",
+      "options": [],
+      "answer": "1",
+      "explanation": "标准的机械摆钟，一个完整往复代表两个半周期，或特定的一个往复对应秒计。"
+    }
+  ],
+  "knowledge": null
+}

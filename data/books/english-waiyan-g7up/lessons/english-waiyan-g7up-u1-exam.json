@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-waiyan-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 My classmates 我的同学",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词 am / is / are",
+      "question": "They ___ my classmates.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": "are",
+      "explanation": "复数用 are。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍姓名与年龄",
+      "question": "「我十三岁。」的英文是（　）",
+      "options": [
+        "I'm thirteen.",
+        "I'm threeteen.",
+        "I thirteen.",
+        "I have thirteen."
+      ],
+      "answer": "I'm thirteen.",
+      "explanation": "thirteen = 13。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be 动词 am / is / are",
+      "question": "am 只能与 I 连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "I am。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "介绍姓名与年龄",
+      "question": "「很高兴见到你。」的英文是（　）",
+      "options": [
+        "Nice to meet you.",
+        "Nice meet you.",
+        "Nice to meet your.",
+        "Nice meeting you too."
+      ],
+      "answer": "Nice to meet you.",
+      "explanation": "固定表达。"
+    }
+  ],
+  "knowledge": null
+}

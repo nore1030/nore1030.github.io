@@ -1,0 +1,66 @@
+{
+  "id": "science-g1up-u3-kp5",
+  "title": "生活中的各种测量工具",
+  "bookId": "science-g1up",
+  "unitNumber": 3,
+  "unitTitle": "比较与测量",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "在家里测量爸爸的身高，使用地秤比卷尺更合适。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地秤是测量体重的工具，测量身高应该使用卷尺。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "医生在给生病的同学检查身体时，通常会用什么来测量体温？",
+      "options": [
+        "体温枪",
+        "卷尺",
+        "秒表",
+        "天平"
+      ],
+      "answer": "体温枪",
+      "explanation": "体温枪或体温计是专门测量人体温度的工具。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "妈妈去菜市场买菜，卖菜的摊主会用什么来测量蔬菜的重量？",
+      "options": [
+        "电子秤",
+        "直尺",
+        "温度计",
+        "纸带"
+      ],
+      "answer": "电子秤",
+      "explanation": "电子秤用于测量质量/重量。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生活中的各种测量工具",
+      "question": "校运会比赛跑步时，老师手里拿着用来计时间的工具叫（___）。",
+      "options": [],
+      "answer": "秒表",
+      "explanation": "秒表是测量时间的专用工具。"
+    }
+  ],
+  "knowledge": null
+}

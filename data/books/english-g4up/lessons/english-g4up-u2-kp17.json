@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u2-kp17",
+  "title": "拼写-书包",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "拼写-书包",
+      "question": "Put your books into your s_________.",
+      "options": [],
+      "answer": "schoolbag",
+      "explanation": "本单元主题词汇，书包的英文是schoolbag。"
+    }
+  ],
+  "knowledge": null
+}

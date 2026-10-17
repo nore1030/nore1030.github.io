@@ -1,0 +1,42 @@
+{
+  "id": "math-zhejiao-g7up-u2-kp2",
+  "title": "有理数的乘方与混合运算",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第2章 有理数的运算",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的乘方与混合运算",
+      "question": "计算：$(-2)^3=$ ？",
+      "options": [],
+      "answer": "-8",
+      "explanation": "$(-2)^3=-8$，负数的奇次幂为负。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的乘方与混合运算",
+      "question": "计算：$-8+3-(-5)=$ ？",
+      "options": [],
+      "answer": "0",
+      "explanation": "$-8+3=-5$，$-5+5=0$。"
+    }
+  ],
+  "knowledge": {
+    "point": "有理数的乘方与混合运算",
+    "core_concept": "$a^n$ 表示 $n$ 个 $a$ 相乘；负数的奇次幂为负、偶次幂为正。混合运算顺序：先乘方，再乘除，后加减；有括号先算括号。",
+    "key_formula": "$(-2)^2=4$，$-2^2=-4$",
+    "common_mistakes": [
+      "$-2^2$ 与 $(-2)^2$ 混淆。"
+    ],
+    "tips": "先定符号，再算绝对值。"
+  }
+}

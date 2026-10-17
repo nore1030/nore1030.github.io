@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp15",
+  "title": "逻辑理解",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 11,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑理解",
+      "question": "A is 1.6m. B is 1.55m. So A is ____ than B.",
+      "options": [
+        "shorter",
+        "taller",
+        "smaller",
+        "thin"
+      ],
+      "answer": "taller",
+      "explanation": "1.6米大于1.55米，所以A更高。"
+    }
+  ],
+  "knowledge": null
+}

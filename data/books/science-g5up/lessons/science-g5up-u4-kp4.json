@@ -1,0 +1,120 @@
+{
+  "id": "science-g5up-u4-kp4",
+  "title": "神经系统的信息传递与脑的保护",
+  "bookId": "science-g5up",
+  "unitNumber": 4,
+  "unitTitle": "健康生活",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "脑是大脑、小脑和脑干的总称。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人脑包括大脑、小脑和脑干三部分。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "长期的精神压力不仅会影响情绪，还会伤害身体健康。",
+      "options": [],
+      "answer": "对",
+      "explanation": "压力管理是维护神经系统和心理健康的重要环节。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "当手碰到火迅速缩回，这个信号传递的关键路径是？",
+      "options": [
+        "感受器→传入神经→神经中枢→传出神经→效应器",
+        "感受器→传出神经→神经中枢→传入神经→效应器",
+        "效应器→传入神经→神经中枢→传出神经→感受器",
+        "感受器→大脑→效应器"
+      ],
+      "answer": "感受器→传入神经→神经中枢→传出神经→效应器",
+      "explanation": "反射弧的路径是刺激经感受器传入，中枢处理后再传出指令。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "为了保护脑的健康，下列做法错误的是？",
+      "options": [
+        "保证充足的睡眠",
+        "骑行时佩戴头盔",
+        "长时间连续学习不休息",
+        "保持心情愉快"
+      ],
+      "answer": "长时间连续学习不休息",
+      "explanation": "脑需要适当的休息和劳逸结合来维持正常功能。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "管理人的情绪和智力活动的器官主要位于？",
+      "options": [
+        "小脑",
+        "脊髓",
+        "大脑",
+        "脑干"
+      ],
+      "answer": "大脑",
+      "explanation": "大脑是高级神经活动的枢纽，负责思维、情绪等。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "联结脑、脊髓和身体各部分的结构是？",
+      "options": [
+        "血液",
+        "神经",
+        "骨骼",
+        "肌肉"
+      ],
+      "answer": "神经",
+      "explanation": "神经遍布全身，传递信息。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "成年人的脑重量大约为（___）克左右。",
+      "options": [],
+      "answer": "1400",
+      "explanation": "成年人的脑质量平均约为1.4千克即1400克。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "神经系统的信息传递与脑的保护",
+      "question": "（___）被称为人体的“司令部”。",
+      "options": [],
+      "answer": "脑",
+      "explanation": "脑控制着人体的各项生理活动。"
+    }
+  ],
+  "knowledge": null
+}

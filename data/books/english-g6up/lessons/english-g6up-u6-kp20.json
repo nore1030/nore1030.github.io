@@ -1,0 +1,32 @@
+{
+  "id": "english-g6up-u6-kp20",
+  "title": "情境建议匹配",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情境建议匹配",
+      "question": "根据情况选择正确的建议：",
+      "options": [
+        "feel cold",
+        "feel sad",
+        "stay healthy",
+        "feel angry",
+        "do more exercise",
+        "wear a coat",
+        "take a deep breath",
+        "watch a movie"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "寒冷穿大衣，伤心看电影，健康多运动，生气深呼吸。"
+    }
+  ],
+  "knowledge": null
+}

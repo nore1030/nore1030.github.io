@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u8-kp5",
+  "title": "阅读短文",
+  "bookId": "chinese-g2down",
+  "unitNumber": 8,
+  "unitTitle": "世界之初",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读短文",
+      "question": "“很久很久以前，天上有十个太阳。”这个开头主要交代了神话故事的：",
+      "options": [
+        "具体地点",
+        "发生的时间",
+        "主角的性格",
+        "故事的结尾"
+      ],
+      "answer": "发生的时间",
+      "explanation": "“很久很久以前”是时间词，交代了故事的时间背景。"
+    }
+  ],
+  "knowledge": null
+}

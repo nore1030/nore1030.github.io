@@ -1,0 +1,36 @@
+{
+  "id": "g8down-u3-kp2",
+  "title": "平行四边形的判定",
+  "bookId": "g8down",
+  "unitNumber": 3,
+  "unitTitle": "平行四边形",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形的判定",
+      "question": "下列不能判定四边形是平行四边形的是（　）",
+      "options": [
+        "两组对边分别平行",
+        "一组对边平行且相等",
+        "对角线互相平分",
+        "一组对边平行，另一组对边相等"
+      ],
+      "answer": "一组对边平行，另一组对边相等",
+      "explanation": "该条件可能是等腰梯形。"
+    }
+  ],
+  "knowledge": {
+    "point": "平行四边形的判定",
+    "core_concept": "两组对边分别平行（或相等）、一组对边平行且相等、对角线互相平分的四边形都是平行四边形。",
+    "key_formula": "一组对边平行且相等 ⇒ 平行四边形",
+    "common_mistakes": [
+      "只用一组对边平行判定。"
+    ],
+    "tips": "“平行且相等”缺一不可。"
+  }
+}

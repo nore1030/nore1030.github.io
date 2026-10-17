@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u4-kp8",
+  "title": "近义词辨析",
+  "bookId": "chinese-g2down",
+  "unitNumber": 4,
+  "unitTitle": "童心与想象",
+  "kpIndex": 7,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近义词辨析",
+      "question": "‘我的彩色铅笔，是大森林的精灵。’中‘精灵’可以换成？",
+      "options": [
+        "怪物",
+        "神仙",
+        "使者",
+        "灵精"
+      ],
+      "answer": "使者",
+      "explanation": "“精灵”在文中具有拟人色彩，指带有灵性的生命体，与“使者”语境最贴近。"
+    }
+  ],
+  "knowledge": null
+}

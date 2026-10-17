@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp8",
+  "title": "Vocabulary: hobbies",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 4,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Vocabulary: hobbies",
+      "question": "Oliver likes ________ Kung Fu.",
+      "options": [
+        "doing",
+        "does",
+        "did",
+        "do"
+      ],
+      "answer": "doing",
+      "explanation": "做武术的表达是 do Kung Fu，在 like 后使用 doing。"
+    }
+  ],
+  "knowledge": null
+}

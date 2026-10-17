@@ -1,0 +1,47 @@
+{
+  "id": "biology-g7up-u2-kp1",
+  "title": "细胞的结构与功能",
+  "bookId": "biology-g7up",
+  "unitNumber": 2,
+  "unitTitle": "细胞与生物体的结构层次",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞的结构与功能",
+      "question": "植物细胞特有的结构不包括（　）",
+      "options": [
+        "细胞壁",
+        "液泡",
+        "叶绿体",
+        "细胞膜"
+      ],
+      "answer": "细胞膜",
+      "explanation": "细胞膜是动植物共有的。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "细胞的结构与功能",
+      "question": "细胞核是遗传信息库。",
+      "options": [],
+      "answer": "对",
+      "explanation": "细胞核含遗传物质。"
+    }
+  ],
+  "knowledge": {
+    "point": "细胞的结构与功能",
+    "core_concept": "动物细胞有细胞膜、细胞质、细胞核；植物细胞还有细胞壁、液泡和叶绿体。细胞核是遗传信息库。",
+    "key_formula": "植物细胞特有：细胞壁、液泡、叶绿体",
+    "common_mistakes": [
+      "认为动物细胞有细胞壁。"
+    ],
+    "tips": "记住三处差异。"
+  }
+}

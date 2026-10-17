@@ -1,0 +1,23 @@
+{
+  "id": "science-g6down-u3-kp8",
+  "title": "浩瀚的宇宙",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 6,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "浩瀚的宇宙",
+      "question": "银河系是宇宙中唯一的星系。",
+      "options": [],
+      "answer": "错",
+      "explanation": "宇宙中除了银河系，还有无数个河外星系。"
+    }
+  ],
+  "knowledge": null
+}

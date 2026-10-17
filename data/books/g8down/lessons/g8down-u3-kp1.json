@@ -1,0 +1,58 @@
+{
+  "id": "g8down-u3-kp1",
+  "title": "平行四边形的性质",
+  "bookId": "g8down",
+  "unitNumber": 3,
+  "unitTitle": "平行四边形",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形的性质",
+      "question": "平行四边形相邻两角之和为（　）",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "180°",
+      "explanation": "两直线平行，同旁内角互补。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形的性质",
+      "question": "平行四边形的对角线互相平分。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平行四边形基本性质。"
+    },
+    {
+      "id": 3,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "平行四边形的性质",
+      "question": "平行四边形一边长 8，其邻边长是？",
+      "options": [],
+      "answer": "条件不足，无法确定",
+      "explanation": "题目未给出邻边信息。"
+    }
+  ],
+  "knowledge": {
+    "point": "平行四边形的性质",
+    "core_concept": "平行四边形对边平行且相等、对角相等、对角线互相平分。",
+    "key_formula": "对角线互相平分",
+    "common_mistakes": [
+      "把对角线相等当作性质。"
+    ],
+    "tips": "对角线相等是矩形特有。"
+  }
+}

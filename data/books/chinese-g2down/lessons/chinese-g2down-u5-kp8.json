@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp8",
+  "title": "寓言内涵",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "寓言内涵",
+      "question": "小马过河的故事告诉我们，别人的经验一点用也没有。",
+      "options": [],
+      "answer": "错",
+      "explanation": "别人的经验可以参考，但最重要的是自己亲自尝试。"
+    }
+  ],
+  "knowledge": null
+}

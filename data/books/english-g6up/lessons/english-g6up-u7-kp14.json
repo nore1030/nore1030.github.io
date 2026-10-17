@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp14",
+  "title": "句意选择",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 10,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句意选择",
+      "question": "What is your father's job? He is a ______.",
+      "options": [
+        "country",
+        "hobby",
+        "postman",
+        "word"
+      ],
+      "answer": "postman",
+      "explanation": "由job引导的问题应回答职业名称。"
+    }
+  ],
+  "knowledge": null
+}

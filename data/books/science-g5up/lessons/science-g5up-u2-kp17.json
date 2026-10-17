@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp17",
+  "title": "降雨试验",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "降雨试验",
+      "question": "模拟雨水侵蚀土地的实验中，斜面上的小径流意味着（ ）。",
+      "options": [
+        "地下水枯竭",
+        "水土流失",
+        "地形抬升",
+        "降雨停止"
+      ],
+      "answer": "水土流失",
+      "explanation": "流下的泥水说明降雨对地表土壤产生了侵蚀和搬运作用。"
+    }
+  ],
+  "knowledge": null
+}

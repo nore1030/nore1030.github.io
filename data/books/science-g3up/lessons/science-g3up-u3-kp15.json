@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp15",
+  "title": "积云的特征",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 8,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "积云的特征",
+      "question": "看上去像棉花团一样的云叫（ ）。",
+      "options": [
+        "卷云",
+        "层云",
+        "积云",
+        "雨云"
+      ],
+      "answer": "积云",
+      "explanation": "积云特征为像棉花团、团状堆积。"
+    }
+  ],
+  "knowledge": null
+}

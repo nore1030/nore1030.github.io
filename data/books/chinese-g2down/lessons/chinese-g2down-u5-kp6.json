@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g2down-u5-kp6",
+  "title": "课文理解",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "课文理解",
+      "question": "《画杨桃》告诉我们，看到什么样就画成什么样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文教导我们要实事求是，尊重客观事实。"
+    }
+  ],
+  "knowledge": null
+}

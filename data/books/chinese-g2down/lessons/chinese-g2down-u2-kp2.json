@@ -1,0 +1,127 @@
+{
+  "id": "chinese-g2down-u2-kp2",
+  "title": "社会分工与劳动成果的认知",
+  "bookId": "chinese-g2down",
+  "unitNumber": 2,
+  "unitTitle": "劳动与奉献",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "“千人糕”就是一千个人一起做出来的糕点。",
+      "options": [],
+      "answer": "错",
+      "explanation": "千人糕指经过很多人的劳动才做成的糕点，非字面一千人。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "《千人糕》这篇课文中，米粉是怎么来的？",
+      "options": [
+        "直接从树上摘的",
+        "大米磨出来的",
+        "水变成的",
+        "天上掉下来的"
+      ],
+      "answer": "大米磨出来的",
+      "explanation": "大米经过加工磨成米粉。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "“只有辛勤劳动，才有收获。”这句话主要告诉我们？",
+      "options": [
+        "不能偷懒",
+        "劳动很累",
+        "成果来之不易",
+        "要多吃糕点"
+      ],
+      "answer": "成果来之不易",
+      "explanation": "通过理解千人糕的制作，明白劳动创造价值。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "以下哪项不是制作面包必须的环节？",
+      "options": [
+        "农民种小麦",
+        "磨坊加工面粉",
+        "工人在工厂烘烤",
+        "去电影院看戏"
+      ],
+      "answer": "去电影院看戏",
+      "explanation": "看戏与面包制作流程无关。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "做千人糕需要大米、糖和（）。",
+      "options": [],
+      "answer": "劳动",
+      "explanation": "文末点名糕点包含了许多人的劳动。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "将下列劳动工具与其对应的用途连线。",
+      "options": [
+        "锄头",
+        "磨盘",
+        "鱼网",
+        "剪刀",
+        "捕鱼",
+        "锄草",
+        "裁衣",
+        "磨粉"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "锄头锄草，磨盘磨粉，鱼网捕鱼，剪刀裁衣。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "社会分工与劳动成果的认知",
+      "question": "将词语排列成通顺的句子：",
+      "options": [
+        "真的很",
+        "不容易",
+        "做成",
+        "这块糕"
+      ],
+      "answer": "做成,这块糕,真的很,不容易",
+      "explanation": "出自文中的感叹，强调劳动辛苦。"
+    }
+  ],
+  "knowledge": {
+    "point": "社会分工与劳动成果的认知",
+    "core_concept": "《千人糕》通过对米糕制作过程的描述，展示了农业、工业、运输业等多个环节的相互协作。让学生明白任何一个细小的日常用品，其背后都隐藏着无数人的辛勤汗水，从而产生对劳动者的敬意和感恩之心。",
+    "key_formula": "普通物 + 复杂流程 = 辛劳成果",
+    "common_mistakes": [
+      "误认为千人糕是由一千人做的特殊糕点",
+      "不理解糖、包装纸等配套环节也是生产的一部分"
+    ],
+    "tips": "可以用“倒推法”，从盘中的食物回想超市、工厂、农田的场景。"
+  }
+}

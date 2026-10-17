@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp20",
+  "title": "词语填空",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 16,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语填空",
+      "question": "在《灰雀》中，灰雀在枝头（  ）自在地唱歌。",
+      "options": [],
+      "answer": "欢蹦乱跳",
+      "explanation": "这是描写灰雀活泼状态的成语。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": "g5up-u3-kp2",
+  "title": "一个数除以小数的计算方法",
+  "bookId": "g5up",
+  "unitNumber": 3,
+  "unitTitle": "小数除法",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "被除数和除数同时扩大到原来的 10 倍，商也随之扩大到原来的 10 倍。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据商不变的性质，被除数和除数同时乘或除以同一个不为 0 的数，商不变。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "$4.8 \bdiv 0.06$ 的商的最高位是哪一位？",
+      "options": [
+        "个位",
+        "十位",
+        "百位",
+        "十分位"
+      ],
+      "answer": "十位",
+      "explanation": "$4.8 \bdiv 0.06 = 480 \bdiv 6 = 80$。8 在十位上，所以最高位是十位。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "下列算式中，商最大的算式是哪一个？",
+      "options": [
+        "$3.6 \bdiv 0.12$",
+        "$3.6 \bdiv 1.2$",
+        "$3.6 \bdiv 12$",
+        "$0.36 \bdiv 12$"
+      ],
+      "answer": "$3.6 \bdiv 0.12$",
+      "explanation": "当被除数相同时，除数越小商越大。0.12 是选项中最小的除数，故其商最大。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "当 $a > 0$ 时，下面哪个算式的结果大于 $a$？",
+      "options": [
+        "$a \bdiv 0.9$",
+        "$a \bdiv 1.1$",
+        "$a \bdiv 1$",
+        "$a \times 0.9$"
+      ],
+      "answer": "$a \bdiv 0.9$",
+      "explanation": "一个非零数除以小于 1 的数，商大于原数。0.9 < 1，所以 $a \bdiv 0.9 > a$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "$0.24 \bdiv 0.008$ 的商与下列哪个算式的商相等？",
+      "options": [
+        "$2.4 \bdiv 8$",
+        "$24 \bdiv 8$",
+        "$240 \bdiv 8$",
+        "$24 \bdiv 0.8$"
+      ],
+      "answer": "$240 \bdiv 8$",
+      "explanation": "根据商不变性质，除数扩大 1000 倍变成 8，被除数也应扩大 1000 倍变成 240。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一个数除以小数的计算方法",
+      "question": "计算：$0.72 \bdiv 0.08 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$0.72 \bdiv 0.08 = 72 \bdiv 8 = 9$。验算：$9 \times 0.08 = 0.72$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "一个数除以小数的计算方法",
+    "core_concept": "利用“商不变的性质”，将除数和被除数同时扩大相同的倍数，使除数变成整数。除数扩大几倍（看除数有几位小数），被除数的小数点就向右移动几位。位数不够时，在被除数的末尾用0补足。",
+    "key_formula": "$a \bdiv b = (a \times n) \bdiv (b \times n)$ ($n \neq 0$)",
+    "common_mistakes": [
+      "被除数和除数扩大的倍数不一致",
+      "被除数位数不够移动小数点时忘了添0"
+    ],
+    "tips": "一看：看除数有几位小数；二移：移动除数小数点变整数，被除数跟着移；三算：按除数是整数的除法算。"
+  }
+}

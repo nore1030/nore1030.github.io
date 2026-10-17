@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 8,
+  "unitTitle": "Unit 8 Fashion 时尚",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "「围巾」的英文是（　）",
+      "options": [
+        "scarf",
+        "scarff",
+        "skarf",
+        "scarfe"
+      ],
+      "answer": "scarf",
+      "explanation": "scarf 围巾。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述穿着 look + 形容词",
+      "question": "「你看起来很酷！」的英文是（　）",
+      "options": [
+        "You look cool!",
+        "You looks cool!",
+        "You are look cool!",
+        "You look coolly!"
+      ],
+      "answer": "You look cool!",
+      "explanation": "look + 形容词。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+      "question": "comfortable 的意思是「舒适的」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "comfortable 舒适。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "描述穿着 look + 形容词",
+      "question": "「这条围巾看起来很漂亮。」的英文是（　）",
+      "options": [
+        "The scarf looks beautiful.",
+        "The scarf look beautiful.",
+        "The scarf looks beautifully.",
+        "The scarf is look beautiful."
+      ],
+      "answer": "The scarf looks beautiful.",
+      "explanation": "三单 looks。"
+    }
+  ],
+  "knowledge": null
+}

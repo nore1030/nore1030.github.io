@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g10down-u2-kp1",
+  "title": "小说与戏剧阅读",
+  "bookId": "chinese-g10down",
+  "unitNumber": 2,
+  "unitTitle": "现代文阅读与语言文字运用",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "小说与戏剧阅读",
+      "question": "戏剧的核心是（　）",
+      "options": [
+        "冲突",
+        "对白",
+        "场景",
+        "幕次"
+      ],
+      "answer": "冲突",
+      "explanation": "戏剧核心是冲突。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "小说与戏剧阅读",
+      "question": "戏剧通过人物对白与动作推动剧情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "戏剧表现手法。"
+    }
+  ],
+  "knowledge": {
+    "point": "小说与戏剧阅读",
+    "core_concept": "戏剧以冲突为核心矛盾，通过人物对白与动作推动剧情。分析戏剧要抓冲突类型与人物关系。",
+    "key_formula": "冲突 → 剧情",
+    "common_mistakes": [
+      "只记台词不分析冲突。"
+    ],
+    "tips": "抓核心矛盾。"
+  }
+}

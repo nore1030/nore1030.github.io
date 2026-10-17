@@ -1,0 +1,36 @@
+{
+  "id": "math-sujiao-g1up-u4-kp2",
+  "title": "左右",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 4,
+  "unitTitle": "认位置",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "左右",
+      "question": "通常我们写字的手是（　）",
+      "options": [
+        "右手",
+        "左手",
+        "双脚",
+        "不一定"
+      ],
+      "answer": "右手",
+      "explanation": "多数人右手写字。"
+    }
+  ],
+  "knowledge": {
+    "point": "左右",
+    "core_concept": "通常写字的手是右手，另一边是左手；左右会随身体朝向改变而改变。",
+    "key_formula": "左 / 右",
+    "common_mistakes": [
+      "以为左右永远不变。"
+    ],
+    "tips": "左右相对。"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "science-g6down-u3-kp9",
+  "title": "八颗行星的运行规律",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 7,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "太阳系八颗行星中，离太阳越近的行星公转周期越短。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据开普勒定律，距离太阳越近，轨道半径越小，公转速度越快周期越短。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "太阳系八颗行星中，体积最大的是哪一颗？",
+      "options": [
+        "地球",
+        "火星",
+        "木星",
+        "土星"
+      ],
+      "answer": "木星",
+      "explanation": "木星是太阳系中体积最大的行星，属于巨行星。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "火星在太阳系八颗行星中的位置是第几位？",
+      "options": [
+        "第二位",
+        "第三位",
+        "第四位",
+        "第五位"
+      ],
+      "answer": "第四位",
+      "explanation": "离太阳从近到远依次是：水星、金星、地球、火星。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "哪两颗行星之间存在着小行星带？",
+      "options": [
+        "地球和火星",
+        "火星和木星",
+        "木星和土星",
+        "水星和金星"
+      ],
+      "answer": "火星和木星",
+      "explanation": "小行星带位于类地行星与巨行星的分界处，即火木之间。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "八颗行星的运行规律",
+      "question": "目前我们已知的太阳系中，行星的数量是（___）颗。",
+      "options": [],
+      "answer": "8",
+      "explanation": "冥王星降级后，太阳系公认有八颗行星。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "chinese-g5up-u2-kp4",
+  "title": "字词义辨析",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 3,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "给下列句子中加点的词语选择正确的词义。他觉得这件事很【为难】。",
+      "options": [
+        "故意给别人制造麻烦",
+        "难以应付或处理",
+        "非常愤怒",
+        "感到很不好意思"
+      ],
+      "answer": "难以应付或处理",
+      "explanation": "此处指事情处理起来比较棘手。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "选出下列词语中书写完全正确的一项：",
+      "options": [
+        "婉转 懒惰",
+        "汛期 协调",
+        "平衡 召急",
+        "挽回 诺延"
+      ],
+      "answer": "汛期 协调",
+      "explanation": "A中婉应为宛（宛转常作宛转），C中急应为集，D中延应为言。"
+    }
+  ],
+  "knowledge": null
+}

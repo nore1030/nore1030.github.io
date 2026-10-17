@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g3up-u6-kp1",
+  "title": "have got 表示拥有",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 6 I've got new shorts and new shoes 衣物与拥有",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "have got 表示拥有",
+      "question": "「我有新鞋。」的英文是（　）",
+      "options": [
+        "I've got new shoes.",
+        "I've get new shoes.",
+        "I has got new shoes.",
+        "I've got new shoe."
+      ],
+      "answer": "I've got new shoes.",
+      "explanation": "I've got = I have got。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "have got 表示拥有",
+      "question": "have got 表示「拥有」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "= have。"
+    }
+  ],
+  "knowledge": {
+    "point": "have got 表示拥有",
+    "core_concept": "have got = have，表示「有」。第三人称用 has got：He's got… / She's got…",
+    "key_formula": "I've got new shoes. / He's got a new shirt.",
+    "common_mistakes": [
+      "第三人称还用 have got。"
+    ],
+    "tips": "he/she 配 has got。"
+  }
+}

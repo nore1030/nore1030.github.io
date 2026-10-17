@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u8-kp7",
+  "title": "故事内容理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 5,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "故事内容理解",
+      "question": "巨人见到孩子们在花园里玩，感到非常开心并邀请他们一起喝茶。",
+      "options": [],
+      "answer": "错",
+      "explanation": "故事开头巨人生气地赶走了孩子，并筑起了围墙。"
+    }
+  ],
+  "knowledge": null
+}

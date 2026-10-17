@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u6-kp5",
+  "title": "职业词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 1,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "职业词汇",
+      "question": "'doctor' 翻译成中文是“老师”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "doctor 指医生，老师对应的单词是 teacher。"
+    }
+  ],
+  "knowledge": null
+}

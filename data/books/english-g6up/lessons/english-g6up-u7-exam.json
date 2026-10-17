@@ -1,0 +1,222 @@
+{
+  "id": "english-g6up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地点识别",
+      "question": "You can send a letter in the cinema.",
+      "options": [],
+      "answer": "错",
+      "explanation": "寄信要去邮局(post office)而不是电影院。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "形容词用法",
+      "question": "In the story 'The Ant and the Grasshopper', the ant is very hardworking.",
+      "options": [],
+      "answer": "对",
+      "explanation": "蚂蚁和蚱蜢的故事中，蚂蚁以勤劳(hardworking)著称。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "将来时态",
+      "question": "'I am going to visit my teacher' 描述的是将来发生的事。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be going to 表示计划、打算做某事。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "寓言寓意",
+      "question": "The moral of a story is the same as the setting.",
+      "options": [],
+      "answer": "错",
+      "explanation": "moral指故事寓意，setting指背景，两者不同。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地点的介词",
+      "question": "Turn left ______ the bookstore. Then go straight.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+      ],
+      "answer": "at",
+      "explanation": "在某个具体的地点转弯用at。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "将来时间状语",
+      "question": "We are going to have a party ______.",
+      "options": [
+        "yesterday",
+        "last week",
+        "now",
+        "this evening"
+      ],
+      "answer": "this evening",
+      "explanation": "are going to 配合将来时间，this evening符合。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "寓言故事要素",
+      "question": "The ______ are the people or animals in a story.",
+      "options": [
+        "Settings",
+        "Plots",
+        "Characters",
+        "Morals"
+      ],
+      "answer": "Characters",
+      "explanation": "故事中的人物或动物被称为角色。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "职业地点配套",
+      "question": "A postman works in a ______.",
+      "options": [
+        "hospital",
+        "post office",
+        "school",
+        "gym"
+      ],
+      "answer": "post office",
+      "explanation": "邮递员在邮局工作。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "谓语动词三单",
+      "question": "My father ______ to work by subway.",
+      "options": [
+        "go",
+        "going",
+        "goes",
+        "to go"
+      ],
+      "answer": "goes",
+      "explanation": "主语my father是第三人称单数，动词加es。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "建议与忠告",
+      "question": "Someone is ill. You should say: ______.",
+      "options": [
+        "Happy birthday!",
+        "See a doctor.",
+        "Good job!",
+        "Count to ten."
+      ],
+      "answer": "See a doctor.",
+      "explanation": "生病时的建议是看医生。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句型填充",
+      "question": "______ is the cinema? It's near the park.",
+      "options": [],
+      "answer": "where",
+      "explanation": "询问地点的疑问词。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词形式",
+      "question": "My sister likes ______ (collect) stamps.",
+      "options": [],
+      "answer": "collecting",
+      "explanation": "like后接doing表达兴趣爱好。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "故事要素",
+      "question": "The end of a story is part of the ______.",
+      "options": [],
+      "answer": "plot",
+      "explanation": "故事的结尾属于情节(plot)的一部分。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动作英汉配对",
+      "question": "匹配动作短语与其含义。",
+      "options": [
+        "turn left",
+        "take a bus",
+        "be angry",
+        "go hiking",
+        "生气",
+        "左转",
+        "去远足",
+        "乘公交车"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "A-左转, B-乘车, C-生气, D-远足。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生活习惯",
+      "question": "请将下列单词连成一句话：",
+      "options": [
+        "I",
+        "often",
+        "my",
+        "clean",
+        "room"
+      ],
+      "answer": "I,often,clean,my,room",
+      "explanation": "频度副词放在实义动词前。"
+    }
+  ],
+  "knowledge": null
+}

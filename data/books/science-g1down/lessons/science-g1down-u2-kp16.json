@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp16",
+  "title": "动物的运动方式",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 9,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的运动方式",
+      "question": "下列动物中，运动方式和蜗牛最像的是：",
+      "options": [
+        "蜻蜓",
+        "蛞蝓（鼻涕虫）",
+        "金鱼",
+        "小猫"
+      ],
+      "answer": "蛞蝓（鼻涕虫）",
+      "explanation": "蛞蝓和蜗牛一样，都是通过腹足爬行的。"
+    }
+  ],
+  "knowledge": null
+}

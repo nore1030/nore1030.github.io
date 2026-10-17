@@ -1,0 +1,39 @@
+{
+  "id": "english-g5up-u4-kp4",
+  "title": "语音：字母组合oo的发音辨析",
+  "bookId": "english-g5up",
+  "unitNumber": 4,
+  "unitTitle": "What can you do?",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母组合oo的发音辨析",
+      "question": "单词 'cook' 和 'cool' 中的 'oo' 发音相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "cook发短音/ʊ/，cool发长音/u:/。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母组合oo的发音辨析",
+      "question": "Which word has a different sound for 'oo'?",
+      "options": [
+        "food",
+        "cool",
+        "zoo",
+        "book"
+      ],
+      "answer": "book",
+      "explanation": "book发短音/ʊ/，其余三项发长音/u:/。"
+    }
+  ],
+  "knowledge": null
+}

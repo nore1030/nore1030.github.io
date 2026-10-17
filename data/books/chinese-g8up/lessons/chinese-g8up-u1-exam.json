@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g8up",
+  "unitNumber": 1,
+  "unitTitle": "新闻与叙事性作品",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "新闻类文本阅读",
+      "question": "消息最常用的结构是（　）",
+      "options": [
+        "倒金字塔结构",
+        "总—分—总",
+        "起承转合",
+        "对比结构"
+      ],
+      "answer": "倒金字塔结构",
+      "explanation": "消息常用倒金字塔。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "叙事与人物描写",
+      "question": "第一人称叙述便于表达作者的真实感受。",
+      "options": [],
+      "answer": "对",
+      "explanation": "第一人称的优势。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "叙事与人物描写",
+      "question": "第三人称叙述可以（　）",
+      "options": [
+        "展现更广阔的场景",
+        "只能写一个人的想法",
+        "不能描写景物",
+        "不能写对话"
+      ],
+      "answer": "展现更广阔的场景",
+      "explanation": "第三人称视野更广。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "新闻类文本阅读",
+      "question": "新闻语言要求准确、简洁、客观。",
+      "options": [],
+      "answer": "对",
+      "explanation": "新闻语言特点。"
+    }
+  ],
+  "knowledge": null
+}

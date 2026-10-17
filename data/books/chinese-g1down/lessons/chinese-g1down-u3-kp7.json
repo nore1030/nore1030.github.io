@@ -1,0 +1,43 @@
+{
+  "id": "chinese-g1down-u3-kp7",
+  "title": "古诗理解",
+  "bookId": "chinese-g1down",
+  "unitNumber": 3,
+  "unitTitle": "伙伴",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗理解",
+      "question": "《赠汪伦》中，“桃花潭水深千尺”的下一句是：",
+      "options": [
+        "不及汪伦送我情",
+        "李白乘舟将欲行",
+        "忽闻岸上踏歌声",
+        "笑问客从何处来"
+      ],
+      "answer": "不及汪伦送我情",
+      "explanation": "这是李白写给好友汪伦的送别诗名句。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗理解",
+      "question": "将这句诗按正确顺序排列：",
+      "options": [
+        "桃花潭水",
+        "千尺",
+        "深"
+      ],
+      "answer": "桃花潭水,深,千尺",
+      "explanation": "诗句为：桃花潭水深千尺。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp13",
+  "title": "Verb form",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 9,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Verb form",
+      "question": "She ________ Chinese to her students.",
+      "options": [
+        "teachs",
+        "teach",
+        "teaching",
+        "teaches"
+      ],
+      "answer": "teaches",
+      "explanation": "主语为 She，teach 以 ch 结尾，变三单加 es。"
+    }
+  ],
+  "knowledge": null
+}

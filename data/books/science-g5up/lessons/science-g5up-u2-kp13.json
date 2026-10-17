@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp13",
+  "title": "地震成因",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地震成因",
+      "question": "绝大多数地震的原因是由于（ ）。",
+      "options": [
+        "过度开采石油",
+        "岩层产生断裂",
+        "全球气候变暖",
+        "月球引力变化"
+      ],
+      "answer": "岩层产生断裂",
+      "explanation": "地壳内部岩层相互挤压产生断裂或错动是导致地震的主因。"
+    }
+  ],
+  "knowledge": null
+}

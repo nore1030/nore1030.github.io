@@ -1,0 +1,34 @@
+{
+  "id": "english-g5down-u6-kp7",
+  "title": "词义理解",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 3,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "词义理解",
+      "question": "“Take turns”的意思是“各走各的”。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Take turns的意思是“轮流”。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义理解",
+      "question": "“Keep to the right”的意思是“靠右行”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Keep to the right是常用的交通规则或行为准则，指靠右。 "
+    }
+  ],
+  "knowledge": null
+}

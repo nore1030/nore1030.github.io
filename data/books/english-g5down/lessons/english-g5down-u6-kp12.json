@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp12",
+  "title": "wh发音规律",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "wh发音规律",
+      "question": "Which word has a different sound for 'wh'?",
+      "options": [
+        "what",
+        "where",
+        "whose",
+        "when"
+      ],
+      "answer": "whose",
+      "explanation": "whose中wh发/h/音，其他三个单词中wh发/w/音。"
+    }
+  ],
+  "knowledge": null
+}

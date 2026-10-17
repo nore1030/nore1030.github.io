@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u1-kp2",
+  "title": "形容词描述自己",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 This is me! 自我介绍",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "形容词描述自己",
+      "question": "「我又高又瘦。」的英文是（　）",
+      "options": [
+        "I'm tall and thin.",
+        "I tall and thin.",
+        "I'm tall and thinn.",
+        "I'm high and thin."
+      ],
+      "answer": "I'm tall and thin.",
+      "explanation": "tall and thin。"
+    }
+  ],
+  "knowledge": {
+    "point": "形容词描述自己",
+    "core_concept": "tall 高的、thin 瘦的、strong 强壮的、friendly 友好的、lovely 可爱的。",
+    "key_formula": "I'm tall and thin.",
+    "common_mistakes": [
+      "形容词前漏 be。"
+    ],
+    "tips": "形容词前要有 be。"
+  }
+}

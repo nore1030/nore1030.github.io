@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u1-kp6",
+  "title": "多音字",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 5,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "在“春天长（ ）满了绿草，我长（ ）高了”中，括号里应填的读音是：",
+      "options": [
+        "zhǎng, zhǎng",
+        "cháng, cháng",
+        "cháng, zhǎng",
+        "zhǎng, cháng"
+      ],
+      "answer": "zhǎng, zhǎng",
+      "explanation": "两个词均表示生长或增加，读zhǎng。"
+    }
+  ],
+  "knowledge": null
+}

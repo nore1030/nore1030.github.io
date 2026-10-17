@@ -1,0 +1,64 @@
+{
+  "id": "g5up-u1-kp5",
+  "title": "小数乘法解决问题（估算与分段计费）",
+  "bookId": "g5up",
+  "unitNumber": 1,
+  "unitTitle": "小数乘法",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "小数乘法解决问题（估算与分段计费）",
+      "question": "妈妈去超市买果汁，每瓶 $4.8$ 元，买 $5$ 瓶带 $25$ 元一定够。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$4.8 < 5$，所以 $4.8 \times 5 < 5 \times 5 = 25$。带 $25$ 元足够。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数乘法解决问题（估算与分段计费）",
+      "question": "某市出租车起步价 $10$ 元（$3$ 公里及以内），超过 $3$ 公里后每公里 $2$ 元。小红乘车 $5$ 公里应付多少元？",
+      "options": [
+        "10",
+        "14",
+        "16",
+        "20"
+      ],
+      "answer": "14",
+      "explanation": "$3$ 公里内 $10$ 元。超出里程：$5 - 3 = 2$ 公里。超出费用：$2 \times 2 = 4$ 元。总计：$10 + 4 = 14$ 元。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "小数乘法解决问题（估算与分段计费）",
+      "question": "一箱苹果 $25.5$ 千克，每千克 $4$ 元。如果用 $100$ 元钱买这箱苹果，钱够吗？",
+      "options": [
+        "不够",
+        "够",
+        "正好",
+        "无法计算"
+      ],
+      "answer": "不够",
+      "explanation": "$25.5 \times 4 = 102$（元）。$102 > 100$，所以不够。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数乘法解决问题（估算与分段计费）",
+    "core_concept": "在解决实际问题时，要根据情境选择合适的策略。分段计费问题通常分为“基础费用”和“超出费用”两部分分别计算再相加。",
+    "key_formula": "总费用 = 基础价 + 超出单价 \times 超出数量",
+    "common_mistakes": [
+      "分段点计算错误",
+      "估算时偏多或偏少判断失误"
+    ],
+    "tips": "画简单的线段图可以帮助理解分段计费的逻辑。"
+  }
+}

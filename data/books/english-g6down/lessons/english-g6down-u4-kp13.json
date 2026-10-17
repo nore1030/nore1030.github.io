@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp13",
+  "title": "助动词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "助动词辨析",
+      "question": "What ______ you do last night?",
+      "options": [
+        "do",
+        "did",
+        "does",
+        "done"
+      ],
+      "answer": "did",
+      "explanation": "last night表示过去，疑问句借用助动词did。"
+    }
+  ],
+  "knowledge": null
+}

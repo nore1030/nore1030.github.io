@@ -1,0 +1,66 @@
+{
+  "id": "politics-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "politics-g11up",
+  "unitNumber": 2,
+  "unitTitle": "法律与生活（续）",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "合同与家庭婚姻",
+      "question": "我国禁止的婚姻陋习是（　）",
+      "options": [
+        "包办、买卖婚姻",
+        "自由恋爱",
+        "依法登记",
+        "尊重他人"
+      ],
+      "answer": "包办、买卖婚姻",
+      "explanation": "陋习禁止。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "诉讼与非诉讼解决方式",
+      "question": "纠纷发生后较为便捷的解决方式是（　）",
+      "options": [
+        "协商和解",
+        "直接诉讼",
+        "回避",
+        "拖延"
+      ],
+      "answer": "协商和解",
+      "explanation": "和解最便捷。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "合同与家庭婚姻",
+      "question": "结婚必须符合法定条件并办理登记。",
+      "options": [],
+      "answer": "对",
+      "explanation": "结婚法定条件。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "诉讼与非诉讼解决方式",
+      "question": "选择非诉讼方式解决纠纷成本较低、方式灵活。",
+      "options": [],
+      "answer": "对",
+      "explanation": "非诉讼优势。"
+    }
+  ],
+  "knowledge": null
+}

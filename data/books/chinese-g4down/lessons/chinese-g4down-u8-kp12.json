@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp12",
+  "title": "标点符号",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“我要一个宝葫芦，”王葆想（  ）“那样我想要什么就有什么。”中括号应填？",
+      "options": [
+        "：",
+        "，",
+        "。",
+        "；"
+      ],
+      "answer": "，",
+      "explanation": "说话人在中间，引号内是完整话语，用逗号连接。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "science-g3down-u1-kp5",
+  "title": "运动快慢的比较标准",
+  "bookId": "science-g3down",
+  "unitNumber": 1,
+  "unitTitle": "物体的运动",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "运动快慢的比较标准",
+      "question": "在奔跑比赛中，相同时间内跑的距离越长，说明运动得越快。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相同时间内，比距离，距离长的运动快。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "运动快慢的比较标准",
+      "question": "三位同学参加50米赛跑。甲用了10秒，乙用了12秒，丙用了9秒。跑得最快的是（）。",
+      "options": [
+        "甲",
+        "乙",
+        "丙",
+        "三人一样快"
+      ],
+      "answer": "丙",
+      "explanation": "相同距离内，用时越短，运动越快。9秒最短，所以丙最快。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "运动快慢的比较标准",
+      "question": "在测量运动快慢实验中，重复实验3次的目的是（）。",
+      "options": [
+        "让结果更准确",
+        "打发时间",
+        "让更多人参与",
+        "增加难度"
+      ],
+      "answer": "让结果更准确",
+      "explanation": "重复试验、取平均值是为了减少实验偶然因素引起的误差。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "运动快慢的比较标准",
+      "question": "甲车2小时行驶100公里，乙车3小时行驶150公里，则（）。",
+      "options": [
+        "甲车快",
+        "乙车快",
+        "两车一样快",
+        "无法比较"
+      ],
+      "answer": "两车一样快",
+      "explanation": "100/2=50，150/3=50。两车每小时速度均为50公里。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "运动快慢的比较标准",
+      "question": "猎豹10秒跑了300米，羚羊10秒跑了200米，猎豹在10秒内比羚羊多跑了（）米。",
+      "options": [],
+      "answer": "100",
+      "explanation": "300 - 200 = 100。"
+    }
+  ],
+  "knowledge": {
+    "point": "运动快慢的比较标准",
+    "core_concept": "通过相同距离比时间或相同时间比距离。",
+    "key_formula": "距离/时间=速度(快慢)。",
+    "common_mistakes": [
+      "距离相同时，认为用时越长的越快",
+      "不统一单位就直接比较数值"
+    ],
+    "tips": "做实验时取三次测量的平均值能减少误差。"
+  }
+}

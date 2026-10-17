@@ -1,0 +1,47 @@
+{
+  "id": "geography-g11up-u1-kp1",
+  "title": "国土安全与资源保障",
+  "bookId": "geography-g11up",
+  "unitNumber": 1,
+  "unitTitle": "国土安全与地理信息技术",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "国土安全与资源保障",
+      "question": "实现人地协调的核心理念是（　）",
+      "options": [
+        "人地协调观",
+        "人定胜天观",
+        "地理环境决定论",
+        "中心论"
+      ],
+      "answer": "人地协调观",
+      "explanation": "人地协调。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "国土安全与资源保障",
+      "question": "我国坚持节约资源与保护环境的基本国策。",
+      "options": [],
+      "answer": "对",
+      "explanation": "资源环境国策。"
+    }
+  ],
+  "knowledge": {
+    "point": "国土安全与资源保障",
+    "core_concept": "我国国土安全面临资源、环境、海洋、边疆等挑战。要坚持节约资源、保护环境的基本国策，坚持人地协调。",
+    "key_formula": "人地协调观",
+    "common_mistakes": [
+      "认为资源无限可用。"
+    ],
+    "tips": "资源有限。"
+  }
+}

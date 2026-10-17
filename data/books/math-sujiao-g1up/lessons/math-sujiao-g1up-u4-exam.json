@@ -1,0 +1,71 @@
+{
+  "id": "math-sujiao-g1up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 4,
+  "unitTitle": "认位置",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "左右",
+      "question": "面对北方时，我们的左边是（　）",
+      "options": [
+        "西",
+        "东",
+        "南",
+        "北"
+      ],
+      "answer": "西",
+      "explanation": "面北左西。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "上下、前后",
+      "question": "书在书包里面，书包就在书的（　）",
+      "options": [
+        "外面",
+        "里面",
+        "上面",
+        "下面"
+      ],
+      "answer": "外面",
+      "explanation": "内外相对。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "左右",
+      "question": "左右是相对的，会随朝向改变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "相对位置。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "上下、前后",
+      "question": "排队做操，小明前面有 3 人，这一排小明排第（　）",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "1"
+      ],
+      "answer": "4",
+      "explanation": "前面 3 人，小明第 4。"
+    }
+  ],
+  "knowledge": null
+}

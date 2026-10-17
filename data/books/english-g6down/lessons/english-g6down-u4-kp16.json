@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp16",
+  "title": "语境理解",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语境理解",
+      "question": "Before, I was short. Now, I am ______.",
+      "options": [
+        "thin",
+        "tall",
+        "quiet",
+        "short"
+      ],
+      "answer": "tall",
+      "explanation": "身高前后的对比，矮（short）对应高（tall）。"
+    }
+  ],
+  "knowledge": null
+}

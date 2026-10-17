@@ -1,0 +1,63 @@
+{
+  "id": "geography-g10up-u3-kp1",
+  "title": "常见地貌类型",
+  "bookId": "geography-g10up",
+  "unitNumber": 3,
+  "unitTitle": "地貌、植被与自然灾害",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "常见地貌类型",
+      "question": "喀斯特地貌主要是由（　）形成的",
+      "options": [
+        "流水溶蚀",
+        "风力侵蚀",
+        "冰川侵蚀",
+        "海浪侵蚀"
+      ],
+      "answer": "流水溶蚀",
+      "explanation": "可溶性岩石被流水溶蚀。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "常见地貌类型",
+      "question": "沙丘属于（　）",
+      "options": [
+        "风沙地貌",
+        "流水地貌",
+        "喀斯特地貌",
+        "冰川地貌"
+      ],
+      "answer": "风沙地貌",
+      "explanation": "沙丘由风力堆积形成。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "常见地貌类型",
+      "question": "三角洲由流水堆积作用形成。",
+      "options": [],
+      "answer": "对",
+      "explanation": "入海口堆积形成三角洲。"
+    }
+  ],
+  "knowledge": {
+    "point": "常见地貌类型",
+    "core_concept": "流水地貌有峡谷、冲积扇、三角洲；风沙地貌有沙丘、风蚀蘑菇；喀斯特地貌有溶洞、石林、峰林，由流水溶蚀作用形成。",
+    "key_formula": "溶蚀 → 喀斯特地貌",
+    "common_mistakes": [
+      "把沙丘当作流水地貌。"
+    ],
+    "tips": "干旱区多风沙地貌。"
+  }
+}

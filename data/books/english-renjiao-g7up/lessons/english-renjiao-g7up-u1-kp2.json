@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g7up-u1-kp2",
+  "title": "代词与数词",
+  "bookId": "english-renjiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "词法基础",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "代词与数词",
+      "question": "This book is ___. (我的)",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": "mine",
+      "explanation": "名词性物主代词单独使用。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "代词与数词",
+      "question": "“它的”用 its，“它是”用 it's。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者区别。"
+    }
+  ],
+  "knowledge": {
+    "point": "代词与数词",
+    "core_concept": "人称代词主格作主语、宾格作宾语；形容词性物主代词后接名词，名词性物主代词单独使用。",
+    "key_formula": "my book = mine",
+    "common_mistakes": [
+      "混用 its 与 it's。"
+    ],
+    "tips": "it's = it is。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp10",
+  "title": "动词形式",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动词形式",
+      "question": "Sarah is going to ______ her grandparents tonight.",
+      "options": [
+        "visiting",
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer": "visit",
+      "explanation": "be going to 后面跟动词原形。"
+    }
+  ],
+  "knowledge": null
+}

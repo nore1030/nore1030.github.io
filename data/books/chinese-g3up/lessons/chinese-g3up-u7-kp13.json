@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp13",
+  "title": "课文原句积累",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 12,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文原句积累",
+      "question": "请将词语按课文顺序排列成一个句子：",
+      "options": [
+        "风",
+        "音乐家",
+        "大自然的",
+        "是"
+      ],
+      "answer": "风,是,大自然的,音乐家",
+      "explanation": "出自《大自然的声音》第一节。"
+    }
+  ],
+  "knowledge": null
+}

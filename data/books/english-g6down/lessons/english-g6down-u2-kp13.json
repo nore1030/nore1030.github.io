@@ -1,0 +1,37 @@
+{
+  "id": "english-g6down-u2-kp13",
+  "title": "一般过去时肯定句",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般过去时肯定句",
+      "question": "Mike _______ his grandparents yesterday.",
+      "options": [
+        "visited",
+        "visits",
+        "visiting",
+        "visit"
+      ],
+      "answer": "visited",
+      "explanation": "yesterday标志着一般过去时，visit变visited。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般过去时肯定句",
+    "core_concept": "陈述过去发生的动作。",
+    "key_formula": "主语 + 动词过去式 + 其他 + 过去时间 (如 yesterday, last weekend)。",
+    "common_mistakes": [
+      "使用了过去时间，但动词未用过去式",
+      "在主语和动词过去式之间加了is/am/are"
+    ],
+    "tips": "看到last, yesterday, ago, before等词，立刻联想过去式。"
+  }
+}

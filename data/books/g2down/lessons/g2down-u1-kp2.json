@@ -1,0 +1,86 @@
+{
+  "id": "g2down-u1-kp2",
+  "title": "记录数据的方法（“正”字记录法）",
+  "bookId": "g2down",
+  "unitNumber": 1,
+  "unitTitle": "数据收集整理",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "一个“正”字代表 5 个数据。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“正”字一共有5笔，在统计数据时，每一笔代表1个数据，一个完整的“正”字表示5。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "用写“正”字的方法记录数据时，写了两个“正”字和三个笔画，代表 12。",
+      "options": [],
+      "answer": "错",
+      "explanation": "两个“正”字是 $5 \\times 2 = 10$，再加上三画是 $10 + 3 = 13$，不是 12。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "在统计图画书数量时，写了 3 个“正”字，图画书一共有多少本？",
+      "options": [
+        "10",
+        "15",
+        "3",
+        "5"
+      ],
+      "answer": "15",
+      "explanation": "一个“正”字代表 5，3 个“正”字就是 $5 \\times 3 = 15$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "用“正”字记录法记录了 18 票，应该写几个完整的“正”字，还余几画？",
+      "options": [
+        "3个完整的，余3画",
+        "2个完整的，余8画",
+        "3个完整的，余2画",
+        "4个完整的，余0画"
+      ],
+      "answer": "3个完整的，余3画",
+      "explanation": "$18 \\div 5 = 3$（个）……$3$（画）。验算：$3 \\times 5 + 3 = 18$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记录数据的方法（“正”字记录法）",
+      "question": "统计记录显示有 4 个完整的“正”字，这代表的数字是 ___。",
+      "options": [],
+      "answer": "20",
+      "explanation": "$5 \\times 4 = 20$。一个正字是 5，四个就是 20。验算：$20 \\div 5 = 4$。"
+    }
+  ],
+  "knowledge": {
+    "point": "记录数据的方法（“正”字记录法）",
+    "core_concept": "在收集数据时，由于数据是一个个出现的，我们需要用符号先记录下来。写“正”字法是最高效的方法，因为“正”字刚好5笔，每5项凑成一个字，最后通过数“正”字的个数乘5再加上剩下的笔画，就能快速算出总数。",
+    "key_formula": "总数 = 完整的“正”字个数 \\times 5 + 剩余笔画数",
+    "common_mistakes": [
+      "数“正”字笔画时，把一个“正”字当成了4或6",
+      "记录过程中，由于分心导致少画了笔画"
+    ],
+    "tips": "写“正”字要横平竖直，笔画清晰，每写完一个“正”字可以小小地圈一下防止数错。"
+  }
+}

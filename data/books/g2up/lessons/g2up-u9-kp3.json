@@ -1,0 +1,118 @@
+{
+  "id": "g2up-u9-kp3",
+  "title": "长度、角与时间的综合运用",
+  "bookId": "g2up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "黑板的长大约是4厘米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "黑板属于大型教学工具，单位应该是米，大约4米。4厘米仅有一根手指左右的长度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "一个角有两个顶点和一条边。",
+      "options": [],
+      "answer": "错",
+      "explanation": "角是由一个顶点和两条射线组成的图形。应该是“一个顶点和两条边”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "小明走一步的长度大约是45（  ）。",
+      "options": [
+        "米",
+        "厘米",
+        "元",
+        "角"
+      ],
+      "answer": "厘米",
+      "explanation": "二年级学生一步约40-50厘米。米太长，元和角是人民币单位。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "钟面上显示9时整，时针和分针组成的角是什么角？",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "平角"
+      ],
+      "answer": "直角",
+      "explanation": "9时整，分针指向12，时针指向9，两者相互垂直形成直角。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "分针从12走到6，走了多少分钟？",
+      "options": [
+        "6分钟",
+        "12分钟",
+        "30分钟",
+        "60分钟"
+      ],
+      "answer": "30分钟",
+      "explanation": "分针走一个大格是5分钟，从12到6走了6个大格，$6 \\times 5 = 30$（分钟）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "1米和100厘米相比，结果如何？",
+      "options": [
+        "1米长",
+        "100厘米长",
+        "一样长",
+        "无法比较"
+      ],
+      "answer": "一样长",
+      "explanation": "长度单位换算：1米 = 100厘米。两者数值相等，长度相同。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "长度、角与时间的综合运用",
+      "question": "3米 = ___ 厘米。",
+      "options": [],
+      "answer": "300",
+      "explanation": "因为1米=100厘米，3米就是3个100厘米，即300厘米。验算：$300 \\div 100 = 3$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "长度、角与时间的综合运用",
+    "core_concept": "综合考量度量衡单位、几何初步及时间认识。包括厘米与米的换算（100倍关系），直角、锐角、钝角的识别（以直角为标准），以及时、分的读数与经过时间的简单计算。",
+    "key_formula": "$1\\text{米} = 100\\text{厘米}$，$1\\text{时} = 60\\text{分}$",
+    "common_mistakes": [
+      "长度单位选错，如将教学楼高度写成15厘米。",
+      "读取时刻时，当时针接近下一个数字（如8:55）时，误读为9:55。"
+    ],
+    "tips": "感知单位时可以用身体做参考（如食指宽1厘米，张开双臂约1米）；读钟面时，先看时针走过几，再数分针多少格。"
+  }
+}

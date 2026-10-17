@@ -1,0 +1,217 @@
+{
+  "id": "science-g3down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g3down",
+  "unitNumber": 3,
+  "unitTitle": "太阳、地球和月球",
+  "kpIndex": 17,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "太阳特征",
+      "question": "太阳比地球重得多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "太阳的质量约是地球的33万倍。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "影子变化",
+      "question": "影子的形状总是和物体的形状一模一样。",
+      "options": [],
+      "answer": "错",
+      "explanation": "影子形状受物体形状及光源照射角度的影响，会产生形变。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "月相规律",
+      "question": "月相变化的规律是“朔-望-朔”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "即从月初的新月到月中满月再到月末消失的循环。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地球环境",
+      "question": "丰富的液态水是地球区别于其他星球的重要特征。",
+      "options": [],
+      "answer": "对",
+      "explanation": "目前已知的星球中，地球拥有大量的液态水以维持生命。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影子原理",
+      "question": "想让屏上的影子变大，可以（）。",
+      "options": [
+        "物靠近光源",
+        "物远离光源",
+        "屏远离物体",
+        "屏靠近光源"
+      ],
+      "answer": "物靠近光源",
+      "explanation": "遮挡物离光源越近，物体挡住的光越多，影子越大。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "月相认知",
+      "question": "农历月初的月亮被称为（）。",
+      "options": [
+        "满月",
+        "娥眉月",
+        "新月",
+        "上弦月"
+      ],
+      "answer": "新月",
+      "explanation": "农历初一的月亮称为新月或朔。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球证据",
+      "question": "下列现象不能证明地球是球体的是（）。",
+      "options": [
+        "麦哲伦航行",
+        "人往高处走",
+        "月食影子曲线",
+        "卫星照片"
+      ],
+      "answer": "人往高处走",
+      "explanation": "人往高处走是生物趋性或重力的反向运动，与地球形状无因果关系。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "月球地貌",
+      "question": "月球表面由于没有大气的保护，极易受到（）撞击。",
+      "options": [
+        "小行星",
+        "卫星",
+        "太阳黑子",
+        "光束"
+      ],
+      "answer": "小行星",
+      "explanation": "月球没有大气层阻挡，宇宙中小天体撞击月表形成环形山。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "天体光热",
+      "question": "我们感到太阳很热，是因为太阳属于（）。",
+      "options": [
+        "行星",
+        "恒星",
+        "卫星",
+        "星云"
+      ],
+      "answer": "恒星",
+      "explanation": "恒星能够通过内部反应产生巨大的热能。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影子的规律",
+      "question": "早上，小明面向太阳走，他的影子在（）。",
+      "options": [
+        "东边",
+        "南边",
+        "西边",
+        "北边"
+      ],
+      "answer": "西边",
+      "explanation": "影子永远出现在光源的相反方向。早上太阳在东，影子在西。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球资源",
+      "question": "下列不属于地球为生物提供生存条件的是（）。",
+      "options": [
+        "空气",
+        "适宜温度",
+        "环形山",
+        "液态水"
+      ],
+      "answer": "环形山",
+      "explanation": "环形山是地貌特征，并非生存必须的生命要素。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "日影规律",
+      "question": "同一时间，放在阳光下的两根长度不同的木棒，其影子的（）相同。",
+      "options": [
+        "长度",
+        "方向",
+        "粗细",
+        "形状"
+      ],
+      "answer": "方向",
+      "explanation": "同一时刻太阳位置确定，所有物体的影子投射方向一致。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "月相周期",
+      "question": "从农历初一到下一次初一，大约经过（）天。",
+      "options": [],
+      "answer": "30",
+      "explanation": "月相变化的一个完整周期约29.5天，填整数30。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "太阳常识",
+      "question": "太阳系中有（）颗大行星，地球是其中之一。",
+      "options": [],
+      "answer": "8",
+      "explanation": "现代科学定论太阳系共有八大行星。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球名称",
+      "question": "从太空看地球，地球是一个美丽的（）星球。",
+      "options": [],
+      "answer": "蓝色",
+      "explanation": "由于表面覆盖大量海洋，呈现蓝色。"
+    }
+  ],
+  "knowledge": null
+}

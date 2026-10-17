@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp7",
+  "title": "阅读理解",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 6,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "阅读：水，也是大自然的音乐家。下雨的时候，他在玩打击乐。这句主要表达的是：",
+      "options": [
+        "雨很大",
+        "雨声很美妙",
+        "水很调皮",
+        "水会打乐器"
+      ],
+      "answer": "雨声很美妙",
+      "explanation": "通过拟人化的“打击乐”体现出雨声的节奏感和美感。"
+    }
+  ],
+  "knowledge": null
+}

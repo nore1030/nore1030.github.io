@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u12-kp2",
+  "title": "表达最喜欢 I like… best",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 12,
+  "unitTitle": "Module 4 The world around us — The four seasons 四季",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达最喜欢 I like… best",
+      "question": "「我最喜欢秋天。」的英文是（　）",
+      "options": [
+        "I like autumn best.",
+        "I best like autumn.",
+        "I like best autumn.",
+        "I'm like autumn best."
+      ],
+      "answer": "I like autumn best.",
+      "explanation": "best 放句末。"
+    }
+  ],
+  "knowledge": {
+    "point": "表达最喜欢 I like… best",
+    "core_concept": "表达最喜欢用 I like… best.；询问 Which season do you like best?",
+    "key_formula": "I like autumn best.",
+    "common_mistakes": [
+      "I best like autumn.（×）"
+    ],
+    "tips": "best 放在句末。"
+  }
+}

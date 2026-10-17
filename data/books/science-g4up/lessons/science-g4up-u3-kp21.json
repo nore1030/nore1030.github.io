@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u3-kp21",
+  "title": "重力方向",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "重力方向",
+      "question": "熟透的苹果落向地面，是由于受到了（___）。",
+      "options": [
+        "浮力",
+        "推力",
+        "重力",
+        "阻力"
+      ],
+      "answer": "重力",
+      "explanation": "地球吸引力产生的重力方向总是竖直向下。"
+    }
+  ],
+  "knowledge": null
+}

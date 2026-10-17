@@ -1,0 +1,39 @@
+{
+  "id": "english-g3down-u1-kp3",
+  "title": "元音字母a在闭音节中的发音",
+  "bookId": "english-g3down",
+  "unitNumber": 1,
+  "unitTitle": "Welcome back to school!",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "元音字母a在闭音节中的发音",
+      "question": "单词 'cat' 中字母 'a' 的发音和 'bag' 中相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都是闭音节单词，字母a发短元音/æ/。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "元音字母a在闭音节中的发音",
+      "question": "单词 'hand' 中字母 'a' 的发音与下列哪个相同？",
+      "options": [
+        "cake",
+        "face",
+        "dad",
+        "name"
+      ],
+      "answer": "dad",
+      "explanation": "hand 和 dad 的 a 都发 /æ/，其他选项发 /eɪ/。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "english-g3down-u6-kp3",
+  "title": "五个元音字母短音综合辨析",
+  "bookId": "english-g3down",
+  "unitNumber": 6,
+  "unitTitle": "How many?",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "五个元音字母短音综合辨析",
+      "question": "单词 'box' 中字母 'o' 的发音与 'dog' 相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "它们都发闭音节的短元音/ɒ/。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "五个元音字母短音综合辨析",
+      "question": "下列哪个单词中 'u' 的发音与其他三个不同？",
+      "options": [
+        "duck",
+        "fun",
+        "under",
+        "blue"
+      ],
+      "answer": "blue",
+      "explanation": "duck, fun, under中的u发短音/ʌ/，blue发/u:/。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "五个元音字母短音综合辨析",
+      "question": "找出划线发音不同的单词：h__e__lp, b__e__d, p__e__n, sh__e__",
+      "options": [
+        "help",
+        "bed",
+        "pen",
+        "she"
+      ],
+      "answer": "she",
+      "explanation": "she中的e发长音/i:/，其他三个发短音/e/。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "五个元音字母短音综合辨析",
+      "question": "The ___ is on the box. (小狗)",
+      "options": [],
+      "answer": "dog",
+      "explanation": "dog符合中o发短音的规律。"
+    }
+  ],
+  "knowledge": null
+}

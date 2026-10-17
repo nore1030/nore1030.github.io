@@ -1,0 +1,220 @@
+{
+  "id": "g1up-u8-kp2",
+  "title": "9、8、7、6加几的计算",
+  "bookId": "g1up",
+  "unitNumber": 8,
+  "unitTitle": "20以内的进位加法",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$8 + 7$ 的计算结果和 $7 + 8$ 的计算结果相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "加法交换律：交换两个加数的位置，和不变。$8+7=15$，$7+8=15$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$6 + 6$ 得数是 $11$。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$6 + 6 = 12$。验算：$12 - 6 = 6$。原题说法错误。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "计算 $8 + 4$ 时，可以想 $8 + 2 = 10$，$10 + 2 = 12$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$8$ 凑成 $10$ 需要 $2$，把 $4$ 分成 $2$ 和 $2$，算法正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "计算 $9 + 3$ 的结果是：",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "$9+1=10$，$10+2=12$。验算：$12-3=9$ ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "在算式 $8 + \text{___} = 13$ 中，横线应填：",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "想加法算减法，$13-8=5$。验算：$8+5=13$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$7 + 4$ 与下面哪个算式的得数相等？",
+      "options": [
+        "8+2",
+        "9+2",
+        "7+3",
+        "6+4"
+      ],
+      "answer": "9+2",
+      "explanation": "$7+4=11$，$9+2=11$。两者相等。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "停车场原来有 7 辆车，又开进来 5 辆，现在有几辆车？",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "12",
+      "explanation": "$7 + 5 = 12$。验算：$12 - 5 = 7$ ✓。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "小明有 8 个练习本，妈妈又买来 8 个，一共有多少个？",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": "16",
+      "explanation": "$8 + 8 = 16$ 个。验算：$16 - 8 = 8$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "比 9 大 5 的数是几个？",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "14",
+      "explanation": "$9 + 5 = 14$。验算：$14 - 9 = 5$ ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "得数最大的算式是：",
+      "options": [
+        "9+3",
+        "8+5",
+        "7+7",
+        "6+9"
+      ],
+      "answer": "6+9",
+      "explanation": "$9+3=12, 8+5=13, 7+7=14, 6+9=15$。$15$ 最大。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "括号里最大填几？ $8 + (\text{___}) < 15$",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "$8+6=14$，$14<15$；若填 $7$，$8+7=15$，不小于 $15$。所以最大填 $6$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$7 + 6$ 的正确得数是：",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "13",
+      "explanation": "$7+3=10, 10+3=13$。验算：$13-7=6$ ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "小明昨天写了 7 个生字，今天写了 9 个，两天一共写了 ___ 个。",
+      "options": [],
+      "answer": "16",
+      "explanation": "$7 + 9 = 16$。把 $7$ 分成 $6$ 和 $1$，$1+9=10$，$10+6=16$。验算：$16-9=7$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "9、8、7、6加几的计算",
+      "question": "$8 + 9 = ?$",
+      "options": [],
+      "answer": "17",
+      "explanation": "$8 + 9 = 17$。凑十：把 $8$ 分成 $7$ 和 $1$，$1+9=10, 10+7=17$。验算：$17 - 9 = 8$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "9、8、7、6加几的计算",
+    "core_concept": "这部分是20以内进位加法的核心。根据加数的大小，灵活运用凑十法。当9、8、7、6作为大加数时，分别通过拆分另一个加数找它们的‘补数’（1、2、3、4）来凑十。",
+    "key_formula": "$9+2=11, 8+3=11, 7+4=11, 6+5=11$",
+    "common_mistakes": [
+      "计算结果偏差1：如 $8+5$ 算成 $12$（少加了一）。",
+      "相同加数相加混淆：如把 $6+6$ 结果算成 $11$。"
+    ],
+    "tips": "熟记基础题组，例如看到 $9$ 就要想到‘退一进十’，即和的个位比加数少 $1$。"
+  }
+}

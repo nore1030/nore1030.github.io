@@ -1,0 +1,171 @@
+{
+  "id": "chinese-g6down-u6-kp3",
+  "title": "书信与赠言的情感表达",
+  "bookId": "chinese-g6down",
+  "unitNumber": 6,
+  "unitTitle": "难忘小学生活",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "写信给老师时，最后的署名应该写在日期之后。",
+      "options": [],
+      "answer": "错",
+      "explanation": "书信格式要求署名在上，日期在下。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "给同学写毕业赠言时，应该多些真诚的鼓励和美好的祝愿。",
+      "options": [],
+      "answer": "对",
+      "explanation": "赠言应体现真情实感，表达对未来的期待。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "下列哪组词语最适合表达对母校的深厚情感？",
+      "options": [
+        "欢天喜地",
+        "恋恋不舍",
+        "忐忑不安",
+        "自怨自艾"
+      ],
+      "answer": "恋恋不舍",
+      "explanation": "“恋恋不舍”形容非常留恋，舍不得离开，最符合对母校的情感。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "写信给校长，正文开头最得体的问候语是：",
+      "options": [
+        "您好！",
+        "你最近好吗？",
+        "见到你很高兴",
+        "祝你身体健康"
+      ],
+      "answer": "您好！",
+      "explanation": "给长辈或领导写信，应使用尊称“您”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "“我们要感谢老师，是他们用汗水滋润了我们。”这句话用的修辞是：",
+      "options": [
+        "夸张",
+        "比喻",
+        "拟人",
+        "反问"
+      ],
+      "answer": "比喻",
+      "explanation": "将知识或教诲比作汗水，将教导过程比作滋润。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "“但愿人长久，千里共婵娟。”常用来表达：",
+      "options": [
+        "离别时的美好祝愿",
+        "对家乡的怀念",
+        "学习很刻苦",
+        "赞美月色迷人"
+      ],
+      "answer": "离别时的美好祝愿",
+      "explanation": "苏轼名句，常用于远隔两地时的互相思念与祝福。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "下列句子中，标点符号使用完全正确的一项是：",
+      "options": [
+        "再见吧！母校。",
+        "再见吧。母校！",
+        "再见吧，母校！",
+        "再见吧、母校。"
+      ],
+      "answer": "再见吧，母校！",
+      "explanation": "呼启语后用逗号，感叹句末尾用感叹号。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "书信中，在第一行顶格写的祝愿语是（___）。",
+      "options": [],
+      "answer": "称呼",
+      "explanation": "书信格式第一行应顶格写称呼。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "给不同身份的人写信，请选择最合适的结尾祝颂语。",
+      "options": [
+        "老师",
+        "长辈",
+        "同学",
+        "编辑",
+        "身体健康",
+        "教祺",
+        "握手",
+        "编安"
+      ],
+      "answer": "A-2,B-1,C-3,D-4",
+      "explanation": "老师用教祺，长辈一般祝身体健康，同学用握手，编辑用编安。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书信与赠言的情感表达",
+      "question": "请把下面的词语组成一句通顺的毕业感言语句。",
+      "options": [
+        "美好的",
+        "难以忘怀",
+        "这段",
+        "时光",
+        "令我"
+      ],
+      "answer": "这段,美好的,时光,令我,难以忘怀",
+      "explanation": "考查学生组织感言句子的能力。"
+    }
+  ],
+  "knowledge": {
+    "point": "书信与赠言的情感表达",
+    "core_concept": "书信和赠言是表达离别情感的两大利器。书信要求格式规范（称呼、问候、正文、祝颂、署名、日期），正文应抓住印象深刻的细节来书写，避免空洞。毕业赠言应根据受赠者的特点量身定制，内容包括回忆相处、表达祝福、立下志向等。要求用词真挚、不仅要有诗意更要有诚意。",
+    "key_formula": "真诚称呼 + 细节回忆 + 衷心祝福 + 规范署名 = 动人情书",
+    "common_mistakes": [
+      "格式错误：例如称呼没顶格，或者日期署名写错行。",
+      "语言套路化：全篇都是“祝你学习进步”，缺乏具体的共鸣情感。"
+    ],
+    "tips": "给每个人写赠言时，试着闭上眼想起对方的一个招牌动作或常说的话，写进去就会非常有感染力。"
+  }
+}

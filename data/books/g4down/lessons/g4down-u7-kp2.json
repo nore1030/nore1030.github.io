@@ -1,0 +1,161 @@
+{
+  "id": "g4down-u7-kp2",
+  "title": "图形的平移规律",
+  "bookId": "g4down",
+  "unitNumber": 7,
+  "unitTitle": "图形的运动（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "一个图形在平移过程中，它的形状和大小都会发生改变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "平移只改变图形的位置，不改变图形的形状和大小。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "平行四边形是轴对称图形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "普通的平行四边形沿任何直线对折都无法完全重合，所以不是轴对称图形。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "电梯的升降运动属于哪种现象？",
+      "options": [
+        "对称",
+        "平移",
+        "旋转",
+        "折叠"
+      ],
+      "answer": "平移",
+      "explanation": "电梯沿直线上下移动，保持形状大小不变，属于平移。 "
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "一个小鱼图向右平移了 5 格，鱼头上的一个点移动了多少格？",
+      "options": [
+        "3格",
+        "5格",
+        "10格",
+        "无法确定"
+      ],
+      "answer": "5格",
+      "explanation": "图形整体平移多少格，图形上每一个点就移动多少格。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "等边三角形有几条对称轴？",
+      "options": [
+        "1条",
+        "2条",
+        "3条",
+        "0条"
+      ],
+      "answer": "3条",
+      "explanation": "等边三角形三条边的中垂线都是它的对称轴。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "在一个方格纸上，点 A(2,2) 向右平移 3 格后的位置坐标是？",
+      "options": [
+        "(5,2)",
+        "(2,5)",
+        "(5,5)",
+        "(0,2)"
+      ],
+      "answer": "(5,2)",
+      "explanation": "向右平移只改变横坐标，即 $2 + 3 = 5$，纵坐标不变。验算：$5 - 3 = 2$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "要把一个图形从左下角平移到右上角，至少需要几次方向移动？",
+      "options": [
+        "1次",
+        "2次",
+        "3次",
+        "0次"
+      ],
+      "answer": "2次",
+      "explanation": "需要先向右平移，再向上平移（或先上后右），共2个方向。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的平移规律",
+      "question": "一个正方形先向右平移 4 格，再向下平移 3 格，它的形状？",
+      "options": [
+        "变长了",
+        "变宽了",
+        "没变",
+        "变大了"
+      ],
+      "answer": "没变",
+      "explanation": "平移不改变图形的大小和形状。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "一个小球向左平移了 8 厘米，又向右平移了 5 厘米，此时小球相对于原点向左移动了 ___ 厘米。",
+      "options": [],
+      "answer": "3",
+      "explanation": "向左为负，向右为正。列式：$8 - 5 = 3$（厘米）。验算：$3 + 5 = 8$。最终位移向左3厘米。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "计算：$12 \\times 5 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$12 \\times 5 = 60$。验算：$60 \\div 5 = 12$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形的平移规律",
+    "core_concept": "平移是指在平面内将图形沿某个方向移动一定的距离。平移只改变位置，图形的大小、形状、面积和角度完全不变。",
+    "key_formula": "平移格数 = 对应点之间的移动格数",
+    "common_mistakes": [
+      "数格数时数‘中间的空档’而不是数‘点的移动次数’。",
+      "平移后图形的大小发生了变化。"
+    ],
+    "tips": "找一个‘特征点’观察它的移动，这个点移几格，整个图就移几格。"
+  }
+}

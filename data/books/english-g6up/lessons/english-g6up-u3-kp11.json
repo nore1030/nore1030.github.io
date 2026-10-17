@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp11",
+  "title": "地点搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地点搭配",
+      "question": "I'm going to buy a dictionary in the ______.",
+      "options": [
+        "cinema",
+        "bookstore",
+        "museum",
+        "hospital"
+      ],
+      "answer": "bookstore",
+      "explanation": "买字典通常要去书店(bookstore)。"
+    }
+  ],
+  "knowledge": null
+}

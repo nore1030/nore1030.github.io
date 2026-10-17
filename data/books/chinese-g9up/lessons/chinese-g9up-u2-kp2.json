@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g9up-u2-kp2",
+  "title": "古代诗词默写与赏析",
+  "bookId": "chinese-g9up",
+  "unitNumber": 2,
+  "unitTitle": "文言文与古诗",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "古代诗词默写与赏析",
+      "question": "默写《观沧海》名句时应注意（　）",
+      "options": [
+        "字形准确无误",
+        "只要意思对就行",
+        "可以换词",
+        "可以加字"
+      ],
+      "answer": "字形准确无误",
+      "explanation": "默写要一字不差。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "古代诗词默写与赏析",
+      "question": "理解性默写要抓住题干提示的关键词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "抓提示词。"
+    }
+  ],
+  "knowledge": {
+    "point": "古代诗词默写与赏析",
+    "core_concept": "默写要注意字形准确、理解性默写要结合提示。赏析要结合全诗的意象、情感与写法。",
+    "key_formula": "理解性默写抓提示词",
+    "common_mistakes": [
+      "写错别字。"
+    ],
+    "tips": "反复默写巩固。"
+  }
+}

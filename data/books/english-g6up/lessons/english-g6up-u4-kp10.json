@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u4-kp10",
+  "title": "Interrogative pronoun",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 6,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "Interrogative pronoun",
+      "question": "—_______ are Peter's hobbies? —He likes reading.",
+      "options": [
+        "Who",
+        "Where",
+        "When",
+        "What"
+      ],
+      "answer": "What",
+      "explanation": "询问爱好用疑问词 What。"
+    }
+  ],
+  "knowledge": null
+}

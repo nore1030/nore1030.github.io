@@ -1,0 +1,66 @@
+{
+  "id": "history-g11up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "history-g11up",
+  "unitNumber": 2,
+  "unitTitle": "国家治理与社会变革",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "中国古代的选官与监察",
+      "question": "九品中正制的缺陷是（　）",
+      "options": [
+        "标准主观、易被门阀控制",
+        "过于公平",
+        "没有标准",
+        "不能选拔人才"
+      ],
+      "answer": "标准主观、易被门阀控制",
+      "explanation": "九品中正制缺陷。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "近代中国社会变革与思想解放",
+      "question": "在中国共产党成立前最早系统介绍马克思主义的是（　）",
+      "options": [
+        "《共产党宣言》",
+        "《新青年》",
+        "《申报》",
+        "《时务报》"
+      ],
+      "answer": "《共产党宣言》",
+      "explanation": "马关条约后传入。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "中国古代的选官与监察",
+      "question": "监察制度在历代不断强化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "监察强化。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "近代中国社会变革与思想解放",
+      "question": "近代中国经历了由改良到革命的转变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "改良到革命。"
+    }
+  ],
+  "knowledge": null
+}

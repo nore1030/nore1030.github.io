@@ -1,0 +1,47 @@
+{
+  "id": "politics-g10up-u2-kp1",
+  "title": "中国特色社会主义新时代",
+  "bookId": "politics-g10up",
+  "unitNumber": 2,
+  "unitTitle": "新时代与中国梦",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中国特色社会主义新时代",
+      "question": "新时代我国社会主要矛盾是（　）",
+      "options": [
+        "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
+        "人民日益增长的物质文化需要同落后的社会生产之间的矛盾",
+        "经济发展与环境保护的矛盾",
+        "城乡矛盾"
+      ],
+      "answer": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
+      "explanation": "新时代主要矛盾。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "中国特色社会主义新时代",
+      "question": "我国仍处于并将长期处于社会主义初级阶段。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基本国情未变。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国特色社会主义新时代",
+    "core_concept": "新时代我国社会主要矛盾是人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。我国仍处于并将长期处于社会主义初级阶段。",
+    "key_formula": "主要矛盾：美好生活需要 vs 不平衡不充分发展",
+    "common_mistakes": [
+      "认为主要矛盾已变为物质文化需要。"
+    ],
+    "tips": "注意“不平衡不充分”。"
+  }
+}

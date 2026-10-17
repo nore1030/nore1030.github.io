@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp7",
+  "title": "关联词运用",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关联词运用",
+      "question": "“（  ）它不高兴，（  ）谁说多少好话，它一声也不出。”",
+      "options": [
+        "如果……就……",
+        "虽然……但是……",
+        "假若……无论……",
+        "只有……才……"
+      ],
+      "answer": "假若……无论……",
+      "explanation": "这里表示假设和条件逻辑，猫不高兴时非常固执。"
+    }
+  ],
+  "knowledge": null
+}

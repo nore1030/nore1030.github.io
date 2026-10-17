@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp8",
+  "title": "描写方法识别",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描写方法识别",
+      "question": "通过描写海水的咆哮、人们的惊慌来表现船长的镇定，这是侧面描写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "通过周围人和环境的混乱反衬主角的镇定，属于侧面描写/反衬。"
+    }
+  ],
+  "knowledge": null
+}

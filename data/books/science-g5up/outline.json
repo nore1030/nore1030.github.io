@@ -1,0 +1,645 @@
+{
+  "textbook": "五年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "光",
+      "knowledge_points": [
+        {
+          "name": "光源的辨析",
+          "description": "理解自身能发光的物体称为光源，并能区分光源与非光源（如月亮、镜子）。",
+          "difficulty": 1,
+          "question_types": [
+            "判断",
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "光的直线传播与遮挡",
+          "description": "理解光在同种均匀介质中沿直线传播，以及遇到不同透明度物体产生的现象。",
+          "difficulty": 2,
+          "question_types": [
+            "操作题",
+            "填空",
+            "应用题"
+          ]
+        },
+        {
+          "name": "光的折射现象",
+          "description": "认识光从一种介质斜射入另一种介质时传播方向发生偏折的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "操作题",
+            "选择",
+            "规律探索"
+          ]
+        },
+        {
+          "name": "光的色散与合成",
+          "description": "通过三棱镜实验认识白光由七色光组成，了解彩色轮的混合原理。",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "判断",
+            "操作题"
+          ]
+        },
+        {
+          "name": "光的反射与潜望镜原理",
+          "description": "理解光遇到物体表面改变传播方向的现象，并能应用两次反射原理制作潜望镜。",
+          "difficulty": 3,
+          "question_types": [
+            "操作题",
+            "应用题",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "science-g5up-u1-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 2,
+      "title": "地球表面的变化",
+      "knowledge_points": [
+        {
+          "name": "典型地形地貌的特征与成因",
+          "description": "描述高原、盆地、雅丹地貌等形态，并初步推测地壳运动、风、水等形成因素。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "地球内部圈层结构",
+          "description": "识别地壳、地幔、地核三个圈层，了解岩石的分类（岩浆岩、沉积岩、变质岩）。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "选择",
+            "判断"
+          ]
+        },
+        {
+          "name": "地震与火山的成因",
+          "description": "通过模拟实验理解地球内部能量释放对地表形态的剧烈改变。",
+          "difficulty": 3,
+          "question_types": [
+            "操作题",
+            "应用题",
+            "选择"
+          ]
+        },
+        {
+          "name": "风与水对外力的侵蚀与沉积作用",
+          "description": "探究风力搬运和流水降雨对土壤、岩石的长期塑造作用及植被的保护意义。",
+          "difficulty": 3,
+          "question_types": [
+            "规律探索",
+            "应用题",
+            "判断"
+          ]
+        }
+      ],
+      "examLessonId": "science-g5up-u2-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 3,
+      "title": "计量时间",
+      "knowledge_points": [
+        {
+          "name": "古代计时工具的原理",
+          "description": "了解日晷、燃香、水钟等利用自然周期或等速消耗现象进行计时的工具。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "水钟的设计与水位控制",
+          "description": "探究水流速度与水位的关系，掌握通过保持水位恒定实现匀速滴漏的方法。",
+          "difficulty": 4,
+          "question_types": [
+            "操作题",
+            "应用题",
+            "规律探索"
+          ]
+        },
+        {
+          "name": "单摆的等时性与摆长规律",
+          "description": "探究影响摆动快慢的因素，理解摆的快慢只与摆绳长度有关。",
+          "difficulty": 3,
+          "question_types": [
+            "规律探索",
+            "填空",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "计时工具的演变与精准计时",
+          "description": "比较不同计时工具的准确性，理解精准计时对现代社会的重要性。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "应用题",
+            "排序/比较"
+          ]
+        }
+      ],
+      "examLessonId": "science-g5up-u3-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 4,
+      "title": "健康生活",
+      "knowledge_points": [
+        {
+          "name": "体质监测与BMI计算",
+          "description": "掌握体重指数的计算方法，通过各项指标评价个人体质健康状况。",
+          "difficulty": 3,
+          "question_types": [
+            "填空",
+            "应用题",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "运动系统的协作机制",
+          "description": "理解骨、关节、肌肉如何相互配合完成身体动作。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "判断",
+            "操作题"
+          ]
+        },
+        {
+          "name": "血液循环系统的功能与计算",
+          "description": "认识心脏的泵血作用，并能进行简单的每小时血液输出量计算。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "选择",
+            "填空"
+          ]
+        },
+        {
+          "name": "神经系统的信息传递与脑的保护",
+          "description": "了解脑、脊髓、神经的作用，掌握保护大脑及管理压力、情绪的方法。",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "选择",
+            "应用题"
+          ]
+        }
+      ],
+      "examLessonId": "science-g5up-u4-exam",
+      "examQuestionCount": 15
+    }
+  ],
+  "bookId": "science-g5up",
+  "grade": 5,
+  "semester": "up",
+  "subject": "science",
+  "lessons": [
+    {
+      "id": "science-g5up-u1-kp1",
+      "title": "光源的辨析",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 0,
+      "kpTotal": 10,
+      "questionCount": 2
+    },
+    {
+      "id": "science-g5up-u1-kp6",
+      "title": "光的直线传播",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 1,
+      "kpTotal": 10,
+      "questionCount": 5
+    },
+    {
+      "id": "science-g5up-u1-kp7",
+      "title": "光的反射",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 2,
+      "kpTotal": 10,
+      "questionCount": 4
+    },
+    {
+      "id": "science-g5up-u1-kp8",
+      "title": "光的折射",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 3,
+      "kpTotal": 10,
+      "questionCount": 4
+    },
+    {
+      "id": "science-g5up-u1-kp9",
+      "title": "光的合成",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 4,
+      "kpTotal": 10,
+      "questionCount": 2
+    },
+    {
+      "id": "science-g5up-u1-kp10",
+      "title": "光的传播与遮挡",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 5,
+      "kpTotal": 10,
+      "questionCount": 2
+    },
+    {
+      "id": "science-g5up-u1-kp11",
+      "title": "光的色散",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 6,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u1-kp12",
+      "title": "力的直线传播",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 7,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u1-kp13",
+      "title": "光的应用",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 8,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u1-kp14",
+      "title": "光的原理应用",
+      "unitNumber": 1,
+      "unitTitle": "光",
+      "kpIndex": 9,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp5",
+      "title": "地球内部结构",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 0,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp6",
+      "title": "地震的危害",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 1,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp7",
+      "title": "风的作用",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 2,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp8",
+      "title": "岩层运动",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 3,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp9",
+      "title": "植物对侵蚀的影响",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 4,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp10",
+      "title": "地形地貌识别",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 5,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp11",
+      "title": "地球内部圈层",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 6,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp12",
+      "title": "岩石成因",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 7,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp13",
+      "title": "地震成因",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 8,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp14",
+      "title": "火山喷发",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 9,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp15",
+      "title": "风的侵蚀作用",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 10,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp16",
+      "title": "黄河水的变化",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 11,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp17",
+      "title": "降雨试验",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 12,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp18",
+      "title": "雅丹地貌",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 13,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp19",
+      "title": "地形特征",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 14,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp20",
+      "title": "地震自救",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 15,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp21",
+      "title": "岩层断裂",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 16,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp22",
+      "title": "长白山天池",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 17,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp23",
+      "title": "地球内部圈层数量",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 18,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp24",
+      "title": "板块数量",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 19,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp25",
+      "title": "地球最外层",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 20,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp26",
+      "title": "侵蚀作用",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 21,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u2-kp27",
+      "title": "沉积作用",
+      "unitNumber": 2,
+      "unitTitle": "地球表面的变化",
+      "kpIndex": 22,
+      "kpTotal": 23,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp1",
+      "title": "古代计时工具的原理",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 0,
+      "kpTotal": 10,
+      "questionCount": 5
+    },
+    {
+      "id": "science-g5up-u3-kp2",
+      "title": "水钟的设计与水位控制",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 1,
+      "kpTotal": 10,
+      "questionCount": 2
+    },
+    {
+      "id": "science-g5up-u3-kp3",
+      "title": "单摆的等时性与摆长规律",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 2,
+      "kpTotal": 10,
+      "questionCount": 8
+    },
+    {
+      "id": "science-g5up-u3-kp5",
+      "title": "单摆的等时性",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 3,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp6",
+      "title": "计时工具的演变",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 4,
+      "kpTotal": 10,
+      "questionCount": 2
+    },
+    {
+      "id": "science-g5up-u3-kp7",
+      "title": "日常经验中的时间",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 5,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp8",
+      "title": "自然界的周期性",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 6,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp9",
+      "title": "时间的认识",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 7,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp10",
+      "title": "时间的计量",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 8,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u3-kp11",
+      "title": "实验数据处理",
+      "unitNumber": 3,
+      "unitTitle": "计量时间",
+      "kpIndex": 9,
+      "kpTotal": 10,
+      "questionCount": 1
+    },
+    {
+      "id": "science-g5up-u4-kp1",
+      "title": "体质监测与BMI计算",
+      "unitNumber": 4,
+      "unitTitle": "健康生活",
+      "kpIndex": 0,
+      "kpTotal": 5,
+      "questionCount": 3
+    },
+    {
+      "id": "science-g5up-u4-kp2",
+      "title": "运动系统的协作机制",
+      "unitNumber": 4,
+      "unitTitle": "健康生活",
+      "kpIndex": 1,
+      "kpTotal": 5,
+      "questionCount": 5
+    },
+    {
+      "id": "science-g5up-u4-kp3",
+      "title": "血液循环系统的功能与计算",
+      "unitNumber": 4,
+      "unitTitle": "健康生活",
+      "kpIndex": 2,
+      "kpTotal": 5,
+      "questionCount": 6
+    },
+    {
+      "id": "science-g5up-u4-kp4",
+      "title": "神经系统的信息传递与脑的保护",
+      "unitNumber": 4,
+      "unitTitle": "健康生活",
+      "kpIndex": 3,
+      "kpTotal": 5,
+      "questionCount": 8
+    },
+    {
+      "id": "science-g5up-u4-kp5",
+      "title": "神经网络信息传递",
+      "unitNumber": 4,
+      "unitTitle": "健康生活",
+      "kpIndex": 4,
+      "kpTotal": 5,
+      "questionCount": 1
+    }
+  ]
+}

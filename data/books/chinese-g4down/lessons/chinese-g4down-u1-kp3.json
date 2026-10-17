@@ -1,0 +1,133 @@
+{
+  "id": "chinese-g4down-u1-kp3",
+  "title": "描写景物的修辞手法应用",
+  "bookId": "chinese-g4down",
+  "unitNumber": 1,
+  "unitTitle": "乡村生活",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘那构成了一道独特、迷人的风景’这句话运用了比喻的修辞手法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句话只是一个普通的陈述句，是对乡村风景的赞美，没有比喻词及喻体。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "下列词语中，描写田园风景最合适的一项是：",
+      "options": [
+        "车水马龙",
+        "依山傍水",
+        "高楼大厦",
+        "灯红酒绿"
+      ],
+      "answer": "依山傍水",
+      "explanation": "‘依山傍水’形容乡村靠着山靠近水，环境优美，属于田园风格。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘三月的桃花水，是春天的竖琴。’这句话使用的修辞手法是：",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "反向"
+      ],
+      "answer": "比喻",
+      "explanation": "把桃花水的声音比作竖琴的声音。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "‘几场春雨过后，到那里走走，你常常会看见许多鲜嫩的笋，成群地从土里探出头来。’这句话使用了：",
+      "options": [
+        "拟人",
+        "夸张",
+        "比喻",
+        "排比"
+      ],
+      "answer": "拟人",
+      "explanation": "‘探出头来’赋予了春笋人的动作，生动俏皮。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "在《天窗》一文中，作者把‘天窗’形容为：",
+      "options": [
+        "唯一的慰藉",
+        "烦躁的来源",
+        "乡村的痛苦",
+        "黑暗的深渊"
+      ],
+      "answer": "唯一的慰藉",
+      "explanation": "课文明确表述‘这时候，小小的天窗是你唯一的慰藉’。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "请将下列景物与其描写的动作连线。",
+      "options": [
+        "春阳",
+        "春云",
+        "春风",
+        "春水",
+        "照着",
+        "跑着",
+        "拂着",
+        "流着"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "此题考查动宾搭配的合理性。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写景物的修辞手法应用",
+      "question": "请将下列词语排列成一句描写乡村早晨的话。",
+      "options": [
+        "雄鸡",
+        "一曲",
+        "唱起了",
+        "嘹亮的",
+        "歌"
+      ],
+      "answer": "雄鸡,唱起了,一曲,嘹亮的,歌",
+      "explanation": "考查拟人化句子的语序组织。"
+    }
+  ],
+  "knowledge": {
+    "point": "描写景物的修辞手法应用",
+    "core_concept": "本单元大量运用了拟人和比喻手法。拟人赋予自然景物以人的情感（如‘探出头’），使画面生动有趣；比喻将抽象的感受具体化（如‘天窗是慰藉’、‘三月桃花水是竖琴’）。通过修辞的运用，原本平凡的乡村景物变得极具艺术感染力。",
+    "key_formula": "拟人判别式：景物+人的动作/神态；比喻判别式：事物A+连接词+事物B（两者有相似点）。",
+    "common_mistakes": [
+      "将普通的陈述句（如‘风景很美’）误认为比喻句",
+      "不能准确识别拟人句中的‘人称化’动词"
+    ],
+    "tips": "把修辞想象成给景物‘化妆’，拟人化是穿上人的衣服，比喻是戴上模仿别人的面具。"
+  }
+}

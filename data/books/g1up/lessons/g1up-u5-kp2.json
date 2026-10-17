@@ -1,0 +1,129 @@
+{
+  "id": "g1up-u5-kp2",
+  "title": "6~10的加减法运算",
+  "bookId": "g1up",
+  "unitNumber": 5,
+  "unitTitle": "6~10的认识和加减法",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "$8 - 0$ 的结果比 $8 + 0$ 的结果小。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$8 - 0 = 8$，$8 + 0 = 8$，两个结果相等。验算：$8 = 8$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "$1 + 9 = 10$，所以 $10 - 1 = 9$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据加减法的互逆关系，加数+加数=和，则和-一个加数=另一个加数。验算：$9 + 1 = 10$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "停车场原来有 6 辆车，又开来了 4 辆，现在一共有多少辆？",
+      "options": [
+        "2 辆",
+        "9 辆",
+        "10 辆",
+        "8 辆"
+      ],
+      "answer": "10 辆",
+      "explanation": "求一共有多少用加法。列式：$6 + 4 = 10$。验算：$10 - 4 = 6$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "计算 $10 - 7$ 的结果是多少？",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "$10 - 7 = 3$。验算：$3 + 7 = 10$ ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "小红有 10 支铅笔，送给小明一些后还剩 6 支。小红送给小明多少支？",
+      "options": [
+        "3 支",
+        "4 支",
+        "5 支",
+        "6 支"
+      ],
+      "answer": "4 支",
+      "explanation": "求送出的部分，用总数减去剩下的。列式：$10 - 6 = 4$。验算：$6 + 4 = 10$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "计算 $4 + 4$ 的结果是多少？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "0"
+      ],
+      "answer": "8",
+      "explanation": "$4 + 4 = 8$。验算：$8 - 4 = 4$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "妈妈买了 9 个苹果，吃了 5 个，还剩 ___ 个。",
+      "options": [],
+      "answer": "4",
+      "explanation": "已知总数和吃掉的部分，求剩余。列式：$9 - 5 = 4$。验算：$4 + 5 = 9$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "6~10的加减法运算",
+      "question": "$10 - 2 = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$10 - 2 = 8$。验算：$8 + 2 = 10$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "6~10的加减法运算",
+    "core_concept": "理解加法是把两个数合并成一个数的运算，减法是从一个数里去掉一部分求另一部分的运算。熟练掌握得数是6-10的加法及相应的减法算式。",
+    "key_formula": "$加数 + 加数 = 和$， $被减数 - 减数 = 差$",
+    "common_mistakes": [
+      "计算减法时，错误地用小的数去减大的数。",
+      "看错运算符号，把加号当成减号。"
+    ],
+    "tips": "利用“一图四式”掌握加减法互逆关系。看到 $4 + 6 = 10$，立刻想到 $10 - 4 = 6$ 和 $10 - 6 = 4$。"
+  }
+}

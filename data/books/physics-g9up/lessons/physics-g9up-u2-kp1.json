@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9up-u2-kp1",
+  "title": "电荷与电流",
+  "bookId": "physics-g9up",
+  "unitNumber": 2,
+  "unitTitle": "电流和电路",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电荷与电流",
+      "question": "电流方向的规定是（　）",
+      "options": [
+        "正电荷定向移动的方向",
+        "负电荷移动方向",
+        "电子移动方向",
+        "无规定"
+      ],
+      "answer": "正电荷定向移动的方向",
+      "explanation": "电流方向约定。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "电荷与电流",
+      "question": "10 s 内通过导体横截面的电荷量为 20 C，电流是多少 A？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$I=\\frac Qt=\\frac{20}{10}=2$ A。"
+    }
+  ],
+  "knowledge": {
+    "point": "电荷与电流",
+    "core_concept": "电荷的定向移动形成电流，规定正电荷定向移动的方向为电流方向。电流是表示电流强弱的物理量。",
+    "key_formula": "$I=\\frac Qt$",
+    "common_mistakes": [
+      "认为电子移动方向即电流方向。"
+    ],
+    "tips": "电流方向与电子定向移动方向相反。"
+  }
+}

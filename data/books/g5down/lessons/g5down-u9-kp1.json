@@ -1,0 +1,172 @@
+{
+  "id": "g5down-u9-kp1",
+  "title": "数与代数综合梳理",
+  "bookId": "g5down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "因为 $0.6 = 0.60$，所以它们的分数单位也相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$0.6$ 的分数单位是十分之一，$0.60$ 的分数单位是百分之一，虽然大小相等但意义不同。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "所有的偶数都是合数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数字 2 是偶数，但它是质数，不是合数。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "下列各数中，既是 2 的倍数，又是 5 的倍数的是：",
+      "options": [
+        "12",
+        "15",
+        "20",
+        "22"
+      ],
+      "answer": "20",
+      "explanation": "同时是 2 和 5 的倍数，个位必须是 0。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "把 2 米长的绳子平均分成 5 段，每段占全长的：",
+      "options": [
+        "五分之一",
+        "五分之二",
+        "五分之三",
+        "五分之四"
+      ],
+      "answer": "五分之一",
+      "explanation": "求比例用 1 除以段数 5，得到五分之一。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一个分数的分母扩大到原来的 3 倍，分子不变，这个分数：",
+      "options": [
+        "扩大到原来的 3 倍",
+        "缩小到原来的三分之一",
+        "大小不变",
+        "增加 3"
+      ],
+      "answer": "缩小到原来的三分之一",
+      "explanation": "根据分数的基本性质，分母扩大则分数值缩小。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "分母是 8 的最简真分数共有几个？",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4",
+      "explanation": "分别是 $\\frac{1}{8}, \\frac{3}{8}, \\frac{5}{8}, \\frac{7}{8}$，共 4 个。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "两个质数的积一定是：",
+      "options": [
+        "质数",
+        "合数",
+        "奇数",
+        "偶数"
+      ],
+      "answer": "合数",
+      "explanation": "积除了 1 和它本身，还有这两个质数作为因数，所以是合数。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "甲数是乙数的倍数，甲乙两数的最大公因数是：",
+      "options": [
+        "1",
+        "甲数",
+        "乙数",
+        "甲乙两数的积"
+      ],
+      "answer": "乙数",
+      "explanation": "倍数关系的两个数，小数是最大公因数，大数是最小公倍数。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "小明有 15 本书，借给小红 5 本，剩下的书占总数的几分之几？这里填分母：10/___。",
+      "options": [],
+      "answer": "15",
+      "explanation": "总数是 15，剩下 $15-5=10$。比例是 $10/15$。验算：$10+5=15$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "计算：$125 \\times 8 = ?$",
+      "options": [],
+      "answer": "1000",
+      "explanation": "$125 \\times 8 = 1000$。验算：$1000 \\div 8 = 125$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "计算：$48 + 52 = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$48 + 52 = 100$。验算：$100 - 52 = 48$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数与代数综合梳理",
+    "core_concept": "本模块涵盖因数与倍数、质数与合数、分数的基本性质及加减运算。重点在于掌握因数倍数的特征（如2,3,5的倍数特征），以及利用通分解决异分母分数加减法。理解分数与除法的关系是核心。",
+    "key_formula": "$分数的分子 \\div 分母 = 分数值$; $a \\times b = [a, b] \\times (a, b)$",
+    "common_mistakes": [
+      "通分时忘记同步扩大分子，导致计算错误。",
+      "混淆质数和奇数的概念，如认为 1 是质数或 9 是质数。"
+    ],
+    "tips": "记忆 20 以内的质数表，做分数加减法前先观察能否拆分或简算。"
+  }
+}

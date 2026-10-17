@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 2,
+  "unitTitle": "全等三角形与轴对称",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的判定",
+      "question": "在 $\\triangle ABC$ 与 $\\triangle DEF$ 中，$AB=DE$，$\\angle A=\\angle D$，$\\angle B=\\angle E$，则可判定（　）",
+      "options": [
+        "$\\triangle ABC \\cong \\triangle DEF$",
+        "两三角形相似",
+        "两三角形面积相等",
+        "无法判定"
+      ],
+      "answer": "$\\triangle ABC \\cong \\triangle DEF$",
+      "explanation": "ASA 判定全等。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "轴对称与等腰三角形",
+      "question": "等腰三角形顶角为 100°，则底角为（　）",
+      "options": [
+        "40°",
+        "50°",
+        "80°",
+        "45°"
+      ],
+      "answer": "40°",
+      "explanation": "(180−100)/2 = 40。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的判定",
+      "question": "全等三角形的对应边相等、对应角相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全等性质。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "轴对称与等腰三角形",
+      "question": "等腰三角形的两底角相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "等边对等角。"
+    }
+  ],
+  "knowledge": null
+}

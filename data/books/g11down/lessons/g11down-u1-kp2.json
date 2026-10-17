@@ -1,0 +1,53 @@
+{
+  "id": "g11down-u1-kp2",
+  "title": "等比数列",
+  "bookId": "g11down",
+  "unitNumber": 1,
+  "unitTitle": "数列",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等比数列",
+      "question": "等比数列 $\\{a_n\\}$ 中 $a_1=1$，公比 $q=2$，则 $a_{5}=$ ？",
+      "options": [],
+      "answer": "16",
+      "explanation": "$a_{5}=a_1q^{4}=1\\times2^{4}=16$。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "等比数列",
+      "question": "等比数列 $\\{a_n\\}$ 中 $a_1=3$，公比 $q=2$，则 $a_{4}=$ ？",
+      "options": [],
+      "answer": "24",
+      "explanation": "$a_{4}=a_1q^{3}=3\\times2^{3}=24$。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "等比数列",
+      "question": "等比数列首项 1、公比 2、前 5 项和是多少？",
+      "options": [],
+      "answer": "31",
+      "explanation": "$\\frac{1(1-2^5)}{1-2}=31$。"
+    }
+  ],
+  "knowledge": {
+    "point": "等比数列",
+    "core_concept": "等比数列通项 $a_n=a_1q^{n-1}$；$q\\ne1$ 时 $S_n=\\frac{a_1(1-q^n)}{1-q}$。",
+    "key_formula": "$a_n=a_1q^{n-1}$",
+    "common_mistakes": [
+      "公比 $q=1$ 时套用求和公式。"
+    ],
+    "tips": "先讨论 $q=1$ 的情况。"
+  }
+}

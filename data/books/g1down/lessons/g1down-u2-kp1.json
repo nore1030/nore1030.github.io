@@ -1,0 +1,172 @@
+{
+  "id": "g1down-u2-kp1",
+  "title": "十几减9、8、7、6的计算方法",
+  "bookId": "g1down",
+  "unitNumber": 2,
+  "unitTitle": "20以内的退位减法",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "计算 $11 - 9$ 时，可以用“破十法”，先算 $10 - 9 = 1$，再算 $1 + 1 = 2$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "破十法是把 11 分成 10 和 1，先用 10 减 9 等于 1，再把剩下的 1 与被减数个位上的 1 相加，结果是 2。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "想加算减法：计算 $13 - 7$ 时，可以想 $7 + 6 = 13$，所以 $13 - 7 = 6$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "想加法算减法是利用加法和减法的逆运算关系，计算正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "买一个 9 元的玩具，付给营业员 15 元，应找回多少元？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "找回的钱 = 付出的钱 - 商品价格。$15 - 9 = 6$（元）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "在算式 $13 - 6 = \text{?}$ 中，问号处应该填：",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "$13 - 6 = 7$，验算 $7 + 6 = 13$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "比 14 少 8 的数是几？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "$14 - 8 = 6$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "算式 $15 - 9$ 的得数与下面哪个算式相等？",
+      "options": [
+        "$12 - 8$",
+        "$13 - 7$",
+        "$11 - 6$",
+        "$14 - 9$"
+      ],
+      "answer": "$13 - 7$",
+      "explanation": "$15 - 9 = 6$，$13 - 7 = 6$，所以两者相等。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "得数最大的算式是：",
+      "options": [
+        "$16 - 7$",
+        "$17 - 9$",
+        "$15 - 8$",
+        "$14 - 9$"
+      ],
+      "answer": "$16 - 7$",
+      "explanation": "A=9, B=8, C=7, D=5。9 最大。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "$16 - \text{?} > 8$，括号里最大能填几？",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "当 $16 - 8 = 8$ 时，要使结果大于 8，减去的数必须小于 8。所以最大填 7。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "小明有 12 个苹果，分给小红 8 个，小明还剩 ___ 个苹果。",
+      "options": [],
+      "answer": "4",
+      "explanation": "$12 - 8 = 4$。验算：$4 + 8 = 12$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "一个加数是 9，和是 17，另一个加数是 ___。",
+      "options": [],
+      "answer": "8",
+      "explanation": "$17 - 9 = 8$。验算：$9 + 8 = 17$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "十几减9、8、7、6的计算方法",
+      "question": "计算：$15 - 8 = ?$",
+      "options": [],
+      "answer": "7",
+      "explanation": "$15 - 8 = 7$。验算：$7 + 8 = 15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "十几减9、8、7、6的计算方法",
+    "core_concept": "这是 20 以内退位减法的核心。主要使用“破十法”：把十几拆成 10 和几，先用 10 去减减数，再把剩下的数和十几的个位数相加。也可以用“想加算减法”，利用 20 以内的进位加法来快速求差。",
+    "key_formula": "$10 - a + b$",
+    "common_mistakes": [
+      "在使用破十法时，最后一步忘记把减剩下的数与个位数相加，如计算 $13 - 9$，只算出 $10 - 9 = 1$ 就结束了。",
+      "想加算减时加法口诀不熟练，导致得数写错。"
+    ],
+    "tips": "记住“减 9 加 1，减 8 加 2，减 7 加 3，减 6 加 4”的小口诀，可以极大提高计算速度。"
+  }
+}

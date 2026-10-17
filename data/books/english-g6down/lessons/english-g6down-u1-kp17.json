@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp17",
+  "title": "常识推断",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 13,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "常识推断",
+      "question": "An elephant is ____ than a rabbit.",
+      "options": [
+        "smaller",
+        "heavier",
+        "shorter",
+        "thinner"
+      ],
+      "answer": "heavier",
+      "explanation": "大象比兔子重。"
+    }
+  ],
+  "knowledge": null
+}

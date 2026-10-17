@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8down-u1-kp2",
+  "title": "牛顿第一定律与惯性",
+  "bookId": "physics-g8down",
+  "unitNumber": 1,
+  "unitTitle": "力与运动",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "牛顿第一定律与惯性",
+      "question": "关于惯性，说法正确的是（　）",
+      "options": [
+        "速度越大惯性越大",
+        "质量越大惯性越大",
+        "惯性是一种力",
+        "静止物体没有惯性"
+      ],
+      "answer": "质量越大惯性越大",
+      "explanation": "惯性只与质量有关。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "牛顿第一定律与惯性",
+      "question": "汽车突然刹车时乘客身体前倾，是因为乘客具有惯性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "惯性现象。"
+    }
+  ],
+  "knowledge": {
+    "point": "牛顿第一定律与惯性",
+    "core_concept": "一切物体在没有受到力的作用时，总保持静止状态或匀速直线运动状态。惯性是物体的属性，只与质量有关。",
+    "key_formula": "惯性大小只由质量决定",
+    "common_mistakes": [
+      "认为惯性是一种力。"
+    ],
+    "tips": "惯性不是力，不能说“受到惯性”。"
+  }
+}

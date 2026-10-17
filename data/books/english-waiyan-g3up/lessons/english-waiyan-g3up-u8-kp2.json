@@ -1,0 +1,36 @@
+{
+  "id": "english-waiyan-g3up-u8-kp2",
+  "title": "物主代词 my / your / his / her",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 8,
+  "unitTitle": "Module 8 This is Sam's book 物品归属",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物主代词 my / your / his / her",
+      "question": "「这是我的书。」的英文是（　）",
+      "options": [
+        "This is my book.",
+        "This is I book.",
+        "This is me book.",
+        "This is mine book."
+      ],
+      "answer": "This is my book.",
+      "explanation": "形容词性物主代词 + 名词。"
+    }
+  ],
+  "knowledge": {
+    "point": "物主代词 my / your / his / her",
+    "core_concept": "my 我的、your 你的、his 他的、her 她的，后面都要接名词。",
+    "key_formula": "This is my book. / This is his pen.",
+    "common_mistakes": [
+      "物主代词后不接名词。"
+    ],
+    "tips": "物主代词 + 名词，缺一不可。"
+  }
+}

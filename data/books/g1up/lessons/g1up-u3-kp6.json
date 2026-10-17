@@ -1,0 +1,75 @@
+{
+  "id": "g1up-u3-kp6",
+  "title": "0的认识与相关加减法",
+  "bookId": "g1up",
+  "unitNumber": 3,
+  "unitTitle": "1~5的认识和加减法",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "0的认识与相关加减法",
+      "question": "一个数加上0，还得这个数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "0表示什么都没有，任何数加上0，大小都不变。例如 $3 + 0 = 3$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "0的认识与相关加减法",
+      "question": "计算 $4 - 0 = \bigcirc$，圈里应填什么？",
+      "options": [
+        "0",
+        "1",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "explanation": "任何数减去0，结果还是原来的数。$4 - 0 = 4$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "0的认识与相关加减法",
+      "question": "鱼缸里原来有3条鱼，全死后捞出来了，现在鱼缸里有几条鱼？",
+      "options": [
+        "0条",
+        "1条",
+        "2条",
+        "3条"
+      ],
+      "answer": "0条",
+      "explanation": "全部捞出了，表示什么都没有了，用0表示。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "0的认识与相关加减法",
+      "question": "$0 + 5 = ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "0加上任何数等于那个数本身，$0 + 5 = 5$。验算：$5 - 0 = 5$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "0的认识与相关加减法",
+    "core_concept": "0不仅表示“一个也没有”，还表示起点的意思（如尺子的刻度0）。在计算中，任何数加0仍得原数，任何数减0也得原数，两个相同的数相减得0。",
+    "key_formula": "$a + 0 = a; a - 0 = a; a - a = 0$",
+    "common_mistakes": [
+      "认为 0+5=0（把0当成了没有，认为加了也不占位）。",
+      "混淆 5-0 和 5-5，结果都写成0。"
+    ],
+    "tips": "把0想象成“空气”，你抱着5个苹果，加了空气还是5个；吃光了5个苹果，手里就剩空气了。"
+  }
+}

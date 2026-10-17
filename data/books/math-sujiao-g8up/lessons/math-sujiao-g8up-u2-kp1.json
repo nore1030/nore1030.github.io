@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g8up-u2-kp1",
+  "title": "勾股定理的应用",
+  "bookId": "math-sujiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "勾股定理与全等综合",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理的应用",
+      "question": "直角三角形两直角边为 6、8，斜边为（　）",
+      "options": [
+        "10",
+        "14",
+        "12",
+        "$\\sqrt{100}$"
+      ],
+      "answer": "10",
+      "explanation": "6-8-10 勾股数。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理的应用",
+      "question": "实际问题中要先建立直角三角形模型。",
+      "options": [],
+      "answer": "对",
+      "explanation": "建模。"
+    }
+  ],
+  "knowledge": {
+    "point": "勾股定理的应用",
+    "core_concept": "爬楼、梯子、车辆转弯、测距离等情境都可建立直角三角形模型。",
+    "key_formula": "$a^2+b^2=c^2$",
+    "common_mistakes": [
+      "把斜边当成直角边。"
+    ],
+    "tips": "先找斜边。"
+  }
+}

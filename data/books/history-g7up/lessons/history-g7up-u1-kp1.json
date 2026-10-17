@@ -1,0 +1,52 @@
+{
+  "id": "history-g7up-u1-kp1",
+  "title": "中国境内早期人类",
+  "bookId": "history-g7up",
+  "unitNumber": 1,
+  "unitTitle": "史前时期与早期国家",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "中国境内早期人类",
+      "question": "我国境内目前已确认的最早的古人类之一是（　）",
+      "options": [
+        "北京人",
+        "元谋人",
+        "山顶洞人",
+        "半坡人"
+      ],
+      "answer": "元谋人",
+      "explanation": "元谋人年代最早。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国境内早期人类",
+      "question": "半坡居民种植的主要农作物是（　）",
+      "options": [
+        "水稻",
+        "粟",
+        "小麦",
+        "玉米"
+      ],
+      "answer": "粟",
+      "explanation": "北方半坡种粟。"
+    }
+  ],
+  "knowledge": {
+    "point": "中国境内早期人类",
+    "core_concept": "元谋人是我国境内目前已确认的最早的古人类之一；北京人已会使用火。半坡居民种粟、河姆渡居民种水稻，是我国原始农耕的代表。",
+    "key_formula": "南稻北粟",
+    "common_mistakes": [
+      "把半坡与河姆渡的作物混淆。"
+    ],
+    "tips": "北方粟、南方稻。"
+  }
+}

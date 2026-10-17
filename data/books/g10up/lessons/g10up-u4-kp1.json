@@ -1,0 +1,63 @@
+{
+  "id": "g10up-u4-kp1",
+  "title": "指数与指数函数",
+  "bookId": "g10up",
+  "unitNumber": 4,
+  "unitTitle": "指数函数与对数函数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "指数与指数函数",
+      "question": "计算：$2^{-3}=$ ？（填分数如 1/8）",
+      "options": [],
+      "answer": "1/8",
+      "explanation": "$2^{-3}=\\frac{1}{2^3}=\\frac18$。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "指数与指数函数",
+      "question": "指数函数 $y=2^x$ 的图象过定点（　）",
+      "options": [
+        "$(1,0)$",
+        "$(0,1)$",
+        "$(0,0)$",
+        "$(1,1)$"
+      ],
+      "answer": "$(0,1)$",
+      "explanation": "$2^0=1$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "指数与指数函数",
+      "question": "函数 $y=(\\frac12)^x$ 是（　）",
+      "options": [
+        "增函数",
+        "减函数",
+        "常函数",
+        "先增后减"
+      ],
+      "answer": "减函数",
+      "explanation": "底数 $0<\\frac12<1$，递减。"
+    }
+  ],
+  "knowledge": {
+    "point": "指数与指数函数",
+    "core_concept": "$a^{\\frac mn}=\\sqrt[n]{a^m}(a>0)$。指数函数 $y=a^x(a>0,a\\ne1)$ 过定点 $(0,1)$；$a>1$ 递增，$0<a<1$ 递减。",
+    "key_formula": "$a^0=1$，$a^{-n}=\\frac{1}{a^n}$",
+    "common_mistakes": [
+      "负指数运算出错。"
+    ],
+    "tips": "负指数取倒数。"
+  }
+}

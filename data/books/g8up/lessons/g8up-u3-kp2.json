@@ -1,0 +1,31 @@
+{
+  "id": "g8up-u3-kp2",
+  "title": "线段垂直平分线",
+  "bookId": "g8up",
+  "unitNumber": 3,
+  "unitTitle": "轴对称",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "线段垂直平分线",
+      "question": "线段垂直平分线上的点到线段两端距离相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "垂直平分线性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "线段垂直平分线",
+    "core_concept": "线段垂直平分线上的点到线段两端距离相等；反之，到两端距离相等的点在垂直平分线上。",
+    "key_formula": "PA=PB ⇔ P 在垂直平分线上",
+    "common_mistakes": [
+      "把垂直平分线与角平分线混淆。"
+    ],
+    "tips": "抓住“到两端等距”。"
+  }
+}

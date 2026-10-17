@@ -1,0 +1,56 @@
+{
+  "id": "math-beishida-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 2,
+  "unitTitle": "第二章 有理数及其运算",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "计算：$-2^3=$ ？",
+      "options": [],
+      "answer": "-8",
+      "explanation": "先乘方后取负：$-8$。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "相反数与绝对值",
+      "question": "数轴上表示 $-3$ 的点与表示 $2$ 的点之间的距离是多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$2-(-3)=5$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "相反数与绝对值",
+      "question": "0 的相反数是 ___。",
+      "options": [],
+      "answer": "0",
+      "explanation": "0 的相反数仍是 0。"
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "有理数的运算与科学记数法",
+      "question": "两个负数相乘，积为正数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同号得正。"
+    }
+  ],
+  "knowledge": null
+}

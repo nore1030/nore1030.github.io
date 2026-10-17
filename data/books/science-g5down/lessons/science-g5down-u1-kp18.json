@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u1-kp18",
+  "title": "生态系统成分",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "生态系统成分",
+      "question": "在生态瓶中，为生物提供氧气的是（ ）。",
+      "options": [
+        "微生物",
+        "小鱼",
+        "水和砂石",
+        "绿色植物"
+      ],
+      "answer": "绿色植物",
+      "explanation": "绿色植物通过光合作用产生氧气。"
+    }
+  ],
+  "knowledge": null
+}

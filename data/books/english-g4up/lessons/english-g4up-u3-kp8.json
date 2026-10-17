@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp8",
+  "title": "名词复数表示外貌",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "名词复数表示外貌",
+      "question": "'glasses' 表示眼镜，通常以复数形式出现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "眼镜由两片镜片组成，英语固定用复数形式glasses。"
+    }
+  ],
+  "knowledge": null
+}

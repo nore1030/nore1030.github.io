@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp9",
+  "title": "动作描写",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动作描写",
+      "question": "老舍在描写猫“尽职”时，通过写猫屏息凝视等了几个钟头，这是（  ）描写。",
+      "options": [
+        "神态描写",
+        "细节和动作描写",
+        "语言描写",
+        "环境描写"
+      ],
+      "answer": "细节和动作描写",
+      "explanation": "通过具体的时长和姿态，刻画了猫抓老鼠的耐心。"
+    }
+  ],
+  "knowledge": null
+}

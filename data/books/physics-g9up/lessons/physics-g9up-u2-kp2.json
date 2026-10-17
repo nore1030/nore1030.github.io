@@ -1,0 +1,42 @@
+{
+  "id": "physics-g9up-u2-kp2",
+  "title": "串联与并联电路",
+  "bookId": "physics-g9up",
+  "unitNumber": 2,
+  "unitTitle": "电流和电路",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "串联与并联电路",
+      "question": "串联电路中 $I_1=0.3$ A，则总电流是多少 A？",
+      "options": [],
+      "answer": "0.3",
+      "explanation": "串联电流处处相等。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "串联与并联电路",
+      "question": "并联电路中两支路电流分别为 0.2 A 和 0.3 A，干路电流是多少 A？",
+      "options": [],
+      "answer": "0.5",
+      "explanation": "$I=0.2+0.3=0.5$ A。"
+    }
+  ],
+  "knowledge": {
+    "point": "串联与并联电路",
+    "core_concept": "串联电路电流处处相等，总电压等于各部分电压之和；并联电路各支路电压相等，干路电流等于各支路电流之和。",
+    "key_formula": "串联：$I=I_1=I_2$；并联：$U=U_1=U_2$",
+    "common_mistakes": [
+      "把并联电流规律套用到串联。"
+    ],
+    "tips": "串联分压、并联分流。"
+  }
+}

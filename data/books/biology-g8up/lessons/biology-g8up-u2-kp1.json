@@ -1,0 +1,47 @@
+{
+  "id": "biology-g8up-u2-kp1",
+  "title": "运动系统的组成与功能",
+  "bookId": "biology-g8up",
+  "unitNumber": 2,
+  "unitTitle": "动物的运动与行为",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动系统的组成与功能",
+      "question": "构成人体运动系统的是（　）",
+      "options": [
+        "骨、关节和肌肉",
+        "骨和皮肤",
+        "关节和神经",
+        "肌肉和血液"
+      ],
+      "answer": "骨、关节和肌肉",
+      "explanation": "运动系统三部分。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "运动系统的组成与功能",
+      "question": "肌肉附着在骨上，跨过关节牵拉骨运动。",
+      "options": [],
+      "answer": "对",
+      "explanation": "肌肉作用。"
+    }
+  ],
+  "knowledge": {
+    "point": "运动系统的组成与功能",
+    "core_concept": "运动系统由骨、关节和肌肉组成。骨骼支撑人体、保护内脏、协助运动。关节由关节面、关节囊和关节窝组成，肌肉附着在骨上，跨过关节牵拉骨转动。",
+    "key_formula": "骨 + 关节 + 肌肉 = 运动系统",
+    "common_mistakes": [
+      "认为关节是两块骨直接相连。"
+    ],
+    "tips": "关节结构要记牢。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "college-english-comprehensive-u2-kp2",
+  "title": "英汉互译技巧",
+  "bookId": "college-english-comprehensive",
+  "unitNumber": 2,
+  "unitTitle": "写作与翻译",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "英汉互译技巧",
+      "question": "英译汉时，通常需要把英语的被动句译为（　）",
+      "options": [
+        "汉语的主动句",
+        "汉语的被动句",
+        "汉语的疑问句",
+        "汉语的祈使句"
+      ],
+      "answer": "汉语的主动句",
+      "explanation": "汉语多用主动。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "英汉互译技巧",
+      "question": "翻译时可以根据需要调整语序和词性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "翻译技巧。"
+    }
+  ],
+  "knowledge": {
+    "point": "英汉互译技巧",
+    "core_concept": "英汉互译需注意语序调整、词性转换与增删词。英语多被动、汉语多主动；翻译时以达意为先，避免逐字硬译。",
+    "key_formula": "语序调整 + 词性转换",
+    "common_mistakes": [
+      "逐字直译造成语义不通。"
+    ],
+    "tips": "先理解句意再翻译。"
+  }
+}

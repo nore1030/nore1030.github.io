@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp15",
+  "title": "词语结构",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 13,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语结构",
+      "question": "下列属于“AABB”式结构的词语是：",
+      "options": [
+        "昏头昏脑",
+        "一五一十",
+        "平平安安",
+        "可圈可点"
+      ],
+      "answer": "平平安安",
+      "explanation": "平平安安属于AABB重叠结构。"
+    }
+  ],
+  "knowledge": null
+}

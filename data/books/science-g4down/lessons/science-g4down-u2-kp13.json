@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u2-kp13",
+  "title": "导体与绝缘体辨析",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 8,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "导体与绝缘体辨析",
+      "question": "下列物体中，属于绝缘体的是（ ）。",
+      "options": [
+        "铁钉",
+        "铅笔芯",
+        "干木棒",
+        "硬币"
+      ],
+      "answer": "干木棒",
+      "explanation": "不善于导电的物体是绝缘体，铁、碳、硬币（金属）都是导体。"
+    }
+  ],
+  "knowledge": null
+}

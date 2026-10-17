@@ -1,0 +1,46 @@
+{
+  "id": "english-g4up-u6-kp22",
+  "title": "句型排列",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 18,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型排列",
+      "question": "将单词排列成句：Meet,family,my,.",
+      "options": [
+        "Meet",
+        "family",
+        "my",
+        "."
+      ],
+      "answer": "Meet,my,family,.",
+      "explanation": "该句为该单元标题，意为：见见我的家人。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "句型排列",
+      "question": "将单词排列成句：is,your,job,What,father's,?",
+      "options": [
+        "is",
+        "your",
+        "job",
+        "What",
+        "father's",
+        "?"
+      ],
+      "answer": "What,is,your,father's,job,?",
+      "explanation": "询问职业的句型：What is + 物主代词/所有格 + job?"
+    }
+  ],
+  "knowledge": null
+}

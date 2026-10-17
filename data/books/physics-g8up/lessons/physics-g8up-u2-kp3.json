@@ -1,0 +1,47 @@
+{
+  "id": "physics-g8up-u2-kp3",
+  "title": "光的折射",
+  "bookId": "physics-g8up",
+  "unitNumber": 2,
+  "unitTitle": "光现象",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "光的折射",
+      "question": "光从空气斜射入水中，折射角（　）入射角",
+      "options": [
+        "大于",
+        "小于",
+        "等于",
+        "无关"
+      ],
+      "answer": "小于",
+      "explanation": "入水后向法线偏折。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "光的折射",
+      "question": "我们看到水中的鱼比实际位置浅，是光的折射造成的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "折射使像上浮。"
+    }
+  ],
+  "knowledge": {
+    "point": "光的折射",
+    "core_concept": "光从空气斜射入水或玻璃时，折射光线向法线偏折，折射角小于入射角；反之折射角大于入射角。",
+    "key_formula": "空气→水：折射角 < 入射角",
+    "common_mistakes": [
+      "认为折射角总是小于入射角。"
+    ],
+    "tips": "光在空气中那侧的角更大。"
+  }
+}

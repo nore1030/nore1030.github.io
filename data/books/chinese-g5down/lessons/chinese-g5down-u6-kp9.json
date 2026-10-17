@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u6-kp9",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g5down",
+  "unitNumber": 6,
+  "unitTitle": "思维的火花",
+  "kpIndex": 8,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "“那只猴子难道不该受到惩罚吗？”这句话使用了什么修辞手法？",
+      "options": [
+        "比喻",
+        "拟人",
+        "排比",
+        "反问"
+      ],
+      "answer": "反问",
+      "explanation": "“难道不...吗”是典型的反问句式。"
+    }
+  ],
+  "knowledge": null
+}

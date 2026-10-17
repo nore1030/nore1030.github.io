@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u2-kp4",
+  "title": "字音辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 3,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字音辨析",
+      "question": "“琥珀”中的“琥”字读作 hǔ。",
+      "options": [],
+      "answer": "对",
+      "explanation": "琥珀二字在生字表中均为三声，读音正确。"
+    }
+  ],
+  "knowledge": null
+}

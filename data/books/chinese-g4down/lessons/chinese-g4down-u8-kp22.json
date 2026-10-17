@@ -1,0 +1,46 @@
+{
+  "id": "chinese-g4down-u8-kp22",
+  "title": "句式结构",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式结构",
+      "question": "将下列词语排列成一句通顺的话：",
+      "options": [
+        "孩子们",
+        "春天",
+        "快乐的",
+        "带回了",
+        "给花园"
+      ],
+      "answer": "孩子们,给花园,带回了,快乐的,春天",
+      "explanation": "按照主语+状语+谓语+宾语的顺序排列。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式结构",
+      "question": "将下列词语排列成一个比喻句：",
+      "options": [
+        "像",
+        "绽放的",
+        "笑脸",
+        "花朵",
+        "开在枝头"
+      ],
+      "answer": "绽放的,花朵,像,笑脸,开在枝头",
+      "explanation": "这是一个比喻句，花朵是本体，笑脸是喻体。"
+    }
+  ],
+  "knowledge": null
+}

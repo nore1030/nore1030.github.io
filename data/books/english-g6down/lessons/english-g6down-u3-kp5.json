@@ -1,0 +1,34 @@
+{
+  "id": "english-g6down-u3-kp5",
+  "title": "词义辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 1,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "'fell off' 的意思是‘跌落’。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fall off的过去式是fell off，意为从...掉下来。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "'mule' 的意思是‘大象’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "mule的意思是‘骡子’。"
+    }
+  ],
+  "knowledge": null
+}

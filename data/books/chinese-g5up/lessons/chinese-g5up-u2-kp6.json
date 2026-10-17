@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u2-kp6",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g5up",
+  "unitNumber": 2,
+  "unitTitle": "提高阅读速度",
+  "kpIndex": 5,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘难道蔺相如真的是怕廉颇吗？非也，他是为了赵国的利益。’这个句子使用的修辞手法是：",
+      "options": [
+        "设问",
+        "反问",
+        "比喻",
+        "拟人"
+      ],
+      "answer": "设问",
+      "explanation": "自问自答是设问修辞的特点。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u3-kp9",
+  "title": "时间的认识",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 7,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间的认识",
+      "question": "一分钟大约可以做多少项活动？",
+      "options": [
+        "跑1000米",
+        "跳绳120次",
+        "看完一张报纸",
+        "睡一个午觉"
+      ],
+      "answer": "跳绳120次",
+      "explanation": "根据常识，跳绳每秒约2次，一分钟120次是合理的。"
+    }
+  ],
+  "knowledge": null
+}

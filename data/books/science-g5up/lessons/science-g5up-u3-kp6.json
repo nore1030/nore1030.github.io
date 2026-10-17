@@ -1,0 +1,48 @@
+{
+  "id": "science-g5up-u3-kp6",
+  "title": "计时工具的演变",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 4,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计时工具的演变",
+      "question": "随着科技的发展，人类制作的计时工具精度越来越高。",
+      "options": [],
+      "answer": "对",
+      "explanation": "从日晷、水钟到摆钟再到石英钟，计时精度随科技进步不断提升。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计时工具的演变",
+      "question": "机械钟表的核心结构是哪一个部分？",
+      "options": [
+        "刻度盘",
+        "齿轮组和摆",
+        "玻璃罩",
+        "发条键"
+      ],
+      "answer": "齿轮组和摆",
+      "explanation": "摆控制频率，齿轮组带动指针，这是机械钟的关键原理。"
+    }
+  ],
+  "knowledge": {
+    "point": "计时工具的演变",
+    "core_concept": "计时精度决定了人类社会发展的精细程度。",
+    "key_formula": "天文计时 < 机械计时 < 电子计时 < 原子能计时",
+    "common_mistakes": [
+      "认为机械钟比石英钟更准。",
+      "忽略了人类对微小时间单位（如毫秒、微秒）的需求。"
+    ],
+    "tips": "精度提升的本质是计时发生器振动频率的不断提高。"
+  }
+}

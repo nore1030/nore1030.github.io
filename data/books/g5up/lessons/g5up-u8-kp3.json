@@ -1,0 +1,118 @@
+{
+  "id": "g5up-u8-kp3",
+  "title": "数代合一与方程建模总复习",
+  "bookId": "g5up",
+  "unitNumber": 8,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "含有未知数的式子叫做方程。",
+      "options": [],
+      "answer": "错",
+      "explanation": "方程的定义必须包含两个条件：含有未知数、是等式。只说式子不严谨。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "方程 $2x + 5 = 15$ 的解是：",
+      "options": [
+        "$x=5$",
+        "$x=10$",
+        "$x=20$",
+        "$x=15$"
+      ],
+      "answer": "$x=5$",
+      "explanation": "$2x = 10$，解得 $x = 5$。验算：$2 \times 5 + 5 = 15$，正确。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "小明今年 $a$ 岁，爸爸今年 $(a + 25)$ 岁，再过 10 年，爸爸比小明大多少岁？",
+      "options": [
+        "10",
+        "25",
+        "35",
+        "$a+10$"
+      ],
+      "answer": "25",
+      "explanation": "年龄差是固定不变的。$(a+25+10) - (a+10) = 25$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "笼子里有鸡和兔共 10 只，脚共有 28 只，鸡有多少只？",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "2"
+      ],
+      "answer": "6",
+      "explanation": "设鸡 $x$ 只，兔 $10-x$ 只。$2x + 4(10-x) = 28$，$2x = 12$，$x = 6$。验算：$6 \times 2 + 4 \times 4 = 12+16=28$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "下列式子中是方程的是：",
+      "options": [
+        "$3x+5$",
+        "$46-7=39$",
+        "$x+2>10$",
+        "$2x=0$"
+      ],
+      "answer": "$2x=0$",
+      "explanation": "$2x=0$ 既有未知数又是等式，符合定义。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "三个连续自然数的和是 36，其中最大的那个自然数是 ___。",
+      "options": [],
+      "answer": "13",
+      "explanation": "设中间的数为 $x$，则 $(x-1)+x+(x+1)=36$，$3x=36$，$x=12$。最大数是 $12+1=13$。验算：$11+12+13=36$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数代合一与方程建模总复习",
+      "question": "当 $x=20$ 时，$5x - 15 = ?$",
+      "options": [],
+      "answer": "85",
+      "explanation": "$5 \times 20 - 15 = 100 - 15 = 85$。验算：$85 + 15 = 100$，$100 \times 5 = 20$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数代合一与方程建模总复习",
+    "core_concept": "字母可以表示任意数。方程是含有未知数的等式。解方程的本质是利用等式的性质（两边同时加减乘除相同的数，0除外，等式仍然成立）。在解决实际问题时，要先找等量关系再列方程。",
+    "key_formula": "$ax ± b = c$ 或 $a(x ± b) = c$",
+    "common_mistakes": [
+      "解方程时不写“解”字或不注意上下对齐等号",
+      "列方程解决实际问题时，找错等量关系导致列式错误"
+    ],
+    "tips": "解完方程一定要把结果代入原方程验算，这是得满分的法宝。"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g3down-u4-kp1",
+  "title": "关键语句概括段落大意",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 0,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "关键语句概括段落大意",
+      "question": "每一段话的中心句只能出现在段落的开头位置。",
+      "options": [],
+      "answer": "错",
+      "explanation": "关键语句可能位于段落开头、中间或结尾。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "关键语句概括段落大意",
+      "question": "关键语句有时需要我们对文中的原句进行适当删减或修改才能作为段意。",
+      "options": [],
+      "answer": "对",
+      "explanation": "概括时往往需要提炼核心词，剔除修饰成分。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键语句概括段落大意",
+      "question": "“鲜花朵朵，争奇斗艳，芬芳迷人。要是我们留心观察，就会发现，一天之内，不同的花开放的时间是不同的。”这段话的关键句是？",
+      "options": [
+        "鲜花朵朵",
+        "争奇斗艳，芬芳迷人",
+        "不同的花开放的时间是不同的",
+        "要是我们留心观察"
+      ],
+      "answer": "不同的花开放的时间是不同的",
+      "explanation": "这是本段的中心句，起到了总领全段的作用。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "关键语句概括段落大意",
+      "question": "“缸里的虾真有趣。它们有的独自游来游去，有的互相追逐，有的紧贴缸壁休息。”这段段意归纳最准确的是？",
+      "options": [
+        "缸里的虾有的追逐",
+        "缸里的虾有的休息",
+        "缸里的虾真有趣",
+        "缸里的虾有大有小"
+      ],
+      "answer": "缸里的虾真有趣",
+      "explanation": "首句即为本段的中心句。"
+    }
+  ],
+  "knowledge": {
+    "point": "关键语句概括段落大意",
+    "core_concept": "在段落中寻找能够集中体现全段主要意思的句子。这些句子通常出现在段落的开头（总领全文）或结尾（总结全段）。通过识别并提取这些句子，可以迅速掌握段落内容，提升阅读效率。",
+    "key_formula": "关键句位置=段首(总起)或段尾(总结)。",
+    "common_mistakes": [
+      "误将段落中的细节描写当作关键句。",
+      "概括时生搬硬套原句，不会根据语境进行缩减。"
+    ],
+    "tips": "先数句子，再看第一句和最后一句是否能概括整段话的意思；如果不能，就找各句共同描述的对象。"
+  }
+}

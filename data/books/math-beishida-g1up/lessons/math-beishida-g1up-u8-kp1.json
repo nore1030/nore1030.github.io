@@ -1,0 +1,68 @@
+{
+  "id": "math-beishida-g1up-u8-kp1",
+  "title": "钟面结构",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 8,
+  "unitTitle": "认识钟表",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构",
+      "question": "钟面上又短又粗的针是（　）",
+      "options": [
+        "时针",
+        "分针",
+        "秒针",
+        "长针"
+      ],
+      "answer": "时针",
+      "explanation": "时针短粗。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构",
+      "question": "分针走 1 小格是（　）",
+      "options": [
+        "1 分",
+        "1 时",
+        "5 分",
+        "60 分"
+      ],
+      "answer": "1 分",
+      "explanation": "1 小格 1 分钟。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "钟面结构",
+      "question": "分针走一圈是（　）",
+      "options": [
+        "60 分",
+        "12 分",
+        "1 分",
+        "24 分"
+      ],
+      "answer": "60 分",
+      "explanation": "一圈 60 分钟。"
+    }
+  ],
+  "knowledge": {
+    "point": "钟面结构",
+    "core_concept": "钟面上又短又粗的是时针，又长又细的是分针；分针走 1 小格是 1 分，走一圈是 60 分（1 小时）。",
+    "key_formula": "1 时 = 60 分",
+    "common_mistakes": [
+      "把时针分针认反。"
+    ],
+    "tips": "时针短，分针长。"
+  }
+}

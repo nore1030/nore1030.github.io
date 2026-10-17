@@ -1,0 +1,66 @@
+{
+  "id": "math-sujiao-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "math-sujiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "勾股定理与全等综合",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理的应用",
+      "question": "斜边为 13、一直角边为 5，另一直角边为（　）",
+      "options": [
+        "12",
+        "8",
+        "18",
+        "$\\sqrt{194}$"
+      ],
+      "answer": "12",
+      "explanation": "5-12-13。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "全等与勾股综合应用",
+      "question": "已知两直角边平方和为 169，则斜边为（　）",
+      "options": [
+        "13",
+        "169",
+        "12",
+        "$\\sqrt{169}$"
+      ],
+      "answer": "13",
+      "explanation": "$\\sqrt{169}=13$。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理的应用",
+      "question": "勾股定理是直角三角形最关键的性质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "核心性质。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "全等与勾股综合应用",
+      "question": "求线段长常需先确定该线段所在的直角三角形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "找直角三角形。"
+    }
+  ],
+  "knowledge": null
+}

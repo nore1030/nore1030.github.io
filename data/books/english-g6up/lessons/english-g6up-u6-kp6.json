@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u6-kp6",
+  "title": "语法搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 2,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语法搭配",
+      "question": "在句子 'He should count with ten.' 中，介词 with 使用正确。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是count to ten，表示数到十。"
+    }
+  ],
+  "knowledge": null
+}

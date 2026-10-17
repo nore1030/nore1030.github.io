@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g8up-u2-kp2",
+  "title": "求助与建议表达",
+  "bookId": "english-waiyan-g8up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 规则与的帮助",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "求助与建议表达",
+      "question": "— I have a question. — ___",
+      "options": [
+        "What a pity!",
+        "What can I do for you?",
+        "You're welcome.",
+        "Never mind."
+      ],
+      "answer": "What can I do for you?",
+      "explanation": "服务行业常用语。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "求助与建议表达",
+      "question": "“Why not…?”用于提出建议。",
+      "options": [],
+      "answer": "对",
+      "explanation": "Why not。"
+    }
+  ],
+  "knowledge": {
+    "point": "求助与建议表达",
+    "core_concept": "常用句型：Could you help me? Can I help you? Why not…? What about…? You should…",
+    "key_formula": "Why not + 动词原形?",
+    "common_mistakes": [
+      "把 Why not 回答成 Yes。"
+    ],
+    "tips": "Why not 提建议。"
+  }
+}

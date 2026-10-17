@@ -1,0 +1,33 @@
+{
+  "id": "english-g6up-u3-kp18",
+  "title": "be going to 结构",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 14,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "be going to 结构",
+      "question": "My father ____ going to wash his car.",
+      "options": [],
+      "answer": "is",
+      "explanation": "主语 My father 是第三人称单数，be动词选is。"
+    }
+  ],
+  "knowledge": {
+    "point": "be going to 结构",
+    "core_concept": "表示即将发生的动作或未来的计划打算。",
+    "key_formula": "主语 + am/is/are + going to + 动词原形 (V-base)",
+    "common_mistakes": [
+      "漏写 be 动词",
+      "going to 后面接了动词 ing 形式",
+      "be 动词与主语不匹配（如 I is ...）"
+    ],
+    "tips": "标志词有 tomorrow, next week, tonight, this afternoon。"
+  }
+}

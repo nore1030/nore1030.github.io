@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u5-kp23",
+  "title": "景物及其所在地",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 19,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "景物及其所在地",
+      "question": "请将游览内容与对应的地点连线。",
+      "options": [
+        "溪水入洞",
+        "仰卧入洞",
+        "石钟乳",
+        "映山红",
+        "内洞",
+        "外洞口",
+        "路上",
+        "孔隙"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "溪流汇入外洞口；仰卧过孔隙；内洞有石钟乳；路上可见映山红。"
+    }
+  ],
+  "knowledge": null
+}

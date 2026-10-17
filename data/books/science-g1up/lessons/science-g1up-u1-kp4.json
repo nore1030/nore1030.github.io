@@ -1,0 +1,60 @@
+{
+  "id": "science-g1up-u1-kp4",
+  "title": "根据叶寻找和辨认植物",
+  "bookId": "science-g1up",
+  "unitNumber": 1,
+  "unitTitle": "植物",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "根据叶寻找和辨认植物",
+      "question": "在校园里寻找植物时，我们（）。",
+      "options": [
+        "可以随意采摘",
+        "不能伤害它们",
+        "只看红色的花",
+        "要把根拔出来看"
+      ],
+      "answer": "不能伤害它们",
+      "explanation": "爱护生命、保护环境是科学观察的基本准则。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据叶寻找和辨认植物",
+      "question": "我们要观察植物的气味，应该用（）。",
+      "options": [
+        "手摸",
+        "舌头尝",
+        "鼻子闻",
+        "眼睛看"
+      ],
+      "answer": "鼻子闻",
+      "explanation": "鼻子是嗅觉器官，用于分辨气味。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "根据叶寻找和辨认植物",
+      "question": "捡到一片长长的、绿色的叶子，我们应该主要观察它的（）来找原植物。",
+      "options": [
+        "价格",
+        "味道",
+        "形状和边缘",
+        "重量"
+      ],
+      "answer": "形状和边缘",
+      "explanation": "叶片的形状、叶缘、叶脉是辨别植物的重要特征。"
+    }
+  ],
+  "knowledge": null
+}

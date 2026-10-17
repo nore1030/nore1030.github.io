@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g3up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "chinese-g3up",
+  "unitNumber": 6,
+  "unitTitle": "祖国之美",
+  "kpIndex": 7,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“臂、膀、腰、肚”这些字都带有月字旁，大都与身体部位有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "肉月旁的字通常与身体构造有关。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "“早晨，森林被封得严严实实的。”里的“封”字生动地写出了雾很大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“封”字展现了浓雾笼罩森林的特点。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "“成群结队”指许多人或动物集合在一起。",
+      "options": [],
+      "answer": "对",
+      "explanation": "词语解释正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "《小兴安岭》一文是按“春、夏、秋、冬”的时间顺序写的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文章按照四季变换描写了小兴安岭的景色。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "标点符号",
+      "question": "“祖国的大地（ ）有哪一处不美呢（ ）” 括号中应填：",
+      "options": [
+        "， ？",
+        "。 。",
+        "， 。",
+        "！ ！"
+      ],
+      "answer": "， ？",
+      "explanation": "反问句，中间停顿用逗号，结尾用问号。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "“潭面无风镜未磨”中，诗人把潭面比作：",
+      "options": [
+        "磨过的镜子",
+        "未磨的镜子",
+        "圆圆的月亮",
+        "无暇的翡翠"
+      ],
+      "answer": "未磨的镜子",
+      "explanation": "原文明确提到“镜未磨”。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词义辨析",
+      "question": "“孤帆一片日边来”中“孤”的意思是：",
+      "options": [
+        "孤单，单独",
+        "孤独的人",
+        "年幼的孩子",
+        "勇敢"
+      ],
+      "answer": "孤单，单独",
+      "explanation": "指只有一只小船。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "下列哪句话最适合作为描写“秋天校园”的开头中心句？",
+      "options": [
+        "秋天是一个收获的季节。",
+        "秋天的校园就像一幅五彩斑斓的画。",
+        "秋天有很多好吃的果实。",
+        "秋天的雨凉丝丝的。"
+      ],
+      "answer": "秋天的校园就像一幅五彩斑斓的画。",
+      "explanation": "紧扣“校园”和“景色”两个核心要素。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“渔”字的左边表示意思，右边表示读音。它属于：",
+      "options": [
+        "左形右声",
+        "右形左声",
+        "上形下声",
+        "内形外声"
+      ],
+      "answer": "左形右声",
+      "explanation": "三点水在左表意，鱼在右表音。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "与“威武”意思最接近的词是：",
+      "options": [
+        "威力",
+        "威风",
+        "武力",
+        "勇敢"
+      ],
+      "answer": "威风",
+      "explanation": "威武侧重力量与气势，威风意思相近。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "“遥望洞庭山水翠，白银盘里一（___）青螺。”",
+      "options": [],
+      "answer": "颗",
+      "explanation": "量词填空，指君山像一颗青螺。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形声字的构字规律",
+      "question": "“珊瑚、玛瑙、玫瑰”这些词中的字大多带有（___）旁。",
+      "options": [],
+      "answer": "王",
+      "explanation": "王字旁（玉字旁）的字多与美玉宝石有关。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "围绕中心意思写作",
+      "question": "请将课文中出现的景色与其对应的描述语连起来。",
+      "options": [
+        "银光闪闪",
+        "各种各样",
+        "严严实实",
+        "干干净净",
+        "海滩",
+        "珊瑚",
+        "大雾",
+        "街道"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "银光闪闪的海滩，各种各样的珊瑚，严严实实的大雾，干干净净的街道。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词义辨析",
+      "question": "请将下列近义词进行配对。",
+      "options": [
+        "美丽",
+        "欣赏",
+        "瑰丽",
+        "洁净",
+        "观赏",
+        "漂亮",
+        "整洁",
+        "绚丽"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "美丽-漂亮，欣赏-观赏，瑰丽-绚丽，洁净-整洁。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗名句的画面还原",
+      "question": "将词语排成描写西湖景色的句子。",
+      "options": [
+        "西湖",
+        "在阳光下",
+        "闪烁",
+        "波光",
+        "潋滟"
+      ],
+      "answer": "西湖,在阳光下,波光,潋滟,闪烁",
+      "explanation": "通过现代汉语组合出西湖晴天波光粼粼的句子。"
+    }
+  ],
+  "knowledge": null
+}

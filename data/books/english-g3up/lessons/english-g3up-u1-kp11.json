@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u1-kp11",
+  "title": "人名书写",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 7,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人名书写",
+      "question": "我的名字是陈杰。写成英文是：",
+      "options": [
+        "i am chenjie",
+        "I am Chen jie",
+        "I'm Chen Jie",
+        "I m chen jie"
+      ],
+      "answer": "I'm Chen Jie",
+      "explanation": "句首字母、人名首字母需大写，且I和am缩写为I'm。"
+    }
+  ],
+  "knowledge": null
+}

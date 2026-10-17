@@ -1,0 +1,42 @@
+{
+  "id": "chemistry-g9up-u4-kp3",
+  "title": "一氧化碳与碳循环",
+  "bookId": "chemistry-g9up",
+  "unitNumber": 4,
+  "unitTitle": "碳和碳的氧化物",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一氧化碳与碳循环",
+      "question": "一氧化碳有毒，二氧化碳无毒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "CO 有毒。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一氧化碳与碳循环",
+      "question": "二氧化碳能参与光合作用，是温室效应的主要气体之一。",
+      "options": [],
+      "answer": "对",
+      "explanation": "CO₂ 与温室效应。"
+    }
+  ],
+  "knowledge": {
+    "point": "一氧化碳与碳循环",
+    "core_concept": "CO 无色无味有毒（与血红蛋白结合），具有可燃性和还原性，可用作燃料和冶炼金属。CO₂ 增多会导致温室效应。",
+    "key_formula": "$\\text{CO}+\\text{CuO}\\xrightarrow{\\Delta}\\text{Cu}+\\text{CO}_2$",
+    "common_mistakes": [
+      "把 CO₂ 也当作有毒气体。"
+    ],
+    "tips": "CO 有毒，CO₂ 无毒但不支持呼吸。"
+  }
+}

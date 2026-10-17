@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u7-kp11",
+  "title": "生字辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生字辨析",
+      "question": "选出书写正确的一组：",
+      "options": [
+        "光芒 呈现",
+        "幻相 乘凉",
+        "圆闰 普通",
+        "由于 宁诤"
+      ],
+      "answer": "光芒 呈现",
+      "explanation": "“幻相”应为“幻想”，“圆闰”应为“圆润”，“宁诤”应为“宁静”。"
+    }
+  ],
+  "knowledge": null
+}

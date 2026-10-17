@@ -1,0 +1,52 @@
+{
+  "id": "math-beishida-g7up-u1-kp1",
+  "title": "几何体与展开图",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第一章 丰富的图形世界",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "几何体与展开图",
+      "question": "下列几何体中，表面都是平面的是（　）",
+      "options": [
+        "正方体",
+        "球",
+        "圆柱",
+        "圆锥"
+      ],
+      "answer": "正方体",
+      "explanation": "正方体的面都是平面。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "几何体与展开图",
+      "question": "正方体的展开图共有（　）种",
+      "options": [
+        "11",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "11",
+      "explanation": "正方体有 11 种展开图。"
+    }
+  ],
+  "knowledge": {
+    "point": "几何体与展开图",
+    "core_concept": "棱柱、棱锥、圆柱、圆锥、球是最基本的几何体。正方体有 11 种展开图，相对的两个面在展开图中隔一个正方形。",
+    "key_formula": "正方体有 11 种展开图",
+    "common_mistakes": [
+      "把「田」字形展开当作正方体展开图。"
+    ],
+    "tips": "「田」字形与「凹」字形不能折成正方体。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp15",
+  "title": "常见物词汇",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见物词汇",
+      "question": "I want to send a ______ to my friend.",
+      "options": [
+        "postcard",
+        "supermarket",
+        "dictionary",
+        "trip"
+      ],
+      "answer": "postcard",
+      "explanation": "寄送明信片(postcard)是常见表达。"
+    }
+  ],
+  "knowledge": null
+}

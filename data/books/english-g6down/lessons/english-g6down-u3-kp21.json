@@ -1,0 +1,32 @@
+{
+  "id": "english-g6down-u3-kp21",
+  "title": "特殊疑问句配对",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 17,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "特殊疑问句配对",
+      "question": "Match the questions and answers.",
+      "options": [
+        "Where did you go?",
+        "How did you go?",
+        "Who with?",
+        "What did you do?",
+        "I saw films.",
+        "To Xinjiang.",
+        "By bus.",
+        "My cousin."
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "Where-地点; How-交通方式; Who-人; What-事情。"
+    }
+  ],
+  "knowledge": null
+}

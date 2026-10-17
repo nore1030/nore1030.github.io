@@ -1,0 +1,93 @@
+{
+  "id": "science-g6up-u2-kp4",
+  "title": "地球自转方向与时差",
+  "bookId": "science-g6up",
+  "unitNumber": 2,
+  "unitTitle": "地球的运动",
+  "kpIndex": 3,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "地球自转的方向是自东向西。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地球自转的方向是自西向东。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "中国北京和德国柏林的经度不同，北京在柏林东面。当北京的天刚亮时，柏林（    ）。",
+      "options": [
+        "也刚亮",
+        "已经天亮很久了",
+        "正处于深夜",
+        "还没到深夜"
+      ],
+      "answer": "正处于深夜",
+      "explanation": "由于地球自西向东转，东边的城市北京先迎来黎明，西边的柏林此时还处于黑夜。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "我们在转椅上由西向东转动时，看到的周围景物会（    ）运动。",
+      "options": [
+        "自西向东",
+        "自东向西",
+        "自北向南",
+        "自南向北"
+      ],
+      "answer": "自东向西",
+      "explanation": "相对运动原理，人自西向东转，看到的参照物会向相反方向运动。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "在傅科摆实验中，摆的方向（    ）。",
+      "options": [
+        "会随地球自转发生偏移",
+        "会随地球自转而改变快慢",
+        "在地板上永远指向同一个点",
+        "随重力消失而停止"
+      ],
+      "answer": "会随地球自转发生偏移",
+      "explanation": "傅科摆利用摆具有保持摆动方向不变的性质，证明了地球在自转。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "地球自转一周的时间大约是（    ）小时。",
+      "options": [],
+      "answer": "24",
+      "explanation": "地球自转周期为一天，即24小时。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地球自转方向与时差",
+      "question": "在地球仪上，连接南北两极的线叫做（    ）。",
+      "options": [],
+      "answer": "经线",
+      "explanation": "经线是地球仪上连接南北两极的半圆弧线。"
+    }
+  ],
+  "knowledge": null
+}

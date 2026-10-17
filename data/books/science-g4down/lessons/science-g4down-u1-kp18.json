@@ -1,0 +1,28 @@
+{
+  "id": "science-g4down-u1-kp18",
+  "title": "植物的生长阶段",
+  "bookId": "science-g4down",
+  "unitNumber": 1,
+  "unitTitle": "植物的生长变化",
+  "kpIndex": 12,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的生长阶段",
+      "question": "凤仙花生命周期的第一个阶段是（）。",
+      "options": [
+        "幼苗",
+        "种子萌发",
+        "开花",
+        "结果"
+      ],
+      "answer": "种子萌发",
+      "explanation": "植物生命周期通常从种子萌发开始。"
+    }
+  ],
+  "knowledge": null
+}

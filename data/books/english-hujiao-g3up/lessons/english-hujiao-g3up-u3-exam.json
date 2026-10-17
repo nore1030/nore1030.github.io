@@ -1,0 +1,71 @@
+{
+  "id": "english-hujiao-g3up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Module 1 Getting to know you — Are you Kitty? 你是谁",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一般疑问句 Are you…?",
+      "question": "— Are you Sam? — No, ___",
+      "options": [
+        "I'm not.",
+        "I am.",
+        "you aren't.",
+        "I'm."
+      ],
+      "answer": "I'm not.",
+      "explanation": "否定简答用 No, I'm not."
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问姓名 What's your name?",
+      "question": "老师想知道你的名字，会问（　）",
+      "options": [
+        "What's your name?",
+        "How are you?",
+        "Are you a pupil?",
+        "Nice to meet you."
+      ],
+      "answer": "What's your name?",
+      "explanation": "问姓名。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问姓名 What's your name?",
+      "question": "I'm Lily. 也可以用来回答 What's your name?",
+      "options": [],
+      "answer": "对",
+      "explanation": "I'm… = My name is…"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般疑问句 Are you…?",
+      "question": "想确认「你是 Jill 吗」，应说（　）",
+      "options": [
+        "Are you Jill?",
+        "You are Jill.",
+        "Is you Jill?",
+        "Are Jill you?"
+      ],
+      "answer": "Are you Jill?",
+      "explanation": "确认身份用 Are you…?"
+    }
+  ],
+  "knowledge": null
+}

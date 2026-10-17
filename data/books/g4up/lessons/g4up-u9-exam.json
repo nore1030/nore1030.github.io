@@ -1,0 +1,217 @@
+{
+  "id": "g4up-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g4up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "最小的自然数是 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据自然数的定义，自然数从 0 开始，没有最大的自然数。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "周角是一条射线。",
+      "options": [],
+      "answer": "错",
+      "explanation": "周角是一个角，它的两边重合，看起来像一条射线，但它是旋转形成的，具有 360 度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "两个高相等的梯形一定能拼成一个平行四边形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须是两个完全一样的梯形才能拼成平行四边形，仅高相等是不够的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "3000 ÷ 400 = 30 ÷ 4 = 7……2。",
+      "options": [],
+      "answer": "错",
+      "explanation": "利用商不变性质简算时，余数也要随之扩大。$30 \\div 4 = 7 \\dots 2$，则原式的余数应是 $2 \\times 100 = 200$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "两个因数相乘的积是 60，如果一个因数不变，另一个因数乘 3，则积是（ ）。",
+      "options": [
+        "20",
+        "60",
+        "180",
+        "600"
+      ],
+      "answer": "180",
+      "explanation": "积随因数的变化规律：一个因数不变，另一个因数乘 3，积也乘 3。$60 \\times 3 = 180$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "钟面上 6 时整，时针和分针组成的角是（ ）。",
+      "options": [
+        "锐角",
+        "直角",
+        "钝角",
+        "平角"
+      ],
+      "answer": "平角",
+      "explanation": "6 时整，时针指向 6，分针指向 12，时针分针在一条直线上且朝向相反，是 180 度，即平角。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "在一道除法算式中，除数是 35，余数最大是（ ）。",
+      "options": [
+        "34",
+        "35",
+        "36",
+        "1"
+      ],
+      "answer": "34",
+      "explanation": "余数一定要比除数小。除数是 35，最大余数是 $35 - 1 = 34$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "王老师买了 12 个足球，每个足球 120 元，一共花了多少钱？这是求（ ）。",
+      "options": [
+        "单价",
+        "数量",
+        "总价",
+        "速度"
+      ],
+      "answer": "总价",
+      "explanation": "$单价 \\times 数量 = 总价$。120 元是单价，12 是数量，求一共多少钱即求总价。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合应用与统计复习",
+      "question": "一个锅每次最多能烙 2 张饼，每面要 3 分钟。要把 5 张饼的两面都烙熟，最少要（ ）分钟。",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "30"
+      ],
+      "answer": "15",
+      "explanation": "煎 2 张需 6 分钟，煎 3 张需 9 分钟（交替法）。$6 + 9 = 15$分钟。公示估算：$5 \\times 2 \\times 3 \\div 2 = 15$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "下列各数中，最接近 10 万的数是（ ）。",
+      "options": [
+        "99000",
+        "100001",
+        "99990",
+        "110000"
+      ],
+      "answer": "100001",
+      "explanation": "通过减法比较差值：$100001 - 100000 = 1$，差值最小，最接近。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "综合应用与统计复习",
+      "question": "某农场有一块长 800 米、宽 500 米的长方形棉田。这块棉田的面积是（ ）公顷。",
+      "options": [
+        "4",
+        "40",
+        "400",
+        "4000"
+      ],
+      "answer": "40",
+      "explanation": "$800 \\times 500 = 400000$平方米。1公顷 = 10000平方米。$400000 \\div 10000 = 40$公顷。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合复习",
+      "question": "$480 \\div 12$ 的商与（ ）的商相等。",
+      "options": [
+        "240 \\div 12",
+        "480 \\div 24",
+        "960 \\div 24",
+        "480 \\div 6"
+      ],
+      "answer": "960 \\div 24",
+      "explanation": "根据商不变性质：被除数和除数同时乘 2，$480 \\times 2 = 960$，$12 \\times 2 = 24$。所以商相等。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合复习",
+      "question": "由 3 个千万、5 个十万、6 个百组成的数是 ___。",
+      "options": [],
+      "answer": "30500600",
+      "explanation": "千万位写 3，十万位写 5，百位写 6，其余位补 0。得到 30500600。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合复习",
+      "question": "一个等腰梯形的周长是 30 厘米，上底是 5 厘米，下底是 7 厘米。它的一条腰长是 ___ 厘米。",
+      "options": [],
+      "answer": "9",
+      "explanation": "腰长和 = $30 - 5 - 7 = 18$厘米。等腰梯形两腰相等，一条腰 = $18 \\div 2 = 9$厘米。验算：$9+9+5+7=30$✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合复习",
+      "question": "计算：$106 \\times 35 = ?$",
+      "options": [],
+      "answer": "3710",
+      "explanation": "$106 \\times 30 = 3180$，$106 \\times 5 = 530$。$3180 + 530 = 3710$。验算：$3710 \\div 35 = 106$✓。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "g1down-u3-kp1",
+  "title": "单一标准的分类统计",
+  "bookId": "g1down",
+  "unitNumber": 3,
+  "unitTitle": "分类与整理",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "分类时，只要标准一样，分类的结果也一定一样。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同一组事物按相同的标准分类，其各个类别的数量是确定的。验算：设定标准为形状，圆形的数量不会因为数数的顺序而改变。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "要把铅笔、橡皮、直尺和苹果分两类，哪一个是不一样的？",
+      "options": [
+        "铅笔",
+        "橡皮",
+        "直尺",
+        "苹果"
+      ],
+      "answer": "苹果",
+      "explanation": "铅笔、橡皮、直尺属于文具，苹果属于水果。苹果不属于文具类。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "下面哪组物品是按「颜色」分类的？",
+      "options": [
+        "红积木和红气球",
+        "圆球和方盒",
+        "大袋子和小袋子",
+        "长铅笔和短铅笔"
+      ],
+      "answer": "红积木和红气球",
+      "explanation": "红积木和红气球的标准都是红色。其他选项分别是按形状、大小、长度分类。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "一堆球里有 3 个红球和 5 个白球，这堆球一共有几个？",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "$3 + 5 = 8$（个）。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "要把三角形、正方形、圆、圆柱分两类，哪一个与其他三个不同？",
+      "options": [
+        "三角形",
+        "正方形",
+        "圆",
+        "圆柱"
+      ],
+      "answer": "圆柱",
+      "explanation": "三角形、正方形、圆是平面图形，圆柱是立体图形。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "在水果店里，苹果、香蕉、橙子应该摆放在什么柜台？",
+      "options": [
+        "蔬菜柜台",
+        "水果柜台",
+        "零食柜台",
+        "文具柜台"
+      ],
+      "answer": "水果柜台",
+      "explanation": "根据事物的共有属性进行分类，它们都是水果。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "小明有 3 个红气球，4 个黄气球，2 个蓝气球。他一共分类记录了 ___ 个气球。",
+      "options": [],
+      "answer": "9",
+      "explanation": "$3 + 4 + 2 = 9$（个）。验算：$9 - 2 - 4 = 3$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单一标准的分类统计",
+      "question": "计算：$15 + 4 = ?$",
+      "options": [],
+      "answer": "19",
+      "explanation": "15 加 4 等于 19。验算：$19 - 4 = 15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "单一标准的分类统计",
+    "core_concept": "根据事物的共有特征（如形状、颜色、用途等）挑出一种标准，将事物分成几类。在统计时，要做到不重复、不遗漏。分类的结果通常用简单的表格形式展示，方便一眼看出每种分类下的数量。",
+    "key_formula": "各分类数量之和 = 总数量",
+    "common_mistakes": [
+      "数数时数错或漏数，导致分类后的总数与原本的事物总数不符。",
+      "没有统一标准，如把“红球”和“大球”分在一起，标准发生了重叠。"
+    ],
+    "tips": "数数时，数一个划掉一个，或者在图上做记号，这样不容易数错。"
+  }
+}

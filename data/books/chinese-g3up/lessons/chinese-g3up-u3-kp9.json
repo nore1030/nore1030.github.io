@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u3-kp9",
+  "title": "童话作品配对",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 8,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "童话作品配对",
+      "question": "请将下列童话故事与其对应的主要人物连线。",
+      "options": [
+        "《海的女儿》",
+        "《丑小鸭》",
+        "《在那牛肚子里》",
+        "《卖火柴的小女孩》",
+        "天鹅",
+        "小人鱼",
+        "小女孩",
+        "青头"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "小人鱼对应海的女儿，丑小鸭最后变天鹅，青头是蟋蟀，小女孩卖火柴。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g4up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "chinese-g4up",
+  "unitNumber": 5,
+  "unitTitle": "我手写我心",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "只要把事情发生的时间和地点写对，这篇习作就算是写清楚了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "写清楚还需要经过、细节描写等必要元素。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "环境描写对叙事的衬托",
+      "question": "描写周围的景物可以帮助表达作者当时的心情。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这叫“借景抒情”或“情景交融”。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "在不同的场合，同一个动作可以表达不同的内心感受。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比如“顿足”，可能是生气，也可能是焦急。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "写日记也是在练习把事情写清楚。",
+      "options": [],
+      "answer": "对",
+      "explanation": "日记是记录生活、练习叙事的一种好方式。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "下列哪个词最适合形容比赛夺冠时人物的心情？",
+      "options": [
+        "垂头丧气",
+        "狂喜万分",
+        "犹豫不决",
+        "忐忑不安"
+      ],
+      "answer": "狂喜万分",
+      "explanation": "夺冠对应的是极度的喜悦。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "环境描写对叙事的衬托",
+      "question": "阅读：‘天阴沉沉的，路边的小草也显得无精打采。’这段描写预示着什么？",
+      "options": [
+        "小草生病了",
+        "作者的心情很郁闷",
+        "下午要除草",
+        "路边很荒凉"
+      ],
+      "answer": "作者的心情很郁闷",
+      "explanation": "环境描写常用来衬托人物低落的心情。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动作词的精准运用",
+      "question": "“姐姐握着笔，对着草稿纸发愁。”这句话通过描写什么展现了姐姐遇到了难题？",
+      "options": [
+        "神态和环境",
+        "动作和心理",
+        "外貌和语言",
+        "环境和语言"
+      ],
+      "answer": "动作和心理",
+      "explanation": "“握着笔”是动作，“发愁”是内心状态的表现。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "“我终于爬上了山顶！”这句话在朗读时应该读出什么样的语气？",
+      "options": [
+        "惊讶",
+        "自豪与激动",
+        "悲伤",
+        "害怕"
+      ],
+      "answer": "自豪与激动",
+      "explanation": "克服困难后的成功伴随着喜悦和成就感。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动作词的精准运用",
+      "question": "哪组动词能连贯表现“洗手”的过程？",
+      "options": [
+        "冲、抹、搓、擦",
+        "跳、跑、喊、闹",
+        "看、听、写、画",
+        "拿、吃、吞、嚼"
+      ],
+      "answer": "冲、抹、搓、擦",
+      "explanation": "这是标准的洗手连续动作。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "环境描写对叙事的衬托",
+      "question": "“路边的槐树被风吹得沙沙作响，仿佛在为我欢呼。”这是什么写法？",
+      "options": [
+        "环境描写衬托心情",
+        "外貌描写",
+        "说明文章中心",
+        "交代故事地点"
+      ],
+      "answer": "环境描写衬托心情",
+      "explanation": "槐树的声响被赋予了感彩，衬托了“我”的喜悦。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "《爬天都峰》中，我和老爷爷最后都从对方身上汲取了（  ）。",
+      "options": [],
+      "answer": "力量",
+      "explanation": "课文结尾的主题升华。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "环境描写对叙事的衬托",
+      "question": "天都峰的“天”字体现了这座山非常之（  ）。",
+      "options": [],
+      "answer": "高",
+      "explanation": "“天”指天边，以此形容山高。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "给下列词语寻找近义词：",
+      "options": [
+        "奋力",
+        "鼓舞",
+        "居然",
+        "笔陡",
+        "激励",
+        "努力",
+        "陡峭",
+        "竟然"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察词语理解。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "将习作要素与其作用对应起来：",
+      "options": [
+        "时间",
+        "地点",
+        "人物",
+        "经过",
+        "谁发生的故事",
+        "什么时候的事",
+        "最有意思的部分",
+        "在哪里发生的"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "巩固叙事六要素的功能。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "把事情写清楚的方法",
+      "question": "请排序成一个完整的句子：",
+      "options": [
+        "我",
+        "在家里",
+        "专心地",
+        "那本书",
+        "读完"
+      ],
+      "answer": "我,在家里,专心地,那本书,读完",
+      "explanation": "基本的叙述句式。"
+    }
+  ],
+  "knowledge": null
+}

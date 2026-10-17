@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 This is me! 自我介绍",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "形容词描述自己",
+      "question": "「友好的」的英文是（　）",
+      "options": [
+        "friendly",
+        "friend",
+        "friends",
+        "friendlly"
+      ],
+      "answer": "friendly",
+      "explanation": "friendly 友好。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be 动词与自我介绍",
+      "question": "「我 13 岁。」的英文是（　）",
+      "options": [
+        "I'm thirteen years old.",
+        "I'm thirteen year old.",
+        "I thirteen years old.",
+        "I have thirteen years old."
+      ],
+      "answer": "I'm thirteen years old.",
+      "explanation": "years 复数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "be 动词与自我介绍",
+      "question": "介绍自己可以说 I'm… 或 My name is…",
+      "options": [],
+      "answer": "对",
+      "explanation": "两种皆可。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "形容词描述自己",
+      "question": "「她很强壮。」的英文是（　）",
+      "options": [
+        "She is strong.",
+        "She strong.",
+        "She is streng.",
+        "She are strong."
+      ],
+      "answer": "She is strong.",
+      "explanation": "strong 强壮。"
+    }
+  ],
+  "knowledge": null
+}

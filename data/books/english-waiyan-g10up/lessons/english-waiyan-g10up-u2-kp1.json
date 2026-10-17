@@ -1,0 +1,47 @@
+{
+  "id": "english-waiyan-g10up-u2-kp1",
+  "title": "家庭成员与描述",
+  "bookId": "english-waiyan-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 家庭与日常生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家庭成员与描述",
+      "question": "My mother ___ a nurse.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "主语 My mother 用 is。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "家庭成员与描述",
+      "question": "描述性格可用 kind、strict 等形容词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "性格形容词。"
+    }
+  ],
+  "knowledge": {
+    "point": "家庭成员与描述",
+    "core_concept": "介绍家人常用 My father is… / My mother is…；描述性格用形容词，如 kind、strict、patient。",
+    "key_formula": "My father is a doctor.",
+    "common_mistakes": [
+      "a/an 用错。"
+    ],
+    "tips": "看读音选 a/an。"
+  }
+}

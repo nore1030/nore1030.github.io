@@ -1,0 +1,48 @@
+{
+  "id": "science-g1up-u2-kp10",
+  "title": "校园植物调查",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 6,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园植物调查",
+      "question": "我们要观察一棵很高的树，最好的方法是？",
+      "options": [
+        "爬到树顶看",
+        "站在树下仰望",
+        "把树砍倒看",
+        "闭上眼想象"
+      ],
+      "answer": "站在树下仰望",
+      "explanation": "实地观察应在保证安全和不伤害植物的前提下进行。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园植物调查",
+      "question": "我们在校园里观察了（___）个不同地点的植物。",
+      "options": [],
+      "answer": "1",
+      "explanation": "由于一年级实操性强，通常以一个具体区域（如花坛）为起点进行深度调查。"
+    }
+  ],
+  "knowledge": {
+    "point": "校园植物调查",
+    "core_concept": "实地观察法",
+    "key_formula": "观察 = 看 + 闻 + 摸 + 测量记录",
+    "common_mistakes": [
+      "采摘花草回去观察",
+      "只记录植物而忽略环境"
+    ],
+    "tips": "观察时要从远到近，从整体到局部。"
+  }
+}

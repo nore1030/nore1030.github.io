@@ -1,0 +1,66 @@
+{
+  "id": "history-g10up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "history-g10up",
+  "unitNumber": 1,
+  "unitTitle": "从中华文明起源到秦汉统一",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "秦汉统一多民族封建国家",
+      "question": "汉武帝时期，思想方面采取的措施是（　）",
+      "options": [
+        "焚书坑儒",
+        "尊崇儒术",
+        "崇尚法家",
+        "提倡道家"
+      ],
+      "answer": "尊崇儒术",
+      "explanation": "罢黜百家、尊崇儒术。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中华文明起源与早期国家",
+      "question": "春秋战国时期社会转型的根本原因是（　）",
+      "options": [
+        "生产力发展",
+        "诸侯争霸",
+        "百家争鸣",
+        "礼崩乐坏"
+      ],
+      "answer": "生产力发展",
+      "explanation": "铁犁牛耕推动生产力发展。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "秦汉统一多民族封建国家",
+      "question": "秦朝是中国历史上第一个统一多民族封建国家。",
+      "options": [],
+      "answer": "对",
+      "explanation": "秦朝统一的意义。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "中华文明起源与早期国家",
+      "question": "夏朝是中国历史上第一个王朝。",
+      "options": [],
+      "answer": "对",
+      "explanation": "约公元前 2070 年。"
+    }
+  ],
+  "knowledge": null
+}

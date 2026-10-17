@@ -1,0 +1,107 @@
+{
+  "id": "g4down-u1-kp3",
+  "title": "带括号的四则混合运算顺序",
+  "bookId": "g4down",
+  "unitNumber": 1,
+  "unitTitle": "四则运算",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "计算 $120 \times (4 \times 5)$ 时，应该先算乘法，再算括号外的乘法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据混合运算规则，有小括号的要先算小括号里面的。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "计算 $25 \times (44 + 288 \times 16)$ 时，第一步应算（ ）。",
+      "options": [
+        "25 \times 44",
+        "44 + 288",
+        "288 \times 16",
+        "25 \times 16"
+      ],
+      "answer": "288 \times 16",
+      "explanation": "在含有括号的算式里，先算括号里面的。括号里既有加法又有乘法，应先算乘法。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "要把 $200 + 40 \times 3 \times 2$ 的运算顺序改为先求和，再求积，最后求积，正确的是（ ）。",
+      "options": [
+        "(200 + 40) \times 3 \times 2",
+        "200 + (40 \times 3) \times 2",
+        "200 + 40 \times (3 \times 2)",
+        "(200 + 40 \times 3) \times 2"
+      ],
+      "answer": "(200 + 40) \times 3 \times 2",
+      "explanation": "加上括号后先算 $200+40$，符合题目要求的运算顺序变化。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "计算 $100 - [10 + (25 - 5)]$ 的结果是（ ）。",
+      "options": [
+        "70",
+        "60",
+        "80",
+        "90"
+      ],
+      "answer": "70",
+      "explanation": "先算小括号：$25 - 5 = 20$；再算中括号：$10 + 20 = 30$；最后算括号外：$100 - 30 = 70$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "$80 + 20 \times 4$ 的计算结果是（ ）。",
+      "options": [
+        "400",
+        "160",
+        "200",
+        "100"
+      ],
+      "answer": "160",
+      "explanation": "先算乘法 $20 \times 4 = 80$，再算加法 $80 + 80 = 160$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "带括号的四则混合运算顺序",
+      "question": "计算：$(15 + 25) \times 4 = ?$",
+      "options": [],
+      "answer": "160",
+      "explanation": "先算括号内 $15 + 25 = 40$，再算 $40 \times 4 = 160$。验算：$160 \times 4 = 40$，$40 - 25 = 15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "带括号的四则混合运算顺序",
+    "core_concept": "在只有加减或只有乘除的算式里，按从左往右顺序算；既有乘除又有加减，先算乘除后算加减；有括号的要先算小括号里面的，再算中括号里面的。",
+    "key_formula": "先括号内，后括号外；先乘除，后加减",
+    "common_mistakes": [
+      "看到算式中有加减法凑整就先算加减法，不顾及乘除优先顺序",
+      "计算中括号时漏掉小括号的中间结果"
+    ],
+    "tips": "做题时可以先在算式上方标出运算顺序序号①②③。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g4down-u1-kp1",
+  "title": "生活中的权利",
+  "bookId": "moral-g4down",
+  "unitNumber": 1,
+  "unitTitle": "权利与义务",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "生活中的权利",
+      "question": "下面属于未成年人合法权益的是（　）",
+      "options": [
+        "受教育权",
+        "随意旷课",
+        "不写作业",
+        "欺负同学"
+      ],
+      "answer": "受教育权",
+      "explanation": "受教育权受法律保护。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "生活中的权利",
+      "question": "未成年人的合法权益受法律保护。",
+      "options": [],
+      "answer": "对",
+      "explanation": "权益受保护。"
+    }
+  ],
+  "knowledge": {
+    "point": "生活中的权利",
+    "core_concept": "未成年人享有受教育权、生命健康权、人身自由权等。权利受法律保护，也受法律约束。",
+    "key_formula": "权利与义务相伴",
+    "common_mistakes": [
+      "认为可以随意处置自己的物品而不用商量。"
+    ],
+    "tips": "权利要依法行使。"
+  }
+}

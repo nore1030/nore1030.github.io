@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Welcome to our school! 学校",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学校场所 library / playground / office",
+      "question": "「办公室」的英文是（　）",
+      "options": [
+        "office",
+        "offices",
+        "ofice",
+        "offce"
+      ],
+      "answer": "office",
+      "explanation": "office 办公室。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "人称代词主格与宾格",
+      "question": "「我们喜欢她。」的英文是（　）",
+      "options": [
+        "We like her.",
+        "We like she.",
+        "We likes her.",
+        "We like hers."
+      ],
+      "answer": "We like her.",
+      "explanation": "动词后宾格。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "人称代词主格与宾格",
+      "question": "him 是 he 的宾格。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主 he 宾 him。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "学校场所 library / playground / office",
+      "question": "「欢迎来到我们学校！」的英文是（　）",
+      "options": [
+        "Welcome to our school!",
+        "Welcome in our school!",
+        "Welcome to ours school!",
+        "Welcome to our schools!"
+      ],
+      "answer": "Welcome to our school!",
+      "explanation": "welcome to。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "science-g1down-u2-kp21",
+  "title": "校园动物观察",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 14,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园动物观察",
+      "question": "我们观察校园小动物时，发现蚂蚁身体通常分为（___）节。",
+      "options": [],
+      "answer": "3",
+      "explanation": "昆虫的身体分为头、胸、腹三部分。"
+    }
+  ],
+  "knowledge": null
+}

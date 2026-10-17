@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u2-kp16",
+  "title": "船的历史",
+  "bookId": "science-g5down",
+  "unitNumber": 2,
+  "unitTitle": "船的研究",
+  "kpIndex": 10,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "船的历史",
+      "question": "下列哪种船只属于典型的现代机械动力船？",
+      "options": [
+        "帆船",
+        "独木舟",
+        "核潜艇",
+        "摇橹木船"
+      ],
+      "answer": "核潜艇",
+      "explanation": "核潜艇利用核反应堆产生动力，属于现代高度发达的机械动力系统。"
+    }
+  ],
+  "knowledge": null
+}

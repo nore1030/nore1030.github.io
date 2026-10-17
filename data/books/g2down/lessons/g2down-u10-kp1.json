@@ -1,0 +1,124 @@
+{
+  "id": "g2down-u10-kp1",
+  "title": "计算能力综合训练",
+  "bookId": "g2down",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算 $35 \times 0$ 的结果比 $35 \times 1$ 的结果小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$35 \times 0 = 0$，$35 \times 1 = 35$，$0 < 35$。故描述正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "混合运算 $6 + 3 \times 4$ 应先算加法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "混合运算中，有加法和乘法时，应先算乘法。$6 + 12 = 18$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算 $42 \times 7$ 的余数是多少？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "6"
+      ],
+      "answer": "0",
+      "explanation": "$42 \times 7 = 6$，没有余数，即余数为 0。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "$(\text{ }) - 24 = 36$，括号里应填（ ）。",
+      "options": [
+        "12",
+        "50",
+        "60",
+        "64"
+      ],
+      "answer": "60",
+      "explanation": "利用逆运算：$36 + 24 = 60$。验算：$60 - 24 = 36$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "计算能力综合训练",
+      "question": "在算式 $40 \times (8 - 2)$ 中，应先算（ ）。",
+      "options": [
+        "除法",
+        "减法",
+        "乘法",
+        "一样快"
+      ],
+      "answer": "减法",
+      "explanation": "有括号的要先算括号里面的。$8 - 2 = 6$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算 $72 \times 8$ 的商是 ___。",
+      "options": [],
+      "answer": "9",
+      "explanation": "根据乘法口诀“八九七十二”，$72 \times 8 = 9$。验算：$9 \times 8 = 72$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算：$45 + 28 = ?$",
+      "options": [],
+      "answer": "73",
+      "explanation": "$45 + 28 = 73$。验算：$73 - 28 = 45$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "计算能力综合训练",
+      "question": "计算：$64 \times 8 = ?$",
+      "options": [],
+      "answer": "8",
+      "explanation": "$64 \times 8 = 8$。验算：$8 \times 8 = 64$。"
+    }
+  ],
+  "knowledge": {
+    "point": "计算能力综合训练",
+    "core_concept": "本学期重点掌握表内乘除法和万以内加减法。对于有余数的除法，要理解余数必须比除数小的原则。在混合运算中，要遵循“先乘除后加减，有括号先算括号”的顺序。通过口算速度和笔算准确度的训练，提升基础数感。",
+    "key_formula": "被除数 = 商 \\times 除数 + 余数 (余数 < 除数)",
+    "common_mistakes": [
+      "混合运算中直接从左往右算，忽略了先乘除的规则",
+      "有余除法中余数大于除数，忘记继续除下去"
+    ],
+    "tips": "背熟乘法口诀是基础，做完题后一定要用逆运算验算一遍。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp12",
+  "title": "综合问路表达",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 8,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "综合问路表达",
+      "question": "Where is the post office? It's ______ the hospital.",
+      "options": [
+        "next to",
+        "under",
+        "at",
+        "in"
+      ],
+      "answer": "next to",
+      "explanation": "next to 表示在...旁边，是常见的方位表达。"
+    }
+  ],
+  "knowledge": null
+}

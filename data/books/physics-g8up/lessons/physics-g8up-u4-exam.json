@@ -1,0 +1,66 @@
+{
+  "id": "physics-g8up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "physics-g8up",
+  "unitNumber": 4,
+  "unitTitle": "质量与密度",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "密度及其应用",
+      "question": "密度为 $2.7\\ \\text{g/cm}^3$ 的铝，体积 $100\\ \\text{cm}^3$ 时质量是多少 g？",
+      "options": [],
+      "answer": "270",
+      "explanation": "$m=\\rho V=2.7\\times100=270$ g。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "密度及其应用",
+      "question": "水结成冰后，质量不变而体积变大，则密度（　）",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法确定"
+      ],
+      "answer": "变小",
+      "explanation": "$\\rho=\\frac mV$，$V$ 变大则 $\\rho$ 变小。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质量及其测量",
+      "question": "用天平测质量时，物体应放在（　）",
+      "options": [
+        "左盘",
+        "右盘",
+        "任意盘",
+        "手上"
+      ],
+      "answer": "左盘",
+      "explanation": "左物右码。"
+    },
+    {
+      "id": 10,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "密度及其应用",
+      "question": "水的密度是 $1.0\\times10^3$ ___（填单位）",
+      "options": [],
+      "answer": "kg/m3",
+      "explanation": "水的密度为 $1.0\\times10^3\\ \\text{kg/m}^3$。"
+    }
+  ],
+  "knowledge": null
+}

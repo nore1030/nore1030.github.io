@@ -1,0 +1,66 @@
+{
+  "id": "biology-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "biology-g10up",
+  "unitNumber": 2,
+  "unitTitle": "细胞的基本结构与物质运输",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质跨膜运输",
+      "question": "将红细胞置于清水中会吸水涨破，说明（　）",
+      "options": [
+        "细胞膜具有选择透过性",
+        "水分子可自由通过细胞膜",
+        "红细胞无细胞壁保护",
+        "细胞内液浓度低于清水"
+      ],
+      "answer": "红细胞无细胞壁保护",
+      "explanation": "动物细胞无细胞壁。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "细胞器与细胞核",
+      "question": "叶绿体是光合作用的场所，只存在于植物细胞中。",
+      "options": [],
+      "answer": "错",
+      "explanation": "部分藻类也有，但某些植物细胞（如根细胞）无叶绿体。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "细胞器与细胞核",
+      "question": "蛋白质合成的场所是（　）",
+      "options": [
+        "核糖体",
+        "高尔基体",
+        "中心体",
+        "溶酶体"
+      ],
+      "answer": "核糖体",
+      "explanation": "核糖体是合成场所。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物质跨膜运输",
+      "question": "胞吞和胞吐体现了细胞膜的流动性。",
+      "options": [],
+      "answer": "对",
+      "explanation": "依赖膜流动性。"
+    }
+  ],
+  "knowledge": null
+}

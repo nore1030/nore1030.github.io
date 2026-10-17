@@ -1,0 +1,61 @@
+{
+  "id": "g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g8up",
+  "unitNumber": 1,
+  "unitTitle": "三角形",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形边角关系",
+      "question": "三角形中最大的角是 100°，它是（　）",
+      "options": [
+        "锐角三角形",
+        "直角三角形",
+        "钝角三角形",
+        "无法确定"
+      ],
+      "answer": "钝角三角形",
+      "explanation": "有一个钝角即为钝角三角形。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "多边形及其内角和",
+      "question": "正六边形的每个内角是多少度？",
+      "options": [],
+      "answer": "120",
+      "explanation": "$(6-2)\\times180°\\div6=120°$。"
+    },
+    {
+      "id": 9,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "多边形及其内角和",
+      "question": "任意多边形的外角和为 ___°。",
+      "options": [],
+      "answer": "360",
+      "explanation": "外角和恒为360°。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "三角形重要线段",
+      "question": "三角形面积为 24，某条中线把三角形分成的两部分各是多少面积？",
+      "options": [],
+      "answer": "12",
+      "explanation": "中线平分面积，$24\\div2=12$。"
+    }
+  ],
+  "knowledge": null
+}

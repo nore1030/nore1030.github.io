@@ -1,0 +1,39 @@
+{
+  "id": "english-g4up-u2-kp7",
+  "title": "语音规律",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语音规律",
+      "question": "单词 'like' 和 'kite' 中元音字母 'i' 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在开音节结构 i...e 中，i 发双元音 /aɪ/。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语音规律",
+      "question": "Which word has a different sound for 'i'?",
+      "options": [
+        "big",
+        "six",
+        "five",
+        "pig"
+      ],
+      "answer": "five",
+      "explanation": "five中的i发/aɪ/，其余三个单词i发/ɪ/。"
+    }
+  ],
+  "knowledge": null
+}

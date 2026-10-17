@@ -1,0 +1,53 @@
+{
+  "id": "g9down-u3-kp1",
+  "title": "锐角三角函数定义",
+  "bookId": "g9down",
+  "unitNumber": 3,
+  "unitTitle": "锐角三角函数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "锐角三角函数定义",
+      "question": "直角三角形中 $\\angle A$ 的对边 3、斜边 5，则 $\\sin A=$ ？（填分数）",
+      "options": [],
+      "answer": "3/5",
+      "explanation": "$\\sin A=\\frac35$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "锐角三角函数定义",
+      "question": "直角三角形中 $\\angle A$ 的对边 3、邻边 4，则 $\\tan A=$ ？（填分数）",
+      "options": [],
+      "answer": "3/4",
+      "explanation": "$\\tan A=\\frac34$。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "锐角三角函数定义",
+      "question": "锐角三角函数值都是正数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "边长比为正。"
+    }
+  ],
+  "knowledge": {
+    "point": "锐角三角函数定义",
+    "core_concept": "在直角三角形中，$\\sin A=\\frac{\\text{对边}}{\\text{斜边}}$，$\\cos A=\\frac{\\text{邻边}}{\\text{斜边}}$，$\\tan A=\\frac{\\text{对边}}{\\text{邻边}}$。",
+    "key_formula": "$\\sin^2A+\\cos^2A=1$",
+    "common_mistakes": [
+      "正弦与余弦的边搞混。"
+    ],
+    "tips": "正弦配斜边，正切配两直角边。"
+  }
+}

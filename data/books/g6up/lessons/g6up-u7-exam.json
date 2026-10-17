@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 7,
+  "unitTitle": "扇形统计图",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "扇形统计图的特点",
+      "question": "扇形统计图能反映出数据的变化趋势。",
+      "options": [],
+      "answer": "错",
+      "explanation": "反映变化趋势是折线统计图的功能。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "扇形统计图的特点",
+      "question": "用整个圆面积代表 1，那么占比 20% 的部分对应的圆心角是 72 度。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$360 \\times 20\\% = 72$ 度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "扇形统计图的特点",
+      "question": "在扇形统计图中，占比最大的部分其对应扇形的面积也最大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "比例与面积成正比。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "通过扇形统计图可以计算出任意一部分对应的具体数值，前提是知道总量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "具体数值 = 总量 × 百分比。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "扇形统计图的特点",
+      "question": "扇形统计图主要反映部分与什么之间的关系？",
+      "options": [
+        "部分",
+        "总量",
+        "时间",
+        "平均数"
+      ],
+      "answer": "总量",
+      "explanation": "核心是部分对总量的占比。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "小明家 11 月份支出中，食品占 40%，教育占 20%，服装占 15%，其他占 25%。支出最多的是：",
+      "options": [
+        "食品",
+        "教育",
+        "服装",
+        "其他"
+      ],
+      "answer": "食品",
+      "explanation": "40% 是最大的占比。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "扇形统计图的特点",
+      "question": "在扇形统计图中，若一个扇形代表总数的四分之一，其百分比是：",
+      "options": [
+        "10%",
+        "25%",
+        "40%",
+        "50%"
+      ],
+      "answer": "25%",
+      "explanation": "$1 \\div 4 = 0.25 = 25\\%$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "某班男生 24 人，女生 16 人。在表示性别占比的扇形统计图中，男生占比是：",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": "60%",
+      "explanation": "总人数 $24+16=40$，$24 \\div 40 = 60\\%$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "若占比 15% 的部分比占比 10% 的部分多 5 人，总量是多少？",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "answer": "100",
+      "explanation": "$5 \\div (15\\% - 10\\%) = 100$人。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "要分析超市各季度销售额占全年销售额的比重，最合适的图表是：",
+      "options": [
+        "扇形统计图",
+        "折线统计图",
+        "条形统计图",
+        "直方图"
+      ],
+      "answer": "扇形统计图",
+      "explanation": "比重即占比。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "在扇形统计图中，总量扩大 2 倍，某部分所占的百分比将：",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "不变",
+      "explanation": "百分比是相对关系，与总量绝对值无关。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "某校有 800 人，喜欢乒乓球的占 20%，喜欢羽毛球的比乒乓球多 5%，喜欢羽毛球的有：",
+      "options": [
+        "160人",
+        "200人",
+        "240人",
+        "280人"
+      ],
+      "answer": "200人",
+      "explanation": "$800 \\times (20\\% + 5\\%) = 200$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "一份 500 克的食物成分中，蛋白质占 20%，蛋白质有 ___ 克。",
+      "options": [],
+      "answer": "100",
+      "explanation": "$500 \\times 0.2 = 100$。验算：$100 \\div 500 = 0.2$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "一个扇形统计图中，A 部分占 30%，B 部分占 20%。如果 B 部分代表 40，那么 A 部分代表 ___。",
+      "options": [],
+      "answer": "60",
+      "explanation": "总量为 $40 \\div 0.2 = 200$，A 为 $200 \\times 0.3 = 60$。验算：$60 \\div 200 = 0.3$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计图的选择与数据分析",
+      "question": "$800 \\times 15\\% = ?$",
+      "options": [],
+      "answer": "120",
+      "explanation": "$800 \\times 0.15 = 120$。验算：$120 \\div 8=15$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "science-g2up-u2-kp7",
+  "title": "常用材料鉴别",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 6,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常用材料鉴别",
+      "question": "衣服通常是由（ ）材料制成的。",
+      "options": [],
+      "answer": "纤维",
+      "explanation": "纤维是各种布料的主要成分。"
+    }
+  ],
+  "knowledge": null
+}

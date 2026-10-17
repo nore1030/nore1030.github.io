@@ -1,0 +1,47 @@
+{
+  "id": "english-renjiao-g7up-u2-kp2",
+  "title": "There be 与疑问句",
+  "bookId": "english-renjiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "时态与基本句型",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "There be 与疑问句",
+      "question": "There ___ some milk in the glass.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "have"
+      ],
+      "answer": "is",
+      "explanation": "milk 不可数，用 is。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "There be 与疑问句",
+      "question": "There be 句型中 be 动词与最近的名词保持一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "就近原则。"
+    }
+  ],
+  "knowledge": {
+    "point": "There be 与疑问句",
+    "core_concept": "There be 句型遵循就近原则。一般疑问句把 be 动词或助动词提到句首，回答用 Yes/No。",
+    "key_formula": "There is a book. / There are two books.",
+    "common_mistakes": [
+      "There be 后误用 have。"
+    ],
+    "tips": "就近原则：be 与最近名词一致。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp12",
+  "title": "文化遗产",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文化遗产",
+      "question": "我们要向外国游客介绍中国的文化遗产，以下最合适的是：",
+      "options": [
+        "长城",
+        "肯德基",
+        "共享单车",
+        "手机游戏"
+      ],
+      "answer": "长城",
+      "explanation": "长城是世界著名的中国文化遗产。"
+    }
+  ],
+  "knowledge": null
+}

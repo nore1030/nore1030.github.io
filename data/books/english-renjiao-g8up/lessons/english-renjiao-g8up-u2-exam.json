@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-renjiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "一般过去时与一般将来时",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般过去时",
+      "question": "He ___ his homework yesterday evening.",
+      "options": [
+        "do",
+        "does",
+        "did",
+        "will do"
+      ],
+      "answer": "did",
+      "explanation": "yesterday evening 用过去时。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般将来时",
+      "question": "I think it ___ rain tomorrow.",
+      "options": [
+        "will",
+        "will be",
+        "is",
+        "was"
+      ],
+      "answer": "will be",
+      "explanation": "表示对未来的预测。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般过去时",
+      "question": "不规则动词的过去式不能按规则加 -ed。",
+      "options": [],
+      "answer": "对",
+      "explanation": "不规则需记忆。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般将来时",
+      "question": "will 常表示说话当时做出的临时决定。",
+      "options": [],
+      "answer": "对",
+      "explanation": "will 表临时决定。"
+    }
+  ],
+  "knowledge": null
+}

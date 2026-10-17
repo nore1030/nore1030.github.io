@@ -1,0 +1,125 @@
+{
+  "id": "science-g6down-u4-kp2",
+  "title": "化学变化中伴随的典型现象",
+  "bookId": "science-g6down",
+  "unitNumber": 4,
+  "unitTitle": "物质的变化",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "化学变化一定伴随发光发热现象。",
+      "options": [],
+      "answer": "错",
+      "explanation": "有些化学变化不发光发热，如铁生锈；有些物理变化发光发热，如电灯发光。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "向米饭上滴碘酒，观察到颜色变成了（）。",
+      "options": [
+        "红色",
+        "绿色",
+        "黄色",
+        "蓝色"
+      ],
+      "answer": "蓝色",
+      "explanation": "淀粉遇到碘酒会发生化学变化，产生蓝色的新物质。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "小苏打和白醋混合后产生的气体能让燃着的木条熄灭，这种气体是（）。",
+      "options": [
+        "氧气",
+        "氢气",
+        "二氧化碳",
+        "空气"
+      ],
+      "answer": "二氧化碳",
+      "explanation": "小苏打与白醋反应生成的二氧化碳不支持燃烧。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "将蜡烛点燃，主要伴随的现象是（）。",
+      "options": [
+        "产生气体",
+        "发光发热",
+        "变透明",
+        "体积变大"
+      ],
+      "answer": "发光发热",
+      "explanation": "蜡烛燃烧是典型的化学变化，伴随剧烈的发光发热。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "硫酸铜溶液与铁钉反应，铁钉表面会出现（）。",
+      "options": [
+        "白色粉末",
+        "绿色液体",
+        "红色物质",
+        "蓝色晶体"
+      ],
+      "answer": "红色物质",
+      "explanation": "铁置换出硫酸铜中的铜，在铁钉表面附着红色铜单质。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "把紫甘蓝液滴在白醋中，白醋显现出的颜色通常是（）。",
+      "options": [
+        "蓝色",
+        "红色",
+        "绿色",
+        "黄色"
+      ],
+      "answer": "红色",
+      "explanation": "紫甘蓝汁作为酸碱指示剂，遇到酸性的白醋会变红色。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "在实验室中，通常将（___）个大气压下的标准环境作为实验基准。",
+      "options": [],
+      "answer": "1",
+      "explanation": "标准大气压通常定义为1个。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "化学变化中伴随的典型现象",
+      "question": "小苏打和白醋反应后的液体，其主要成分是（___）。",
+      "options": [],
+      "answer": "醋酸钠",
+      "explanation": "小苏打与白醋（醋酸）反应生成醋酸钠、水和二氧化碳。"
+    }
+  ],
+  "knowledge": null
+}

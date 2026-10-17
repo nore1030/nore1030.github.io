@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp14",
+  "title": "时态对比",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时态对比",
+      "question": "Now I ______ active in class.",
+      "options": [
+        "was",
+        "be",
+        "is",
+        "am"
+      ],
+      "answer": "am",
+      "explanation": "Now描述现在，I后面的人称代词用am。"
+    }
+  ],
+  "knowledge": null
+}

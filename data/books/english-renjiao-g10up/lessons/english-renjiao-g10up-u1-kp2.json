@@ -1,0 +1,36 @@
+{
+  "id": "english-renjiao-g10up-u1-kp2",
+  "title": "提建议句型",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 Teenage Life 青少年生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "提建议句型",
+      "question": "advice 是（　）名词",
+      "options": [
+        "不可数",
+        "可数",
+        "既可数又不可数",
+        "形容词"
+      ],
+      "answer": "不可数",
+      "explanation": "advice 不可数。"
+    }
+  ],
+  "knowledge": {
+    "point": "提建议句型",
+    "core_concept": "advice 建议（不可数）；give sb. advice 给某人建议；advise doing sth. 建议做某事。",
+    "key_formula": "give me some advice 给我一些建议",
+    "common_mistakes": [
+      "advice 当可数名词：an advice。"
+    ],
+    "tips": "advice 不可数。"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "g6down-u4-kp5",
+  "title": "用比例解决问题",
+  "bookId": "g6down",
+  "unitNumber": 4,
+  "unitTitle": "比例",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "用比例解决问题",
+      "question": "加工零件总数一定，工作效率和工作时间成反比例。",
+      "options": [],
+      "answer": "对",
+      "explanation": "工作效率 $\times$ 工作时间 = 工作总量（一定）。乘积一定，成反比例。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "用比例解决问题",
+      "question": "小明买 3 本练习本用了 12 元。若买同样的练习本 10 本，需要多少元？",
+      "options": [
+        "30",
+        "36",
+        "40",
+        "120"
+      ],
+      "answer": "40",
+      "explanation": "单价一定，总价与数量成正比例。$12:3 = x:10$，解得 $x = 40$。验算：每本 $12 \times 3 = 4$ 元，$4 \times 10 = 40$ 元。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用比例解决问题",
+      "question": "一间教室用边长 3 分米的方砖铺地需要 400 块，若改用边长 2 分米的方砖，需要多少块？",
+      "options": [
+        "600",
+        "900",
+        "200",
+        "800"
+      ],
+      "answer": "900",
+      "explanation": "面积一定成反比例。$3^2 \times 400 = 2^2 \times x$，即 $9 \times 400 = 4x$，$x = 900$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "用比例解决问题",
+      "question": "一辆汽车从甲地开往乙地，平路速度和时间成什么比例？",
+      "options": [
+        "正比例",
+        "反比例",
+        "不成比例",
+        "无法确定"
+      ],
+      "answer": "反比例",
+      "explanation": "路程 = 速度 $\times$ 时间。路程一定，速度与时间成反比例。"
+    }
+  ],
+  "knowledge": {
+    "point": "用比例解决问题",
+    "core_concept": "分析题目中哪种量是不变的，从而建立比例关系式。正比例用除法式建立方程，反比例用乘法式建立方程。",
+    "key_formula": "$\frac{x_1}{y_1} = \frac{x_2}{y_2} \text{ 或 } x_1y_1 = x_2y_2$",
+    "common_mistakes": [
+      "选错比例类型（把反比例题按正比例做）",
+      "列比例式时对应位置放错"
+    ],
+    "tips": "做题三步走：一判（判断正反比）、二列（列出比例方程）、三解（求出未知数）。"
+  }
+}

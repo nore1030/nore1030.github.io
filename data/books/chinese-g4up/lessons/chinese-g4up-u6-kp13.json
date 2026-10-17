@@ -1,0 +1,48 @@
+{
+  "id": "chinese-g4up-u6-kp13",
+  "title": "现代句式排列",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 12,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代句式排列",
+      "question": "请将下列词语排列成一句描写童年趣味的句子：",
+      "options": [
+        "童年",
+        "一件件",
+        "往事",
+        "美丽的",
+        "像",
+        "贝壳"
+      ],
+      "answer": "童年,往事,像,一件件,美丽的,贝壳",
+      "explanation": "主语为童年往事，用比喻句结构连接。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代句式排列",
+      "question": "请将下列词语排成描写我动作心理的句子：",
+      "options": [
+        "我",
+        "急急忙忙",
+        "穿上",
+        "老虎衣",
+        "跑向",
+        "后台"
+      ],
+      "answer": "我,急急忙忙,穿上,老虎衣,跑向,后台",
+      "explanation": "按动作先后顺序排列，副词在前。"
+    }
+  ],
+  "knowledge": null
+}

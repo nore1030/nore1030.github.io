@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp5",
+  "title": "序数词的缩写规则",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "序数词的缩写规则",
+      "question": "序数词 'first' 的缩写形式是 '1st'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "first结尾字母是st，缩写为1st。"
+    }
+  ],
+  "knowledge": null
+}

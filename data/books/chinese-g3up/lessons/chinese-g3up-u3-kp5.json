@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u3-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g3up",
+  "unitNumber": 3,
+  "unitTitle": "童话世界",
+  "kpIndex": 4,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "‘小松鼠在树枝上跳着欢快的舞。’ 运用了什么修辞？",
+      "options": [
+        "比喻",
+        "排比",
+        "拟人",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "跳舞是人的行为，赋予了松鼠。"
+    }
+  ],
+  "knowledge": null
+}

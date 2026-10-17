@@ -1,0 +1,138 @@
+{
+  "id": "chinese-g3down-u6-kp1",
+  "title": "联系上下文理解难懂的句子",
+  "bookId": "chinese-g3down",
+  "unitNumber": 6,
+  "unitTitle": "多彩童年",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "“见风就长”在《肥皂泡》中形容肥皂泡飞得很快。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“见风就长”在文中是指肥皂泡在风的吹拂下变得越来越大。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "理解句子时，如果遇到不认识的字，只能通过查字典，不能联系上下文猜测。",
+      "options": [],
+      "answer": "错",
+      "explanation": "练习上下文是理解词句的重要方法之一，不仅仅是查字典。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "“这肥皂泡，吹起来很美丽，五色的浮光，在那轻清透明的球面上乱转。”这里的“五色的浮光”指的是（ ）。",
+      "options": [
+        "五种颜色的灯光",
+        "肥皂水本身的颜色",
+        "太阳光折射出的色彩",
+        "小孩子画上去的颜色"
+      ],
+      "answer": "太阳光折射出的色彩",
+      "explanation": "结合生活经验，肥皂泡在阳光下会产生像虹一样的斑斓色彩。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "阅读：‘童年是一只风筝，带着梦想飞向蓝天。’这句话表达了童年的什么？",
+      "options": [
+        "喜欢玩耍",
+        "生活的劳累",
+        "未来的向往",
+        "害怕高处"
+      ],
+      "answer": "未来的向往",
+      "explanation": "风筝飞向蓝天象征着对梦想的追求和对未来的憧憬。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "“人影给溪水染绿了”这句话运用了什么修辞手法？",
+      "options": [
+        "比喻",
+        "拟人",
+        "夸张",
+        "反问"
+      ],
+      "answer": "拟人",
+      "explanation": "“染”字赋予了溪水人的动作，生动表现了溪水的清绿。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "下列理解句子含义的方法，哪一项是不正确的？",
+      "options": [
+        "抓关键动词理解",
+        "结合生活实际想一想",
+        "不管上下文直接猜",
+        "查字典了解词的原意"
+      ],
+      "answer": "不管上下文直接猜",
+      "explanation": "必须“联系”上下文，不能脱离语境盲目猜测。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "“垂柳把溪水当做大镜子”，这句话中把溪水比作了（ ）。",
+      "options": [],
+      "answer": "镜子",
+      "explanation": "这是一个明喻，将平静的溪水比作镜子。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "联系上下文理解难懂的句子",
+      "question": "请为下列重点词语选择正确的解释。",
+      "options": [
+        "破裂",
+        "飘游",
+        "羞涩",
+        "胆怯",
+        "害羞",
+        "胆小",
+        "碎开",
+        "飞动"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "考察词义辨析：破裂-碎开，飘游-飞动，羞涩-害羞，胆怯-胆小。"
+    }
+  ],
+  "knowledge": {
+    "point": "联系上下文理解难懂的句子",
+    "core_concept": "理解难懂的句子时，不能孤立地看这个词或句子，要看它的前言后语。可以通过寻找关键词、联系生活实际的情境、或者是根据上下文提供的因果、对比等逻辑关系来推断其深层含义，特别是散文中的比喻性语句。",
+    "key_formula": "找关键词 + 看前后句相关内容 + 结合生活常识 = 理解句意",
+    "common_mistakes": [
+      "脱离语境，仅凭字典上的意思生搬硬套。",
+      "忽略句子中的比喻、拟人等修辞，导致理解过于死板。"
+    ],
+    "tips": "遇到不懂的句子先划出来，读读上文，再读读下文，想象一下当时的画面。"
+  }
+}

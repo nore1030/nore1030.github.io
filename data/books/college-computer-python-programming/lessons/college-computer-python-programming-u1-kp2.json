@@ -1,0 +1,47 @@
+{
+  "id": "college-computer-python-programming-u1-kp2",
+  "title": "列表与字典",
+  "bookId": "college-computer-python-programming",
+  "unitNumber": 1,
+  "unitTitle": "基础语法与数据类型",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列表与字典",
+      "question": "列表 [1,2,3] 的最后一个元素写作 ___（用索引表达式）",
+      "options": [],
+      "answer": "[2] 或 [-1]",
+      "explanation": "索引 -1 表示最后一个。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "列表与字典",
+      "question": "'abc' * 2 的结果是（　）",
+      "options": [
+        "'abcabc'",
+        "'abc2'",
+        "报错",
+        "'aabbcc'"
+      ],
+      "answer": "'abcabc'",
+      "explanation": "字符串重复。"
+    }
+  ],
+  "knowledge": {
+    "point": "列表与字典",
+    "core_concept": "列表有序可重复，支持索引与切片；字典以键值对存储，键必须可哈希且唯一。",
+    "key_formula": "list[0]、dict['key']",
+    "common_mistakes": [
+      "字典中用不存在的键直接取值。"
+    ],
+    "tips": "用 get() 更安全。"
+  }
+}

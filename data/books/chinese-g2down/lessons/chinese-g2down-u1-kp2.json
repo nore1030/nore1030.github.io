@@ -1,0 +1,65 @@
+{
+  "id": "chinese-g2down-u1-kp2",
+  "title": "比喻与拟人修辞的辨析活用",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 1,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "比喻与拟人修辞的辨析活用",
+      "question": "“春姑娘在桃花瓣上跳舞”是一句比喻句。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句话把春当做人来写，属于拟人手法，不是比喻。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比喻与拟人修辞的辨析活用",
+      "question": "“不知细叶谁裁出，二月春风似剪刀。”诗人把（ ）比作了“剪刀”。",
+      "options": [
+        "柳叶",
+        "细雨",
+        "春风",
+        "燕子"
+      ],
+      "answer": "春风",
+      "explanation": "诗句中用“似”连接，将春风比作剪刀。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比喻与拟人修辞的辨析活用",
+      "question": "连词成句：像 草原 绿色的 一块 大地",
+      "options": [
+        "大地",
+        "像",
+        "一块",
+        "绿色的",
+        "草原"
+      ],
+      "answer": "大地,像,一块,绿色的,草原",
+      "explanation": "按照“主体+比喻词+数量+特征+喻体”的顺序排列。"
+    }
+  ],
+  "knowledge": {
+    "point": "比喻与拟人修辞的辨析活用",
+    "core_concept": "比喻是把一个事物比作另一个事物（如：春风似剪刀）；拟人是把事物当做人来写，赋予其人的情感或动作（如：春天探出头）。理解这些手法能增加阅读的趣味性，并为写作打下生动表达的基础。",
+    "key_formula": "判别法：有“像、似、若”且分为本体喻体为比喻；只有事物做人的动作为拟人。",
+    "common_mistakes": [
+      "混淆比喻句和拟人句，将拟人句当成比喻句。",
+      "在运用比喻时，喻体选择不恰当，如将春天比作寒风。"
+    ],
+    "tips": "寻找句子中是否有“像、好比、如同”这些标志性词语来快速识别比喻句。"
+  }
+}

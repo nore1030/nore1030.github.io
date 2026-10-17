@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5down-u1-kp1",
+  "title": "情绪的管理",
+  "bookId": "moral-g5down",
+  "unitNumber": 1,
+  "unitTitle": "情感与交往",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "情绪的管理",
+      "question": "下列调节情绪的方法不恰当的是（　）",
+      "options": [
+        "改变认知评价",
+        "转移注意",
+        "合理宣泄",
+        "摔东西发泄"
+      ],
+      "answer": "摔东西发泄",
+      "explanation": "损坏物品不是正确宣泄。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "情绪的管理",
+      "question": "情绪没有好坏之分，关键是表达与调节的方式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "情绪需要正确表达。"
+    }
+  ],
+  "knowledge": {
+    "point": "情绪的管理",
+    "core_concept": "情绪如天气预报会变化。调节方法有改变认知评价、转移注意、合理宣泄、自我控制。情绪失控会伤害自己和他人。",
+    "key_formula": "认知 → 行为 → 结果",
+    "common_mistakes": [
+      "把所有情绪都压抑起来。"
+    ],
+    "tips": "适度表达情绪。"
+  }
+}

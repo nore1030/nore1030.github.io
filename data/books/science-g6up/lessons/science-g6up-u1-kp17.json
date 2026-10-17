@@ -1,0 +1,28 @@
+{
+  "id": "science-g6up-u1-kp17",
+  "title": "放大倍数计算",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "放大倍数计算",
+      "question": "显微镜目镜为10x，物镜为40x，则该显微镜的放大倍数是（）。",
+      "options": [
+        "10倍",
+        "40倍",
+        "50倍",
+        "400倍"
+      ],
+      "answer": "400倍",
+      "explanation": "显微镜总放大倍数 = 目镜倍数 × 物镜倍数。10x40=400。"
+    }
+  ],
+  "knowledge": null
+}

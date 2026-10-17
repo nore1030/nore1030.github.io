@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3up-u7-kp8",
+  "title": "词义辨析",
+  "bookId": "chinese-g3up",
+  "unitNumber": 7,
+  "unitTitle": "认识自然",
+  "kpIndex": 7,
+  "kpTotal": 14,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词义辨析",
+      "question": "下面哪个词形容声音很大？",
+      "options": [
+        "淙淙",
+        "响彻云霄",
+        "呢喃",
+        "滴答"
+      ],
+      "answer": "响彻云霄",
+      "explanation": "响彻云霄形容声音非常宏大，穿透力强。"
+    }
+  ],
+  "knowledge": null
+}

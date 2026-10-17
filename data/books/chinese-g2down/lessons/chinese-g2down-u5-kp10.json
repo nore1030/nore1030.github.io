@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp10",
+  "title": "近义词",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词",
+      "question": "“老马亲切地对小马说……”句中“亲切”可以用哪个词替换？",
+      "options": [
+        "热烈",
+        "温和",
+        "冷淡",
+        "急忙"
+      ],
+      "answer": "温和",
+      "explanation": "亲切形容态度和蔼，温和最为接近。"
+    }
+  ],
+  "knowledge": null
+}

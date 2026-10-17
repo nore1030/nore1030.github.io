@@ -1,0 +1,66 @@
+{
+  "id": "english-waiyan-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-waiyan-g8up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 我的校园生活",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "校园与方位",
+      "question": "There is a map ___ the wall.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "墙面用 on。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "校园活动与时间表达",
+      "question": "We have four classes ___ the morning.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+      ],
+      "answer": "in",
+      "explanation": "in the morning。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "校园与方位",
+      "question": "under 表示在……下面，直接接触。",
+      "options": [],
+      "answer": "对",
+      "explanation": "under 与 below。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "校园活动与时间表达",
+      "question": "上午、下午用 in the morning / afternoon，晚上用 at night。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时间介词。"
+    }
+  ],
+  "knowledge": null
+}

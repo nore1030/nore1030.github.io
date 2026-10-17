@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g5down-u4-kp23",
+  "title": "词语意思匹配",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 19,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语意思匹配",
+      "question": "请将下列词语与它们在文中的意思正确连线：",
+      "options": [
+        "从容",
+        "堪称",
+        "狂喜",
+        "悲痛",
+        "可以称作",
+        "极度高兴",
+        "不慌不忙",
+        "非常伤心"
+      ],
+      "answer": "A-3,B-1,C-2,D-4",
+      "explanation": "从容对应不慌不忙，堪称对应可以称作，狂喜对应极度高兴，悲痛对应伤心。"
+    }
+  ],
+  "knowledge": null
+}

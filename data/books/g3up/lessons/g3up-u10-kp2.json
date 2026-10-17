@@ -1,0 +1,109 @@
+{
+  "id": "g3up-u10-kp2",
+  "title": "图形与几何综合应用",
+  "bookId": "g3up",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "周长相等的两个正方形，它们的边长也一定相等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "因为正方形的周长 $C = 4a$，周长相等则 $4a$ 相等，所以边长 $a$ 一定相等。验算：若周长都为 12 厘米，边长都是 $12 \\div 4 = 3$ 厘米。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "1 吨棉花比 1000 千克铁轻。",
+      "options": [],
+      "answer": "错",
+      "explanation": "1 吨 = 1000 千克，所以 1 吨棉花和 1000 千克铁一样重。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "操场跑道一圈是 400 米，小明跑了 2 圈后还差多少米是 1 千米？",
+      "options": [
+        "200 米",
+        "400 米",
+        "600 米",
+        "800 米"
+      ],
+      "answer": "200 米",
+      "explanation": "2 圈是 $400 \\times 2 = 800$ 米。1 千米 = 1000 米。$1000 - 800 = 200$ 米。验算：$800 + 200 = 1000$ ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一张长方形纸长 10 厘米，宽 6 厘米。剪下一个最大的正方形，正方形的周长是多少？",
+      "options": [
+        "40 厘米",
+        "32 厘米",
+        "24 厘米",
+        "16 厘米"
+      ],
+      "answer": "24 厘米",
+      "explanation": "剪下最大的正方形，边长必须等于长方形的宽，即 6 厘米。周长屏 $6 \\times 4 = 24$ 厘米。验算：正方形在长方形内，边长不能超过短边。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "用 2 个边长是 3 厘米的正方形拼成一个长方形，这个长方形的周长是多少？",
+      "options": [
+        "24 厘米",
+        "18 厘米",
+        "15 厘米",
+        "12 厘米"
+      ],
+      "answer": "18 厘米",
+      "explanation": "拼成后的长方形长为 $3+3=6$ 厘米，宽为 3 厘米。周长为 $(6+3) \\times 2 = 18$ 厘米。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "小华身高 135 厘米，小明身高 14 分米，谁更高？",
+      "options": [
+        "小华高",
+        "小明高",
+        "一样高",
+        "无法确定"
+      ],
+      "answer": "小明高",
+      "explanation": "14 分米 = 140 厘米。$140 > 135$，所以小明高。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "5 吨 - 2000 千克 = ___ 千克。",
+      "options": [],
+      "answer": "3000",
+      "explanation": "5 吨 = 5000 千克。$5000 - 2000 = 3000$（千克）。验算：$3000 + 2000 = 5000$ 千克 = 5 吨 ✓。"
+    }
+  ],
+  "knowledge": null
+}

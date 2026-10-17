@@ -1,0 +1,30 @@
+{
+  "id": "english-g3down-u4-kp25",
+  "title": "一般疑问句",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 21,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般疑问句",
+      "question": "连词成句：",
+      "options": [
+        "it",
+        "Is",
+        "under",
+        "desk",
+        "the",
+        "?"
+      ],
+      "answer": "Is,it,under,the,desk,?",
+      "explanation": "一般疑问句Is打头，后接it和介词短语。"
+    }
+  ],
+  "knowledge": null
+}

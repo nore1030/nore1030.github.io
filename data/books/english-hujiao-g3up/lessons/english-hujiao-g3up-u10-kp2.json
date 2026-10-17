@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g3up-u10-kp2",
+  "title": "询问数量 How many…?",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 10,
+  "unitTitle": "Module 4 The world around us — Numbers 数字",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问数量 How many…?",
+      "question": "— How many apples? — ___",
+      "options": [
+        "Three.",
+        "Fine.",
+        "Yes.",
+        "It's red."
+      ],
+      "answer": "Three.",
+      "explanation": "How many 问数量答数字。"
+    }
+  ],
+  "knowledge": {
+    "point": "询问数量 How many…?",
+    "core_concept": "询问可数物品数量用 How many…?，回答直接给数字：Three.",
+    "key_formula": "How many apples? — Three.",
+    "common_mistakes": [
+      "How many 后接不可数名词。"
+    ],
+    "tips": "many 后接可数名词复数。"
+  }
+}

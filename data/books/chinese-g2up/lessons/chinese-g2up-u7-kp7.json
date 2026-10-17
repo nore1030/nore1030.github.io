@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u7-kp7",
+  "title": "多音字读音选择",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 6,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音选择",
+      "question": "“雾散（ ）了，太阳出来了。”括号中字的正确读音是：",
+      "options": [
+        "sǎn",
+        "sàn",
+        "shàn",
+        "shǎn"
+      ],
+      "answer": "sàn",
+      "explanation": "散开、散开时读第四声。"
+    }
+  ],
+  "knowledge": null
+}

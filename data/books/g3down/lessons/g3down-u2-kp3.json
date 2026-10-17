@@ -1,0 +1,141 @@
+{
+  "id": "g3down-u2-kp3",
+  "title": "一位数除两位数、三位数的笔算",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "在有余数的除法中，余数一定比除数小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据除法的基本性质，余数必须小于除数，否则说明商小了，需要继续除。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "一个三位数除以一个一位数，商不一定是三位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "如果被除数的最高位小于除数，商就是两位数。例如 $100 \times 2 = 50$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "计算 $486 \times 2$ 时，商的最高位在什么位上？",
+      "options": [
+        "个位",
+        "十位",
+        "百位",
+        "千位"
+      ],
+      "answer": "百位",
+      "explanation": "因为被除数的最高位 4 大于 2，所以商的最高位在百位上。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "把 720 块饼干平均分给 6 个班，每个班分到多少块？",
+      "options": [
+        "12",
+        "120",
+        "102",
+        "1200"
+      ],
+      "answer": "120",
+      "explanation": "$720 \times 6 = 120$。笔算过程省略，验算：$120 \times 6 = 720$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "一个数除以 7，商是 15，余数是 6，这个数是多少？",
+      "options": [
+        "105",
+        "111",
+        "99",
+        "112"
+      ],
+      "answer": "111",
+      "explanation": "$15 \times 7 + 6 = 105 + 6 = 111$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "要使 $\\square 35 \times 5$ 的商是两位数，$\\square$ 里最大填几？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "9"
+      ],
+      "answer": "4",
+      "explanation": "商是两位数，则百位数字必须小于除数 5。$\\\\square < 5$，最大填 4。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "542 是 2 的 ___ 倍。",
+      "options": [],
+      "answer": "271",
+      "explanation": "$542 \times 2 = 271$。验算：$271 \times 2 = 542$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "一个数除以 8，商是 12，余数最大可以是 ___ 。",
+      "options": [],
+      "answer": "7",
+      "explanation": "余数必须比除数小。除数是 8，余数最大是 $8 - 1 = 7$。验算：$7 < 8$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "一位数除两位数、三位数的笔算",
+      "question": "计算：$48 \times 4 = ?$",
+      "options": [],
+      "answer": "12",
+      "explanation": "$48 \times 4 = 12$。验算：$12 \times 4 = 48$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "一位数除两位数、三位数的笔算",
+    "core_concept": "除法笔算要从高位算起。如果最高位不够除，就看前两位。每一步求出的余数必须比除数小。求出一位商后，若不够商 1 且不是最高位，必须商 0 占位。",
+    "key_formula": "被除数最高位 \times 除数 < 1 \text{ 时，商的位数减少一位}",
+    "common_mistakes": [
+      "漏写余数",
+      "余数比除数大却没发现",
+      "计算过程中数位没有对齐"
+    ],
+    "tips": "笔算四步走：一商（试商）、二乘（相乘）、三减（相减）、四比（余数比除数小）。"
+  }
+}

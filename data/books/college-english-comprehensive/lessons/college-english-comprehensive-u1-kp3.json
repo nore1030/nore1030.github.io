@@ -1,0 +1,71 @@
+{
+  "id": "college-english-comprehensive-u1-kp3",
+  "title": "从句与句式",
+  "bookId": "college-english-comprehensive",
+  "unitNumber": 1,
+  "unitTitle": "语法与句式",
+  "kpIndex": 0,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "从句与句式",
+      "question": "If I ___ you, I would accept the offer.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "answer": "were",
+      "explanation": "虚拟语气用 were。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "从句与句式",
+      "question": "___ he said made us happy.",
+      "options": [
+        "That",
+        "What",
+        "Which",
+        "It"
+      ],
+      "answer": "What",
+      "explanation": "主语从句缺宾语，用 What。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "从句与句式",
+      "question": "否定词置于句首时，主句通常用部分倒装。",
+      "options": [],
+      "answer": "对",
+      "explanation": "否定词首倒装。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "从句与句式",
+      "question": "Never ___ such a beautiful view.",
+      "options": [
+        "I have seen",
+        "have I seen",
+        "I saw",
+        "did I saw"
+      ],
+      "answer": "have I seen",
+      "explanation": "Never 置于句首用倒装。"
+    }
+  ],
+  "knowledge": null
+}

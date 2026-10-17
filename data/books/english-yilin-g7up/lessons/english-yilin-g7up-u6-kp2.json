@@ -1,0 +1,36 @@
+{
+  "id": "english-yilin-g7up-u6-kp2",
+  "title": "生活方式表达",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 6,
+  "unitTitle": "Unit 6 Food and lifestyle 饮食与生活方式",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生活方式表达",
+      "question": "「保持健康」的英文是（　）",
+      "options": [
+        "keep healthy",
+        "keep health",
+        "keep healthily",
+        "keeping healthy"
+      ],
+      "answer": "keep healthy",
+      "explanation": "keep + 形容词。"
+    }
+  ],
+  "knowledge": {
+    "point": "生活方式表达",
+    "core_concept": "a balanced diet 均衡饮食、do exercise 做运动、stay up late 熬夜。",
+    "key_formula": "I want to keep healthy.",
+    "common_mistakes": [
+      "too much 修饰可数名词。"
+    ],
+    "tips": "too much + 不可数。"
+  }
+}

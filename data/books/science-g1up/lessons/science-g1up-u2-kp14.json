@@ -1,0 +1,37 @@
+{
+  "id": "science-g1up-u2-kp14",
+  "title": "植物与人类关系",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 10,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "植物与人类关系",
+      "question": "修建木头房子主要用到了植物的哪个部位？",
+      "options": [
+        "叶",
+        "茎（干）",
+        "根",
+        "花"
+      ],
+      "answer": "茎（干）",
+      "explanation": "树木的茎干提供木材，用于建筑。 "
+    }
+  ],
+  "knowledge": {
+    "point": "植物与人类关系",
+    "core_concept": "资源利用与保护",
+    "key_formula": "人类生活 = 吃植物 + 住植物 + 穿植物 + 用植物",
+    "common_mistakes": [
+      "认为野外的植物都没有用处",
+      "混淆植物的部位（如分不清根和茎）"
+    ],
+    "tips": "很多药材也来源于植物，比如青蒿。"
+  }
+}

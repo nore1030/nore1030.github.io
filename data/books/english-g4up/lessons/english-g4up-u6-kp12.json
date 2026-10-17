@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u6-kp12",
+  "title": "指示代词",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 8,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "指示代词",
+      "question": "My parents and ______ make three.",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": "me",
+      "explanation": "在此处作宾语，表示包含我在内，常用 me。"
+    }
+  ],
+  "knowledge": null
+}

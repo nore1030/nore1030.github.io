@@ -1,0 +1,23 @@
+{
+  "id": "science-g4down-u2-kp23",
+  "title": "导体定义",
+  "bookId": "science-g4down",
+  "unitNumber": 2,
+  "unitTitle": "电路",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "导体定义",
+      "question": "容易让电流通过的物体被称作（ ）。",
+      "options": [],
+      "answer": "导体",
+      "explanation": "科学术语定义的导体。"
+    }
+  ],
+  "knowledge": null
+}

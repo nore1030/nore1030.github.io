@@ -1,0 +1,66 @@
+{
+  "id": "moral-g7up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "moral-g7up",
+  "unitNumber": 2,
+  "unitTitle": "青春与情绪",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "青春期的变化与调控情绪",
+      "question": "当遇到挫折产生消极情绪时，恰当的做法是（　）",
+      "options": [
+        "合理宣泄并寻求帮助",
+        "迁怒他人",
+        "沉溺其中",
+        "拒绝沟通"
+      ],
+      "answer": "合理宣泄并寻求帮助",
+      "explanation": "合理宣泄是正确做法。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "集体与团队意识",
+      "question": "集体的力量来源于成员共同的目标和团结协作。",
+      "options": [],
+      "answer": "对",
+      "explanation": "集体力量来源。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "青春期的变化与调控情绪",
+      "question": "情绪会影响人的行为和身体健康。",
+      "options": [],
+      "answer": "对",
+      "explanation": "情绪的双重影响。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "集体与团队意识",
+      "question": "在集体中，我们应（　）",
+      "options": [
+        "尊重差异、善于合作",
+        "只顾自己",
+        "嘲笑他人",
+        "拒绝参与"
+      ],
+      "answer": "尊重差异、善于合作",
+      "explanation": "集体生活要求合作。"
+    }
+  ],
+  "knowledge": null
+}

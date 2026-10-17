@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp7",
+  "title": "多音字读音",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 5,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字读音",
+      "question": "下列词语中“宁”字的读音与“宁死不屈”相同的一项是：",
+      "options": [
+        "安宁",
+        "宁肯",
+        "宁静",
+        "宁谧"
+      ],
+      "answer": "宁肯",
+      "explanation": "宁死不屈中的“宁”读nìng，意为“情愿”；宁肯读音相同。"
+    }
+  ],
+  "knowledge": null
+}

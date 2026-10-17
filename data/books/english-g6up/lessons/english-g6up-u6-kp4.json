@@ -1,0 +1,34 @@
+{
+  "id": "english-g6up-u6-kp4",
+  "title": "情绪形容词词义",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 0,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "情绪形容词词义",
+      "question": "'angry' 这个单词的意思是'悲伤的'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "angry的意思是'生气的'，'悲伤的'是sad。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "情绪形容词词义",
+      "question": "'afraid' 这个单词的意思是'害怕的'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "afraid的意思是害怕的，担心某事发生。"
+    }
+  ],
+  "knowledge": null
+}

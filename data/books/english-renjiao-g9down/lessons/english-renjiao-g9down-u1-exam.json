@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g9down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g9down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时与被动语态",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "He has been to Beijing twice, so he ___ the Great Wall.",
+      "options": [
+        "sees",
+        "saw",
+        "has seen",
+        "will see"
+      ],
+      "answer": "has seen",
+      "explanation": "去过多次用现在完成时。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "Paper ___ from wood.",
+      "options": [
+        "makes",
+        "is made",
+        "made",
+        "is making"
+      ],
+      "answer": "is made",
+      "explanation": "被动语态。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "have been to 表示去过，have been in 表示一直在。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两种状态区分。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "被动语态综合",
+      "question": "被动语态常用于客观描述或施动者不明确的情况。",
+      "options": [],
+      "answer": "对",
+      "explanation": "被动用法。"
+    }
+  ],
+  "knowledge": null
+}

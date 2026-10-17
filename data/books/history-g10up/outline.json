@@ -1,0 +1,149 @@
+{
+  "textbook": "必修上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "从中华文明起源到秦汉统一",
+      "knowledge_points": [
+        {
+          "name": "中华文明起源与早期国家",
+          "description": "了解早期国家形成与先秦制度。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "秦汉统一多民族封建国家",
+          "description": "掌握秦朝统一与汉朝巩固措施。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "history-g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "隋唐至明清的繁荣与危机",
+      "knowledge_points": [
+        {
+          "name": "隋唐制度与繁荣",
+          "description": "掌握三省六部制、科举制与唐代发展。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "宋元明清的制度与社会变化",
+          "description": "掌握宋元明清政治经济文化变化。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "history-g10up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "晚清与近代中国的探索",
+      "knowledge_points": [
+        {
+          "name": "列强侵略与民族危机",
+          "description": "了解近代主要不平等条约与影响。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "救亡图存的探索",
+          "description": "掌握洋务运动、戊戌变法、辛亥革命与新文化运动。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "history-g10up-u3-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "history-g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "history",
+  "lessons": [
+    {
+      "id": "history-g10up-u1-kp1",
+      "title": "中华文明起源与早期国家",
+      "unitNumber": 1,
+      "unitTitle": "从中华文明起源到秦汉统一",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g10up-u1-kp2",
+      "title": "秦汉统一多民族封建国家",
+      "unitNumber": 1,
+      "unitTitle": "从中华文明起源到秦汉统一",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g10up-u2-kp1",
+      "title": "隋唐制度与繁荣",
+      "unitNumber": 2,
+      "unitTitle": "隋唐至明清的繁荣与危机",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "history-g10up-u2-kp2",
+      "title": "宋元明清的制度与社会变化",
+      "unitNumber": 2,
+      "unitTitle": "隋唐至明清的繁荣与危机",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g10up-u3-kp1",
+      "title": "列强侵略与民族危机",
+      "unitNumber": 3,
+      "unitTitle": "晚清与近代中国的探索",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "history-g10up-u3-kp2",
+      "title": "救亡图存的探索",
+      "unitNumber": 3,
+      "unitTitle": "晚清与近代中国的探索",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

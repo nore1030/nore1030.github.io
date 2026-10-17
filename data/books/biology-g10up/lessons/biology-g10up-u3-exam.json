@@ -1,0 +1,66 @@
+{
+  "id": "biology-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "biology-g10up",
+  "unitNumber": 3,
+  "unitTitle": "细胞的能量供应和利用",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "酶与ATP",
+      "question": "探究酶的最适温度实验中，应（　）",
+      "options": [
+        "直接加酶后测",
+        "先分别保温再混合",
+        "先混合再保温",
+        "在沸水中进行"
+      ],
+      "answer": "先分别保温再混合",
+      "explanation": "控制单一变量。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "酶与ATP",
+      "question": "酶的作用是降低化学反应的活化能。",
+      "options": [],
+      "answer": "对",
+      "explanation": "酶的催化机理。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "光合作用与细胞呼吸",
+      "question": "把植物置于密闭容器中光照一段时间，CO₂ 浓度下降，说明（　）",
+      "options": [
+        "只进行呼吸作用",
+        "光合作用强度大于呼吸作用强度",
+        "只进行光合作用",
+        "呼吸作用停止"
+      ],
+      "answer": "光合作用强度大于呼吸作用强度",
+      "explanation": "净吸收 CO₂。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "光合作用与细胞呼吸",
+      "question": "叶绿体中的色素能吸收光能用于光反应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "色素吸收光能。"
+    }
+  ],
+  "knowledge": null
+}

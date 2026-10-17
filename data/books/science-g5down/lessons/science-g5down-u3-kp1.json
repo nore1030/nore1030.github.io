@@ -1,0 +1,55 @@
+{
+  "id": "science-g5down-u3-kp1",
+  "title": "人类活动引发的环境问题及后果",
+  "bookId": "science-g5down",
+  "unitNumber": 3,
+  "unitTitle": "环境与我们",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "大气污染、水污染和噪声污染都是由自然原因造成的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "目前主要的环境问题大多是由人类活动引起的。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "被称为“地球之肺”的是哪种生态系统？",
+      "options": [
+        "湿地",
+        "草原",
+        "森林",
+        "海洋"
+      ],
+      "answer": "森林",
+      "explanation": "森林通过光合作用吸收二氧化碳排放氧气，对平衡大气成分至关重要。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人类活动引发的环境问题及后果",
+      "question": "大量燃煤排放出的二氧化硫容易导致形成什么？",
+      "options": [
+        "臭氧层空洞",
+        "温室效应",
+        "酸雨",
+        "雾霾"
+      ],
+      "answer": "酸雨",
+      "explanation": "二氧化硫和氮氧化物是形成酸雨的主要物质。"
+    }
+  ],
+  "knowledge": null
+}

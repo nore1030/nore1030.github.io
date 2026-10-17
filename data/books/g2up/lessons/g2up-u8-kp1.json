@@ -1,0 +1,161 @@
+{
+  "id": "g2up-u8-kp1",
+  "title": "简单的排列问题",
+  "bookId": "g2up",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——搭配（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用数字 1 和 2 可以组成 2 个不同的两位数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数字1和2可以组成的两位数有12和21，共2个。验算：由1开头的数有12，由2开头的数有21，没有遗漏 ✓。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 0、1、2 三个数字可以组成 6 个不同的两位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "两位数的最高位不能为0。可以组成的数有：10, 12, 20, 21，共4个。验算：0不能排在十位，所以只有4种可能性 ✓。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用数字 4、6 能组成几个不同的两位数？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "2 个",
+      "explanation": "组成的数是46和64。验证：这两个数不重复且没有其他数字可选 ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用数字 1、2、3 可以组成多少个十位和个位不同的两位数？",
+      "options": [
+        "3 个",
+        "4 个",
+        "5 个",
+        "6 个"
+      ],
+      "answer": "6 个",
+      "explanation": "固定十位：12, 13, 21, 23, 31, 32。共3组，每组2个，$3 \times 2 = 6$。验算：$1 \times 2 \times 3$ 规律适用 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 5、0 两个数字能组成几个不同的两位数？",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "4 个"
+      ],
+      "answer": "1 个",
+      "explanation": "0不能在十位，只有50这一种可能。验证：05不是两位数 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 7, 8, 9 能组成多少个十位是 7 的两位数？（数字不重复）",
+      "options": [
+        "1 个",
+        "2 个",
+        "3 个",
+        "6 个"
+      ],
+      "answer": "2 个",
+      "explanation": "十位固定为7，个位可以是8或9。即78, 79。共2个 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 0, 2, 4 组成的两位数中，最大的数是多少？",
+      "options": [
+        "40",
+        "42",
+        "24",
+        "44"
+      ],
+      "answer": "42",
+      "explanation": "最大数要十位尽可能大，选4，个位选剩下数里最大的，选2（数字不重复）。结果42。验证：$42 > 40$，$42 > 24$ ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 1, 2, 3 三张卡片，能摆出多少个不同的两位数？",
+      "options": [
+        "3 个",
+        "6 个",
+        "9 个",
+        "12 个"
+      ],
+      "answer": "6 个",
+      "explanation": "分情况讨论：十位是1（12, 13），十位是2（21, 23），十位是3（31, 32）。共2+2+2=6个 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用数字 7 和 9 可以组成 ___ 个不同的两位数。",
+      "options": [],
+      "answer": "2",
+      "explanation": "可以组成的数有 79 和 97。$1 \times 2 = 2$。验算：79和97互换位置，没有其他数字，共2个 ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "简单的排列问题",
+      "question": "用 0, 3, 5 三个数字组成的两位数中，最小的一个是 ___ 。",
+      "options": [],
+      "answer": "30",
+      "explanation": "十位不能是0。可选十位有3和5。选最小的3作为十位。个位选剩下数里最小的0。结果是30。验算：30, 35, 50, 53中，30最小 ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "简单的排列问题",
+    "core_concept": "在解决用数字组成两位数这类问题时，数字是有顺序要求的。我们可以通过“固定十位法”进行思考：先选定一个数字放在十位，再把剩下的数字依次放在个位。以此类推，最后把所有情况加起来。注意最高位（如两位数的十位）不能是0。",
+    "key_formula": "情况总数 = 十位可选数 $\\times$ 个位可选数",
+    "common_mistakes": [
+      "把0放在两位数的十位，如 05",
+      "重复计数或遗漏个别数字组成的数"
+    ],
+    "tips": "可以用列表法或固定位置法，按从小到大或从大到小的顺序写，做到既不重复也不遗漏。"
+  }
+}

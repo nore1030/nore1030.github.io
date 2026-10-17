@@ -1,0 +1,32 @@
+{
+  "id": "english-g4down-u5-kp19",
+  "title": "衣物名称匹配",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 15,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "衣物名称匹配",
+      "question": "将下列衣物单词与中文意思连线。",
+      "options": [
+        "jacket",
+        "sweater",
+        "socks",
+        "coat",
+        "毛衣",
+        "大衣",
+        "夹克衫",
+        "袜子"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "jacket-夹克, sweater-毛衣, socks-袜子, coat-大衣。"
+    }
+  ],
+  "knowledge": null
+}

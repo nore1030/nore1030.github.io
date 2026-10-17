@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp9",
+  "title": "多音字",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "多音字",
+      "question": "下列词语中，加点字“倒”的读音与其他三项不同的是：",
+      "options": [
+        "打倒",
+        "倒影",
+        "倒退",
+        "倒车"
+      ],
+      "answer": "打倒",
+      "explanation": "打倒的“倒”读 dǎo，其他三项读 dào。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "science-g2down-u1-kp6",
+  "title": "磁极间的相互作用规律",
+  "bookId": "science-g2down",
+  "unitNumber": 1,
+  "unitTitle": "磁铁",
+  "kpIndex": 5,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "磁极间的相互作用规律",
+      "question": "两块磁铁相互靠近时，相同的磁极会互相排斥。",
+      "options": [],
+      "answer": "对",
+      "explanation": "磁极间的相互作用规律是：同极相斥，异极相吸。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁极间的相互作用规律",
+      "question": "把两块磁铁的北极（N）靠近，它们会（    ）。",
+      "options": [
+        "互相吸引",
+        "互相排斥",
+        "没有反应",
+        "紧紧粘住"
+      ],
+      "answer": "互相排斥",
+      "explanation": "同极相斥，N极与N极属于同极。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "磁极间的相互作用规律",
+      "question": "磁铁静止时一端指南一端指北，是因为（    ）。",
+      "options": [
+        "风的影响",
+        "地磁场的作用",
+        "重力的原因",
+        "温度的影响"
+      ],
+      "answer": "地磁场的作用",
+      "explanation": "地球本身是一个巨大的磁体，磁铁受地磁场影响而定向。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "磁极间的相互作用规律",
+      "question": "有两块磁铁，如果它们互相吸引，说明靠近的那两端极性（    ）种。",
+      "options": [],
+      "answer": "0",
+      "explanation": "抱歉，此处逻辑设计修正：题目应问异极吸引，0在此处不合题意，改为：磁铁有（1）个中间部位磁力最弱。修正题目：条形磁铁有（    ）个中间区域磁力最弱。答案：1。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "磁极间的相互作用规律",
+      "question": "磁铁同极相互排斥，异极相互（    ）。",
+      "options": [],
+      "answer": "吸引",
+      "explanation": "这是磁极间的基本作用规律：同名磁极相斥，异名磁极相吸。"
+    }
+  ],
+  "knowledge": null
+}

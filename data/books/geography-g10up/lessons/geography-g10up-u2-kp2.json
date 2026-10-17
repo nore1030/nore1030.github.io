@@ -1,0 +1,63 @@
+{
+  "id": "geography-g10up-u2-kp2",
+  "title": "水循环与洋流",
+  "bookId": "geography-g10up",
+  "unitNumber": 2,
+  "unitTitle": "地球上的大气与水",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水循环与洋流",
+      "question": "寒暖流交汇处易形成（　）",
+      "options": [
+        "沙漠",
+        "大渔场",
+        "强降水带",
+        "高温区"
+      ],
+      "answer": "大渔场",
+      "explanation": "交汇处易形成渔场。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "水循环与洋流",
+      "question": "水循环使陆地上的淡水资源不断更新。",
+      "options": [],
+      "answer": "对",
+      "explanation": "水循环的意义。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水循环与洋流",
+      "question": "人类活动影响最大的水循环环节是（　）",
+      "options": [
+        "地表径流",
+        "蒸发",
+        "水汽输送",
+        "降水"
+      ],
+      "answer": "地表径流",
+      "explanation": "人类可修水库等影响径流。"
+    }
+  ],
+  "knowledge": {
+    "point": "水循环与洋流",
+    "core_concept": "水循环环节包括蒸发、水汽输送、降水、径流。洋流对气候、渔场、航运和污染有重要影响，寒暖流交汇处易形成大渔场。",
+    "key_formula": "水循环：蒸发—输送—降水—径流",
+    "common_mistakes": [
+      "把洋流的寒暖性质判断错误。"
+    ],
+    "tips": "由低纬流向高纬为暖流。"
+  }
+}

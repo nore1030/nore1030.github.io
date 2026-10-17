@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g8up-u1-kp2",
+  "title": "立方根与无理数",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 1,
+  "unitTitle": "平方根与实数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "立方根与无理数",
+      "question": "$\\sqrt[3]{-27}$ 等于（　）",
+      "options": [
+        "−3",
+        "3",
+        "−27",
+        "无意义"
+      ],
+      "answer": "−3",
+      "explanation": "立方根可为负。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "立方根与无理数",
+      "question": "$\\sqrt[3]{a^3}=a$ 对任意实数 $a$ 成立。",
+      "options": [],
+      "answer": "对",
+      "explanation": "立方根性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "立方根与无理数",
+    "core_concept": "$\\sqrt[3]{a}$ 表示 $a$ 的立方根，$\\sqrt[3]{-8}=-2$。无理数不能表示为分数形式，如 $\\sqrt{2}$、$\\pi$。",
+    "key_formula": "$\\sqrt[3]{a^3}=a$",
+    "common_mistakes": [
+      "认为立方根一定是正数。"
+    ],
+    "tips": "立方根有正有负。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u3-kp5",
+  "title": "修辞方法识别",
+  "bookId": "chinese-g5up",
+  "unitNumber": 3,
+  "unitTitle": "民间故事",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法识别",
+      "question": "“织女在天上闷得不得了，就像笼子里的小鸟。”这句话运用了什么修辞？",
+      "options": [
+        "拟人",
+        "比喻",
+        "排比",
+        "夸张"
+      ],
+      "answer": "比喻",
+      "explanation": "把织女比作笼子里的鸟，表现她渴望自由。"
+    }
+  ],
+  "knowledge": null
+}

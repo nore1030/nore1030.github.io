@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp19",
+  "title": "听力保护",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 13,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "听力保护",
+      "question": "为了保护听力，我们不应该：",
+      "options": [
+        "远离噪音源",
+        "长时间戴耳机听歌",
+        "轻声说话",
+        "遇到巨响张开嘴巴"
+      ],
+      "answer": "长时间戴耳机听歌",
+      "explanation": "长时间近距离声源刺激会损伤听神经和鼓膜。"
+    }
+  ],
+  "knowledge": null
+}

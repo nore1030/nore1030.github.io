@@ -1,0 +1,107 @@
+{
+  "id": "g2up-u6-kp2",
+  "title": "利用乘法口诀求积或因数",
+  "bookId": "g2up",
+  "unitNumber": 6,
+  "unitTitle": "表内乘法（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "$8+8+8+8+8+8$ 可以写成 $8 \\times 6$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "乘法是求几个相同加数和的简便运算，6个8相加记作 $8 \\times 6$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "一个乘数是 8，另一个乘数是 7，积是多少？",
+      "options": [
+        "15",
+        "54",
+        "56",
+        "64"
+      ],
+      "answer": "56",
+      "explanation": "$8 \\times 7 = 56$，口诀：七八五十六。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "在关系式 $( ) \\times 9 < 60$ 中，括号里最大能填几？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "因为 $6 \\times 9 = 54$ ($< 60$)，$7 \\times 9 = 63$ ($> 60$)，所以最大填6。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "在算式 $8 \\times \\Box = 64$ 中，$\\Box$ 里的数是几？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "8",
+      "explanation": "根据口诀“八八六十四”，$\\Box$ 应该是8。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "比较大小：$7 \\times 6$ ( ) $9 \\times 5$。括号里填什么？",
+      "options": [
+        ">",
+        "<",
+        "（空）",
+        "无法比较"
+      ],
+      "answer": "<",
+      "explanation": "$7 \\times 6 = 42$，$9 \\times 5 = 45$，$42 < 45$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "利用乘法口诀求积或因数",
+      "question": "两个因数都是 9，积是 ___ 。",
+      "options": [],
+      "answer": "81",
+      "explanation": "列式：$9 \\times 9 = 81$。验算：口诀“九九八十一” ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "利用乘法口诀求积或因数",
+    "core_concept": "这是乘法运算的核心技能。要求学生能根据算式中的因数快速联想对应的口诀来求积，或者根据已知的积和其中一个因数，通过口诀反推另一个因数。这为以后学习除法打下基础。",
+    "key_formula": "因数 $\\times$ 因数 $=$ 积",
+    "common_mistakes": [
+      "看错符号，把乘法当成加法，如 $8 \\times 7$ 算成 $15$。",
+      "在填括号里的数时（如 $\\Box \\times 8 < 50$），容易填错最大值。"
+    ],
+    "tips": "背诵口诀要做到“对口令”，不仅按序背，更要能打乱顺序随机提取。"
+  }
+}

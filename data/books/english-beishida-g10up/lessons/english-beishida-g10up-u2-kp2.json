@@ -1,0 +1,47 @@
+{
+  "id": "english-beishida-g10up-u2-kp2",
+  "title": "一般现在时的疑问与否定",
+  "bookId": "english-beishida-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 校园与学习",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时的疑问与否定",
+      "question": "___ he like maths? — Yes, he does.",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "answer": "Does",
+      "explanation": "第三人称单数用 Does。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一般现在时的疑问与否定",
+      "question": "doesn't 后面动词要用原形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "助动词后原形。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般现在时的疑问与否定",
+    "core_concept": "一般现在时的否定用 don't/doesn't + 动词原形，疑问用 Do/Does + 主语 + 动词原形。",
+    "key_formula": "Does he like…? — Yes, he does.",
+    "common_mistakes": [
+      "doesn't 后加 -s。"
+    ],
+    "tips": "助动词后原形。"
+  }
+}

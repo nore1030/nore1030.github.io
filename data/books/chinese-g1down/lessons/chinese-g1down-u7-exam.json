@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g1down-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "chinese-g1down",
+  "unitNumber": 7,
+  "unitTitle": "习惯",
+  "kpIndex": 5,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "通知要素提取与撰写",
+      "question": "写通知的时候，要把时间、地点、参加人写清楚。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是通知的三大基本要素。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "“捧”这个动作需要两只手一起来完成。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“捧”通常指两手托着。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "“仔细”的反义词是“马虎”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "仔细指认真，马虎则是其反面含义。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "通知要素提取与撰写",
+      "question": "通知的题目“通知”两个字应该在纸的左边顶格写。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“通知”标题通常居中书写。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "早起一分钟，（ ）能赶上公共汽车。",
+      "options": [
+        "要是",
+        "因为",
+        "就",
+        "虽然"
+      ],
+      "answer": "就",
+      "explanation": "在“要是”后面引导结果时，常用“就”。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "习惯养成",
+      "question": "文文总是不整理书包，导致东西经常丢。文文要把书包（ ）。",
+      "options": [
+        "扔掉",
+        "送人",
+        "整理好",
+        "放地上"
+      ],
+      "answer": "整理好",
+      "explanation": "本单元主题是习惯，整理书包是良好的卫生和学习习惯。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "通知要素提取与撰写",
+      "question": "通知：‘各班班长请于周三下午三点到校医室领消毒液。’通知里谁去？",
+      "options": [
+        "全体同学",
+        "班长",
+        "老师",
+        "校医"
+      ],
+      "answer": "班长",
+      "explanation": "参加人为“各班班长”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词积累",
+      "question": "“非常”的近义词是（ ）。",
+      "options": [
+        "平常",
+        "十分",
+        "只是",
+        "为了"
+      ],
+      "answer": "十分",
+      "explanation": "两个词都表示程度很深。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "修辞方法识别",
+      "question": "“荷叶圆圆的，绿绿的。”这句话描写了荷叶的（ ）。",
+      "options": [
+        "颜色和味道",
+        "形状和高度",
+        "形状和颜色",
+        "大小和长短"
+      ],
+      "answer": "形状和颜色",
+      "explanation": "“圆圆的”是形状，“绿绿的”是颜色。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "珍惜时间观念转化",
+      "question": "元元感到最后悔的事情是（ ）。",
+      "options": [
+        "没吃早饭",
+        "没拿书包",
+        "迟到了",
+        "多睡了一分钟"
+      ],
+      "answer": "多睡了一分钟",
+      "explanation": "正是因为多睡了这一分钟，导致了后续的一系列迟到。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动作连贯词运用",
+      "question": "把手里的东西丢掉，叫作（ ）。",
+      "options": [],
+      "answer": "扔",
+      "explanation": "“扔”是提手旁，意为抛弃。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文字填空",
+      "question": "元元要是早起一分钟，（ ）能赶上公共汽车。",
+      "options": [],
+      "answer": "就",
+      "explanation": "连接关联词语。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "习惯养成",
+      "question": "请将物品与该放的位置连接。",
+      "options": [
+        "垃圾",
+        "书籍",
+        "衣服",
+        "饭碗",
+        "餐桌",
+        "桶里",
+        "书架",
+        "衣柜"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "垃圾放桶里，书籍放书架，衣服放衣柜，饭碗放餐桌。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词积累",
+      "question": "请将生字与偏旁连接。",
+      "options": [
+        "迟",
+        "叹",
+        "钟",
+        "掰",
+        "手部",
+        "走之儿",
+        "口字旁",
+        "金字旁"
+      ],
+      "answer": "A-2,B-3,C-4,D-1",
+      "explanation": "迟-走之儿，叹-口字旁，钟-金字旁，掰-手部。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "通知要素提取与撰写",
+      "question": "连词成句：请大家,操场,到,集合,明天早上",
+      "options": [
+        "请大家",
+        "操场",
+        "到",
+        "集合",
+        "明天早上"
+      ],
+      "answer": "明天早上,请大家,到,操场,集合",
+      "explanation": "时间在前，动词短语在后。"
+    }
+  ],
+  "knowledge": null
+}

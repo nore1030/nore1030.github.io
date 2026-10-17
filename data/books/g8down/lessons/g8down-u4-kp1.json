@@ -1,0 +1,36 @@
+{
+  "id": "g8down-u4-kp1",
+  "title": "函数与变量",
+  "bookId": "g8down",
+  "unitNumber": 4,
+  "unitTitle": "一次函数",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "函数与变量",
+      "question": "下列 $y$ 是 $x$ 的函数的是（　）",
+      "options": [
+        "$y^2=x$",
+        "$y=x+1$",
+        "$|y|=x$",
+        "$x=y^2$"
+      ],
+      "answer": "$y=x+1$",
+      "explanation": "每个 $x$ 对应唯一 $y$。"
+    }
+  ],
+  "knowledge": {
+    "point": "函数与变量",
+    "core_concept": "在一个变化过程中有两个变量 $x$、$y$，对 $x$ 的每一个确定值，$y$ 都有唯一确定的值与之对应，则 $y$ 是 $x$ 的函数。",
+    "key_formula": "$y=f(x)$",
+    "common_mistakes": [
+      "把“唯一确定”忽略。"
+    ],
+    "tips": "看每个 $x$ 是否只对应一个 $y$。"
+  }
+}

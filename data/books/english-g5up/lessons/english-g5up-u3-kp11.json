@@ -1,0 +1,28 @@
+{
+  "id": "english-g5up-u3-kp11",
+  "title": "名词复数",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 6,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名词复数",
+      "question": "I often eat some _____ for lunch.",
+      "options": [
+        "potatos",
+        "potato",
+        "potatoes",
+        "a potato"
+      ],
+      "answer": "potatoes",
+      "explanation": "potato的复数通过加es构造。"
+    }
+  ],
+  "knowledge": null
+}

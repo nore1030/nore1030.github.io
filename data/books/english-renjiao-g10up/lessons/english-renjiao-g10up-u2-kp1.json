@@ -1,0 +1,63 @@
+{
+  "id": "english-renjiao-g10up-u2-kp1",
+  "title": "旅行词汇 travel plan / transport",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Travelling Around 旅行",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel plan / transport",
+      "question": "「旅行计划」的英文是（　）",
+      "options": [
+        "travel plan",
+        "traveling plan",
+        "travell plan",
+        "travel plane"
+      ],
+      "answer": "travel plan",
+      "explanation": "travel plan。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel plan / transport",
+      "question": "「交通」的英文是（　）",
+      "options": [
+        "transport",
+        "transpot",
+        "transporrt",
+        "transportt"
+      ],
+      "answer": "transport",
+      "explanation": "transport 交通。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel plan / transport",
+      "question": "package tour 的意思是「包价旅游」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "package tour。"
+    }
+  ],
+  "knowledge": {
+    "point": "旅行词汇 travel plan / transport",
+    "core_concept": "travel plan 旅行计划、package tour 包价游、transport 交通、application 申请、passport 护照。",
+    "key_formula": "book air tickets 订机票",
+    "common_mistakes": [
+      "transport 拼写错误。"
+    ],
+    "tips": "trans- 前缀 + port。"
+  }
+}

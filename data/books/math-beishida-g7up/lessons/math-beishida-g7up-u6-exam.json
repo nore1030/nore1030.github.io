@@ -1,0 +1,71 @@
+{
+  "id": "math-beishida-g7up-u6-exam",
+  "title": "第 6 单元挑战",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第六章 数据的收集与整理",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "统计图的选择",
+      "question": "要清楚看出各部分与总数的关系，选（　）",
+      "options": [
+        "扇形统计图",
+        "条形统计图",
+        "折线统计图",
+        "复式统计表"
+      ],
+      "answer": "扇形统计图",
+      "explanation": "占比看扇形。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "统计图的选择",
+      "question": "比较各班人数多少，选（　）",
+      "options": [
+        "条形统计图",
+        "扇形统计图",
+        "折线统计图",
+        "雷达图"
+      ],
+      "answer": "条形统计图",
+      "explanation": "数量多少看条形。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "数据的收集与表示",
+      "question": "统计数据要真实，不能编造。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数据真实性。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "普查与抽样调查",
+      "question": "检测一批灯泡的使用寿命，宜采用（　）",
+      "options": [
+        "抽样调查",
+        "普查",
+        "全部测到坏",
+        "不检测"
+      ],
+      "answer": "抽样调查",
+      "explanation": "破坏性检测用抽样。"
+    }
+  ],
+  "knowledge": null
+}

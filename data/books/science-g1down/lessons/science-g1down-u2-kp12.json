@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp12",
+  "title": "蜗牛的身体结构",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 5,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蜗牛的身体结构",
+      "question": "蜗牛的眼睛长在哪里？",
+      "options": [
+        "长在壳上",
+        "长在腹部",
+        "长在长触角的顶端",
+        "长在口的两侧"
+      ],
+      "answer": "长在长触角的顶端",
+      "explanation": "蜗牛有两对触角，眼睛位于较长的那一对触角的顶端。"
+    }
+  ],
+  "knowledge": null
+}

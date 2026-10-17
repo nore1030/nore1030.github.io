@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g2down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chinese-g2down",
+  "unitNumber": 3,
+  "unitTitle": "传统文化与识字",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "在造纸术发明前，贝壳曾被当作货币使用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文《“贝”的故事》中提到古人把贝壳作为钱币。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "端午节是为了纪念屈原而设立的，习俗有划龙舟。",
+      "options": [],
+      "answer": "对",
+      "explanation": "常识与课文内容结合，说法正确。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "长江是我们国家长度第一的长河。",
+      "options": [],
+      "answer": "对",
+      "explanation": "长江是亚洲第一、中国第一长河。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "中秋节过完之后，下一个紧接着的传统节日是春节。",
+      "options": [],
+      "answer": "错",
+      "explanation": "中秋（八月十五）后还有重阳（九月初九）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "看到部首“火”，我能想到这个字多与火有关；看到“贝”，我能想到这个字多与（）有关。",
+      "options": [
+        "大海",
+        "钱财",
+        "甲壳动物",
+        "心情"
+      ],
+      "answer": "钱财",
+      "explanation": "根据形声字和象形字的演变，贝字旁多表示钱财。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "“人团圆，吃月饼”描写的节日是：",
+      "options": [
+        "中秋节",
+        "元宵节",
+        "清明节",
+        "七夕节"
+      ],
+      "answer": "中秋节",
+      "explanation": "中秋节的特点是赏月、团圆、吃月饼。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "阅读《神州谣》片段：“各民族，情谊深，齐奋发，共繁荣。”这里体现了什么精神？",
+      "options": [
+        "民族团结",
+        "热爱劳动",
+        "诚实守信",
+        "刻苦学习"
+      ],
+      "answer": "民族团结",
+      "explanation": "情谊深、齐奋发描述了民族之间的紧密关系。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "按照一年的先后顺序，在“端午节”之前的是哪个节日？",
+      "options": [
+        "中秋节",
+        "清明节",
+        "重阳节",
+        "元宵节"
+      ],
+      "answer": "清明节",
+      "explanation": "顺序：元宵-清明-端午-中秋。端午之前是清明。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "烹饪动作动词的分类与应用",
+      "question": "下列美食中，哪一种主要是通过“炸”来制作的？",
+      "options": [
+        "烤鸭",
+        "油条",
+        "清蒸鱼",
+        "红烧肉"
+      ],
+      "answer": "油条",
+      "explanation": "油条是典型的油炸食品。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "“华夏”一词中，“华”字在这里的意思最接近：",
+      "options": [
+        "花朵",
+        "光彩",
+        "繁盛、美",
+        "姓氏"
+      ],
+      "answer": "繁盛、美",
+      "explanation": "中国古称华夏，意为衣冠之美、礼仪之大。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "中国地理版图与民族概念识记",
+      "question": "我们通常把长江和（___）称为中华民族的摇篮。",
+      "options": [],
+      "answer": "黄河",
+      "explanation": "黄河和长江是我们的两条母亲河。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "端午节人们除了赛龙舟，还要吃（___）。",
+      "options": [],
+      "answer": "粽子",
+      "explanation": "端午吃粽子是核心习俗。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "“贝”字旁与汉字造字意图",
+      "question": "请将含有相同部首的生字进行连线归类。",
+      "options": [
+        "财",
+        "烧",
+        "辣",
+        "鹅",
+        "火",
+        "贝",
+        "鸟",
+        "辛"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "财-贝；烧-火；辣-辛；鹅-鸟。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "请将节日与其描述的诗句/民俗对应。",
+      "options": [
+        "清明",
+        "七夕",
+        "中秋",
+        "重阳",
+        "赏月",
+        "祭祖",
+        "登高",
+        "乞巧"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "清明祭祖，七夕乞巧，中秋赏月，重阳登高。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "传统节日习俗与时间排序",
+      "question": "连词成句，描述中秋节：",
+      "options": [
+        "月儿圆",
+        "吃月饼",
+        "中秋到",
+        "人团圆"
+      ],
+      "answer": "中秋到,月儿圆,人团圆,吃月饼",
+      "explanation": "按照课文中的对仗结构排序。"
+    }
+  ],
+  "knowledge": null
+}

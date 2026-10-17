@@ -1,0 +1,66 @@
+{
+  "id": "english-hujiao-g8up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 日常生活 / Daily life",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一日作息",
+      "question": "He never ___ late for school.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "主语 He 用 is。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家务与兴趣",
+      "question": "I like ___ books in the evening.",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "to read"
+      ],
+      "answer": "reading",
+      "explanation": "like 后可接 doing。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一日作息",
+      "question": "频度副词 always 表示频率最高。",
+      "options": [],
+      "answer": "对",
+      "explanation": "频度频率。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "家务与兴趣",
+      "question": "help with sth 表示在某方面提供帮助。",
+      "options": [],
+      "answer": "对",
+      "explanation": "help with。"
+    }
+  ],
+  "knowledge": null
+}

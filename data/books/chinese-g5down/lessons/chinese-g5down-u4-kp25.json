@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g5down-u4-kp25",
+  "title": "语序排列",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 21,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语序排列",
+      "question": "请将下列短语组成一句赞美刘伯承的话：",
+      "options": [
+        "刘伯承",
+        "意志的",
+        "是一块",
+        "会说话的",
+        "钢板"
+      ],
+      "answer": "刘伯承,是一块,会说话的,意志的,钢板",
+      "explanation": "出自《军神》，形容刘伯承意志极其坚强。"
+    }
+  ],
+  "knowledge": null
+}

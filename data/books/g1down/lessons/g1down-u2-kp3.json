@@ -1,0 +1,118 @@
+{
+  "id": "g1down-u2-kp3",
+  "title": "解决问题（求剩余、求差）",
+  "bookId": "g1down",
+  "unitNumber": 2,
+  "unitTitle": "20以内的退位减法",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "小明有 15 本课外书，小刚有 8 本，小刚比小明少 7 本。",
+      "options": [],
+      "answer": "对",
+      "explanation": "求两数相差多少用减法。$15 - 8 = 7$（本）。验算：$8 + 7 = 15$，结论正确。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "草地上有 12 只兔子，跑走了 4 只，还剩下 9 只。",
+      "options": [],
+      "answer": "错",
+      "explanation": "$12 - 4 = 8$（只），而不是 9 只。验算：$8 + 4 = 12$。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "小红要做 12 朵红花，已经做了 7 朵，还要做多少朵？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "$12 - 7 = 5$（朵）。验算：$5 + 7 = 12$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "树上有 14 只鸟，飞走了一些后，还剩下 5 只，飞走了几只？",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "9",
+      "explanation": "飞走的数量 = 总共的 - 剩下的。$14 - 5 = 9$（只）。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "操场上有 13 个小朋友在跳绳，其中男生有 7 个。女生比男生少几个人？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1",
+      "explanation": "先算女生人数：$13 - 7 = 6$（个）。再比多少：$7 - 6 = 1$（个）。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "图书角一共有 15 本书，借走了 6 本。剩下的比借走的：",
+      "options": [
+        "多",
+        "少",
+        "一样多",
+        "无法判断"
+      ],
+      "answer": "多",
+      "explanation": "剩下：$15 - 6 = 9$（本）。借走 6 本，$9 > 6$，所以剩下的多。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决问题（求剩余、求差）",
+      "question": "排队做操，小红前面有 5 人，后面有 7 人，这一排一共有 ___ 人。",
+      "options": [],
+      "answer": "13",
+      "explanation": "总人数 = 前面的人数 + 后面的人数 + 小红本人。$5 + 7 + 1 = 13$（人）。"
+    }
+  ],
+  "knowledge": {
+    "point": "解决问题（求剩余、求差）",
+    "core_concept": "理解减法的实际意义：从总数里去掉一部分求剩下的（求剩余），或者比较两组物体之间多多少、少多少（求差）。关键在于找准“总数”和“要去掉的一部分”。",
+    "key_formula": "$\text{部分} = \text{总数} - \text{另一部分}$",
+    "common_mistakes": [
+      "看到题目中有“多”字就误用加法，不理解“大数减小数等于相差数”。",
+      "在有干扰信息的应用题中，误将无关的数字参与计算。"
+    ],
+    "tips": "读题时圈出关键词和数字。如果是求“还要做多少”或“还剩多少”，通常用减法；如果是问“比谁多/少”，一律用大数减小数。"
+  }
+}

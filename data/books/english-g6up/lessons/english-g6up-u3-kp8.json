@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u3-kp8",
+  "title": "词汇搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 4,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "词汇搭配",
+      "question": "'post office' 是'邮局'的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "post office 是固定词组，指邮局。"
+    }
+  ],
+  "knowledge": null
+}

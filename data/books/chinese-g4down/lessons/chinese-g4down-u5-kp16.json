@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp16",
+  "title": "字词含义",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字词含义",
+      "question": "“变化多端”的“端”在这里的意思是？",
+      "options": [
+        "项目、方面",
+        "端正",
+        "用手托住",
+        "尽头"
+      ],
+      "answer": "项目、方面",
+      "explanation": "在该成语中指变化的方式、方面非常多。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp13",
+  "title": "蒸发",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 7,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "蒸发",
+      "question": "在两块同样的玻璃片上分别滴一滴水，将其中的一滴涂开，发现涂开的水干得快。这说明（）。",
+      "options": [
+        "温度越高蒸发越快",
+        "空气流动越快蒸发越快",
+        "表面积越大蒸发越快",
+        "水的多少影响蒸发"
+      ],
+      "answer": "表面积越大蒸发越快",
+      "explanation": "涂开增加了水与空气接触的表面积，从而加速蒸发。"
+    }
+  ],
+  "knowledge": null
+}

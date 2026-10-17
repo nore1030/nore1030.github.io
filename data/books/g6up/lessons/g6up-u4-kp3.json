@@ -1,0 +1,134 @@
+{
+  "id": "g6up-u4-kp3",
+  "title": "按比例分配问题",
+  "bookId": "g6up",
+  "unitNumber": 4,
+  "unitTitle": "比",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "按比例分配问题",
+      "question": "把10克盐放入100克水中，盐和盐水的比是1:11。",
+      "options": [],
+      "answer": "对",
+      "explanation": "盐是10克，盐水是$10+100=110$克。比是$10:110 = 1:11$。验算：$1/11 = 10/110$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按比例分配问题",
+      "question": "一个三角形三个内角的度数比是 1:1:2，这个三角形是：",
+      "options": [
+        "等腰直角三角形",
+        "等边三角形",
+        "钝角三角形",
+        "锐角三角形"
+      ],
+      "answer": "等腰直角三角形",
+      "explanation": "总份数 $1+1+2=4$。最大角 $180 \\times (2/4) = 90$度，且有两个角相等，是等腰直角三角形。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按比例分配问题",
+      "question": "学校买来300本课外书，按 2:3 分给五、六年级，六年级分得多少本？",
+      "options": [
+        "180",
+        "120",
+        "200",
+        "150"
+      ],
+      "answer": "180",
+      "explanation": "总份数 $2+3=5$。六年级占 3/5。$300 \\times (3/5) = 180$（本）。验算：$300-180=120$，120:180=2:3 ✓。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按比例分配问题",
+      "question": "一段路，甲走完用4小时，乙走完用5小时。甲、乙的速度比是：",
+      "options": [
+        "5:4",
+        "4:5",
+        "1/4:1/5",
+        "1:1"
+      ],
+      "answer": "5:4",
+      "explanation": "路程一定，速度比是时间比的反比。$1/4 : 1/5 = 5:4$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "按比例分配问题",
+      "question": "甲、乙两数和是60，甲、乙两数比是 3:2，甲数是多少？",
+      "options": [
+        "36",
+        "24",
+        "40",
+        "30"
+      ],
+      "answer": "36",
+      "explanation": "总份数 $3+2=5$。甲占 3/5。$60 \\times (3/5) = 36$。验算：乙为$60-36=24$，36:24=3:2 ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "按比例分配问题",
+      "question": "一根长40厘米的铁丝围成一个长方形，长与宽的比是 3:2，这个长方形的面积是：",
+      "options": [
+        "96",
+        "240",
+        "150",
+        "384"
+      ],
+      "answer": "96",
+      "explanation": "一条长与宽的和是 $40 \\div 2 = 20$。长 $20 \\times (3/5)=12$，宽 $20 \\times (2/5)=8$。$12 \\times 8 = 96$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "按比例分配问题",
+      "question": "果园里桃树和梨树共 120 棵，它们的比是 3:1，梨树有 ___ 棵。",
+      "options": [],
+      "answer": "30",
+      "explanation": "总份数 $3+1=4$。梨树占 1/4。$120 \\div 4 = 30$（棵）。验算：桃树90棵，$90+30=120$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "按比例分配问题",
+      "question": "计算 $450 \\times \\frac{2}{9} = ?$",
+      "options": [],
+      "answer": "100",
+      "explanation": "$450 \\div 9 = 50$, $50 \\times 2 = 100$。验算：$100 \\div (2/9) = 100 \\times 4.5 = 450$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "按比例分配问题",
+    "core_concept": "在工业生产和日常生活中，常常需要把一个数量按照一定的比来进行分配。通常做法是先算出总份数，再求出各部分占总量的几分之几，最后计算实际值。",
+    "key_formula": "某部分量 = 总量 $\\times \\frac{该部分份数}{总份数}$",
+    "common_mistakes": [
+      "计算各部分占比时，分母没有用各份数之和",
+      "围篱笆或求面积题中，误将周长直接按比分配（应先求长与宽的和）"
+    ],
+    "tips": "做题三部曲：求总份数、求分率、求部分量。最后别忘了把各部分加起来看看是不是等于总量。"
+  }
+}

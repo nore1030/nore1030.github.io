@@ -1,0 +1,125 @@
+{
+  "id": "science-g5up-u3-kp3",
+  "title": "单摆的等时性与摆长规律",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 2,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "摆绳越短，摆动得越慢；摆绳越长，摆动得越快。",
+      "options": [],
+      "answer": "错",
+      "explanation": "摆的快慢与摆长有关，摆绳越长，摆动越慢；摆绳越短，摆动越快。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "有一个摆钟每天慢了1分钟，为了让它走时准确，应该怎么调节？",
+      "options": [
+        "增加摆绳的长度",
+        "减小摆绳的长度",
+        "增加摆锤的重量",
+        "减小摆锤的重量"
+      ],
+      "answer": "减小摆绳的长度",
+      "explanation": "摆钟慢了说明摆动频率过低，需要缩短摆绳使摆动加快。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "同一个单摆，在连续三个10秒内的摆动次数会呈现什么趋势？",
+      "options": [
+        "逐渐增多",
+        "逐渐减少",
+        "保持不变",
+        "先增多后减少"
+      ],
+      "answer": "保持不变",
+      "explanation": "单摆具有等时性，相同时间内摆动次数基本相等。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "如果想把单摆的周期延长两倍，理想的方法是改变什么？",
+      "options": [
+        "增加摆绳长度",
+        "增加摆锤重力",
+        "减小摆长",
+        "固定摆动角度"
+      ],
+      "answer": "增加摆绳长度",
+      "explanation": "改变摆长是调节周期的唯一有效物理因素。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "决定摆的快慢的根本因素是摆绳的哪一项指标？",
+      "options": [
+        "颜色",
+        "材质",
+        "重量",
+        "长度"
+      ],
+      "answer": "长度",
+      "explanation": "摆的快慢取决于摆绳的有效长度（即摆长）。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "下面关于摆的说法正确的是什么？",
+      "options": [
+        "摆锤越重摆动越快",
+        "摆绳越长周期越大",
+        "摆幅越大摆动越快",
+        "摆的外部形状决定频率"
+      ],
+      "answer": "摆绳越长周期越大",
+      "explanation": "摆长决定周期，正相关关系。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "摆绳顶端到摆锤重心的距离我们称之为（___）。",
+      "options": [],
+      "answer": "摆长",
+      "explanation": "科学术语定义摆长为悬挂点到重心的距离。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "单摆的等时性与摆长规律",
+      "question": "伽利略发现在一定角度内，摆由于具有（___），所以可以用来计时。",
+      "options": [],
+      "answer": "等时性",
+      "explanation": "单摆最重要的特征就是等时性。"
+    }
+  ],
+  "knowledge": null
+}

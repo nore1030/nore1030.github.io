@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g10up-u5-exam",
+  "title": "第 5 单元挑战",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 5,
+  "unitTitle": "Unit 5 Languages Around the World 世界语言",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "语言词汇 dialect / character",
+      "question": "「母语」的英文是（　）",
+      "options": [
+        "native language",
+        "nature language",
+        "natvie language",
+        "national language"
+      ],
+      "answer": "native language",
+      "explanation": "native language。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "英语的传播与变体",
+      "question": "「复数」的英文是（　）",
+      "options": [
+        "plural",
+        "plurall",
+        "plurl",
+        "plaral"
+      ],
+      "answer": "plural",
+      "explanation": "plural 复数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "语言词汇 dialect / character",
+      "question": "汉字是表意文字，有悠久历史。",
+      "options": [],
+      "answer": "对",
+      "explanation": "文化常识。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "英语的传播与变体",
+      "question": "「世界上有许多人说英语。」的英文是（　）",
+      "options": [
+        "Many people speak English in the world.",
+        "Many people speak English in world.",
+        "Many people speaks English in the world.",
+        "Much people speak English in the world."
+      ],
+      "answer": "Many people speak English in the world.",
+      "explanation": "people 复数概念。"
+    }
+  ],
+  "knowledge": null
+}

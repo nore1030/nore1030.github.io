@@ -1,0 +1,23 @@
+{
+  "id": "science-g6up-u1-kp7",
+  "title": "放大镜的特征",
+  "bookId": "science-g6up",
+  "unitNumber": 1,
+  "unitTitle": "微小世界",
+  "kpIndex": 0,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "放大镜的特征",
+      "question": "放大镜的镜片中央厚、边缘薄，这种结构的镜片也叫凸透镜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "凸透镜的物理特征就是中央厚、边缘薄，具有放大物像的功能。"
+    }
+  ],
+  "knowledge": null
+}

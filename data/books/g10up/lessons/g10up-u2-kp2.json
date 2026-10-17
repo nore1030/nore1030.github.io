@@ -1,0 +1,47 @@
+{
+  "id": "g10up-u2-kp2",
+  "title": "一元二次不等式与三个二次关系",
+  "bookId": "g10up",
+  "unitNumber": 2,
+  "unitTitle": "一元二次函数、方程和不等式",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "一元二次不等式与三个二次关系",
+      "question": "不等式 $x^2-5x+6<0$ 的解集是（　）",
+      "options": [
+        "$2<x<3$",
+        "$x<2$ 或 $x>3$",
+        "$-3<x<-2$",
+        "$x<-3$ 或 $x>-2$"
+      ],
+      "answer": "$2<x<3$",
+      "explanation": "$(x-2)(x-3)<0$，取中间。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一元二次不等式与三个二次关系",
+      "question": "若 $\\Delta<0$ 且 $a>0$，则 $ax^2+bx+c>0$ 的解集为 $\\mathbb R$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "开口向上且无实根，恒正。"
+    }
+  ],
+  "knowledge": {
+    "point": "一元二次不等式与三个二次关系",
+    "core_concept": "解一元二次不等式 $ax^2+bx+c>0(a>0)$，可借助对应函数图象与方程根，按“大于取两边、小于取中间”取解集。",
+    "key_formula": "$\\Delta=b^2-4ac$",
+    "common_mistakes": [
+      "二次项系数为负时忘记变号。"
+    ],
+    "tips": "先化 $a>0$ 再解。"
+  }
+}

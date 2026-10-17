@@ -1,0 +1,52 @@
+{
+  "id": "english-hujiao-g3up-u6-kp2",
+  "title": "表达年龄 I'm nine (years old)",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 2 My family, my friends and me — Me 我自己",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达年龄 I'm nine (years old)",
+      "question": "「我九岁。」的英文是（　）",
+      "options": [
+        "I'm nine.",
+        "I have nine.",
+        "I'm nine year.",
+        "My nine."
+      ],
+      "answer": "I'm nine.",
+      "explanation": "年龄用 I'm + 数字。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "表达年龄 I'm nine (years old)",
+      "question": "询问对方年龄应说（　）",
+      "options": [
+        "How old are you?",
+        "How are you?",
+        "What's your name?",
+        "Are you nine?"
+      ],
+      "answer": "How old are you?",
+      "explanation": "How old 问年龄。"
+    }
+  ],
+  "knowledge": {
+    "point": "表达年龄 I'm nine (years old)",
+    "core_concept": "表达年龄：I'm nine. 或 I'm nine years old. 询问用 How old are you?",
+    "key_formula": "How old are you? — I'm nine.",
+    "common_mistakes": [
+      "说成 I have nine.（×）"
+    ],
+    "tips": "年龄用 be 动词，不用 have。"
+  }
+}

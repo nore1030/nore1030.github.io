@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g3up-u6-kp1",
+  "title": "自我介绍 I'm…",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Module 2 My family, my friends and me — Me 我自己",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自我介绍 I'm…",
+      "question": "「我是一名小学生。」的英文是（　）",
+      "options": [
+        "I'm a pupil.",
+        "I'm pupil.",
+        "I a pupil.",
+        "I'm an pupil."
+      ],
+      "answer": "I'm a pupil.",
+      "explanation": "身份前加 a。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "自我介绍 I'm…",
+      "question": "I'm 是 I am 的缩写。",
+      "options": [],
+      "answer": "对",
+      "explanation": "缩写形式。"
+    }
+  ],
+  "knowledge": {
+    "point": "自我介绍 I'm…",
+    "core_concept": "I'm = I am，后接名字（I'm Tom）或身份（I'm a pupil）。",
+    "key_formula": "I'm Tom. I'm a pupil.",
+    "common_mistakes": [
+      "I'm 后漏掉 a：I'm pupil（×）。"
+    ],
+    "tips": "职业/身份前加 a。"
+  }
+}

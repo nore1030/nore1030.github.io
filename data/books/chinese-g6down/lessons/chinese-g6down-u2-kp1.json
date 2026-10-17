@@ -1,0 +1,86 @@
+{
+  "id": "chinese-g6down-u2-kp1",
+  "title": "作品梗概的阅读与编写",
+  "bookId": "chinese-g6down",
+  "unitNumber": 2,
+  "unitTitle": "外国文学名著",
+  "kpIndex": 0,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "《鲁滨逊漂流记》的梗概部分是按照时间顺序来介绍情节的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "梗概通常按照故事发展的先后顺序进行叙述，使脉络清晰。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "写作品梗概时，为了吸引读者，可以加入大量的心理描写和修辞手法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "梗概应语言简练，重点突出主干情节，不宜有过多的细节描写。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "阅读课文《鲁滨逊漂流记》节选，鲁滨逊通过什么方式来记录日期？",
+      "options": [
+        "在树干上刻痕",
+        "在沙滩上写字",
+        "收集小石头",
+        "用绳子打结"
+      ],
+      "answer": "在树干上刻痕",
+      "explanation": "课文明确记载他用刀在木柱上刻痕来计算日期。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "给《鲁滨逊漂流记》的故事阶段拟小标题，最合适的一组是：",
+      "options": [
+        "流落荒岛—建房定居—营救“星期五”—回到英国",
+        "出海经商—遇到风暴—学会农耕—救下野人",
+        "遭遇海难—荒岛生活—回到家乡—再次出海",
+        "荒岛求生—遇到土著—制造木船—定居荒岛"
+      ],
+      "answer": "流落荒岛—建房定居—营救“星期五”—回到英国",
+      "explanation": "这四个标题涵盖了作品梗概的主要时间节点和关键情节。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "作品梗概的阅读与编写",
+      "question": "鲁滨逊在荒岛上救下的野人叫（ ）。",
+      "options": [],
+      "answer": "星期五",
+      "explanation": "因为是在星期五救下的，所以起名为星期五。"
+    }
+  ],
+  "knowledge": {
+    "point": "作品梗概的阅读与编写",
+    "core_concept": "梗概是对原著主干情节的精练概括。编写时需保留“三要素”：故事背景、主要人物、核心事件。通常按照“开端—发展—高潮—结局”的脉络，用简练的语言连接。编写步骤包括：读懂内容、筛选主干、连贯表述。",
+    "key_formula": "梗概 = 谁 + 在什么地方/时间 + 做了什么 + 结果如何",
+    "common_mistakes": [
+      "堆砌词藻：写梗概时像写作文一样加入大量环境描写，导致重点不突出。",
+      "情节断裂：只写精彩片段而忽略了情节之间的因果转换关系。"
+    ],
+    "tips": "尝试用“小标题”法，即先把每部分内容概括成4-6字的短语，再以此为骨架串连成文。"
+  }
+}

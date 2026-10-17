@@ -1,0 +1,217 @@
+{
+  "id": "g6up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "g6up",
+  "unitNumber": 2,
+  "unitTitle": "位置与方向（二）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "只要有方向，无论距离多远，都能准确找到目的地。",
+      "options": [],
+      "answer": "错",
+      "explanation": "描述位置必须具备方向和距离两个要素，否则无法确定具体点。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "观测点的相对性",
+      "question": "小明在小红的东偏北 20 度，则小红在小明的北偏东 20 度。",
+      "options": [],
+      "answer": "错",
+      "explanation": "相对方向应为南偏西 20 度。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "比例尺 1:1000 表示图上 1 厘米等于实际 10 米。",
+      "options": [],
+      "answer": "对",
+      "explanation": "1 厘米的 1000 倍是 1000 厘米，即 10 米。验算：$1000 \\text{ cm} = 10 \\text{ m}$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "如果从 A 到 B 先向北走 100 米，再向东走 100 米。那么从 B 到 A 直接走直线，应该向南偏西 45 度走。",
+      "options": [],
+      "answer": "对",
+      "explanation": "A 在 B 的西偏南 45 度（或南偏西 45 度）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "已知图书馆在学校的东偏北 35 度方向，则图书馆与正北方向的夹角是：",
+      "options": [
+        "35度",
+        "45度",
+        "55度",
+        "65度"
+      ],
+      "answer": "55度",
+      "explanation": "$90 - 35 = 55$ 度。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "学校在公园的正南方向 500 米，超市在公园的正北方向 300 米，超市在学校的：",
+      "options": [
+        "正北 800 米",
+        "正南 800 米",
+        "正北 200 米",
+        "正南 200 米"
+      ],
+      "answer": "正北 800 米",
+      "explanation": "以公园为 0 点，超市在 +300，学校在 -500。距离为 $300 - (-500) = 800$ 米，方向是北方。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "有一幅比例尺为 1:200000 的地图，图上 5 厘米代表实际距离多少千米？",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "100"
+      ],
+      "answer": "10",
+      "explanation": "$5 \\times 200000 = 1000000$ 厘米 $= 10$ 千米。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "某人先向东走 40 米，再向南走 30 米。他离起点的距离是：",
+      "options": [
+        "70 米",
+        "50 米",
+        "10 米",
+        "40 米"
+      ],
+      "answer": "50 米",
+      "explanation": "勾股定理：$30^2 + 40^2 = 50^2$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "一辆车向北偏东 45 度方向行驶了 10 公里。若要回到原点，应该：",
+      "options": [
+        "南偏西 45 度走 10 公里",
+        "北偏西 45 度走 10 公里",
+        "南偏东 45 度走 10 公里",
+        "正西走 10 公里"
+      ],
+      "answer": "南偏西 45 度走 10 公里",
+      "explanation": "返回原点需走相反方向。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "在描述一个位置时，为了更精确，通常把角度控制在多少度以内？",
+      "options": [
+        "30",
+        "45",
+        "60",
+        "90"
+      ],
+      "answer": "45",
+      "explanation": "通常使用较小的角（0-45度）来描述，如东偏北 30 度而不是北偏东 60 度，但这只是习惯。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "从学校去少年宫，先向东偏北 30 度走 400 米，再向东走 200 米。返回时，应先向哪走？",
+      "options": [
+        "正西走 200 米",
+        "西偏南 30 度走 400 米",
+        "正西走 400 米",
+        "东偏北 30 度走 200 米"
+      ],
+      "answer": "正西走 200 米",
+      "explanation": "返回时路线步骤完全逆序且方向相反。最后一步是向东，所以返回第一步是向西。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "机器人从原点出发，先向北走 1 米，再向东走 1 米，再向南走 1 米。这时它在原点的：",
+      "options": [
+        "正东 1 米",
+        "正西 1 米",
+        "正南 1 米",
+        "回到原点"
+      ],
+      "answer": "正东 1 米",
+      "explanation": "北和南抵消，只剩下向东 1 米。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "在比例尺 1:500 的一张图纸上，一个建筑的长度画了 8 厘米。这个建筑的实际长度是 ___ 米。",
+      "options": [],
+      "answer": "40",
+      "explanation": "实际距离 = $8 \\times 500 = 4000$（厘米）。$4000$ 厘米 $= 40$ 米。验算：$40 \\div 8 = 5$（米/厘米）✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "根据方向和距离确定位置",
+      "question": "指南针上，南和东两个方向之间的夹角是 ___ 度。",
+      "options": [],
+      "answer": "90",
+      "explanation": "四个主要方向两两垂直。验算：$360 \\div 4 = 90$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "描述简单的行走路线",
+      "question": "计算：$200 + 300 = ?$",
+      "options": [],
+      "answer": "500",
+      "explanation": "$200 + 300 = 500$。验算：$500 - 300 = 200$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

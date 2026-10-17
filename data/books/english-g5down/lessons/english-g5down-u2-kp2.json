@@ -1,0 +1,100 @@
+{
+  "id": "english-g5down-u2-kp2",
+  "title": "询问并表达最喜欢的季节及原因",
+  "bookId": "english-g5down",
+  "unitNumber": 2,
+  "unitTitle": "My favourite season",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "因为喜欢玩雪，所以喜欢夏天的表达是正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "玩雪通常发生在winter（冬天）而不是summer（夏天）。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "I like summer ________ I can go swimming.",
+      "options": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": "because",
+      "explanation": "表达喜欢的理由使用连词because。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "Which season does she ________ best?",
+      "options": [
+        "likes",
+        "like",
+        "liked",
+        "liking"
+      ],
+      "answer": "like",
+      "explanation": "助动词does后动词使用原形。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "— I like winter best. \r\n— ________.",
+      "options": [
+        "Me too",
+        "Me neither",
+        "Yes",
+        "No"
+      ],
+      "answer": "Me too",
+      "explanation": "表示我也一样，用Me too。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "I like spring ________ the weather is pretty.",
+      "options": [],
+      "answer": "because",
+      "explanation": "引导原因状语从句用because。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问并表达最喜欢的季节及原因",
+      "question": "连词成句：[season, Which, you, best, like, ?]",
+      "options": [
+        "season",
+        "Which",
+        "you",
+        "best",
+        "like",
+        "?"
+      ],
+      "answer": "Which,season,like,you,best,?",
+      "explanation": "特殊疑问句结构：疑问词+名词+助动词(此处省略do)+主语+动词。"
+    }
+  ],
+  "knowledge": null
+}

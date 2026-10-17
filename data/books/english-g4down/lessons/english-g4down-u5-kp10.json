@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp10",
+  "title": "询问归属",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问归属",
+      "question": "______ hat is this? It's Mike's.",
+      "options": [
+        "Whose",
+        "Who",
+        "What",
+        "Where"
+      ],
+      "answer": "Whose",
+      "explanation": "针对物品归属提问用Whose。"
+    }
+  ],
+  "knowledge": null
+}

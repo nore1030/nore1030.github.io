@@ -1,0 +1,131 @@
+{
+  "id": "chinese-g1down-u5-kp1",
+  "title": "动物动作动宾短语",
+  "bookId": "chinese-g1down",
+  "unitNumber": 5,
+  "unitTitle": "识字（二）",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "“蜘蛛结网”中，“结”是动物的动作。",
+      "options": [],
+      "answer": "对",
+      "explanation": "蜘蛛是主语，结网是动宾短语，结是动词动作。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "看下面的小短文：\n\n夏天到，蜻蜓低飞要下雨，蚂蚁忙着搬家去。小鱼游到水面来，吐着气泡真有趣。\n\n文中提到的小鱼在干什么？",
+      "options": [
+        "结网",
+        "吐泡泡",
+        "搬家",
+        "飞舞"
+      ],
+      "answer": "吐泡泡",
+      "explanation": "文中明确提到“吐着气泡”。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "“蚯蚓（  ）土。”横线上填哪个词最合适？",
+      "options": [
+        "展翅",
+        "松",
+        "采蜜",
+        "结网"
+      ],
+      "answer": "松",
+      "explanation": "蚯蚓的生物习性是松土。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "蜻蜓（  ）。（提示：填两个字的动作短语）",
+      "options": [],
+      "answer": "展翅",
+      "explanation": "课文原文：蜻蜓展翅。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "将动物与它们的活动连线。",
+      "options": [
+        "蝴蝶",
+        "蚯蚓",
+        "蚂蚁",
+        "蜘蛛",
+        "松土",
+        "搬家",
+        "结网",
+        "飞舞"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "根据《动物儿歌》内容连线。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "请将生字与对应的偏旁连线。",
+      "options": [
+        "蜻",
+        "迷",
+        "运",
+        "网",
+        "辶",
+        "虫",
+        "冂",
+        "辶"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考查汉字部首：蜻是虫字旁，迷和运是走之儿，网是同字框。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物动作动宾短语",
+      "question": "连词成句：",
+      "options": [
+        "在",
+        "蝴蝶",
+        "花间",
+        "捉迷藏"
+      ],
+      "answer": "蝴蝶,在,花间,捉迷藏",
+      "explanation": "考查《动物儿歌》句式。"
+    }
+  ],
+  "knowledge": {
+    "point": "动物动作动宾短语",
+    "core_concept": "本知识点要求学生观察小动物的习性，并能用“动物名+动作+事物”的结构进行表达。例如：蚂蚁（谁）搬（干什么）家（什么）。重点在于掌握准确的动词，如“展、搬、造、结”等，这些动词生动地体现了昆虫的本领。",
+    "key_formula": "谁 + 动词 + 什么（如：蜘蛛结网）",
+    "common_mistakes": [
+      "动词搭配不当，如说成‘蜘蛛搬网’",
+      "把动物名和动作词写反"
+    ],
+    "tips": "可以通过模仿小动物的动作来记忆动词，比如张开双臂学蜻蜓‘展’翅。"
+  }
+}

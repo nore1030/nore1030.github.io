@@ -1,0 +1,66 @@
+{
+  "id": "english-renjiao-g10down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-renjiao-g10down",
+  "unitNumber": 1,
+  "unitTitle": "现在完成时与过去完成时",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "I ___ my homework already, so let's go out.",
+      "options": [
+        "finish",
+        "finished",
+        "have finished",
+        "am finishing"
+      ],
+      "answer": "have finished",
+      "explanation": "already 提示。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "过去完成时",
+      "question": "She was late because she ___ the bus.",
+      "options": [
+        "missed",
+        "had missed",
+        "misses",
+        "has missed"
+      ],
+      "answer": "had missed",
+      "explanation": "先错过车才迟到。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "现在完成时",
+      "question": "have been to 表示去过某地并已回来。",
+      "options": [],
+      "answer": "对",
+      "explanation": "去过。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "过去完成时",
+      "question": "过去完成时常与 by the time 连用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "常用搭配。"
+    }
+  ],
+  "knowledge": null
+}

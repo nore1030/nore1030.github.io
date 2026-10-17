@@ -1,0 +1,230 @@
+{
+  "id": "english-g5down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "序数词构成",
+      "question": "英文中所有的序数词都是以 'th' 结尾的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "first(1st), second(2nd), third(3rd) 结尾不是th。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母th的发音规律",
+      "question": "在单词 'thin' 和 'thirteen' 中，'th' 的发音是相同的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这两个词中的th都发清辅音/θ/。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "序数词缩写",
+      "question": "'twenty-third' 可以简写为 '23rd'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "二十三的序数词缩写符合rd结尾规则。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母th的发音",
+      "question": "单词 'this' 和 'math' 中 'th' 的发音一样。",
+      "options": [],
+      "answer": "错",
+      "explanation": "'this' 中发/ð/，'math' 中发/θ/。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词义辨析",
+      "question": "There are ______ months in a year.",
+      "options": [
+        "twelve",
+        "twelfth",
+        "twenty",
+        "second"
+      ],
+      "answer": "twelve",
+      "explanation": "表示一年的月份数量，用基数词twelve。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "具体日期问答",
+      "question": "When is the school trip? ______ October 12th.",
+      "options": [
+        "It on",
+        "Is in",
+        "It is on",
+        "They are on"
+      ],
+      "answer": "It is on",
+      "explanation": "回答时间时通常使用It is on + 日期。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词所有格",
+      "question": "Whose birthday is it? It's ______ birthday.",
+      "options": [
+        "Grandpa",
+        "Grandpa's",
+        "grandpa",
+        "Grandpas"
+      ],
+      "answer": "Grandpa's",
+      "explanation": "表示“爷爷的”要用名词所有格's。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词拼写排除",
+      "question": "Which word is spelled correctly?",
+      "options": [
+        "nineth",
+        "ninth",
+        "nineteen",
+        "ninty"
+      ],
+      "answer": "ninth",
+      "explanation": "nine变序数词需去掉末尾的e再加th。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "询问数量",
+      "question": "______ birthdays are in May? Three.",
+      "options": [
+        "How many",
+        "How much",
+        "When",
+        "What"
+      ],
+      "answer": "How many",
+      "explanation": "由Three可知是在询问数量，用How many。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "We have an English party ______ April.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "在具体的月份前常用介词in。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "情景交际",
+      "question": "Can you come to my party? ______.",
+      "options": [
+        "No, I can",
+        "Yes, I can't",
+        "Of course",
+        "On July 4th"
+      ],
+      "answer": "Of course",
+      "explanation": "邀请的肯定回答可以用Of course或Sure。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问句",
+      "question": "___ is the school trip? It's in May.",
+      "options": [],
+      "answer": "when",
+      "explanation": "询问日期或月份使用疑问词when。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词拼写",
+      "question": "My birthday is on November ___ (20th).",
+      "options": [],
+      "answer": "twentieth",
+      "explanation": "20th的完整拼写是twentieth(y变ie加th)。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "节假日匹配",
+      "question": "将节日名称与日期匹配（连线形式转化）。",
+      "options": [
+        "National Day",
+        "New Year's Day",
+        "Christmas",
+        "Teachers' Day",
+        "12月25日",
+        "9月10日",
+        "1月1日",
+        "10月1日"
+      ],
+      "answer": "A-4,B-3,C-1,D-2",
+      "explanation": "National Day-10月1日, New Year's Day-1月1日, Christmas-12月25日, Teachers' Day-9月10日。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "序数词特变体",
+      "question": "匹配基数词与序数词。",
+      "options": [
+        "one",
+        "two",
+        "eight",
+        "nine",
+        "eighth",
+        "ninth",
+        "first",
+        "second"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "one-first, two-second, eight-eighth, nine-ninth。"
+    }
+  ],
+  "knowledge": null
+}

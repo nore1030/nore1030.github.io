@@ -1,0 +1,28 @@
+{
+  "id": "science-g3up-u3-kp19",
+  "title": "气温的变化",
+  "bookId": "science-g3up",
+  "unitNumber": 3,
+  "unitTitle": "天气",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "气温的变化",
+      "question": "一天中气温最高的时间段通常是在（ ）。",
+      "options": [
+        "上午10点",
+        "中午12点",
+        "下午2点左右",
+        "傍晚6点"
+      ],
+      "answer": "下午2点左右",
+      "explanation": "受地表散热滞后影响，最高温通常在午后两小时。"
+    }
+  ],
+  "knowledge": null
+}

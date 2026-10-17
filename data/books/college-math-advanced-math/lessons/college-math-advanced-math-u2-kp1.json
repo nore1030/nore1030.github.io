@@ -1,0 +1,64 @@
+{
+  "id": "college-math-advanced-math-u2-kp1",
+  "title": "导数与求导法则",
+  "bookId": "college-math-advanced-math",
+  "unitNumber": 2,
+  "unitTitle": "导数与微分",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "导数与求导法则",
+      "question": "已知 $f(x)=x^3+0x^2+0x$，则 $f'(3)=$ ？",
+      "options": [],
+      "answer": "27",
+      "explanation": "$f'(x)=3x^2+0x+0$，代入 $x=3$ 得 $27$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "导数与求导法则",
+      "question": "已知 $f(x)=x^3+1x^2-1x$，则 $f'(1)=$ ？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$f'(x)=3x^2+2x-1$，代入 $x=1$ 得 $4$。"
+    },
+    {
+      "id": 3,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "导数与求导法则",
+      "question": "函数 $f(x)=x^4$ 的导函数 $f'(x)=$ ？（写成 $4x^3$ 形式）",
+      "options": [],
+      "answer": "4x^3",
+      "explanation": "$(x^4)'=4x^3$。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "导数与求导法则",
+      "question": "$(\\ln x)'=\\frac{1}{x}$。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基本公式。"
+    }
+  ],
+  "knowledge": {
+    "point": "导数与求导法则",
+    "core_concept": "$(x^n)'=nx^{n-1}$，$(e^x)'=e^x$，$(\\ln x)'=\\frac1x$。乘法法则 $(uv)'=u'v+uv'$；复合函数求导用链式法则。",
+    "key_formula": "$(uv)'=u'v+uv'$",
+    "common_mistakes": [
+      "复合求导漏乘内层导数。"
+    ],
+    "tips": "由外向内逐层求导。"
+  }
+}

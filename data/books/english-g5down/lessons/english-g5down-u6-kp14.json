@@ -1,0 +1,28 @@
+{
+  "id": "english-g5down-u6-kp14",
+  "title": "介词搭配",
+  "bookId": "english-g5down",
+  "unitNumber": 6,
+  "unitTitle": "Work quietly!",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介词搭配",
+      "question": "Keep ________ the right when you walk upstairs.",
+      "options": [
+        "on",
+        "to",
+        "at",
+        "in"
+      ],
+      "answer": "to",
+      "explanation": "Keep to the right是固定用法，意为靠右行。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "moral-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g9up",
+  "unitNumber": 1,
+  "unitTitle": "富强与创新",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与创新驱动",
+      "question": "下列做法最有利于创新的是（　）",
+      "options": [
+        "保护知识产权、尊重人才",
+        "抄袭他人成果",
+        "压制质疑",
+        "拒绝新事物"
+      ],
+      "answer": "保护知识产权、尊重人才",
+      "explanation": "创新需要制度保障。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中国的发展与民生",
+      "question": "共享发展理念强调（　）",
+      "options": [
+        "发展成果由人民共享",
+        "少数人富就够了",
+        "先富带动但不管后富",
+        "不需发展"
+      ],
+      "answer": "发展成果由人民共享",
+      "explanation": "共享发展。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "改革开放与创新驱动",
+      "question": "关键核心技术是要不来、买不来、讨不来的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自主创新重要。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "中国的发展与民生",
+      "question": "人民是国家的主人。",
+      "options": [],
+      "answer": "对",
+      "explanation": "人民当家作主。"
+    }
+  ],
+  "knowledge": null
+}

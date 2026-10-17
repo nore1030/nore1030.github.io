@@ -1,0 +1,107 @@
+{
+  "id": "g2down-u4-kp2",
+  "title": "乘除法综合应用",
+  "bookId": "g2down",
+  "unitNumber": 4,
+  "unitTitle": "表内除法（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "明明有 24 本书，平均分给 8 个小朋友，每人分到 4 本。",
+      "options": [],
+      "answer": "错",
+      "explanation": "计算 $24 \bdiv 8 = 3$（本）。通过三八二十四验证，$3 \times 8 = 24$，所以每人分 3 本。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "乘除法综合应用",
+      "question": "一本童话书 7 元，小明有 35 元，可以买几本？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "$35 \bdiv 7 = 5$（本），口诀：五七三十五。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "有 54 个轮子，如果每辆小车装 6 个轮子，可以装几辆？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9",
+      "explanation": "$54 \bdiv 6 = 9$（辆），口诀：六九五十四。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "操场上有 24 个同学跳绳，每组 3 人。现在又来了 2 组同学，一共有几组？",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "6"
+      ],
+      "answer": "10",
+      "explanation": "先算原来的组数：$24 \bdiv 3 = 8$（组）。再加上新来的：$8 + 2 = 10$（组）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "小红买了 4 枝百合花了 28 元，小明买了 1 枝玫瑰花了 9 元。哪种花便宜？",
+      "options": [
+        "百合便宜",
+        "玫瑰便宜",
+        "价格一样",
+        "无法计算"
+      ],
+      "answer": "百合便宜",
+      "explanation": "百合单价：$28 \bdiv 4 = 7$（元）。玫瑰单价 9 元。$7 < 9$，所以百合便宜。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘除法综合应用",
+      "question": "有 16 个羽毛球，平均装在 2 个筒里。如果改为每 4 个装一筒，可以装 ___ 筒。",
+      "options": [],
+      "answer": "4",
+      "explanation": "总数是 16 个，每筒装 4 个。列式：$16 \bdiv 4 = 4$（筒）。验算：$4 \times 4 = 16$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘除法综合应用",
+    "core_concept": "除法在生活中主要解决“平均分”的问题。包括：1. 把总数平均分成几份，求每份是多少；2. 按每份是多少去分，求可以分成几份。解题时要理清已知条件（总数、份数或每份数），确定计算方法。",
+    "key_formula": "总数 \\bdiv 份数 = 每份数；总数 \\bdiv 每份数 = 份数",
+    "common_mistakes": [
+      "分不清总数和份数，位置列反，如将“18元买2元一个的笔”列为 $2 \bdiv 18$",
+      "在两步应用题中，遗漏中间步骤直接得出错误结论"
+    ],
+    "tips": "做题三部曲：一读题找总数，二看是怎么分，三用口诀算得数。"
+  }
+}

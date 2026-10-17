@@ -1,0 +1,150 @@
+{
+  "id": "g3down-u8-kp1",
+  "title": "简单的排列问题",
+  "bookId": "g3down",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——搭配（二）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用0、1、2三个数字可以组成6个不同的两位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "两位数的十位不能为0。可以组成的两位数有：10、12、20、21，共4个。故说法错误。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "排列的顺序发生改变，结果也就随之改变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "排列强调有序性，如数字1和2，组成12和21是不同的数，故正确。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用2、5、8三个数字（不重复使用）能组成多少个不同的两位数？",
+      "options": [
+        "3个",
+        "4个",
+        "6个",
+        "9个"
+      ],
+      "answer": "6个",
+      "explanation": "十位选2，有25、28；十位选5，有52、58；十位选8，有82、85。共 $2 \\times 3 = 6$ 个。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用0、3、6三个数字可以组成多少个没有重复数字的两位数？",
+      "options": [
+        "2个",
+        "4个",
+        "6个",
+        "9个"
+      ],
+      "answer": "4个",
+      "explanation": "十位可以是3或6。3开头：30, 36；6开头：60, 63。共4个。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "3名小朋友站成一排照相，共有多少种排法？",
+      "options": [
+        "3种",
+        "4种",
+        "6种",
+        "9种"
+      ],
+      "answer": "6种",
+      "explanation": "第一个位置3人可选，第二个位置2人可选，第三个位置1人可选。$3 \\times 2 \\times 1 = 6$ 种。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "5、7、9三个数字可以组成几个没有重复数字的三位数？",
+      "options": [
+        "3个",
+        "6个",
+        "9个",
+        "12个"
+      ],
+      "answer": "6个",
+      "explanation": "百位有3种选法，十位2种，个位1种。$3 \\times 2 \\times 1 = 6$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用4、0两个数字可以组成几个不同的两位数？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "1个",
+      "explanation": "十位不能为0，只能是40。故只有1个。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用数字“3”和“7”可以组成几个不同的两位数？",
+      "options": [
+        "1个",
+        "2个",
+        "3个",
+        "4个"
+      ],
+      "answer": "2个",
+      "explanation": "可以组成37和73。共2个。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的排列问题",
+      "question": "用5、6两个数字可以组成 ___ 个没有重复数字的两位数。",
+      "options": [],
+      "answer": "2",
+      "explanation": "可以组成的数是56和65。共2个。验算：$1 \\times 2 = 2$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "简单的排列问题",
+    "core_concept": "排列是指从给定个数的元素中取出指定个数的元素进行排序。在解决数字排列问题（如组成两位数）时，通常采用“固定十位法”或“固定个位法”进行不重不漏的枚举。特别要注意：在组成多位数时，最高位（首位）不能为0。",
+    "key_formula": "n个元素取2个进行排列，数量为 $n \\times (n-1)$",
+    "common_mistakes": [
+      "在组成两位数时漏掉包含0的情况或错误地将0放在十位。",
+      "枚举时没有按照一定的顺序（从小到大或从大到小），导致重复或遗漏。"
+    ],
+    "tips": "记住“先选位，再搭配”。先定下最高位有几种选法，再看后面的位置。画树状图是最清晰的展示方式。"
+  }
+}

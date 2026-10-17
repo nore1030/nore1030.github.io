@@ -1,0 +1,188 @@
+{
+  "id": "g2down-u4-kp1",
+  "title": "用7、8、9的乘法口诀求商",
+  "bookId": "g2down",
+  "unitNumber": 4,
+  "unitTitle": "表内除法（二）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "计算 $56 \bdiv 7 = 8$ 时，用到的口诀是“七八五十六”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计算 $56 \bdiv 7$ 时，根据除数 7 寻找口诀，七八五十六，商是 8。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$45 \bdiv 5 = 9$ 和 $45 \bdiv 9 = 5$ 用的是同一句乘法口诀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对应的口诀都是“五九四十五”。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "计算 $63 \bdiv 9$ 时，商是多少？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "answer": "7",
+      "explanation": "根据乘法口诀“七九六十三”，$63 \bdiv 9 = 7$。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "把 48 平均分成 8 份，每份是几？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "列式 $48 \bdiv 8$。口诀：六八四十八，结果为 6。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "下列算式中，商最大的是哪个？",
+      "options": [
+        "32 \bdiv 4",
+        "35 \bdiv 5",
+        "42 \bdiv 6",
+        "49 \bdiv 7"
+      ],
+      "answer": "32 \bdiv 4",
+      "explanation": "A: $32 \bdiv 4 = 8$；B: $35 \bdiv 5 = 7$；C: $42 \bdiv 6 = 7$；D: $49 \bdiv 7 = 7$。8 最大。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "在算式 $72 \bdiv 9 = 8$ 中，除数是几？",
+      "options": [
+        "72",
+        "9",
+        "8",
+        "81"
+      ],
+      "answer": "9",
+      "explanation": "被除数 $\bdiv$ 除数 $=$ 商。这里 72 是被除数，9 是除数，8 是商。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "求 8 个 7 是多少，用什么法计算？",
+      "options": [
+        "加法",
+        "减法",
+        "乘法",
+        "除法"
+      ],
+      "answer": "乘法",
+      "explanation": "求几个相同加数的和，用乘法最简便。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$64 \bdiv 8$ 的结果是多少？",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "根据口诀“八八六十四”，结果是 8。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "计算 $8 \times 9$ 和 $72 \bdiv 9$ 用的是哪句口诀？",
+      "options": [
+        "八九七十二",
+        "九九八十一",
+        "七九六十三",
+        "八八六十四"
+      ],
+      "answer": "八九七十二",
+      "explanation": "这两道题都涉及 8、9、72 三个数，口诀为八九七十二。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "计算 $42 \bdiv 7 = ?$，结果是 ___。",
+      "options": [],
+      "answer": "6",
+      "explanation": "列式：$42 \bdiv 7 = 6$。验算：$6 \times 7 = 42$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$40 \bdiv 8 = ?$",
+      "options": [],
+      "answer": "5",
+      "explanation": "$40 \bdiv 8 = 5$。口诀：五八四十。验算：$5 \times 8 = 40$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "用7、8、9的乘法口诀求商",
+      "question": "$81 \bdiv 9 = ?$",
+      "options": [],
+      "answer": "9",
+      "explanation": "$81 \bdiv 9 = 9$。口诀：九九八十一。验算：$9 \times 9 = 81$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "用7、8、9的乘法口诀求商",
+    "core_concept": "利用乘法口诀求商是除法计算的主要方法。计算时，先看除数是几，就想几的乘法口诀。例如计算 56÷8，想：(八)七五十六，所以商是 7。熟练掌握 7-9 的口诀是提高计算速度的关键。",
+    "key_formula": "被除数 \\bdiv 除数 = 商",
+    "common_mistakes": [
+      "口诀混淆，如计算 $56 \bdiv 7$ 时误记为“七九五十六”得到商为 9",
+      "求商后不习惯用乘法验算，导致结果位数错误"
+    ],
+    "tips": "记熟口诀“九九表”，除数是几就想几，乘得结果被除数，中间空位就是商。"
+  }
+}

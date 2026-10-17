@@ -1,0 +1,195 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "集合与常用逻辑用语",
+      "knowledge_points": [
+        {
+          "name": "集合的概念与运算",
+          "description": "理解集合的表示与交、并、补运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "充分条件与必要条件",
+          "description": "理解充分、必要条件的判断。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g10up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "一元二次函数、方程和不等式",
+      "knowledge_points": [
+        {
+          "name": "不等式性质与基本不等式",
+          "description": "掌握不等式性质与基本不等式求最值。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一元二次不等式与三个二次关系",
+          "description": "掌握一元二次不等式的解法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g10up-u2-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 3,
+      "title": "函数的概念与性质",
+      "knowledge_points": [
+        {
+          "name": "函数的概念与表示",
+          "description": "理解函数三要素与求值。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "函数的单调性与奇偶性",
+          "description": "掌握单调性与奇偶性的判断与证明。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g10up-u3-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 4,
+      "title": "指数函数与对数函数",
+      "knowledge_points": [
+        {
+          "name": "指数与指数函数",
+          "description": "掌握指数运算与指数函数性质。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "对数与对数函数",
+          "description": "掌握对数运算与对数函数性质。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "g10up-u4-exam",
+      "examQuestionCount": 4
+    }
+  ],
+  "bookId": "g10up",
+  "grade": 10,
+  "semester": "up",
+  "subject": "math",
+  "lessons": [
+    {
+      "id": "g10up-u1-kp1",
+      "title": "集合的概念与运算",
+      "unitNumber": 1,
+      "unitTitle": "集合与常用逻辑用语",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 4
+    },
+    {
+      "id": "g10up-u1-kp2",
+      "title": "充分条件与必要条件",
+      "unitNumber": 1,
+      "unitTitle": "集合与常用逻辑用语",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "g10up-u2-kp1",
+      "title": "不等式性质与基本不等式",
+      "unitNumber": 2,
+      "unitTitle": "一元二次函数、方程和不等式",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "g10up-u2-kp2",
+      "title": "一元二次不等式与三个二次关系",
+      "unitNumber": 2,
+      "unitTitle": "一元二次函数、方程和不等式",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "g10up-u3-kp1",
+      "title": "函数的概念与表示",
+      "unitNumber": 3,
+      "unitTitle": "函数的概念与性质",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "g10up-u3-kp2",
+      "title": "函数的单调性与奇偶性",
+      "unitNumber": 3,
+      "unitTitle": "函数的概念与性质",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "g10up-u4-kp1",
+      "title": "指数与指数函数",
+      "unitNumber": 4,
+      "unitTitle": "指数函数与对数函数",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 3
+    },
+    {
+      "id": "g10up-u4-kp2",
+      "title": "对数与对数函数",
+      "unitNumber": 4,
+      "unitTitle": "指数函数与对数函数",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 3
+    }
+  ]
+}

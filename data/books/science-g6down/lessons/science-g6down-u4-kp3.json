@@ -1,0 +1,82 @@
+{
+  "id": "science-g6down-u4-kp3",
+  "title": "生命体与地球家园中的化学变化",
+  "bookId": "science-g6down",
+  "unitNumber": 4,
+  "unitTitle": "物质的变化",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "生命体与地球家园中的化学变化",
+      "question": "植物进行光合作用获取营养物质属于化学变化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "光合作用将水和二氧化碳合成为有机物并释放氧气，有新物质产生。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生命体与地球家园中的化学变化",
+      "question": "我们咀嚼米饭时感受到的甜味是因为米饭中的淀粉变成了（）。",
+      "options": [
+        "蔗糖",
+        "麦芽糖",
+        "盐",
+        "味精"
+      ],
+      "answer": "麦芽糖",
+      "explanation": "唾液淀粉酶将淀粉分解为麦芽糖，这属于化学变化。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生命体与地球家园中的化学变化",
+      "question": "煤、石油等化石能源在地底下的形成过程属于（）。",
+      "options": [
+        "物理变化",
+        "化学变化",
+        "形态变化",
+        "简单蒸发"
+      ],
+      "answer": "化学变化",
+      "explanation": "动植物遗骸经过漫长的化学反应转化成化石封存的能源。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "生命体与地球家园中的化学变化",
+      "question": "人体吸收营养的主要过程涉及（）。",
+      "options": [
+        "只有物理变化",
+        "只有化学变化",
+        "物理变化和化学变化",
+        "都没有"
+      ],
+      "answer": "物理变化和化学变化",
+      "explanation": "磨碎食物是物理变化，消化酶分解食物是化学变化。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "生命体与地球家园中的化学变化",
+      "question": "绿色植物利用太阳能把水和二氧化碳转化为氧气和（___）。",
+      "options": [],
+      "answer": "养料",
+      "explanation": "光合作用产生有机物，通常在小学阶段表述为养料或淀粉。"
+    }
+  ],
+  "knowledge": null
+}

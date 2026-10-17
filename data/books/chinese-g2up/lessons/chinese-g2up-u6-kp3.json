@@ -1,0 +1,138 @@
+{
+  "id": "chinese-g2up-u6-kp3",
+  "title": "常见多音字辨析",
+  "bookId": "chinese-g2up",
+  "unitNumber": 6,
+  "unitTitle": "伟人与榜样",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见多音字辨析",
+      "question": "“他在地上铺（pū）了一层厚厚的红地毯。”这句话中“铺”的读音是正确的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "铺作为动词，表示展开放置时读pū，如铺床、铺位。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "常见多音字辨析",
+      "question": "“好客”的“好”字读音是 hǎo。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“好客”表示喜爱，应读四声 hào。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见多音字辨析",
+      "question": "选出下列加点字读音全部正确的一组：",
+      "options": [
+        "盛饭(shèng)  种子(zhǒng)",
+        "盛产(shèng)  铺路(pū)",
+        "重复(zhòng)  好人(hǎo)",
+        "教书(jiào)  重点(zhòng)"
+      ],
+      "answer": "盛产(shèng)  铺路(pū)",
+      "explanation": "盛产读shèng，铺路读pū。盛饭应读chéng，重复应读chóng，教书应读jiāo。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见多音字辨析",
+      "question": "“大家在空地上重(   )新种(   )下了新的树苗。”括号内应依次填入音节：",
+      "options": [
+        "chóng zhòng",
+        "zhòng zhǒng",
+        "chóng zhǒng",
+        "zhòng zhòng"
+      ],
+      "answer": "chóng zhòng",
+      "explanation": "重新表示再次，读chóng；种下是动作，读zhòng。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见多音字辨析",
+      "question": "根据课文内容，“盛(shèng)开”的“盛”还可以读(chéng)，组词为：",
+      "options": [
+        "盛饭",
+        "茂盛",
+        "丰盛",
+        "盛产"
+      ],
+      "answer": "盛饭",
+      "explanation": "盛作为容纳、装入的意思时读chéng。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见多音字辨析",
+      "question": "“王老师正在教(   )室里教(   )我们写生字。”括号内依次读：",
+      "options": [
+        "jiào jiāo",
+        "jiāo jiào",
+        "jiāo jiāo",
+        "jiào jiào"
+      ],
+      "answer": "jiào jiāo",
+      "explanation": "教室读jiào（名次），教学、教书读jiāo（动词）。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见多音字辨析",
+      "question": "大家在山坡上（___）下了许多松树种子。 (填一个动词)",
+      "options": [],
+      "answer": "种",
+      "explanation": "考察多音字“种”作为动词时的用法。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "常见多音字辨析",
+      "question": "请将下列叠词与对应的意思连线。",
+      "options": [
+        "鲜红鲜红",
+        "火红火红",
+        "碧绿碧绿",
+        "金灿灿",
+        "火的颜色",
+        "鲜艳的红色",
+        "金色的光芒",
+        "绿草一般"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "词语颜色形容对象的自然对应。"
+    }
+  ],
+  "knowledge": {
+    "point": "常见多音字辨析",
+    "core_concept": "本单元涉及多个高频多音字：‘盛’（shèng/chéng）、‘铺’（pū/pù）、‘种’（zhǒng/zhòng）、‘好’（hǎo/hào）等。辨析的关键在于‘据义定音’，即根据词语在句子中的具体含义来确定读音。例如，表示‘装东西’的动作时，盛读chéng；表示‘种子’这个事物时读zhǒng，表示‘种植’这个动作时读zhòng。",
+    "key_formula": "辨析读音 = 确定词性/词义 + 套用规律",
+    "common_mistakes": [
+      "习惯性读最常用音，如把“好客”读成hǎo",
+      "在具体语境填空时，能说对却写错音节声调"
+    ],
+    "tips": "建立多音字本，每个读音下面记一个最典型的词，通过记住词来记住音。"
+  }
+}

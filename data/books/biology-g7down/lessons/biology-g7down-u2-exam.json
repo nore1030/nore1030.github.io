@@ -1,0 +1,66 @@
+{
+  "id": "biology-g7down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "biology-g7down",
+  "unitNumber": 2,
+  "unitTitle": "人体的呼吸与循环",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "呼吸系统与血液循环",
+      "question": "人体内进行气体交换的主要场所是（　）",
+      "options": [
+        "气管",
+        "肺泡",
+        "支气管",
+        "鼻腔"
+      ],
+      "answer": "肺泡",
+      "explanation": "肺泡是气体交换场所。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "泌尿系统与排泄",
+      "question": "原尿中不含血细胞和大分子蛋白质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "肾小球滤过作用。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "呼吸系统与血液循环",
+      "question": "血小板有止血和加速凝血的作用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "血小板功能。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "泌尿系统与排泄",
+      "question": "形成尿液的器官是（　）",
+      "options": [
+        "肾脏",
+        "膀胱",
+        "输尿管",
+        "尿道"
+      ],
+      "answer": "肾脏",
+      "explanation": "肾脏形成尿液。"
+    }
+  ],
+  "knowledge": null
+}

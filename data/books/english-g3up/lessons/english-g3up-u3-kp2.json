@@ -1,0 +1,124 @@
+{
+  "id": "english-g3up-u3-kp2",
+  "title": "身体部位词汇识记",
+  "bookId": "english-g3up",
+  "unitNumber": 3,
+  "unitTitle": "Look at me!",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "'eye' 的中文意思是 '眼睛'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "eye 是身体器官中的眼睛。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "'leg' 的中文意思是 '胳膊'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "leg 是腿，胳膊是 arm。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "你想让别人看你的脸，你应该说：",
+      "options": [
+        "Look at my leg.",
+        "Look at my face.",
+        "Look at my foot.",
+        "Look at my hand."
+      ],
+      "answer": "Look at my face.",
+      "explanation": "face 意思是脸。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "你有两个什么？ (选复数含义)",
+      "options": [
+        "mouth",
+        "nose",
+        "face",
+        "ears"
+      ],
+      "answer": "ears",
+      "explanation": "通常人有两个耳朵 (ears)，嘴巴、鼻子、脸只有一个。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "与单词 'hand' 属于同一类的是：",
+      "options": [
+        "green",
+        "book",
+        "arm",
+        "ruler"
+      ],
+      "answer": "arm",
+      "explanation": "hand 手和 arm 胳膊都是身体部位词。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "I have a big ________. (嘴巴)",
+      "options": [],
+      "answer": "mouth",
+      "explanation": "嘴巴的英文单词是 mouth。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "Look at my ________. (头)",
+      "options": [],
+      "answer": "head",
+      "explanation": "头的英文单词是 head。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "身体部位词汇识记",
+      "question": "请将下列英语单词与对应的中文意思配对。",
+      "options": [
+        "ear",
+        "nose",
+        "hand",
+        "leg",
+        "鼻子",
+        "手",
+        "腿",
+        "耳朵"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "ear-耳朵, nose-鼻子, hand-手, leg-腿。"
+    }
+  ],
+  "knowledge": null
+}

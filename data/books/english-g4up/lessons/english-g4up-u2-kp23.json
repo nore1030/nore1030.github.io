@@ -1,0 +1,29 @@
+{
+  "id": "english-g4up-u2-kp23",
+  "title": "疑问句语序",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "疑问句语序",
+      "question": "连词成句：in, What, is, schoolbag, your",
+      "options": [
+        "in",
+        "What",
+        "is",
+        "schoolbag",
+        "your"
+      ],
+      "answer": "What,is,in,your,schoolbag",
+      "explanation": "特殊疑问句：What is in + 地点？你的书包里有什么？"
+    }
+  ],
+  "knowledge": null
+}

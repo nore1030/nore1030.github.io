@@ -1,0 +1,102 @@
+{
+  "id": "g5up-u3-kp1",
+  "title": "除数是整数的小数除法",
+  "bookId": "g5up",
+  "unitNumber": 3,
+  "unitTitle": "小数除法",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "在计算 $7.5 \times 5$ 时，商的小数点要和被除数的小数点对齐。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据小数除以整数的计算法则，商的小数点应与被除数的小数点对齐。验算：$1.5 \times 5 = 7.5$ ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "两个数相除，商是 0.12。如果被除数扩大到原来的 10 倍，除数不变，商是多少？",
+      "options": [
+        "0.12",
+        "1.2",
+        "12",
+        "0.012"
+      ],
+      "answer": "1.2",
+      "explanation": "被除数扩大 10 倍，除数不变，商也扩大 10 倍。$0.12 \times 10 = 1.2$。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "计算 $1.2 \bdiv 4$，商是多少？",
+      "options": [
+        "3",
+        "0.3",
+        "0.03",
+        "30"
+      ],
+      "answer": "0.3",
+      "explanation": "$1.2 \bdiv 4 = 0.3$。验算：$0.3 \times 4 = 1.2$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "一个两位小数除以 4，商还是小数。如果被除数的末位是 2，商的末位是多少？",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "1"
+      ],
+      "answer": "3",
+      "explanation": "如果是 $0.12 \bdiv 4 = 0.03$，末位是 3。通过验证可知末位是 3。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "一辆汽车 4 小时行驶了 244 公里，平均每小时行驶 ___ 公里。",
+      "options": [],
+      "answer": "61",
+      "explanation": "列式：$244 \bdiv 4 = 61$。验算：$61 \times 4 = 244$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除数是整数的小数除法",
+      "question": "计算：$100 \bdiv 4 = ?$",
+      "options": [],
+      "answer": "25",
+      "explanation": "$100 \bdiv 4 = 25$。验算：$25 \times 4 = 100$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "除数是整数的小数除法",
+    "core_concept": "计算小数除以整数时，按照整数除法的法则计算。关键是商的小数点要与被除数的小数点对齐。如果被除数的整数部分不够除，要在商的个位商0，点上小数点继续除；如果除到末尾有余数，要在余数后面添0继续除。",
+    "key_formula": "商的小数点与被除数的小数点对齐",
+    "common_mistakes": [
+      "商的小数点点错位置",
+      "整数部分不够商1时忘了在个位写0"
+    ],
+    "tips": "竖式计算时，先点好商的小数点，再开始计算，防止遗漏。"
+  }
+}

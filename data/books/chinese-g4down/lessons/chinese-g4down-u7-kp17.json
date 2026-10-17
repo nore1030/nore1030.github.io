@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u7-kp17",
+  "title": "核心意象分析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "核心意象分析",
+      "question": "《芙蓉楼送辛渐》中，“冰心”和“玉壶”两组意象结合在一起，传达出一种什么样的形象？",
+      "options": [
+        "富有且豪华",
+        "冰冷而孤独",
+        "晶莹透明、纯洁无暇",
+        "忧国忧民、壮志难酬"
+      ],
+      "answer": "晶莹透明、纯洁无暇",
+      "explanation": "冰代表纯，玉代表洁，组合寓意高尚人品。"
+    }
+  ],
+  "knowledge": null
+}

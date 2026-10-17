@@ -1,0 +1,47 @@
+{
+  "id": "history-g11up-u1-kp2",
+  "title": "基层治理与社会治理",
+  "bookId": "history-g11up",
+  "unitNumber": 1,
+  "unitTitle": "国家制度与社会治理",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "基层治理与社会治理",
+      "question": "中国古代基层治理的重要依托是（　）",
+      "options": [
+        "宗族乡里制度",
+        "议会制度",
+        "公司制度",
+        "网络社区"
+      ],
+      "answer": "宗族乡里制度",
+      "explanation": "宗族乡里。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "基层治理与社会治理",
+      "question": "基层治理是国家政权的基础。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基层是政权基础。"
+    }
+  ],
+  "knowledge": {
+    "point": "基层治理与社会治理",
+    "core_concept": "中国古代基层治理依靠宗族乡里与保甲制度；近代中国开始引入近代地方自治。基层治理是国家治理的基础。",
+    "key_formula": "宗族乡里 / 保甲",
+    "common_mistakes": [
+      "认为基层治理与国家治理无关。"
+    ],
+    "tips": "基层是国家治理基础。"
+  }
+}

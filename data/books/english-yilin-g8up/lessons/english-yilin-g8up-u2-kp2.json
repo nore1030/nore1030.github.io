@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g8up-u2-kp2",
+  "title": "意愿与可能性表达",
+  "bookId": "english-yilin-g8up",
+  "unitNumber": 2,
+  "unitTitle": "单元话题：能力与意愿",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "意愿与可能性表达",
+      "question": "I would like ___ English.",
+      "options": [
+        "improve",
+        "improving",
+        "to improve",
+        "improved"
+      ],
+      "answer": "to improve",
+      "explanation": "would like to do。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "意愿与可能性表达",
+      "question": "hope to do 与 want to do 都可表示意愿。",
+      "options": [],
+      "answer": "对",
+      "explanation": "意愿表达。"
+    }
+  ],
+  "knowledge": {
+    "point": "意愿与可能性表达",
+    "core_concept": "want to do sth、would like to do sth、hope to do sth 均可表示想做某事。",
+    "key_formula": "would like to do sth",
+    "common_mistakes": [
+      "would like 后直接加动词原形。"
+    ],
+    "tips": "would like to do。"
+  }
+}

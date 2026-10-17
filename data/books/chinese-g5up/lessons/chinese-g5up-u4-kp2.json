@@ -1,0 +1,128 @@
+{
+  "id": "chinese-g5up-u4-kp2",
+  "title": "现代散文的排比与气势",
+  "bookId": "chinese-g5up",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "《少年中国说》中运用了大量的排比句，是为了增强文章的气势和感染力。",
+      "options": [],
+      "answer": "对",
+      "explanation": "排比句能集中表达情感，使语言节奏感强、更有气势。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "‘红日初升，其道大光’这段话是用象征的手法赞美少年中国的灿烂前程。",
+      "options": [],
+      "answer": "对",
+      "explanation": "红日初升象征着少年中国生机勃勃、前途光明。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "‘潜龙腾渊，鳞爪飞扬。’这句话运用的修辞手法是？",
+      "options": [
+        "拟人",
+        "反问",
+        "象征",
+        "夸张"
+      ],
+      "answer": "象征",
+      "explanation": "潜龙象征着少年中国，属于象征手法。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "‘故今日之责任，不在他人，而全在我少年。’这句话强调的是？",
+      "options": [
+        "少年的快乐",
+        "少年的担当",
+        "历史的变迁",
+        "他人的错误"
+      ],
+      "answer": "少年的担当",
+      "explanation": "这句话强调中国强盛的责任在每一个中国少年身上。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "‘美哉，我少年中国，与天不老！’中‘哉’的意思是？",
+      "options": [
+        "赞叹、感叹",
+        "怀疑、询问",
+        "指示、说明",
+        "拒绝、否定"
+      ],
+      "answer": "赞叹、感叹",
+      "explanation": "‘哉’是文言助词，表示强烈的赞叹。 "
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "将文章中的象征物与其对应的品质或状态连线。",
+      "options": [
+        "红日初升",
+        "潜龙腾渊",
+        "乳虎啸谷",
+        "奇花初胎",
+        "进步",
+        "生命力",
+        "光辉",
+        "威猛"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "红日照耀光辉，潜龙重在腾起进步，乳虎象征威猛，奇花象征生命的力量。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代散文的排比与气势",
+      "question": "将词语排成描写中国少年责任的句子：",
+      "options": [
+        "今日之责任",
+        "少年",
+        "不在他人",
+        "而全在",
+        "我"
+      ],
+      "answer": "今日之责任,不在他人,而全在,我,少年",
+      "explanation": "出自《少年中国说》，强调中国少年的主体责任地位。"
+    }
+  ],
+  "knowledge": {
+    "point": "现代散文的排比与气势",
+    "core_concept": "《少年中国说》是梁启超运用排比手法的典范。通过一系列结构相似、语气连贯的句子（如‘少年智则国智……’），不仅让语言读起来铿锵有力，更层层递进地论述了中国少年与国家前途的命运共同体关系。这种写法能产生强烈的感召力，激发读者的使命感。",
+    "key_formula": "排比（相同句式叠加）+象征（红日/龙）=增强表达的气势与感染力",
+    "common_mistakes": [
+      "将句子中的象征意义与字面意义混淆（如将龙仅看作动物）",
+      "断句不当导致朗读时气势削弱"
+    ],
+    "tips": "尝试通过大声诵读来感受课文的旋律感，体会节奏美。"
+  }
+}

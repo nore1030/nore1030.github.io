@@ -1,0 +1,39 @@
+{
+  "id": "english-g3up-u1-kp8",
+  "title": "自我介绍",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 4,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自我介绍",
+      "question": "— Hello, I'm Mike.\n— _______",
+      "options": [
+        "Hi, I'm Wu Binbin.",
+        "Goodbye.",
+        "Great!",
+        "Yes."
+      ],
+      "answer": "Hi, I'm Wu Binbin.",
+      "explanation": "面对别人的自我介绍，应礼貌回应并也介绍自己。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "自我介绍",
+      "question": "Hi, I ___ Wu Binbin.",
+      "options": [],
+      "answer": "am",
+      "explanation": "I am... 或 I'm... 表示“我是...”。"
+    }
+  ],
+  "knowledge": null
+}

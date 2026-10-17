@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u2-kp18",
+  "title": "疑问词",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 14,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问词",
+      "question": "___ do you go to Canada? By plane.",
+      "options": [],
+      "answer": "how",
+      "explanation": "询问方式用how。"
+    }
+  ],
+  "knowledge": null
+}

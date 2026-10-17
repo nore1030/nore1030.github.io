@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u2-kp20",
+  "title": "地震自救",
+  "bookId": "science-g5up",
+  "unitNumber": 2,
+  "unitTitle": "地球表面的变化",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地震自救",
+      "question": "地震发生时，在教室内的同学应该（ ）。",
+      "options": [
+        "马上跳窗逃生",
+        "原地抱头躲在桌子下",
+        "大声哭喊求救",
+        "站在教室中间不动"
+      ],
+      "answer": "原地抱头躲在桌子下",
+      "explanation": "此时应迅速寻找遮挡物，保护头部。跳窗极其危险。"
+    }
+  ],
+  "knowledge": null
+}

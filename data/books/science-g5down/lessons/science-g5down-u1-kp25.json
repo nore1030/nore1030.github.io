@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp25",
+  "title": "实验周期",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 17,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实验周期",
+      "question": "播种绿豆种子后，如果条件适宜，通常在（ ）天左右种子会开始萌发。",
+      "options": [],
+      "answer": "3",
+      "explanation": "在温度适宜水分充足时，绿豆萌发非常快。"
+    }
+  ],
+  "knowledge": null
+}

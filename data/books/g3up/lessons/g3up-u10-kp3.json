@@ -1,0 +1,64 @@
+{
+  "id": "g3up-u10-kp3",
+  "title": "逆向思维与逻辑推导",
+  "bookId": "g3up",
+  "unitNumber": 10,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逆向思维与逻辑推导",
+      "question": "在加法竖式中，两个加数的个位分别是 7 和 5，那么和的个位数字是多少？",
+      "options": [
+        "2",
+        "12",
+        "7",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "$7 + 5 = 12$，个位满十向十位进 1，个位上写 2。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逆向思维与逻辑推导",
+      "question": "妈妈买了一盒巧克力，小明吃了 $\\frac{2}{9}$，爸爸吃了 $\\frac{4}{9}$，还剩几分之几没吃？",
+      "options": [
+        "$\\frac{6}{9}$",
+        "$\\frac{1}{9}$",
+        "$\\frac{3}{9}$",
+        "$\\frac{5}{9}$"
+      ],
+      "answer": "$\\frac{3}{9}$",
+      "explanation": "吃了的总份数：$\\frac{2}{9} + \\frac{4}{9} = \\frac{6}{9}$。剩下的份数：$1 - \\frac{6}{9} = \\frac{3}{9}$。验算：$\\frac{2}{9} + \\frac{4}{9} + \\frac{3}{9} = 1$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "逆向思维与逻辑推导",
+      "question": "一个正方形的周长是 36 厘米，它的边长是 ___ 厘米。",
+      "options": [],
+      "answer": "9",
+      "explanation": "正方形周长 = 边长 $\\times 4$，所以 边长 = 周长 $\\div 4$。$36 \\div 4 = 9$（厘米）。验算：$9 \\times 4 = 36$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "逆向思维与逻辑推导",
+    "core_concept": "通过解决缺失数字的竖式、复杂的租船问题或行程问题，培养学生从结果推导过程的能力。这类问题要求学生不只是套用公式，而是理解数量之间的逻辑关系，并能灵活转换思路。",
+    "key_formula": "$被除数 = 商 \\times 除数 + 余数$（用于逆推或验算）。",
+    "common_mistakes": [
+      "在解决“至少需要几条船”等进一法问题时，忽略了余数部分也需要额外的一份。",
+      "逆向推算时，加减法关系搞反。"
+    ],
+    "tips": "遇到复杂的应用题，可以尝试画线段图辅助分析，或者先从最末尾的条件往前推算。"
+  }
+}

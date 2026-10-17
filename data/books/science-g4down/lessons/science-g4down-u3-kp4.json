@@ -1,0 +1,77 @@
+{
+  "id": "science-g4down-u3-kp4",
+  "title": "三种土壤的物理性质比较",
+  "bookId": "science-g4down",
+  "unitNumber": 3,
+  "unitTitle": "岩石与土壤",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "由于土壤颗粒大小不同，不同土壤的渗水性也不同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "颗粒大、间隙大的土壤渗水快，颗粒细小、间隙小的土壤渗水慢。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "下列哪种植物更适合生长在沙质土中？",
+      "options": [
+        "荷花",
+        "水稻",
+        "仙人掌",
+        "白菜"
+      ],
+      "answer": "仙人掌",
+      "explanation": "沙质土渗水性强、透气好，但保水差，非常适合耐旱植物如仙人掌生长。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "保水性、保肥性和透气性都比较适中的土壤是（）。",
+      "options": [
+        "沙质土",
+        "黏质土",
+        "壤土",
+        "荒漠土"
+      ],
+      "answer": "壤土",
+      "explanation": "壤土中的沙子和黏土含量比例相当，综合性能最均衡。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "我们通常将土壤分为（）类。",
+      "options": [],
+      "answer": "3",
+      "explanation": "根据沙和黏土的含量比例，分为沙质土、黏质土、壤土三大类。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三种土壤的物理性质比较",
+      "question": "具有较强黏性和保水性的土壤是（）。",
+      "options": [],
+      "answer": "黏质土",
+      "explanation": "黏质土含黏粒极多，渗水慢、保水性能强。"
+    }
+  ],
+  "knowledge": null
+}

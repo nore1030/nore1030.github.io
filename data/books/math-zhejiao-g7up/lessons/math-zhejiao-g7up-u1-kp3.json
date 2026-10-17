@@ -1,0 +1,58 @@
+{
+  "id": "math-zhejiao-g7up-u1-kp3",
+  "title": "绝对值与有理数大小比较",
+  "bookId": "math-zhejiao-g7up",
+  "unitNumber": 1,
+  "unitTitle": "第1章 有理数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "绝对值与有理数大小比较",
+      "question": "$-7$ 的绝对值是 ___。",
+      "options": [],
+      "answer": "7",
+      "explanation": "$|-7|=7$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "绝对值与有理数大小比较",
+      "question": "数轴上表示 $-3$ 的点与表示 $2$ 的点之间的距离是多少？",
+      "options": [],
+      "answer": "5",
+      "explanation": "$2-(-3)=5$。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "绝对值与有理数大小比较",
+      "question": "$-5$ 与 $-3$ 比较，较大的是（　）",
+      "options": [
+        "$-3$",
+        "$-5$",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "$-3$",
+      "explanation": "两个负数，绝对值大的反而小。"
+    }
+  ],
+  "knowledge": {
+    "point": "绝对值与有理数大小比较",
+    "core_concept": "$|a|$ 表示数轴上 $a$ 到原点的距离。正数 > 0 > 负数；两个负数比较，绝对值大的反而小。",
+    "key_formula": "$|a|\\ge0$",
+    "common_mistakes": [
+      "比较负数时认为绝对值大的更大。"
+    ],
+    "tips": "负数比较：绝对值大的反而小。"
+  }
+}

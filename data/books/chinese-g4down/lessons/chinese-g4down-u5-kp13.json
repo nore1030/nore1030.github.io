@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u5-kp13",
+  "title": "景物特点",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "景物特点",
+      "question": "《海上日出》中，太阳负着重荷上升，这里的“重荷”指的是？",
+      "options": [
+        "沉重的行李",
+        "沉重的负担",
+        "跳出海面的吃力感",
+        "云层的重量"
+      ],
+      "answer": "跳出海面的吃力感",
+      "explanation": "这是一种拟人化的写法，表现太阳升起时的缓慢、有力。"
+    }
+  ],
+  "knowledge": null
+}

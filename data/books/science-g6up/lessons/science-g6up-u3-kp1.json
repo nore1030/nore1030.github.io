@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u3-kp1",
+  "title": "工具与技术的紧密联系",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 0,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "工具与技术的紧密联系",
+      "question": "手机既是一种工具，其制造过程中也包含了多种技术的应用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "工具是实物，技术是方法或手段，两者紧密相连。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "工具与技术的紧密联系",
+      "question": "下列关于工具和技术的说法，正确的是（）。",
+      "options": [
+        "同一工具只能有一种技术支撑",
+        "技术是不随时间变化的",
+        "工具常常是技术的载体",
+        "发明了工具就一定发明了技术"
+      ],
+      "answer": "工具常常是技术的载体",
+      "explanation": "工具和技术相互促进，工具是技术的实物表现。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "工具与技术的紧密联系",
+      "question": "在评价一种工具的效率时，我们最不关注的是（）。",
+      "options": [
+        "完成任务的速度",
+        "劳动强度的大小",
+        "工具的颜色外壳",
+        "任务完成的质量"
+      ],
+      "answer": "工具的颜色外壳",
+      "explanation": "工具效率评估主要看省力程度、时间成本和成果质量。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "工具与技术的紧密联系",
+      "question": "人类历史上，指南针作为航海工具在海上应用了大约（）年历史。",
+      "options": [],
+      "answer": "1000",
+      "explanation": "指南针在宋代开始由于航海，至今约千年左右。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "science-g6up-u3-kp5",
+  "title": "组合工具：剪刀的结构分析",
+  "bookId": "science-g6up",
+  "unitNumber": 3,
+  "unitTitle": "工具与技术",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "组合工具：剪刀的结构分析",
+      "question": "剪刀的锋利刀刃利用了斜面原理。",
+      "options": [],
+      "answer": "对",
+      "explanation": "刀刃是斜面的变形应用，用于切开物体。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "组合工具：剪刀的结构分析",
+      "question": "医生使用的手术剪刀通常手柄很长、刀刃很短，其目的是（）。",
+      "options": [
+        "省力",
+        "省距离",
+        "为了美观",
+        "增大阻力"
+      ],
+      "answer": "省力",
+      "explanation": "手柄长（动力臂长）于刀刃（阻力臂），属于省力杠杆。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "组合工具：剪刀的结构分析",
+      "question": "理发师用的理发剪刀和裁缝用的剪刀相比，理发剪刀通常是（）。",
+      "options": [
+        "省力杠杆",
+        "等臂杠杆",
+        "费力杠杆",
+        "斜面工具"
+      ],
+      "answer": "费力杠杆",
+      "explanation": "理发剪刀为了移动距离大，牺牲力，属于费力杠杆。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "组合工具：剪刀的结构分析",
+      "question": "剪刀其实是由两个（）和两个斜面组合而成的工具。",
+      "options": [],
+      "answer": "杠杆",
+      "explanation": "剪刀通过中心轴支点形成交互杠杆。"
+    }
+  ],
+  "knowledge": null
+}

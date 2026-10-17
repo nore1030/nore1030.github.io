@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp12",
+  "title": "音高规律",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 6,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "音高规律",
+      "question": "拨动伸出桌面长度不同的钢尺，钢尺伸出越长，声音：",
+      "options": [
+        "越高",
+        "越低",
+        "越强",
+        "越弱"
+      ],
+      "answer": "越低",
+      "explanation": "伸出长度越长，振动部分越长，振动越慢，音高越低。"
+    }
+  ],
+  "knowledge": null
+}

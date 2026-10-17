@@ -1,0 +1,93 @@
+{
+  "id": "science-g1up-u3-kp4",
+  "title": "认识测量纸带与尺子",
+  "bookId": "science-g1up",
+  "unitNumber": 3,
+  "unitTitle": "比较与测量",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "测量纸带上的刻度格大小应该保持一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "测量工具的每一个单位长度（格）必须是等长的，才能作为标准。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "在测量圆桶一圈的长度时，下列哪种工具最方便实用？",
+      "options": [
+        "硬长的木尺",
+        "回形针",
+        "测量纸带",
+        "小铁块"
+      ],
+      "answer": "测量纸带",
+      "explanation": "纸带具有柔韧性，可以弯曲，适合测量圆柱形物体的周长。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "尺子和测量纸带相比，尺子的优点不包括下列哪一项？",
+      "options": [
+        "有统一的标准单位",
+        "读书更加精准",
+        "材质更坚固耐用",
+        "可以随意撕断使用"
+      ],
+      "answer": "可以随意撕断使用",
+      "explanation": "尺子是固定精度的标准工具，不可随意撕毁，这不是优点。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "在自制测量纸带时，每一格多长比较合适？",
+      "options": [
+        "必须是一米",
+        "每一格的长度只要一样长就可以",
+        "必须是一厘米",
+        "每一格越长越好"
+      ],
+      "answer": "每一格的长度只要一样长就可以",
+      "explanation": "作为自制工具，首要准则是“统一标准”，即格长一致。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "为了保证测量准确，我们通常要测量（___）次以上并取平均结果。",
+      "options": [],
+      "answer": "3",
+      "explanation": "科学实验中重复测量3次通常可以有效减少操作误差。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识测量纸带与尺子",
+      "question": "尺子上的标准单位通常包括毫米、厘米和（___）。",
+      "options": [],
+      "answer": "米",
+      "explanation": "米是国际通用的基本长度单位。"
+    }
+  ],
+  "knowledge": null
+}

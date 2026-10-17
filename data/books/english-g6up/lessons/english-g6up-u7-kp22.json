@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u7-kp22",
+  "title": "个人兴趣",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "个人兴趣",
+      "question": "I like swimming and doing ______.",
+      "options": [],
+      "answer": "kung fu",
+      "explanation": "练武术的固定表达是do kung fu。"
+    }
+  ],
+  "knowledge": null
+}

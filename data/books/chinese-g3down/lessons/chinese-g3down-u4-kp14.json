@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u4-kp14",
+  "title": "句子结构识别",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 13,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子结构识别",
+      "question": "连接下列动作的发起者与其行为。",
+      "options": [
+        "蜜蜂",
+        "昙花",
+        "小虾",
+        "法布尔",
+        "逆风而飞",
+        "含笑一现",
+        "舞动长须",
+        "做实验"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "考查对文本主体动作的掌握。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp15",
+  "title": "名词辨析",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "名词辨析",
+      "question": "Please put your ____ in your schoolbag.",
+      "options": [
+        "candies",
+        "candy",
+        "a candy",
+        "the candy"
+      ],
+      "answer": "candies",
+      "explanation": "根据教材情景，表达书包里的多颗糖果，常用复数candies。"
+    }
+  ],
+  "knowledge": null
+}

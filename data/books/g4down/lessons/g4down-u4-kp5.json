@@ -1,0 +1,75 @@
+{
+  "id": "g4down-u4-kp5",
+  "title": "小数与单位换算",
+  "bookId": "g4down",
+  "unitNumber": 4,
+  "unitTitle": "小数的意义和性质",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数与单位换算",
+      "question": "5 吨 60 千克是多少吨？",
+      "options": [
+        "5.6 吨",
+        "5.06 吨",
+        "5.006 吨",
+        "5.060 吨"
+      ],
+      "answer": "5.06 吨",
+      "explanation": "60 千克 = $60 \\div 1000$ 吨 = 0.06 吨。5 + 0.06 = 5.06 吨。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数与单位换算",
+      "question": "1 平方米 5 平方分米是多少平方米？",
+      "options": [
+        "1.5",
+        "1.05",
+        "1.005",
+        "15"
+      ],
+      "answer": "1.05",
+      "explanation": "1 平方米=100 平方分米，5 平方分米 = $5 \\div 100 = 0.05$ 平方米。总计 1.05。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数与单位换算",
+      "question": "300 厘米 = ___ 米。",
+      "options": [],
+      "answer": "3",
+      "explanation": "$300 \\div 100 = 3$。厘米换算成米需除以进率 100。验算：$3 \\times 100 = 300$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "小数与单位换算",
+      "question": "2 千克 = ___ 克。",
+      "options": [],
+      "answer": "2000",
+      "explanation": "$2 \\times 1000 = 2000$。千克换算成克需乘以进率 1000。验算：$2000 \\div 1000 = 2$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数与单位换算",
+    "core_concept": "利用小数点移动规律处理单位换算。高级单位换低级单位（大变小）乘以进率；低级单位换高级单位（小变大）除以进率。",
+    "key_formula": "\\text{高级单位} \\xrightarrow{\\times \\text{进率}} \\text{低级单位}",
+    "common_mistakes": [
+      "记错长度、面积、重量单位间的进率（如误记 1平方米=10平方分米）",
+      "搞反乘除运算"
+    ],
+    "tips": "先看单位是变大还是变小，再想进率是多少，最后移小数点。"
+  }
+}

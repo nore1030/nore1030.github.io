@@ -1,0 +1,42 @@
+{
+  "id": "physics-g9up-u1-kp2",
+  "title": "比热容与热量的计算",
+  "bookId": "physics-g9up",
+  "unitNumber": 1,
+  "unitTitle": "内能",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "比热容与热量的计算",
+      "question": "质量 2 kg 的水温度升高 10℃，吸收的热量是多少 J？[$c_\\text{水}=4.2\\times10^3\\ \\text{J/(kg·℃)}$]",
+      "options": [],
+      "answer": "84000",
+      "explanation": "$Q=cm\\Delta t=4200\\times2\\times10=84000$ J。"
+    },
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "比热容与热量的计算",
+      "question": "质量 1 kg 的某物质吸收 $8.4\\times10^4$ J 热量后温度升高 20℃，比热容是多少 J/(kg·℃)？",
+      "options": [],
+      "answer": "4200",
+      "explanation": "$c=\\frac{Q}{m\\Delta t}=\\frac{84000}{1\\times20}=4200$。"
+    }
+  ],
+  "knowledge": {
+    "point": "比热容与热量的计算",
+    "core_concept": "比热容是单位质量物质温度升高 1℃ 吸收的热量，是物质的特性。水的比热容大（$4.2\\times10^3\\ \\text{J/(kg·℃)}$），常作冷却剂。",
+    "key_formula": "$Q=cm\\Delta t$",
+    "common_mistakes": [
+      "$\\Delta t$ 与末温混淆。"
+    ],
+    "tips": "$\\Delta t$ 是温度变化量。"
+  }
+}

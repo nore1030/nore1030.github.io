@@ -1,0 +1,39 @@
+{
+  "id": "science-g4up-u2-kp2",
+  "title": "测量与提升肺活量",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 1,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "测量与提升肺活量",
+      "question": "肺活量大的人，每次呼吸能够交换的气体量相对较多。",
+      "options": [],
+      "answer": "对",
+      "explanation": "肺活量是人体发育水平和健康状况的重要指标，大的肺活量意味着更强气体交换能力。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "测量与提升肺活量",
+      "question": "通过体育锻炼，我们的肺活量通常会（）。",
+      "options": [
+        "减小",
+        "不变",
+        "增大",
+        "先变大后变小"
+      ],
+      "answer": "增大",
+      "explanation": "长期锻炼可增强呼吸肌力量，提升肺部的扩张能力。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "chinese-g11down-u1-kp2",
+  "title": "文学评论与经典阅读",
+  "bookId": "chinese-g11down",
+  "unitNumber": 1,
+  "unitTitle": "语言文字与文学评论",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "文学评论与经典阅读",
+      "question": "文学评论的重点是（　）",
+      "options": [
+        "作品的主旨、艺术特色与思想价值",
+        "作者生平简介",
+        "故事结局",
+        "封面设计"
+      ],
+      "answer": "作品的主旨、艺术特色与思想价值",
+      "explanation": "评论三要素。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "文学评论与经典阅读",
+      "question": "阅读经典要读进去并品出味道。",
+      "options": [],
+      "answer": "对",
+      "explanation": "读经典。"
+    }
+  ],
+  "knowledge": {
+    "point": "文学评论与经典阅读",
+    "core_concept": "文学评论要抓作品的主旨、艺术特色与思想价值。阅读经典要读进去、品出来。",
+    "key_formula": "主旨 + 艺术 + 价值",
+    "common_mistakes": [
+      "只复述情节不评析。"
+    ],
+    "tips": "评论要评析结合。"
+  }
+}

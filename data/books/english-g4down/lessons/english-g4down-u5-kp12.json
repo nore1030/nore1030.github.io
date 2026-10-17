@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u5-kp12",
+  "title": "名词性物主代词",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 8,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名词性物主代词",
+      "question": "The blue hat is ______. (那是我的。)",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "answer": "mine",
+      "explanation": "mine是名词性物主代词，相当于my hat。"
+    }
+  ],
+  "knowledge": null
+}

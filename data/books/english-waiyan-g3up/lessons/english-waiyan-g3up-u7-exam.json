@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 7,
+  "unitTitle": "Module 7 Have you got a headache? 健康",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "Have you got…? 问答",
+      "question": "— Has she got a cold? — ___",
+      "options": [
+        "Yes, she has.",
+        "Yes, she have.",
+        "Yes, she is.",
+        "No, she hasn't got."
+      ],
+      "answer": "Yes, she has.",
+      "explanation": "has 问 has 答。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+      "question": "「考试」的英文是（　）",
+      "options": [
+        "test",
+        "text",
+        "tast",
+        "tests"
+      ],
+      "answer": "test",
+      "explanation": "test = 考试。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "Have you got…? 问答",
+      "question": "have got 的疑问句把 have / has 提到句首。",
+      "options": [],
+      "answer": "对",
+      "explanation": "提前构成疑问。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+      "question": "你肚子痛，应说（　）",
+      "options": [
+        "I've got a stomach ache.",
+        "I've got a head ache.",
+        "I've got a cold.",
+        "I'm stomach ache."
+      ],
+      "answer": "I've got a stomach ache.",
+      "explanation": "肚子痛 stomach ache。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u5-kp3",
+  "title": "想象与现实情感的结合",
+  "bookId": "chinese-g3down",
+  "unitNumber": 5,
+  "unitTitle": "大胆想象",
+  "kpIndex": 2,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "想象与现实情感的结合",
+      "question": "想象故事虽然奇特，但其中蕴含的情感往往是真实的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "想象是外壳，母爱、童真等情感是内核。"
+    }
+  ],
+  "knowledge": {
+    "point": "想象与现实情感的结合",
+    "core_concept": "单纯的想象是枯燥的，好的想象故事必须植根于真实的情感。在五年级下册的学习中，重点是理解《我变成了一棵树》中母子之间的互动。无论想象多么离奇，那种“无论你变成什么，妈妈都能认出你”的爱是连接想象与读者的纽带。",
+    "key_formula": "感人的想象 = 奇特的外壳 + 真实的情感内核",
+    "common_mistakes": [
+      "故事只有光怪陆离的描写，读完后感觉空洞无物",
+      "情感表达生硬，与想象的情境格格不入"
+    ],
+    "tips": "记录下生活中最让你触动的一个瞬间（如妈妈的叮咛），尝试给这个瞬间套上一个神奇的“马甲”。"
+  }
+}

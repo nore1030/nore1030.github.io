@@ -1,0 +1,217 @@
+{
+  "id": "g5down-u9-exam",
+  "title": "第 9 单元挑战",
+  "bookId": "g5down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "分数的分子和分母同时乘或除以相同的数，分数的大小不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "必须是相同的非零数。如果同时乘 0 则无意义。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "两个体积单位之间的进率都是 1000。",
+      "options": [],
+      "answer": "错",
+      "explanation": "相邻的体积单位进率是 1000，不相邻的则不是。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "等底等高的两个长方体，形状一定相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然底面积和高相等，但长和宽的具体数值可以不同，形状不同。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "统计与概率综合分析",
+      "question": "在复式条形统计图里，必须用不同的颜色或底纹来区分不同的类别。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是为了直观地区分两组数据，属于复式统计图的规范要求。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "长方体有几个顶点？",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "长方体有 6 个面，12 条棱，8 个顶点。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "下面的分数中，哪个是最简分数？",
+      "options": [
+        "2/4",
+        "3/9",
+        "5/11",
+        "6/8"
+      ],
+      "answer": "5/11",
+      "explanation": "5 和 11 互质，不能再约分。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "4 和 6 的最小公倍数是：",
+      "options": [
+        "2",
+        "12",
+        "24",
+        "1"
+      ],
+      "answer": "12",
+      "explanation": "4 的倍数有 4, 8, 12...，6 的倍数有 6, 12...，最小公倍数是 12。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个长方体水缸，从里面量长 5 分米，宽 4 分米，水深 3 分米。缸内有水多少升？",
+      "options": [
+        "60",
+        "20",
+        "15",
+        "12"
+      ],
+      "answer": "60",
+      "explanation": "$5 \\times 4 \\times 3 = 60$ 立方分米，即 60 升。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "有一袋糖，无论平均分给 8 人还是 10 人都剩 1 块。这袋糖至少有多少块？",
+      "options": [
+        "40",
+        "41",
+        "81",
+        "39"
+      ],
+      "answer": "41",
+      "explanation": "8 和 10 的最小公倍数是 40，$40 + 1 = 41$。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个大正方体的表面积是 150，切成小正方体后增加 60。原正方体边长是：",
+      "options": [
+        "5",
+        "25",
+        "10",
+        "15"
+      ],
+      "answer": "5",
+      "explanation": "每个面 $150 \\div 6 = 25$，边长为 5。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "把 $\\frac{3}{4}$ 化成小数是：",
+      "options": [
+        "0.3",
+        "0.4",
+        "0.75",
+        "1.33"
+      ],
+      "answer": "0.75",
+      "explanation": "$3 \\div 4 = 0.75$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "2/3 + 1/6 的结果是：",
+      "options": [
+        "3/9",
+        "5/6",
+        "4/6",
+        "1/2"
+      ],
+      "answer": "5/6",
+      "explanation": "$2/3 + 1/6 = 4/6 + 1/6 = 5/6$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "一个数既是 12 的因数，又是 12 的倍数，这个数是 ___。",
+      "options": [],
+      "answer": "12",
+      "explanation": "一个数最大的因数和最小的倍数都是它本身。验算：$12 \\div 12 = 1$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一根 2 米长的长方体木料截成 3 段，增加了 4 个面。如果每个面是 5 平方厘米，共增加 ___ 平方厘米。",
+      "options": [],
+      "answer": "20",
+      "explanation": "$4 \\times 5 = 20$。验算：$20 \\div 4 = 5$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数综合梳理",
+      "question": "计算：$200 \\div 5 = ?$",
+      "options": [],
+      "answer": "40",
+      "explanation": "$200 \\div 5 = 40$。验算：$40 \\times 5 = 200$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

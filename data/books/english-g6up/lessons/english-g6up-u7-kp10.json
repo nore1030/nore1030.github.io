@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u7-kp10",
+  "title": "建议引导词",
+  "bookId": "english-g6up",
+  "unitNumber": 7,
+  "unitTitle": "Recycle & Summary",
+  "kpIndex": 6,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "建议引导词",
+      "question": "You should ______ a deep breath and count to ten.",
+      "options": [
+        "takes",
+        "taking",
+        "take",
+        "took"
+      ],
+      "answer": "take",
+      "explanation": "should是情态动词，后面接动词原形。"
+    }
+  ],
+  "knowledge": null
+}

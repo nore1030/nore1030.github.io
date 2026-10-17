@@ -1,0 +1,47 @@
+{
+  "id": "geography-g8down-u1-kp1",
+  "title": "四大地理区域",
+  "bookId": "geography-g8down",
+  "unitNumber": 1,
+  "unitTitle": "中国的地理差异与经济发展",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "四大地理区域",
+      "question": "我国四大地理区域中，位于最南的是（　）",
+      "options": [
+        "南方地区",
+        "北方地区",
+        "西北地区",
+        "青藏地区"
+      ],
+      "answer": "南方地区",
+      "explanation": "南方地区最南。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "四大地理区域",
+      "question": "秦岭—淮河一线大致是我国南北方分界线。",
+      "options": [],
+      "answer": "对",
+      "explanation": "南北分界线。"
+    }
+  ],
+  "knowledge": {
+    "point": "四大地理区域",
+    "core_concept": "我国划分为北方地区、南方地区、西北地区和青藏地区四大区域。分界线大体与秦岭—淮河一线、400 毫米年等降水量线相吻合。",
+    "key_formula": "秦岭—淮河、400 mm 等降水量线",
+    "common_mistakes": [
+      "把四大区域与地形区混淆。"
+    ],
+    "tips": "区域界线要记牢。"
+  }
+}

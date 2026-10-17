@@ -1,0 +1,66 @@
+{
+  "id": "english-beishida-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-beishida-g3down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Family 家庭与身体",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "“哥哥/弟弟”的英文是（　）",
+      "options": [
+        "brother",
+        "sister",
+        "uncle",
+        "aunt"
+      ],
+      "answer": "brother",
+      "explanation": "兄弟 brother。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体部位",
+      "question": "“鼻子”的英文是（　）",
+      "options": [
+        "nose",
+        "eye",
+        "ear",
+        "mouth"
+      ],
+      "answer": "nose",
+      "explanation": "鼻子 nose。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "家庭成员",
+      "question": "uncle 指叔叔/舅舅，aunt 指姑姑/阿姨。",
+      "options": [],
+      "answer": "对",
+      "explanation": "亲属称呼。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "身体部位",
+      "question": "eye 的复数形式是 eyes。",
+      "options": [],
+      "answer": "对",
+      "explanation": "复数。"
+    }
+  ],
+  "knowledge": null
+}

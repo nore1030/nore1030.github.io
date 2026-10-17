@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g2down-u6-kp13",
+  "title": "词语解释",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 12,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语解释",
+      "question": "请将下列词语与它们的意思正确连接：",
+      "options": [
+        "向导",
+        "稠密",
+        "稀少",
+        "慌张",
+        "事物稀疏",
+        "指路的人",
+        "心里不沉着",
+        "多而密"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "A向导-指路的人；B稠密-多而密；C稀少-事物稀疏；D慌张-不沉着。"
+    }
+  ],
+  "knowledge": null
+}

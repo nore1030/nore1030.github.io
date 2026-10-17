@@ -1,0 +1,80 @@
+{
+  "id": "g4up-u1-kp2",
+  "title": "亿以内数的读法与写法",
+  "bookId": "g4up",
+  "unitNumber": 1,
+  "unitTitle": "大数的认识",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "亿以内数的读法与写法",
+      "question": "读数时，每级末尾不管有几个0，都不读。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据大数的读法规则：每级末尾的0都不读，其他数位有一个0或连续几个0，都只读一个零。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "亿以内数的读法与写法",
+      "question": "由 3 个万、5 个千、4 个十组成的数是（  ）。",
+      "options": [
+        "35040",
+        "30540",
+        "35400",
+        "35004"
+      ],
+      "answer": "35040",
+      "explanation": "万位上是3，千位上是5，十位上是4，百位和个位补0，得到 35040。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "亿以内数的读法与写法",
+      "question": "下面各数中，只读一个零的是（  ）。",
+      "options": [
+        "800800",
+        "808000",
+        "800008",
+        "880000"
+      ],
+      "answer": "800008",
+      "explanation": "A读八十万零八百（两个零）；B读八十万八千；C读八十万零八（一个零）；D读八十八万。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "亿以内数的读法与写法",
+      "question": "一个数由 2 个万和 2 个一组成，这个数是（  ）。",
+      "options": [
+        "20002",
+        "20020",
+        "20200",
+        "22000"
+      ],
+      "answer": "20002",
+      "explanation": "万位是2，个位是2，中间的千、百、十位都是0。写作 20002。"
+    }
+  ],
+  "knowledge": {
+    "point": "亿以内数的读法与写法",
+    "core_concept": "读数从高位起，一级一级往下读。万级读完要加“万”字。写数也是从高位起，哪一位上一个单位也没有就要写0占位。",
+    "key_formula": "每级末尾的0不读，中间有一个或连续几个0都只读一个零",
+    "common_mistakes": [
+      "中间连续几个零读多了，或者末尾的零读出来了",
+      "写数时“占位”零漏写"
+    ],
+    "tips": "读数先分级，写数看板块。读写完成后要再看一遍，数数位数对不对。"
+  }
+}

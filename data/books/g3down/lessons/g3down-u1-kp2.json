@@ -1,0 +1,80 @@
+{
+  "id": "g3down-u1-kp2",
+  "title": "地图上的方位识别",
+  "bookId": "g3down",
+  "unitNumber": 1,
+  "unitTitle": "位置与方向（一）",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "地图上的方位识别",
+      "question": "在地图上，通常按照“上北下南，左东右西”来绘制。",
+      "options": [],
+      "answer": "错",
+      "explanation": "地图的标准绘制规则是“上北下南，左西右东”。原题中左右颠倒了。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地图上的方位识别",
+      "question": "在平面图上，操场在教学楼的上面，说明操场在教学楼的哪个方向？",
+      "options": [
+        "东面",
+        "南面",
+        "西面",
+        "北面"
+      ],
+      "answer": "北面",
+      "explanation": "地图规则是“上北下南”。“上面”对应“北面”。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地图上的方位识别",
+      "question": "在森林公园平面图上，猴山在狮虎山的左下角，猴山在狮虎山的什么方向？",
+      "options": [
+        "东北",
+        "东南",
+        "西北",
+        "西南"
+      ],
+      "answer": "西南",
+      "explanation": "左对应西，下对应南。左下即西南。验算：左西+下南=西南 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地图上的方位识别",
+      "question": "如果地图上没有标注“北”字箭头，我们默认它的上方是什么方向？",
+      "options": [
+        "东",
+        "南",
+        "西",
+        "北"
+      ],
+      "answer": "北",
+      "explanation": "通用规则定义：通常上北下南。"
+    }
+  ],
+  "knowledge": {
+    "point": "地图上的方位识别",
+    "core_concept": "在数学和地理课本中，平面图和地图有一套标准的观察方法。即当我们把地图平铺在桌面上时，它的上方代表北方。通过这种约定，我们可以在没有实景参考的情况下描述物体间的位置关系。",
+    "key_formula": "地图准则：上北、下南、左西、右东",
+    "common_mistakes": [
+      "在描述两个物体位置关系时，搞错参照物。例如“A在B的北面”和“B在A的南面”混淆。",
+      "在非标准标注的图中，忘记先找指向标。"
+    ],
+    "tips": "找位置时，先在参照物位置画一个十字坐标轴，标出北、南、西、东再判断。"
+  }
+}

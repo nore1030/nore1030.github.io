@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u4-kp12",
+  "title": "词语词性/分类",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 11,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语词性/分类",
+      "question": "请将颜色词与对应的花朵进行连线。",
+      "options": [
+        "牵牛花",
+        "蔷薇",
+        "万寿菊",
+        "睡莲",
+        "紫色",
+        "艳红",
+        "金黄",
+        "白色"
+      ],
+      "answer": "A-1,B-2,C-3,D-4",
+      "explanation": "根据课文《花钟》原文内容配对。"
+    }
+  ],
+  "knowledge": null
+}

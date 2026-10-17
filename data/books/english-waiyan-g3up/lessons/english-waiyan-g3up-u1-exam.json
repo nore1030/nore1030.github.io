@@ -1,0 +1,71 @@
+{
+  "id": "english-waiyan-g3up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Food and table manners 饮食与餐具",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "食物与餐具词汇",
+      "question": "「汉堡包」的英文是（　）",
+      "options": [
+        "hamburger",
+        "humberger",
+        "hamberger",
+        "hamburg"
+      ],
+      "answer": "hamburger",
+      "explanation": "hamburger = 汉堡包。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "现在进行时 be + doing",
+      "question": "Look! The ducks ___ in the rain.",
+      "options": [
+        "are playing",
+        "play",
+        "plays",
+        "played"
+      ],
+      "answer": "are playing",
+      "explanation": "Look! 提示此刻正在发生。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "食物与餐具词汇",
+      "question": "英国人吃饭常用刀叉。",
+      "options": [],
+      "answer": "对",
+      "explanation": "knife and fork。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "现在进行时 be + doing",
+      "question": "表示「我正在吃苹果」，应说（　）",
+      "options": [
+        "I'm eating an apple.",
+        "I eat an apple.",
+        "I'm eat an apple.",
+        "I eating an apple."
+      ],
+      "answer": "I'm eating an apple.",
+      "explanation": "be + eating。"
+    }
+  ],
+  "knowledge": null
+}

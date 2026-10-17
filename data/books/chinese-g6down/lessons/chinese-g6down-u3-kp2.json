@@ -1,0 +1,92 @@
+{
+  "id": "chinese-g6down-u3-kp2",
+  "title": "修辞手法强化情感表达",
+  "bookId": "chinese-g6down",
+  "unitNumber": 3,
+  "unitTitle": "让真情在笔尖流露",
+  "kpIndex": 0,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法强化情感表达",
+      "question": "《匆匆》一文中，作者运用了大量的问句来表达对时光流逝的无奈与叹息。",
+      "options": [],
+      "answer": "对",
+      "explanation": "课文《匆匆》开头和结尾都用了问句，中间也穿插了连续的追问，通过这种方式强烈地表达了作者对时光易逝的感慨。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法强化情感表达",
+      "question": "阅读句子：“洗手的时候，日子从水盆里过去；吃饭的时候，日子从饭碗里过去。”这句运用的修辞手法主要是：",
+      "options": [
+        "比喻",
+        "排比",
+        "反问",
+        "夸张"
+      ],
+      "answer": "排比",
+      "explanation": "句子结构相同，内容相关，通过排比写出了时光在日常生活杂事中悄悄溜走。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法强化情感表达",
+      "question": "“过去的日子如轻烟，被微风吹散了。”这句运用了哪种修辞？",
+      "options": [
+        "拟人",
+        "比喻",
+        "借代",
+        "对比"
+      ],
+      "answer": "比喻",
+      "explanation": "将“过去的日子”比作“轻烟”，形象写出了时光虚无、易逝的特征。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "修辞手法强化情感表达",
+      "question": "“我不知道他们守候在什么地方。我的（___）是怎样虚度了呢？”中应填入？",
+      "options": [],
+      "answer": "日子",
+      "explanation": "出自《匆匆》，作者感叹自己过去的时光被虚度。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法强化情感表达",
+      "question": "请根据《匆匆》内容排列出时光流逝的轨迹：",
+      "options": [
+        "日子",
+        "在眨眼间",
+        "便",
+        "匆匆溜走",
+        "从我们的"
+      ],
+      "answer": "日子,从我们的,在眨眼间,便,匆匆溜走",
+      "explanation": "按照主谓宾结构排列，体现了时光的快速流逝。"
+    }
+  ],
+  "knowledge": {
+    "point": "修辞手法强化情感表达",
+    "core_concept": "在《匆匆》等散文中，通过排比、比喻、反复和连续不断的追问（反问/疑问），可以层层递进地增强情感的浓度。排比能增强节奏感，追问能直抵人心，比喻则能将抽象的时间或情感变得具象可感。",
+    "key_formula": "合理修辞 = 情感放大器",
+    "common_mistakes": [
+      "为了修辞而修辞，导致句子华而不实，脱离了真实情感。",
+      "分不清设问和反问的区别，导致语感表达不准确。"
+    ],
+    "tips": "读到动人处，试着把修辞句换成普通话，对比一下情感的减损，就能明白其妙处。"
+  }
+}

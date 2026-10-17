@@ -1,0 +1,177 @@
+{
+  "id": "g3up-u7-kp2",
+  "title": "周长的含义与计算公式",
+  "bookId": "g3up",
+  "unitNumber": 7,
+  "unitTitle": "长方形和正方形",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "封闭图形一周的长度，就是它的周长。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是数学中周长的基础概念，必须是“封闭”图形的一周长度。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个正方形的边长是 5 厘米，它的周长是多少厘米？",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "answer": "20",
+      "explanation": "正方形周长公式：$C = 4 \\times a = 4 \\times 5 = 20$（厘米）。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一个长方形长 8 厘米，宽 4 厘米，它的周长是多少厘米？",
+      "options": [
+        "12",
+        "24",
+        "32",
+        "16"
+      ],
+      "answer": "24",
+      "explanation": "长方形周长公式：$C = 2 \\times (8 + 4) = 2 \\times 12 = 24$（厘米）。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "把一个边长是 10 厘米的正方形框架拉成一个平行四边形，周长会有什么变化？",
+      "options": [
+        "变大",
+        "变小",
+        "不变",
+        "无法确定"
+      ],
+      "answer": "不变",
+      "explanation": "拉动框架只是改变了角度，四条边的长度并没有发生改变，所以周长相等。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "已知一个长方形的周长是 20 厘米，长是 6 厘米，它的宽是多少厘米？",
+      "options": [
+        "4",
+        "14",
+        "8",
+        "10"
+      ],
+      "answer": "4",
+      "explanation": "$20 \\div 2 - 6 = 10 - 6 = 4$（厘米）。验算：$2 \\times (6 + 4) = 20$✓。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "用一根 12 厘米长的铁丝围成一个正方形，这个正方形的边长是多少厘米？",
+      "options": [
+        "6",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": "3",
+      "explanation": "$12 \\div 4 = 3$（厘米）。验算：$3 \\times 4 = 12$✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "小明骑自行车绕一个边长为 100 米的正方形广场骑了一圈，他一共骑了多少米？",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "answer": "400",
+      "explanation": "骑一圈即计算正方形周长：$100 \\times 4 = 400$（米）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "测量课本封面的周长，通常选用什么单位？",
+      "options": [
+        "米",
+        "厘米",
+        "分米",
+        "千米"
+      ],
+      "answer": "厘米",
+      "explanation": "课本长度一般在20-30厘米之间，厘米是测量文具、课本等小型物体最合适的单位。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "一面正方形镜子的边长是 2 分米，要在它四周包上铝合金边框，需要铝合金条 ___ 分米。",
+      "options": [],
+      "answer": "8",
+      "explanation": "$2 \\times 4 = 8$（分米）。围边框即求正方形周长。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "$2 \\times (15 + 10) = ?$",
+      "options": [],
+      "answer": "50",
+      "explanation": "先算括号里：$15 + 10 = 25$。再算乘法：$2 \\times 25 = 50$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "周长的含义与计算公式",
+      "question": "$20 \\times 4 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "直接计算：$20 \\times 4 = 80$。验算：$80 \\div 4 = 20$。"
+    }
+  ],
+  "knowledge": {
+    "point": "周长的含义与计算公式",
+    "core_concept": "封闭图形一周的长度就是它的周长。测量不规则图形可以用绳子绕一周再量绳长（化曲为直）。计算长方形周长需要知道长和宽，计算正方形周长只需知道边长。",
+    "key_formula": "长方形 C = 2 \\times (a + b); 正方形 C = 4 \\times a",
+    "common_mistakes": [
+      "计算长方形周长时只加一个长和一个宽（忘记乘以2）",
+      "计算过程中单位不统一（如长是分米，宽是厘米）"
+    ],
+    "tips": "牢记公式口诀：长宽和，乘于二；边长四，周得之。做题先看单位！"
+  }
+}

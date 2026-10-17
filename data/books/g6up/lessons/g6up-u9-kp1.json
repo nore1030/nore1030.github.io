@@ -1,0 +1,145 @@
+{
+  "id": "g6up-u9-kp1",
+  "title": "分数百分数综合复习",
+  "bookId": "g6up",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "一根绳子长 1 米，用去 80% 之后，还剩下 20% 米。",
+      "options": [],
+      "answer": "错",
+      "explanation": "百分数表示两个数之间的倍数关系，不能带单位名称。剩下的长度应该是 $1 \\times 20\\% = 0.2$ 米。验算：$80\\% + 20\\% = 100\\%$ 正确，但单位添加错误。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "一件衣服先提价 10%，再降价 10%，现价和原价一样多。",
+      "options": [],
+      "answer": "错",
+      "explanation": "提价时的单位“1”是原价，降价时的单位“1”是提价后的价格。$1 \\times (1 + 10\\%) \\times (1 - 10\\%) = 0.99$。$0.99 < 1$，所以现价比原价低。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "把 25 克盐放入 100 克水中，盐水的含盐率是多少？",
+      "options": [
+        "25%",
+        "20%",
+        "75%",
+        "125%"
+      ],
+      "answer": "20%",
+      "explanation": "含盐率 = 盐 / (盐 + 水)。$25 \\div (25 + 100) = 25 \\div 125 = 0.2 = 20\\%$。验算：$125 \\times 20\\% = 25$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "同样的梨，甲超市 10 元买 4 个，乙超市 15 元买 6 个。哪家超市便宜？",
+      "options": [
+        "甲超市便宜",
+        "乙超市便宜",
+        "一样便宜",
+        "无法比较"
+      ],
+      "answer": "一样便宜",
+      "explanation": "甲：$10 \\div 4 = 2.5$（元/个）；乙：$15 \\div 6 = 2.5$（元/个）。价格相等。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "甲数比乙数多 25%，则乙数比甲数少多少？",
+      "options": [
+        "25%",
+        "20%",
+        "75%",
+        "80%"
+      ],
+      "answer": "20%",
+      "explanation": "设乙为 100，则甲为 125。乙比甲少 $(125-100) \\div 125 = 25 \\div 125 = 0.2 = 20\\%$。验算：$125 \\times (1 - 20\\%) = 100$ ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "一袋面粉吃掉了 20 千克，正好是这袋面粉的 $\\frac{1}{4}$。这袋面粉原重多少千克？",
+      "options": [
+        "5",
+        "40",
+        "60",
+        "80"
+      ],
+      "answer": "80",
+      "explanation": "单位“1”未知，用除法：$20 \\div \\frac{1}{4} = 80$（千克）。验算：$80 \\times \\frac{1}{4} = 20$ ✓。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "一根铁丝截去 $\\frac{3}{5}$ 米后，还剩全长的 $\\frac{3}{5}$。截去的和剩下的相比，哪个长？",
+      "options": [
+        "截去的长",
+        "剩下的长",
+        "一样长",
+        "无法确定"
+      ],
+      "answer": "无法确定",
+      "explanation": "截去的是具体的量 $\\frac{3}{5}$ 米，剩下的是分率。如果全长是 1 米，则剩下 0.6 米，截去 0.4 米；如果全长是 2 米，剩下 1.2 米，截去 0.8 米。因此不确定。但在此题中，若全长未知则无法比较。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "小明有 120 张邮票，小红的邮票数是小明的 $\\frac{3}{4}$，小红有 ___ 张邮票。",
+      "options": [],
+      "answer": "90",
+      "explanation": "$120 \\times \\frac{3}{4} = 90$。验算：$90 \\div 120 = 0.75 = \\frac{3}{4}$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分数百分数综合复习",
+      "question": "计算：$80 \\times (1 - 25\\%) = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$80 \\times 0.75 = 60$。验算：$60 \\div 0.75 = 80$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "分数百分数综合复习",
+    "core_concept": "复习分数、百分数的意义及其互化。重点在于寻找“单位1”，掌握“求一个数的几分之几/百分之几是多少”用乘法，“已知一个数的几分之几/百分之几是多少，求这个数”用除法。解决增加或减少百分之几的问题时，要分清是在谁的基础上变动。",
+    "key_formula": "对应量 \\div 对应分率 = 单位“1”的量",
+    "common_mistakes": [
+      "单位“1”找错，导致乘除法逻辑颠倒。",
+      "在计算连续提价和降价问题时，误以为现价等于原价。"
+    ],
+    "tips": "做题前先圈出“的”字前面的量，通常那就是单位“1”。"
+  }
+}

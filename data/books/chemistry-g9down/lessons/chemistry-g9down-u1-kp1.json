@@ -1,0 +1,63 @@
+{
+  "id": "chemistry-g9down-u1-kp1",
+  "title": "金属的化学性质与活动性顺序",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 1,
+  "unitTitle": "金属和金属材料",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "金属的化学性质与活动性顺序",
+      "question": "下列金属中能与稀盐酸反应放出氢气的是（　）",
+      "options": [
+        "铜",
+        "银",
+        "铁",
+        "金"
+      ],
+      "answer": "铁",
+      "explanation": "铁在氢之前。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "金属的化学性质与活动性顺序",
+      "question": "金属活动性顺序中，排在氢前面的金属能与稀酸反应产生氢气。",
+      "options": [],
+      "answer": "对",
+      "explanation": "金属活动性顺序规律。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "金属的化学性质与活动性顺序",
+      "question": "将铜丝浸入硝酸银溶液中，现象是（　）",
+      "options": [
+        "无变化",
+        "铜丝表面出现银白色物质",
+        "溶液变蓝绿",
+        "产生气泡"
+      ],
+      "answer": "铜丝表面出现银白色物质",
+      "explanation": "铜置换出银（溶液也会变蓝）。"
+    }
+  ],
+  "knowledge": {
+    "point": "金属的化学性质与活动性顺序",
+    "core_concept": "金属活动性顺序：钾钙钠镁铝锌铁锡铅(氢)铜汞银铂金。位于氢前的金属能与稀酸反应放出氢气，位于前面的金属能把后面的金属从其盐溶液中置换出来。",
+    "key_formula": "$\\text{Fe}+2\\text{HCl}=\\text{FeCl}_2+\\text{H}_2\\uparrow$",
+    "common_mistakes": [
+      "认为铁与酸反应生成 $\\text{FeCl}_3$。"
+    ],
+    "tips": "铁与酸反应生成亚铁（+2）。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp16",
+  "title": "科学观察技巧",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "科学观察技巧",
+      "question": "闻植物的气味时，科学的方法是？",
+      "options": [
+        "鼻子贴上去猛吸",
+        "用手扇动气味",
+        "直接把叶子揉碎",
+        "用嘴巴尝尝"
+      ],
+      "answer": "用手扇动气味",
+      "explanation": "扇闻法是保护感官并安全感知气味的科学方法。"
+    }
+  ],
+  "knowledge": null
+}

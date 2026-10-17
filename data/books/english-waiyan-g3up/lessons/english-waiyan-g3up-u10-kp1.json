@@ -1,0 +1,63 @@
+{
+  "id": "english-waiyan-g3up-u10-kp1",
+  "title": "be going to 疑问句",
+  "bookId": "english-waiyan-g3up",
+  "unitNumber": 10,
+  "unitTitle": "Module 10 Are you going to Hong Kong? 旅行计划",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be going to 疑问句",
+      "question": "「你要去香港吗？」的英文是（　）",
+      "options": [
+        "Are you going to Hong Kong?",
+        "Do you going to Hong Kong?",
+        "You are going to Hong Kong?",
+        "Are you go to Hong Kong?"
+      ],
+      "answer": "Are you going to Hong Kong?",
+      "explanation": "be 提前。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "be going to 疑问句",
+      "question": "肯定回答 Are you going to…?，应说（　）",
+      "options": [
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, you are.",
+        "Yes, I'm."
+      ],
+      "answer": "Yes, I am.",
+      "explanation": "be 问 be 答。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "be going to 疑问句",
+      "question": "be going to 变疑问句时把 be 动词提到句首。",
+      "options": [],
+      "answer": "对",
+      "explanation": "be 前置。"
+    }
+  ],
+  "knowledge": {
+    "point": "be going to 疑问句",
+    "core_concept": "把 be 提到句首：Are you going to…? 答 Yes, I am. / No, I'm not.",
+    "key_formula": "Are you going to Hong Kong? — Yes, I am.",
+    "common_mistakes": [
+      "Do you going to…（×）"
+    ],
+    "tips": "有 be 就不再用 do。"
+  }
+}

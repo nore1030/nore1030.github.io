@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g4up-u6-kp3",
+  "title": "记叙文长话短说（缩句）",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 2,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "记叙文长话短说（缩句）",
+      "question": "缩句时，句子中的“着、了、过”一般都要保留。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在缩句中，这些表示动作状态的虚词通常予以保留以保持原意。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "记叙文长话短说（缩句）",
+      "question": "“一只全身披着金黄色羽毛的雄鸡在屋顶大声啼叫。”缩写正确的是：",
+      "options": [
+        "雄鸡在屋顶。",
+        "一只雄鸡啼叫。",
+        "雄鸡大声啼叫。",
+        "雄鸡啼叫。"
+      ],
+      "answer": "雄鸡啼叫。",
+      "explanation": "缩句要去掉所有修饰限制成分，保留主干：谁做什么。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "记叙文长话短说（缩句）",
+      "question": "“我们要保护美丽的校园环境。”缩写后的主干词语是：我们（___）",
+      "options": [],
+      "answer": "保护环境",
+      "explanation": "去掉“要”及形容词，核心谓语是“保护”，宾语是“环境”。"
+    }
+  ],
+  "knowledge": {
+    "point": "记叙文长话短说（缩句）",
+    "core_concept": "缩句就是去掉句子的“枝叶”（修辞、限定成分），保留句子的“主干”。核心目的是理清谁做了什么。在四年级阶段，主要考察去掉“形容词（的）”、“副词（地）”以及“时间、地点状语”，但需保留“着、了、过”及“把/被”字句的基本结构。",
+    "key_formula": "留主干（谁、做、什么），去枝叶（的、地、得前缀）。",
+    "common_mistakes": [
+      "过度缩简，把核心谓语或宾语也删掉了。",
+      "将“被”字句缩成了主动句，改变了原意。"
+    ],
+    "tips": "先找句子里的核心动词，再看是谁发出的，这样主干就明确了。"
+  }
+}

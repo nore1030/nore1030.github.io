@@ -1,0 +1,217 @@
+{
+  "id": "g2up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g2up",
+  "unitNumber": 7,
+  "unitTitle": "认识时间",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "钟面时刻的认读",
+      "question": "钟面上一共有60个小格。",
+      "options": [],
+      "answer": "对",
+      "explanation": "12大格 $\times$ 5小格 = 60小格。✓"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "1时也就是100分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "时间进率是60，不是100，所以1时=60分。✓"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "钟面时刻的认读",
+      "question": "快到11时了，说明已经是11时多一点了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "“快到”说明还没到，应该是10时多。✓"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "时间先后的推理",
+      "question": "时针从数字1走到数字2，经过的时间是1分钟。",
+      "options": [],
+      "answer": "错",
+      "explanation": "时针走一大格是1小时。✓"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "下面哪个单位是用来测量时间的？",
+      "options": [
+        "厘米",
+        "元",
+        "分",
+        "米"
+      ],
+      "answer": "分",
+      "explanation": "分是时间单位，厘米和米是长度单位，元是人民币单位。✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "钟面时刻的认读",
+      "question": "时针走过4，分针指着5，这个时刻是？",
+      "options": [
+        "4:05",
+        "5:04",
+        "4:25",
+        "5:25"
+      ],
+      "answer": "4:25",
+      "explanation": "时针走过4是4时多，分针指着5是 $5 \times 5 = 25$ 分。✓"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间先后的推理",
+      "question": "妈妈去超市，9:20出发，10:30回来，妈妈在外面多长时间？",
+      "options": [
+        "10分",
+        "1时10分",
+        "50分",
+        "1时"
+      ],
+      "answer": "1时10分",
+      "explanation": "从9:20到10:20是1时，再到10:30还有10分，共1时10分。✓"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "2小时等于多少分钟？",
+      "options": [
+        "60分",
+        "100分",
+        "120分",
+        "80分"
+      ],
+      "answer": "120分",
+      "explanation": "$60 + 60 = 120$。✓"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "现在是10时25分，再过一刻钟是几时？",
+      "options": [
+        "10:30",
+        "10:40",
+        "10:10",
+        "11:00"
+      ],
+      "answer": "10:40",
+      "explanation": "一刻钟是15分。$25 + 15 = 40$。故为10:40。✓"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间先后的推理",
+      "question": "小华下午2:00到校，4:30放学，他在校时间为？",
+      "options": [
+        "2时",
+        "3时",
+        "2时30分",
+        "6时30分"
+      ],
+      "answer": "2时30分",
+      "explanation": "$4:30 - 2:00 = 2$ 小时 30 分。✓"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间先后的推理",
+      "question": "一列火车本应11:45到达，现在要晚点10分钟。火车什么时候到达？",
+      "options": [
+        "11:35",
+        "11:55",
+        "12:00",
+        "12:05"
+      ],
+      "answer": "11:55",
+      "explanation": "$45 + 10 = 55$。所以时刻是11:55。✓"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "分针从12走到12，经过的时间是？",
+      "options": [
+        "1分",
+        "1时",
+        "12分",
+        "12时"
+      ],
+      "answer": "1时",
+      "explanation": "分针走一圈是60分，也就是1小时。✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "小红做家务用了 1 小时，也就是 ___ 分钟。",
+      "options": [],
+      "answer": "60",
+      "explanation": "1时=60分。✓"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "时间先后的推理",
+      "question": "现在现实时刻是 8 时 55 分，再过 5 分钟是 ___ 时。",
+      "options": [],
+      "answer": "9",
+      "explanation": "$55 + 5 = 60$，满60分进1位到时。$8 + 1 = 9$ 时。✓"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时、分、秒的换算与关系",
+      "question": "30 + 30 = ?",
+      "options": [],
+      "answer": "60",
+      "explanation": "两个半小时（30分）相加等于60分（1小时）。✓"
+    }
+  ],
+  "knowledge": null
+}

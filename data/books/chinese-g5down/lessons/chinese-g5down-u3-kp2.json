@@ -1,0 +1,64 @@
+{
+  "id": "chinese-g5down-u3-kp2",
+  "title": "搜集资料的基本方法",
+  "bookId": "chinese-g5down",
+  "unitNumber": 3,
+  "unitTitle": "遨游汉字王国",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "搜集资料的基本方法",
+      "question": "在图书馆找书时，借阅目录可以帮我们快速定位。",
+      "options": [],
+      "answer": "对",
+      "explanation": "借助目录分类可以快速缩小寻找范围。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "搜集资料的基本方法",
+      "question": "要查询汉字“龙”的文化典故，下面哪种方式不合适？",
+      "options": [
+        "到图书馆查阅历史故事书",
+        "在网上搜索关键词“龙的传说”",
+        "请教语文老师",
+        "闭着眼睛自己想象"
+      ],
+      "answer": "闭着眼睛自己想象",
+      "explanation": "搜集资料需要通过书籍、网络或请教他人，想象不是搜集手段。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "搜集资料的基本方法",
+      "question": "将撰写研究报告的步骤按顺序排列：",
+      "options": [
+        "整理资料",
+        "形成结论",
+        "明确问题",
+        "搜集资料"
+      ],
+      "answer": "明确问题,搜集资料,整理资料,形成结论",
+      "explanation": "撰写研究报告需要经过确定课题、找资料、选资料、写结论的过程。"
+    }
+  ],
+  "knowledge": {
+    "point": "搜集资料的基本方法",
+    "core_concept": "在开展专题研究时，搜集资料是核心步骤。学生需要掌握三种基本途径：一是图书资料搜索，通过索引号查找；二是网络搜索，通过关键词筛选有效信息；三是调查研究，如实地考察、采访专业人士等。要注意资料的真实性、权威性和关联性。",
+    "key_formula": "搜集途径：图书馆+网络+采访+实地考察",
+    "common_mistakes": [
+      "搜索时关键词过于宽泛导致搜出的内容无用",
+      "不加筛选地记录所有内容而没有针对性"
+    ],
+    "tips": "搜索时尽量具体，比如搜“汉字故事”比搜“汉字”更精确。"
+  }
+}

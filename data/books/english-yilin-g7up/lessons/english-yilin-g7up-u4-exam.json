@@ -1,0 +1,71 @@
+{
+  "id": "english-yilin-g7up-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 My day 我的一天",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "时间介词 at / on / in",
+      "question": "「在三月」的英文是（　）",
+      "options": [
+        "in March",
+        "at March",
+        "on March",
+        "in the March"
+      ],
+      "answer": "in March",
+      "explanation": "月份用 in。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "频度副词 always / usually / often / never",
+      "question": "「有时」的英文是（　）",
+      "options": [
+        "sometimes",
+        "some times",
+        "sometime",
+        "some time"
+      ],
+      "answer": "sometimes",
+      "explanation": "sometimes 有时。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "频度副词 always / usually / often / never",
+      "question": "never 的意思是「从不」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "never 从不。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "频度副词 always / usually / often / never",
+      "question": "「我通常六点起床。」的英文是（　）",
+      "options": [
+        "I usually get up at six.",
+        "I usually gets up at six.",
+        "Usually I get up in six.",
+        "I get up usually at six."
+      ],
+      "answer": "I usually get up at six.",
+      "explanation": "usually 放实义动词前。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,217 @@
+{
+  "id": "science-g2down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 6,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "医生使用的听诊器可以帮助他们听到我们的心跳声。",
+      "options": [],
+      "answer": "对",
+      "explanation": "听诊器能放大声音，帮助医生通过听觉观察身体内部。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人体反应速度的测试与提升",
+      "question": "反应速度是天生的，不能通过后天练习提高。",
+      "options": [],
+      "answer": "错",
+      "explanation": "通过科学的训练可以有效缩短反应时。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "综合运用感官进行观察与比较",
+      "question": "观察不仅是用眼睛看，还包括用耳听、用鼻闻等多种方式。",
+      "options": [],
+      "answer": "对",
+      "explanation": "多感官协同配合可以使观察更客观、更全面。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "通过五种感官发现信息",
+      "question": "皮肤可以感知冷热，但不能感知物体的痛觉。",
+      "options": [],
+      "answer": "错",
+      "explanation": "皮肤具备感知冷、热、痛、触的能力。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人体反应速度的测试与提升",
+      "question": "玩“抓尺子”游戏时，需要（___）和手的配合。",
+      "options": [
+        "眼睛",
+        "鼻子",
+        "舌头",
+        "脚"
+      ],
+      "answer": "眼睛",
+      "explanation": "需要眼睛看到尺子下落并迅速给大手发指令。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "通过五种感官发现信息",
+      "question": "我们在判断一个物体的软硬时，通常采用的方法是（___）。",
+      "options": [
+        "敲击听声音",
+        "用手按压",
+        "用嘴巴尝",
+        "用鼻子闻"
+      ],
+      "answer": "用手按压",
+      "explanation": "通过皮肤受力后的反馈来判断软硬程度。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "当我们用手摸自己的身体，发现皮肤下面硬硬的是（___）。",
+      "options": [
+        "肌肉",
+        "骨骼",
+        "血液",
+        "脂肪"
+      ],
+      "answer": "骨骼",
+      "explanation": "骨骼支撑着我们的身体，质地坚硬。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "身体信息的记录、推测与健康保护",
+      "question": "测量身体数据时，下列做法规范的是（___）。",
+      "options": [
+        "垫起脚尖量身高",
+        "吃饱了大餐量体重",
+        "脱去外套和鞋子量",
+        "弯着腰量身高"
+      ],
+      "answer": "脱去外套和鞋子量",
+      "explanation": "减少外物影响才能获得准确的生理数据。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "如果我们只用一只眼睛看东西，会发现（___）。",
+      "options": [
+        "看得很清楚",
+        "完全看不见",
+        "范围变小了",
+        "没有区别"
+      ],
+      "answer": "范围变小了",
+      "explanation": "双眼视觉比单眼视觉视野更广，更有立体感。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "身体信息的记录、推测 with 健康保护",
+      "question": "为了保护皮肤，我们在烈日下活动应该（___）。",
+      "options": [
+        "不做防护",
+        "多晒太阳",
+        "涂抹防晒霜",
+        "不穿衣服"
+      ],
+      "answer": "涂抹防晒霜",
+      "explanation": "紫外线会伤害皮肤，需要物理或化学防护。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人体反应速度的测试与提升",
+      "question": "在复杂的交通环境中，行人需要敏锐的反应能力，这是为了（___）。",
+      "options": [
+        "走得更快",
+        "保护安全",
+        "锻炼身体",
+        "展示美观"
+      ],
+      "answer": "保护安全",
+      "explanation": "快速反应能帮助人避开危险。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "综合运用感官进行观察与比较",
+      "question": "通过触觉，我们不能发现物体的（___）。",
+      "options": [
+        "冷热",
+        "轻重",
+        "颜色",
+        "形状"
+      ],
+      "answer": "颜色",
+      "explanation": "颜色属于视觉范畴，触觉无法感知。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "观察身体的生长变化",
+      "question": "小明去年身高120厘米，今年125厘米，他一年长高了（___）厘米。",
+      "options": [],
+      "answer": "5",
+      "explanation": "125 - 120 = 5 厘米。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的外部结构与对称性",
+      "question": "每个人都有（___）只眼睛。",
+      "options": [],
+      "answer": "2",
+      "explanation": "人类正常生理结构为双眼。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通过五种感官发现信息",
+      "question": "我们可以通过（___）辨别事物的味道。",
+      "options": [],
+      "answer": "舌头",
+      "explanation": "舌头是味觉器官。"
+    }
+  ],
+  "knowledge": null
+}

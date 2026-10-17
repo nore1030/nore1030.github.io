@@ -1,0 +1,69 @@
+{
+  "id": "g9down-u1-kp2",
+  "title": "反比例函数的性质与应用",
+  "bookId": "g9down",
+  "unitNumber": 1,
+  "unitTitle": "反比例函数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "反比例函数的性质与应用",
+      "question": "反比例函数 $y=\\frac{-4}{x}$ 的图象位于（　）",
+      "options": [
+        "第一、三象限",
+        "第二、四象限",
+        "第一、二象限",
+        "第三、四象限"
+      ],
+      "answer": "第二、四象限",
+      "explanation": "$k=-4<0$。"
+    },
+    {
+      "id": 4,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "反比例函数的性质与应用",
+      "question": "$y=\\frac{8}{x}$ 图象上一点向两坐标轴作垂线，所围矩形面积是多少？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$S=|k|=8$。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "反比例函数的性质与应用",
+      "question": "反比例函数 $y=\\frac3x$ 中，在每个象限内 $y$ 随 $x$ 增大而减小。",
+      "options": [],
+      "answer": "对",
+      "explanation": "$k=3>0$。"
+    },
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "反比例函数的性质与应用",
+      "question": "已知 $y=\\frac kx$ 过点 $(2,3)$，则 $k=$ ？",
+      "options": [],
+      "answer": "6",
+      "explanation": "$k=xy=6$。"
+    }
+  ],
+  "knowledge": {
+    "point": "反比例函数的性质与应用",
+    "core_concept": "在每个象限内，$k>0$ 时 $y$ 随 $x$ 增大而减小；$k<0$ 时 $y$ 随 $x$ 增大而增大。图形上任一点向两坐标轴作垂线围成的矩形面积为 $|k|$。",
+    "key_formula": "$S_{\\text{矩形}}=|k|$",
+    "common_mistakes": [
+      "忽视“在每个象限内”这一前提。"
+    ],
+    "tips": "比较大小先看是否在同一象限。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp14",
+  "title": "情景交际",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "情景交际",
+      "question": "当你想表达“太棒了！”或“太赞了！”时，应该说：",
+      "options": [
+        "Excuse me.",
+        "Good night.",
+        "Great!",
+        "Thank you."
+      ],
+      "answer": "Great!",
+      "explanation": "Great用于表达赞叹和称赞。"
+    }
+  ],
+  "knowledge": null
+}

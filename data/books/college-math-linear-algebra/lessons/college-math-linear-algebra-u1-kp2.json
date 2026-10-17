@@ -1,0 +1,47 @@
+{
+  "id": "college-math-linear-algebra-u1-kp2",
+  "title": "矩阵的运算",
+  "bookId": "college-math-linear-algebra",
+  "unitNumber": 1,
+  "unitTitle": "行列式与矩阵",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "矩阵的运算",
+      "question": "矩阵乘法满足交换律。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一般不满足交换律。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "矩阵的运算",
+      "question": "两个矩阵可以相乘的条件是（　）",
+      "options": [
+        "前矩阵列数等于后矩阵行数",
+        "两矩阵同型",
+        "都是方阵",
+        "行数相等"
+      ],
+      "answer": "前矩阵列数等于后矩阵行数",
+      "explanation": "乘法条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "矩阵的运算",
+    "core_concept": "矩阵乘法要求前矩阵列数等于后矩阵行数，且不满足交换律。$AB$ 与 $BA$ 一般不相等。",
+    "key_formula": "$(AB)C=A(BC)$",
+    "common_mistakes": [
+      "认为 $AB=BA$。"
+    ],
+    "tips": "矩阵乘法不交换。"
+  }
+}

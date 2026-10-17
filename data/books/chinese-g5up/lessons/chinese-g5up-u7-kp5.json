@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u7-kp5",
+  "title": "四季风景常识",
+  "bookId": "chinese-g5up",
+  "unitNumber": 7,
+  "unitTitle": "四时景物皆成趣",
+  "kpIndex": 4,
+  "kpTotal": 11,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "四季风景常识",
+      "question": "《四季之美》作者认为夏天最美的时间是？",
+      "options": [
+        "黎明",
+        "夜晚",
+        "黄昏",
+        "早晨"
+      ],
+      "answer": "夜晚",
+      "explanation": "原文明确提到：夏天最美是夜晚。"
+    }
+  ],
+  "knowledge": null
+}

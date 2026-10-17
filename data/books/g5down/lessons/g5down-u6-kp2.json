@@ -1,0 +1,107 @@
+{
+  "id": "g5down-u6-kp2",
+  "title": "异分母分数加、减法",
+  "bookId": "g5down",
+  "unitNumber": 6,
+  "unitTitle": "分数的加法和减法",
+  "kpIndex": 1,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "两个异分母分数相加，必须先通分再计算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "异分母分数的分数单位不同，不能直接相加，必须通分化成同分母分数后再计算。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "$\\frac{1}{2} + \\frac{1}{3}$ 的结果是多少？",
+      "options": [
+        "\\frac{2}{5}",
+        "\\frac{5}{6}",
+        "\\frac{1}{6}",
+        "\\frac{2}{6}"
+      ],
+      "answer": "\\frac{5}{6}",
+      "explanation": "通分母为6，$\\frac{3}{6} + \\frac{2}{6} = \\frac{5}{6}$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "$\\frac{3}{4}$ 减去 $\\frac{1}{6}$，结果是：",
+      "options": [
+        "\\frac{7}{12}",
+        "\\frac{2}{2}",
+        "\\frac{5}{12}",
+        "\\frac{1}{2}"
+      ],
+      "answer": "\\frac{7}{12}",
+      "explanation": "通分：$\\frac{9}{12} - \\frac{2}{12} = \\frac{7}{12}$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "一根绳子长 1 米，用去了 $\\frac{3}{10}$ 米，还剩多少米？",
+      "options": [
+        "\\frac{7}{10} 米",
+        "\\frac{3}{10} 米",
+        "\\frac{1}{10} 米",
+        "7 米"
+      ],
+      "answer": "\\frac{7}{10} 米",
+      "explanation": "$1 - \\frac{3}{10} = \\frac{7}{10}$（米）。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "$\\frac{2}{3}$ 和 $\\frac{3}{4}$ 相比，哪个更大？",
+      "options": [
+        "\\frac{2}{3} 大",
+        "\\frac{3}{4} 大",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "\\frac{3}{4} 大",
+      "explanation": "通分：$\\frac{2}{3}=\\frac{8}{12}$，$\\frac{3}{4}=\\frac{9}{12}$。因为 $9>8$，所以 $\\frac{3}{4}$ 大。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "异分母分数加、减法",
+      "question": "妈妈买了一个西瓜，爸爸吃了 $\\frac{1}{5}$，小明吃了 $\\frac{2}{5}$，还剩下这个西瓜的几分之几？（填分子的数字，已知分母为 5）结果的分子是 ___。",
+      "options": [],
+      "answer": "2",
+      "explanation": "西瓜总数为1。列式：$1 - \\frac{1}{5} - \\frac{2}{5} = \\frac{2}{5}$。所以结果的分子是 2。验算：$2/5 + 1/5 + 2/5 = 5/5 = 1$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "异分母分数加、减法",
+    "core_concept": "异分母分数的分母不同，意味着它们的分数单位不同。就像“3个苹果”和“2个梨”不能直接说成“5个苹果”一样，必须先通过通分，把它们转化成相同分母（即相同分数单位）的分数，然后再按照同分母分数的规则计算。",
+    "key_formula": "$\\frac{a}{b} \\pm \\frac{c}{d} = \\frac{ad \\pm bc}{bd}$",
+    "common_mistakes": [
+      "不通分直接把分子加分子，分母加分母。",
+      "通分时只把分母扩大倍数，分子忘记对应扩大倍数。"
+    ],
+    "tips": "找公分母时，通常找分母们的最小公倍数，这样计算量最小。"
+  }
+}

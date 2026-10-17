@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u2-kp9",
+  "title": "衡量肺活量",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 8,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "衡量肺活量",
+      "question": "测量肺活量时，呼出的气体量应该是（）吸一口气后的呼出量。",
+      "options": [
+        "轻轻",
+        "普通",
+        "最大力",
+        "稍微"
+      ],
+      "answer": "最大力",
+      "explanation": "肺活量指尽力吸气后，尽力呼出的气体量。"
+    }
+  ],
+  "knowledge": null
+}

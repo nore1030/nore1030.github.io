@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Travelling Around 旅行",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "预订与计划表达",
+      "question": "「申请护照」的英文是（　）",
+      "options": [
+        "apply for a passport",
+        "apply a passport",
+        "applying for passport",
+        "apply for passports"
+      ],
+      "answer": "apply for a passport",
+      "explanation": "apply for。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "旅行词汇 travel plan / transport",
+      "question": "「好游客」的英文是（　）",
+      "options": [
+        "a good tourist",
+        "a good tourism",
+        "a good travel",
+        "a good tour"
+      ],
+      "answer": "a good tourist",
+      "explanation": "tourist 游客。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "预订与计划表达",
+      "question": "reserve 的意思是「预订」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "reserve 预订。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "预订与计划表达",
+      "question": "「我打算去西安旅行。」的英文是（　）",
+      "options": [
+        "I'm going to travel to Xi'an.",
+        "I going to travel to Xi'an.",
+        "I'm going to travel Xi'an.",
+        "I'm go to travel to Xi'an."
+      ],
+      "answer": "I'm going to travel to Xi'an.",
+      "explanation": "be going to + 原形。"
+    }
+  ],
+  "knowledge": null
+}

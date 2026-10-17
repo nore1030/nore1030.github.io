@@ -1,0 +1,106 @@
+{
+  "id": "chinese-g1up-u7-kp1",
+  "title": "反义词对举与应用",
+  "bookId": "chinese-g1up",
+  "unitNumber": 7,
+  "unitTitle": "课文（二）：观察与成长",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "反义词对举与应用",
+      "question": "“大”的反义词是“小”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基本反义词辨析，大对小。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "反义词对举与应用",
+      "question": "在方位词中，“左”的反义词是“右”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "左右是相互对应的一组方向。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词对举与应用",
+      "question": "选出下列词语中不是一组反义词的选项：",
+      "options": [
+        "南—北",
+        "上—下",
+        "好—坏",
+        "大—青"
+      ],
+      "answer": "大—青",
+      "explanation": "大对小，青是表示颜色的词。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反义词对举与应用",
+      "question": "在儿歌中，“前”对“后”，“左”对（  ）。",
+      "options": [
+        "东",
+        "西",
+        "右",
+        "北"
+      ],
+      "answer": "右",
+      "explanation": "方位词左右相对。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词对举与应用",
+      "question": "“多”的反义词是（  ）。",
+      "options": [],
+      "answer": "少",
+      "explanation": "基础词汇考察。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词对举与应用",
+      "question": "请将意思相反的词连起来。",
+      "options": [
+        "上",
+        "大",
+        "多",
+        "前",
+        "少",
+        "后",
+        "下",
+        "小"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "上-下，大-小，多-少，前-后。"
+    }
+  ],
+  "knowledge": {
+    "point": "反义词对举与应用",
+    "core_concept": "反义词是意义相反或相对的词汇。在一年级阶段，学生需要掌握最基础的空间、数量、大小等概念的对举，如“大-小”、“多-少”、“上-下”、“前-后”、“左右”。这些词汇能帮助学生在观察世界时建立对比思维，理解事物在不同維度上的差异性。",
+    "key_formula": "反义词 = 意思相反的两个词联结成对。",
+    "common_mistakes": [
+      "将近义词混淆为反义词（如把“大”和“胖”当做一对）",
+      "在具体语境中方位错乱（如左右不分）"
+    ],
+    "tips": "可以通过肢体游戏（我说上，你指下）或“画反画”的方式来记忆。"
+  }
+}

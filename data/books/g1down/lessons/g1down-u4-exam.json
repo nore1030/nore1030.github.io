@@ -1,0 +1,217 @@
+{
+  "id": "g1down-u4-exam",
+  "title": "第 4 单元挑战",
+  "bookId": "g1down",
+  "unitNumber": 4,
+  "unitTitle": "100以内数的认识",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "55中的两个“5”表示的意思相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "左边的“5”在十位，表示5个十；右边的“5”在个位，表示5个一。意思不同。 ✓。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "比30大又比35小的数只有31, 32, 33, 34这四个数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "在整数范围内，30和35之间的整数只有31, 32, 33, 34。 ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的大小比较与描述",
+      "question": "两位数一定比一位数大。",
+      "options": [],
+      "answer": "对",
+      "explanation": "最小的两位数是10，最大的一位数是9。$10 > 9$，所以成立。 ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "一个数个位是8，十位是1，这个数读作一十八。",
+      "options": [],
+      "answer": "错",
+      "explanation": "18 读作“十八”，而不是“一十八”。这是由于读数习惯中，十位是1的两位数省略前面的“一”。 ✓。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "在计数器上用6颗珠子能摆出几个不同的两位数？",
+      "options": [
+        "5个",
+        "6个",
+        "7个",
+        "4个"
+      ],
+      "answer": "6个",
+      "explanation": "可能的两位数：60, 51, 42, 33, 24, 15。共6个。 ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的大小比较与描述",
+      "question": "在 92 ___ 89 中，圆圈里应填：",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "比较十位数字：9大于8，所以 $92 > 89$。 ✓。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的大小比较与描述",
+      "question": "苹果有20个，草莓比苹果多得多。草莓可能有几个？",
+      "options": [
+        "18个",
+        "23个",
+        "80个",
+        "20个"
+      ],
+      "answer": "80个",
+      "explanation": "“多得多”表示数值差距很大。80比20多60，符合条件。 ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "百位上是1，十位和个位都是0的数是：",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "111"
+      ],
+      "answer": "100",
+      "explanation": "按照数位写出：百位1，十位0，个位0。合起来是100。 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的大小比较与描述",
+      "question": "把 38, 83, 45, 54 按从大到小的顺序排列，排在第三个的是：",
+      "options": [
+        "83",
+        "54",
+        "45",
+        "38"
+      ],
+      "answer": "45",
+      "explanation": "从大到小排列：83 > 54 > 45 > 38。第三个是45。 ✓。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "由7个一和3个十组成的数是：",
+      "options": [
+        "73",
+        "37",
+        "703",
+        "307"
+      ],
+      "answer": "37",
+      "explanation": "3个十是30，7个一是7。合起来是37。注意不要填成73。 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "爸爸买了38个馒头。每10个装一盒，可以装满几盒？",
+      "options": [
+        "3盒",
+        "4盒",
+        "8盒",
+        "38盒"
+      ],
+      "answer": "3盒",
+      "explanation": "38里面有3个十，所以可以装满3盒，剩下8个。 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内数的大小比较与描述",
+      "question": "最大的两位数比最小的两位数多多少？",
+      "options": [
+        "99",
+        "10",
+        "89",
+        "90"
+      ],
+      "answer": "89",
+      "explanation": "最大两位数99，最小两位数10。$99 - 10 = 89$。 ✓。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "一个数从右边起，第一位是3，第二位是5，这个数是 ___ 。",
+      "options": [],
+      "answer": "53",
+      "explanation": "右起第一位是个位（3），第二位是十位（5）。结果是53。 ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "小明有 20 元，小红有 28 元，小红比小明多 ___ 元。",
+      "options": [],
+      "answer": "8",
+      "explanation": "列式：$28 - 20 = 8$（元）。验算：$20 + 8 = 28$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "100以内数的数数与组成",
+      "question": "$50 + 30 = ?$",
+      "options": [],
+      "answer": "80",
+      "explanation": "$50 + 30 = 80$。5个十加3个十等于8个十。验算：$80 - 30 = 50$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

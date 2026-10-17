@@ -1,0 +1,50 @@
+{
+  "id": "science-g6down-u3-kp7",
+  "title": "日食的成因",
+  "bookId": "science-g6down",
+  "unitNumber": 3,
+  "unitTitle": "宇宙",
+  "kpIndex": 5,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "日食的成因",
+      "question": "日食发生时，月球运行到了地球和太阳的中间。",
+      "options": [],
+      "answer": "对",
+      "explanation": "日食的成因是月球挡住了太阳射向地球的光。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "日食的成因",
+      "question": "日食一般发生在农历的什么时候？",
+      "options": [
+        "初一",
+        "初七",
+        "十五",
+        "二十二"
+      ],
+      "answer": "初一",
+      "explanation": "日食发生在朔日，即农历初一，此时月球处于日地之间。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日食的成因",
+      "question": "日食发生时，月球的（___）投影在地球表面。",
+      "options": [],
+      "answer": "影子",
+      "explanation": "日食是因为月球处于日地间，其影子落在地球上产生的现象。"
+    }
+  ],
+  "knowledge": null
+}

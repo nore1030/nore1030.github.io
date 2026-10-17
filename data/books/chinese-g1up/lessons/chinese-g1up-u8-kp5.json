@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g1up-u8-kp5",
+  "title": "字义辨析",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 4,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字义辨析",
+      "question": "下列叠词使用不正确的一项是：",
+      "options": [
+        "弯弯的月儿",
+        "小小的船",
+        "大大的苹果",
+        "长长的气球"
+      ],
+      "answer": "长长的气球",
+      "explanation": "气球通常说“大大的”或“圆圆的”，描述形状。长长一般形容绳子或道路。"
+    }
+  ],
+  "knowledge": null
+}

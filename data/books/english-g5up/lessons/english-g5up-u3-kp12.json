@@ -1,0 +1,28 @@
+{
+  "id": "english-g5up-u3-kp12",
+  "title": "形容词词义",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 7,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形容词词义",
+      "question": "Ice cream is very _____. Children like it.",
+      "options": [
+        "hot",
+        "sweet",
+        "salty",
+        "fresh"
+      ],
+      "answer": "sweet",
+      "explanation": "冰淇淋的显著特点是甜（sweet）。"
+    }
+  ],
+  "knowledge": null
+}

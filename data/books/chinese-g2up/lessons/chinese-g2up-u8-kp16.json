@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp16",
+  "title": "相处之道",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 12,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "相处之道",
+      "question": "当你和好朋友吵架了，你想和好，下面哪种方式最合适？",
+      "options": [
+        "再也不理他了",
+        "等他先来找我",
+        "主动写一张卡片道歉",
+        "在班级里大声说他坏话"
+      ],
+      "answer": "主动写一张卡片道歉",
+      "explanation": "本单元主题是相处，主张真诚地化解矛盾。"
+    }
+  ],
+  "knowledge": null
+}

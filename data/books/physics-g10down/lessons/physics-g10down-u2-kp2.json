@@ -1,0 +1,47 @@
+{
+  "id": "physics-g10down-u2-kp2",
+  "title": "宇宙速度与卫星",
+  "bookId": "physics-g10down",
+  "unitNumber": 2,
+  "unitTitle": "万有引力与宇宙航行",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "宇宙速度与卫星",
+      "question": "地球同步卫星的周期约为（　）",
+      "options": [
+        "1 h",
+        "12 h",
+        "24 h",
+        "365 天"
+      ],
+      "answer": "24 h",
+      "explanation": "与地球自转周期相同。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "宇宙速度与卫星",
+      "question": "地球同步卫星一定位于赤道的正上方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同步卫星位置固定。"
+    }
+  ],
+  "knowledge": {
+    "point": "宇宙速度与卫星",
+    "core_concept": "第一宇宙速度约 7.9 km/s，是环绕地球做圆周运动的最大速度；地球同步卫星周期等于地球自转周期（约 24 h），一定位于赤道正上方。",
+    "key_formula": "$v_1\\approx7.9\\ \\text{km/s}$",
+    "common_mistakes": [
+      "认为同步卫星可在任意纬度。"
+    ],
+    "tips": "同步卫星必在赤道上方。"
+  }
+}

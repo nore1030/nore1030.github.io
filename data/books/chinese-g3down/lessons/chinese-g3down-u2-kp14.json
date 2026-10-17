@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u2-kp14",
+  "title": "句子语气",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句子语气",
+      "question": "‘你敢碰我吗，陶罐子！’这句话体现了铁罐说话时：",
+      "options": [
+        "谦虚",
+        "商量",
+        "傲慢",
+        "好奇"
+      ],
+      "answer": "傲慢",
+      "explanation": "感叹号和词语体现其盛气凌人。"
+    }
+  ],
+  "knowledge": null
+}

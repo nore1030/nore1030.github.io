@@ -1,0 +1,66 @@
+{
+  "id": "chinese-g8down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "chinese-g8down",
+  "unitNumber": 1,
+  "unitTitle": "古诗文与游记",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古代游记散文",
+      "question": "分析游记中的景物描写作用，可以从（　）入手",
+      "options": [
+        "景物特点与表达的情感",
+        "作者生平",
+        "文章字数",
+        "标点符号"
+      ],
+      "answer": "景物特点与表达的情感",
+      "explanation": "从景与情入手。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "古代诗歌鉴赏",
+      "question": "“大漠孤烟直，长河落日圆”描绘的是（　）",
+      "options": [
+        "雄浑壮阔的边塞景象",
+        "江南春景",
+        "田园闲趣",
+        "市井生活"
+      ],
+      "answer": "雄浑壮阔的边塞景象",
+      "explanation": "边塞雄浑景象。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古代游记散文",
+      "question": "游记中的议论句往往直接表达作者主旨。",
+      "options": [],
+      "answer": "对",
+      "explanation": "议论抒情言志。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "古代诗歌鉴赏",
+      "question": "意象是融入了作者情感的具体物象。",
+      "options": [],
+      "answer": "对",
+      "explanation": "意象含情。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "chinese-g3up-u5-kp13",
+  "title": "修辞手法",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法",
+      "question": "“那些被拨弄的蒲公英，像个害羞的小姑娘。”这句话用了什么修辞？",
+      "options": [
+        "比喻",
+        "排比",
+        "反问",
+        "夸张"
+      ],
+      "answer": "比喻",
+      "explanation": "把蒲公英比作害羞的小姑娘。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞手法",
+      "question": "“它长着一张红色的长嘴。”使用了（___）修辞。 (选填：比喻 / 拟人 / 无)",
+      "options": [],
+      "answer": "无",
+      "explanation": "这是客观陈述外貌特征，没有使用特殊修辞。"
+    }
+  ],
+  "knowledge": null
+}

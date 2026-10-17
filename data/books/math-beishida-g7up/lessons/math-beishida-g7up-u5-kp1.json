@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g7up-u5-kp1",
+  "title": "方程与一元一次方程",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 5,
+  "unitTitle": "第五章 一元一次方程",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "方程与一元一次方程",
+      "question": "下列是一元一次方程的是（　）",
+      "options": [
+        "$2x-3=5$",
+        "$x^2+1=0$",
+        "$\\frac1x=2$",
+        "$xy=6$"
+      ],
+      "answer": "$2x-3=5$",
+      "explanation": "满足一元一次方程定义。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "方程与一元一次方程",
+      "question": "$x=3$ 是方程 $2x-1=5$ 的解。",
+      "options": [],
+      "answer": "对",
+      "explanation": "代入 $2\\times3-1=5$ 成立。"
+    }
+  ],
+  "knowledge": {
+    "point": "方程与一元一次方程",
+    "core_concept": "含未知数的等式叫方程；只含一个未知数、次数为 1、两边都是整式的方程叫一元一次方程。",
+    "key_formula": "$ax+b=0\\ (a\\ne0)$",
+    "common_mistakes": [
+      "把 $\\frac1x=2$ 当一元一次方程。"
+    ],
+    "tips": "看三点：一个未知数、次数 1、整式。"
+  }
+}

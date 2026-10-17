@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u6-kp6",
+  "title": "标点符号选择",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 5,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号选择",
+      "question": "“我想 既然老师让我演 肯定有他的道理 ”中缺少的标点符号是：",
+      "options": [
+        "， ， 。",
+        "： ， 。",
+        "： “ ” 。",
+        "（ ） 。"
+      ],
+      "answer": "， ， 。",
+      "explanation": "这里是自言自语的思考，用逗号连接分句，句末用句号。"
+    }
+  ],
+  "knowledge": null
+}

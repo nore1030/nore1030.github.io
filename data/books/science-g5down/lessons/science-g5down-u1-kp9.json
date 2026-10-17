@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp9",
+  "title": "植物光合作用",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "植物光合作用",
+      "question": "植物进行光合作用时会释放出氧气。",
+      "options": [],
+      "answer": "对",
+      "explanation": "光合作用是绿色植物利用光能，把二氧化碳和水转化成储存能量的有机物，并释放出氧气的过程。"
+    }
+  ],
+  "knowledge": null
+}

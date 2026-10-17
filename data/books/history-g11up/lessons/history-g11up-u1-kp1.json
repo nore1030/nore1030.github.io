@@ -1,0 +1,47 @@
+{
+  "id": "history-g11up-u1-kp1",
+  "title": "国家制度与政治文明",
+  "bookId": "history-g11up",
+  "unitNumber": 1,
+  "unitTitle": "国家制度与社会治理",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 5,
+      "knowledge_point": "国家制度与政治文明",
+      "question": "秦朝在地方推行的制度是（　）",
+      "options": [
+        "郡县制",
+        "分封制",
+        "行省制",
+        "科举制"
+      ],
+      "answer": "郡县制",
+      "explanation": "秦推郡县制。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 5,
+      "knowledge_point": "国家制度与政治文明",
+      "question": "中央集权制度在封建时期不断强化。",
+      "options": [],
+      "answer": "对",
+      "explanation": "集权强化。"
+    }
+  ],
+  "knowledge": {
+    "point": "国家制度与政治文明",
+    "core_concept": "中国古代从分封制到郡县制再到中央集权，君主专制逐步强化。近代中国从君主专制走向民主共和。",
+    "key_formula": "分封 → 郡县 → 中央集权",
+    "common_mistakes": [
+      "把分封制与郡县制对象混淆。"
+    ],
+    "tips": "分封宗亲，郡县任官。"
+  }
+}

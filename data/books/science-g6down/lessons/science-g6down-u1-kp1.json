@@ -1,0 +1,91 @@
+{
+  "id": "science-g6down-u1-kp1",
+  "title": "住房的结构与系统",
+  "bookId": "science-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小小工程师",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "住房的结构与系统",
+      "question": "住房中的供水、供暖、采光等系统都是独立存在的，彼此互不干扰。",
+      "options": [],
+      "answer": "错",
+      "explanation": "住房中的各个系统，如供水、供暖、电路等在设计和施工中需要相互配合，协同工作。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "住房的结构与系统",
+      "question": "承重墙是住房的基本结构之一，不能随意拆改。",
+      "options": [],
+      "answer": "对",
+      "explanation": "承重墙支撑着整个住房的重量，属于核心结构，随意拆除会危及房屋安全。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "住房的结构与系统",
+      "question": "下列哪项不属于住房的系统？",
+      "options": [
+        "电路系统",
+        "排水系统",
+        "家具风格",
+        "通风系统"
+      ],
+      "answer": "家具风格",
+      "explanation": "系统是指由相互作用、相互依赖的若干部分组合而成的具有特定功能的有机整体，家具风格属于软装审美。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "住房的结构与系统",
+      "question": "住房中用于支撑房屋重量的梁、柱属于？",
+      "options": [
+        "排水系统",
+        "供电系统",
+        "基本结构",
+        "装饰部分"
+      ],
+      "answer": "基本结构",
+      "explanation": "梁、柱、墙是构成房屋稳固性的基本结构。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "住房的结构与系统",
+      "question": "北京“鸟巢”体育馆的结构形式主要是？",
+      "options": [
+        "砖混结构",
+        "钢结构框架",
+        "纯木结构",
+        "混凝土结构"
+      ],
+      "answer": "钢结构框架",
+      "explanation": "鸟巢利用钢梁相互支撑形成巨型空间网格结构。"
+    }
+  ],
+  "knowledge": {
+    "point": "住房的结构与系统",
+    "core_concept": "住房是由基本结构（梁、柱、墙等）和各种功能系统（供水、供电、通风等）组成的整体。",
+    "key_formula": "住房=基本结构+配套系统+相关设施",
+    "common_mistakes": [
+      "认为装修风格也属于住房系统",
+      "忽略了各系统之间在墙体内的交叉协作关系"
+    ],
+    "tips": "观察自家的总电闸、水表位置，能帮助理解系统的集成。"
+  }
+}

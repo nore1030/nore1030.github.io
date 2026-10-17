@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g3down-u7-kp20",
+  "title": "比喻句式",
+  "bookId": "chinese-g3down",
+  "unitNumber": 7,
+  "unitTitle": "奇妙世界",
+  "kpIndex": 19,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比喻句式",
+      "question": "将下列词语排列成比喻句：",
+      "options": [
+        "火烧云",
+        "像",
+        "红通通的",
+        "燃烧的",
+        "一团",
+        "火焰"
+      ],
+      "answer": "红通通的,火烧云,像,一团,燃烧的,火焰",
+      "explanation": "主语是火烧云，喻体是火焰。"
+    }
+  ],
+  "knowledge": null
+}

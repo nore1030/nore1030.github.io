@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp7",
+  "title": "修辞手法",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 3,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "修辞手法",
+      "question": "“不要人夸好颜色，只留清气满乾坤”运用了拟人的修辞手法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这句主要运用了托物言志，侧重描写梅花的品质。"
+    }
+  ],
+  "knowledge": null
+}

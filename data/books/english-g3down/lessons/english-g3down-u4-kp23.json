@@ -1,0 +1,32 @@
+{
+  "id": "english-g3down-u4-kp23",
+  "title": "短语配对",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 19,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "短语配对",
+      "question": "请将下列方位词组与其对应的中文连线。",
+      "options": [
+        "in the toy box",
+        "on the book",
+        "under the chair",
+        "on your head",
+        "在椅子下面",
+        "在你的头上",
+        "在玩具盒里",
+        "在书上面"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "in-在里, on-在上, under-在下。"
+    }
+  ],
+  "knowledge": null
+}

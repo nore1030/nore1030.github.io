@@ -1,0 +1,156 @@
+{
+  "id": "g2down-u3-kp1",
+  "title": "轴对称图形的认识",
+  "bookId": "g2down",
+  "unitNumber": 3,
+  "unitTitle": "图形的运动（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "长方形对折后，折痕两侧的部分能够完全重合。",
+      "options": [],
+      "answer": "对",
+      "explanation": "长方形是轴对称图形，对折后可以重合。验算：折痕即是对称轴。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "所有的字母都是轴对称图形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如字母P、F、G对折后都无法重合。验算：字母A是，但P不是。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "下面哪种动物的形状近似于轴对称图形？",
+      "options": [
+        "螃蟹",
+        "爬行的蜗牛",
+        "侧面对着的公鸡",
+        "游动的鱼"
+      ],
+      "answer": "螃蟹",
+      "explanation": "螃蟹左右两边基本对称。蜗牛有螺旋状壳不对称。侧面公鸡不重合。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "汉字“王”是从哪个字中减去一部分得到的轴对称图形？",
+      "options": [
+        "且",
+        "中",
+        "玉",
+        "木"
+      ],
+      "answer": "玉",
+      "explanation": "“玉”去掉一点就是“王”，“王”是对称的。而“玉”有点不对称。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "一个正方形有几条对称轴？",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "正方形有2条对角线和2条对边中点连线共4条对称轴。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "下列哪个数字是对称的？",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "数字“8”上下或左右对折可重合。其他数字折叠不重合。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "剪纸作品通常是利用图形的什么原理做出来的？",
+      "options": [
+        "轴对称",
+        "左右倾斜",
+        "上下对角",
+        "杂乱无章"
+      ],
+      "answer": "轴对称",
+      "explanation": "通过对折后剪掉一部分，展开即得到对称图案。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "等腰三角形中，一共有 ___ 条对称轴。",
+      "options": [],
+      "answer": "1",
+      "explanation": "等腰三角形只有一条过顶角和底边中点的对称轴。验算：折叠1次可重合。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "长方形有 2 条对称轴，正方形有 4 条，这两个图形一共有 ___ 条对称轴。",
+      "options": [],
+      "answer": "6",
+      "explanation": "$2 + 4 = 6$。验算：$6 - 4 = 2$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的认识",
+      "question": "小明在一张纸上画了 3 个对称图形，小红画的是小明的 3 倍，小红画了 ___ 个。",
+      "options": [],
+      "answer": "9",
+      "explanation": "$3 \times 3 = 9$。根据倍数关系计算。验算：$9 \times 3 = 3$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "轴对称图形的认识",
+    "core_concept": "如果一个图形沿着一条直线对折，两侧的部分能够完全重合，这个图形就叫轴对称图形。折痕所在的直线叫对称轴。识别轴对称图形的关键是“找对折能重合”，例如蝴蝶、爱心、汉字“田”等都是典型的轴对称图形。",
+    "key_formula": "对折后两侧完全重合 = 轴对称图形",
+    "common_mistakes": [
+      "认为只要能分成两半就是对称，忽略了必须“完全重合”。",
+      "找不到对称轴的确切位置或数量，例如认为圆只有一条对称轴。"
+    ],
+    "tips": "可以通过剪纸试验来理解：先将纸对折再剪出一半，展开后的图形一定是轴对称图形。"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "g3down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "g3down",
+  "unitNumber": 1,
+  "unitTitle": "位置与方向（一）",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "所有的地图都是上北下南绘制的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "虽然“通常”是上北下南，但并非“所有”。有些特殊地图会有特定指向标。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "燕子每年秋天都从北方飞往南方。",
+      "options": [],
+      "answer": "对",
+      "explanation": "候鸟习性，秋季飞往温暖的南方过冬。验算：常识正确 ✓。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "因为太阳从东方升起，所以太阳升起的方向就是东。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是辨别方向的基本常识。验算：东升西落 ✓。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "简单行走路线的描述",
+      "question": "一个人一直向北走，不改变方向，他能回到原点。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一直向北走最终会到达北极点，无法通过直线行驶回到出发点（除环绕地球极点外）。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识东北、东南、西北、西南",
+      "question": "如果教室的黑板在东墙上，那么老师背向黑板讲课时，是面向哪个方向？",
+      "options": [
+        "东",
+        "南",
+        "西",
+        "北"
+      ],
+      "answer": "西",
+      "explanation": "背向东面，则面向西面。验算：东和西相对 ✓。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地图上的方位识别",
+      "question": "在平面图上，邮局在学校的右面，说明邮局在学校的哪个方向？",
+      "options": [
+        "东面",
+        "南面",
+        "西面",
+        "北面"
+      ],
+      "answer": "东面",
+      "explanation": "地图规则：左西右东。右面即为东面。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "早晨小红面向太阳站立，她的右面是什么方向？",
+      "options": [
+        "东",
+        "南",
+        "西",
+        "北"
+      ],
+      "answer": "南",
+      "explanation": "早晨太阳在东。面东则背西，左北右南。验算：右边是南 ✓。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "简单行走路线的描述",
+      "question": "小刚上学向西南走，放学回家他应该向哪个方向走？",
+      "options": [
+        "东北",
+        "东南",
+        "西北",
+        "西南"
+      ],
+      "answer": "东北",
+      "explanation": "往返路线方向相反。西南的反方向是东北。验算：西对东，南对北 ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "简单行走路线的描述",
+      "question": "小明从家出发先向南走一段，再向西走一段。他家在小明当前位置的什么方向？",
+      "options": [
+        "东南",
+        "东北",
+        "西南",
+        "西北"
+      ],
+      "answer": "东北",
+      "explanation": "小明相对于家走了“南+西=西南”，那么家相对于小明就在反方向“北+东=东北”。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "在野外，树叶密集的一侧通常是哪个方向？",
+      "options": [
+        "东",
+        "南",
+        "西",
+        "北"
+      ],
+      "answer": "南",
+      "explanation": "在北半球，南面光照多，树叶生长更茂密。验算：生长习性 ✓。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识东北、东南、西北、西南",
+      "question": "当你面向北方时，顺时针旋转三个 45 度角，你现在面向什么方向？",
+      "options": [
+        "东北",
+        "东",
+        "东南",
+        "南"
+      ],
+      "answer": "东南",
+      "explanation": "北转 45 度是东北，再转 45 度是东，再转 45 度是东南。验算：$45 \times 3 = 135$度，北顺时针 135 度是东南 ✓。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "如果 A 在 B 的西南方，C 在 B 的正南方。那么 A 在 C 的什么方向？",
+      "options": [
+        "东面",
+        "西面",
+        "南面",
+        "北面"
+      ],
+      "answer": "西面",
+      "explanation": "B为原点，A在西南，C在南。C到B是往北，A在B的西。在同一维度上 A 处于 C 的西方。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识东、南、西、北四个方向",
+      "question": "学校买来 80 棵树苗，准备种在操场四周。如果每个方向种 20 棵（不计角上重复），一共可以种满几个方向？",
+      "options": [],
+      "answer": "4",
+      "explanation": "$80 \times 20 = 4$。东西南北四个方向。验算：$20 \times 4 = 80$ ✓。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "简单行走路线的描述",
+      "question": "小明向东走 30 米，接着向西走 50 米。他现在相对于出发点在西边多少米？",
+      "options": [],
+      "answer": "20",
+      "explanation": "向东为正，向西为负：$30 - 50 = -20$。绝对值为 20 米。验算：$50 - 30 = 20$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "地图上的方位识别",
+      "question": "计算：$50 \times 6 = ?$",
+      "options": [],
+      "answer": "300",
+      "explanation": "$5 \times 6 = 30$，所以 $50 \times 6 = 300$。验算：$300 \times 6 = 50$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

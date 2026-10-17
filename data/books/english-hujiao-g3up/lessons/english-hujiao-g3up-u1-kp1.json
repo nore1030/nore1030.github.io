@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g3up-u1-kp1",
+  "title": "问候语 Hello / Hi / Good morning",
+  "bookId": "english-hujiao-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Module 1 Getting to know you — Hello! 见面问候",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "问候语 Hello / Hi / Good morning",
+      "question": "早上见到老师，应该说（　）",
+      "options": [
+        "Good morning!",
+        "Good night!",
+        "Goodbye!",
+        "Good evening!"
+      ],
+      "answer": "Good morning!",
+      "explanation": "早上问候用 Good morning。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "问候语 Hello / Hi / Good morning",
+      "question": "下午见到同学应说（　）",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good night",
+        "Goodbye"
+      ],
+      "answer": "Good afternoon",
+      "explanation": "下午用 Good afternoon。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "问候语 Hello / Hi / Good morning",
+      "question": "Hello 和 Hi 都可以用来打招呼。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者皆可，Hi 更随意。"
+    }
+  ],
+  "knowledge": {
+    "point": "问候语 Hello / Hi / Good morning",
+    "core_concept": "打招呼泛用 Hello / Hi；Good morning（早上）、Good afternoon（下午）、Good evening（晚上）按时段使用。",
+    "key_formula": "Good morning! — Good morning!",
+    "common_mistakes": [
+      "晚上好说成 Good night（那是睡前道别）。"
+    ],
+    "tips": "问候语看时段，道别看场合。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5up-u6-kp6",
+  "title": "理解阅读",
+  "bookId": "chinese-g5up",
+  "unitNumber": 6,
+  "unitTitle": "舐犊之情",
+  "kpIndex": 5,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解阅读",
+      "question": "“慈母眼中无丑子”这句话最适合用来形容哪种情感？",
+      "options": [
+        "母亲对孩子包容的爱",
+        "母亲对审美的缺失",
+        "孩子长得都很漂亮",
+        "盲目的溺爱"
+      ],
+      "answer": "母亲对孩子包容的爱",
+      "explanation": "强调母亲看孩子总是自带爱意，体现母爱的无私。"
+    }
+  ],
+  "knowledge": null
+}

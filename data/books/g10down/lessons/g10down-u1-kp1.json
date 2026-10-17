@@ -1,0 +1,47 @@
+{
+  "id": "g10down-u1-kp1",
+  "title": "向量的概念与线性运算",
+  "bookId": "g10down",
+  "unitNumber": 1,
+  "unitTitle": "平面向量",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "向量的概念与线性运算",
+      "question": "向量的数量积是一个实数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "数量积结果是数。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "向量的概念与线性运算",
+      "question": "$\\vec{AB}+\\vec{BC}=$（　）",
+      "options": [
+        "$\\vec{AC}$",
+        "$\\vec{CA}$",
+        "$\\vec{BA}$",
+        "$\\vec 0$"
+      ],
+      "answer": "$\\vec{AC}$",
+      "explanation": "三角形法则。"
+    }
+  ],
+  "knowledge": {
+    "point": "向量的概念与线性运算",
+    "core_concept": "向量既有大小又有方向。三角形法则、平行四边形法则是向量加法法则；数乘 $\\lambda\\vec a$ 与 $\\vec a$ 共线。",
+    "key_formula": "$\\vec{AB}+\\vec{BC}=\\vec{AC}$",
+    "common_mistakes": [
+      "把向量当标量直接相加。"
+    ],
+    "tips": "注意首尾相接。"
+  }
+}

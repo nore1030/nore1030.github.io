@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u5-kp4",
+  "title": "解决两步计算的实际问题",
+  "bookId": "g2down",
+  "unitNumber": 5,
+  "unitTitle": "混合运算",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "小明有 20 元，买 3 本 5 元的练习本，还剩 5 元。",
+      "options": [],
+      "answer": "对",
+      "explanation": "列式：$20 - 3 \times 5 = 20 - 15 = 5$（元）。验算：$15 + 5 = 20$ ✓。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "有 3 排柳树，每排 8 棵，又栽了 10 棵，现在一共有多少棵？",
+      "options": [
+        "24 棵",
+        "18 棵",
+        "34 棵",
+        "30 棵"
+      ],
+      "answer": "34 棵",
+      "explanation": "$3 \times 8 + 10 = 24 + 10 = 34$（棵）。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "王老师买了 1 支钢笔和 3 支圆珠笔。钢笔 10 元，圆珠笔每支 2 元，共花多少钱？",
+      "options": [
+        "16 元",
+        "12 元",
+        "6 元",
+        "15 元"
+      ],
+      "answer": "16 元",
+      "explanation": "$10 + 3 \times 2 = 10 + 6 = 16$（元）。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "停车场有 25 辆车，开走了 10 辆，又开来了 8 辆。现在车变多了还是变少了？",
+      "options": [
+        "变多了",
+        "变少了",
+        "一样多",
+        "无法确定"
+      ],
+      "answer": "变少了",
+      "explanation": "开走 10 辆，进来 8 辆，$10 > 8$，相当于净少 2 辆，所以变少了。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "解决两步计算的实际问题",
+      "question": "二年级一班有 22 名男同学，20 名女同学。每 6 人一组，全班可以分成 ___ 组。",
+      "options": [],
+      "answer": "7",
+      "explanation": "列式：$(22 + 20) \times 6 = 42 \times 6 = 7$（组）。验算：$7 \times 6 = 42$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "解决两步计算的实际问题",
+    "core_concept": "解决实际问题时，通常需要分两步思考。先求出一个中间量，再结合中间量求出最终答案。可以将分步算式合并成一个综合算式，必要时使用小括号。",
+    "key_formula": "总数 $-$ 份数 $\times$ 每份数 $=$ 剩余数",
+    "common_mistakes": [
+      "分步算式写对，但合并综合算式时忘记加必要的括号。",
+      "逻辑混乱，不知道第一步应该先求什么。"
+    ],
+    "tips": "先写分步，再合综合；合完检查，顺序对错。"
+  }
+}

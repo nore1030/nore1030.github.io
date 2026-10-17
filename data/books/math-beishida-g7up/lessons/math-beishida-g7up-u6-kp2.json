@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g7up-u6-kp2",
+  "title": "普查与抽样调查",
+  "bookId": "math-beishida-g7up",
+  "unitNumber": 6,
+  "unitTitle": "第六章 数据的收集与整理",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "普查与抽样调查",
+      "question": "了解全国人口情况，采用（　）",
+      "options": [
+        "普查",
+        "抽样调查",
+        "估算",
+        "不调查"
+      ],
+      "answer": "普查",
+      "explanation": "全国人口普查。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "普查与抽样调查",
+      "question": "抽样调查适用于对象较多的情况。",
+      "options": [],
+      "answer": "对",
+      "explanation": "抽样估计总体。"
+    }
+  ],
+  "knowledge": {
+    "point": "普查与抽样调查",
+    "core_concept": "对所有对象全面调查叫普查；只调查一部分叫抽样调查，用样本估计总体。",
+    "key_formula": "普查 / 抽样调查",
+    "common_mistakes": [
+      "破坏性调查也用普查。"
+    ],
+    "tips": "对象太多或有破坏性用抽样。"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "g4down-u4-kp3",
+  "title": "小数的性质与化简改写",
+  "bookId": "g4down",
+  "unitNumber": 4,
+  "unitTitle": "小数的意义和性质",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "小数的性质与化简改写",
+      "question": "小数点的后面添上“0”或去掉“0”，小数的大小不变。",
+      "options": [],
+      "answer": "错",
+      "explanation": "要在小数的“末尾”添上 0 或去掉 0 大小才不变。小数点后不一定是末尾，例如 1.05 去掉 0 变成 1.5，大小改变了。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数的性质与化简改写",
+      "question": "不改变数的大小，把 8 改写成三位小数是多少？",
+      "options": [
+        "8.0",
+        "8.00",
+        "8.000",
+        "0.008"
+      ],
+      "answer": "8.000",
+      "explanation": "根据小数的性质，在整数末尾点上小数点添上 3 个 0，大小不变且符合三位小数要求。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "小数的性质与化简改写",
+      "question": "下面各数中，与 3.05 相等的数是哪个？",
+      "options": [
+        "3.5",
+        "3.050",
+        "3.005",
+        "30.5"
+      ],
+      "answer": "3.050",
+      "explanation": "在小数末尾添 0，大小不变。3.05 = 3.050。"
+    }
+  ],
+  "knowledge": {
+    "point": "小数的性质与化简改写",
+    "core_concept": "在小数的末尾添上“0”或去掉“0”，小数的大小不变。这被称为小数的性质。可以利用此性质化简小数或增加小数位数。",
+    "key_formula": "0.3 = 0.30 = 0.300",
+    "common_mistakes": [
+      "去掉小数中间的 0（如将 1.05 化简为 1.5）",
+      "认为 0.50 比 0.5 大"
+    ],
+    "tips": "只有“末尾”的0才是多余的，中间的0表示占位，绝对不能动。"
+  }
+}

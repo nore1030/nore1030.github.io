@@ -1,0 +1,23 @@
+{
+  "id": "english-g4down-u3-kp6",
+  "title": "Grammar usage",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 2,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "Grammar usage",
+      "question": "询问天气可以用 'What is the weather like?'",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是询问天气的标准格式。"
+    }
+  ],
+  "knowledge": null
+}

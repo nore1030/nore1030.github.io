@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6down-u2-kp2",
+  "title": "责任与诚信",
+  "bookId": "moral-g6down",
+  "unitNumber": 2,
+  "unitTitle": "法律与责任启蒙",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "责任与诚信",
+      "question": "考试作弊被发现，要（　）",
+      "options": [
+        "承担相应责任并改正",
+        "继续作弊",
+        "怪老师不公平",
+        "销毁试卷"
+      ],
+      "answer": "承担相应责任并改正",
+      "explanation": "勇于担责。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "责任与诚信",
+      "question": "失信要承担相应的法律责任。",
+      "options": [],
+      "answer": "对",
+      "explanation": "失信有后果。"
+    }
+  ],
+  "knowledge": {
+    "point": "责任与诚信",
+    "core_concept": "责任贯穿学习生活每个细节。做错事要承担相应后果。诚信是为人之本，失信要承担法律责任。",
+    "key_formula": "责任重于泰山",
+    "common_mistakes": [
+      "抄袭作业逃避责任。"
+    ],
+    "tips": "勇于承担责任。"
+  }
+}

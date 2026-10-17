@@ -1,0 +1,55 @@
+{
+  "id": "g2down-u7-kp4",
+  "title": "近似数与估算",
+  "bookId": "g2down",
+  "unitNumber": 7,
+  "unitTitle": "万以内数的认识",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "近似数与估算",
+      "question": "898 的近似数是 900。",
+      "options": [],
+      "answer": "对",
+      "explanation": "898 距离 900 只有 2，距离 800 有 98，所以最接近 900。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近似数与估算",
+      "question": "下面各数中，最接近 600 的数是（ ）。",
+      "options": [
+        "598",
+        "697",
+        "508",
+        "701"
+      ],
+      "answer": "598",
+      "explanation": "598与600差2，697差97，508差92，701差101。差值最小的最接近。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近似数与估算",
+      "question": "电冰箱 2100 元，洗衣机 1800 元，买这两件电器大约需要（ ）元。",
+      "options": [
+        "3000",
+        "4000",
+        "5000",
+        "2000"
+      ],
+      "answer": "4000",
+      "explanation": "2100看作2000，1800看作2000，2000+2000=4000元。"
+    }
+  ],
+  "knowledge": null
+}

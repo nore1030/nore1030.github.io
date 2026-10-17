@@ -1,0 +1,66 @@
+{
+  "id": "math-sujiao-g1up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 7,
+  "unitTitle": "分与合",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "2~10 的分与合",
+      "question": "8 可以分成 5 和 ___。",
+      "options": [],
+      "answer": "3",
+      "explanation": "5 + 3 = 8。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "分与合的应用",
+      "question": "算 9 + 5 时，把 5 分成 1 和（　）",
+      "options": [
+        "4",
+        "5",
+        "1",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "9 和 1 凑十，5 分成 1 和 4。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "分与合的应用",
+      "question": "10 的分与合要记熟，能帮助计算。",
+      "options": [],
+      "answer": "对",
+      "explanation": "凑十法基础。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "2~10 的分与合",
+      "question": "哪两个数合成 9？（　）",
+      "options": [
+        "4 和 5",
+        "3 和 4",
+        "5 和 6",
+        "2 和 6"
+      ],
+      "answer": "4 和 5",
+      "explanation": "4 + 5 = 9。"
+    }
+  ],
+  "knowledge": null
+}

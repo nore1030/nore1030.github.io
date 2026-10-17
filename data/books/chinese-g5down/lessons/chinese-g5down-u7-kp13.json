@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u7-kp13",
+  "title": "课内识记",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 11,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课内识记",
+      "question": "《威尼斯的小艇》中，船夫驾驶技术特别好，行船的速度（___）。",
+      "options": [],
+      "answer": "极快",
+      "explanation": "课文原文语块，形容速度惊人。"
+    }
+  ],
+  "knowledge": null
+}

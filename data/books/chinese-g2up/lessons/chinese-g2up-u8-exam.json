@@ -1,0 +1,231 @@
+{
+  "id": "chinese-g2up-u8-exam",
+  "title": "第 8 单元挑战",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "部首含义",
+      "question": "“犭”和“鸟”字旁的字大多都与动物有关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "汉字中反犬旁归类兽类，鸟字旁归类禽类。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "课文细节",
+      "question": "小熊和松鼠最后绝交了，再也不想见到对方。",
+      "options": [],
+      "answer": "错",
+      "explanation": "最后他们通过纸船和风筝和好了。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "寓言道理",
+      "question": "《狐假虎威》这个故事告诉我们要学习狐狸的聪明才智。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这个故事是讽刺那些借别人的威风吓唬人的人。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "《风娃娃》一课中，风娃娃不管做什么事，人们都很感谢它。",
+      "options": [],
+      "answer": "错",
+      "explanation": "风娃娃吹走人们的衣服和风筝时，人们是在责怪它的。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词辨析",
+      "question": "“得意”的近义词是下列哪一个？",
+      "options": [
+        "难过",
+        "如意",
+        "满意",
+        "自满"
+      ],
+      "answer": "自满",
+      "explanation": "得意常指称心如意或盲目乐观，与自满意思最接近。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "量词运用",
+      "question": "一（  ）纸船，一（  ）风筝。括号里填什么最合适？",
+      "options": [
+        "只,个",
+        "只,只",
+        "只,条",
+        "个,只"
+      ],
+      "answer": "只,只",
+      "explanation": "在课文中，纸船和风筝都用“只”做量词。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语归类",
+      "question": "下列词语中，哪一个不是成语？",
+      "options": [
+        "半信半疑",
+        "大模大样",
+        "一块奶酪",
+        "东张西望"
+      ],
+      "answer": "一块奶酪",
+      "explanation": "一块奶酪是普通的名词短语，不是固定成语。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物特征",
+      "question": "“害群之马”里的“马”在这里比喻什么样的人？",
+      "options": [
+        "跑步很快的人",
+        "坏人",
+        "危害集体的人",
+        "勤劳的人"
+      ],
+      "answer": "危害集体的人",
+      "explanation": "害群之马指危害集体的害人虫。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阅读推测",
+      "question": "如果小熊没有在风筝上写字，松鼠接到后会怎样？",
+      "options": [
+        "立刻知道是小熊送的",
+        "可能不知道是谁送的",
+        "会把风筝扔掉",
+        "会很生气"
+      ],
+      "answer": "可能不知道是谁送的",
+      "explanation": "文字是传递情感和信息的关键沟通媒介。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟声词语境",
+      "question": "厨房里正在切菜，最可能发出的声音是？",
+      "options": [
+        "叮叮当当",
+        "笃笃笃",
+        "哗啦啦",
+        "咕噜咕噜"
+      ],
+      "answer": "笃笃笃",
+      "explanation": "切菜在菜板上发出的声音常形容为笃笃笃。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语积累",
+      "question": "比喻走在前面带路的人，我们可以用“（____）”。",
+      "options": [],
+      "answer": "领头羊",
+      "explanation": "领头羊指代集体的领导者或带头人。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课文填空",
+      "question": "松鼠折了一只（____），让它顺着水流漂走。",
+      "options": [],
+      "answer": "纸船",
+      "explanation": "松鼠是通过纸船把祝福送给小熊的。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "动物成语",
+      "question": "将含动物的成语前后两半连起来。",
+      "options": [
+        "如虎",
+        "调虎",
+        "如鱼",
+        "呆若",
+        "离山",
+        "添翼",
+        "木鸡",
+        "得水"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "如虎添翼，调虎离山，如鱼得水，呆若木鸡。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁归类",
+      "question": "请将汉字与它们的偏旁正确连线。",
+      "options": [
+        "猩",
+        "鹤",
+        "鲤",
+        "蚕",
+        "鸟",
+        "虫",
+        "犭",
+        "鱼"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "猩是反犬旁，鹤是鸟字旁，鲤是鱼字旁，蚕是虫字底。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式排列",
+      "question": "请将下列词语排成一句赞美风的话。",
+      "options": [
+        "风",
+        "吹干了",
+        "挂在",
+        "绳子上的",
+        "衣服"
+      ],
+      "answer": "风,吹干了,挂在,绳子上的,衣服",
+      "explanation": "考察主谓宾结构：谁+做什么+什么。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "moral-g4up-u2-kp1",
+  "title": "正确使用网络",
+  "bookId": "moral-g4up",
+  "unitNumber": 2,
+  "unitTitle": "信息与传媒",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "正确使用网络",
+      "question": "关于上网，下面做法正确的是（　）",
+      "options": [
+        "把姓名学校住址都告诉网友",
+        "控制时间不沉迷游戏",
+        "随便点击陌生链接",
+        "相信网友借钱请求"
+      ],
+      "answer": "控制时间不沉迷游戏",
+      "explanation": "健康上网不沉迷。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "正确使用网络",
+      "question": "不能把个人信息随意透露给网友。",
+      "options": [],
+      "answer": "对",
+      "explanation": "保护个人隐私。"
+    }
+  ],
+  "knowledge": {
+    "point": "正确使用网络",
+    "core_concept": "上网要有明确目的，控制时间，不沉迷游戏；不轻信陌生网友，不随意透露个人信息，不传播不实信息。",
+    "key_formula": "文明上网、保护隐私",
+    "common_mistakes": [
+      "把家庭住址告诉网友。"
+    ],
+    "tips": "网络世界也要守规则。"
+  }
+}

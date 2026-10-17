@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u4-kp24",
+  "title": "现在时表状态",
+  "bookId": "english-g6down",
+  "unitNumber": 4,
+  "unitTitle": "Unit 4 Then and now",
+  "kpIndex": 20,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现在时表状态",
+      "question": "连词成句：(I, active, now, am)",
+      "options": [
+        "I",
+        "active",
+        "now",
+        "am"
+      ],
+      "answer": "I,am,active,now",
+      "explanation": "主系表结构描述现在的状态。"
+    }
+  ],
+  "knowledge": null
+}

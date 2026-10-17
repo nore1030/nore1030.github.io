@@ -1,0 +1,61 @@
+{
+  "id": "physics-g9up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "physics-g9up",
+  "unitNumber": 1,
+  "unitTitle": "内能",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "比热容与热量的计算",
+      "question": "同样加热，水的温度上升比沙子慢，说明（　）",
+      "options": [
+        "水比热容大",
+        "沙子比热容大",
+        "水吸热少",
+        "沙子吸热多"
+      ],
+      "answer": "水比热容大",
+      "explanation": "比热容大的升温慢。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "热机与能量转化",
+      "question": "某热机消耗燃料放热 1000 J，对外做功 300 J，效率是多少（填百分数数字，如 30）？",
+      "options": [],
+      "answer": "30",
+      "explanation": "$\\eta=\\frac{300}{1000}\\times100\\%=30\\%$。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "分子热运动与内能",
+      "question": "改变内能的两种方式是做功和热传递。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者等效。"
+    },
+    {
+      "id": 10,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "比热容与热量的计算",
+      "question": "质量 0.5 kg 的铝块温度从 20℃ 升到 70℃，吸收热量多少 J？[$c_\\text{铝}=0.88\\times10^3\\ \\text{J/(kg·℃)}$]",
+      "options": [],
+      "answer": "22000",
+      "explanation": "$Q=880\\times0.5\\times50=22000$ J。"
+    }
+  ],
+  "knowledge": null
+}

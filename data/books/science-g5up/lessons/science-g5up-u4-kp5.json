@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u4-kp5",
+  "title": "神经网络信息传递",
+  "bookId": "science-g5up",
+  "unitNumber": 4,
+  "unitTitle": "健康生活",
+  "kpIndex": 4,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "神经网络信息传递",
+      "question": "当我们看到红灯停下脚步，这一信号是由哪个器官处理的？",
+      "options": [
+        "眼睛",
+        "脊髓",
+        "脑",
+        "肌肉"
+      ],
+      "answer": "脑",
+      "explanation": "视觉信号传输到大脑，由大脑发出停止指令。"
+    }
+  ],
+  "knowledge": null
+}

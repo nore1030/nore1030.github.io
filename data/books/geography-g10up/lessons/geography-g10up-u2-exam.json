@@ -1,0 +1,66 @@
+{
+  "id": "geography-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "geography-g10up",
+  "unitNumber": 2,
+  "unitTitle": "地球上的大气与水",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "大气受热过程与热力环流",
+      "question": "白天海洋与陆地间的风是由海洋吹向陆地，原因是（　）",
+      "options": [
+        "陆地升温快",
+        "海洋升温快",
+        "海陆温度相同",
+        "陆地气压高"
+      ],
+      "answer": "陆地升温快",
+      "explanation": "陆地升温快形成低压。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "水循环与洋流",
+      "question": "寒流经过的沿岸地区降水一般较少。",
+      "options": [],
+      "answer": "对",
+      "explanation": "寒流降温减湿。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "大气受热过程与热力环流",
+      "question": "大气逆辐射对地面起保温作用。",
+      "options": [],
+      "answer": "对",
+      "explanation": "保温作用。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "水循环与洋流",
+      "question": "南半球中低纬大洋环流呈（　）时针",
+      "options": [
+        "顺",
+        "逆",
+        "先顺后逆",
+        "无规律"
+      ],
+      "answer": "逆",
+      "explanation": "南半球中低纬呈逆时针。"
+    }
+  ],
+  "knowledge": null
+}

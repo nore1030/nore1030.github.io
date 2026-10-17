@@ -1,0 +1,71 @@
+{
+  "id": "english-renjiao-g10up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Sports and Fitness 运动与健康",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "同意与不同意表达",
+      "question": "「我不同意。」的英文是（　）",
+      "options": [
+        "I disagree.",
+        "I disagree with you. agree.",
+        "I don't agree with.",
+        "I'm not agree."
+      ],
+      "answer": "I disagree.",
+      "explanation": "dis- 否定前缀。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 athlete / master / strength",
+      "question": "「损伤」的英文是（　）",
+      "options": [
+        "injury",
+        "injur",
+        "injurey",
+        "injurry"
+      ],
+      "answer": "injury",
+      "explanation": "injury 损伤。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 athlete / master / strength",
+      "question": "sportsmanship 的意思是「体育精神」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sportsmanship。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "同意与不同意表达",
+      "question": "赞同别人想法时应说（　）",
+      "options": [
+        "That's a good idea.",
+        "I don't think so.",
+        "No way.",
+        "Never mind."
+      ],
+      "answer": "That's a good idea.",
+      "explanation": "赞同表达。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3up-u8-kp6",
+  "title": "文学常识",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 2,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《灰雀》一课中，列宁通过严厉的批评让小男孩放回了灰雀。",
+      "options": [],
+      "answer": "错",
+      "explanation": "列宁是通过委婉的交谈，保护了孩子的自尊心，引导他自觉改正错误。"
+    }
+  ],
+  "knowledge": null
+}

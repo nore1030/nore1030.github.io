@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6down-u1-kp2",
+  "title": "中学生活的准备",
+  "bookId": "moral-g6down",
+  "unitNumber": 1,
+  "unitTitle": "小学毕业与中学衔接",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中学生活的准备",
+      "question": "面对中学更重的学习任务，应该（　）",
+      "options": [
+        "学会自主学习和安排时间",
+        "等家长催",
+        "只学喜欢的科目",
+        "一遇到困难就放弃"
+      ],
+      "answer": "学会自主学习和安排时间",
+      "explanation": "培养自主学习能力。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中学生活的准备",
+      "question": "遇到学习困难要主动请教老师或同学。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主动求助。"
+    }
+  ],
+  "knowledge": {
+    "point": "中学生活的准备",
+    "core_concept": "中学课程变多、难度变大，要学会自主学习、合理安排时间、主动适应新集体，主动请教老师同学。",
+    "key_formula": "主动适应、自主学习",
+    "common_mistakes": [
+      "依赖家长督促学习。"
+    ],
+    "tips": "培养自主学习能力。"
+  }
+}

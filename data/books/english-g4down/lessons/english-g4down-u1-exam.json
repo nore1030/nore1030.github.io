@@ -1,0 +1,230 @@
+{
+  "id": "english-g4down-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "english-g4down",
+  "unitNumber": 1,
+  "unitTitle": "My school",
+  "kpIndex": 4,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "学校场所词汇认读与拼写",
+      "question": "'art room' 是美术教室的意思。",
+      "options": [],
+      "answer": "对",
+      "explanation": "art是美术，room是房间，合起来是美术教室。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "如果要表示一楼，可以说 'one floor'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该用序数词 first floor。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "字母组合er在词尾的发音规则",
+      "question": "单词 dinner 结尾处的 er 发音与 water 结尾相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都符合词尾er发弱读/ə/的规律。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "句子 'The gym is next to the library.' 的意思是体育馆在图书馆后边。",
+      "options": [],
+      "answer": "错",
+      "explanation": "next to 的意思是'在...隔壁'或'紧邻'，不是'在...后边'。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "学校场所词汇认读与拼写",
+      "question": "We have a new ________. We can draw pictures there.",
+      "options": [
+        "art room",
+        "computer room",
+        "playground",
+        "library"
+      ],
+      "answer": "art room",
+      "explanation": "美术教室是画画的地方。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "—Is this the library? —No, it isn't. The library is ________ the second floor.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "表示在楼层上，介词用on。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "—________ you have a music room? —Yes, we do.",
+      "options": [
+        "Do",
+        "Are",
+        "Is",
+        "Does"
+      ],
+      "answer": "Do",
+      "explanation": "have是实义动词，主语you，疑问句需借助助动词do。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "That ________ the computer room.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "主语that是单数，系动词用is。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "—Is that the teachers' office? —________. It's the library.",
+      "options": [
+        "Yes, it is",
+        "No, it isn't",
+        "Yes, it's",
+        "No, it's"
+      ],
+      "answer": "No, it isn't",
+      "explanation": "后文说它是图书馆，说明前面的回答是否定的。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "The computer room is ________ to the music room.",
+      "options": [
+        "near",
+        "next",
+        "after",
+        "on"
+      ],
+      "answer": "next",
+      "explanation": "next to 是固定词组。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "—Where is your classroom? —It's on the ________ floor.",
+      "options": [
+        "two",
+        "second",
+        "the second",
+        "one"
+      ],
+      "answer": "second",
+      "explanation": "题目中已有the，所以只需填入序数词second。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "询问与描述场所方位",
+      "question": "Your classroom is on the ________(第一) floor.",
+      "options": [],
+      "answer": "first",
+      "explanation": "first是第一的意思。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "________ you have a library? Yes, we do.",
+      "options": [],
+      "answer": "do",
+      "explanation": "主语为you，一般疑问句开头用do。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "学校场所词汇认读与拼写",
+      "question": "Match the English words with their Chinese meanings.",
+      "options": [
+        "water",
+        "teacher",
+        "sister",
+        "dinner",
+        "姐妹",
+        "晚餐",
+        "水",
+        "老师"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "water-水, teacher-老师, sister-姐妹, dinner-晚餐。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "确认场所的一般疑问句",
+      "question": "将下列短语翻译进行配对。",
+      "options": [
+        "this way",
+        "excuse me",
+        "how many",
+        "welcome to",
+        "欢迎来到",
+        "多少",
+        "这边走",
+        "打扰了"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "this way-这边走, excuse me-打扰了, how many-多少, welcome to-欢迎来到。"
+    }
+  ],
+  "knowledge": null
+}

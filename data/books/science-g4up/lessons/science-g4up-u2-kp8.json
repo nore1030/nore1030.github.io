@@ -1,0 +1,66 @@
+{
+  "id": "science-g4up-u2-kp8",
+  "title": "食物中的营养成分",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 7,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "食物中的营养成分",
+      "question": "含有脂肪、蛋白质、糖类的食物才是营养均衡的，维生素不重要。",
+      "options": [],
+      "answer": "错",
+      "explanation": "维生素和矿物质也是人体必需的六大营养素，对调节身体机能至关重要。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物中的营养成分",
+      "question": "在白纸上涂抹花生种子，留下油迹，说明花生含有较多（）。",
+      "options": [
+        "糖类",
+        "蛋白质",
+        "脂肪",
+        "水"
+      ],
+      "answer": "脂肪",
+      "explanation": "脂肪能在纸上留下半透明的油迹。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "食物中的营养成分",
+      "question": "主要负责构建和修复我们身体的营养成分是（）。",
+      "options": [
+        "糖类",
+        "脂肪",
+        "蛋白质",
+        "矿物质"
+      ],
+      "answer": "蛋白质",
+      "explanation": "蛋白质是生命的基础，是肌肉、皮肤等的主要成分。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物中的营养成分",
+      "question": "肥肉里含有丰富的（），能在纸上留下油痕。",
+      "options": [],
+      "answer": "脂肪",
+      "explanation": "脂肪是肥肉的主要成分。"
+    }
+  ],
+  "knowledge": null
+}

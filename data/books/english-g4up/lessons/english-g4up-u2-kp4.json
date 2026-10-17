@@ -1,0 +1,39 @@
+{
+  "id": "english-g4up-u2-kp4",
+  "title": "学习用品词汇",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 1,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "学习用品词汇",
+      "question": "'maths book' 的中文意思是'语文书'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "maths book指的是数学书，语文书是Chinese book。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "学习用品词汇",
+      "question": "I have an ______ book in my schoolbag.",
+      "options": [
+        "English",
+        "maths",
+        "Chinese",
+        "storybook"
+      ],
+      "answer": "English",
+      "explanation": "因为横线前是不定冠词an，所以后面接的单词必须以元音音素开头。"
+    }
+  ],
+  "knowledge": null
+}

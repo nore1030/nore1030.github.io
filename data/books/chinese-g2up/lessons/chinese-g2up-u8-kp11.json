@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp11",
+  "title": "拟声词运用",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 7,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拟声词运用",
+      "question": "门（  ）的一声响，爸爸推开门进来了。",
+      "options": [
+        "吱呀",
+        "隆隆",
+        "滴答",
+        "呼呼"
+      ],
+      "answer": "吱呀",
+      "explanation": "推门的声音通常用“吱呀”来形容。"
+    }
+  ],
+  "knowledge": null
+}

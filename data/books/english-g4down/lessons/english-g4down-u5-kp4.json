@@ -1,0 +1,56 @@
+{
+  "id": "english-g4down-u5-kp4",
+  "title": "衣物类词汇",
+  "bookId": "english-g4down",
+  "unitNumber": 5,
+  "unitTitle": "My clothes",
+  "kpIndex": 0,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "衣物类词汇",
+      "question": "'skirt' 的意思是'裤子'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "skirt指的是短裙，裤子是pants。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "衣物类词汇",
+      "question": "'dress' 常用来指女孩穿的'连衣裙'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "dress是连衣裙的意思。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "衣物类词汇",
+      "question": "'clothes' 意思是'衣服'，是这类物品的总称。",
+      "options": [],
+      "answer": "对",
+      "explanation": "clothes为衣物的总称。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "衣物类词汇",
+      "question": "My red ______ (短裙) is very nice.",
+      "options": [],
+      "answer": "skirt",
+      "explanation": "考察单词书写，skirt为短裙。"
+    }
+  ],
+  "knowledge": null
+}

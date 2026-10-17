@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp14",
+  "title": "动物的繁殖",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 7,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动物的繁殖",
+      "question": "老师把蚕卵放在教室里，过一段时间会孵化出：",
+      "options": [
+        "小蝴蝶",
+        "小蜻蜓",
+        "小蚕苗",
+        "小蚂蚁"
+      ],
+      "answer": "小蚕苗",
+      "explanation": "蚕卵孵化出来的是蚕的幼虫，俗称小蚕苗。"
+    }
+  ],
+  "knowledge": null
+}

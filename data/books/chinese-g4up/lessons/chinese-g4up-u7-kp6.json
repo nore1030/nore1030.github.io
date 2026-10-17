@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp6",
+  "title": "时代背景理解",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 4,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时代背景理解",
+      "question": "周恩来在租界看到中国妇女受到洋人欺凌，却“围观的中国人都紧握拳头，但谁也不敢上前指责”，这是因为：",
+      "options": [
+        "中国人不爱说话",
+        "大家都在忙碌",
+        "中华不振，主权丧失",
+        "洋人是警察"
+      ],
+      "answer": "中华不振，主权丧失",
+      "explanation": "由于国家落后被动挨打，租界内中国人无人撑腰。"
+    }
+  ],
+  "knowledge": null
+}

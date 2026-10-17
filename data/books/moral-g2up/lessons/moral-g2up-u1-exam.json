@@ -1,0 +1,66 @@
+{
+  "id": "moral-g2up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g2up",
+  "unitNumber": 1,
+  "unitTitle": "我们的班级",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "班级生活与集体荣誉",
+      "question": "看到地上有纸屑，正确的做法是（　）",
+      "options": [
+        "跨过去不管",
+        "主动捡起来",
+        "让别人捡",
+        "踩一脚"
+      ],
+      "answer": "主动捡起来",
+      "explanation": "主动维护班级卫生。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "值日与责任",
+      "question": "把分内的事做好就是有责任心的表现。",
+      "options": [],
+      "answer": "对",
+      "explanation": "做好分内事是有责任心。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "值日与责任",
+      "question": "下面哪种行为不利于班集体（　）",
+      "options": [
+        "主动打扫卫生",
+        "欺负同学",
+        "积极参加活动",
+        "帮助同学"
+      ],
+      "answer": "欺负同学",
+      "explanation": "欺负同学破坏集体。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "班级生活与集体荣誉",
+      "question": "班级的事要靠大家共同做好。",
+      "options": [],
+      "answer": "对",
+      "explanation": "班级靠大家。"
+    }
+  ],
+  "knowledge": null
+}

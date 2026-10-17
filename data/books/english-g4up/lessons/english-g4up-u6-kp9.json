@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u6-kp9",
+  "title": "家庭人数提问",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 5,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "家庭人数提问",
+      "question": "How many ______ are there in your family?",
+      "options": [
+        "people",
+        "peoples",
+        "person",
+        "pupil"
+      ],
+      "answer": "people",
+      "explanation": "people 是集合名词，本身表示“人们”，用于 How many 之后。"
+    }
+  ],
+  "knowledge": null
+}

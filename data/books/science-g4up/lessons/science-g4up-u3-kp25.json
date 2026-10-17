@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u3-kp25",
+  "title": "拉力规律",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 18,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "拉力规律",
+      "question": "实验发现，相同距离下，挂3个垫圈小车用了10秒，挂6个垫圈小车用了（___）秒。",
+      "options": [],
+      "answer": "5",
+      "explanation": "在一定范围内，拉力越大，速度越快，时间越短。此处取逻辑上的减半简化。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "science-g6up-u4-kp4",
+  "title": "电磁铁的制作与属性验证",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "电磁铁在通电时产生磁性，断电时磁性消失。",
+      "options": [],
+      "answer": "对",
+      "explanation": "电磁铁由线圈和铁芯组成，其磁性是由电流产生的，属于暂时性磁铁。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "改变电磁铁南北极的方法是（）。",
+      "options": [
+        "增加电池数量",
+        "改变电流方向",
+        "增加线圈匝数",
+        "更换更粗的铁芯"
+      ],
+      "answer": "改变电流方向",
+      "explanation": "电磁铁的极性取决于线圈绕向和电流方向。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "电磁铁的制作与属性验证",
+      "question": "制作电磁铁时，缠绕线圈的中间通常要放入（）。",
+      "options": [],
+      "answer": "铁芯",
+      "explanation": "铁芯能极大地增强线圈产生的磁场。"
+    }
+  ],
+  "knowledge": null
+}

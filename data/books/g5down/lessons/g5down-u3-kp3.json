@@ -1,0 +1,75 @@
+{
+  "id": "g5down-u3-kp3",
+  "title": "体积概念与体积单位换算",
+  "bookId": "g5down",
+  "unitNumber": 3,
+  "unitTitle": "长方体和正方体",
+  "kpIndex": 2,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "体积概念与体积单位换算",
+      "question": "体积单位之间的进率都是1000。",
+      "options": [],
+      "answer": "错",
+      "explanation": "只有相邻的体积单位（如立方米与立方分米）进率才是1000。如果不是相邻单位，如立方米与立方厘米，进率是1000000。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体积概念与体积单位换算",
+      "question": "$2.5$ 立方米等于多少立方分米？",
+      "options": [
+        "25",
+        "250",
+        "2500",
+        "25000"
+      ],
+      "answer": "2500",
+      "explanation": "$1$ 立方米 = $1000$ 立方分米，所以 $2.5 \\times 1000 = 2500$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "体积概念与体积单位换算",
+      "question": "下列哪个单位是容积单位？",
+      "options": [
+        "平方米",
+        "分米",
+        "升",
+        "立方厘米"
+      ],
+      "answer": "升",
+      "explanation": "升（L）和毫升（mL）是法定的容积单位。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "体积概念与体积单位换算",
+      "question": "3000 毫升 = ___ 升。",
+      "options": [],
+      "answer": "3",
+      "explanation": "$1000$ 毫升 = $1$ 升，所以 $3000 \\div 1000 = 3$。验算：$3 \\times 1000 = 3000$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "体积概念与体积单位换算",
+    "core_concept": "体积是物体所占空间的大小。常用单位有立方米、立方分米、立方厘米。相邻两个体积单位之间的进率是1000。",
+    "key_formula": "$1 \\text{m}^{3} = 1000 \\text{dm}^{3}$, $1 \\text{dm}^{3} = 1000 \\text{cm}^{3}$",
+    "common_mistakes": [
+      "把体积单位进率记成100（混淆面积单位）",
+      "单位换算时大变小没用乘法"
+    ],
+    "tips": "记口诀：长度十、面积百、体积千。记单位进率时数清楚有几个“方”。"
+  }
+}

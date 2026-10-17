@@ -1,0 +1,66 @@
+{
+  "id": "math-zhejiao-g8up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 3,
+  "unitTitle": "一次函数与全等",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形",
+      "question": "两三角形三边对应相等，则它们（　）",
+      "options": [
+        "全等",
+        "不相似",
+        "无法确定",
+        "面积相等但不全等"
+      ],
+      "answer": "全等",
+      "explanation": "SSS 判定。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "一次函数初步",
+      "question": "在一次函数 $y = kx + b$ 中，$b$ 表示（　）",
+      "options": [
+        "纵截距",
+        "斜率",
+        "x 轴截距",
+        "自变量"
+      ],
+      "answer": "纵截距",
+      "explanation": "b 是纵截距。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形",
+      "question": "对应顶点、对应边、对应角必须一一对应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对应关系。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "一次函数初步",
+      "question": "当 $k > 0$ 时，直线从左下向右上倾斜。",
+      "options": [],
+      "answer": "对",
+      "explanation": "k 正则上升。"
+    }
+  ],
+  "knowledge": null
+}

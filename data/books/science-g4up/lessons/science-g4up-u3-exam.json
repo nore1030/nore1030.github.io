@@ -1,0 +1,217 @@
+{
+  "id": "science-g4up-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "science-g4up",
+  "unitNumber": 3,
+  "unitTitle": "运动和力",
+  "kpIndex": 23,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "重力方向",
+      "question": "人在地球上站得住，不会掉进太空，是因为遭到了空气阻力。",
+      "options": [],
+      "answer": "错",
+      "explanation": "这是因为地球重力的作用。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "弹力限制",
+      "question": "只要把弹簧拉得足够长，无论多重的东西它都能秤出重量。",
+      "options": [],
+      "answer": "错",
+      "explanation": "测力计有最大量程，超过弹性限度会损坏。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "能量守恒",
+      "question": "风、流水、电都具有能量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自然界中许多物质都以能量的形式存在并发生转化。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "工程迭代",
+      "question": "小车制作完成后，如果测试数据不满意，就不需要管它了。",
+      "options": [],
+      "answer": "错",
+      "explanation": "工程设计的关键环节是测试后的评估改进。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "弹力来源",
+      "question": "以下不是利用物体弹性的是（___）。",
+      "options": [
+        "皮球弹起",
+        "拉开弹簧",
+        "铁块入水",
+        "跳水踏板"
+      ],
+      "answer": "铁块入水",
+      "explanation": "铁块入水属于重力下坠和浮力现象，不属于利用弹性。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "反冲力的应用",
+      "question": "要使气球动力小车向东运动，喷气嘴的方向应朝向（___）。",
+      "options": [
+        "东",
+        "南",
+        "西",
+        "北"
+      ],
+      "answer": "西",
+      "explanation": "反冲力方向与喷气方向相反。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "摩擦力控制",
+      "question": "在地面上推箱子时，箱子底下垫几根圆木是为了（___）。",
+      "options": [
+        "增大摩擦力",
+        "减小摩擦力",
+        "增加重量",
+        "更好看"
+      ],
+      "answer": "减小摩擦力",
+      "explanation": "变滑动为滚动可以极大减小摩擦阻力。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "力的大小比较",
+      "question": "若小车能拉起200克钩码，这相当于施加了约（___）牛顿的拉力。",
+      "options": [
+        "0.2",
+        "2",
+        "20",
+        "200"
+      ],
+      "answer": "2",
+      "explanation": "1N约为100克重量，200克约为2N。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "重力知识",
+      "question": "射箭时，箭射出后最终会落向地面是因为（___）。",
+      "options": [
+        "空气太厚",
+        "反冲力消失",
+        "受到了重力",
+        "箭太累了"
+      ],
+      "answer": "受到了重力",
+      "explanation": "重力始终作用于箭体并使其下沉。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "摩擦力分类",
+      "question": "下列属于滑动摩擦的是（___）。",
+      "options": [
+        "车轮在跑道滚动",
+        "圆珠笔尖在纸上写字",
+        "用橡皮擦擦去错别字",
+        "在地上滚动的皮球"
+      ],
+      "answer": "用橡皮擦擦去错别字",
+      "explanation": "橡皮在纸上是面接触的位移滑动。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "动力驱动",
+      "question": "设计赛车时，为了增加动力，最有效的办法是（___）。",
+      "options": [
+        "使用大功率发动机",
+        "增加车身重量",
+        "使用更宽的轮胎",
+        "把车身涂红"
+      ],
+      "answer": "使用大功率发动机",
+      "explanation": "发动机输出功率直接决定动力大小。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "阻力分析",
+      "question": "赛车车身设计成流线型，主要是为了减小（___）。",
+      "options": [
+        "重力",
+        "空气阻力",
+        "弹力",
+        "摩擦力"
+      ],
+      "answer": "空气阻力",
+      "explanation": "流线型能有效引导空气流过，减小阻力。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "测力计读数",
+      "question": "一个测力计最大能测5N，分度值是0.1，那么1.5N和2N之间有（___）个小格。",
+      "options": [],
+      "answer": "5",
+      "explanation": "（2-1.5）/ 0.1 = 5。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "实验规律",
+      "question": "要拉动500克的木块，需要1牛顿的力。若增加木块到1000克，拉力需（___）牛顿。",
+      "options": [],
+      "answer": "2",
+      "explanation": "摩擦力与压力（此处重力转化）成正比。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "能的表现",
+      "question": "运动的球能把瓶子击倒，说明运动的物体具有（___）。",
+      "options": [],
+      "answer": "能量",
+      "explanation": "理解能量是使物体发生运动或变化的本领。"
+    }
+  ],
+  "knowledge": null
+}

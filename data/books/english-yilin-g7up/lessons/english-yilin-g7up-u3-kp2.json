@@ -1,0 +1,47 @@
+{
+  "id": "english-yilin-g7up-u3-kp2",
+  "title": "人称代词主格与宾格",
+  "bookId": "english-yilin-g7up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Welcome to our school! 学校",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人称代词主格与宾格",
+      "question": "「请把书给我。」的英文是（　）",
+      "options": [
+        "Please give me the book.",
+        "Please give I the book.",
+        "Please give my the book.",
+        "Please give mine the book."
+      ],
+      "answer": "Please give me the book.",
+      "explanation": "动词后用宾格。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "人称代词主格与宾格",
+      "question": "主格代词在句中作主语。",
+      "options": [],
+      "answer": "对",
+      "explanation": "主格作主语。"
+    }
+  ],
+  "knowledge": {
+    "point": "人称代词主格与宾格",
+    "core_concept": "主格 I/you/he/she/it/we/they 作主语；宾格 me/you/him/her/it/us/them 作宾语。",
+    "key_formula": "Please give me the book. / We like him.",
+    "common_mistakes": [
+      "动词后用主格。"
+    ],
+    "tips": "动词介词后用宾格。"
+  }
+}

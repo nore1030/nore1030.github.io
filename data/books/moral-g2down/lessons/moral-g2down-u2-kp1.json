@@ -1,0 +1,47 @@
+{
+  "id": "moral-g2down-u2-kp1",
+  "title": "社区与邻里",
+  "bookId": "moral-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们生活的地方",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "社区与邻里",
+      "question": "邻居奶奶提东西很重，你应该（　）",
+      "options": [
+        "装作没看见",
+        "主动帮忙提一段",
+        "抢过来就跑",
+        "嘲笑她"
+      ],
+      "answer": "主动帮忙提一段",
+      "explanation": "邻里之间互相帮助。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "社区与邻里",
+      "question": "邻里之间见面可以主动打招呼。",
+      "options": [],
+      "answer": "对",
+      "explanation": "礼貌待人。"
+    }
+  ],
+  "knowledge": {
+    "point": "社区与邻里",
+    "core_concept": "社区里有超市、医院、学校等设施。邻里之间要互相尊重、互相帮助，见面主动打招呼。",
+    "key_formula": "远亲不如近邻",
+    "common_mistakes": [
+      "在楼道里大声喧哗影响邻居。"
+    ],
+    "tips": "与邻居和睦相处。"
+  }
+}

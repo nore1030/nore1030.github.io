@@ -1,0 +1,77 @@
+{
+  "id": "science-g3up-u2-kp3",
+  "title": "空气质量的测量",
+  "bookId": "science-g3up",
+  "unitNumber": 2,
+  "unitTitle": "空气",
+  "kpIndex": 2,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "空气质量的测量",
+      "question": "虽然空气很轻，但由于空气占据空间，所以它也有质量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "质量是物质的基本属性，空气作为物质是有质量的。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气质量的测量",
+      "question": "在测量空气质量的实验中，我们最适合选取的测量工具是：",
+      "options": [
+        "体重计",
+        "简易天平",
+        "测力计",
+        "量筒"
+      ],
+      "answer": "简易天平",
+      "explanation": "天平可以通过平衡原理，利用回形针或绿豆等微小物体的数量来体现空气的微小质量。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空气质量的测量",
+      "question": "如果在天平的一端放入一个充满气的皮球，另一端用绿豆平衡。再往皮球里打入10筒气，天平会：",
+      "options": [
+        "依然平衡",
+        "向绿豆一端倾斜",
+        "向皮球一端倾斜",
+        "无法判断"
+      ],
+      "answer": "向皮球一端倾斜",
+      "explanation": "打入更多空气增加了皮球的总质量，天平向重的一方倾斜。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "空气质量的测量",
+      "question": "实验发现，20筒空气的质量大约相当于（___）枚回形针。",
+      "options": [],
+      "answer": "1",
+      "explanation": "根据三年级教材实验参考值，20筒空气很轻，约等同一枚回形针或其零头质量。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空气质量的测量",
+      "question": "在测量空气质量时，我们可以用（___）来替代微小的质量读数。",
+      "options": [],
+      "answer": "绿豆",
+      "explanation": "绿豆质量均匀且小，适合作为简易天平的平衡物。"
+    }
+  ],
+  "knowledge": null
+}

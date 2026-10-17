@@ -1,0 +1,129 @@
+{
+  "id": "english-g5down-u5-kp1",
+  "title": "名词性物主代词的用法",
+  "bookId": "english-g5down",
+  "unitNumber": 5,
+  "unitTitle": "Whose dog is it?",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "'mine' 的意思是'我的'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "mine是名词性物主代词，表示“我的（东西）”。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "'hers' 后面通常不需要再加名词。",
+      "options": [],
+      "answer": "对",
+      "explanation": "名词性物主代词相当于“形容词性物主代词+名词”，所以后面不再接名词。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "The blue pen is ________.",
+      "options": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answer": "mine",
+      "explanation": "句末没有名词，需用名词性物主代词mine。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "That's not my book. It is ________.",
+      "options": [
+        "yours",
+        "you",
+        "your",
+        "she"
+      ],
+      "answer": "yours",
+      "explanation": "此处指代你的书，用名词性物主代词yours。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "These books are ________. Those are ________.",
+      "options": [
+        "our; their",
+        "ours; theirs",
+        "ours; their",
+        "our; theirs"
+      ],
+      "answer": "ours; theirs",
+      "explanation": "前后两处都缺名词性物主代词。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "The yellow picture is ________.",
+      "options": [
+        "his",
+        "him",
+        "he",
+        "me"
+      ],
+      "answer": "his",
+      "explanation": "his既是形容词性也是名词性物主代词。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "I am Sarah. This bag is ___.",
+      "options": [],
+      "answer": "mine",
+      "explanation": "指我的书包且不接名词，用mine。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "名词性物主代词的用法",
+      "question": "将下列词汇与其对应的中文意思相连。",
+      "options": [
+        "mine",
+        "yours",
+        "ours",
+        "theirs",
+        "你们的",
+        "他们的",
+        "我们的",
+        "我的"
+      ],
+      "answer": "A-4,B-1,C-3,D-2",
+      "explanation": "mine我的, yours你们的, ours我们的, theirs他们的。"
+    }
+  ],
+  "knowledge": null
+}

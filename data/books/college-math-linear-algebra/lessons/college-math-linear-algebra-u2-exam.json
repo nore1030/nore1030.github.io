@@ -1,0 +1,61 @@
+{
+  "id": "college-math-linear-algebra-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "college-math-linear-algebra",
+  "unitNumber": 2,
+  "unitTitle": "线性方程组",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "线性方程组的解法",
+      "question": "解方程组 $\\begin{cases}2x+y=5\\\\x-y=1\\end{cases}$，$y=$ ？",
+      "options": [],
+      "answer": "1",
+      "explanation": "$x=2$，$y=1$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "向量组与向量空间",
+      "question": "向量组的秩是指（　）",
+      "options": [
+        "最大无关组中向量的个数",
+        "向量的个数",
+        "向量的维数",
+        "零向量的个数"
+      ],
+      "answer": "最大无关组中向量的个数",
+      "explanation": "秩的定义。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "向量组与向量空间",
+      "question": "n 维单位向量组线性无关。",
+      "options": [],
+      "answer": "对",
+      "explanation": "单位向量组无关。"
+    },
+    {
+      "id": 8,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "线性方程组的解法",
+      "question": "方程组 $\\begin{cases}x+y+z=6\\\\x=1\\\\y=2\\end{cases}$ 中 $z=$ ？",
+      "options": [],
+      "answer": "3",
+      "explanation": "$z=6-1-2=3$。"
+    }
+  ],
+  "knowledge": null
+}

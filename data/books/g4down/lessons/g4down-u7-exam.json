@@ -1,0 +1,217 @@
+{
+  "id": "g4down-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g4down",
+  "unitNumber": 7,
+  "unitTitle": "图形的运动（二）",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "画轴对称图形的另一半，只要找到所有顶点并连线即可。",
+      "options": [],
+      "answer": "错",
+      "explanation": "不仅要找到顶点，关键是确定对应点到对称轴距离相等。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "向上平移 3 格，图形的大小不会改变。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平移是位置变动，大小形状都不变。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "一个轴对称图形至少有一条对称轴。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据定义，轴对称图形必须存在至少一条直线（对称轴）使其折叠重合。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "图形的平移规律",
+      "question": "将一个三角形平移后得到的图形，对应线段一定互相平行。",
+      "options": [],
+      "answer": "对",
+      "explanation": "平移性质规定，对应线段平行（或在同一直线上）且相等。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "图形向左平移 5 格后再向右平移 5 格，图形的位置？",
+      "options": [
+        "向左移动了5格",
+        "回到了原位置",
+        "向右移动了10格",
+        "向上移动了5格"
+      ],
+      "answer": "回到了原位置",
+      "explanation": "$-5 + 5 = 0$，位移为0，回到原处。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "下列哪个图形的对称轴最多？",
+      "options": [
+        "正方形",
+        "等边三角形",
+        "等腰梯形",
+        "圆"
+      ],
+      "answer": "圆",
+      "explanation": "正方形4条，等边三角形3条，等腰梯形1条，圆有无数条。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "汽车在平直公路上行驶，车身的运动是？",
+      "options": [
+        "平移",
+        "旋转",
+        "对称",
+        "放大"
+      ],
+      "answer": "平移",
+      "explanation": "车身沿直线运动，方向和形状不变，是平移。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "点 A 到对称轴的距离是 3 厘米，那么它的对应点 A' 距离点 A 为？",
+      "options": [
+        "3厘米",
+        "6厘米",
+        "0厘米",
+        "9厘米"
+      ],
+      "answer": "6厘米",
+      "explanation": "A' 到轴距离也是 3 厘米，且在轴另一侧，$3 + 3 = 6$ 厘米。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "利用平移解决割补面积问题",
+      "question": "利用平移法计算面积，主要是为了实现什么的转化？",
+      "options": [
+        "周长变长",
+        "形状变规则",
+        "面积变大",
+        "图形消失"
+      ],
+      "answer": "形状变规则",
+      "explanation": "割补平移的核心目的是将不规则图形转化为方便计算的规则图形。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "在方格纸上补全轴对称图形，最后一步通常是？",
+      "options": [
+        "找对称轴",
+        "找对应点",
+        "顺次连线",
+        "擦掉格子"
+      ],
+      "answer": "顺次连线",
+      "explanation": "确定好对应点后，按照原图的连接顺序连接对应点即可。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形的平移规律",
+      "question": "平移前后的两个图形，它们的对应线段？",
+      "options": [
+        "不相等",
+        "平行且相等",
+        "互相垂直",
+        "长度成比例"
+      ],
+      "answer": "平行且相等",
+      "explanation": "这是平移的基本几何性质。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "利用平移解决割补面积问题",
+      "question": "一个 L 型的不规则图形，通过平移切割可以拼成两个长方形。这利用了什么？",
+      "options": [
+        "面积的可加性",
+        "平移面积不变",
+        "对称性",
+        "旋转性"
+      ],
+      "answer": "平移面积不变",
+      "explanation": "平移前后的面积守恒是不规则图形求积的理论基础。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "轴对称图形的补全",
+      "question": "一个轴对称图形的一半到对称轴的最远距离是 4 厘米，则该图形的总宽度至少为 ___ 厘米。",
+      "options": [],
+      "answer": "8",
+      "explanation": "对称轴两侧对称，最远距离相等。总宽 = $4 + 4 = 8$（厘米）。验算：$8 \\div 2 = 4$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "图形的平移规律",
+      "question": "一列火车长 200 米，以每秒 20 米的速度平移。火车头经过一个信号灯到火车尾离开，一共用了 ___ 秒。",
+      "options": [],
+      "answer": "10",
+      "explanation": "平移距离等于车长。列式：$200 \\div 20 = 10$（秒）。验算：$10 \\times 20 = 200$。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形的平移规律",
+      "question": "计算：$450 \\div 9 = ?$",
+      "options": [],
+      "answer": "50",
+      "explanation": "$450 \\div 9 = 50$。验算：$50 \\times 9 = 450$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

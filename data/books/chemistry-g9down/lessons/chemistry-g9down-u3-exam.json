@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-g9down-u3-exam",
+  "title": "第 3 单元挑战",
+  "bookId": "chemistry-g9down",
+  "unitNumber": 3,
+  "unitTitle": "酸和碱",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 7,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "用 20 g 氢氧化钠溶液恰好中和 36.5 g 1% 的盐酸，该氢氧化钠溶液的质量分数是多少（填百分数数字，如 2）？",
+      "options": [],
+      "answer": "2",
+      "explanation": "HCl 为 $36.5\\times1\\%=0.365$ g，需 NaOH $=\\frac{40}{36.5}\\times0.365=0.4$ g，$\\frac{0.4}{20}\\times100\\%=2\\%$。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "常见的酸及其性质",
+      "question": "浓硫酸敞口放置一段时间后，质量（　）",
+      "options": [
+        "增大",
+        "减小",
+        "不变",
+        "先增后减"
+      ],
+      "answer": "增大",
+      "explanation": "浓硫酸吸水。"
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "用 pH 试纸测溶液 pH 前应先用水润湿。",
+      "options": [],
+      "answer": "错",
+      "explanation": "润湿会稀释溶液导致误差。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "常见的碱与中和反应",
+      "question": "农业上常用熟石灰改良（　）",
+      "options": [
+        "酸性土壤",
+        "碱性土壤",
+        "中性土壤",
+        "盐碱地"
+      ],
+      "answer": "酸性土壤",
+      "explanation": "熟石灰显碱性能中和酸性。"
+    }
+  ],
+  "knowledge": null
+}

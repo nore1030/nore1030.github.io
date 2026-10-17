@@ -1,0 +1,220 @@
+{
+  "id": "english-g3up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-g3up",
+  "unitNumber": 2,
+  "unitTitle": "Colours",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "西红柿通常是 'red' 的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "red代表红色。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "'ant' 的首字母是 'A'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "ant首字母为a。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "与人第二次见面可以说 'Nice to meet you'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "Nice to meet you通常用于初次见面。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "Brown 的中文意思是灰色。",
+      "options": [],
+      "answer": "错",
+      "explanation": "brown是棕色。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "The ________ is orange.",
+      "options": [
+        "dog",
+        "orange",
+        "cat",
+        "ant"
+      ],
+      "answer": "orange",
+      "explanation": "orange既代表橙子也代表橙色。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "— Mum, ________ is Mike. — Nice to meet you.",
+      "options": [
+        "it",
+        "this",
+        "is",
+        "my"
+      ],
+      "answer": "this",
+      "explanation": "This is... 用于向父母介绍自己的朋友。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "按字母顺序排列正确的一组是：",
+      "options": [
+        "a c b d",
+        "a d b c",
+        "a b c d",
+        "d c b a"
+      ],
+      "answer": "a b c d",
+      "explanation": "考查26个字母的前四个排列顺序。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "I have ________ yellow pencil.",
+      "options": [
+        "an",
+        "a",
+        "/",
+        "am"
+      ],
+      "answer": "a",
+      "explanation": "yellow以辅音音素开头，使用不定冠词a。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "当你想让别人出示绿色时，应说：",
+      "options": [
+        "Show me green.",
+        "This is green.",
+        "I like green.",
+        "Look at green."
+      ],
+      "answer": "Show me green.",
+      "explanation": "Show me ... 是指令性用语。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "字母Aa至Dd的音形辨析",
+      "question": "下列哪个单词代表的动物不会飞？",
+      "options": [
+        "ant",
+        "bird",
+        "duck",
+        "cat"
+      ],
+      "answer": "cat",
+      "explanation": "词义理解，cat（猫）是陆生不飞动物。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "The sunflower is ________. (葵花是黄色的)",
+      "options": [],
+      "answer": "yellow",
+      "explanation": "考察黄色词汇拼写。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "I see ________. (我看见了绿色)",
+      "options": [],
+      "answer": "green",
+      "explanation": "根据'I see...'句型和颜色词回答。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "介绍他人与社交礼仪",
+      "question": "Nice to ________ you.",
+      "options": [],
+      "answer": "meet",
+      "explanation": "社交口语固定搭配。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "颜色与物品逻辑连线",
+      "options": [
+        "orange",
+        "red",
+        "blue",
+        "black",
+        "天空",
+        "头发",
+        "橙子",
+        "苹果"
+      ],
+      "answer": "A-3,B-4,C-1,D-2",
+      "explanation": "橙色-橙子, 红色-苹果, 蓝色-天空, 黑色-头发。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "颜色词汇与色彩感知",
+      "question": "连词成句：see, I, green.",
+      "options": [
+        "see",
+        "I",
+        "green"
+      ],
+      "answer": "I,see,green",
+      "explanation": "主谓宾语序。"
+    }
+  ],
+  "knowledge": null
+}

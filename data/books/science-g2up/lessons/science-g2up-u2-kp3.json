@@ -1,0 +1,50 @@
+{
+  "id": "science-g2up-u2-kp3",
+  "title": "书的历史与材料演变",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 2,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "书的历史与材料演变",
+      "question": "在古代，人们曾把字写在竹片上，这种书叫竹简。",
+      "options": [],
+      "answer": "对",
+      "explanation": "竹子是古代造纸术普及前重要的书写材料。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "书的历史与材料演变",
+      "question": "相比于竹简，纸这种材料的优点是（ ）。",
+      "options": [
+        "更笨重",
+        "更容易刻字",
+        "轻便易携带",
+        "防蛀防腐烂"
+      ],
+      "answer": "轻便易携带",
+      "explanation": "纸克服了竹简笨重的缺陷。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "书的历史与材料演变",
+      "question": "在造纸术发明前，人们在竹片上刻字，一捆竹简写不了太多字。大约（ ）年前蔡伦改进了造纸术。",
+      "options": [],
+      "answer": "2000",
+      "explanation": "蔡伦在公元105年前后改进造纸术，距今约两千年。"
+    }
+  ],
+  "knowledge": null
+}

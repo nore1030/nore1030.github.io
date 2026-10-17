@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u2-kp12",
+  "title": "形容词选择",
+  "bookId": "english-g4up",
+  "unitNumber": 2,
+  "unitTitle": "My schoolbag",
+  "kpIndex": 9,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "形容词选择",
+      "question": "I have a ______ schoolbag. It's so big!",
+      "options": [
+        "new",
+        "old",
+        "small",
+        "short"
+      ],
+      "answer": "new",
+      "explanation": "语境表达兴奋拥有新书包，且后句描述big（大），new符合逻辑。"
+    }
+  ],
+  "knowledge": null
+}

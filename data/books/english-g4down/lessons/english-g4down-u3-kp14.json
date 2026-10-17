@@ -1,0 +1,32 @@
+{
+  "id": "english-g4down-u3-kp14",
+  "title": "Adjective matching",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 10,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Adjective matching",
+      "question": "将下列描述程度的词语与中文对应。",
+      "options": [
+        "warm",
+        "cool",
+        "hot",
+        "cold",
+        "寒冷的",
+        "炎热的",
+        "凉爽的",
+        "温暖的"
+      ],
+      "answer": "A-4,B-3,C-2,D-1",
+      "explanation": "warm-温暖的, cool-凉爽的, hot-炎热的, cold-寒冷的。"
+    }
+  ],
+  "knowledge": null
+}

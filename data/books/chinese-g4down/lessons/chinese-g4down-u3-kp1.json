@@ -1,0 +1,86 @@
+{
+  "id": "chinese-g4down-u3-kp1",
+  "title": "现代诗的情感意象感知",
+  "bookId": "chinese-g4down",
+  "unitNumber": 3,
+  "unitTitle": "现代诗歌",
+  "kpIndex": 0,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "现代诗的情感意象感知",
+      "question": "《白桦》这首诗的作者是俄国诗人叶赛宁。",
+      "options": [],
+      "answer": "对",
+      "explanation": "《白桦》是中国小学语文教材选录的著名现代诗，作者是苏里南籍或俄国诗人叶赛宁。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "现代诗的情感意象感知",
+      "question": "“所有的绿集中起来，挤在一起”表达了诗人对春天的赞美。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是通过色彩的浓度来表达生命力和喜悦感。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代诗的情感意象感知",
+      "question": "在《繁星（七一）》中，诗人提到“这些事”是指：",
+      "options": [
+        "学校里的往事",
+        "童年的往事",
+        "梦里的往事",
+        "游玩的往事"
+      ],
+      "answer": "童年的往事",
+      "explanation": "这些事是永不灭的回忆，指作者冰心怀念的童年细节。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "现代诗的情感意象感知",
+      "question": "读一段诗：“白桦在我的窗前，披着一身雪。它仿佛穿上了白色的长袍。”这里的“长袍”指：",
+      "options": [
+        "真的衣服",
+        "厚厚的积雪",
+        "白色的云霞",
+        "树木的枝干"
+      ],
+      "answer": "厚厚的积雪",
+      "explanation": "根据诗意，雪落在树上，就像白色的袍子。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "现代诗的情感意象感知",
+      "question": "《绿》一诗中描写了绿的形态：“密密的绿，（___）的绿。”",
+      "options": [],
+      "answer": "叠叠",
+      "explanation": "根据课文内容，应填“叠叠”。"
+    }
+  ],
+  "knowledge": {
+    "point": "现代诗的情感意象感知",
+    "core_concept": "情感意象是指诗人在创作中为了直觉地表现主观情感，从现实世界中选取的媒介。如冰心选取‘繁星’代表对母亲的怀念，艾青选取‘绿’代表勃勃的生机。感知意象需要调动视觉、听觉、嗅觉等多种感官。",
+    "key_formula": "具体事物 + 诗人情感 = 意象",
+    "common_mistakes": [
+      "将意象理解为纯粹的景物描写，忽略背后的情感寄托",
+      "在阅读时无法将文字描写转化为脑海中的画面感"
+    ],
+    "tips": "朗读时可以尝试闭上眼睛，想象诗中描绘的颜色（如银色、绿色）和动作，从色彩和节奏中体会诗人的心情。"
+  }
+}

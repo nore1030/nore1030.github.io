@@ -1,0 +1,66 @@
+{
+  "id": "biology-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "biology-g8up",
+  "unitNumber": 1,
+  "unitTitle": "动物的主要类群",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "脊椎动物的主要类群",
+      "question": "下列关于两栖动物的叙述，正确的是（　）",
+      "options": [
+        "幼体生活在水中用鳃呼吸，成体用肺兼皮肤呼吸",
+        "一生都生活在水中",
+        "体表被羽毛覆盖",
+        "是恒温动物"
+      ],
+      "answer": "幼体生活在水中用鳃呼吸，成体用肺兼皮肤呼吸",
+      "explanation": "两栖类特点。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "无脊椎动物与分类",
+      "question": "下列动物中属于无脊椎动物的是（　）",
+      "options": [
+        "蟹",
+        "青蛙",
+        "家鸽",
+        "鼠"
+      ],
+      "answer": "蟹",
+      "explanation": "蟹是节肢动物，无脊椎。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "脊椎动物的主要类群",
+      "question": "哺乳动物都是胎生、哺乳的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "哺乳类特征。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "无脊椎动物与分类",
+      "question": "蚯蚓属于环节动物。",
+      "options": [],
+      "answer": "对",
+      "explanation": "环节动物。"
+    }
+  ],
+  "knowledge": null
+}

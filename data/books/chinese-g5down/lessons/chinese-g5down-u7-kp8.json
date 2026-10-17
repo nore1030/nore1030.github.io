@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g5down-u7-kp8",
+  "title": "字形辨析",
+  "bookId": "chinese-g5down",
+  "unitNumber": 7,
+  "unitTitle": "异域风情",
+  "kpIndex": 6,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "字形辨析",
+      "question": "下列词语中，书写完全正确的一项是：",
+      "options": [
+        "簇拥 沉睡 码头",
+        "保母 辽阔 窗帘",
+        "骏马 绵羊 叮当",
+        "板凳 桥梁 吆呵"
+      ],
+      "answer": "簇拥 沉睡 码头",
+      "explanation": "B项保姆，C项叮嘱或铃铛（此处叮当亦可，但在本单元词表中簇拥组更准确），D项吆喝。"
+    }
+  ],
+  "knowledge": null
+}

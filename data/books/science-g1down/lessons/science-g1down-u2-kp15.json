@@ -1,0 +1,28 @@
+{
+  "id": "science-g1down-u2-kp15",
+  "title": "动物的生存需求",
+  "bookId": "science-g1down",
+  "unitNumber": 2,
+  "unitTitle": "动物",
+  "kpIndex": 8,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物的生存需求",
+      "question": "给蜗牛建一个“家”，不需要准备的是：",
+      "options": [
+        "潮湿的土",
+        "透气的孔",
+        "新鲜的菜叶",
+        "厚厚的冰块"
+      ],
+      "answer": "厚厚的冰块",
+      "explanation": "蜗牛喜欢阴暗潮湿的环境，冰块会冻伤蜗牛。"
+    }
+  ],
+  "knowledge": null
+}

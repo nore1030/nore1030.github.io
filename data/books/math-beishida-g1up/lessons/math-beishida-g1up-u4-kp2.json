@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g1up-u4-kp2",
+  "title": "分类标准不同结果不同",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 4,
+  "unitTitle": "分类",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "分类标准不同结果不同",
+      "question": "把水果和蔬菜分开，是按（　）分",
+      "options": [
+        "种类",
+        "颜色",
+        "形状",
+        "大小"
+      ],
+      "answer": "种类",
+      "explanation": "按食物类别。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "分类标准不同结果不同",
+      "question": "同一组物品可以按不同的标准分类。",
+      "options": [],
+      "answer": "对",
+      "explanation": "标准多样。"
+    }
+  ],
+  "knowledge": {
+    "point": "分类标准不同结果不同",
+    "core_concept": "同一组物品，分类标准不同，分得的结果就不同；分类能让东西更整齐、好找。",
+    "key_formula": "标准不同 → 结果不同",
+    "common_mistakes": [
+      "认为分法只有一种。"
+    ],
+    "tips": "多角度分类。"
+  }
+}

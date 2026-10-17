@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u2-kp19",
+  "title": "句型转换",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 15,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句型转换",
+      "question": "Don't go at a red light. We must ___.",
+      "options": [],
+      "answer": "stop",
+      "explanation": "红灯必须停下。"
+    }
+  ],
+  "knowledge": null
+}

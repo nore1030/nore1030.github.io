@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u5-kp21",
+  "title": "文学常识",
+  "bookId": "chinese-g4down",
+  "unitNumber": 5,
+  "unitTitle": "妙笔写美景",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "文学常识",
+      "question": "《海上日出》的作者是文学家（___）。",
+      "options": [],
+      "answer": "巴金",
+      "explanation": "《海上日出》是巴金先生的名篇。"
+    }
+  ],
+  "knowledge": null
+}

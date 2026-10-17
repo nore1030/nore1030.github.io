@@ -1,0 +1,91 @@
+{
+  "id": "g2down-u8-kp2",
+  "title": "质量单位“千克”的认识",
+  "bookId": "g2down",
+  "unitNumber": 8,
+  "unitTitle": "克和千克",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "质量单位“千克”的认识",
+      "question": "小明的体重是30克。",
+      "options": [],
+      "answer": "错",
+      "explanation": "一名二年级学生的体重大约是30千克。30克太轻了，大约只有3个10克物体的重量。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质量单位“千克”的认识",
+      "question": "一袋大米约重（ ）。",
+      "options": [
+        "10克",
+        "10千克",
+        "1克",
+        "100克"
+      ],
+      "answer": "10千克",
+      "explanation": "日常生活中一袋普通大米通常为5千克或10千克。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质量单位“千克”的认识",
+      "question": "下列哪种秤最适合用来称量一个小朋友的体重？",
+      "options": [
+        "天平",
+        "体重计",
+        "弹簧秤",
+        "电子台秤"
+      ],
+      "answer": "体重计",
+      "explanation": "体重计的量程适合人类体重，其他秤要么量程太小，要么不方便站立。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质量单位“千克”的认识",
+      "question": "1千克大约有（ ）个500克。",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "10"
+      ],
+      "answer": "2",
+      "explanation": "$1000 \bdiv 500 = 2$。验算：$500 + 500 = 1000$（克）。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质量单位“千克”的认识",
+      "question": "爷爷买回 4 千克苹果，妈妈买回 5 千克苹果，一共买回 ___ 千克。",
+      "options": [],
+      "answer": "9",
+      "explanation": "列式：$4 + 5 = 9$。单位一致，直接相加。验算：$9 - 5 = 4$✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "质量单位“千克”的认识",
+    "core_concept": "千克是常用的质量单位，也叫公斤。常用于计量较重物品，如人的体重、大米、水果、动物等。学生可以通过提一瓶1升的矿泉水（约1千克）来感受单位重。",
+    "key_formula": "计量较重物品用“千克(kg)”作单位。",
+    "common_mistakes": [
+      "读秤盘面读数错误，将指针位置看错",
+      "认为千克只用于食物，不知体重也用千克"
+    ],
+    "tips": "找找家里的5升油或5千克米，亲手提一提，感受“重”的程度。"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "physics-g9up-u1-kp3",
+  "title": "热机与能量转化",
+  "bookId": "physics-g9up",
+  "unitNumber": 1,
+  "unitTitle": "内能",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "热机与能量转化",
+      "question": "四冲程内燃机中，将内能转化为机械能的是（　）",
+      "options": [
+        "吸气冲程",
+        "压缩冲程",
+        "做功冲程",
+        "排气冲程"
+      ],
+      "answer": "做功冲程",
+      "explanation": "做功冲程对外做功。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "热机与能量转化",
+      "question": "热机效率可以大于 1。",
+      "options": [],
+      "answer": "错",
+      "explanation": "效率一定小于 1。"
+    }
+  ],
+  "knowledge": {
+    "point": "热机与能量转化",
+    "core_concept": "四冲程内燃机工作循环：吸气、压缩、做功、排气，一个循环曲轴转 2 圈、做功 1 次。热机效率 $\\eta=\\frac{W_\\text{有用}}{Q_\\text{总}}$。",
+    "key_formula": "$\\eta=\\frac{W_\\text{有用}}{Q_\\text{总}}\\times100\\%$",
+    "common_mistakes": [
+      "把压缩冲程当作对外做功冲程。"
+    ],
+    "tips": "只有做功冲程对外做功。"
+  }
+}

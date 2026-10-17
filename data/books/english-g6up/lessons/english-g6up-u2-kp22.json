@@ -1,0 +1,30 @@
+{
+  "id": "english-g6up-u2-kp22",
+  "title": "特殊疑问句",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 18,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "特殊疑问句",
+      "question": "连词成句：you, go, How, do, school, to",
+      "options": [
+        "you",
+        "go",
+        "How",
+        "do",
+        "school",
+        "to"
+      ],
+      "answer": "How,do,you,go,to,school",
+      "explanation": "特殊疑问句语序：疑问词+助动词+主语+动词+其他。"
+    }
+  ],
+  "knowledge": null
+}

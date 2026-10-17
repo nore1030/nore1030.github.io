@@ -1,0 +1,79 @@
+{
+  "id": "chinese-g1down-u8-kp1",
+  "title": "益虫捕食领域归类",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 0,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "益虫捕食领域归类",
+      "question": "燕子专门在天空中捕捉飞行的害虫。",
+      "options": [],
+      "answer": "对",
+      "explanation": "燕子主要是在飞行中捕食空中的蚊子、苍蝇等昆虫。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "益虫捕食领域归类",
+      "question": "啄木鸟被人们称为“森林医生”。",
+      "options": [],
+      "answer": "对",
+      "explanation": "啄木鸟专门捉树干里的害虫。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "益虫捕食领域归类",
+      "question": "棉花姑娘生病了，是谁帮她治好的？",
+      "options": [
+        "燕子",
+        "啄木鸟",
+        "青蛙",
+        "七星瓢虫"
+      ],
+      "answer": "七星瓢虫",
+      "explanation": "七星瓢虫专门吃棉花上的蚜虫。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "益虫捕食领域归类",
+      "question": "请将小动物和它们捉虫的地点连起来。",
+      "options": [
+        "燕子",
+        "啄木鸟",
+        "青蛙",
+        "七星瓢虫",
+        "田里",
+        "树干",
+        "空中",
+        "叶子"
+      ],
+      "answer": "A-3,B-2,C-1,D-4",
+      "explanation": "燕子在空中捉虫，啄木鸟在木头里，青蛙在田里，七星瓢虫在叶片上。"
+    }
+  ],
+  "knowledge": {
+    "point": "益虫捕食领域归类",
+    "core_concept": "自然界中的益虫根据其生理特点和生活环境，捕食范围各不相同。燕子在飞行中利用剪刀般的尾巴控制方向，捕食空中飞行的昆虫；啄木鸟利用坚硬的喙和带钩的舌头，寻找树干深处的蛀虫；青蛙则活跃在农田里，长舌头专门捕食稻田害虫；七星瓢虫由于个头小，能够清理植物叶片上的微小蚜虫。",
+    "key_formula": "燕子-空中，啄木鸟-树干，青蛙-田里，七星瓢虫-叶子上。",
+    "common_mistakes": [
+      "混淆青蛙和七星瓢虫的捕食地点",
+      "错把害虫当成益虫"
+    ],
+    "tips": "可以通过顺口溜记忆：燕子天空飞，啄木树中医生，青蛙田间跳，瓢虫叶尖行。"
+  }
+}

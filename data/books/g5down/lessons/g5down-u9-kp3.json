@@ -1,0 +1,48 @@
+{
+  "id": "g5down-u9-kp3",
+  "title": "统计与概率综合分析",
+  "bookId": "g5down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "统计与概率综合分析",
+      "question": "复式折线统计图不但能表示数量的多少，还能清楚地表示两个量增减变化的趋势。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是复式折线统计图的核心特点，便于比较两组数据的走势。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "统计与概率综合分析",
+      "question": "要统计某地区一年内降雨量的变化情况，最适合用：",
+      "options": [
+        "条形统计图",
+        "折线统计图",
+        "统计表",
+        "复式条形统计图"
+      ],
+      "answer": "折线统计图",
+      "explanation": "折线统计图最擅长表现数据的变化趋势。"
+    }
+  ],
+  "knowledge": {
+    "point": "统计与概率综合分析",
+    "core_concept": "进一步学习复式条形和折线统计图。复式统计图能同时展示两组数据，便于对比；折线图擅长表现趋势。复习重点在于如何从图表中提取关键信息并进行简单的预测分析。",
+    "key_formula": "平均数 = 总数 $\\div$ 份数",
+    "common_mistakes": [
+      "在读取复式折线图时，看错图例导致数据对应错误。",
+      "描述趋势时语言不规范，无法准确说出增长或下降的情况。"
+    ],
+    "tips": "先看图例，再读刻度，最后分析趋势或差异。"
+  }
+}

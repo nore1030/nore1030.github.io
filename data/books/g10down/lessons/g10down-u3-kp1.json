@@ -1,0 +1,58 @@
+{
+  "id": "g10down-u3-kp1",
+  "title": "空间几何体与表面积、体积",
+  "bookId": "g10down",
+  "unitNumber": 3,
+  "unitTitle": "立体几何初步",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank_text",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "空间几何体与表面积、体积",
+      "question": "底面边长 2、高 3 的正三棱柱体积是多少？",
+      "options": [],
+      "answer": "3\\sqrt3",
+      "explanation": "$S=\\frac{\\sqrt3}{4}\\times4=\\sqrt3$，$V=\\sqrt3\\times3=3\\sqrt3$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "空间几何体与表面积、体积",
+      "question": "半径为 3 的球体积是多少（结果保留 $\\pi$，填 $\\pi$ 的系数）？",
+      "options": [],
+      "answer": "36",
+      "explanation": "$V=\\frac43\\pi\\times27=36\\pi$。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "空间几何体与表面积、体积",
+      "question": "圆锥的体积公式是（　）",
+      "options": [
+        "$\\frac13\\pi r^2h$",
+        "$\\pi r^2h$",
+        "$\\frac43\\pi r^3$",
+        "$\\pi rl$"
+      ],
+      "answer": "$\\frac13\\pi r^2h$",
+      "explanation": "锥体体积公式。"
+    }
+  ],
+  "knowledge": {
+    "point": "空间几何体与表面积、体积",
+    "core_concept": "柱体体积 $V=Sh$；锥体 $V=\\frac13Sh$；球 $V=\\frac43\\pi R^3$，$S=4\\pi R^2$。",
+    "key_formula": "$V_\\text{锥}=\\frac13Sh$",
+    "common_mistakes": [
+      "锥体体积漏乘 $\\frac13$。"
+    ],
+    "tips": "锥体别忘了三分之一。"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "science-g3down-u2-kp1",
+  "title": "动物卵的结构与分类",
+  "bookId": "science-g3down",
+  "unitNumber": 2,
+  "unitTitle": "动物的一生",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "动物卵的结构与分类",
+      "question": "鸡蛋内部的蛋黄将来发育成小鸡，而蛋白为胚胎发育提供营养和水分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "蛋黄上有一个小白点叫胚盘，胚盘才发育成小鸡，蛋黄和蛋白提供营养。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物卵的结构与分类",
+      "question": "下列动物中，产下的卵外面没有硬壳的是（）。",
+      "options": [
+        "青蛙",
+        "鸡",
+        "蛇",
+        "乌龟"
+      ],
+      "answer": "青蛙",
+      "explanation": "青蛙产在水里的卵是软的，没有硬壳保护。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物卵的结构与分类",
+      "question": "鸡蛋气室的作用主要是为胚胎发育提供（）。",
+      "options": [
+        "水分",
+        "养料",
+        "空气",
+        "空间"
+      ],
+      "answer": "空气",
+      "explanation": "气室储存空气供胚胎呼吸。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "动物卵的结构与分类",
+      "question": "观察干鸡蛋时，发现蛋壳上有很多小孔，它们的作用是（）。",
+      "options": [
+        "让蛋轻一点",
+        "透气",
+        "利于孵化",
+        "没有什么用"
+      ],
+      "answer": "透气",
+      "explanation": "蛋壳上的气孔保证胚胎与外界进行气体交换。"
+    }
+  ],
+  "knowledge": null
+}

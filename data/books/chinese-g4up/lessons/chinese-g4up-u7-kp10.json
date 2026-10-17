@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4up-u7-kp10",
+  "title": "词语搭配",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 8,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "填入括号中最恰当的词语是：梅兰芳（   ）了种种困难，始终不为日本人表演。",
+      "options": [
+        "克服",
+        "经历",
+        "忍受",
+        "打败"
+      ],
+      "answer": "克服",
+      "explanation": "克服困难是固定搭配。"
+    }
+  ],
+  "knowledge": null
+}

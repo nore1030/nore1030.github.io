@@ -1,0 +1,39 @@
+{
+  "id": "science-g6down-u2-kp17",
+  "title": "调查校园生物",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 11,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "调查校园生物",
+      "question": "校园里的生物多种多样，即使是同一种树，其叶子（ ）。",
+      "options": [
+        "完全一模一样",
+        "会有不同程度差异",
+        "大小相同但颜色不同",
+        "形态完全不同"
+      ],
+      "answer": "会有不同程度差异",
+      "explanation": "由于变异的存在，世界上没有两片完全相同的叶子。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "调查校园生物",
+      "question": "在校园生物大搜索中，我们主要观察（ ）个方面的环境。",
+      "options": [],
+      "answer": "3",
+      "explanation": "通常指天上、地上（含水中）、地下三个空间。"
+    }
+  ],
+  "knowledge": null
+}

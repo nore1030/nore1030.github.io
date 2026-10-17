@@ -1,0 +1,66 @@
+{
+  "id": "geography-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "geography-g8up",
+  "unitNumber": 1,
+  "unitTitle": "中国的疆域与自然环境",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "中国的地形与气候",
+      "question": "我国气候的显著特征是（　）",
+      "options": [
+        "季风气候显著",
+        "全年高温",
+        "终年少雨",
+        "海洋性气候"
+      ],
+      "answer": "季风气候显著",
+      "explanation": "季风气候显著。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "中国的疆域与行政区划",
+      "question": "我国面积最大的省级行政区是（　）",
+      "options": [
+        "西藏",
+        "新疆",
+        "内蒙古",
+        "青海"
+      ],
+      "answer": "新疆",
+      "explanation": "新疆面积最大。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的地形与气候",
+      "question": "我国第一级阶梯上的主要地形区是青藏高原。",
+      "options": [],
+      "answer": "对",
+      "explanation": "青藏高原为第一级阶梯。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "中国的疆域与行政区划",
+      "question": "我国陆地邻国众多，与 14 个国家接壤。",
+      "options": [],
+      "answer": "对",
+      "explanation": "陆地邻国 14 个。"
+    }
+  ],
+  "knowledge": null
+}

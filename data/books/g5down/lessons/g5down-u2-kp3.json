@@ -1,0 +1,96 @@
+{
+  "id": "g5down-u2-kp3",
+  "title": "质数与合数及1的特殊性",
+  "bookId": "g5down",
+  "unitNumber": 2,
+  "unitTitle": "因数与倍数",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "质数与合数及1的特殊性",
+      "question": "1 既不是质数，也不是合数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "质数要求有2个因数，合数要求有3个及以上因数。1只有1个因数，所以既不是质数也不是合数。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质数与合数及1的特殊性",
+      "question": "在 1-10 的自然数中，质数有几个？",
+      "options": [
+        "3 个",
+        "4 个",
+        "5 个",
+        "6 个"
+      ],
+      "answer": "4 个",
+      "explanation": "1-10中的质数有2, 3, 5, 7，共4个。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "质数与合数及1的特殊性",
+      "question": "下列各数中，属于合数的是：",
+      "options": [
+        "17",
+        "23",
+        "27",
+        "31"
+      ],
+      "answer": "27",
+      "explanation": "27除了1和27，还有因数3和9，所以是合数。17, 23, 31都是质数。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "质数与合数及1的特殊性",
+      "question": "两个质数的积一定是：",
+      "options": [
+        "质数",
+        "合数",
+        "偶数",
+        "奇数"
+      ],
+      "answer": "合数",
+      "explanation": "两个质数的积至少有1、这两个质数本身及积本身四个因数，故为合数。如 $2 \times 3 = 6$。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "质数与合数及1的特殊性",
+      "question": "两个质数的和是 25，这两个质数的积是：",
+      "options": [
+        "24",
+        "46",
+        "50",
+        "100"
+      ],
+      "answer": "46",
+      "explanation": "两个数之和为奇数，必为一奇一偶。质数中唯一的偶数是2，故另一个质数是 $25-2=23$。积为 $2 \times 23 = 46$。"
+    }
+  ],
+  "knowledge": {
+    "point": "质数与合数及1的特殊性",
+    "core_concept": "一个数，如果只有 1 和它本身两个因数，叫做质数（或素数）。一个数，如果除了 1 和它本身还有别的因数，叫做合数。1 只有 1 个因数，所以它既不是质数，也不是合数。按因数个数分，自然数（0除外）可以分为 1、质数和合数三类。",
+    "key_formula": "\\text{质数只有 2 个因数，合数至少有 3 个因数}",
+    "common_mistakes": [
+      "误以为 1 是质数",
+      "误以为所有奇数都是质数（如 9, 15 是合数）"
+    ],
+    "tips": "熟记 20 以内的质数：2, 3, 5, 7, 11, 13, 17, 19。"
+  }
+}

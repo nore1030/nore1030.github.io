@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u2-kp16",
+  "title": "字词积累",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 12,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "字词积累",
+      "question": "‘邯郸学步’中‘邯郸’是地名，‘学步’的意思是学___________。",
+      "options": [],
+      "answer": "走路",
+      "explanation": "学步即学习走路。"
+    }
+  ],
+  "knowledge": null
+}

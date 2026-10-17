@@ -1,0 +1,53 @@
+{
+  "id": "g3down-u2-kp2",
+  "title": "除法估算",
+  "bookId": "g3down",
+  "unitNumber": 2,
+  "unitTitle": "除数是一位数的除法",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "除法估算",
+      "question": "小红 4 分钟做了 118 道题，她每分钟大约做多少道？",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "answer": "30",
+      "explanation": "$118 \times 4 \times 120 \times 4 = 30$。把 118 看作 120 进行估算。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "除法估算",
+      "question": "$298 \times 6$ 的结果最接近哪个数？",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "answer": "50",
+      "explanation": "$298 \times 6 \times 300 \times 6 = 50$。"
+    }
+  ],
+  "knowledge": {
+    "point": "除法估算",
+    "core_concept": "除法估算通常把被除数看作最接近它的整十、整百或几百几十数，且这个数最好能被除数整除。估算不仅为了算出大概结果，更是为了辅助笔算判断商的位数。",
+    "key_formula": "被除数 \times 除数 \times 接近的整十整百数 \times 除数",
+    "common_mistakes": [
+      "胡乱进位或退位，导致估算结果偏差过大",
+      "估算的数不能被除数整除，失去了口算便利"
+    ],
+    "tips": "找“邻居”：找一个被除数附近的数，它必须在除数的乘法口诀里。"
+  }
+}

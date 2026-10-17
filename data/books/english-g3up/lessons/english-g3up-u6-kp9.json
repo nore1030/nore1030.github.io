@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u6-kp9",
+  "title": "数字认读",
+  "bookId": "english-g3up",
+  "unitNumber": 6,
+  "unitTitle": "Happy birthday!",
+  "kpIndex": 5,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数字认读",
+      "question": "Show me _____. (伸出6根手指)",
+      "options": [
+        "six",
+        "seven",
+        "eight",
+        "nine"
+      ],
+      "answer": "six",
+      "explanation": "数字6的英文是six。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp15",
+  "title": "短语搭配",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 11,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "短语搭配",
+      "question": "It _______ good.",
+      "options": [
+        "look",
+        "looks",
+        "looking",
+        "looked"
+      ],
+      "answer": "looked",
+      "explanation": "描述过去发生的事情，系动词look使用过去式looked。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "science-g4up-u2-kp5",
+  "title": "平衡膳食宝塔的应用",
+  "bookId": "science-g4up",
+  "unitNumber": 2,
+  "unitTitle": "呼吸与消化",
+  "kpIndex": 4,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "平衡膳食宝塔的应用",
+      "question": "根据“平衡膳食宝塔”，我们每天摄入量最大的应该是（）。",
+      "options": [
+        "谷薯类",
+        "蔬菜水果类",
+        "油脂类",
+        "鱼肉蛋类"
+      ],
+      "answer": "谷薯类",
+      "explanation": "谷薯类位于宝塔底层，提供能量，需求量最大。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "平衡膳食宝塔的应用",
+      "question": "根据营养均衡原则，我们不应该（），即只吃自己喜欢的食物。",
+      "options": [],
+      "answer": "挑食",
+      "explanation": "挑食会导致某些营养素缺乏，破坏身体健康。"
+    }
+  ],
+  "knowledge": null
+}

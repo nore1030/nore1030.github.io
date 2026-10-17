@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp14",
+  "title": "固定搭配",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 10,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "固定搭配",
+      "question": "Slow down and stop ___ a yellow light.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "在红绿灯处使用介词at。"
+    }
+  ],
+  "knowledge": null
+}

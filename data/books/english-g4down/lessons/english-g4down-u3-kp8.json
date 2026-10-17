@@ -1,0 +1,28 @@
+{
+  "id": "english-g4down-u3-kp8",
+  "title": "Response to permission",
+  "bookId": "english-g4down",
+  "unitNumber": 3,
+  "unitTitle": "Weather",
+  "kpIndex": 4,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Response to permission",
+      "question": "Can I go outside? ____, you can.",
+      "options": [
+        "No",
+        "Yes",
+        "Ok",
+        "Sorry"
+      ],
+      "answer": "Yes",
+      "explanation": "肯定回答用Yes, you can。"
+    }
+  ],
+  "knowledge": null
+}

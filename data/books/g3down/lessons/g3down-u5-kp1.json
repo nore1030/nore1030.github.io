@@ -1,0 +1,64 @@
+{
+  "id": "g3down-u5-kp1",
+  "title": "面积的含义与比较",
+  "bookId": "g3down",
+  "unitNumber": 5,
+  "unitTitle": "面积",
+  "kpIndex": 0,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "面积的含义与比较",
+      "question": "测量或计算一个物体的表面或平面图形的大小，就是求它的周长。",
+      "options": [],
+      "answer": "错",
+      "explanation": "面积是指物体表面或平面图形的大小，而周长是围成图形一周的长度。故错误。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积的含义与比较",
+      "question": "下面哪个物体的表面面积最接近 1 平方分米？",
+      "options": [
+        "课桌桌面",
+        "成人手掌心",
+        "教室地面",
+        "硬币正面"
+      ],
+      "answer": "成人手掌心",
+      "explanation": "1 平方分米大约是成人手掌的大小。课桌远大于 1，硬币远小于 1。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "面积的含义与比较",
+      "question": "比较两个图形面积的大小，最科学的方法是（ ）。",
+      "options": [
+        "观察法",
+        "重叠法",
+        "用相同的图形度量",
+        "直接猜测"
+      ],
+      "answer": "用相同的图形度量",
+      "explanation": "只有使用统一且相同的度量单位（图形）才能准确比较面积大小。"
+    }
+  ],
+  "knowledge": {
+    "point": "面积的含义与比较",
+    "core_concept": "面积是指物体表面或封闭平面图形的大小。比较面积大小常用观察法、重叠法和度量法。度量时需要使用统一的形状（如正方形）作为单位进行铺摆计数。",
+    "key_formula": "物体的表面或封闭图形的大小就是面积。",
+    "common_mistakes": [
+      "混淆面积和周长的概念，认为围成图形线条越长面积就越大",
+      "在比较面积时没有采用统一规格的测量小格"
+    ],
+    "tips": "可以通过‘摸一摸’和‘涂一涂’来感知，面积是整块色块的大小，周长仅仅是边沿线条。"
+  }
+}

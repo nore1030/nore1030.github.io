@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4up-u6-kp12",
+  "title": "近义词连线",
+  "bookId": "chinese-g4up",
+  "unitNumber": 6,
+  "unitTitle": "童年记忆",
+  "kpIndex": 11,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词连线",
+      "question": "请将下列词语与其近义词对应连接：",
+      "options": [
+        "懊恼",
+        "溃败",
+        "期待",
+        "通情达理",
+        "失败",
+        "后悔",
+        "明辨是非",
+        "盼望"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "懊恼-后悔，溃败-失败，期待-盼望，通情达理-明辨是非。"
+    }
+  ],
+  "knowledge": null
+}

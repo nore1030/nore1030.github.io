@@ -1,0 +1,39 @@
+{
+  "id": "science-g6down-u2-kp9",
+  "title": "校园生物大搜索",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 3,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "校园生物大搜索",
+      "question": "调查校园生物时，地下、空中和水中都要进行观察和记录。",
+      "options": [],
+      "answer": "对",
+      "explanation": "全面的调查应覆盖校园内的各个角落和空间。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "校园生物大搜索",
+      "question": "在校园生物大搜索中，对于不认识的植物，我们应该（ ）。",
+      "options": [
+        "拔出来带回教室询问",
+        "直接跳过不记入调查表",
+        "拍下照片或画图记录",
+        "带回家问父母"
+      ],
+      "answer": "拍下照片或画图记录",
+      "explanation": "科学调查应保护现场环境，不认识的生物可通过图文记录后期查证。"
+    }
+  ],
+  "knowledge": null
+}

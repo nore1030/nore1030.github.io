@@ -1,0 +1,23 @@
+{
+  "id": "english-g3down-u4-kp20",
+  "title": "疑问句回答",
+  "bookId": "english-g3down",
+  "unitNumber": 4,
+  "unitTitle": "Where is my car?",
+  "kpIndex": 16,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问句回答",
+      "question": "— Is it in the box? — No, it ___.",
+      "options": [],
+      "answer": "isn't",
+      "explanation": "Is it...? 的否定回答是No, it isn't."
+    }
+  ],
+  "knowledge": null
+}

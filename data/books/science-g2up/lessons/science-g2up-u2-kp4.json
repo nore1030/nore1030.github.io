@@ -1,0 +1,55 @@
+{
+  "id": "science-g2up-u2-kp4",
+  "title": "改变材料形状增强性能",
+  "bookId": "science-g2up",
+  "unitNumber": 2,
+  "unitTitle": "材料",
+  "kpIndex": 3,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "改变材料形状增强性能",
+      "question": "瓦楞状的纸比普通的平纸支撑力更强。",
+      "options": [],
+      "answer": "对",
+      "explanation": "改变形状能增强纸的承重能力。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "改变材料形状增强性能",
+      "question": "在餐盒里垫上一层瓦楞纸，主要的目的是（ ）。",
+      "options": [
+        "让饭菜更好吃",
+        "让餐盒更美观",
+        "隔热并增加承重",
+        "减轻餐盒重量"
+      ],
+      "answer": "隔热并增加承重",
+      "explanation": "瓦楞状结构留有空气层，能隔热和增强支撑。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "改变材料形状增强性能",
+      "question": "把纸折成风琴状（W形）后再放上重物，它能承载的力会（ ）。",
+      "options": [
+        "变小",
+        "变大",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "变大",
+      "explanation": "折叠增加了结构的稳定性，从而增加了载重力。"
+    }
+  ],
+  "knowledge": null
+}

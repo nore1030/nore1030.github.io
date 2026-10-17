@@ -1,0 +1,28 @@
+{
+  "id": "english-g3up-u1-kp12",
+  "title": "情景交际",
+  "bookId": "english-g3up",
+  "unitNumber": 1,
+  "unitTitle": "Hello!",
+  "kpIndex": 8,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "情景交际",
+      "question": "想知道对方的姓名，你可以问：",
+      "options": [
+        "What's your name?",
+        "How are you?",
+        "Look at me.",
+        "I have a bag."
+      ],
+      "answer": "What's your name?",
+      "explanation": "What's your name? 是询问姓名的标准句型。"
+    }
+  ],
+  "knowledge": null
+}

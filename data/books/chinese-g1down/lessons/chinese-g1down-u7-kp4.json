@@ -1,0 +1,45 @@
+{
+  "id": "chinese-g1down-u7-kp4",
+  "title": "习惯养成",
+  "bookId": "chinese-g1down",
+  "unitNumber": 7,
+  "unitTitle": "习惯",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "习惯养成",
+      "question": "读短文：小猴子下山，先掰玉米，后摘桃子，最后捧西瓜。他最后带了什么回家？",
+      "options": [
+        "玉米",
+        "桃子",
+        "西瓜",
+        "空着手"
+      ],
+      "answer": "空着手",
+      "explanation": "小猴子见异思迁，最后去追兔子，什么都没得到。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "习惯养成",
+      "question": "连词成句：一只,追,小猴子,去,兔子",
+      "options": [
+        "一只",
+        "追",
+        "小猴子",
+        "去",
+        "兔子"
+      ],
+      "answer": "小猴子,去,追,一只,兔子",
+      "explanation": "按照主谓宾顺序排列，小猴子是主体。"
+    }
+  ],
+  "knowledge": null
+}

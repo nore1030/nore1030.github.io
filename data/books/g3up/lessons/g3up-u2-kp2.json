@@ -1,0 +1,156 @@
+{
+  "id": "g3up-u2-kp2",
+  "title": "几百几十加减几百几十的笔算",
+  "bookId": "g3up",
+  "unitNumber": 2,
+  "unitTitle": "万以内的加法和减法（一）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "在笔算 $350 + 220$ 时，十位上的数字 5 和 2 相加得到 7，这个 7 表示 7 个十。",
+      "options": [],
+      "answer": "对",
+      "explanation": "350 和 220 的十位分别是 5 和 2，代表 50 和 20，相加是 70，即 7 个十。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "两个三位数的和一定是三位数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "例如：$600 + 500 = 1100$，结果是四位数。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "一个电饭锅 420 元，一台电风扇 180 元。买这两件商品一共要花多少元？",
+      "options": [
+        "500",
+        "600",
+        "580",
+        "610"
+      ],
+      "answer": "600",
+      "explanation": "$420 + 180 = 600$。验算：$600 - 180 = 420$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "水果店运进 740 千克苹果，卖出 360 千克，还剩多少千克？",
+      "options": [
+        "480",
+        "380",
+        "420",
+        "360"
+      ],
+      "answer": "380",
+      "explanation": "$740 - 360 = 380$。验算：$380 + 360 = 740$。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "$450 + 370$ 的和的百位数字是几？",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "2"
+      ],
+      "answer": "8",
+      "explanation": "$450 + 370 = 820$。百位是 8。十位 $5+7=12$ 向百位进 1，百位 $4+3+1 = 8$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "下列哪个算式的计算结果最大？",
+      "options": [
+        "240 + 360",
+        "900 - 450",
+        "210 + 380",
+        "820 - 230"
+      ],
+      "answer": "240 + 360",
+      "explanation": "A: 600; B: 450; C: 590; D: 590. 600 最大。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "在一道减法算式中，被减数是 540，差是 150，减数是多少？",
+      "options": [
+        "690",
+        "490",
+        "390",
+        "410"
+      ],
+      "answer": "390",
+      "explanation": "减数 = 被减数 - 差。$540 - 150 = 390$。验算：$390 + 150 = 540$。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "已知一个数比 250 多 360，这个数是 ___。",
+      "options": [],
+      "answer": "610",
+      "explanation": "$250 + 360 = 610$。验算：$610 - 360 = 250$。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "小明看一本 500 页的故事书，第一天看了 120 页，第二天看了 150 页。他还要看 ___ 页才能看完。",
+      "options": [],
+      "answer": "230",
+      "explanation": "已经看了 $120 + 150 = 270$ 页。剩余：$500 - 270 = 230$。验算：$230 + 270 = 500$。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "几百几十加减几百几十的笔算",
+      "question": "竖式计算：$460 + 270 = ?$",
+      "options": [],
+      "answer": "730",
+      "explanation": "$460 + 270 = 730$。验算：$730 - 270 = 460$。"
+    }
+  ],
+  "knowledge": {
+    "point": "几百几十加减几百几十的笔算",
+    "core_concept": "相同数位对齐，从个位算起。加法中，哪一位相加满十就向前一位进一；减法中，哪一位不够减就从前一位退一当十后再减。这其实是两位数笔算的延伸，只是在百位上多了操作。",
+    "key_formula": "相同数位对齐，从各位算起。$360 + 250 = 610$",
+    "common_mistakes": [
+      "数位没有对齐，把十位加到了百位上",
+      "三位数减三位数退位后，最高位如果是0没注意省略"
+    ],
+    "tips": "可以先口算百位和十位，再用竖式验证，确保万无一失。"
+  }
+}

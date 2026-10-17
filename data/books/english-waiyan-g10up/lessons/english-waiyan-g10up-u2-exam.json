@@ -1,0 +1,66 @@
+{
+  "id": "english-waiyan-g10up-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "english-waiyan-g10up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 家庭与日常生活",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家庭成员与描述",
+      "question": "My father is ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "/"
+      ],
+      "answer": "an",
+      "explanation": "engineer 以元音音素开头。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "She often ___ to school by bike.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
+      "explanation": "第三人称单数。"
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "家庭成员与描述",
+      "question": "介绍家人可以用 My…is… 句型。",
+      "options": [],
+      "answer": "对",
+      "explanation": "介绍句型。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "日常作息与频率",
+      "question": "sometimes 表示有时候。",
+      "options": [],
+      "answer": "对",
+      "explanation": "频率副词。"
+    }
+  ],
+  "knowledge": null
+}

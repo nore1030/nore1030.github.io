@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp17",
+  "title": "疑问词辨析",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 13,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问词辨析",
+      "question": "— ______ does she go to work? — By car.",
+      "options": [
+        "What",
+        "How",
+        "Where",
+        "Which"
+      ],
+      "answer": "How",
+      "explanation": "对交通方式提问用疑问词How。"
+    }
+  ],
+  "knowledge": null
+}

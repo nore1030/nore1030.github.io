@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g8up-u2-kp1",
+  "title": "一日作息",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 日常生活 / Daily life",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一日作息",
+      "question": "I usually ___ up at six o'clock.",
+      "options": [
+        "get",
+        "gets",
+        "getting",
+        "got"
+      ],
+      "answer": "get",
+      "explanation": "主语 I 用原形。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "一日作息",
+      "question": "频度副词 usually 放在实义动词之前。",
+      "options": [],
+      "answer": "对",
+      "explanation": "频度副词位置。"
+    }
+  ],
+  "knowledge": {
+    "point": "一日作息",
+    "core_concept": "沪教版 Module 2 涉及起床、上学、吃饭、睡觉等日常活动。常用频度副词 always、usually、often、sometimes、never。",
+    "key_formula": "频度副词 + 一般现在时",
+    "common_mistakes": [
+      "频度副词位置放错。"
+    ],
+    "tips": "频度副词在实义动词前。"
+  }
+}

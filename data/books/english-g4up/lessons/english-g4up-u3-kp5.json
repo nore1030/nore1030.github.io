@@ -1,0 +1,23 @@
+{
+  "id": "english-g4up-u3-kp5",
+  "title": "人物外貌描绘",
+  "bookId": "english-g4up",
+  "unitNumber": 3,
+  "unitTitle": "My friends",
+  "kpIndex": 1,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "人物外貌描绘",
+      "question": "当你想表达他是强壮的时候，可以说：He is thin.",
+      "options": [],
+      "answer": "错",
+      "explanation": "strong是强壮的，thin是瘦的。"
+    }
+  ],
+  "knowledge": null
+}

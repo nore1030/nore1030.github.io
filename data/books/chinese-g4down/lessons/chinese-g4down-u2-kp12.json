@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g4down-u2-kp12",
+  "title": "词语配对",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 11,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语配对",
+      "question": "请将下列形容词与对应的职业进行连线。",
+      "options": [
+        "严谨的",
+        "勇敢的",
+        "勤劳的",
+        "美丽的",
+        "战士",
+        "科学家",
+        "蝴蝶",
+        "蜜蜂"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "科学家需要严谨，战士需要勇敢，蜜蜂很勤劳，蝴蝶很美丽。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "g7down-u2-kp2",
+  "title": "无理数与实数",
+  "bookId": "g7down",
+  "unitNumber": 2,
+  "unitTitle": "实数",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "无理数与实数",
+      "question": "下列是无理数的是（　）",
+      "options": [
+        "$\\frac{22}{7}$",
+        "$\\sqrt2$",
+        "0.25",
+        "$-3$"
+      ],
+      "answer": "$\\sqrt2$",
+      "explanation": "$\\sqrt2$ 是无限不循环小数。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "无理数与实数",
+      "question": "实数与数轴上的点一一对应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是实数的基本性质。"
+    }
+  ],
+  "knowledge": {
+    "point": "无理数与实数",
+    "core_concept": "无限不循环小数是无理数，如 $\\sqrt2$、$\\pi$。有理数和无理数统称实数，实数与数轴上的点一一对应。",
+    "key_formula": "$\\sqrt2\\approx1.414$",
+    "common_mistakes": [
+      "把 $\\frac{22}{7}$ 当无理数（它是分数，有理数）。"
+    ],
+    "tips": "看能否写成分数形式。"
+  }
+}

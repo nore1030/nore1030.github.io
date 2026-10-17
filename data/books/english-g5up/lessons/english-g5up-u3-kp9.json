@@ -1,0 +1,23 @@
+{
+  "id": "english-g5up-u3-kp9",
+  "title": "语音规律",
+  "bookId": "english-g5up",
+  "unitNumber": 3,
+  "unitTitle": "What would you like?",
+  "kpIndex": 4,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音规律",
+      "question": "单词 'cow' 和 'now' 中 'ow' 的发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "两者都发 /aʊ/。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "history-g8up-u2-kp2",
+  "title": "戊戌变法与辛亥革命",
+  "bookId": "history-g8up",
+  "unitNumber": 2,
+  "unitTitle": "近代化探索",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "戊戌变法与辛亥革命",
+      "question": "中华民国成立于（　）",
+      "options": [
+        "1911 年",
+        "1912 年",
+        "1919 年",
+        "1898 年"
+      ],
+      "answer": "1912 年",
+      "explanation": "1912 年成立中华民国。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "戊戌变法与辛亥革命",
+      "question": "辛亥革命推翻了君主专制制度，但未改变中国的社会性质。",
+      "options": [],
+      "answer": "对",
+      "explanation": "辛亥革命的局限性。"
+    }
+  ],
+  "knowledge": {
+    "point": "戊戌变法与辛亥革命",
+    "core_concept": "1898 年戊戌变法主张君主立宪，因慈禧太后发动政变而失败。1911 年辛亥革命爆发，1912 年中华民国成立，推翻君主专制制度。",
+    "key_formula": "辛亥革命推翻君主专制",
+    "common_mistakes": [
+      "认为辛亥革命改变了社会性质。"
+    ],
+    "tips": "未改变半殖民地半封建社会性质。"
+  }
+}

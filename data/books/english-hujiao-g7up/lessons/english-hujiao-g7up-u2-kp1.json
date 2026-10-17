@@ -1,0 +1,63 @@
+{
+  "id": "english-hujiao-g7up-u2-kp1",
+  "title": "日常动词短语",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Module 1 My life — Daily life 日常生活",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常动词短语",
+      "question": "「我每天六点起床。」的英文是（　）",
+      "options": [
+        "I get up at six.",
+        "I gets up at six.",
+        "I get up in six.",
+        "I getting up at six."
+      ],
+      "answer": "I get up at six.",
+      "explanation": "第一人称用原形。"
+    },
+    {
+      "id": 3,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "日常动词短语",
+      "question": "「上床睡觉」的英文是（　）",
+      "options": [
+        "go to bed",
+        "go to school",
+        "get up",
+        "go home"
+      ],
+      "answer": "go to bed",
+      "explanation": "go to bed 睡觉。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "日常动词短语",
+      "question": "have breakfast 的意思是「吃早饭」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "三餐用 have。"
+    }
+  ],
+  "knowledge": {
+    "point": "日常动词短语",
+    "core_concept": "get up 起床、have breakfast 吃早饭、go to school 去上学、do homework 做作业、go to bed 上床睡觉。",
+    "key_formula": "I get up at six every day.",
+    "common_mistakes": [
+      "have breakfast 说成 eat breakfast 虽对但教材用 have。"
+    ],
+    "tips": "三餐动词用 have。"
+  }
+}

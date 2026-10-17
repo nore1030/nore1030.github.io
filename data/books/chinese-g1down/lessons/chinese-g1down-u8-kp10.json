@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1down-u8-kp10",
+  "title": "偏旁基础",
+  "bookId": "chinese-g1down",
+  "unitNumber": 8,
+  "unitTitle": "科学",
+  "kpIndex": 9,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "偏旁基础",
+      "question": "“打、拍、提”这些字都有共同的偏旁，叫（___）。",
+      "options": [],
+      "answer": "提手旁",
+      "explanation": "这些字都带有扌，表示手部动作。"
+    }
+  ],
+  "knowledge": null
+}

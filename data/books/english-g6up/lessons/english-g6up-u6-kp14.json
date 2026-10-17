@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u6-kp14",
+  "title": "反义词/对应词",
+  "bookId": "english-g6up",
+  "unitNumber": 6,
+  "unitTitle": "How do you feel?",
+  "kpIndex": 10,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反义词/对应词",
+      "question": "The opposite word of 'sad' is ______.",
+      "options": [
+        "happy",
+        "angry",
+        "worried",
+        "afraid"
+      ],
+      "answer": "happy",
+      "explanation": "sad（伤心）的反义词是happy（开心）。"
+    }
+  ],
+  "knowledge": null
+}

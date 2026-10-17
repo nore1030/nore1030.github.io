@@ -1,0 +1,81 @@
+{
+  "id": "g3down-u3-kp2",
+  "title": "填补与合成复式统计表",
+  "bookId": "g3down",
+  "unitNumber": 3,
+  "unitTitle": "复式统计表",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "合并统计表时，只要把数据抄写下来就行，不需要核对总数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "合并数据后，必须通过计算总数来核对填写的准确性。✓"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "有两张单式表，各记录了男、女生的兴趣。合并后复式表的格数应（  ）两表格数之和。",
+      "options": [
+        "大于",
+        "等于",
+        "小于",
+        "不确定"
+      ],
+      "answer": "小于",
+      "explanation": "复式统计表会共用某些表头和项目名称，通常格数会减少。✓"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "第一组5人，第二组6人，第三组5人，这三个小组一共有 ___ 人。",
+      "options": [],
+      "answer": "16",
+      "explanation": "列式：$5 + 6 + 5 = 16$。验算：$16 - 5 - 6 = 5$。答：16。✓"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "计算复式表横向合计数：$12 + 8 + 10 = ?$",
+      "options": [],
+      "answer": "30",
+      "explanation": "$12 + 8 + 10 = 20 + 10 = 30$。验算：$30 - 10 - 8 = 12$。答：30。✓"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "填补与合成复式统计表",
+      "question": "计算复式表纵向合计数：$24 + 36 = ?$",
+      "options": [],
+      "answer": "60",
+      "explanation": "$24 + 36 = 60$。验算：$60 - 36 = 24$。答：60。✓"
+    }
+  ],
+  "knowledge": {
+    "point": "填补与合成复式统计表",
+    "core_concept": "合并表格时，需要将单式统计表中对应位置的数据准确填写到复式统计表的交叉格中。关键在于确保数据的一致性，并通过计算行合计、列合计来验证填写的正确性。",
+    "key_formula": "部分数 + 部分数 = 总数",
+    "common_mistakes": [
+      "将数据填错行或列",
+      "在计算合计项时出现口算偏差"
+    ],
+    "tips": "填完后一定要横着加一遍、竖着加一遍，看看最后的总计是否吻合。"
+  }
+}

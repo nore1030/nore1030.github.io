@@ -1,0 +1,31 @@
+{
+  "id": "g7down-u2-kp3",
+  "title": "实数的运算与估算",
+  "bookId": "g7down",
+  "unitNumber": 2,
+  "unitTitle": "实数",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 6,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 3,
+      "knowledge_point": "实数的运算与估算",
+      "question": "计算：$\\sqrt{25}+\\sqrt[3]{8}=$ ？",
+      "options": [],
+      "answer": "7",
+      "explanation": "$5+2=7$。"
+    }
+  ],
+  "knowledge": {
+    "point": "实数的运算与估算",
+    "core_concept": "实数的相反数、绝对值、运算律与有理数一致；可用夹逼法估算无理数的大小。",
+    "key_formula": "$|a|$ 定义同有理数",
+    "common_mistakes": [
+      "估算时夹逼区间取错。"
+    ],
+    "tips": "用相邻完全平方数夹逼。"
+  }
+}

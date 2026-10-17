@@ -1,0 +1,66 @@
+{
+  "id": "science-g2down-u2-kp5",
+  "title": "观察身体的生长变化",
+  "bookId": "science-g2down",
+  "unitNumber": 2,
+  "unitTitle": "我们自己",
+  "kpIndex": 4,
+  "kpTotal": 6,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的生长变化",
+      "question": "测量身高时，我们应该穿着厚底鞋来增加高度。",
+      "options": [],
+      "answer": "错",
+      "explanation": "测量身高应脱去鞋帽，确保数据的真实性。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察身体的生长变化",
+      "question": "下列哪项现象能证明我们正在生长？（___）",
+      "options": [
+        "衣服变短了",
+        "指甲变长了",
+        "体重增加了",
+        "以上都是"
+      ],
+      "answer": "以上都是",
+      "explanation": "身高、体重的增加以及身体局部（如指甲、头发）的变化都是生长表现。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察身体的生长变化",
+      "question": "测量我们的体形变化，不属于测量范围的是（___）。",
+      "options": [
+        "身高",
+        "体重",
+        "腿长",
+        "衣服颜色"
+      ],
+      "answer": "衣服颜色",
+      "explanation": "衣服颜色是个人的外在装饰，不属于身体生长变化的生物特征。"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察身体的生长变化",
+      "question": "通过对比小时候的照片和现在的自己，我们发现身体在（___）。",
+      "options": [],
+      "answer": "生长",
+      "explanation": "体型变大、身高增长统称为生长。"
+    }
+  ],
+  "knowledge": null
+}

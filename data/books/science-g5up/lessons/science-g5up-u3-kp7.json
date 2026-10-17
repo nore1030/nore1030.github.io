@@ -1,0 +1,28 @@
+{
+  "id": "science-g5up-u3-kp7",
+  "title": "日常经验中的时间",
+  "bookId": "science-g5up",
+  "unitNumber": 3,
+  "unitTitle": "计量时间",
+  "kpIndex": 5,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "日常经验中的时间",
+      "question": "在没有精密仪器的情况下，下列哪种现象不适合作为计时参考？",
+      "options": [
+        "脉搏的跳动",
+        "呼吸的次数",
+        "云朵飘动的快慢",
+        "水滴等速滴下的次数"
+      ],
+      "answer": "云朵飘动的快慢",
+      "explanation": "计时需要具有周期性规律的现象，云朵移动受风力影响，不具备规律性。"
+    }
+  ],
+  "knowledge": null
+}

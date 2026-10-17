@@ -1,0 +1,104 @@
+{
+  "id": "science-g1up-u1-kp2",
+  "title": "观察一棵植物的结构",
+  "bookId": "science-g1up",
+  "unitNumber": 1,
+  "unitTitle": "植物",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "植物的根通常都生长在地面以上。",
+      "options": [],
+      "answer": "错",
+      "explanation": "大多数植物的根生长在土壤里，向上吸收水分和养分。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "我们通常用（）来观察植物的颜色。",
+      "options": [
+        "耳朵",
+        "鼻子",
+        "眼睛",
+        "手"
+      ],
+      "answer": "眼睛",
+      "explanation": "眼睛是视觉器官，负责感知颜色和形状。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "植物的（）通常长在土里。",
+      "options": [
+        "叶",
+        "花",
+        "果实",
+        "根"
+      ],
+      "answer": "根",
+      "explanation": "根负责固定身体和吸收水分，一般在地下。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "向日葵的茎是（）。",
+      "options": [
+        "软绵绵的",
+        "五颜六色的",
+        "笔直支撑身体的",
+        "半透明的"
+      ],
+      "answer": "笔直支撑身体的",
+      "explanation": "茎的主要作用是支撑和运输水养。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "人有2只眼睛，一棵普通的牵牛花通常有（）条主茎。",
+      "options": [],
+      "answer": "1",
+      "explanation": "普通牵牛花通常从根部萌发一条主茎向上攀援。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "植物进行光合作用获取养分的主要器官是（）。",
+      "options": [],
+      "answer": "叶",
+      "explanation": "叶片含有叶绿素，是植物制造养分的主要场所。"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "观察一棵植物的结构",
+      "question": "支撑植物身体并将水分运送到叶子上的部分是（）。",
+      "options": [],
+      "answer": "茎",
+      "explanation": "茎承担着支撑和输导的功能。"
+    }
+  ],
+  "knowledge": null
+}

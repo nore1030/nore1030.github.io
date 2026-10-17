@@ -1,0 +1,28 @@
+{
+  "id": "science-g1up-u2-kp11",
+  "title": "植物的特征",
+  "bookId": "science-g1up",
+  "unitNumber": 2,
+  "unitTitle": "校园里的植物",
+  "kpIndex": 7,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "植物的特征",
+      "question": "大多数植物的叶子是什么颜色的？",
+      "options": [
+        "红色",
+        "蓝色",
+        "绿色",
+        "紫色"
+      ],
+      "answer": "绿色",
+      "explanation": "大多数植物的叶片含有叶绿素，呈现绿色。"
+    }
+  ],
+  "knowledge": null
+}

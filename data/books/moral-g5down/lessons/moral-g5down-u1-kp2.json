@@ -1,0 +1,47 @@
+{
+  "id": "moral-g5down-u1-kp2",
+  "title": "友谊与矛盾处理",
+  "bookId": "moral-g5down",
+  "unitNumber": 1,
+  "unitTitle": "情感与交往",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "友谊与矛盾处理",
+      "question": "和同学闹矛盾，恰当的做法是（　）",
+      "options": [
+        "主动沟通换位思考",
+        "动手打架",
+        "从此绝交",
+        "背后说坏话"
+      ],
+      "answer": "主动沟通换位思考",
+      "explanation": "沟通是解决矛盾的第一步。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "友谊与矛盾处理",
+      "question": "真正的朋友之间应该坦诚相待。",
+      "options": [],
+      "answer": "对",
+      "explanation": "真诚是友谊的基础。"
+    }
+  ],
+  "knowledge": {
+    "point": "友谊与矛盾处理",
+    "core_concept": "真正的朋友会互相支持、坦诚相待。有矛盾要主动沟通、换位思考，必要时请老师家长帮助。",
+    "key_formula": "换位思考",
+    "common_mistakes": [
+      "打架解决矛盾。"
+    ],
+    "tips": "沟通优于冲突。"
+  }
+}

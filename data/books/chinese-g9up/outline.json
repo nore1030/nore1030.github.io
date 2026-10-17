@@ -1,0 +1,101 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现代文阅读与古诗词",
+      "knowledge_points": [
+        {
+          "name": "议论文阅读",
+          "description": "把握论点、论据与论证思路。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古诗词鉴赏",
+          "description": "鉴赏古诗词的表达手法与情感。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ],
+      "examLessonId": "chinese-g9up-u1-exam",
+      "examQuestionCount": 4
+    },
+    {
+      "unit_number": 2,
+      "title": "文言文与古诗",
+      "knowledge_points": [
+        {
+          "name": "文言文阅读",
+          "description": "掌握文言实词、虚词与句式。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古代诗词默写与赏析",
+          "description": "准确默写并理解诗意。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ],
+  "bookId": "chinese-g9up",
+  "grade": 9,
+  "semester": "up",
+  "subject": "chinese",
+  "lessons": [
+    {
+      "id": "chinese-g9up-u1-kp1",
+      "title": "议论文阅读",
+      "unitNumber": 1,
+      "unitTitle": "现代文阅读与古诗词",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g9up-u1-kp2",
+      "title": "古诗词鉴赏",
+      "unitNumber": 1,
+      "unitTitle": "现代文阅读与古诗词",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g9up-u2-kp1",
+      "title": "文言文阅读",
+      "unitNumber": 2,
+      "unitTitle": "文言文与古诗",
+      "kpIndex": 0,
+      "kpTotal": 2,
+      "questionCount": 2
+    },
+    {
+      "id": "chinese-g9up-u2-kp2",
+      "title": "古代诗词默写与赏析",
+      "unitNumber": 2,
+      "unitTitle": "文言文与古诗",
+      "kpIndex": 1,
+      "kpTotal": 2,
+      "questionCount": 2
+    }
+  ]
+}

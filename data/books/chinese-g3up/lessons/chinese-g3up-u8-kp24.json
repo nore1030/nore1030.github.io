@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u8-kp24",
+  "title": "词语搭配",
+  "bookId": "chinese-g3up",
+  "unitNumber": 8,
+  "unitTitle": "美好的品质",
+  "kpIndex": 20,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语搭配",
+      "question": "请为下列动词选择合适的搭配。",
+      "options": [
+        "抬起",
+        "挺起",
+        "低下",
+        "张开",
+        "翅膀",
+        "胸脯",
+        "头",
+        "眼皮"
+      ],
+      "answer": "A-4,B-2,C-3,D-1",
+      "explanation": "书本中常见的身体动作描写。"
+    }
+  ],
+  "knowledge": null
+}

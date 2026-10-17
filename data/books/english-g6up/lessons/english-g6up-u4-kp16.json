@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u4-kp16",
+  "title": "Auxiliary verb",
+  "bookId": "english-g6up",
+  "unitNumber": 4,
+  "unitTitle": "I have a pen pal",
+  "kpIndex": 12,
+  "kpTotal": 17,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "Auxiliary verb",
+      "question": "________ (助动词) he go to work by bus?",
+      "options": [],
+      "answer": "does",
+      "explanation": "主语是 he，一般疑问句句首用助动词 does。"
+    }
+  ],
+  "knowledge": null
+}

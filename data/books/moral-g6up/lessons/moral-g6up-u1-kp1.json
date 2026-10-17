@@ -1,0 +1,47 @@
+{
+  "id": "moral-g6up-u1-kp1",
+  "title": "阅读习惯与读书方法",
+  "bookId": "moral-g6up",
+  "unitNumber": 1,
+  "unitTitle": "阅读与成长",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "阅读习惯与读书方法",
+      "question": "做读书笔记有助于（　）",
+      "options": [
+        "加深理解、积累素材",
+        "加快写作业速度",
+        "让书变薄",
+        "替代阅读"
+      ],
+      "answer": "加深理解、积累素材",
+      "explanation": "读书笔记助理解。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "阅读习惯与读书方法",
+      "question": "读书要动笔，摘抄好词好句。",
+      "options": [],
+      "answer": "对",
+      "explanation": "摘抄助积累。"
+    }
+  ],
+  "knowledge": {
+    "point": "阅读习惯与读书方法",
+    "core_concept": "阅读要读懂内容、理清思路、品味语言、体验情感。方法有精读、略读、批注、摘抄与做读书笔记。",
+    "key_formula": "不动笔墨不读书",
+    "common_mistakes": [
+      "读书只翻页不走心。"
+    ],
+    "tips": "做读书笔记效果好。"
+  }
+}

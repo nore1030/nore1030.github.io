@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u3-kp16",
+  "title": "交际用语",
+  "bookId": "english-g6up",
+  "unitNumber": 3,
+  "unitTitle": "My weekend plan",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "交际用语",
+      "question": "Have a good time! — ______.",
+      "options": [
+        "Me too",
+        "Thank you",
+        "You're welcome",
+        "Goodbye"
+      ],
+      "answer": "Thank you",
+      "explanation": "当别人祝你玩得愉快时，应回答谢谢。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": "english-hujiao-g7up-u2-kp2",
+  "title": "一般现在时第三人称单数",
+  "bookId": "english-hujiao-g7up",
+  "unitNumber": 2,
+  "unitTitle": "Module 1 My life — Daily life 日常生活",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "一般现在时第三人称单数",
+      "question": "He ___ to school by bus every day.",
+      "options": [
+        "goes",
+        "go",
+        "going",
+        "went"
+      ],
+      "answer": "goes",
+      "explanation": "三单加 -es。"
+    }
+  ],
+  "knowledge": {
+    "point": "一般现在时第三人称单数",
+    "core_concept": "主语是 he/she/it 时动词加 -s/-es：go→goes、watch→watches、have→has。",
+    "key_formula": "He goes to school by bus.",
+    "common_mistakes": [
+      "三单忘记变化。"
+    ],
+    "tips": "看主语是不是他/她/它。"
+  }
+}

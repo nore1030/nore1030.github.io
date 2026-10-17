@@ -1,0 +1,47 @@
+{
+  "id": "g8down-u1-kp1",
+  "title": "二次根式的概念与性质",
+  "bookId": "g8down",
+  "unitNumber": 1,
+  "unitTitle": "二次根式",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "二次根式的概念与性质",
+      "question": "$\\sqrt{9}=$ ___",
+      "options": [],
+      "answer": "3",
+      "explanation": "算术平方根取非负。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "二次根式的概念与性质",
+      "question": "下列式子中一定有意义的是（　）",
+      "options": [
+        "$\\sqrt{-2}$",
+        "$\\sqrt{x}$",
+        "$\\sqrt{x^2+1}$",
+        "$\\sqrt{x-1}$"
+      ],
+      "answer": "$\\sqrt{x^2+1}$",
+      "explanation": "$x^2+1>0$ 恒成立。"
+    }
+  ],
+  "knowledge": {
+    "point": "二次根式的概念与性质",
+    "core_concept": "形如 $\\sqrt{a}(a\\ge0)$ 的式子叫二次根式；$\\sqrt{a}\\ge0$，$(\\sqrt{a})^2=a$，$\\sqrt{a^2}=|a|$。",
+    "key_formula": "$\\sqrt{a^2}=|a|$",
+    "common_mistakes": [
+      "忽略被开方数非负的条件。"
+    ],
+    "tips": "先看被开方数是否非负。"
+  }
+}

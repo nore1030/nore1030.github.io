@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u3-kp8",
+  "title": "疑问词辨析",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 4,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "疑问词辨析",
+      "question": "— ___ did you go? — I went to Sanya.",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "answer": "Where",
+      "explanation": "根据答句地点Sanya可知提问地点用Where。"
+    }
+  ],
+  "knowledge": null
+}

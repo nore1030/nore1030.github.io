@@ -1,0 +1,58 @@
+{
+  "id": "physics-g8up-u1-kp1",
+  "title": "声音的产生与传播",
+  "bookId": "physics-g8up",
+  "unitNumber": 1,
+  "unitTitle": "声现象",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "声音的产生与传播",
+      "question": "关于声音的产生，正确的是（　）",
+      "options": [
+        "声音由振动产生",
+        "声音由温度产生",
+        "声音由空气流动产生",
+        "声音不需要介质"
+      ],
+      "answer": "声音由振动产生",
+      "explanation": "一切发声体都在振动。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "声音的产生与传播",
+      "question": "声音不能在真空中传播。",
+      "options": [],
+      "answer": "对",
+      "explanation": "真空不能传声。"
+    },
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "声音的产生与传播",
+      "question": "声音在空气中传播 1.7 s，传播距离是多少米？（声速取 340 m/s）",
+      "options": [],
+      "answer": "578",
+      "explanation": "$s=vt=340\\times1.7=578$ m。"
+    }
+  ],
+  "knowledge": {
+    "point": "声音的产生与传播",
+    "core_concept": "声音由物体振动产生，靠介质（固、液、气）传播，真空不能传声。声音在 15℃ 空气中的传播速度约 340 m/s。",
+    "key_formula": "$v=\\frac st$（声速约 340 m/s）",
+    "common_mistakes": [
+      "认为真空也能传声。"
+    ],
+    "tips": "一切发声体都在振动。"
+  }
+}

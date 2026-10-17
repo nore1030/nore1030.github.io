@@ -1,0 +1,151 @@
+{
+  "id": "g6down-u6-kp1",
+  "title": "数与代数的系统回顾",
+  "bookId": "g6down",
+  "unitNumber": 6,
+  "unitTitle": "整理和复习",
+  "kpIndex": 0,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "所有的自然数不是质数就是合数。",
+      "options": [],
+      "answer": "错",
+      "explanation": "数字 1 既不是质数也不是合数。0 也是自然数。因此说法错误。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "在比例里，两个外项的积减去两个内项的积，差是 0。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据比例的基本性质：$ad = bc$，所以 $ad - bc = 0$。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "把 $0.85$ 扩大到原来的 100 倍是：",
+      "options": [
+        "8.5",
+        "85",
+        "850",
+        "0.0085"
+      ],
+      "answer": "85",
+      "explanation": "$0.85 \\times 100 = 85$。验算：$85 \\div 100 = 0.85$。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "如果 $x \\div y = 5$，那么 $x$ 和 $y$ 的关系是：",
+      "options": [
+        "成正比例",
+        "成反比例",
+        "不成比例",
+        "倍数关系"
+      ],
+      "answer": "成正比例",
+      "explanation": "$x = 5y$，比值比值 $x/y = 5$（一定），符合正比例定义。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "下面各组数中，最大的数是哪一个？",
+      "options": [
+        "0.66",
+        "2/3",
+        "66.7%",
+        "0.6"
+      ],
+      "answer": "66.7%",
+      "explanation": "$2/3 \\approx 0.666$，$66.7\\% = 0.667$。$0.667 > 0.666 > 0.66$。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "甲数是 10，乙数是 8。甲数比乙数多百分之几？",
+      "options": [
+        "20%",
+        "25%",
+        "80%",
+        "125%"
+      ],
+      "answer": "25%",
+      "explanation": "$(10 - 8) \\div 8 = 2 \\div 8 = 0.25 = 25\\%$。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "15 和 20 的最小公倍数是 ___。",
+      "options": [],
+      "answer": "60",
+      "explanation": "$15 = 3 \\times 5$，$20 = 2 \\times 2 \\times 5$。最小公倍数 $= 3 \\times 2 \\times 2 \\times 5 = 60$。验算：$60 \\div 15 = 4$，$60 \\div 20 = 3$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "一辆汽车 2 小时行驶了 120 千米。照这样计算，行驶 300 千米需要 ___ 小时。",
+      "options": [],
+      "answer": "5",
+      "explanation": "速度 $= 120 \\div 2 = 60$ 千米/时。时间 $= 300 \\div 60 = 5$ 小时。验算：$60 \\times 5 = 300$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "计算：$125 \\times 8 = ?$",
+      "options": [],
+      "answer": "1000",
+      "explanation": "$125 \\times 8 = 1000$。验算：$1000 \\div 8 = 125$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数与代数的系统回顾",
+      "question": "计算：$480 \\div (12 + 4) = ?$",
+      "options": [],
+      "answer": "30",
+      "explanation": "$480 \\div 16 = 30$。验算：$30 \\times 16 = 480$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "数与代数的系统回顾",
+    "core_concept": "梳理小学阶段学过的整数、小数、分数。理解数位顺序表，掌握因数、倍数、质数、合数。复习加、减、乘、除四则运算定律（交换律、结合律、分配律），并能灵活运用进行简便计算。",
+    "key_formula": "$a(b+c) = ab + ac$; $a-b-c = a-(b+c)$",
+    "common_mistakes": [
+      "混淆质数、合数与奇数、偶数的定义（如认为2是合数）",
+      "在运用乘法分配律时，括号外的因数漏乘括号内的第二个数"
+    ],
+    "tips": "通过画知识数或思维导图，将分散的计算定律串联起来，记住“1既不是质数也不是合数”这个特殊点。"
+  }
+}

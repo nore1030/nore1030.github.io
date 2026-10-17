@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8up-u1-kp1",
+  "title": "个人的成长与社会",
+  "bookId": "moral-g8up",
+  "unitNumber": 1,
+  "unitTitle": "走进社会与规则",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "个人的成长与社会",
+      "question": "人的成长过程本质上是一个（　）",
+      "options": [
+        "不断社会化的过程",
+        "学习知识的过程",
+        "身体发育的过程",
+        "赚钱的过程"
+      ],
+      "answer": "不断社会化的过程",
+      "explanation": "社会化贯穿一生。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "个人的成长与社会",
+      "question": "个人成长离不开社会提供的条件。",
+      "options": [],
+      "answer": "对",
+      "explanation": "社会提供成长条件。"
+    }
+  ],
+  "knowledge": {
+    "point": "个人的成长与社会",
+    "core_concept": "人的成长是不断社会化的过程。社会提供成长条件，个人也要主动融入社会、承担责任。",
+    "key_formula": "社会化 = 个人成长必经过程",
+    "common_mistakes": [
+      "认为成长只靠个人努力。"
+    ],
+    "tips": "个人与社会相互塑造。"
+  }
+}

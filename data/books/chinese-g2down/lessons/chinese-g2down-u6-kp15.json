@@ -1,0 +1,30 @@
+{
+  "id": "chinese-g2down-u6-kp15",
+  "title": "比喻句式",
+  "bookId": "chinese-g2down",
+  "unitNumber": 6,
+  "unitTitle": "大自然的秘密",
+  "kpIndex": 14,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "比喻句式",
+      "question": "请将下列词语排列成一个漂亮的比喻句：",
+      "options": [
+        "闪闪的",
+        "星星",
+        "蓝蓝的",
+        "宝石",
+        "像",
+        "天空中的"
+      ],
+      "answer": "天空中的,星星,像,闪闪的,蓝蓝的,宝石",
+      "explanation": "本体是星星，喻体是宝石。"
+    }
+  ],
+  "knowledge": null
+}

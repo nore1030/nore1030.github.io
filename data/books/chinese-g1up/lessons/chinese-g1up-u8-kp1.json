@@ -1,0 +1,75 @@
+{
+  "id": "chinese-g1up-u8-kp1",
+  "title": "汉字结构分类与辨析",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 0,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "“林”和“明”这两个字都是左右结构。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“林”由两个木组成，“明”由日和月组成，均为左右并列关系。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "“爸”和“空”这两个字都是上下结构的字。",
+      "options": [],
+      "answer": "对",
+      "explanation": "“爸”是父字头，“空”是穴宝盖，均为上下层级关系。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "下列汉字中，属于“左窄右宽”的一组是：",
+      "options": [
+        "妈、地",
+        "回、国",
+        "全、公",
+        "和、如"
+      ],
+      "answer": "妈、地",
+      "explanation": "“妈、地”在书写时左边部分比例较小，右边占位较宽。B为全包围，C为上下结构。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "汉字结构分类与辨析",
+      "question": "“国”字的结构是：",
+      "options": [
+        "半包围结构",
+        "全包围结构",
+        "上下结构",
+        "左右结构"
+      ],
+      "answer": "全包围结构",
+      "explanation": "“国”字中大“口”将里面的内容完全围住，是全包围结构。"
+    }
+  ],
+  "knowledge": {
+    "point": "汉字结构分类与辨析",
+    "core_concept": "汉字由部件组成，按照部件位置不同可分为左右结构（如：林、好）、上下结构（如：全、爸）、半包围结构（如：还、同）、全包围结构（如：回、国）以及独体字（如：人口）。一年级学生需初步建立空间感，学会观察字在田字格中的占位。",
+    "key_formula": "看笔画分布，定间架结构。",
+    "common_mistakes": [
+      "将“尖、尘”误认为左右结构",
+      "全包围结构的字（如“国”）封口时间掌握不对"
+    ],
+    "tips": "书写时，掌握“左窄右宽”或“上小下大”的比例原则，有助于把字写美观。"
+  }
+}

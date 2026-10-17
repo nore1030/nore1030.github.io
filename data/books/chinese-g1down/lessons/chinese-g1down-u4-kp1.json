@@ -1,0 +1,59 @@
+{
+  "id": "chinese-g1down-u4-kp1",
+  "title": "长句子停顿朗读",
+  "bookId": "chinese-g1down",
+  "unitNumber": 4,
+  "unitTitle": "家人",
+  "kpIndex": 0,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "长句子停顿朗读",
+      "question": "朗读长句子时，只要中间不换气，就不需要停顿。",
+      "options": [],
+      "answer": "错",
+      "explanation": "长句子需要根据意思进行自然停顿，这样才能准确表达句意。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "长句子停顿朗读",
+      "question": "“粽子是用青青的箬竹叶包的”这句话中，“青青的”后面可以稍微停顿。",
+      "options": [],
+      "answer": "对",
+      "explanation": "为了突出箬竹叶的特点，在修饰词后适当停顿是合理的词组停顿方式。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "长句子停顿朗读",
+      "question": "下列长句子朗读停顿最合适的一项是：",
+      "options": [
+        "外婆/给/我们/煮了/好多种/味道的/粽子。",
+        "外婆给/我们煮了/好多种味道的/粽子。",
+        "外婆/给我们/煮了/好多种味道的/粽子。",
+        "外婆/给我们煮了/好多种/味道/的/粽子。"
+      ],
+      "answer": "外婆/给我们/煮了/好多种味道的/粽子。",
+      "explanation": "根据主语、状语、谓语、宾语的结构，这样停顿最为自然。"
+    }
+  ],
+  "knowledge": {
+    "point": "长句子停顿朗读",
+    "core_concept": "在读较长的句子时，要根据句子的意思、结构进行自然的间歇。一是要避开在词语中间断开，二是根据主语、谓语等成分适度停顿。这不仅是为了换气，更是为了让听者清意思，读出节律美。",
+    "key_formula": "长句停顿看意思，词语之间不拆开，主谓之间可稍歇。",
+    "common_mistakes": [
+      "在一句话的最后一个字读完前就换气",
+      "遇到修饰语（如“青青的”）时随处乱停，导致词语断裂"
+    ],
+    "tips": "可以先在句子里找找“谁”、“做了什么”，在这些大模块之间画斜线练读。"
+  }
+}

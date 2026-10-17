@@ -1,0 +1,217 @@
+{
+  "id": "g1up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "g1up",
+  "unitNumber": 7,
+  "unitTitle": "认识钟表",
+  "kpIndex": 3,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "分针跑得快，时针跑得慢。",
+      "options": [],
+      "answer": "对",
+      "explanation": "同时间内分针转一圈，时针只走一格，所以分针快。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读与记录",
+      "question": "6时整，时针和分针在同一个位置。",
+      "options": [],
+      "answer": "错",
+      "explanation": "6时整分针指12，时针指6，不在同位置。12时整才是同位置。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "整时的认读与记录",
+      "question": "时针走一圈是10小时。",
+      "options": [],
+      "answer": "错",
+      "explanation": "钟面有12个数，时针走一圈是12小时。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "我们通常在晚上9时左右睡觉。",
+      "options": [],
+      "answer": "对",
+      "explanation": "符合小学生科学作息规律。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读与记录",
+      "question": "下午 4:00 也就是：",
+      "options": [
+        "4时",
+        "40时",
+        "10时",
+        "4分钟"
+      ],
+      "answer": "4时",
+      "explanation": "电子表表示法与汉字表示法的对应。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "整时的认读与记录",
+      "question": "现在是12时，分针对着哪个数字？",
+      "options": [
+        "1",
+        "6",
+        "12",
+        "11"
+      ],
+      "answer": "12",
+      "explanation": "整时分针永远对准12。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整时的认读与记录",
+      "question": "现在时针指向11，分针指向12，再过一小时是：",
+      "options": [
+        "10时",
+        "12时",
+        "11时",
+        "1时"
+      ],
+      "answer": "12时",
+      "explanation": "现在是11时，$11 + 1 = 12$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "分针是什么样子的？",
+      "options": [
+        "又短又粗",
+        "又长又细",
+        "没有针",
+        "弯弯的"
+      ],
+      "answer": "又长又细",
+      "explanation": "分针的形态特征是长和细。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整时的認读与记录",
+      "question": "时针指向3，分针指向12，正确的读法是：",
+      "options": [
+        "12时",
+        "3时",
+        "15时",
+        "12时3分"
+      ],
+      "answer": "3时",
+      "explanation": "时针指3即为3时。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "妈妈今天 7时 出出门，9时 回家，妈妈出门了多久？",
+      "options": [
+        "1小时",
+        "2小时",
+        "3小时",
+        "16小时"
+      ],
+      "answer": "2小时",
+      "explanation": "用回家时间减去出门时间：$9 - 7 = 2$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "整时的认读与记录",
+      "question": "钟面上，时针走过数字10，分针指向12，这时是：",
+      "options": [
+        "10时",
+        "11时",
+        "12时",
+        "9时"
+      ],
+      "answer": "10时",
+      "explanation": "指向12代表整时，刚好指向哪个数就是几时。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "作息时间的先后逻辑",
+      "question": "以下哪个时间我们已经在深度睡眠？",
+      "options": [
+        "2:00",
+        "12:00",
+        "18:00",
+        "20:00"
+      ],
+      "answer": "2:00",
+      "explanation": "凌晨2时是深度睡眠时间。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "钟面结构的认识",
+      "question": "时针从 1 走到 3，一共走了 ___ 小时。",
+      "options": [],
+      "answer": "2",
+      "explanation": "时针每走一个大格是1小时。列式：$3 - 1 = 2$。验算：1到2是1小时，2到3是1小时，共2小时。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读与记录",
+      "question": "现在是 10 时，再加 ___ 小时就是 12 时。",
+      "options": [],
+      "answer": "2",
+      "explanation": "求两个时间点的间隔。列式：$12 - 10 = 2$。验算：$10 + 2 = 12$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "整时的认读与记录",
+      "question": "12 - 5 = ?",
+      "options": [],
+      "answer": "7",
+      "explanation": "$12 - 5 = 7$。验算：$7 + 5 = 12$ ✓。"
+    }
+  ],
+  "knowledge": null
+}

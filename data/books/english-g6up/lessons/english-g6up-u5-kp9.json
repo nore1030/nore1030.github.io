@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u5-kp9",
+  "title": "代词与谓语一致性",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 5,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "代词与谓语一致性",
+      "question": "What ______ your father do?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ],
+      "answer": "does",
+      "explanation": "your father是第三人称单数，疑问句借用助动词does。"
+    }
+  ],
+  "knowledge": null
+}

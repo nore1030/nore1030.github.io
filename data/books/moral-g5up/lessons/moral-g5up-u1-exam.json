@@ -1,0 +1,66 @@
+{
+  "id": "moral-g5up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g5up",
+  "unitNumber": 1,
+  "unitTitle": "成长与自我管理",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "认识自我与自我完善",
+      "question": "别人指出你的缺点时，最好（　）",
+      "options": [
+        "认真反思并改正",
+        "立刻发火",
+        "否认到底",
+        "从此不理他"
+      ],
+      "answer": "认真反思并改正",
+      "explanation": "虚心接受意见。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "学会管理时间与情绪",
+      "question": "拖延只会让事情变得更紧张。",
+      "options": [],
+      "answer": "对",
+      "explanation": "拖延加重负担。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "学会管理时间与情绪",
+      "question": "考试前情绪紧张，较好的做法是（　）",
+      "options": [
+        "深呼吸放松并按计划复习",
+        "放弃复习",
+        "熬夜突击",
+        "抱怨题目太难"
+      ],
+      "answer": "深呼吸放松并按计划复习",
+      "explanation": "调节情绪再复习。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "认识自我与自我完善",
+      "question": "发展地看待自己意味着要用变化的眼光看自己。",
+      "options": [],
+      "answer": "对",
+      "explanation": "发展眼光看自己。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3up-u5-kp19",
+  "title": "描写维度",
+  "bookId": "chinese-g3up",
+  "unitNumber": 5,
+  "unitTitle": "留心观察",
+  "kpIndex": 18,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "描写维度",
+      "question": "请将描写与对应的感官维度相连。",
+      "options": [
+        "红色的长嘴",
+        "沙啦沙啦的响声",
+        "苦涩的味道",
+        "粗糙的树皮",
+        "听觉",
+        "味觉",
+        "触觉",
+        "视觉"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "颜色是视觉，声响是听觉，味道是味觉，质感是触觉。"
+    }
+  ],
+  "knowledge": null
+}

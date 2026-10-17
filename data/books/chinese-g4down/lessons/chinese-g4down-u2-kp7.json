@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u2-kp7",
+  "title": "近义词辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 2,
+  "unitTitle": "自然奥秘与科技奇观",
+  "kpIndex": 6,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词辨析",
+      "question": "与“欣喜若狂”意思最接近的词语是：",
+      "options": [
+        "面如土色",
+        "喜出望外",
+        "垂头丧气",
+        "无忧无虑"
+      ],
+      "answer": "喜出望外",
+      "explanation": "两个词都形容极度高兴、出乎意料的喜悦。"
+    }
+  ],
+  "knowledge": null
+}

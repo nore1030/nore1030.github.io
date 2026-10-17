@@ -1,0 +1,47 @@
+{
+  "id": "g11up-u1-kp1",
+  "title": "直线的方程与位置关系",
+  "bookId": "g11up",
+  "unitNumber": 1,
+  "unitTitle": "直线和圆的方程",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "直线的方程与位置关系",
+      "question": "过点 $(0,1)$ 且斜率为 2 的直线方程为 $y=2x+b$，则 $b=$ ？",
+      "options": [],
+      "answer": "1",
+      "explanation": "代入点得 $1=b$。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "直线的方程与位置关系",
+      "question": "直线 $y=2x+1$ 与 $y=2x-3$ 的位置关系是（　）",
+      "options": [
+        "平行",
+        "垂直",
+        "相交不垂直",
+        "重合"
+      ],
+      "answer": "平行",
+      "explanation": "斜率相等且截距不同。"
+    }
+  ],
+  "knowledge": {
+    "point": "直线的方程与位置关系",
+    "core_concept": "斜率 $k=\\frac{y_2-y_1}{x_2-x_1}$。点斜式 $y-y_0=k(x-x_0)$。两直线平行则斜率相等（或都不存在）；垂直则斜率之积为 $-1$。",
+    "key_formula": "$k_1k_2=-1\\Leftrightarrow$ 垂直",
+    "common_mistakes": [
+      "忽略斜率不存在的情形。"
+    ],
+    "tips": "讨论斜率是否存在。"
+  }
+}

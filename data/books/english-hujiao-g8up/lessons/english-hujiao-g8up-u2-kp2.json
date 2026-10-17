@@ -1,0 +1,47 @@
+{
+  "id": "english-hujiao-g8up-u2-kp2",
+  "title": "家务与兴趣",
+  "bookId": "english-hujiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "Module 2 日常生活 / Daily life",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "家务与兴趣",
+      "question": "She enjoys ___ music.",
+      "options": [
+        "listen",
+        "listens",
+        "listening",
+        "to listening"
+      ],
+      "answer": "listening",
+      "explanation": "enjoy 后接 doing。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "家务与兴趣",
+      "question": "“喜欢做某事”可用 enjoy doing sth。",
+      "options": [],
+      "answer": "对",
+      "explanation": "enjoy doing。"
+    }
+  ],
+  "knowledge": {
+    "point": "家务与兴趣",
+    "core_concept": "用 like/love/enjoy + doing 表示兴趣；用 help with / do housework 谈论家务。",
+    "key_formula": "enjoy doing sth",
+    "common_mistakes": [
+      "enjoy 后面接动词原形。"
+    ],
+    "tips": "enjoy 后接 doing。"
+  }
+}

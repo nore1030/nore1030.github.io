@@ -1,0 +1,80 @@
+{
+  "id": "chinese-g1down-u5-kp3",
+  "title": "打电话礼仪规范",
+  "bookId": "chinese-g1down",
+  "unitNumber": 5,
+  "unitTitle": "识字（二）",
+  "kpIndex": 2,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "给别人打电话，第一句话应该先大声喊：“喂，快叫我朋友接电话！”",
+      "options": [],
+      "answer": "错",
+      "explanation": "打电话应使用礼貌用语“请问”“你好”。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "接电话的人不是你要找的人，你该怎么说？",
+      "options": [
+        "喂，叫他听电话！",
+        "他怎么不在呀？",
+        "您好，请问他在家吗？",
+        "挂掉重打。"
+      ],
+      "answer": "您好，请问他在家吗？",
+      "explanation": "应用敬语“您好”“请问”。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "如果你给老师打电话，老师没接，你应该：",
+      "options": [
+        "一直打到他接为止",
+        "发个短信说明病情并问好",
+        "不再联系老师了",
+        "在电话里大喊大叫"
+      ],
+      "answer": "发个短信说明病情并问好",
+      "explanation": "这体现了礼仪中的留言确认。"
+    },
+    {
+      "id": 23,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "打电话礼仪规范",
+      "question": "连词成句：",
+      "options": [
+        "你好",
+        "我是",
+        "小明",
+        "请问"
+      ],
+      "answer": "你好,请问,我是,小明",
+      "explanation": "考查打电话自报家门的语言逻辑。"
+    }
+  ],
+  "knowledge": {
+    "point": "打电话礼仪规范",
+    "core_concept": "在口语交际中，学习打电话的文明礼貌方案。包括：接通后先问好、清晰报上自己的姓名、有礼貌地提出请求（如请找谁接电话）、转接时表示感谢、结束时说再见。",
+    "key_formula": "问好 + 我是谁 + 找谁 + 谢谢 + 再见",
+    "common_mistakes": [
+      "忘记自报家门，让对方猜是谁",
+      "不使用‘请、您、你好’等礼貌语言"
+    ],
+    "tips": "可以和爸爸妈妈在家进行角色扮演，模拟给老师或同学打电话的场景。"
+  }
+}

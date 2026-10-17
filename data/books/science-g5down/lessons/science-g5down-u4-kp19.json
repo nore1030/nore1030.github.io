@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u4-kp19",
+  "title": "热传递方式",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 13,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 22,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "热传递方式",
+      "question": "热在液体和气体中主要通过（）的方式进行传递。",
+      "options": [],
+      "answer": "对流",
+      "explanation": "通过流体（液态、气态）的宏观运动来平衡温度的传递方式是热对流。"
+    }
+  ],
+  "knowledge": null
+}

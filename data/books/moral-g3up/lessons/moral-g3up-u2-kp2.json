@@ -1,0 +1,47 @@
+{
+  "id": "moral-g3up-u2-kp2",
+  "title": "交通安全与自我保护",
+  "bookId": "moral-g3up",
+  "unitNumber": 2,
+  "unitTitle": "我和学校与社会",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "交通安全与自我保护",
+      "question": "过马路时，红灯亮起应该（　）",
+      "options": [
+        "赶紧跑过去",
+        "停下来等绿灯",
+        "慢慢走过去",
+        "绕过红灯"
+      ],
+      "answer": "停下来等绿灯",
+      "explanation": "红灯停。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "交通安全与自我保护",
+      "question": "未满 12 周岁不能在道路上骑自行车。",
+      "options": [],
+      "answer": "对",
+      "explanation": "交通法规规定。"
+    }
+  ],
+  "knowledge": {
+    "point": "交通安全与自我保护",
+    "core_concept": "过马路走人行横道、不闯红灯；未满 12 周岁不能在道路上骑自行车。遇到危险保持冷静、及时求助。",
+    "key_formula": "红灯停、绿灯行",
+    "common_mistakes": [
+      "在马路上追逐玩耍。"
+    ],
+    "tips": "安全出行记心间。"
+  }
+}

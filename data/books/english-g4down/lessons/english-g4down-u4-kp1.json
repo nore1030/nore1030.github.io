@@ -1,0 +1,45 @@
+{
+  "id": "english-g4down-u4-kp1",
+  "title": "农场蔬菜与动物词汇(复数)",
+  "bookId": "english-g4down",
+  "unitNumber": 4,
+  "unitTitle": "At the farm",
+  "kpIndex": 0,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "农场蔬菜与动物词汇(复数)",
+      "question": "'carrots' 的中文意思是'胡萝卜'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "carrot是胡萝卜，复数形式直接加s。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "农场蔬菜与动物词汇(复数)",
+      "question": "'tomato' 的复数形式是 'tomatos'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "tomato以o结尾，变复数需加es，应为tomatoes。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "农场蔬菜与动物词汇(复数)",
+      "question": "'sheep' 的复数形式和单数形式是一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "sheep是单复数同形词。"
+    }
+  ],
+  "knowledge": null
+}

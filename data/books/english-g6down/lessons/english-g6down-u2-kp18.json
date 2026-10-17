@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u2-kp18",
+  "title": "短语应用",
+  "bookId": "english-g6down",
+  "unitNumber": 2,
+  "unitTitle": "Unit 2 Last weekend",
+  "kpIndex": 14,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "短语应用",
+      "question": "I stayed ________ at home.",
+      "options": [
+        "in",
+        "for",
+        "on",
+        "all day"
+      ],
+      "answer": "all day",
+      "explanation": "stay at home all day是整天待在家。"
+    }
+  ],
+  "knowledge": null
+}

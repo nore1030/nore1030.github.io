@@ -1,0 +1,28 @@
+{
+  "id": "science-g5down-u4-kp15",
+  "title": "导热性能",
+  "bookId": "science-g5down",
+  "unitNumber": 4,
+  "unitTitle": "热",
+  "kpIndex": 9,
+  "kpTotal": 15,
+  "questions": [
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "导热性能",
+      "question": "下列材料中，导热性能最好的是（）。",
+      "options": [
+        "铝片",
+        "木板",
+        "玻璃纸",
+        "塑料板"
+      ],
+      "answer": "铝片",
+      "explanation": "金属通常是热的良导体，其导热性能优于非金属。"
+    }
+  ],
+  "knowledge": null
+}

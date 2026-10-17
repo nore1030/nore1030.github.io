@@ -1,0 +1,47 @@
+{
+  "id": "moral-g8down-u1-kp2",
+  "title": "维护自身的尊严",
+  "bookId": "moral-g8down",
+  "unitNumber": 1,
+  "unitTitle": "坚持与尊严",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "维护自身的尊严",
+      "question": "维护尊严的正确方式是（　）",
+      "options": [
+        "自立自强、奋力拼搏",
+        "忍气吞声、逆来顺受",
+        "依赖他人施舍",
+        "报复对方"
+      ],
+      "answer": "自立自强、奋力拼搏",
+      "explanation": "尊严靠自强。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "维护自身的尊严",
+      "question": "忍让不等于没有尊严。",
+      "options": [],
+      "answer": "对",
+      "explanation": "适度忍让。"
+    }
+  ],
+  "knowledge": {
+    "point": "维护自身的尊严",
+    "core_concept": "尊严是人的基本权利。维护尊严要靠自立自强，不是靠依赖他人，也不是无底线的逆来顺受。",
+    "key_formula": "自立自强维护尊严",
+    "common_mistakes": [
+      "认为忍气吞声能保住尊严。"
+    ],
+    "tips": "尊严靠自己争取。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u4-kp5",
+  "title": "古诗内容理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 4,
+  "unitTitle": "动物朋友",
+  "kpIndex": 4,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗内容理解",
+      "question": "阅读《蜂》，判断诗人通过“采得百花成蜜后，为谁辛苦为谁甜”表达了什么？",
+      "options": [
+        "赞美蜜蜂的勤劳和无私奉献",
+        "感叹蜜蜂工作环境的艰辛",
+        "希望蜜蜂能够多产蜂蜜",
+        "批评蜜蜂不劳而获的行为"
+      ],
+      "answer": "赞美蜜蜂的勤劳和无私奉献",
+      "explanation": "诗人借蜜蜂辛勤采蜜却不求回报的精神来赞美劳动者。"
+    }
+  ],
+  "knowledge": null
+}

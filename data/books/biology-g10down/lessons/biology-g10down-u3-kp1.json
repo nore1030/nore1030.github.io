@@ -1,0 +1,58 @@
+{
+  "id": "biology-g10down-u3-kp1",
+  "title": "DNA 的结构与复制",
+  "bookId": "biology-g10down",
+  "unitNumber": 3,
+  "unitTitle": "基因的本质与表达",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "DNA 的结构与复制",
+      "question": "DNA 复制的方式是（　）",
+      "options": [
+        "全保留复制",
+        "半保留复制",
+        "分散复制",
+        "随机复制"
+      ],
+      "answer": "半保留复制",
+      "explanation": "半保留复制。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 4,
+      "knowledge_point": "DNA 的结构与复制",
+      "question": "一个 DNA 分子复制 3 次后共有多少个 DNA 分子？",
+      "options": [],
+      "answer": "8",
+      "explanation": "$2^3=8$ 个。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "DNA 的结构与复制",
+      "question": "DNA 中 A 与 T 配对、G 与 C 配对。",
+      "options": [],
+      "answer": "对",
+      "explanation": "碱基互补配对原则。"
+    }
+  ],
+  "knowledge": {
+    "point": "DNA 的结构与复制",
+    "core_concept": "DNA 是规则的双螺旋结构，碱基遵循 A-T、G-C 互补配对。复制方式为半保留复制，需要模板、原料、能量和酶。",
+    "key_formula": "$n$ 次复制后 DNA 数为 $2^n$",
+    "common_mistakes": [
+      "认为复制是全保留。"
+    ],
+    "tips": "每个子代 DNA 含一条母链。"
+  }
+}

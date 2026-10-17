@@ -1,0 +1,161 @@
+{
+  "id": "g5down-u9-kp2",
+  "title": "图形与几何综合应用",
+  "bookId": "g5down",
+  "unitNumber": 9,
+  "unitTitle": "总复习",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个正方体的棱长扩大到原来的 2 倍，表面积就扩大到原来的 4 倍。",
+      "options": [],
+      "answer": "对",
+      "explanation": "表面积扩大的倍数是棱长扩大倍数的平方，$2 \\times 2 = 4$。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "容积的计算方法和体积的计算方法完全相同，只是从容器里面测量尺寸。",
+      "options": [],
+      "answer": "对",
+      "explanation": "计算规则一致，区别仅在于测量部位不同。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个长方体（非正方体）最多有几个面完全相同？",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4",
+      "explanation": "如果长方体有两个相对的面是正方形，则其他四个侧面完全相同。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "公顷和平方米之间的进率是：",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "10000",
+      "explanation": "$1 公顷 = 10000 平方米$。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "下面哪个体积单位最大？",
+      "options": [
+        "立方分米",
+        "立方厘米",
+        "立方米",
+        "升"
+      ],
+      "answer": "立方米",
+      "explanation": "$1 立方米 = 1000 立方分米 = 1000000 立方厘米$。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个长方体的长宽深分别是 3cm, 4cm, 5cm，它的表面积是：",
+      "options": [
+        "60",
+        "94",
+        "47",
+        "120"
+      ],
+      "answer": "94",
+      "explanation": "$(3 \\times 4 + 3 \\times 5 + 4 \\times 5) \\times 2 = (12 + 15 + 20) \\times 2 = 94$。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "将一个长方体木块锯成两个完全一样的正方体，表面积比原来：",
+      "options": [
+        "减少了",
+        "增加了",
+        "不变",
+        "无法判断"
+      ],
+      "answer": "增加了",
+      "explanation": "切开后会多出两个截面，所以面积增加。"
+    },
+    {
+      "id": 17,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "至少用几个相同的小正方体才能拼成一个稍大的正方体？",
+      "options": [
+        "4",
+        "8",
+        "9",
+        "27"
+      ],
+      "answer": "8",
+      "explanation": "$2 \\times 2 \\times 2 = 8$，边长至少为 2 个单位。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个正方体的棱长总和是 24 厘米，它的棱长是 ___ 厘米。",
+      "options": [],
+      "answer": "2",
+      "explanation": "正方体有 12 条棱。$24 \\div 12 = 2$。验算：$2 \\times 12 = 24$ ✓。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "图形与几何综合应用",
+      "question": "一个长方体底面积是 15 平方厘米，高是 4 厘米，体积是 ___ 立方厘米。",
+      "options": [],
+      "answer": "60",
+      "explanation": "体积 = 底面积 $\\times$ 高。$15 \\times 4 = 60$。验算：$60 \\div 4 = 15$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "图形与几何综合应用",
+    "core_concept": "主要复习长方体和正方体的特征、表面积和体积计算。理解体积单位间的进率（1000），以及物体在空间中的旋转、平移和三视图观察。重点在于解决实际生活中的粉刷墙壁或装水等体积应用逻辑。",
+    "key_formula": "$V = Sh$; $S_{表面} = 2(ab+bc+ac)$",
+    "common_mistakes": [
+      "计算容积或表面积时，漏算底面或侧面（如无盖鱼缸）。",
+      "单位不统一就直接进行乘法运算。"
+    ],
+    "tips": "画出草图辅助思考，尤其是在处理切割或拼接图形的表面积增减问题时。"
+  }
+}

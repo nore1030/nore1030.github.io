@@ -1,0 +1,64 @@
+{
+  "id": "g4down-u5-kp2",
+  "title": "三角形三边关系定理",
+  "bookId": "g4down",
+  "unitNumber": 5,
+  "unitTitle": "三角形",
+  "kpIndex": 1,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "三角形三边关系定理",
+      "question": "三条长度分别为3厘米、3厘米、6厘米的线段可以围成一个三角形。",
+      "options": [],
+      "answer": "错",
+      "explanation": "因为 $3 + 3 = 6$，不大于第三边6，所以不能围成三角形。验算：$3+3 > 6$ 不成立。 ✓"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形三边关系定理",
+      "question": "下面哪组线段能围成一个三角形？",
+      "options": [
+        "2cm, 2cm, 4cm",
+        "3cm, 4cm, 5cm",
+        "1cm, 2cm, 3cm",
+        "5cm, 5cm, 11cm"
+      ],
+      "answer": "3cm, 4cm, 5cm",
+      "explanation": "$3 + 4 = 7 > 5$，任意两边之和大于第三边，可以围成。 ✓"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "三角形三边关系定理",
+      "question": "已知一个等腰三角形的两条边分别是3cm和6cm，它的周长是多少厘米？",
+      "options": [
+        "12",
+        "15",
+        "9",
+        "21"
+      ],
+      "answer": "15",
+      "explanation": "若腰为3，则 $3+3=6$ 不能成三角形；故腰必为6。周长 $6+6+3=15$。 ✓"
+    }
+  ],
+  "knowledge": {
+    "point": "三角形三边关系定理",
+    "core_concept": "三角形任意两边的和大于第三边。利用这个定理可以判断三条线段能否组成三角形，也可以求第三边的范围（大于两边之差，小于两边之和）。",
+    "key_formula": "$a + b > c, a + c > b, b + c > a$",
+    "common_mistakes": [
+      "只检查一组边，不注意‘任意’两字。",
+      "遇到等腰三角形周长问题时，忽略三边关系判断是否成立。"
+    ],
+    "tips": "快捷方法：找出较短的两条边，只要它们的和大于最长的那条边即可围成。"
+  }
+}

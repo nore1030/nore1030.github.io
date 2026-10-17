@@ -1,0 +1,91 @@
+{
+  "id": "g4up-u1-kp4",
+  "title": "近似数与“四舍五入”法",
+  "bookId": "g4up",
+  "unitNumber": 1,
+  "unitTitle": "大数的认识",
+  "kpIndex": 3,
+  "kpTotal": 5,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "近似数与“四舍五入”法",
+      "question": "近似数一定比准确数大。",
+      "options": [],
+      "answer": "错",
+      "explanation": "近似数可能比准确数大（五入时），也可能比准确数小（四舍时）。例如：$43 \\approx 40$（变小），$47 \\approx 50$（变大）。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近似数与“四舍五入”法",
+      "question": "把 86420 省略万位后面的尾数，约是（  ）。",
+      "options": [
+        "8 万",
+        "9 万",
+        "86 万",
+        "86000"
+      ],
+      "answer": "9 万",
+      "explanation": "看千位上的数，千位是6，大于5，向前一位进1。$8+1=9$，所以约是 9 万。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近似数与“四舍五入”法",
+      "question": "3□5000 ≈ 40 万，□里可以填的数是（  ）。",
+      "options": [
+        "0",
+        "4",
+        "9",
+        "3"
+      ],
+      "answer": "9",
+      "explanation": "省略万位后是40万，说明万位3向前进了一位，则千位□应 $\\ge 5$。选项中只有9符合。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "近似数与“四舍五入”法",
+      "question": "一个数“四舍五入”到万位约是 10 万，这个数最小是（  ）。",
+      "options": [
+        "95000",
+        "99999",
+        "104999",
+        "100001"
+      ],
+      "answer": "95000",
+      "explanation": "要使原数最小，应由 9 万“五入”而来。千位最小是5，百、十、个位最小是0，即 95000。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近似数与“四舍五入”法",
+      "question": "49□300 ≈ 50 万，□里最小填 ___ 。",
+      "options": [],
+      "answer": "5",
+      "explanation": "进位说明千位□必须满足“五入”，即 $\\ge 5$。最小填5。"
+    }
+  ],
+  "knowledge": {
+    "point": "近似数与“四舍五入”法",
+    "core_concept": "近似数是与准确数接近的数，常用“\\approx”连接。根据要求看省略位的下一位，满5向前进1，不满5直接舍去。",
+    "key_formula": "五入向前位加1，四舍不进位",
+    "common_mistakes": [
+      "进位后忘记把后面的位数全部改写成0",
+      "看错了要省略的数位"
+    ],
+    "tips": "省略到哪一位，就在那一位下面点个点，看它后面紧邻的那一位决定四舍还是五入。"
+  }
+}

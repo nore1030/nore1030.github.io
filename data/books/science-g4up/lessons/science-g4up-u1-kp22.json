@@ -1,0 +1,23 @@
+{
+  "id": "science-g4up-u1-kp22",
+  "title": "耳结构数量",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 16,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "耳结构数量",
+      "question": "人的耳朵可以分为外耳、中耳和内耳（___）个部分。",
+      "options": [],
+      "answer": "3",
+      "explanation": "人耳结构三大部分：外耳（耳廓、耳道）、中耳（鼓膜、听小骨）、内耳（耳蜗、听神经）。"
+    }
+  ],
+  "knowledge": null
+}

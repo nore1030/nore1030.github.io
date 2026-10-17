@@ -1,0 +1,128 @@
+{
+  "id": "chinese-g6down-u4-kp3",
+  "title": "议论文的逻辑与论证",
+  "bookId": "chinese-g6down",
+  "unitNumber": 4,
+  "unitTitle": "人物品质",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "《为人民服务》是张思德同志在追悼会上发表的演讲。",
+      "options": [],
+      "answer": "错",
+      "explanation": "《为人民服务》是毛泽东主席在张思德同志追悼会上的演讲。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "“因为我们是为人民服务的，所以，我们……欢迎批评。”该句运用了哪种论证？",
+      "options": [
+        "引用论证",
+        "比喻论证",
+        "因果论证",
+        "对比论证"
+      ],
+      "answer": "因果论证",
+      "explanation": "句子使用了'因为……所以……'的关联词，属于典型的因果论证。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "下列词语中，不属于描写英雄人物品质的是：",
+      "options": [
+        "视死如归",
+        "不屈不挠",
+        "气急败坏",
+        "舍己为人"
+      ],
+      "answer": "气急败坏",
+      "explanation": "气急败坏是贬义词，形容狼狈或愤怒，不属于英雄品质。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "《为人民服务》指出，人死后的意义不同。其中引用的名句出自：",
+      "options": [
+        "司马迁",
+        "老舍",
+        "鲁迅",
+        "李白"
+      ],
+      "answer": "司马迁",
+      "explanation": "“人固有一死，或重于泰山，或轻于鸿毛”出自司马迁的《报任安书》。"
+    },
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "《为人民服务》中提到，“死得其所”的意思是（____）。",
+      "options": [],
+      "answer": "死得有价值",
+      "explanation": "指死得有意义、有价值。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "请将关联词语与其表示的关系连线。",
+      "options": [
+        "因为...所以...",
+        "只有...才...",
+        "虽然...但是...",
+        "不是...而是...",
+        "转折关系",
+        "因果关系",
+        "并列关系",
+        "条件关系"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "考查六年级必备关联词关系识别。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "议论文的逻辑与论证",
+      "question": "将下列词语排列成一句说明文章中心的话。",
+      "options": [
+        "必须",
+        "为人民",
+        "完全地",
+        "我们",
+        "服务"
+      ],
+      "answer": "我们,必须,完全地,为人民,服务",
+      "explanation": "出自《为人民服务》，强调服务的程度。"
+    }
+  ],
+  "knowledge": {
+    "point": "议论文的逻辑与论证",
+    "core_concept": "议论文旨在通过论证来说服读者接受某个观点。本单元重点学习《为人民服务》中的逻辑：先提出中心论点，再从‘死得其所’、‘不怕批评’、‘团结互助’等层面展开。常用的方法有引用名人名言、举出真实事例或进行因果推理。",
+    "key_formula": "观点（是什么）+ 理由（为什么）+ 结论（怎么做）",
+    "common_mistakes": [
+      "找不准文章的中心论点",
+      "对逻辑关联词（因为、所以、即使）的使用不够敏感"
+    ],
+    "tips": "画出每一段的第一句话，通常它就是该段要讲的一个小理由。"
+  }
+}

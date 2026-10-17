@@ -1,0 +1,31 @@
+{
+  "id": "biology-g7down-u2-kp2",
+  "title": "泌尿系统与排泄",
+  "bookId": "biology-g7down",
+  "unitNumber": 2,
+  "unitTitle": "人体的呼吸与循环",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "泌尿系统与排泄",
+      "question": "尿液的形成包括肾小球的滤过和肾小管的重吸收。",
+      "options": [],
+      "answer": "对",
+      "explanation": "尿液形成两过程。"
+    }
+  ],
+  "knowledge": {
+    "point": "泌尿系统与排泄",
+    "core_concept": "泌尿系统由肾脏、输尿管、膀胱、尿道组成。尿液形成经肾小球滤过和肾小管重吸收两个过程。",
+    "key_formula": "肾小球滤过 + 肾小管重吸收",
+    "common_mistakes": [
+      "认为原尿中含大量血细胞。"
+    ],
+    "tips": "正常尿液中无血细胞与葡萄糖。"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "g1down-u1-kp3",
+  "title": "七巧板的综合应用",
+  "bookId": "g1down",
+  "unitNumber": 1,
+  "unitTitle": "认识图形（二）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "七巧板的综合应用",
+      "question": "一套七巧板中有 1 个正方形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一套七巧板由5个三角形、1个正方形、1个平行四边形组成。验算：$5 + 1 + 1 = 7$块。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "七巧板的综合应用",
+      "question": "七巧板中最大的图形是什么形状？",
+      "options": [
+        "正方形",
+        "三角形",
+        "平行四边形",
+        "圆"
+      ],
+      "answer": "三角形",
+      "explanation": "七巧板里有2块大三角形是面积最大的。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "七巧板的综合应用",
+      "question": "七巧板中一共有几种不同的形状？",
+      "options": [
+        "2种",
+        "3种",
+        "4种",
+        "7种"
+      ],
+      "answer": "3种",
+      "explanation": "分别是：三角形、正方形、平行四边形。共3种。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "七巧板的综合应用",
+      "question": "一套七巧板里，一共有 ___ 块图形。",
+      "options": [],
+      "answer": "7",
+      "explanation": "七巧板顾名思义由7块组成。验算：2大三+1中三+2小三+1正+1平=7。"
+    }
+  ],
+  "knowledge": {
+    "point": "七巧板的综合应用",
+    "core_concept": "七巧板是我国古代的一种构图玩具，由7块板组成：包括5个三角形（2大1中2小）、1个正方形和1个平行四边形。利用这7块板可以拼出千变万化的图案。",
+    "key_formula": "七巧板构成：5三角形 + 1正方形 + 1平行四边形 = 7块。",
+    "common_mistakes": [
+      "错误地认为七巧板里有长方形、圆形。",
+      "记不清各种形状的数量，尤其是容易漏掉平行四边形。"
+    ],
+    "tips": "记住“511”口诀：5个三角，1个正方，1个平四，总共是七。"
+  }
+}

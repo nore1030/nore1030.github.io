@@ -1,0 +1,118 @@
+{
+  "id": "g3down-u8-kp2",
+  "title": "简单的组合问题",
+  "bookId": "g3down",
+  "unitNumber": 8,
+  "unitTitle": "数学广角——搭配（二）",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "3个人每两人通一次电话，一共要通3次电话。",
+      "options": [],
+      "answer": "对",
+      "explanation": "设三人为A、B、C。通话组合为：(A,B)、(A,C)、(B,C)，共3次。不需要考虑顺序，故正确。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "有4件上衣和3条裤子，每次穿1件上衣搭配1条裤子，共有7种穿法。",
+      "options": [],
+      "answer": "错",
+      "explanation": "根据乘法原理，搭配种类为 $4 \\times 3 = 12$ 种。题干将其误算为加法 $4 + 3 = 7$，故错误。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "小明有3本不同的课外书，他想借给小红和小华每人一本，共有多少种不同的借法？",
+      "options": [
+        "3种",
+        "6种",
+        "9种",
+        "12种"
+      ],
+      "answer": "6种",
+      "explanation": "小红从3本里选1本有3种情况，小华从剩下2本里选1本有2种情况。$3 \\times 2 = 6$ 种。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "妈妈要给小丽买一份饮品和一份主食。饮品有牛奶、果汁，主食有面包、蛋糕、汉堡。一共有多少种搭配方法？",
+      "options": [
+        "5种",
+        "6种",
+        "8种",
+        "9种"
+      ],
+      "answer": "6种",
+      "explanation": "饮品2种，主食3种，搭配方式为 $2 \\times 3 = 6$ 种。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "从红、黄、蓝三种颜色的球中选出两种球。一共有多少种选法？",
+      "options": [
+        "3种",
+        "6种",
+        "9种",
+        "2种"
+      ],
+      "answer": "3种",
+      "explanation": "组合问题：(红,黄), (红,蓝), (黄,蓝)，共3种。"
+    },
+    {
+      "id": 16,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "简单的组合问题",
+      "question": "有三样不同的奖品，发给三名表现优秀的学生，每名学生发一件。一共有多少种发法？",
+      "options": [
+        "3种",
+        "6种",
+        "9种",
+        "12种"
+      ],
+      "answer": "6种",
+      "explanation": "这实际上是排列问题。$3 \\times 2 \\times 1 = 6$ 种。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "简单的组合问题",
+      "question": "小林有3件短袖和2条短裤。他一共有 ___ 种不同的穿法。",
+      "options": [],
+      "answer": "6",
+      "explanation": "$3 \\times 2 = 6$ 种。验算：$2+2+2=6$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "简单的组合问题",
+    "core_concept": "组合是指从给定个数的元素中取出指定个数的元素，不考虑其顺序（即A与B、B与A视为同一种情况）。常见情境包括搭配衣服、握手比赛、配餐问题等。解决这类问题常使用连线法，通过有序的连线确保不重不漏。",
+    "key_formula": "搭配总数 = 第一类数量 $\\times$ 第二类数量",
+    "common_mistakes": [
+      "将组合问题误认为排列问题，例如握手时认为A和B握、B和A握是2次。",
+      "分不清何时用加法何时用乘法（搭配用乘，选一用加）。"
+    ],
+    "tips": "连线法是万能药！把两类事物排开，从左边第一个开始依此连接右边所有项，数清线条总数。"
+  }
+}

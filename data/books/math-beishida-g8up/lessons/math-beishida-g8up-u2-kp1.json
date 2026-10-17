@@ -1,0 +1,47 @@
+{
+  "id": "math-beishida-g8up-u2-kp1",
+  "title": "全等三角形的判定",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 2,
+  "unitTitle": "全等三角形与轴对称",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的判定",
+      "question": "下列不能判定两个三角形全等的是（　）",
+      "options": [
+        "AAA",
+        "SSS",
+        "SAS",
+        "ASA"
+      ],
+      "answer": "AAA",
+      "explanation": "AAA 判相似。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "全等三角形的判定",
+      "question": "书写全等三角形时对应顶点顺序要一致。",
+      "options": [],
+      "answer": "对",
+      "explanation": "对应顺序。"
+    }
+  ],
+  "knowledge": {
+    "point": "全等三角形的判定",
+    "core_concept": "判定方法有 SSS、SAS、ASA、AAS。对应顶点书写顺序必须一致。",
+    "key_formula": "SSS / SAS / ASA / AAS",
+    "common_mistakes": [
+      "把 AAA 当作全等判定。"
+    ],
+    "tips": "AAA 只能判相似。"
+  }
+}

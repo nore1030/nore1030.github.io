@@ -1,0 +1,32 @@
+{
+  "id": "chinese-g3down-u4-kp13",
+  "title": "词语拼音配对",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 12,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语拼音配对",
+      "question": "请将下列生字与其正确的拼音连接。",
+      "options": [
+        "灼",
+        "吻",
+        "隙",
+        "缸",
+        "wěn",
+        "zhuó",
+        "gāng",
+        "xì"
+      ],
+      "answer": "A-2,B-1,C-4,D-3",
+      "explanation": "考察本单元生字常用音。"
+    }
+  ],
+  "knowledge": null
+}

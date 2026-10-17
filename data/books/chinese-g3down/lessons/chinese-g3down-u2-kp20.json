@@ -1,0 +1,29 @@
+{
+  "id": "chinese-g3down-u2-kp20",
+  "title": "逻辑构建",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 16,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑构建",
+      "question": "请将下列词语排列成一句描写陶罐的话。",
+      "options": [
+        "陶罐",
+        "在废墟里",
+        "被土",
+        "掩埋了",
+        "多年"
+      ],
+      "answer": "陶罐,在废墟里,被土,掩埋了,多年",
+      "explanation": "考察被字句的句子结构。"
+    }
+  ],
+  "knowledge": null
+}

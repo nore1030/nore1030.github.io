@@ -1,0 +1,28 @@
+{
+  "id": "english-g6up-u2-kp11",
+  "title": "疑问句",
+  "bookId": "english-g6up",
+  "unitNumber": 2,
+  "unitTitle": "Ways to go to school",
+  "kpIndex": 7,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "疑问句",
+      "question": "___ do you go to the park? By bike.",
+      "options": [
+        "Where",
+        "What",
+        "How",
+        "Who"
+      ],
+      "answer": "How",
+      "explanation": "对交通方式提问用How。"
+    }
+  ],
+  "knowledge": null
+}

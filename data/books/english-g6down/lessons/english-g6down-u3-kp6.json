@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u3-kp6",
+  "title": "语法时态一致性",
+  "bookId": "english-g6down",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Where did you go?",
+  "kpIndex": 2,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "语法时态一致性",
+      "question": "在句子 'Did you went there?' 中，动词使用是正确的。",
+      "options": [],
+      "answer": "错",
+      "explanation": "助动词did后面应该接动词原形go。"
+    }
+  ],
+  "knowledge": null
+}

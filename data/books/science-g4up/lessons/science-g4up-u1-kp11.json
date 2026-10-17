@@ -1,0 +1,28 @@
+{
+  "id": "science-g4up-u1-kp11",
+  "title": "音量描述",
+  "bookId": "science-g4up",
+  "unitNumber": 1,
+  "unitTitle": "声音",
+  "kpIndex": 5,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "音量描述",
+      "question": "我们在形容声音很大、震耳欲聋时，是指声音的：",
+      "options": [
+        "音高",
+        "音力",
+        "音量",
+        "音色"
+      ],
+      "answer": "音量",
+      "explanation": "声音的大小强弱在科学上称为音量（或响度）。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp13",
+  "title": "语境辨析",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 11,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "语境辨析",
+      "question": "在“他已经（   ）了家乡的旧貌”中填入最恰当的词：",
+      "options": [
+        "忘记",
+        "忘怀",
+        "遗失",
+        "丢弃"
+      ],
+      "answer": "忘记",
+      "explanation": "“忘记”指不记得，“忘怀”多用于情感上的难以忘掉。"
+    }
+  ],
+  "knowledge": null
+}

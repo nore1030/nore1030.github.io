@@ -1,0 +1,47 @@
+{
+  "id": "math-sujiao-g1up-u1-kp2",
+  "title": "数量的表示",
+  "bookId": "math-sujiao-g1up",
+  "unitNumber": 1,
+  "unitTitle": "数一数",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 3,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 1,
+      "knowledge_point": "数量的表示",
+      "question": "按顺序填数：1、2、3、___、5，横线上是几？",
+      "options": [],
+      "answer": "4",
+      "explanation": "顺序为 1、2、3、4、5。"
+    },
+    {
+      "id": 4,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "数量的表示",
+      "question": "有 5 个苹果，再添 1 个，一共是（　）个",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "4"
+      ],
+      "answer": "6",
+      "explanation": "5 + 1 = 6。"
+    }
+  ],
+  "knowledge": {
+    "point": "数量的表示",
+    "core_concept": "数到几，就用几表示物体的个数；1~10 按从小到大排列。",
+    "key_formula": "1, 2, 3, … 10",
+    "common_mistakes": [
+      "把顺序与个数混淆。"
+    ],
+    "tips": "「几」是数量，「第几」是顺序。"
+  }
+}

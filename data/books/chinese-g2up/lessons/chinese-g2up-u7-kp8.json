@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u7-kp8",
+  "title": "句式转换",
+  "bookId": "chinese-g2up",
+  "unitNumber": 7,
+  "unitTitle": "想象",
+  "kpIndex": 7,
+  "kpTotal": 10,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句式转换",
+      "question": "把“雾把大海藏起来了”换成“被”字句，正确的是：",
+      "options": [
+        "大海被雾藏起来了",
+        "雾被大海藏起来了",
+        "大海把雾藏起来了",
+        "被雾大海藏起来了"
+      ],
+      "answer": "大海被雾藏起来了",
+      "explanation": "被字句主语是承受者。"
+    }
+  ],
+  "knowledge": null
+}

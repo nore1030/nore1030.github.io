@@ -1,0 +1,589 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Welcome back to school!",
+      "knowledge_points": [
+        {
+          "name": "自我介绍与询问来源地",
+          "description": "使用句型'I'm from...'介绍国籍/家乡，并用'Where are you from?'询问他人来源。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "国家名称与核心词汇",
+          "description": "听、说、认读UK, Canada, USA, China等国家单词及he, she, teacher, student等身份词。",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "选择",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "元音字母a在闭音节中的发音",
+          "description": "掌握字母a在cat, bag, dad, hand等单词中发短元音/æ/的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "排序/比较",
+            "选择"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u1-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 2,
+      "title": "My family",
+      "knowledge_points": [
+        {
+          "name": "家庭成员称谓认读",
+          "description": "掌握father(dad), mother(mom), grandfather(grandpa), grandmother(grandma), brother, sister等词汇。",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "询问并确认人物身份",
+          "description": "运用'Who's that man/woman?'及回答'He's/She's my...'进行身份确认。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "选择",
+            "应用题"
+          ]
+        },
+        {
+          "name": "元音字母e在闭音节中的发音",
+          "description": "掌握字母e在ten, red, leg, pen等单词中发短元音/e/的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "排序/比较",
+            "填空",
+            "判断"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u2-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 3,
+      "title": "At the zoo",
+      "knowledge_points": [
+        {
+          "name": "描述动物外貌特征的形容词",
+          "description": "使用tall, short, fat, thin, big, small, long等形容词描述物体特征。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "选择",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "描述身体部位的特征表达",
+          "description": "运用句型'It has + 形容词 + 身体部位'（如It has a long nose）描述动物。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "画图",
+            "填空"
+          ]
+        },
+        {
+          "name": "元音字母i在闭音节中的发音",
+          "description": "掌握字母i在big, pig, six, milk等单词中发短元音/ɪ/的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "选择",
+            "排序/比较"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u3-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 4,
+      "title": "Where is my car?",
+      "knowledge_points": [
+        {
+          "name": "方位介词的辨析与应用",
+          "description": "理解并使用in, on, under, behind等方位介词描述物体位置。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "画图",
+            "连线/匹配"
+          ]
+        },
+        {
+          "name": "询问位置及其一般疑问句回答",
+          "description": "运用'Where is...?'询问及'Is it in/on/under...?'进行猜想并用Yes/No回答。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "应用题",
+            "填空"
+          ]
+        },
+        {
+          "name": "元音字母o在闭音节中的发音",
+          "description": "掌握字母o在dog, box, orange, body等单词中发短元音/ɒ/的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "排序/比较",
+            "选择"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u4-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 5,
+      "title": "Do you like pears?",
+      "knowledge_points": [
+        {
+          "name": "水果类词汇及其复数形式",
+          "description": "掌握apple, pear, orange, banana, watermelon, strawberry等水果单词及复数表达。",
+          "difficulty": 1,
+          "question_types": [
+            "填空",
+            "连线/匹配",
+            "选择"
+          ]
+        },
+        {
+          "name": "表达喜好与征求许可",
+          "description": "运用'Do you like...?'询问喜好及'Can I have some...?'表达请求。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "应用题",
+            "填空"
+          ]
+        },
+        {
+          "name": "元音字母u在闭音节中的发音",
+          "description": "掌握字母u在fun, run, duck, under等单词中发短元音/ʌ/的规律。",
+          "difficulty": 2,
+          "question_types": [
+            "判断",
+            "填空",
+            "排序/比较"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u5-exam",
+      "examQuestionCount": 15
+    },
+    {
+      "unit_number": 6,
+      "title": "How many?",
+      "knowledge_points": [
+        {
+          "name": "数字11-20的认读与拼写",
+          "description": "听、说、读、写数字eleven至twenty，区分thirteen/fifteen等易混词。",
+          "difficulty": 2,
+          "question_types": [
+            "填空",
+            "选择",
+            "排序/比较"
+          ]
+        },
+        {
+          "name": "询问数量的句型应用",
+          "description": "运用'How many + 复数名词 + do you see/have?'询问物品数量并回答。",
+          "difficulty": 3,
+          "question_types": [
+            "应用题",
+            "填空",
+            "选择"
+          ]
+        },
+        {
+          "name": "五个元音字母短音综合辨析",
+          "description": "综合识别a, e, i, o, u在闭音节单词中的发音差异规律。",
+          "difficulty": 4,
+          "question_types": [
+            "判断",
+            "排序/比较",
+            "填空"
+          ]
+        }
+      ],
+      "examLessonId": "english-g3down-u6-exam",
+      "examQuestionCount": 15
+    }
+  ],
+  "bookId": "english-g3down",
+  "grade": 3,
+  "semester": "down",
+  "subject": "english",
+  "lessons": [
+    {
+      "id": "english-g3down-u1-kp1",
+      "title": "自我介绍与询问来源地",
+      "unitNumber": 1,
+      "unitTitle": "Welcome back to school!",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 8
+    },
+    {
+      "id": "english-g3down-u1-kp2",
+      "title": "国家名称与核心词汇",
+      "unitNumber": 1,
+      "unitTitle": "Welcome back to school!",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 12
+    },
+    {
+      "id": "english-g3down-u1-kp3",
+      "title": "元音字母a在闭音节中的发音",
+      "unitNumber": 1,
+      "unitTitle": "Welcome back to school!",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g3down-u1-kp4",
+      "title": "人称代词用法",
+      "unitNumber": 1,
+      "unitTitle": "Welcome back to school!",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u2-kp1",
+      "title": "家庭成员称谓认读",
+      "unitNumber": 2,
+      "unitTitle": "My family",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 10
+    },
+    {
+      "id": "english-g3down-u2-kp2",
+      "title": "询问并确认人物身份",
+      "unitNumber": 2,
+      "unitTitle": "My family",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 10
+    },
+    {
+      "id": "english-g3down-u2-kp3",
+      "title": "元音字母e在闭音节中的发音",
+      "unitNumber": 2,
+      "unitTitle": "My family",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 3
+    },
+    {
+      "id": "english-g3down-u3-kp1",
+      "title": "描述动物外貌特征的形容词",
+      "unitNumber": 3,
+      "unitTitle": "At the zoo",
+      "kpIndex": 0,
+      "kpTotal": 4,
+      "questionCount": 10
+    },
+    {
+      "id": "english-g3down-u3-kp2",
+      "title": "描述身体部位的特征表达",
+      "unitNumber": 3,
+      "unitTitle": "At the zoo",
+      "kpIndex": 1,
+      "kpTotal": 4,
+      "questionCount": 9
+    },
+    {
+      "id": "english-g3down-u3-kp3",
+      "title": "元音字母i在闭音节中的发音",
+      "unitNumber": 3,
+      "unitTitle": "At the zoo",
+      "kpIndex": 2,
+      "kpTotal": 4,
+      "questionCount": 3
+    },
+    {
+      "id": "english-g3down-u3-kp4",
+      "title": "描述描述身体部位的特征表达",
+      "unitNumber": 3,
+      "unitTitle": "At the zoo",
+      "kpIndex": 3,
+      "kpTotal": 4,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp4",
+      "title": "方位介词辨析",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 0,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp5",
+      "title": "词汇辨析",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 1,
+      "kpTotal": 22,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g3down-u4-kp6",
+      "title": "语音知识",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 2,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp7",
+      "title": "交际用语",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 3,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp8",
+      "title": "习惯表达",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 4,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp9",
+      "title": "物体方位",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 5,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp10",
+      "title": "疑问词辨析",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 6,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp11",
+      "title": "指示代词",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 7,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp12",
+      "title": "确认位置",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 8,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp13",
+      "title": "代词搭配",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 9,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp14",
+      "title": "介词辨析",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 10,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp15",
+      "title": "常用搭配",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 11,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp16",
+      "title": "词汇理解",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 12,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp17",
+      "title": "物品名称",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 13,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp18",
+      "title": "情景交际",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 14,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp19",
+      "title": "方位词应用",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 15,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp20",
+      "title": "疑问句回答",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 16,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp21",
+      "title": "词汇拼写",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 17,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp22",
+      "title": "英汉配对",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 18,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp23",
+      "title": "短语配对",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 19,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp24",
+      "title": "特殊疑问句",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 20,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u4-kp25",
+      "title": "一般疑问句",
+      "unitNumber": 4,
+      "unitTitle": "Where is my car?",
+      "kpIndex": 21,
+      "kpTotal": 22,
+      "questionCount": 1
+    },
+    {
+      "id": "english-g3down-u5-kp1",
+      "title": "水果类词汇及其复数形式",
+      "unitNumber": 5,
+      "unitTitle": "Do you like pears?",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 9
+    },
+    {
+      "id": "english-g3down-u5-kp2",
+      "title": "表达喜好与征求许可",
+      "unitNumber": 5,
+      "unitTitle": "Do you like pears?",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 12
+    },
+    {
+      "id": "english-g3down-u5-kp3",
+      "title": "元音字母u在闭音节中的发音",
+      "unitNumber": 5,
+      "unitTitle": "Do you like pears?",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 2
+    },
+    {
+      "id": "english-g3down-u6-kp1",
+      "title": "数字11-20的认读与拼写",
+      "unitNumber": 6,
+      "unitTitle": "How many?",
+      "kpIndex": 0,
+      "kpTotal": 3,
+      "questionCount": 11
+    },
+    {
+      "id": "english-g3down-u6-kp2",
+      "title": "询问数量的句型应用",
+      "unitNumber": 6,
+      "unitTitle": "How many?",
+      "kpIndex": 1,
+      "kpTotal": 3,
+      "questionCount": 8
+    },
+    {
+      "id": "english-g3down-u6-kp3",
+      "title": "五个元音字母短音综合辨析",
+      "unitNumber": 6,
+      "unitTitle": "How many?",
+      "kpIndex": 2,
+      "kpTotal": 3,
+      "questionCount": 4
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "moral-g2up-u2-kp2",
+  "title": "锻炼与作息",
+  "bookId": "moral-g2up",
+  "unitNumber": 2,
+  "unitTitle": "安全与健康",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "锻炼与作息",
+      "question": "每天坚持锻炼身体很重要。",
+      "options": [],
+      "answer": "对",
+      "explanation": "锻炼增强体质。"
+    }
+  ],
+  "knowledge": {
+    "point": "锻炼与作息",
+    "core_concept": "每天坚持体育锻炼，保证充足睡眠，才能身体健康、精力充沛。",
+    "key_formula": "每天锻炼一小时",
+    "common_mistakes": [
+      "长时间玩手机不运动。"
+    ],
+    "tips": "运动让人更健康。"
+  }
+}

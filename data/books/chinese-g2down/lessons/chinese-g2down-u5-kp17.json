@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u5-kp17",
+  "title": "寓言道理",
+  "bookId": "chinese-g2down",
+  "unitNumber": 5,
+  "unitTitle": "办法与道理",
+  "kpIndex": 13,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "寓言道理",
+      "question": "《亡羊补牢》这个成语告诉我们：",
+      "options": [
+        "羊丢了就不要了",
+        "犯了错及时补救不晚",
+        "要把羊圈盖得最高",
+        "邻居的话不能听"
+      ],
+      "answer": "犯了错及时补救不晚",
+      "explanation": "寓意在于出问题后及时补救，避免更大损失。"
+    }
+  ],
+  "knowledge": null
+}

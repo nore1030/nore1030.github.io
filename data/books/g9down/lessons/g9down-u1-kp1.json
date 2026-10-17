@@ -1,0 +1,47 @@
+{
+  "id": "g9down-u1-kp1",
+  "title": "反比例函数的概念与图象",
+  "bookId": "g9down",
+  "unitNumber": 1,
+  "unitTitle": "反比例函数",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "反比例函数的概念与图象",
+      "question": "下列是反比例函数的是（　）",
+      "options": [
+        "$y=2x$",
+        "$y=\\frac2x$",
+        "$y=x^2$",
+        "$y=x+2$"
+      ],
+      "answer": "$y=\\frac2x$",
+      "explanation": "形如 $y=\\frac kx$。"
+    },
+    {
+      "id": 2,
+      "type": "calculation",
+      "score": 6,
+      "difficulty": 2,
+      "knowledge_point": "反比例函数的概念与图象",
+      "question": "反比例函数 $y=\\frac{6}{x}$ 中，当 $x=3$ 时 $y=$ ？",
+      "options": [],
+      "answer": "2",
+      "explanation": "$\\frac63=2$。"
+    }
+  ],
+  "knowledge": {
+    "point": "反比例函数的概念与图象",
+    "core_concept": "形如 $y=\\frac kx(k\\ne0)$ 的函数是反比例函数。图象是双曲线；$k>0$ 时位于一、三象限，$k<0$ 时位于二、四象限。",
+    "key_formula": "$y=\\frac kx$",
+    "common_mistakes": [
+      "认为图象与坐标轴相交。"
+    ],
+    "tips": "双曲线无限接近坐标轴但不相交。"
+  }
+}

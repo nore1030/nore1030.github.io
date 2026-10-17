@@ -1,0 +1,63 @@
+{
+  "id": "english-renjiao-g10up-u3-kp1",
+  "title": "运动词汇 athlete / master / strength",
+  "bookId": "english-renjiao-g10up",
+  "unitNumber": 3,
+  "unitTitle": "Unit 3 Sports and Fitness 运动与健康",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 athlete / master / strength",
+      "question": "「运动员」的英文是（　）",
+      "options": [
+        "athlete",
+        "athelete",
+        "athlet",
+        "athletee"
+      ],
+      "answer": "athlete",
+      "explanation": "athlete 运动员。"
+    },
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 athlete / master / strength",
+      "question": "「力量」的英文是（　）",
+      "options": [
+        "strength",
+        "strongth",
+        "strenght",
+        "strenth"
+      ],
+      "answer": "strength",
+      "explanation": "strength 力量。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "运动词汇 athlete / master / strength",
+      "question": "fitness 的意思是「健康、健身」。",
+      "options": [],
+      "answer": "对",
+      "explanation": "fitness 健康。"
+    }
+  ],
+  "knowledge": {
+    "point": "运动词汇 athlete / master / strength",
+    "core_concept": "athlete 运动员、master 大师/精通、strength 力量、grace 优雅、injury 损伤。",
+    "key_formula": "a sports legend 体育传奇",
+    "common_mistakes": [
+      "athlete 发音与拼写不一致。"
+    ],
+    "tips": "athlete 两个音节。"
+  }
+}

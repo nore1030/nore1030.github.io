@@ -1,0 +1,28 @@
+{
+  "id": "science-g6down-u2-kp13",
+  "title": "人体的遗传",
+  "bookId": "science-g6down",
+  "unitNumber": 2,
+  "unitTitle": "生物的多样性",
+  "kpIndex": 7,
+  "kpTotal": 13,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人体的遗传",
+      "question": "下列属于人体遗传特征的是（ ）。",
+      "options": [
+        "单眼皮",
+        "后天的伤疤",
+        "学习的知识",
+        "喜欢的颜色"
+      ],
+      "answer": "单眼皮",
+      "explanation": "单双眼皮属于可通过生殖细胞传递给后代的形态特征。"
+    }
+  ],
+  "knowledge": null
+}

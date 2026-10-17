@@ -1,0 +1,60 @@
+{
+  "id": "science-g6up-u4-kp5",
+  "title": "影响电磁铁磁性强弱的因素",
+  "bookId": "science-g6up",
+  "unitNumber": 4,
+  "unitTitle": "能量",
+  "kpIndex": 4,
+  "kpTotal": 7,
+  "questions": [
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影响电磁铁磁性强弱的因素",
+      "question": "在探究电磁铁磁性强弱与线圈匝数的关系时，需要改变的条件是（）。",
+      "options": [
+        "电池数量",
+        "铁芯大小",
+        "线圈匝数",
+        "导线长度"
+      ],
+      "answer": "线圈匝数",
+      "explanation": "根据控制变量法，探究哪个因素就要改变哪个因素，其他条件保持不变。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "影响电磁铁磁性强弱的因素",
+      "question": "以下哪种操作可以增强电磁铁的磁性？（）",
+      "options": [
+        "增加线圈匝数",
+        "减少电池节数",
+        "改变电流方向",
+        "取走铁芯"
+      ],
+      "answer": "增加线圈匝数",
+      "explanation": "电磁铁磁性强弱与电流大小、线圈匝数成正比。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "影响电磁铁磁性强弱的因素",
+      "question": "电磁铁磁力的测量通常使用（）的方法较为科学。",
+      "options": [
+        "看火花大小",
+        "听声音强弱",
+        "吸引大头针的数量",
+        "用手感觉热度"
+      ],
+      "answer": "吸引大头针的数量",
+      "explanation": "吸引大头针的数量是衡量磁力大小可量化的指标。"
+    }
+  ],
+  "knowledge": null
+}

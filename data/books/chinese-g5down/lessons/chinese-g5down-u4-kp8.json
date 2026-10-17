@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g5down-u4-kp8",
+  "title": "细节刻画",
+  "bookId": "chinese-g5down",
+  "unitNumber": 4,
+  "unitTitle": "家国情怀",
+  "kpIndex": 4,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "细节刻画",
+      "question": "在《军神》一课中，沃克医生称刘伯承为“军神”是因为他武艺高强。",
+      "options": [],
+      "answer": "错",
+      "explanation": "被称为军神是因为他具有钢铁般的意志，在不打麻药的情况下进行手术。"
+    }
+  ],
+  "knowledge": null
+}

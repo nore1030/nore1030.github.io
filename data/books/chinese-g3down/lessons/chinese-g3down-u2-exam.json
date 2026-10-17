@@ -1,0 +1,230 @@
+{
+  "id": "chinese-g3down-u2-exam",
+  "title": "第 2 单元挑战",
+  "bookId": "chinese-g3down",
+  "unitNumber": 2,
+  "unitTitle": "寓言故事",
+  "kpIndex": 18,
+  "kpTotal": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "古诗常识",
+      "question": "《守株待兔》这篇文言文中，兔子的动作是‘走’，在这个语境下指的是‘行走’。",
+      "options": [],
+      "answer": "错",
+      "explanation": "‘走’在古语中指‘跑’。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "寓言内涵",
+      "question": "《鹿角和鹿腿》中，鹿逃命后觉得角是累赘，应该锯掉。",
+      "options": [],
+      "answer": "错",
+      "explanation": "鹿虽然一开始讨厌腿，但最后明白了角和腿各有长处。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "应用文体",
+      "question": "写通知如果漏掉了具体的‘时间’，这份通知就是无效的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "时间是通知的关键要素。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "阅读方法",
+      "question": "阅读寓言时，我们要先读懂故事，再联系生活思考其中的道理。",
+      "options": [],
+      "answer": "对",
+      "explanation": "这是阅读寓言的基本步骤。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "神态描写",
+      "question": "‘你怎么敢和我相提并论！’铁罐描写时（    ）地说。",
+      "options": [
+        "和颜悦色",
+        "傲慢",
+        "伤心",
+        "犹豫"
+      ],
+      "answer": "傲慢",
+      "explanation": "符合铁罐看不起陶罐的情感。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "通知格式",
+      "question": "通知落款中的日期应该放在：",
+      "options": [
+        "发布人下方",
+        "发布人上方",
+        "标题上方",
+        "正文左侧"
+      ],
+      "answer": "发布人下方",
+      "explanation": "通知规范格式要求日期在发布人下方。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "寓意应用",
+      "question": "小明只相信运气，不肯通过劳动换取幸福，我们可以用哪个故事劝他：",
+      "options": [
+        "井底之蛙",
+        "守株待兔",
+        "亡羊补牢",
+        "揠苗助长"
+      ],
+      "answer": "守株待兔",
+      "explanation": "该故事讽刺心存侥幸不劳而获的人。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "标点符号",
+      "question": "下列句子中标点符号使用正确的是：",
+      "options": [
+        "“住嘴！”铁罐愤怒地喝道，“你怎么敢和我相提并论。”",
+        "“住嘴”铁罐愤怒地喝道“你怎么敢和我相提并论”。",
+        "铁罐说：“住嘴。你怎么敢和我相提并论”。",
+        "住嘴！铁罐愤怒地喝道。你怎么敢和我相提并论！"
+      ],
+      "answer": "“住嘴！”铁罐愤怒地喝道，“你怎么敢和我相提并论。”",
+      "explanation": "考察提示语在中间时的引号用法。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "句式理解",
+      "question": "‘这这种事，难道不是经常发生的吗？’的意思是：",
+      "options": [
+        "这是经常发生的",
+        "这不是经常发生的",
+        "这可能发生",
+        "这是不会发生的"
+      ],
+      "answer": "这是经常发生的",
+      "explanation": "反问句表达肯定的意思。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "寓言辨析",
+      "question": "伊索寓言是哪个国家的经典文学？",
+      "options": [
+        "中国",
+        "古希腊",
+        "古埃及",
+        "古罗马"
+      ],
+      "answer": "古希腊",
+      "explanation": "《伊索寓言》源于古希腊。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "课内字词",
+      "question": "陶罐最后由于它坚固的质地变成了珍贵的___________。",
+      "options": [],
+      "answer": "文物",
+      "explanation": "课文结尾提到的词语。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "成语积累",
+      "question": "比喻白干活没好处，可以用成语：徒劳___________。",
+      "options": [],
+      "answer": "无功",
+      "explanation": "常见成语填空。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "寓言道理",
+      "question": "请将寓言故事与其揭示的道理连起来。",
+      "options": [
+        "陶罐和铁罐",
+        "北风和太阳",
+        "鹿角和鹿腿",
+        "池子和河流",
+        "勤劳才快活",
+        "柔和比威武强",
+        "正视优缺点",
+        "各有各的长处"
+      ],
+      "answer": "A-4,B-2,C-3,D-1",
+      "explanation": "四个寓言的核心寓意连线。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词组解释",
+      "question": "请将寓言中的词语与现代释义连线。",
+      "options": [
+        "冀",
+        "株",
+        "其",
+        "触",
+        "撞到",
+        "树桩",
+        "希望",
+        "那个"
+      ],
+      "answer": "A-3,B-2,C-4,D-1",
+      "explanation": "古今异义词匹配。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "逻辑顺序",
+      "question": "请根据通知的礼貌性，将落款词语排序。",
+      "options": [
+        "少先队",
+        "大队部",
+        "四月",
+        "十日"
+      ],
+      "answer": "少先队,大队部,四月,十日",
+      "explanation": "通知的落款：部门在前，日期在后。"
+    }
+  ],
+  "knowledge": null
+}

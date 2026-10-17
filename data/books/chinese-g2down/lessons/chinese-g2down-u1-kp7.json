@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2down-u1-kp7",
+  "title": "阅读理解",
+  "bookId": "chinese-g2down",
+  "unitNumber": 1,
+  "unitTitle": "春天",
+  "kpIndex": 6,
+  "kpTotal": 8,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "短文练习：草野上，风跑得快，桃花开得红。燕子从南方飞回来了，剪刀似的尾巴掠过水面。这段话主要描写的是（ ）的景色。",
+      "options": [
+        "初夏",
+        "仲秋",
+        "初春",
+        "严冬"
+      ],
+      "answer": "初春",
+      "explanation": "桃花开、燕子归是典型的春天特征。"
+    }
+  ],
+  "knowledge": null
+}

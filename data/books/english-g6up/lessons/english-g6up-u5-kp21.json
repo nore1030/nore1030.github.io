@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp21",
+  "title": "地点词汇",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 17,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "地点词汇",
+      "question": "My father is a teacher. He works in a ______.",
+      "options": [],
+      "answer": "school",
+      "explanation": "教师的工作地点在学校。"
+    }
+  ],
+  "knowledge": null
+}

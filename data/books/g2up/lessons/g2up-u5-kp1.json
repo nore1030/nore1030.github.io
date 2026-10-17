@@ -1,0 +1,91 @@
+{
+  "id": "g2up-u5-kp1",
+  "title": "从不同位置观察物体",
+  "bookId": "g2up",
+  "unitNumber": 5,
+  "unitTitle": "观察物体（一）",
+  "kpIndex": 0,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "从不同位置观察物体",
+      "question": "我们从不同的位置观察同一个物体，看到的形状可能是不一样的。",
+      "options": [],
+      "answer": "对",
+      "explanation": "基本概念：观察位置不同，看到的物体的部位就不同，所以看到的形状往往是不一样的。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "从不同位置观察物体",
+      "question": "四个小朋友围坐在一起观察一个小汽车玩具，他们看到的形状一定都相同。",
+      "options": [],
+      "answer": "错",
+      "explanation": "围坐意味着位置不同（前、后、左、右），看到的汽车部位（车头、车尾、侧面）是不同的。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "从不同位置观察物体",
+      "question": "小明站在讲台正前方观察老师的办公桌，他看到的是桌子的哪个面？",
+      "options": [
+        "正面",
+        "后面",
+        "侧面",
+        "上面"
+      ],
+      "answer": "正面",
+      "explanation": "站在物体正前方，观察到的就是物体的正面。"
+    },
+    {
+      "id": 12,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从不同位置观察物体",
+      "question": "妈妈在洗衣服，小林在妈妈身后，他看到的是妈妈的哪一部分？",
+      "options": [
+        "正脸",
+        "背部",
+        "左手",
+        "右手"
+      ],
+      "answer": "背部",
+      "explanation": "在身后观察，看到的是物体的后面（背面）。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "从不同位置观察物体",
+      "question": "小猫从树后观察路上的行人和车辆，它只能看到物体的：",
+      "options": [
+        "前面",
+        "后面",
+        "侧面",
+        "上面"
+      ],
+      "answer": "后面",
+      "explanation": "树在车后面，小猫在树后面，所以看到的是车或人的后部。"
+    }
+  ],
+  "knowledge": {
+    "point": "从不同位置观察物体",
+    "core_concept": "人站在不同的位置观察同一个物体，看到的物体的部位是不一样的，所以看到的物体的形状也可能是不一样的。通常我们从正面、后面、左侧面、右侧面和上面五个主要角度来辨认。",
+    "key_formula": "观察位置不同 $\rightarrow$ 看到的形状可能不同",
+    "common_mistakes": [
+      "混淆左、右侧面看到的形状，尤其是带有方向性的物体（如车头朝向）",
+      "认为同一个物体无论从哪看形状都应该一样"
+    ],
+    "tips": "观察时要通过‘身临其境’的想象，把自己假想成站在那个位置的人，看物体的特征部位在哪里。"
+  }
+}

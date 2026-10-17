@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g6up-u4-kp7",
+  "title": "核心概念",
+  "bookId": "chinese-g6up",
+  "unitNumber": 4,
+  "unitTitle": "小说欣赏",
+  "kpIndex": 6,
+  "kpTotal": 9,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "核心概念",
+      "question": "小说塑造的核心要素是（___）。",
+      "options": [],
+      "answer": "人物形象",
+      "explanation": "小说以刻画人物形象为中心。"
+    }
+  ],
+  "knowledge": null
+}

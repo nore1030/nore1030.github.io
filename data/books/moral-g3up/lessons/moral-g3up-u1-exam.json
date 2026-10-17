@@ -1,0 +1,66 @@
+{
+  "id": "moral-g3up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "moral-g3up",
+  "unitNumber": 1,
+  "unitTitle": "成长中的我",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "认识自我与优点",
+      "question": "发现自己的优点可以（　）",
+      "options": [
+        "更自信",
+        "更骄傲",
+        "嘲笑别人",
+        "不努力"
+      ],
+      "answer": "更自信",
+      "explanation": "认识优点能增强自信。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "克服困难与自信",
+      "question": "面对困难要冷静分析、积极想办法。",
+      "options": [],
+      "answer": "对",
+      "explanation": "冷静分析找方法。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "克服困难与自信",
+      "question": "“扬长补短”的意思是（　）",
+      "options": [
+        "只发挥长处",
+        "发挥长处并改进不足",
+        "只改缺点",
+        "不理会缺点"
+      ],
+      "answer": "发挥长处并改进不足",
+      "explanation": "扬长补短。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "认识自我与优点",
+      "question": "看到别人的优点可以学习，但不必自卑。",
+      "options": [],
+      "answer": "对",
+      "explanation": "学习他人不自卑。"
+    }
+  ],
+  "knowledge": null
+}

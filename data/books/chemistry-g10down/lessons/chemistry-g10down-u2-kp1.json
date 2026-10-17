@@ -1,0 +1,63 @@
+{
+  "id": "chemistry-g10down-u2-kp1",
+  "title": "甲烷、乙烯与苯",
+  "bookId": "chemistry-g10down",
+  "unitNumber": 2,
+  "unitTitle": "有机化合物",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "甲烷、乙烯与苯",
+      "question": "能使溴水褪色的是（　）",
+      "options": [
+        "甲烷",
+        "乙烯",
+        "苯",
+        "乙烷"
+      ],
+      "answer": "乙烯",
+      "explanation": "乙烯与溴加成。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "甲烷、乙烯与苯",
+      "question": "甲烷能与氯气在光照条件下发生取代反应。",
+      "options": [],
+      "answer": "对",
+      "explanation": "甲烷取代反应。"
+    },
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "甲烷、乙烯与苯",
+      "question": "苯分子中碳碳键的特点是（　）",
+      "options": [
+        "单双键交替",
+        "完全相同的介于单双键之间的键",
+        "全是单键",
+        "全是双键"
+      ],
+      "answer": "完全相同的介于单双键之间的键",
+      "explanation": "苯环键长相同。"
+    }
+  ],
+  "knowledge": {
+    "point": "甲烷、乙烯与苯",
+    "core_concept": "甲烷是正四面体结构，能发生取代反应；乙烯含碳碳双键，能发生加成反应和加聚反应；苯是平面正六边形结构，能发生取代反应。",
+    "key_formula": "$\\text{CH}_2=\\text{CH}_2+\\text{Br}_2\\to\\text{CH}_2\\text{BrCH}_2\\text{Br}$",
+    "common_mistakes": [
+      "认为苯含碳碳双键。"
+    ],
+    "tips": "苯中碳碳键是独特的。"
+  }
+}

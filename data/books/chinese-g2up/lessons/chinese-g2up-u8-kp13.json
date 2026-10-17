@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g2up-u8-kp13",
+  "title": "寓言理解",
+  "bookId": "chinese-g2up",
+  "unitNumber": 8,
+  "unitTitle": "相处",
+  "kpIndex": 9,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "寓言理解",
+      "question": "阅读：狐狸眼珠子一转，扯着嗓子对老虎叫。根据这句话，你觉得狐狸是一个怎样的形象？",
+      "options": [
+        "诚实信用",
+        "老实可怜",
+        "狡猾诡计多端",
+        "威武雄壮"
+      ],
+      "answer": "狡猾诡计多端",
+      "explanation": "“眼珠一转”和“扯着嗓子”说明狐狸正在动歪脑筋。 "
+    }
+  ],
+  "knowledge": null
+}

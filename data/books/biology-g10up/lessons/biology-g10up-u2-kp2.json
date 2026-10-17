@@ -1,0 +1,47 @@
+{
+  "id": "biology-g10up-u2-kp2",
+  "title": "物质跨膜运输",
+  "bookId": "biology-g10up",
+  "unitNumber": 2,
+  "unitTitle": "细胞的基本结构与物质运输",
+  "kpIndex": 1,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 2,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "物质跨膜运输",
+      "question": "需要载体蛋白且消耗能量的是（　）",
+      "options": [
+        "自由扩散",
+        "协助扩散",
+        "主动运输",
+        "渗透作用"
+      ],
+      "answer": "主动运输",
+      "explanation": "主动运输特点。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "物质跨膜运输",
+      "question": "自由扩散不需要载体蛋白，也不消耗能量。",
+      "options": [],
+      "answer": "对",
+      "explanation": "自由扩散特点。"
+    }
+  ],
+  "knowledge": {
+    "point": "物质跨膜运输",
+    "core_concept": "自由扩散和协助扩散不消耗能量，主动运输需要载体蛋白并消耗 ATP。大分子进出通过胞吞、胞吐。",
+    "key_formula": "主动运输：逆浓度 + 耗能 + 载体",
+    "common_mistakes": [
+      "把协助扩散当作耗能过程。"
+    ],
+    "tips": "看是否逆浓度、是否耗能。"
+  }
+}

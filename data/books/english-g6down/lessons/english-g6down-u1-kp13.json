@@ -1,0 +1,28 @@
+{
+  "id": "english-g6down-u1-kp13",
+  "title": "句型识别",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 9,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "句型识别",
+      "question": "选出翻译正确的一项：那只恐龙比我高。",
+      "options": [
+        "That dinosaur is tall than me.",
+        "That dinosaur is taller than me.",
+        "That dinosaur is taller than I am.",
+        "That dinosaur is more tall than me."
+      ],
+      "answer": "That dinosaur is taller than me.",
+      "explanation": "比较级句型为 A + be + adj-er + than + B。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "english-g6down-u1-kp20",
+  "title": "词汇翻译",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 16,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词汇翻译",
+      "question": "将下列短语/单词与对应的中文意思连线。",
+      "options": [
+        "how tall",
+        "how heavy",
+        "smaller",
+        "thinner",
+        "更瘦的",
+        "更小的",
+        "多高",
+        "多重"
+      ],
+      "answer": "A-3,B-4,C-2,D-1",
+      "explanation": "how tall询问身高；how heavy询问体重；smaller更小；thinner更瘦。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词汇翻译",
+      "question": "将下列核心词汇与对应中文意思连线。",
+      "options": [
+        "shadow",
+        "dinosaur",
+        "stronger",
+        "younger",
+        "恐龙",
+        "更强壮的",
+        "更年轻的",
+        "影子"
+      ],
+      "answer": "A-4,B-1,C-2,D-3",
+      "explanation": "shadow影子；dinosaur恐龙；stronger更强壮；younger更年轻。"
+    }
+  ],
+  "knowledge": null
+}

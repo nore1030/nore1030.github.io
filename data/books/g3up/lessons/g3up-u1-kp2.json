@@ -1,0 +1,140 @@
+{
+  "id": "g3up-u1-kp2",
+  "title": "时间单位间的换算",
+  "bookId": "g3up",
+  "unitNumber": 1,
+  "unitTitle": "时、分、秒",
+  "kpIndex": 1,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "时间单位间的换算",
+      "question": "1分等于60秒。",
+      "options": [],
+      "answer": "对",
+      "explanation": "根据时间单位进率可知，1分=60秒。秒针走1圈（60秒），分针正好走1小格（1分）。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "时间单位间的换算",
+      "question": "120秒就是12分。",
+      "options": [],
+      "answer": "错",
+      "explanation": "1分=60秒，2分=120秒。120秒应该是2分而不是12分。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间单位间的换算",
+      "question": "在 $\\bigcirc$ 里填上合适的符号：2分 $\\bigcirc$ 100秒。",
+      "options": [
+        ">",
+        "<",
+        "内",
+        "≈"
+      ],
+      "answer": ">",
+      "explanation": "1分=60秒，2分=120秒。因为 $120 > 100$，所以 2分 > 100秒。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间单位间的换算",
+      "question": "下图中，（    ）的时间最短。",
+      "options": [
+        "1时",
+        "1分",
+        "1秒",
+        "60秒"
+      ],
+      "answer": "1秒",
+      "explanation": "时间单位从大到小排列是：时 > 分 > 秒。1分等于60秒。因此1秒最短。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间单位间的换算",
+      "question": "3时等于（    ）分。",
+      "options": [
+        "30",
+        "180",
+        "120",
+        "300"
+      ],
+      "answer": "180",
+      "explanation": "1时=60分，3时就是3个60分。$60 + 60 + 60 = 180$ 分。"
+    },
+    {
+      "id": 18,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间单位间的换算",
+      "question": "1分-20秒=（    ）秒。",
+      "options": [
+        "80",
+        "40",
+        "10",
+        "120"
+      ],
+      "answer": "40",
+      "explanation": "1分 = 60秒。$60 - 20 = 40$ 秒。"
+    },
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间单位间的换算",
+      "question": "2分 = ___ 秒。",
+      "options": [],
+      "answer": "120",
+      "explanation": "1分 = 60秒，2分有2个60秒，$60 + 60 = 120$。因此填120。"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "时间单位间的换算",
+      "question": "小明每天睡眠 9 小时，9 小时 = ___ 分钟。",
+      "options": [],
+      "answer": "540",
+      "explanation": "1小时 = 60分。$9 \\times 60 = 540$ 分钟。验算：$540 \\div 60 = 9$ ✓。"
+    },
+    {
+      "id": 22,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "时间单位间的换算",
+      "question": "60 + 60 + 60 = ?",
+      "options": [],
+      "answer": "180",
+      "explanation": "$60 + 60 + 60 = 180$。验算：$180 \\div 3 = 60$ ✓。该题对应3小时换算为分钟的计算步骤。"
+    }
+  ],
+  "knowledge": {
+    "point": "时间单位间的换算",
+    "core_concept": "掌握时、分、秒之间的60进制进率。1时=60分，1分=60秒。大单位化小单位用乘法（即加法累加），小单位化大单位看里面包含几个60。",
+    "key_formula": "$1\\text{时} = 60\\text{分}, 1\\text{分} = 60\\text{秒}$",
+    "common_mistakes": [
+      "受十进制影响，错误认为1分=100秒。",
+      "换算3时等于多少分时，错误相加得到90分（将60记成30）。"
+    ],
+    "tips": "牢记“60”这个关键常数，换算时可以画箭头标记方向。"
+  }
+}

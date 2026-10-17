@@ -1,0 +1,59 @@
+{
+  "id": "english-g5up-u5-kp4",
+  "title": "语音：字母组合ai和ay的发音",
+  "bookId": "english-g5up",
+  "unitNumber": 5,
+  "unitTitle": "There is a big bed",
+  "kpIndex": 3,
+  "kpTotal": 4,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "语音：字母组合ai和ay的发音",
+      "question": "单词 'rainy' 和 'Monday' 中的字母组合发音相同。",
+      "options": [],
+      "answer": "对",
+      "explanation": "ai 和 ay 在这些词中都发 /eɪ/。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母组合ai和ay的发音",
+      "question": "Which word has a different sound? (哪个单词发音不同？)",
+      "options": [
+        "rain",
+        "wait",
+        "day",
+        "bad"
+      ],
+      "answer": "bad",
+      "explanation": "rain, wait, day 都发 /eɪ/，而 bad 发 /æ/。"
+    },
+    {
+      "id": 21,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "语音：字母组合ai和ay的发音",
+      "question": "将含有相同发音字母组合的单词与中文对应。",
+      "options": [
+        "rainy",
+        "Monday",
+        "wait",
+        "say",
+        "周一",
+        "说",
+        "下雨的",
+        "等待"
+      ],
+      "answer": "A-3,B-1,C-4,D-2",
+      "explanation": "根据词义对应：rainy-下雨的; Monday-周一; wait-等待; say-说。"
+    }
+  ],
+  "knowledge": null
+}

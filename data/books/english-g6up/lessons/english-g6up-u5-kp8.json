@@ -1,0 +1,23 @@
+{
+  "id": "english-g6up-u5-kp8",
+  "title": "交通方式表达",
+  "bookId": "english-g6up",
+  "unitNumber": 5,
+  "unitTitle": "What does he do?",
+  "kpIndex": 4,
+  "kpTotal": 22,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "交通方式表达",
+      "question": "'by bike' 意为'骑自行车'。",
+      "options": [],
+      "answer": "对",
+      "explanation": "by + 交通工具 表示通过某种方式。"
+    }
+  ],
+  "knowledge": null
+}

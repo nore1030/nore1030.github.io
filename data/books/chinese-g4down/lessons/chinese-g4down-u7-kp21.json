@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp21",
+  "title": "文章关键信息",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 17,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "文章关键信息",
+      "question": "哈尔威船长在指挥自救时，首先保护的是（ ）。",
+      "options": [],
+      "answer": "妇女儿童",
+      "explanation": "在危急关头，船长先救最弱小的群体。"
+    }
+  ],
+  "knowledge": null
+}

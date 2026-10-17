@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g1up-u8-kp7",
+  "title": "古诗积累",
+  "bookId": "chinese-g1up",
+  "unitNumber": 8,
+  "unitTitle": "期末归纳与综合运用",
+  "kpIndex": 6,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗积累",
+      "question": "“小时不识月，呼作（）盘。”",
+      "options": [],
+      "answer": "白玉",
+      "explanation": "出自李白的《古朗月行》。"
+    }
+  ],
+  "knowledge": null
+}

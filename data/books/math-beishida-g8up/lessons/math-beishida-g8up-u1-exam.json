@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g8up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-beishida-g8up",
+  "unitNumber": 1,
+  "unitTitle": "勾股定理",
+  "kpIndex": 1,
+  "kpTotal": 1,
+  "questions": [
+    {
+      "id": 5,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "直角三角形两直角边为 5、12，斜边为（　）",
+      "options": [
+        "13",
+        "17",
+        "15",
+        "$\\sqrt{169}$"
+      ],
+      "answer": "13",
+      "explanation": "5-12-13 勾股数。"
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "三边满足 $a^2+b^2=c^2$ 的三角形是直角三角形。",
+      "options": [],
+      "answer": "对",
+      "explanation": "逆定理。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "下列各组数中能构成直角三角形三边的是（　）",
+      "options": [
+        "3, 4, 5",
+        "2, 3, 4",
+        "1, 2, 3",
+        "4, 5, 6"
+      ],
+      "answer": "3, 4, 5",
+      "explanation": "3-4-5 构成直角三角形。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 4,
+      "knowledge_point": "勾股定理及其证明",
+      "question": "面积相等的两个直角三角形不一定全等。",
+      "options": [],
+      "answer": "对",
+      "explanation": "面积相等是全等条件之一但需另加条件。"
+    }
+  ],
+  "knowledge": null
+}

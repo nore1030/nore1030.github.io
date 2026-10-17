@@ -1,0 +1,23 @@
+{
+  "id": "science-g5down-u1-kp24",
+  "title": "食物网计算",
+  "bookId": "science-g5down",
+  "unitNumber": 1,
+  "unitTitle": "生物与环境",
+  "kpIndex": 16,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 19,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "食物网计算",
+      "question": "如果一个食物网由“草→兔→鹰”和“草→鼠→鹰”构成，此网中共有（ ）条食物链。",
+      "options": [],
+      "answer": "2",
+      "explanation": "草是起点，鹰是终点，共两条路径。"
+    }
+  ],
+  "knowledge": null
+}

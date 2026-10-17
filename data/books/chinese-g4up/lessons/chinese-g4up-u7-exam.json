@@ -1,0 +1,232 @@
+{
+  "id": "chinese-g4up-u7-exam",
+  "title": "第 7 单元挑战",
+  "bookId": "chinese-g4up",
+  "unitNumber": 7,
+  "unitTitle": "家国情怀",
+  "kpIndex": 12,
+  "kpTotal": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "理解重点词句的时代含义",
+      "question": "“为中华之崛起而读书”体现了周恩来宏大的抱负和爱国情怀。",
+      "options": [],
+      "answer": "对",
+      "explanation": "反映了少年周恩来深刻理解国家命运。"
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "梅兰芳在日本人的逼迫下，虽然忍受贫困，但从未动摇过演戏的念头。",
+      "options": [],
+      "answer": "错",
+      "explanation": "应该是从未动摇过“拒演”的念头。"
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "深刻含义理解",
+      "question": "《凉州词》中的“醉卧沙场君莫笑”流露出对战争的极度恐惧。",
+      "options": [],
+      "answer": "错",
+      "explanation": "该句表现的是将士们视死如归的豪情和豁达。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "时代背景理解",
+      "question": "当时的中国租界是受中国政府法律管辖的区域。",
+      "options": [],
+      "answer": "错",
+      "explanation": "租界是列强强占的，中国法律在那儿不起作用。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "“古来征战几人回”表达了边疆将士什么样的心声？",
+      "options": [
+        "对家乡的无比思念",
+        "对敌人的轻视",
+        "对生死的淡然与报国心",
+        "对奖赏的渴望"
+      ],
+      "answer": "对生死的淡然与报国心",
+      "explanation": "体现了边塞诗悲壮激昂的特点。"
+    },
+    {
+      "id": 8,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "梅兰芳在抗日战争期间剪掉胡须，又通过打防疫针使自己发高烧。这些行为的共同目的是：",
+      "options": [
+        "为了保持年轻面容",
+        "为了治疗突发疾病",
+        "为了以生病为由拒给日寇表演",
+        "为了练习新的戏曲表演方式"
+      ],
+      "answer": "为了以生病为由拒给日寇表演",
+      "explanation": "这是艺术家为了民族大义做出的自我牺牲。"
+    },
+    {
+      "id": 10,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "词语释义",
+      "question": "“顾盼自雄”中“顾”的意思是：",
+      "options": [
+        "照看",
+        "回头看",
+        "拜访",
+        "考虑"
+      ],
+      "answer": "回头看",
+      "explanation": "顾盼指左看右看，回头看。"
+    },
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "修辞方法",
+      "question": "“欲饮琵琶马上催”运用了哪种含蓄的修辞？",
+      "options": [
+        "借代",
+        "拟人",
+        "夸张",
+        "反问"
+      ],
+      "answer": "借代",
+      "explanation": "以“琵琶”乐声借代奏乐的人或一种气氛。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解重点词句的时代含义",
+      "question": "阅读《为中华之崛起而读书》，修身课上魏校长问大家为什么而读书，周恩来的回答令校长“振奋”，主要是因为周恩来的志向：",
+      "options": [
+        "声音宏亮",
+        "与众不同，心系国家",
+        "为了个人前程",
+        "为了光耀门楣"
+      ],
+      "answer": "与众不同，心系国家",
+      "explanation": "在他人为功名利禄读书时，他却为民族复兴。"
+    },
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "古诗意境",
+      "question": "《出塞》中引用“飞将军”李广的典故，表达了：",
+      "options": [
+        "对名将的怀念及对国家统一的期盼",
+        "对历史故事的好奇",
+        "对战争的歌颂",
+        "李广很会打仗"
+      ],
+      "answer": "对名将的怀念及对国家统一的期盼",
+      "explanation": "表达了对当下缺乏良将、边事未平的叹息。"
+    },
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "爱国古诗的背诵与领悟",
+      "question": "《夏日绝句》中，“至今思项羽”的原因是因为他“不肯过（   ）”。",
+      "options": [],
+      "answer": "江东",
+      "explanation": "江东指长江以东，项羽兵败至此不愿渡江。"
+    },
+    {
+      "id": 17,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "人物气节与品质赏析",
+      "question": "梅兰芳被迫避居香港。为了不给日本人演戏，他（   ）了。 ",
+      "options": [],
+      "answer": "蓄须",
+      "explanation": "蓄须是他作为艺术家最明显的拒演标志。"
+    },
+    {
+      "id": 19,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "古诗词义辨析",
+      "question": "请将下列诗句中的称呼与代表的意思相对应：",
+      "options": [
+        "胡马",
+        "飞将",
+        "人杰",
+        "鬼雄",
+        "英勇的人",
+        "入寇的敌骑",
+        "鬼中的英雄",
+        "李广将军"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "胡马-敌骑；飞将-李广；人杰-英勇的人；鬼雄-鬼中英雄。"
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "词语结构",
+      "question": "请给下列生字与正确的部首连线：",
+      "options": [
+        "崛",
+        "振",
+        "塞",
+        "拒",
+        "土部",
+        "山部",
+        "手部(扌)",
+        "提手旁"
+      ],
+      "answer": "A-2,B-4,C-1,D-3",
+      "explanation": "崛起-山；振-提手；塞-土部；拒-扌。"
+    },
+    {
+      "id": 22,
+      "type": "word_order",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "理解重点词句的时代含义",
+      "question": "请排序下面反映爱国情感的句子的词语：",
+      "options": [
+        "每个人的",
+        "应该",
+        "命运",
+        "国家",
+        "与",
+        "紧密相连"
+      ],
+      "answer": "每个人的,命运,应该,与,国家,紧密相连",
+      "explanation": "训练学生构建宏大的家国叙事语境。"
+    }
+  ],
+  "knowledge": null
+}

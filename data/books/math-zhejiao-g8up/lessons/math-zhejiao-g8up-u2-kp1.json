@@ -1,0 +1,47 @@
+{
+  "id": "math-zhejiao-g8up-u2-kp1",
+  "title": "无理数与实数",
+  "bookId": "math-zhejiao-g8up",
+  "unitNumber": 2,
+  "unitTitle": "实数与数轴",
+  "kpIndex": 0,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 1,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 3,
+      "knowledge_point": "无理数与实数",
+      "question": "下列说法正确的是（　）",
+      "options": [
+        "无理数也属于实数",
+        "无理数不是实数",
+        "有理数不包括整数",
+        "实数只包括有理数"
+      ],
+      "answer": "无理数也属于实数",
+      "explanation": "无理数属实数。"
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 3,
+      "knowledge_point": "无理数与实数",
+      "question": "有理数与无理数统称实数。",
+      "options": [],
+      "answer": "对",
+      "explanation": "实数分类。"
+    }
+  ],
+  "knowledge": {
+    "point": "无理数与实数",
+    "core_concept": "无理数与有理数统称实数。实数与数轴上的点一一对应。",
+    "key_formula": "实数 = 有理数 + 无理数",
+    "common_mistakes": [
+      "认为无理数不是实数。"
+    ],
+    "tips": "无理数属实数。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "english-g4up-u6-kp15",
+  "title": "人称代词",
+  "bookId": "english-g4up",
+  "unitNumber": 6,
+  "unitTitle": "Meet my family!",
+  "kpIndex": 11,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "人称代词",
+      "question": "Introduce my family. This is ______ aunt.",
+      "options": [
+        "my",
+        "I",
+        "me",
+        "mine"
+      ],
+      "answer": "my",
+      "explanation": "我的婶婶，用形容词性物主代词 my。"
+    }
+  ],
+  "knowledge": null
+}

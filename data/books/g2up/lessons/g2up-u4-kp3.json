@@ -1,0 +1,102 @@
+{
+  "id": "g2up-u4-kp3",
+  "title": "乘加、乘减混合运算",
+  "bookId": "g2up",
+  "unitNumber": 4,
+  "unitTitle": "表内乘法（一）",
+  "kpIndex": 2,
+  "kpTotal": 3,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "算式 $3 \\times 4 + 5$ 的计算结果是 17。",
+      "options": [],
+      "answer": "对",
+      "explanation": "按运算顺序先算乘法 $3 \\times 4 = 12$，再算加法 $12 + 5 = 17$。验算：$12+5=17$ ✓。"
+    },
+    {
+      "id": 9,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "明明买了 3 盒水彩笔，每盒 6 支。送给好朋友 4 支后，还剩多少支？",
+      "options": [
+        "22",
+        "14",
+        "10",
+        "24"
+      ],
+      "answer": "14",
+      "explanation": "先求总支数：$3 \\times 6 = 18$（支），再减去送掉的：$18 - 4 = 14$（支）。验算：$14 + 4 = 18$ ✓。"
+    },
+    {
+      "id": 13,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "比较 $4 \\times 3 + 4$ 与 $4 \\times 4$ 的大小结果是：",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "≈"
+      ],
+      "answer": "=",
+      "explanation": "$4 \\times 3 + 4 = 12 + 4 = 16$；$4 \\times 4 = 16$。两者相等。"
+    },
+    {
+      "id": 15,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "计算 $5 \\times 4 - 3$ 时，应先算：",
+      "options": [
+        "减法",
+        "乘法",
+        "加法",
+        "都可以"
+      ],
+      "answer": "乘法",
+      "explanation": "在乘减混合运算中，应先算乘法，再算减法。"
+    },
+    {
+      "id": 20,
+      "type": "fill_blank",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "教室里有 4 排桌子，每排有 5 张，后来又搬走 3 张，现在教室里剩下 ___ 张桌子。",
+      "options": [],
+      "answer": "17",
+      "explanation": "先前总数：$4 \\times 5 = 20$（张）。搬走后剩下：$20 - 3 = 17$（张）。验算：$17+3=20$ ✓。"
+    },
+    {
+      "id": 23,
+      "type": "calculation",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "乘加、乘减混合运算",
+      "question": "计算：$4 \\times 6 + 2 = ?$",
+      "options": [],
+      "answer": "26",
+      "explanation": "先算 $4 \\times 6 = 24$，再算 $24 + 2 = 26$。验算：$26 - 2 = 24$, $24 \\div 4 = 6$ ✓。"
+    }
+  ],
+  "knowledge": {
+    "point": "乘加、乘减混合运算",
+    "core_concept": "在一个算式里既有乘法又有加法或减法时，要先计算乘法，再计算加减法。这是数学中规定的运算顺序。",
+    "key_formula": "先乘后加减",
+    "common_mistakes": [
+      "按照从左往右的顺序先算了加减法",
+      "在计算乘减法时，如 $5 \\times 3 - 2$，计算乘法后忘记减去后面的数"
+    ],
+    "tips": "解题时可以先在乘法算式下面画一个小横线，提醒自己这一步要先算。"
+  }
+}

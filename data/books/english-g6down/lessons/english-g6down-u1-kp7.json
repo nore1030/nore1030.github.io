@@ -1,0 +1,23 @@
+{
+  "id": "english-g6down-u1-kp7",
+  "title": "形容词意义",
+  "bookId": "english-g6down",
+  "unitNumber": 1,
+  "unitTitle": "Unit 1 How tall are you?",
+  "kpIndex": 3,
+  "kpTotal": 19,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "形容词意义",
+      "question": "'shorter' 只能用来表示 '更矮'，不能表示 '更短'。",
+      "options": [],
+      "answer": "错",
+      "explanation": "short既可以指身高矮，也可以指长度短。"
+    }
+  ],
+  "knowledge": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g3down-u8-kp11",
+  "title": "近义词辨析",
+  "bookId": "chinese-g3down",
+  "unitNumber": 8,
+  "unitTitle": "有趣的故事",
+  "kpIndex": 9,
+  "kpTotal": 20,
+  "questions": [
+    {
+      "id": 11,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "近义词辨析",
+      "question": "下列词语中，能和“惊讶”组成近义词的是：",
+      "options": [
+        "淡定",
+        "惊奇",
+        "冷静",
+        "平凡"
+      ],
+      "answer": "惊奇",
+      "explanation": "惊讶和惊奇都表示感到意外、奇怪。"
+    }
+  ],
+  "knowledge": null
+}

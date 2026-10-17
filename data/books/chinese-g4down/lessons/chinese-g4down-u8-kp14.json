@@ -1,0 +1,28 @@
+{
+  "id": "chinese-g4down-u8-kp14",
+  "title": "阅读理解",
+  "bookId": "chinese-g4down",
+  "unitNumber": 8,
+  "unitTitle": "童话世界",
+  "kpIndex": 12,
+  "kpTotal": 21,
+  "questions": [
+    {
+      "id": 14,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "阅读理解",
+      "question": "《巨人的花园》告诉了我们什么道理？",
+      "options": [
+        "花园如果不围墙，花儿就会谢",
+        "只有北风才喜欢寒冷",
+        "孤独的人永远长不大",
+        "快乐应当与大家分享"
+      ],
+      "answer": "快乐应当与大家分享",
+      "explanation": "当巨人拆开围墙让孩子进来，花园才恢复了春天。"
+    }
+  ],
+  "knowledge": null
+}

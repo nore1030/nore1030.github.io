@@ -1,0 +1,23 @@
+{
+  "id": "english-g5down-u4-kp8",
+  "title": "序数词的拼写",
+  "bookId": "english-g5down",
+  "unitNumber": 4,
+  "unitTitle": "When is the art show?",
+  "kpIndex": 4,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 4,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "序数词的拼写",
+      "question": "'twelfth' 的拼写是正确的（第十二）。",
+      "options": [],
+      "answer": "对",
+      "explanation": "twelve变序数词需要把ve变成f再加th。"
+    }
+  ],
+  "knowledge": null
+}

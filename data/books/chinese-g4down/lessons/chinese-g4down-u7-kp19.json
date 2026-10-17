@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g4down-u7-kp19",
+  "title": "古诗填空",
+  "bookId": "chinese-g4down",
+  "unitNumber": 7,
+  "unitTitle": "为人处世",
+  "kpIndex": 15,
+  "kpTotal": 23,
+  "questions": [
+    {
+      "id": 16,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 1,
+      "knowledge_point": "古诗填空",
+      "question": "“我家洗砚池头树，朵朵花开（ ）。”",
+      "options": [],
+      "answer": "淡墨痕",
+      "explanation": "选自王冕的《墨梅》。"
+    }
+  ],
+  "knowledge": null
+}

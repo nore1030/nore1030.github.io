@@ -1,0 +1,23 @@
+{
+  "id": "chinese-g3down-u4-kp11",
+  "title": "近义词填空",
+  "bookId": "chinese-g3down",
+  "unitNumber": 4,
+  "unitTitle": "观察与发现",
+  "kpIndex": 10,
+  "kpTotal": 16,
+  "questions": [
+    {
+      "id": 18,
+      "type": "fill_blank_text",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "近义词填空",
+      "question": "“这缸虾变得十分（___）。”（填入表示非常生气的词）",
+      "options": [],
+      "answer": "凶猛",
+      "explanation": "文中用来表现虾打斗时的样子。"
+    }
+  ],
+  "knowledge": null
+}

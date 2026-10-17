@@ -1,0 +1,66 @@
+{
+  "id": "math-beishida-g1up-u1-exam",
+  "title": "第 1 单元挑战",
+  "bookId": "math-beishida-g1up",
+  "unitNumber": 1,
+  "unitTitle": "可爱的校园 · 生活中的数",
+  "kpIndex": 2,
+  "kpTotal": 2,
+  "questions": [
+    {
+      "id": 5,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 1,
+      "knowledge_point": "数数 1~10",
+      "question": "数数时不能重复也不能遗漏。",
+      "options": [],
+      "answer": "对",
+      "explanation": "一一对应。"
+    },
+    {
+      "id": 6,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "数数 1~10",
+      "question": "1, 2, 3, ___，横线上应填（　）",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "3 后面是 4。"
+    },
+    {
+      "id": 7,
+      "type": "choice",
+      "score": 5,
+      "difficulty": 2,
+      "knowledge_point": "0 的认识",
+      "question": "0 比 1（　）",
+      "options": [
+        "小",
+        "大",
+        "一样大",
+        "无法比较"
+      ],
+      "answer": "小",
+      "explanation": "0 < 1。"
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "score": 2,
+      "difficulty": 2,
+      "knowledge_point": "0 的认识",
+      "question": "直尺上的刻度从 0 开始。",
+      "options": [],
+      "answer": "对",
+      "explanation": "0 可以表示起点。"
+    }
+  ],
+  "knowledge": null
+}
